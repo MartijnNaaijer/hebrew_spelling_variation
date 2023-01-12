@@ -9,14 +9,17 @@ The MT dataset is based on the text-fabric dataset Biblia Hebraica Stuttgartensi
 (see github.com/etcbc/bhsa).
 The DSS dataset is based on the text-fabric dataset DSS (see github.com/etcbc/dss).
 
-TODO: add SP dataset.
+TODO: add processing of SP data.
 """
 
-from config import bhsa_version, dss_version
+from config import bhsa_version, dss_version, sp_version
 
 from tf.app import use
 DSS = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
 Fdss, Ldss, Tdss = DSS.api.F, DSS.api.L, DSS.api.T
+
+SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
+Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
 
 MT = use('etcbc/bhsa', version=bhsa_version)
 MT.load(['g_prs', 'g_nme'])
@@ -390,6 +393,16 @@ class Corpus:
                     word_processor = MTWordProcessor(wo)
                     mt_word_object = word_processor.create_word()
                     scroll.verses[(bo, int(ch), int(ve))].words.append(mt_word_object)
+
+    def add_sp(self):
+        """
+        Adds the Samaritan Pentateuch to the corpus.
+        """
+        scroll = Scroll('SP')
+        self.scrolls['SP'] = scroll
+
+        # TODO: add SP word creation
+
 
 
 
