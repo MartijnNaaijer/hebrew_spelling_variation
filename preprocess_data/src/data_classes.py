@@ -77,12 +77,6 @@ class Scroll:
         self.words = []
 
 
-#class TextCorpus:
-#    def __init__(self, corpus):
-#        self.corpus = corpus
-#        self.scrolls = {}
-
-
 class MTWordProcessor:
     """"""
 
@@ -332,18 +326,12 @@ class DSSWordProcessor:
             return None
         return state
 
-class TextCorpus:
-    def __init__(self, corpus):
-        self.corpus = corpus
-        self.scrolls = {}
-
 
 class Corpus:
     """"""
 
     def __init__(self, corpus_name):
         self.corpus_name = corpus_name
-        #self.text_corpus_bib = TextCorpus(corpus_name)
         self.scrolls = {}
         self.scroll_set = set()
         self.scroll_verse_set = set()
@@ -352,7 +340,11 @@ class Corpus:
         self.add_mt()
 
     def add_dss(self):
-        """"""
+        """
+        add_dss adds the DSS data to the corpus.
+        It creates Scroll objects,
+        and adds Verse and WOrds objects to them.
+        """
         for scr in Fdss.otype.s('scroll'):
             scroll_name = Tdss.scrollName(scr)
             if scroll_name not in self.scroll_set:
@@ -381,7 +373,9 @@ class Corpus:
                 self.scrolls[scroll_name].verses[(bo, int(ch), int(ve))].words.append(dss_word_object)
 
     def add_mt(self):
-        """"""
+        """
+        Does the same as add_dss, but then for the MT data.
+        """
         scroll = Scroll('MT')
         self.scrolls['MT'] = scroll
 
