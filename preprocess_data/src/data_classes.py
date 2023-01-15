@@ -497,15 +497,12 @@ class Corpus:
             verses = Lsp.d(b, 'verse')
             for v in verses:
                 bo, ch, ve = Tsp.sectionFromNode(v)
-                print(bo, ch, ve)
                 verse = Verse('SP', bo, ch, ve)
                 scroll.verses[(bo, int(ch), ve)] = verse
                 words = Lsp.d(v, 'word')
                 for wo in words:
-                    print(wo)
                     word_processor = SPWordProcessor(wo)
                     sp_word_object = word_processor.create_word()
-                    print(sp_word_object)
                     scroll.verses[(bo, int(ch), ve)].words.append(sp_word_object)
 
 
