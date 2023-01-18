@@ -112,7 +112,7 @@ class MatresParserBHSA:
         mother_condition = {'>': char_groups[idx - 1][-1] in self.pointing or (
                     idx == len(char_groups) - 1 and (self.word_text.endswith('W>') or self.word_text.endswith('J>'))),
                             'J': char_groups[idx - 1][-1] in {';', 'I', 'E'},
-                            'W': char_groups[idx - 1][-1] == 'O' or char_groups[idx - 1][-1] == '>',
+                            'W': char_groups[idx - 1][-1] in {'O', 'U'} or char_groups[idx - 1][-1] == '>',
                             'H': idx == len(char_groups) - 1
                             }
 
@@ -137,8 +137,8 @@ class MTMatresProcessor:
 
         for verse in F.otype.s('verse'):
             voc_verse = VocalizedGraphicalUnits(verse)
-
             for w, w_ids in zip(voc_verse.vocalized_text, voc_verse.word_ids):
+
                 if '*' in w:  # do not include ketiv qere cases
                     continue
 

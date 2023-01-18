@@ -155,7 +155,7 @@ class MTWordProcessor:
     def get_he_locale(self):
         if F.uvf.v(self.tf_id) == 'H':
             return 'H'
-        return None
+        return ''
 
     def get_prs(self):
         suff = F.g_prs.v(self.tf_id)
@@ -183,7 +183,7 @@ class DSSWordProcessor:
         self.lexeme = Fdss.lex_etcbc.v(tf_id)
         self.glyphs = None
         self.hloc = self.get_he_locale()
-        self.prs = None
+        self.prs = ''
         self.sp = Fdss.sp_etcbc.v(tf_id)
         self.number = self.get_number()
         self.person = Fdss.ps_etcbc.v(tf_id)
@@ -289,11 +289,12 @@ class DSSWordProcessor:
 
     def get_he_locale(self):
         """
-        Retrieve he locale from morpho string
+        Retrieve he locale from feature uvf_etcbc.
+
         """
-        if Fdss.morpho.v(self.tf_id) and Fdss.morpho.v(self.tf_id).endswith('Xd'):
+        if Fdss.uvf_etcbc.v(self.tf_id) == 'H':
             return 'H'
-        return None
+        return ''
 
     def get_pronominal_suffix(self, glyphs):
         """
@@ -337,7 +338,6 @@ class SPWordProcessor:
         self.prs_chars = {'>', 'D', 'H', 'J', 'K', 'M', 'N', 'W'}
         self.consonants = {'<', '>', 'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
                            'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#'}
-        #self.h_lexemes = {'MKSH=/', 'M<FH/', 'MR>H/', 'PH/', 'MCTH/'}
 
         self.tf_id = tf_id
         self.book = Fsp.book.v(tf_id)
