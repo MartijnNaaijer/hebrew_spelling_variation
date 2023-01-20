@@ -5,7 +5,7 @@ from Bio.Seq import Seq
 import pandas as pd
 
 from data_classes import F, L, T, Fdss, Ldss, Tdss
-from special_data import j_lexemes
+from special_data import j_lexemes, df_columns
 
 
 def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
@@ -248,10 +248,8 @@ class DSSMatresProcessor:
                                                                       w_obj.prefix_g_cons, w_obj.rec_signs,
                                                                       w_obj.cor_signs]
 
-    @staticmethod
-    def parse_matres(cases, stem, g_cons, prefix_g_cons, bo, ch, ve, scroll_name):
+    def parse_matres(self, cases, stem, g_cons, prefix_g_cons, bo, ch, ve, scroll_name):
 
-        #alignments, patterns, dash_counts = [], [], []
         align_and_mater_data = AlignAndMaterData()
         for case in cases:
             stem_l, matres_pattern_l, prefix_g_cons_bhsa = case
@@ -261,39 +259,33 @@ class DSSMatresProcessor:
                 if not ((prefix_g_cons_bhsa in prefix_g_cons) or (prefix_g_cons in prefix_g_cons_bhsa)):
                     continue
             mt_dss_alignments = MTDSSAlignments(stem_l, stem, matres_pattern_l)
-            #al_l, al_dss = align_verses(stem_l, stem)
-            align_and_mater_data.alignments.append(mt_dss_alignments) # ((al_l, al_dss))
-            #align_and_mater_data.dash_counts.append((al_l + al_dss).count('-'))
+            align_and_mater_data.alignments.append(mt_dss_alignments)
 
         all_dash_counts = [al.dash_count for al in align_and_mater_data.alignments]
         if not all_dash_counts:  # returns empty pattern, only a few cases.
             return ''
 
         min_dashes = min(all_dash_counts)
+
         dss_patterns_one_word = []
         for alignment_data in align_and_mater_data.alignments:
 
-        #for als, pat, counts in zip(alignments, patterns, dash_counts):
             if alignment_data.dash_count == min_dashes:
                 dashed_pattern = mt_dss_alignments.add_dashes()
-                dss_pattern = ''
-                for idx, (pattern_char, char) in enumerate(zip(dashed_pattern, mt_dss_alignments.dss_aligned)):
-                    if '-' in mt_dss_alignments.dss_aligned and idx == len(mt_dss_alignments.dss_aligned.rstrip('-')) - 1 and char in {'>', 'J', 'W'}:
-                        dss_pattern += 'M'
-                        continue
-                    if char == '-':
-                        continue
-                    if pattern_char in {'M', 'C'}:
-                        dss_pattern += pattern_char
-                    else:
-                        if char in {'>', 'J', 'W'}:
-                            dss_pattern += 'M'
-                        else:
-                            dss_pattern += 'C'
+
+                dss_pattern_builder = DSSPatternBuilder(dashed_pattern, mt_dss_alignments.dss_aligned)
+                dss_pattern = dss_pattern_builder.build_dss_pattern()
+
                 dss_patterns_one_word.append((g_cons, mt_dss_alignments.dss_aligned.replace('-', ''), dss_pattern, bo, ch, ve, scroll_name))
         pattern_counts = collections.Counter(dss_patterns_one_word)
-        pattern = ''
 
+        pattern = self.select_pattern(pattern_counts)
+
+        return pattern
+
+    @staticmethod
+    def select_pattern(pattern_counts):
+        pattern = ''
         if len(pattern_counts) == 1:
             pattern = list(pattern_counts.keys())[0][2]
 
@@ -313,11 +305,38 @@ class DSSMatresProcessor:
 
     def save_dss_data(self):
         dss_matres_df = pd.DataFrame(self.matres_dss_dict).T
-        dss_matres_df.columns = ['tf_id', 'scroll', 'book', 'chapter', 'verse', 'lex', 'g_cons', 'stem', 'pattern',
-                                 'pattern_g_cons', 'vs', 'vt', 'nu', 'gn', 'ps', 'sp', 'prs', 'nme', 'hloc',
-                                 'prefix_g_cons', 'rec_signs', 'cor_signs']
+        dss_matres_df.columns = df_columns
         self.dss_matres_df = dss_matres_df
         dss_matres_df.to_csv('../data/matres_dss.csv', sep='\t', index=False)
+
+
+class DSSPatternBuilder:
+    def __init__(self, dashed_mt_pattern, dss_alignment):
+        self.dashed_mt_pattern = dashed_mt_pattern
+        self.dss_alignment = dss_alignment
+        self.dss_pattern = ''
+
+    def build_dss_pattern(self):
+        """
+        Builds the matres pattern for a DSS word by comparing its dashed consonantal representation with the dashed
+        MT matres pattern.
+        """
+        for idx, (pattern_char, char) in enumerate(zip(self.dashed_mt_pattern, self.dss_alignment)):
+            if '-' in self.dss_alignment and idx == len(
+                    self.dss_alignment.rstrip('-')) - 1 and char in {'>', 'J', 'W'}:
+                self.dss_pattern += 'M'
+                continue
+            if char == '-':
+                continue
+            if pattern_char in {'M', 'C'}:
+                self.dss_pattern += pattern_char
+            else:
+                if char in {'>', 'J', 'W'}:
+                    self.dss_pattern += 'M'
+                else:
+                    self.dss_pattern += 'C'
+        return self.dss_pattern
+
 
 class MTDSSAlignments:
     def __init__(self, mt_text, dss_text, mt_pattern):
@@ -338,11 +357,12 @@ class MTDSSAlignments:
         return (self.mt_aligned + self.dss_aligned).count('-')
 
     def add_dashes(self):
-        """add dashes in the pattern (str) at the indices where they occur in the aligned text (str)"""
+        """Add dashes in the pattern (str) at the indices where they occur in the aligned text (str)"""
         for idx, char in enumerate(self.mt_aligned):
             if char == '-':
                 self.mt_pattern_dash = f'{self.mt_pattern_dash[:idx]}-{self.mt_pattern_dash[idx:]}'
         return self.mt_pattern_dash
+
 
 class AlignAndMaterData:
     def __init__(self):

@@ -6,3 +6,15 @@ j_lexemes = ['<BJ/', '<CTJ/', '<DJ/', '<J/', '<LJ/', '<NJ=/', '<PJ/', '>BWJ/', '
              'NCJ/', 'NDJ/', 'NHJ/', 'NJ/', 'NQJ/', 'PLMNJ/', 'PRJ/', 'PTJ/', 'PWYJ/', 'QCJ/', 'QLJ/', 'QRJ/', 'QWJ/',
              'R<J/', 'R>J=/', 'RJ/', 'RZJ/', 'SKJ/', 'TPTJ/', 'TXNTJ', 'TXTJ/', 'VRPLJ/', 'XFWPJ/', 'XJJM/', 'XLJ/',
              'XRJ=/', 'XWRJ/', 'XYJ/', 'XYJ=/', 'YBJ/', 'YJ/', 'YLJ/', 'YPWJ/', 'YRJ/', 'YRPJ/']
+
+df_columns = ['tf_id', 'scroll',
+              'book', 'chapter',
+              'verse', 'lex',
+              'g_cons', 'stem',
+              'pattern', 'pattern_g_cons',
+              'vs', 'vt',
+              'nu', 'gn',
+              'ps', 'sp',
+              'prs', 'nme',
+              'hloc', 'prefix_g_cons',
+              'rec_signs', 'cor_signs']

@@ -1,6 +1,7 @@
 import pandas as pd
 
 from data_classes import F, L, T, Fdss, Ldss, Tdss
+from special_data import df_columns
 
 
 class VocalizedGraphicalUnits:
@@ -213,15 +214,6 @@ class MTMatresProcessor:
 
     def save_mt_dataset(self):
         mt_matres_df = pd.DataFrame(self.bhsa_export_dict).T
-        mt_matres_df.columns = ['tf_id', 'scroll',
-                                'book', 'chapter',
-                                'verse', 'lex',
-                                'g_cons', 'stem',
-                                'pattern', 'pattern_g_cons',
-                                'vs', 'vt',
-                                'nu', 'gn', 'ps',
-                                'sp', 'prs',
-                                'nme', 'hloc',
-                                'prefix_g_cons', 'rec_signs', 'cor_signs']
+        mt_matres_df.columns = df_columns
         self.mt_matres_df = mt_matres_df
         mt_matres_df.to_csv('../data/matres_mt.csv', sep='\t', index=False)

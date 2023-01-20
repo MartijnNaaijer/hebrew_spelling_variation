@@ -105,8 +105,8 @@ class MTWordProcessor:
         self.vs = F.vs.v(tf_id)
         self.vt = F.vt.v(tf_id)
         self.lang = F.language.v(tf_id)
-        self.rec_signs = ''.join(['0' for char in self.glyphs])
-        self.cor_signs = ''.join(['0' for char in self.glyphs])
+        self.rec_signs = 'r' + ''.join(['0' for char in self.glyphs])
+        self.cor_signs = 'r' + ''.join(['0' for char in self.glyphs])
         self.stem = self.get_stem()
         self.nme = self.get_nme()
         self.prs = self.get_prs()
@@ -241,7 +241,7 @@ class DSSWordProcessor:
         and which signs are visible (0)
         """
         signs = Ldss.d(self.tf_id, 'sign')
-        return ''.join([str(Fdss.rec.v(s)) if Fdss.rec.v(s) == 1 else '0' for s in signs if Fdss.type.v(s) == 'cons'])
+        return 'r' + ''.join([str(Fdss.rec.v(s)) if Fdss.rec.v(s) == 1 else '0' for s in signs if Fdss.type.v(s) == 'cons'])
 
     def get_corrected_signs(self):
         """
@@ -252,7 +252,7 @@ class DSSWordProcessor:
         3: corrected by an ancient editor, supralinear
         """
         signs = Ldss.d(self.tf_id, 'sign')
-        return ''.join([str(Fdss.cor.v(s)) if Fdss.cor.v(s) == 1 else '0' for s in signs if Fdss.type.v(s) == 'cons'])
+        return 'r' + ''.join([str(Fdss.cor.v(s)) if Fdss.cor.v(s) == 1 else '0' for s in signs if Fdss.type.v(s) == 'cons'])
 
     def disambiguate_sin_shin(self, glyphs):
         """
@@ -354,8 +354,8 @@ class SPWordProcessor:
         self.vs = None # Todo: implement verbals stem
         self.vt = Fsp.vt.v(tf_id)
         self.lang = Fsp.language.v(tf_id)
-        self.rec_signs = ''.join(['0' for char in self.glyphs])
-        self.cor_signs = ''.join(['0' for char in self.glyphs])
+        self.rec_signs = 'r' + ''.join(['0' for char in self.glyphs])
+        self.cor_signs = 'r' + ''.join(['0' for char in self.glyphs])
         self.stem = self.get_stem()
         self.nme = self.get_nme()
         self.prs = self.get_prs()
