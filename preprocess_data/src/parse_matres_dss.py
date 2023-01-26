@@ -4,8 +4,9 @@ from Bio import pairwise2
 from Bio.Seq import Seq
 import pandas as pd
 
-from data_classes import F, L, T, Fdss, Ldss, Tdss
-from special_data import j_lexemes, df_columns
+from config import data_path
+from data_classes import F, L, T, Fdss, Ldss, Tdss, Scroll
+from special_data import j_lexemes, df_columns, fem_end_words
 
 
 def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
@@ -112,8 +113,6 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
         stem = stem[:-1]
         nme = '>' + nme
 
-    # Solution for masculine words with feminine plural endings.
-    fem_end_words = {'DWR/', 'MQWM/', '>RMWN/', '>WYR/', 'M>WR/', 'M<WN/', 'LWX/', '>RX/', 'ZMJR/', '<WN/'}
     if lex in fem_end_words:
         if nu == 'pl' and stem.endswith('T'):
             stem = stem[:-1]
@@ -158,9 +157,9 @@ class DSSMatresProcessor:
     Parser for vowel letters in the Biblical DSS. This is done by comparing a stem of a word in the DSS with
     stems of the same lexeme in the MT.
     """
-    def __init__(self, relevant_sps, corpus):
-        self.relevant_sps = relevant_sps
+    def __init__(self, corpus, relevant_sps):
         self.corpus = corpus
+        self.relevant_sps = relevant_sps
         self.stems_dict = self.make_stems_dict()
         self.biblical_sections = self.collect_biblical_sections()
         self.matres_dss_dict = {}
@@ -177,8 +176,8 @@ class DSSMatresProcessor:
         """
         stems_dict = collections.defaultdict(set)
 
-        for verse in self.corpus.scrolls['MT'].verses:
-            verse_obj = self.corpus.scrolls['MT'].verses[verse]
+        for verse in Scroll.scrolls['MT'].verses:
+            verse_obj = Scroll.scrolls['MT'].verses[verse]
             for word_obj in verse_obj.words:
                 if word_obj.sp in self.relevant_sps:
                     pattern = word_obj.matres_pattern[:len(word_obj.stem)]
@@ -192,7 +191,7 @@ class DSSMatresProcessor:
         returns set of tuples with biblical sections based on MT,
         e.g., ('Genesis', 1, 1)
         """
-        return set(self.corpus.scrolls['MT'].verses.keys())
+        return set(Scroll.scrolls['MT'].verses.keys())
 
     def check_word_conditions(self, word_obj):
         is_hebrew = word_obj.lang == 'Hebrew'
@@ -212,12 +211,12 @@ class DSSMatresProcessor:
         return prefix_g_cons
 
     def process_dss_scrolls(self):
-        for scroll_name in self.corpus.scrolls:
+        for scroll_name in Scroll.scrolls:
             if scroll_name == 'MT':
                 continue
             for section in self.biblical_sections:
-                if section in self.corpus.scrolls[scroll_name].verses:
-                    verse_obj = self.corpus.scrolls[scroll_name].verses[section]
+                if section in Scroll.scrolls[scroll_name].verses:
+                    verse_obj = Scroll.scrolls[scroll_name].verses[section]
                     word_objects = [word for word in verse_obj.words if self.check_word_conditions(word)]
                     for w_obj in word_objects:
                         w_obj.prefix_g_cons = self.parse_prefix_g_cons_dss(w_obj.tf_word_id)
@@ -249,8 +248,7 @@ class DSSMatresProcessor:
                                                                       w_obj.cor_signs]
 
     def parse_matres(self, cases, stem, g_cons, prefix_g_cons, bo, ch, ve, scroll_name):
-
-        align_and_mater_data = AlignAndMaterData()
+        alignment_and_mater_data = AlignAndMaterData()
         for case in cases:
             stem_l, matres_pattern_l, prefix_g_cons_bhsa = case
             if not (stem_l and stem):
@@ -259,16 +257,16 @@ class DSSMatresProcessor:
                 if not ((prefix_g_cons_bhsa in prefix_g_cons) or (prefix_g_cons in prefix_g_cons_bhsa)):
                     continue
             mt_dss_alignments = MTDSSAlignments(stem_l, stem, matres_pattern_l)
-            align_and_mater_data.alignments.append(mt_dss_alignments)
+            alignment_and_mater_data.alignments.append(mt_dss_alignments)
 
-        all_dash_counts = [al.dash_count for al in align_and_mater_data.alignments]
-        if not all_dash_counts:  # returns empty pattern, only a few cases.
+        if not alignment_and_mater_data.alignments:  # returns empty pattern, only a few cases.
             return ''
+        all_dash_counts = [al.dash_count for al in alignment_and_mater_data.alignments]
 
         min_dashes = min(all_dash_counts)
 
         dss_patterns_one_word = []
-        for alignment_data in align_and_mater_data.alignments:
+        for alignment_data in alignment_and_mater_data.alignments:
 
             if alignment_data.dash_count == min_dashes:
                 dashed_pattern = mt_dss_alignments.add_dashes()
@@ -307,7 +305,7 @@ class DSSMatresProcessor:
         dss_matres_df = pd.DataFrame(self.matres_dss_dict).T
         dss_matres_df.columns = df_columns
         self.dss_matres_df = dss_matres_df
-        dss_matres_df.to_csv('../data/matres_dss.csv', sep='\t', index=False)
+        dss_matres_df.to_csv(data_path, sep='\t', index=False)
 
 
 class DSSPatternBuilder:
@@ -339,6 +337,7 @@ class DSSPatternBuilder:
 
 
 class MTDSSAlignments:
+
     def __init__(self, mt_text, dss_text, mt_pattern):
         self.mt_text = mt_text
         self.dss_text = dss_text

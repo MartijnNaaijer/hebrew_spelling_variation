@@ -74,10 +74,13 @@ class Verse:
 
 
 class Scroll:
+    scrolls = {}
+
     def __init__(self, scroll_name):
         self.scroll_name = scroll_name
         self.verses = {}
         self.words = []
+        Scroll.scrolls[scroll_name] = self
 
 
 class MTWordProcessor:
@@ -424,7 +427,6 @@ class Corpus:
 
     def __init__(self, corpus_name):
         self.corpus_name = corpus_name
-        self.scrolls = {}
         self.scroll_set = set()
         self.scroll_verse_set = set()
 
@@ -440,9 +442,9 @@ class Corpus:
         """
         for scr in Fdss.otype.s('scroll'):
             scroll_name = Tdss.scrollName(scr)
+            # Is the if... needed? check: heeft te maken met 11q4 ezekiel/Psalms issue
             if scroll_name not in self.scroll_set:
                 scroll = Scroll(scroll_name)
-                self.scrolls[scroll_name] = scroll
             self.scroll_set.add(scroll_name)
 
             words = Ldss.d(scr, 'word')
@@ -450,9 +452,7 @@ class Corpus:
                 word_processor = DSSWordProcessor(wo)
                 dss_word_object = word_processor.create_word()
 
-                bo = dss_word_object.bo
-                ch = dss_word_object.ch
-                ve = dss_word_object.ve
+                bo, ch, ve = dss_word_object.bo, dss_word_object.ch, dss_word_object.ve
 
                 if not all([bo, ch, ve]) or ('f' in ch) or (dss_word_object.lex in {None, ''}):
                     continue
@@ -461,16 +461,15 @@ class Corpus:
                 if scroll_verse not in self.scroll_verse_set:
 
                     verse = Verse(scroll_name, bo, ch, ve)
-                    self.scrolls[scroll_name].verses[(bo, int(ch), int(ve))] = verse
+                    Scroll.scrolls[scroll_name].verses[(bo, int(ch), int(ve))] = verse
                 self.scroll_verse_set.add(scroll_verse)
-                self.scrolls[scroll_name].verses[(bo, int(ch), int(ve))].words.append(dss_word_object)
+                Scroll.scrolls[scroll_name].verses[(bo, int(ch), int(ve))].words.append(dss_word_object)
 
     def add_mt(self):
         """
         Does the same as add_dss, but then for the MT data.
         """
         scroll = Scroll('MT')
-        self.scrolls['MT'] = scroll
 
         for b in F.otype.s('book'):
             verses = L.d(b, 'verse')
@@ -491,7 +490,6 @@ class Corpus:
         This could become nasty somewhere. Todo: find solution for this.
         """
         scroll = Scroll('SP')
-        self.scrolls['SP'] = scroll
 
         for b in Fsp.otype.s('book'):
             verses = Lsp.d(b, 'verse')

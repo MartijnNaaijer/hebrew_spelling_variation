@@ -1,3 +1,14 @@
+"""
+
+
+"""
+
+# Plural as lexeme, occurring only as plural.
+no_ut_lexemes = {'TWY>WT/', 'NVJCWT/', 'TWLDWT/', 'BXWRWT/', '<LLWT/', 'XMDWT/'}
+
+# Solution for masculine words with feminine plural endings.
+fem_end_words = {'DWR/', 'MQWM/', '>RMWN/', '>WYR/', 'M>WR/', 'M<WN/', 'LWX/', '>RX/', 'ZMJR/', '<WN/'}
+
 j_lexemes = ['<BJ/', '<CTJ/', '<DJ/', '<J/', '<LJ/', '<NJ=/', '<PJ/', '>BWJ/', '>J=/', '>JTJ/', '>NJ/', '>PRSJ/',
              '>PRSKJ/', '>PRSTKJ/', '>RJ/', 'BKJ/', 'BLJ/', 'BLWJ/', 'CBJ/', 'CJ/', 'CLJ/', 'CMJM/', 'CNJ/', 'CPJ/',
              'CTJ/', 'CTJ=/', 'DJ/', 'DLJ/', 'DMJ/', 'DMJ=/', 'DPJ/', 'DWJ/', 'DXJ', 'FDJ/', 'GBJ/', 'GDJ/', 'GWJ/',

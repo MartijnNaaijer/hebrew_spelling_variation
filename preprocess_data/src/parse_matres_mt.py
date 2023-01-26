@@ -1,7 +1,8 @@
 import pandas as pd
 
-from data_classes import F, L, T, Fdss, Ldss, Tdss
-from special_data import df_columns
+from config import data_path
+from data_classes import F, L, T, Fdss, Ldss, Tdss, Scroll
+from special_data import df_columns, no_ut_lexemes
 
 
 class VocalizedGraphicalUnits:
@@ -124,8 +125,9 @@ class MatresParserBHSA:
 
 class MTMatresProcessor:
 
-    def __init__(self, corpus):
+    def __init__(self, corpus, relevant_sps):
         self.corpus = corpus
+        self.relevant_sps = relevant_sps
         self.matres_pattern_dict = {}
         self.bhsa_export_dict = {}
         self.mt_matres_df = None
@@ -133,6 +135,7 @@ class MTMatresProcessor:
         self.add_matres_and_prefix_to_words()
         self.export_mt_data()
         self.save_mt_dataset()
+        self.mt_matres_df_relevant_sps = self.mt_matres_df[self.mt_matres_df.sp.isin(self.relevant_sps)]
 
     def get_matres_patterns_in_mt(self):
 
@@ -167,13 +170,12 @@ class MTMatresProcessor:
     def parse_matres(self, word_text):
         matres_parser = MatresParserBHSA(word_text)
         parsed_matres = matres_parser.type_string
-        parsed_word = matres_parser.all_cons_groups
         parsed_matres = self.add_dashes(word_text, parsed_matres)
         return parsed_matres
 
     def add_matres_and_prefix_to_words(self):
-        for verse in self.corpus.scrolls['MT'].verses:
-            verse_obj = self.corpus.scrolls['MT'].verses[verse]
+        for verse in Scroll.scrolls['MT'].verses:
+            verse_obj = Scroll.scrolls['MT'].verses[verse]
             for word_obj in verse_obj.words:
                 matres_pat_with_pointing, matres_pat_no_pointing, prefixed_g_cons = self.matres_pattern_dict.get(
                     word_obj.tf_word_id, ('', '', ''))
@@ -181,17 +183,15 @@ class MTMatresProcessor:
                 word_obj.prefix_g_cons = prefixed_g_cons
 
     def export_mt_data(self):
-        for verse in self.corpus.scrolls['MT'].verses:
+        for verse in Scroll.scrolls['MT'].verses:
             bo, ch, ve = verse
-            verse_obj = self.corpus.scrolls['MT'].verses[verse]
+            verse_obj = Scroll.scrolls['MT'].verses[verse]
             for word in verse_obj.words:
                 if word.lang != 'Hebrew':
                     continue
                 g_cons = word.g_cons
                 stem = word.stem
                 # TODO: lines below in distinct function.
-                # Below are plural as lexeme, occurring only as plural.
-                no_ut_lexemes = {'TWY>WT/', 'NVJCWT/', 'TWLDWT/', 'BXWRWT/', '<LLWT/', 'XMDWT/'}
                 if word.gender == 'f' and word.lex.rstrip('/').rstrip('=').endswith('WT') and word.sp == 'subs' and not stem.endswith('T') and word.lex not in no_ut_lexemes:
                     nme = word.nme_cons.strip('T')
                     stem += 'T'
@@ -202,7 +202,7 @@ class MTMatresProcessor:
                 export_bhsa_list = [word.tf_word_id, 'MT', bo, ch, ve, word.lex, g_cons, stem,
                                     matres_pattern_stem, word.matres_pattern, word.vs, word.vt,
                                     word.number, word.gender, word.person, word.sp, word.prs_cons, nme, word.hloc,
-                                    word.prefix_g_cons, '0' * len(word.g_cons), '0' * len(word.g_cons),]
+                                    word.prefix_g_cons, '0' * len(word.g_cons), '0' * len(word.g_cons)]
 
                 self.bhsa_export_dict[word.tf_word_id] = export_bhsa_list
 
@@ -216,4 +216,4 @@ class MTMatresProcessor:
         mt_matres_df = pd.DataFrame(self.bhsa_export_dict).T
         mt_matres_df.columns = df_columns
         self.mt_matres_df = mt_matres_df
-        mt_matres_df.to_csv('../data/matres_mt.csv', sep='\t', index=False)
+        mt_matres_df.to_csv(data_path, sep='\t', index=False)
