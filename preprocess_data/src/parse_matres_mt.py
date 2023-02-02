@@ -1,8 +1,11 @@
+import os
 import pandas as pd
 
 from config import data_path
 from data_classes import F, L, T, Fdss, Ldss, Tdss, Scroll
 from special_data import df_columns, no_ut_lexemes
+
+FILE_NAME = 'matres_mt.csv'
 
 
 class VocalizedGraphicalUnits:
@@ -130,11 +133,13 @@ class MTMatresProcessor:
         self.relevant_sps = relevant_sps
         self.matres_pattern_dict = {}
         self.bhsa_export_dict = {}
-        self.mt_matres_df = None
+
         self.get_matres_patterns_in_mt()
         self.add_matres_and_prefix_to_words()
         self.export_mt_data()
-        self.save_mt_dataset()
+        self.mt_matres_df = self.make_df()
+        self.save_mt_dataset('matres_mt.csv')
+
         self.mt_matres_df_relevant_sps = self.mt_matres_df[self.mt_matres_df.sp.isin(self.relevant_sps)]
 
     def get_matres_patterns_in_mt(self):
@@ -143,7 +148,7 @@ class MTMatresProcessor:
             voc_verse = VocalizedGraphicalUnits(verse)
             for w, w_ids in zip(voc_verse.vocalized_text, voc_verse.word_ids):
 
-                if '*' in w:  # do not include ketiv qere cases
+                if '*' in w:  # do not include ketiv/qere cases
                     continue
 
                 parsed_matres = self.parse_matres(w)
@@ -206,14 +211,17 @@ class MTMatresProcessor:
 
                 self.bhsa_export_dict[word.tf_word_id] = export_bhsa_list
 
+    def make_df(self):
+        mt_matres_df = pd.DataFrame(self.bhsa_export_dict).T
+        mt_matres_df.columns = df_columns
+        return mt_matres_df
+
     @staticmethod
     def get_stem_matres_pattern(g_cons, stem, matres_pattern):
         stem_start_idx = g_cons.find(stem)
         matres_pattern_stem = matres_pattern[stem_start_idx:stem_start_idx+len(stem)]
         return matres_pattern_stem
 
-    def save_mt_dataset(self):
-        mt_matres_df = pd.DataFrame(self.bhsa_export_dict).T
-        mt_matres_df.columns = df_columns
-        self.mt_matres_df = mt_matres_df
-        mt_matres_df.to_csv(data_path, sep='\t', index=False)
+    def save_mt_dataset(self, file_name):
+        """"""
+        self.mt_matres_df.to_csv(os.path.join(data_path, file_name), sep='\t', index=False)

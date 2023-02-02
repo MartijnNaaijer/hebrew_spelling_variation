@@ -1,4 +1,5 @@
 import collections
+import os
 
 from Bio import pairwise2
 from Bio.Seq import Seq
@@ -7,6 +8,8 @@ import pandas as pd
 from config import data_path
 from data_classes import F, L, T, Fdss, Ldss, Tdss, Scroll
 from special_data import j_lexemes, df_columns, fem_end_words
+
+FILE_NAME = 'matres_dss.csv'
 
 
 def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
@@ -305,7 +308,7 @@ class DSSMatresProcessor:
         dss_matres_df = pd.DataFrame(self.matres_dss_dict).T
         dss_matres_df.columns = df_columns
         self.dss_matres_df = dss_matres_df
-        dss_matres_df.to_csv(data_path, sep='\t', index=False)
+        dss_matres_df.to_csv(os.path.join(data_path, FILE_NAME), sep='\t', index=False)
 
 
 class DSSPatternBuilder:
