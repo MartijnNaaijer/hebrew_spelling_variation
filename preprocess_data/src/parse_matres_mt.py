@@ -47,7 +47,7 @@ class MatresParserBHSA:
     def __init__(self, word_text):
 
         self.consonants = {'<', '>', 'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N', 'P',
-                           'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#'}
+                           'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#', '_', '&'}
         self.potential_matres = {'>', 'J', 'W', 'H'}
         self.pointing = {':', '.', ';', '@', 'E', 'O', 'A', 'I', 'U'}
         self.vowel_signs = {';', '@', 'E', 'O', 'A', 'I', 'U'}
@@ -74,7 +74,7 @@ class MatresParserBHSA:
 
     def parse_matres(self):
 
-        char_groups = [w.replace('-', '').replace(',', '').replace('&', '') for w in self.all_cons_groups]
+        char_groups = [w.replace('-', '').replace(',', '').replace('&', '_') for w in self.all_cons_groups]
         for idx, char_group in enumerate(char_groups):
             if len(char_group) > 1:
                 self._parse_cons_with_pointing(idx, char_group, char_groups)
@@ -99,9 +99,10 @@ class MatresParserBHSA:
                 self.type_string += char
 
     def _parse_bare_cons(self, idx, char_group, char_groups):
-        if char_group not in self.potential_matres:
+        if char_group == '_':
+            self.type_string += '_'
+        elif char_group not in self.potential_matres:
             self.type_string += 'C'
-
         else:
             self.type_string += self._define_type_of_single_char(char_group, idx, char_groups)
 
