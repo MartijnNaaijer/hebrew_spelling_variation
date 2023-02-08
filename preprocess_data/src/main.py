@@ -31,9 +31,9 @@ def main():
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
     matres_column_adder = MatresColumnAdder(mt_dss_help_columns_adder.mt_dss_data)
-    mt_dss = matres_column_adder.df_with_vowel_letters
+    mt_dss = matres_column_adder.merged_df
 
-    print(mt_dss.shape)
+    mt_dss.to_csv('../data/mt_dss_with_middle_syllables.csv', sep='\t', index=False)
 
 
 if __name__ == '__main__':
