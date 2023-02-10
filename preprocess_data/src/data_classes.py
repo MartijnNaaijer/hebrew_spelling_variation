@@ -432,7 +432,7 @@ class Corpus:
 
         self.add_dss()
         self.add_mt()
-        self.add_sp()
+        #self.add_sp()
 
     def add_dss(self):
         """

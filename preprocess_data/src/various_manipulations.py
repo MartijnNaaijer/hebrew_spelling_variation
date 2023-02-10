@@ -224,9 +224,16 @@ class MatresColumnAdder:
         self.add_column_corrected_stem()
         self.add_r_to_rec_cor_signs()
         self.add_column_has_vowel_letter()
+        print(self.merged_df.head())
+        print('#############################')
+
+        print('###################################')
+        print(self.df_with_middle_syllables)
 
     def merge_basic_and_middle_dfs(self):
-        self.merged_df = pd.concat([self.df_with_vowel_letters, self.df_with_middle_syllables])
+        self.merged_df = pd.concat([self.df_with_vowel_letters,
+                                    self.df_with_middle_syllables])\
+            .sort_values(by='tf_id')
 
     def strip_r_from_rec_cor_signs(self):
         self.data.rec_signs = self.data.rec_signs.str.lstrip('r')
@@ -309,7 +316,7 @@ class MatresColumnAdder:
         return idx_vowels_syll
 
     def merge_rows_in_df(self):
-        new_df = pd.DataFrame(self.new_rows).T.reset_index()
+        new_df = pd.DataFrame(self.new_rows).T.reset_index(drop=True)
         new_df = new_df.sort_values(by=['tf_id'])
         return new_df
 
@@ -335,10 +342,11 @@ class MiddleSyllableVariationFinder:
 
     def loop_over_all_lexemes(self):
         for lex in self.lexemes:
-            lex_df = self.long_stems_df.query('lex==@lex').copy().reset_index()
-            potential_syll_vowels = lex_df.pattern.str.split('C')
+            lex_df = self.long_stems_df.query('lex==@lex').copy().reset_index(drop=True)
+            potential_syll_vowels = lex_df.pattern_first_c.str.split('C')
             stem_length = lex_df.pattern_first_c.loc[0].count('C')
             middle_syllable_indices = range(2, stem_length - 1)
+
             self.check_middle_syllables_in_lexeme(lex_df, middle_syllable_indices, potential_syll_vowels)
 
     def check_middle_syllables_in_lexeme(self, lex_df, middle_syllable_indices, potential_syll_vowels):
@@ -374,5 +382,5 @@ class MiddleSyllableVariationFinder:
 
     def merge_rows_in_df(self):
         new_df = pd.DataFrame(self.rows_with_middle_syllable_variation).T
-        new_df = new_df.sort_values(by=['tf_id'])
+        new_df = new_df.sort_values(by=['tf_id']).reset_index(drop=True)
         return new_df

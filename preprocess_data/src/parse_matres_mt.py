@@ -117,7 +117,7 @@ class MatresParserBHSA:
 
         mother_condition = {'>': char_groups[idx - 1][-1] in self.pointing or (
                     idx == len(char_groups) - 1 and (self.word_text.endswith('W>') or self.word_text.endswith('J>'))),
-                            'J': char_groups[idx - 1][-1] in {';', 'I', 'E'},
+                            'J': char_groups[idx - 1][-1] in {';', 'I', 'E'} or char_groups[idx - 1] == '>',
                             'W': char_groups[idx - 1][-1] in {'O', 'U'} or char_groups[idx - 1][-1] == '>',
                             'H': idx == len(char_groups) - 1
                             }

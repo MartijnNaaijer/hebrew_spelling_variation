@@ -15,6 +15,7 @@ def main():
 
     matres_processor_mt = MTMatresProcessor(corpus, relevant_sps)
     matres_parser_dss = DSSMatresProcessor(corpus, relevant_sps)
+    mt = matres_processor_mt.mt_matres_df_relevant_sps
     mt_dss = pd.concat([matres_processor_mt.mt_matres_df_relevant_sps, matres_parser_dss.dss_matres_df])
 
     final_aleph_converter = FinalAlephConverter(mt_dss)
