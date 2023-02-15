@@ -2,7 +2,7 @@ import pandas as pd
 
 from data_classes import Corpus
 from parse_matres_mt import MTMatresProcessor
-from parse_matres_dss import DSSMatresProcessor
+from parse_matres_dss import DSSMatresProcessor, MatresPatternDataSet
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder
 
@@ -14,7 +14,10 @@ def main():
     corpus = Corpus('biblical')
 
     matres_processor_mt = MTMatresProcessor(corpus, relevant_sps)
-    matres_parser_dss = DSSMatresProcessor(corpus, relevant_sps)
+
+    matres_pattern_dataset = MatresPatternDataSet('dss_predictions_per_word.txt')
+
+    matres_parser_dss = DSSMatresProcessor(corpus, relevant_sps, matres_pattern_dataset.matres_predictions_dict)
     mt_dss = pd.concat([matres_processor_mt.mt_matres_df_relevant_sps, matres_parser_dss.dss_matres_df])
 
     final_aleph_converter = FinalAlephConverter(mt_dss)
@@ -30,9 +33,10 @@ def main():
     mt_dss = final_yod_remover.data
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
-    matres_column_adder = MatresColumnAdder(mt_dss_help_columns_adder.mt_dss_data)
-    mt_dss = matres_column_adder.df_with_vowel_letters
+    mt_dss = mt_dss_help_columns_adder.mt_dss_data
 
+    print(mt_dss.head(25))
+    print(mt_dss.tail(25))
     print(mt_dss.shape)
 
 
