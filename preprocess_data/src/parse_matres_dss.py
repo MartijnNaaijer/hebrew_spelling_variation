@@ -206,7 +206,6 @@ class DSSMatresProcessor:
                     bo, ch, ve = section
                     verse_obj = Scroll.scrolls[scroll_name].verses[section]
                     word_objects = [word for word in verse_obj.words if self.check_word_conditions(word)]
-                    n = 0
                     for w_obj in word_objects:
                         w_obj.prefix_g_cons = self.parse_prefix_g_cons_dss(w_obj.tf_word_id)
                         stem = w_obj.g_cons.removesuffix(w_obj.hloc).removesuffix(w_obj.prs_cons)
@@ -217,10 +216,10 @@ class DSSMatresProcessor:
                                                       w_obj.prs_cons)
                         w_obj.stem, w_obj.nme_cons = stem, nme_dss
                         pattern = self.get_matres_pattern(int(w_obj.tf_word_id))
-                        print(w_obj.tf_word_id, w_obj.stem, w_obj.g_cons, stem, pattern)
-                        n += 1
-                        if n > 100:
-                            break
+
+                        if len(w_obj.g_cons) != len(pattern):
+                            print(w_obj.tf_word_id, w_obj.stem, w_obj.g_cons, stem, pattern)
+
                         self.matres_dss_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,
                                                                   w_obj.g_cons, stem, pattern[:len(stem)],
