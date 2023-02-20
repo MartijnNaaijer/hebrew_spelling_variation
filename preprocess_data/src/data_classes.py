@@ -91,7 +91,6 @@ class MTWordProcessor:
         self.prs_chars = {'>', 'D', 'H', 'J', 'K', 'M', 'N', 'W'}
         self.consonants = {'<', '>', 'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
                            'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#'}
-        #self.h_lexemes = {'MKSH=/', 'M<FH/', 'MR>H/', 'PH/', 'MCTH/'}
 
         self.tf_id = tf_id
         self.book = F.book.v(tf_id)
@@ -108,8 +107,8 @@ class MTWordProcessor:
         self.vs = F.vs.v(tf_id)
         self.vt = F.vt.v(tf_id)
         self.lang = F.language.v(tf_id)
-        self.rec_signs = 'r' + ''.join(['0' for char in self.glyphs])
-        self.cor_signs = 'r' + ''.join(['0' for char in self.glyphs])
+        self.rec_signs = ''.join(['n' for char in self.glyphs])
+        self.cor_signs = ''.join(['n' for char in self.glyphs])
         self.stem = self.get_stem()
         self.nme = self.get_nme()
         self.prs = self.get_prs()
@@ -227,7 +226,7 @@ class DSSWordProcessor:
 
     def preprocess_text(self):
         """
-        -remove spaces that occur in data (and also in manuscript!)
+        Remove spaces that occur in data (and also in manuscript!).
         """
         glyphs = Fdss.glyphe.v(self.tf_id)
         if glyphs:
@@ -240,22 +239,22 @@ class DSSWordProcessor:
 
     def get_reconstructed_signs(self):
         """
-        returns string with indication of which signs are reconstructed (1)
-        and which signs are visible (0)
+        Returns string with indication of which signs are reconstructed ("r")
+        and which signs are not reconstructed ("n").
         """
         signs = Ldss.d(self.tf_id, 'sign')
-        return 'r' + ''.join([str(Fdss.rec.v(s)) if Fdss.rec.v(s) == 1 else '0' for s in signs if Fdss.type.v(s) == 'cons'])
+        return ''.join(['r' if Fdss.rec.v(s) == 1 else 'n' for s in signs if Fdss.type.v(s) == 'cons'])
 
     def get_corrected_signs(self):
         """
-        returns string with indication of which signs are corrected:
+        Returns string with indication of which signs are corrected:
         0: not a corrected sign
         1: corrected by a modern editor
         2: corrected by an ancient editor
         3: corrected by an ancient editor, supralinear
         """
         signs = Ldss.d(self.tf_id, 'sign')
-        return 'r' + ''.join([str(Fdss.cor.v(s)) if Fdss.cor.v(s) == 1 else '0' for s in signs if Fdss.type.v(s) == 'cons'])
+        return ''.join(['c' if Fdss.cor.v(s) == 1 else 'n' for s in signs if Fdss.type.v(s) == 'cons'])
 
     def disambiguate_sin_shin(self, glyphs):
         """
@@ -357,8 +356,8 @@ class SPWordProcessor:
         self.vs = None # Todo: implement verbals stem
         self.vt = Fsp.vt.v(tf_id)
         self.lang = Fsp.language.v(tf_id)
-        self.rec_signs = 'r' + ''.join(['0' for char in self.glyphs])
-        self.cor_signs = 'r' + ''.join(['0' for char in self.glyphs])
+        self.rec_signs = ''.join(['n' for char in self.glyphs])
+        self.cor_signs = ''.join(['n' for char in self.glyphs])
         self.stem = self.get_stem()
         self.nme = self.get_nme()
         self.prs = self.get_prs()

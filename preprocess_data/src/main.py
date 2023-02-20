@@ -1,6 +1,7 @@
 import pandas as pd
 
 from data_classes import Corpus
+from add_hebrew_text_column import HebrewTextAdder
 from parse_matres_mt import MTMatresProcessor
 from parse_matres_dss import DSSMatresProcessor, MatresPatternDataSet
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
@@ -21,6 +22,9 @@ def main():
     matres_parser_dss = DSSMatresProcessor(corpus, relevant_sps, matres_pattern_dataset.matres_predictions_dict)
     mt_dss = pd.concat([matres_processor_mt.mt_matres_df_relevant_sps, matres_parser_dss.dss_matres_df])
 
+    hebrew_text_adder = HebrewTextAdder(mt_dss)
+    mt_dss = hebrew_text_adder.data
+
     final_aleph_converter = FinalAlephConverter(mt_dss)
     mt_dss = final_aleph_converter.data
 
@@ -35,6 +39,9 @@ def main():
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
     mt_dss = mt_dss_help_columns_adder.mt_dss_data
+
+    matres_column_adder = MatresColumnAdder(mt_dss)
+    mt_dss = matres_column_adder.df_with_vowel_letters
 
     invalid_data_remover = InvalidDataRemover(mt_dss)
     mt_dss = invalid_data_remover.data_complete_syllables
