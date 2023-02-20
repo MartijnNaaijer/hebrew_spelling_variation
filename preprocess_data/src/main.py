@@ -7,6 +7,9 @@ from parse_matres_dss import DSSMatresProcessor, MatresPatternDataSet
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder
 from process_invalid_data import InvalidDataRemover
+from remove_useless_lexemes_and_plurals import UselessLexemesRemover, SyllablesWithoutVariationRemover
+
+from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
 relevant_sps = {'adjv', 'subs'}
 
@@ -46,6 +49,15 @@ def main():
     invalid_data_remover = InvalidDataRemover(mt_dss)
     mt_dss = invalid_data_remover.data_complete_syllables
 
+    useless_lexemes_remover = UselessLexemesRemover(data=mt_dss,
+                                                    useless_plurals=USELESS_PLURALS,
+                                                    useless_lexemes=REMOVE_LEXEMES,
+                                                    useless_nodes=AD_HOC_REMOVALS)
+    mt_dss = useless_lexemes_remover.data
+
+    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
+    mt_dss = syllables_without_variation_remover.data_variable_syllables
+
     print(mt_dss.head(25))
     print(mt_dss.tail(25))
     print(mt_dss.shape)
@@ -53,6 +65,7 @@ def main():
     mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)
+    # TODO: rec and cor signs stem still zeros
 
 
 if __name__ == '__main__':
