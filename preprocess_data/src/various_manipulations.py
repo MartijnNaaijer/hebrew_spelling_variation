@@ -26,7 +26,6 @@ class FeminineTStripper:
 
         self.fem_t_words = self.find_feminine_t_words()
         self.fem_t_words = set.union(self.fem_t_words, POTENTIALLY_FEMININE_WORDS)
-
         self.t_word_list = self.check_t_words()
 
         self.adapt_pattern_column()
