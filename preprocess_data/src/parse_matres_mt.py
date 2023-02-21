@@ -208,7 +208,7 @@ class MTMatresProcessor:
                 export_bhsa_list = [word.tf_word_id, 'MT', bo, ch, ve, word.lex, g_cons, stem,
                                     matres_pattern_stem, word.matres_pattern, word.vs, word.vt,
                                     word.number, word.gender, word.person, word.sp, word.prs_cons, nme, word.hloc,
-                                    word.prefix_g_cons, '0' * len(word.g_cons), '0' * len(word.g_cons)]
+                                    word.prefix_g_cons, word.rec_signs, word.cor_signs]
 
                 self.bhsa_export_dict[word.tf_word_id] = export_bhsa_list
 

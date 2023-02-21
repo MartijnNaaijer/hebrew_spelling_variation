@@ -25,6 +25,8 @@ def main():
     matres_parser_dss = DSSMatresProcessor(corpus, relevant_sps, matres_pattern_dataset.matres_predictions_dict)
     mt_dss = pd.concat([matres_processor_mt.mt_matres_df_relevant_sps, matres_parser_dss.dss_matres_df])
 
+    mt_dss.to_csv('../data/mt_dss.csv', sep='\t', index=False)
+
     hebrew_text_adder = HebrewTextAdder(mt_dss)
     mt_dss = hebrew_text_adder.data
 

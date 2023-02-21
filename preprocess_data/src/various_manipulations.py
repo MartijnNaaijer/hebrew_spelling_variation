@@ -211,17 +211,11 @@ class MatresColumnAdder:
         self.data = data
         self.new_rows = {}
 
-        #self.strip_r_from_rec_cor_signs()
         self.add_type_and_vowel_letter_to_rows()
         self.df_with_vowel_letters = self.merge_rows_in_df()
         self.add_column_reconstructed_stem()
         self.add_column_corrected_stem()
-        #self.add_r_to_rec_cor_signs()
         self.add_column_has_vowel_letter()
-
-    #def strip_r_from_rec_cor_signs(self):
-    #    self.data.rec_signs = self.data.rec_signs.str.lstrip('r')
-    #    self.data.cor_signs = self.data.cor_signs.str.lstrip('r')
 
     def add_column_reconstructed_stem(self):
         recs = [rec_signs if isinstance(rec_signs, str) else '' for rec_signs in self.df_with_vowel_letters.rec_signs]
@@ -234,10 +228,6 @@ class MatresColumnAdder:
         stems = [stem if isinstance(stem, str) else '' for stem in self.df_with_vowel_letters.stem]
 
         self.df_with_vowel_letters['cor_signs_stem'] = [cor[:len(stem)] for cor, stem in zip(cors, stems)]
-
-    #def add_r_to_rec_cor_signs(self):
-    #    self.df_with_vowel_letters.rec_signs = 'r' + self.df_with_vowel_letters.rec_signs
-    #    self.df_with_vowel_letters.cor_signs = 'r' + self.df_with_vowel_letters.cor_signs
 
     def add_type_and_vowel_letter_to_rows(self):
 
