@@ -33,13 +33,12 @@ class InvalidDataRemover:
         rec_syllables = []
         for rec_signs, vowels, syll_type, stem in zip(self.data.rec_signs_stem, self.data.vowel_letter,
                                                       self.data.type, self.data.stem):
-            rec_signs = rec_signs.lstrip('r')
             if isinstance(vowels, float):
                 vowels = ''
 
             start_idx, end_idx = self.get_indices_of_syllable_in_stem(stem, vowels, syll_type)
             syll_rec_signs = rec_signs[start_idx: end_idx]
-            rec_syllables.append(self.contains_one(syll_rec_signs))
+            rec_syllables.append(self.contains_reconstructed_sign(syll_rec_signs))
         return rec_syllables
 
     @staticmethod
@@ -53,8 +52,8 @@ class InvalidDataRemover:
         return stem_indices[syll_type]
 
     @staticmethod
-    def contains_one(reconstructed_signs):
-        if reconstructed_signs.count('1') > 0:
+    def contains_reconstructed_sign(reconstructed_signs):
+        if reconstructed_signs.count('r') > 0:
             return 1
         return 0
 
