@@ -152,6 +152,18 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
         stem = stem.rstrip('M')
         nme = 'M' + nme
 
+    if lex == 'BMH/' and stem.endswith('T'):
+        stem = stem.rstrip('T')
+        nme = 'T' + nme
+
+    if lex in {'HWH/', 'PLJLJH/', 'LJLJT/', '<W<JM/'} and stem.endswith('J'):
+        stem = stem.rstrip('J')
+        nme = 'J' + nme
+
+    if lex == 'YJH/' and stem.endswith('>'):
+        stem = stem.rstrip('>')
+        nme = '>' + nme
+
     return stem, nme
 
 

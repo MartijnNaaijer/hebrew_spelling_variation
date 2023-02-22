@@ -9,7 +9,7 @@ class UselessRowsRemover:
     1. Remove words without matres pattern (generally ketiv/qere cases, that are excluded).
     2. Remove a number of ad-hoc cases, called useless_nodes here. You can find these nodes in special_data.py
        in the dict AD_HOC_REMOVALS.
-    3. A number of plurals do not display spelling variation. The relevant lexemes can be found in special_data.py in
+    3. A number of plurals (and duals) do not display spelling variation. The relevant lexemes can be found in special_data.py in
        the list USELESS_PLURALS.
     4. A number of lexemes is removed, because the letter J in its stem can be both a vowel letter or consonant, e.g.
        BJT/ and >JN/. See the list REMOVE_LEXEMES in special_data.py. These words can have variation in the

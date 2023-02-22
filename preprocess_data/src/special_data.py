@@ -56,6 +56,8 @@ AD_HOC_REMOVALS = {
     1902070: "1Qisaa	Isaiah	22	1	XZJWN/	XZWWN	XZWWN	CCMMC REASON: misses J",
     201936: "MT	2_Kings	10	33	R>WBNJ/	R>WBNJ	R>WBN	CMMCC REASON: strange vocalization",
     331986: "MT	Psalms	119	87	PQWDJM/	PQWDJK	PQWD	CCCC REASON strange case with CCCC",
-    1940345: "4Q7	Genesis	1	5	JWM/	JWMM	JWMM	CMCC REASON double M at end of stem"
-
+    1940345: "4Q7	Genesis	1	5	JWM/	JWMM	JWMM	CMCC REASON double M at end of stem",
+    1901047: "1Qisaa	Isaiah	18	2	QW==/	QWQW	QWQ	CMC	CMCM REASON: verdubbeling van stam",
+    1901165: "1Qisaa	Isaiah	18	7	QW==/	QWQW	QWQ	CMC	CMCM REASON: verdubbeling van stam",
+    1904091: "1Qisaa	Isaiah	28	8	QJ>/	QJH	QJ	CC REASON: > aan eind IPV H",
     }
