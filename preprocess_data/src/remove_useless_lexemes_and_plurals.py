@@ -36,7 +36,7 @@ class UselessRowsRemover:
         self.data = self.data[~self.data.tf_id.isin(useless_nodes)]
 
     def remove_plurals_without_mater(self):
-        plural_no_maters = np.array([lex in self.useless_plurals and nu == 'pl'
+        plural_no_maters = np.array([lex in self.useless_plurals and nu in {'du', 'pl'}
                                      for lex, nu in zip(self.data.lex, self.data.nu)])
         self.data = self.data[np.invert(plural_no_maters)]
 
