@@ -1,3 +1,11 @@
+"""
+A dataset is created containing nouns and adjectives that show orthographic variation in their stem. With "stem", we
+the consonantal representation of a word without suffixes (nominal endings and pronominal suffixes) and without prefixed
+words (article or preposition).
+The output is a csv file that
+
+"""
+
 import pandas as pd
 
 from data_classes import Corpus
@@ -7,7 +15,7 @@ from parse_matres_dss import DSSMatresProcessor, MatresPatternDataSet
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder
 from process_invalid_data import InvalidDataRemover
-from remove_useless_lexemes_and_plurals import UselessLexemesRemover, SyllablesWithoutVariationRemover
+from remove_useless_lexemes_and_plurals import UselessRowsRemover, SyllablesWithoutVariationRemover
 
 from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
@@ -51,10 +59,10 @@ def main():
     invalid_data_remover = InvalidDataRemover(mt_dss)
     mt_dss = invalid_data_remover.data_complete_syllables
 
-    useless_lexemes_remover = UselessLexemesRemover(data=mt_dss,
-                                                    useless_plurals=USELESS_PLURALS,
-                                                    useless_lexemes=REMOVE_LEXEMES,
-                                                    useless_nodes=AD_HOC_REMOVALS)
+    useless_lexemes_remover = UselessRowsRemover(data=mt_dss,
+                                                 useless_plurals=USELESS_PLURALS,
+                                                 useless_lexemes=REMOVE_LEXEMES,
+                                                 useless_nodes=AD_HOC_REMOVALS)
     mt_dss = useless_lexemes_remover.data
 
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)

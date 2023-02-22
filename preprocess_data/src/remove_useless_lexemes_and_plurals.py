@@ -3,9 +3,17 @@ import pandas as pd
 from scipy.stats import entropy
 
 
-class UselessLexemesRemover:
+class UselessRowsRemover:
     """
-
+    Cleans the dataset in four steps:
+    1. Remove words without matres pattern (generally ketiv/qere cases, that are excluded).
+    2. Remove a number of ad-hoc cases, called useless_nodes here. You can find these nodes in special_data.py
+       in the dict AD_HOC_REMOVALS.
+    3. A number of plurals do not display spelling variation. The relevant lexemes can be found in special_data.py in
+       the list USELESS_PLURALS.
+    4. A number of lexemes is removed, because the letter J in its stem can be both a vowel letter or consonant, e.g.
+       BJT/ and >JN/. See the list REMOVE_LEXEMES in special_data.py. These words can have variation in the
+       matres pattern with identical spelling.
 
     """
     def __init__(self, data, useless_plurals, useless_lexemes, useless_nodes):
@@ -14,18 +22,18 @@ class UselessLexemesRemover:
         self.useless_lexemes = useless_lexemes
         self.useless_nodes = useless_nodes
 
-        self.data_with_pattern = self.remove_rows_without_pattern()
+        self.remove_rows_without_pattern()
         self.remove_ad_hoc_removals()
 
         self.remove_plurals_without_mater()
         self.remove_useless_lexemes()
 
     def remove_rows_without_pattern(self):
-        return self.data[[isinstance(pat, str) for pat in self.data.pattern]]
+        self.data = self.data[[pat.count('C') > 0 for pat in self.data.pattern]]
 
     def remove_ad_hoc_removals(self):
         useless_nodes = list(self.useless_nodes.keys())
-        self.data_with_pattern = self.data_with_pattern[~self.data_with_pattern.tf_id.isin(useless_nodes)]
+        self.data = self.data[~self.data.tf_id.isin(useless_nodes)]
 
     def remove_plurals_without_mater(self):
         plural_no_maters = np.array([lex in self.useless_plurals and nu == 'pl'
