@@ -53,6 +53,8 @@ def main():
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
     mt_dss = mt_dss_help_columns_adder.mt_dss_data
 
+    mt_dss.to_csv('../data/mt_dss_before_matres_col_adder.csv', sep='\t', index=False)
+
     matres_column_adder = MatresColumnAdder(mt_dss)
     mt_dss = matres_column_adder.df_with_vowel_letters
 
@@ -68,14 +70,13 @@ def main():
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
     mt_dss = syllables_without_variation_remover.data_variable_syllables
 
-    print(mt_dss.head(25))
-    print(mt_dss.tail(25))
-    print(mt_dss.shape)
+    #print(mt_dss.head(25))
+    #print(mt_dss.tail(25))
+    #print(mt_dss.shape)
 
     mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)
-    # TODO: rec and cor signs stem still zeros
 
 
 if __name__ == '__main__':
