@@ -33,7 +33,8 @@ df_columns = ['tf_id', 'scroll',
 POTENTIALLY_FEMININE_WORDS = {'<FR=/', '<FRH=/', '>RB</', '>XD/', 'CB</',
                               'CC/', 'CLC/', 'CMNH/', 'CNJM/', 'TC</', 'XMC/'}
 
-USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/']
+# For >XWT/ singular and plural are >XWT, stem is different.
+USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/', '>XWT/']
 REMOVE_LEXEMES = {'BJT/', '>JN/', 'LJLH/', 'XJL/', 'MJM/', '<JN/', 'PTJ/', 'R>M/', 'R>CWN/', 'TWK/'} # Words with hardly variation in spelling. R>M/ is a special case
                                                                                              # 'R>CWN/' has special patterns, look later
 
