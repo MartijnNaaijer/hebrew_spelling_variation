@@ -1,9 +1,8 @@
 """
 Consistency checks of data after first parsing.
 Words are not analyzed on level of syllables yet.
-
+The tests reflect the manual corrections in the dataset.
 """
-
 import os
 import pandas as pd
 import pytest
@@ -23,3 +22,7 @@ def input_df():
 def test_absence_of_verbal_elements(input_df):
     assert 'qal' not in list(input_df.vs)
     # assert len(set(input_df.vt)) == 1
+
+
+def test_all_lex_type_have_same_consonant_counts(input_df):
+    pass
