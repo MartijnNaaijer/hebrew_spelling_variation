@@ -10,18 +10,12 @@ import pytest
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FOLDER = 'data'
 DATA_FILE = 'mt_dss_new_matres_pattern.csv'
-print(ROOT_DIR)
 
 
 @pytest.fixture(scope="module")
 def input_df():
     df = pd.read_csv(os.path.join(ROOT_DIR, DATA_FOLDER, DATA_FILE), sep='\t')
     return df
-
-
-# def test_absence_of_verbal_elements(input_df):
- #   assert 'qal' not in list(input_df.vs)
-    # assert len(set(input_df.vt)) == 1
 
 
 def test_all_lex_type_have_same_consonant_counts(input_df):
@@ -31,3 +25,7 @@ def test_all_lex_type_have_same_consonant_counts(input_df):
         lex_typ_dat = input_df[(input_df.lex == lex) & (input_df.type == typ)]
         cons_counts = len({pat[1:].count('C') for pat in set(lex_typ_dat.pattern)})
         assert cons_counts == 1
+
+# def test_absence_of_verbal_elements(input_df):
+ #   assert 'qal' not in list(input_df.vs)
+    # assert len(set(input_df.vt)) == 1
