@@ -42,48 +42,48 @@ def main():
     mt_dss.to_csv('../data/mt_dss_before_manual_correction.csv', sep='\t', index=False)
 
     # Import manually corrected dataset
-    # mt_dss = pd.read_csv('../data/mt_dss_after_manual_correction.csv', sep='\t')
-    #
-    # hebrew_text_adder = HebrewTextAdder(mt_dss)
-    # mt_dss = hebrew_text_adder.data
-    #
-    # final_aleph_converter = FinalAlephConverter(mt_dss)
-    # mt_dss = final_aleph_converter.data
-    #
-    # fem_t_stripper = FeminineTStripper(mt_dss)
-    # mt_dss = fem_t_stripper.data
-    #
-    # other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss)
-    # mt_dss = other_vowel_endings_column_adder.data
-    #
-    # final_yod_remover = FinalYodRemover(mt_dss)
-    # mt_dss = final_yod_remover.data
-    #
-    # mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
-    # mt_dss = mt_dss_help_columns_adder.mt_dss_data
-    #
-    # mt_dss.to_csv('../data/mt_dss_before_matres_col_adder.csv', sep='\t', index=False)
-    #
-    # matres_column_adder = MatresColumnAdder(mt_dss)
-    # mt_dss = matres_column_adder.df_with_vowel_letters
-    #
-    # invalid_data_remover = InvalidDataRemover(mt_dss)
-    # mt_dss = invalid_data_remover.data_complete_syllables
-    #
-    # useless_lexemes_remover = UselessRowsRemover(data=mt_dss,
-    #                                              useless_plurals=USELESS_PLURALS,
-    #                                              useless_lexemes=REMOVE_LEXEMES,
-    #                                              useless_nodes=AD_HOC_REMOVALS)
-    # mt_dss = useless_lexemes_remover.data
-    #
-    # syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
-    # mt_dss = syllables_without_variation_remover.data_variable_syllables
-    #
-    # #print(mt_dss.head(25))
-    # #print(mt_dss.tail(25))
-    # #print(mt_dss.shape)
-    #
-    # mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
+    mt_dss = pd.read_csv('../data/mt_dss_after_manual_correction.csv', sep=';')
+
+    hebrew_text_adder = HebrewTextAdder(mt_dss)
+    mt_dss = hebrew_text_adder.data
+
+    final_aleph_converter = FinalAlephConverter(mt_dss)
+    mt_dss = final_aleph_converter.data
+
+    fem_t_stripper = FeminineTStripper(mt_dss)
+    mt_dss = fem_t_stripper.data
+
+    other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss)
+    mt_dss = other_vowel_endings_column_adder.data
+
+    final_yod_remover = FinalYodRemover(mt_dss)
+    mt_dss = final_yod_remover.data
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
+    mt_dss = mt_dss_help_columns_adder.mt_dss_data
+
+    mt_dss.to_csv('../data/mt_dss_before_matres_col_adder.csv', sep='\t', index=False)
+
+    matres_column_adder = MatresColumnAdder(mt_dss)
+    mt_dss = matres_column_adder.df_with_vowel_letters
+
+    invalid_data_remover = InvalidDataRemover(mt_dss)
+    mt_dss = invalid_data_remover.data_complete_syllables
+
+    useless_lexemes_remover = UselessRowsRemover(data=mt_dss,
+                                                 useless_plurals=USELESS_PLURALS,
+                                                 useless_lexemes=REMOVE_LEXEMES,
+                                                 useless_nodes=AD_HOC_REMOVALS)
+    mt_dss = useless_lexemes_remover.data
+
+    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
+    mt_dss = syllables_without_variation_remover.data_variable_syllables
+
+    #print(mt_dss.head(25))
+    #print(mt_dss.tail(25))
+    #print(mt_dss.shape)
+
+    mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)
 
