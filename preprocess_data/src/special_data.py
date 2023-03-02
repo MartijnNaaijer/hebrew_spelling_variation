@@ -61,5 +61,7 @@ AD_HOC_REMOVALS = {
     1901047: "1Qisaa	Isaiah	18	2	QW==/	QWQW	QWQ	CMC	CMCM REASON: verdubbeling van stam",
     1901165: "1Qisaa	Isaiah	18	7	QW==/	QWQW	QWQ	CMC	CMCM REASON: verdubbeling van stam",
     1904091: "1Qisaa	Isaiah	28	8	QJ>/	QJH	QJ	CC REASON: > aan eind IPV H",
-    2066698: "4Q135	Deuteronomy	5	30	>HL/	>HLJLJKM	>HLJL	CCCMC",
+    2066698: "4Q135	Deuteronomy	5	30	>HL/	>HLJLJKM	>HLJL	CCCMC REASON: ADDITION OF JL",
+    1993941: "4Q45 Deuteronomy 15 9 >BJWN/ JWN JWN CCC CCC, REASON: >B IS MISSING",
+    1944264: "4Q11 Exodus 18 20 XQ/ JM JM CC CC REASON: XQ SI MISSING",
     }
