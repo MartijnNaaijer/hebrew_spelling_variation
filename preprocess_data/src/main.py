@@ -33,12 +33,7 @@ def main():
     matres_parser_dss = DSSMatresProcessor(corpus, relevant_sps, matres_pattern_dataset.matres_predictions_dict)
     mt_dss = pd.concat([matres_processor_mt.mt_matres_df_relevant_sps, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
-    #print('MT dtypes', matres_processor_mt.mt_matres_df_relevant_sps.dtypes)
-    #print()
-    #print('dss dtypes', matres_parser_dss.dss_matres_df.dtypes)
-    #print()
-    #print(mt_dss.dtypes)
-    #print()
+
     mt_dss.to_csv('../data/mt_dss_before_manual_correction.csv', sep='\t', index=False)
 
     # Import manually corrected dataset
@@ -79,9 +74,7 @@ def main():
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
     mt_dss = syllables_without_variation_remover.data_variable_syllables
 
-    #print(mt_dss.head(25))
-    #print(mt_dss.tail(25))
-    #print(mt_dss.shape)
+
 
     mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
 
