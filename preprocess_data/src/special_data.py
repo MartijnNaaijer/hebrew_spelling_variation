@@ -37,8 +37,9 @@ POTENTIALLY_FEMININE_WORDS = {'<FR=/', '<FRH=/', '>RB</', '>XD/', 'CB</',
 USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/', '>XWT/']
 
 # >WN/ is sometimes awen, with suffix onka
-REMOVE_LEXEMES = {'BJT/', '>JN/', 'LJLH/', 'XJL/', 'MJM/', '<JN/', 'PTJ/', 'R>M/', 'R>CWN/', 'TWK/', '>WN=/'} # Words with hardly variation in spelling. R>M/ is a special case
-                                                                                             # 'R>CWN/' has special patterns, look later
+REMOVE_LEXEMES = {'BJT/', '>JN/', 'LJLH/', 'XJL/', 'MJM/', '<JN/', 'PTJ/', 'R>M/', 'R>CWN/', 'TWK/', '>WN=/', 'LJLJT/'}
+# Words with hardly variation in spelling. R>M/ is a special case
+# 'R>CWN/' has special patterns, look later
 
 AD_HOC_REMOVALS = {
     2032301: "4Q70	Jeremiah	22	16	>BJWN/	>BWN	>BWN REASON: consonant J is missing",
@@ -66,5 +67,7 @@ AD_HOC_REMOVALS = {
     2066698: "4Q135	Deuteronomy	5	30	>HL/	>HLJLJKM	>HLJL	CCCMC REASON: ADDITION OF JL",
     1993941: "4Q45 Deuteronomy 15 9 >BJWN/ JWN JWN CCC CCC, REASON: >B IS MISSING",
     1944264: "4Q11 Exodus 18 20 XQ/ JM JM CC CC REASON: XQ SI MISSING",
-    2013028: "4Q53	2_Samuel	14	25	QDQD/	QWQDW	QWQD	CMCC REASON: D is missing"
+    2013028: "4Q53	2_Samuel	14	25	QDQD/	QWQDW	QWQD	CMCC REASON: D is missing",
+    2078672: "8Q4	Deuteronomy	11	16	>LHJM/	>LWJM	>LW	CCC	CCCMC REASON H IS MISSING",
+    2028922: "4Q64	Isaiah	29	3	MYWRH/	MYWWT	MYW	CCC	CCCMC REASON: R IS MISSING",
     }

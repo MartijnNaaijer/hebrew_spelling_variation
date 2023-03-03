@@ -108,7 +108,7 @@ class MTWordProcessor:
         self.vt = F.vt.v(tf_id)
         self.lang = F.language.v(tf_id)
         self.rec_signs = ''.join(['n' for char in self.glyphs])
-        self.cor_signs = ''.join(['c' for char in self.glyphs])
+        self.cor_signs = ''.join(['n' for char in self.glyphs])
         self.stem = self.get_stem()
         self.nme = self.get_nme()
         self.prs = self.get_prs()
