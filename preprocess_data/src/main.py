@@ -74,8 +74,6 @@ def main():
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
     mt_dss = syllables_without_variation_remover.data_variable_syllables
 
-
-
     mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)
