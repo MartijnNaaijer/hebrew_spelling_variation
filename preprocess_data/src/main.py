@@ -45,6 +45,7 @@ def main():
     mt_dss_ptc_qal_data = pd.concat([ptca, ptcp])
     print(mt_dss_ptc_qal_data)
     mt_dss_ptc_qal_data.to_csv('../data/mt_dss_ptc_qal.csv', sep='\t', index=False)
+    # TODO: Rework MatresColumnAdder for participles
 
 
 def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
