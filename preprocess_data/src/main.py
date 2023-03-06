@@ -10,6 +10,7 @@ import pandas as pd
 
 from data_classes import Corpus
 from add_hebrew_text_column import HebrewTextAdder
+from first_data_selection_mt import BasicMTDataSelector
 from parse_matres_mt import MTMatresProcessor
 from parse_matres_dss import DSSMatresProcessor, MatresPatternDataSet
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
@@ -19,64 +20,117 @@ from remove_useless_lexemes_and_plurals import UselessRowsRemover, SyllablesWith
 
 from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
-relevant_sps = {'adjv', 'subs'}
-
 
 def main():
 
     corpus = Corpus('biblical')
 
-    matres_processor_mt = MTMatresProcessor(corpus, relevant_sps)
+    matres_processor_mt = MTMatresProcessor(corpus)
+    mt = matres_processor_mt.mt_matres_df
 
     matres_pattern_dataset = MatresPatternDataSet('dss_predictions_per_word.txt')
 
-    matres_parser_dss = DSSMatresProcessor(corpus, relevant_sps, matres_pattern_dataset.matres_predictions_dict)
-    mt_dss = pd.concat([matres_processor_mt.mt_matres_df_relevant_sps, matres_parser_dss.dss_matres_df])
+    ####################################################
+    # Nouns DSS
+    matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv', matres_pattern_dataset.matres_predictions_dict)
+
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
+    mt_nouns_adjectives_data = basic_mt_data_selector.select_data()
+
+    mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
 
-    mt_dss.to_csv('../data/mt_dss_before_manual_correction.csv', sep='\t', index=False)
+    ####################################################
 
-    # Import manually corrected dataset
-    mt_dss = pd.read_csv('../data/mt_dss_after_manual_correction.csv', sep=';')
+    # ptca en ptcp qal
+    mt_ptc_qal_data = get_participle_qal_data(corpus, mt, matres_pattern_dataset)
+    print(mt_ptc_qal_data)
 
-    hebrew_text_adder = HebrewTextAdder(mt_dss)
-    mt_dss = hebrew_text_adder.data
 
-    final_aleph_converter = FinalAlephConverter(mt_dss)
-    mt_dss = final_aleph_converter.data
+    # mt_dss.to_csv('../data/mt_dss_before_manual_correction.csv', sep='\t', index=False)
+    #
+    # # Import manually corrected dataset
+    # mt_dss = pd.read_csv('../data/mt_dss_after_manual_correction.csv', sep=';')
+    #
+    # hebrew_text_adder = HebrewTextAdder(mt_dss)
+    # mt_dss = hebrew_text_adder.data
+    #
+    # final_aleph_converter = FinalAlephConverter(mt_dss)
+    # mt_dss = final_aleph_converter.data
+    #
+    # fem_t_stripper = FeminineTStripper(mt_dss)
+    # mt_dss = fem_t_stripper.data
+    #
+    # other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss)
+    # mt_dss = other_vowel_endings_column_adder.data
+    #
+    # final_yod_remover = FinalYodRemover(mt_dss)
+    # mt_dss = final_yod_remover.data
+    #
+    # mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
+    # mt_dss = mt_dss_help_columns_adder.mt_dss_data
+    #
+    # mt_dss.to_csv('../data/mt_dss_before_matres_col_adder.csv', sep='\t', index=False)
+    #
+    # matres_column_adder = MatresColumnAdder(mt_dss)
+    # mt_dss = matres_column_adder.df_with_vowel_letters
+    #
+    # invalid_data_remover = InvalidDataRemover(mt_dss)
+    # mt_dss = invalid_data_remover.data_complete_syllables
+    #
+    # useless_lexemes_remover = UselessRowsRemover(data=mt_dss,
+    #                                              useless_plurals=USELESS_PLURALS,
+    #                                              useless_lexemes=REMOVE_LEXEMES,
+    #                                              useless_nodes=AD_HOC_REMOVALS)
+    # mt_dss = useless_lexemes_remover.data
+    #
+    # syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
+    # mt_dss = syllables_without_variation_remover.data_variable_syllables
+    #
+    # mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
+    #
+    # # TODO: adapt dtypes in mt_dss(object -> categorical)
 
-    fem_t_stripper = FeminineTStripper(mt_dss)
-    mt_dss = fem_t_stripper.data
 
-    other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss)
-    mt_dss = other_vowel_endings_column_adder.data
+def get_nouns_adjective_data():
+    pass
 
-    final_yod_remover = FinalYodRemover(mt_dss)
-    mt_dss = final_yod_remover.data
 
-    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss, relevant_sps)
-    mt_dss = mt_dss_help_columns_adder.mt_dss_data
+def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
+    mt_ptc_qal_df = basic_mt_data_selector.select_data()
 
-    mt_dss.to_csv('../data/mt_dss_before_matres_col_adder.csv', sep='\t', index=False)
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='ptc_qal',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
 
-    matres_column_adder = MatresColumnAdder(mt_dss)
-    mt_dss = matres_column_adder.df_with_vowel_letters
+    mt_dss = pd.concat([mt_ptc_qal_df, matres_parser_dss.dss_matres_df])
+    mt_dss_ptc_qal_df = mt_dss.sort_values(by=['tf_id'])
 
-    invalid_data_remover = InvalidDataRemover(mt_dss)
-    mt_dss = invalid_data_remover.data_complete_syllables
+    hebrew_text_adder = HebrewTextAdder(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = hebrew_text_adder.data
 
-    useless_lexemes_remover = UselessRowsRemover(data=mt_dss,
-                                                 useless_plurals=USELESS_PLURALS,
-                                                 useless_lexemes=REMOVE_LEXEMES,
-                                                 useless_nodes=AD_HOC_REMOVALS)
-    mt_dss = useless_lexemes_remover.data
+    final_aleph_converter = FinalAlephConverter(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = final_aleph_converter.data
 
-    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
-    mt_dss = syllables_without_variation_remover.data_variable_syllables
+    fem_t_stripper = FeminineTStripper(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = fem_t_stripper.data
 
-    mt_dss.to_csv('../data/mt_dss_new_matres_pattern.csv', sep='\t', index=False)
+    other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = other_vowel_endings_column_adder.data
 
-    # TODO: adapt dtypes in mt_dss(object -> categorical)
+    return mt_dss_ptc_qal_df
+
+
+def get_hiphil_data():
+    pass
+
+
+def get_infinitive_data():
+    pass
+
+
+
 
 
 if __name__ == '__main__':

@@ -172,9 +172,9 @@ class DSSMatresProcessor:
     Parser for vowel letters in the Biblical DSS. This is done by comparing a stem of a word in the DSS with
     stems of the same lexeme in the MT.
     """
-    def __init__(self, corpus, relevant_sps, matres_pattern_dict):
+    def __init__(self, corpus, relevant_data, matres_pattern_dict):
         self.corpus = corpus
-        self.relevant_sps = relevant_sps
+        self.relevant_data = relevant_data
         self.matres_pattern_dict = matres_pattern_dict
 
         self.biblical_sections = self.collect_biblical_sections()
@@ -194,7 +194,11 @@ class DSSMatresProcessor:
 
     def check_word_conditions(self, word_obj):
         is_hebrew = word_obj.lang == 'Hebrew'
-        is_sp_relevant = word_obj.sp in self.relevant_sps
+        #print('REL_DATA', self.relevant_data)
+        if self.relevant_data == 'subs_adjv':
+            is_sp_relevant = word_obj.sp in ['subs', 'adjv']
+        elif self.relevant_data == 'ptc_qal':
+            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt in ['ptca', 'ptcp'] and word_obj.vs == 'qal'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_sp_relevant])
 
     @staticmethod

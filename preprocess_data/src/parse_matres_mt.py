@@ -129,9 +129,8 @@ class MatresParserBHSA:
 
 class MTMatresProcessor:
 
-    def __init__(self, corpus, relevant_sps):
+    def __init__(self, corpus):
         self.corpus = corpus
-        self.relevant_sps = relevant_sps
         self.matres_pattern_dict = {}
         self.bhsa_export_dict = {}
 
@@ -140,8 +139,6 @@ class MTMatresProcessor:
         self.export_mt_data()
         self.mt_matres_df = self.make_df()
         self.save_mt_dataset('matres_mt.csv')
-
-        self.mt_matres_df_relevant_sps = self.mt_matres_df[self.mt_matres_df.sp.isin(self.relevant_sps)]
 
     def get_matres_patterns_in_mt(self):
 
