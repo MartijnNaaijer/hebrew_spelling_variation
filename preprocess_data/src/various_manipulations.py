@@ -160,18 +160,11 @@ class FinalYodRemover:
 
 class MTDSSHelpColumnsAdder:
     """"""
-    def __init__(self, mt_dss_data,
-                 relevant_sp_values):
+    def __init__(self, mt_dss_data):
         self.mt_dss_data = mt_dss_data
-        self.relevant_sp_values = relevant_sp_values
-
-        self.select_parts_of_speech()
         self.add_col_final_H()
         self.add_line_and_column_in_manuscript()
         self.add_extra_columns()
-
-    def select_parts_of_speech(self):
-        self.mt_dss_data = self.mt_dss_data[self.mt_dss_data.sp.isin(self.relevant_sp_values)]
 
     def add_col_final_H(self):
         self.mt_dss_data['final_h'] = np.where(self.mt_dss_data.lex.str.strip('/').str.strip('=').str[-1] == 'H',
