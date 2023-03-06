@@ -46,6 +46,7 @@ def main():
     print(mt_dss_ptc_qal_data)
     mt_dss_ptc_qal_data.to_csv('../data/mt_dss_ptc_qal.csv', sep='\t', index=False)
     # TODO: Rework MatresColumnAdder for participles
+    # TODO evt only stems with three consonants
 
 
 def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
@@ -127,7 +128,7 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
     other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = other_vowel_endings_column_adder.data
 
-    final_yod_remover = FinalYodRemover(mt_dss_ptc_qal_df )
+    final_yod_remover = FinalYodRemover(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = final_yod_remover.data
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss_ptc_qal_df)
