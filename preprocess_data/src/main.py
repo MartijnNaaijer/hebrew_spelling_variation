@@ -23,6 +23,9 @@ from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 from remove_useless_participle_roots import UselessParticiplesRemover
 from matres_column_participles import ParticiplesCorrector, MatresColumnAdderActiveParticiples
 
+# For infc
+from matres_column_infc import InfcLamedHeCorrector
+
 
 def main():
 
@@ -53,7 +56,6 @@ def main():
     print(lamed_he_infc.shape)
     lamed_he_infc.to_csv('../data/lamed_he_infc.csv', sep='\t', index=False)
     other_infc.to_csv('../data/other_infc.csv', sep='\t', index=False)
-
 
 
 def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
@@ -185,6 +187,10 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     lamed_he_infc = mt_dss_infc_qal_df[mt_dss_infc_qal_df.lex.str[2] == 'H']
     other_infc = mt_dss_infc_qal_df[mt_dss_infc_qal_df.lex.str[2] != 'H']
+
+    infc_lamed_he_corrector = InfcLamedHeCorrector(lamed_he_infc)
+    infc_lamed_he = infc_lamed_he_corrector.data
+
     return lamed_he_infc, other_infc
 
 
