@@ -2,7 +2,6 @@
 A dataset is created containing nouns and adjectives that show orthographic variation in their stem. With "stem", we
 the consonantal representation of a word without suffixes (nominal endings and pronominal suffixes) and without prefixed
 words (article or preposition).
-The output is a csv file that
 
 """
 
@@ -14,7 +13,7 @@ from first_data_selection_mt import BasicMTDataSelector
 from parse_matres_mt import MTMatresProcessor
 from parse_matres_dss import DSSMatresProcessor, MatresPatternDataSet
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
-    FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder
+    FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder, RecCorColumnsAdder
 from process_invalid_data import InvalidDataRemover
 from remove_useless_lexemes_and_plurals import UselessRowsRemover, SyllablesWithoutVariationRemover
 
@@ -22,6 +21,7 @@ from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
 # For participles
 from remove_useless_participle_roots import UselessParticiplesRemover
+from matres_column_participles import ParticiplesCorrector
 
 
 def main():
@@ -42,9 +42,12 @@ def main():
 
     # ptca en ptcp qal
     ptca, ptcp = get_participle_qal_data(corpus, mt, matres_pattern_dataset)
-    mt_dss_ptc_qal_data = pd.concat([ptca, ptcp])
-    print(mt_dss_ptc_qal_data)
-    mt_dss_ptc_qal_data.to_csv('../data/mt_dss_ptc_qal.csv', sep='\t', index=False)
+    ptca = ptca.sort_values(by=['tf_id'])
+    ptcp = ptcp.sort_values(by=['tf_id'])
+    #mt_dss_ptc_qal_data = pd.concat([ptca, ptcp])
+    #print(mt_dss_ptc_qal_data)
+    ptca.to_csv('../data/ptca.csv', sep='\t', index=False)
+    ptcp.to_csv('../data/ptcp.csv', sep='\t', index=False)
     # TODO: Rework MatresColumnAdder for participles
     # TODO evt only stems with three consonants
 
@@ -80,6 +83,9 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss)
     mt_dss = mt_dss_help_columns_adder.mt_dss_data
+
+    rec_cor_columns_adder = RecCorColumnsAdder(mt_dss)
+    mt_dss = rec_cor_columns_adder.data
 
     mt_dss.to_csv('../data/mt_dss_before_matres_col_adder.csv', sep='\t', index=False)
 
@@ -134,14 +140,20 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = mt_dss_help_columns_adder.mt_dss_data
 
+    rec_cor_columns_adder = RecCorColumnsAdder(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = rec_cor_columns_adder.data
+
     ptca = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptca']
     ptcp = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptcp']
 
-    matres_column_adder = MatresColumnAdder(ptca)
-    ptca = matres_column_adder.df_with_vowel_letters.sort_values(by=['tf_id'])
+    participles_corrector = ParticiplesCorrector(ptca)
+    ptca = participles_corrector.data
 
-    matres_column_adder = MatresColumnAdder(ptcp)
-    ptcp = matres_column_adder.df_with_vowel_letters.sort_values(by=['tf_id'])
+    #matres_column_adder = MatresColumnAdder(ptca)
+    #ptca = matres_column_adder.df_with_vowel_letters.sort_values(by=['tf_id'])
+
+    #matres_column_adder = MatresColumnAdder(ptcp)
+    #ptcp = matres_column_adder.df_with_vowel_letters.sort_values(by=['tf_id'])
 
     return ptca, ptcp
 

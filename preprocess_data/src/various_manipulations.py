@@ -195,6 +195,26 @@ class MTDSSHelpColumnsAdder:
         self.mt_dss_data['has_nme'] = (self.mt_dss_data['nme'].str.len() > 0).astype(int)
 
 
+class RecCorColumnsAdder:
+    """"""
+    def __init__(self, data):
+        self.data = data
+        self.add_column_reconstructed_stem()
+        self.add_column_corrected_stem()
+
+    def add_column_reconstructed_stem(self):
+        recs = [rec_signs if isinstance(rec_signs, str) else '' for rec_signs in self.data.rec_signs]
+        stems = [stem if isinstance(stem, str) else '' for stem in self.data.stem]
+
+        self.data['rec_signs_stem'] = [rec[:len(stem)] for rec, stem in zip(recs, stems)]
+
+    def add_column_corrected_stem(self):
+        cors = [cor_signs if isinstance(cor_signs, str) else '' for cor_signs in self.data.cor_signs]
+        stems = [stem if isinstance(stem, str) else '' for stem in self.data.stem]
+
+        self.data['cor_signs_stem'] = [cor[:len(stem)] for cor, stem in zip(cors, stems)]
+
+
 class MatresColumnAdder:
     """
 
@@ -206,21 +226,7 @@ class MatresColumnAdder:
 
         self.add_type_and_vowel_letter_to_rows()
         self.df_with_vowel_letters = self.merge_rows_in_df()
-        self.add_column_reconstructed_stem()
-        self.add_column_corrected_stem()
         self.add_column_has_vowel_letter()
-
-    def add_column_reconstructed_stem(self):
-        recs = [rec_signs if isinstance(rec_signs, str) else '' for rec_signs in self.df_with_vowel_letters.rec_signs]
-        stems = [stem if isinstance(stem, str) else '' for stem in self.df_with_vowel_letters.stem]
-
-        self.df_with_vowel_letters['rec_signs_stem'] = [rec[:len(stem)] for rec, stem in zip(recs, stems)]
-
-    def add_column_corrected_stem(self):
-        cors = [cor_signs if isinstance(cor_signs, str) else '' for cor_signs in self.df_with_vowel_letters.cor_signs]
-        stems = [stem if isinstance(stem, str) else '' for stem in self.df_with_vowel_letters.stem]
-
-        self.df_with_vowel_letters['cor_signs_stem'] = [cor[:len(stem)] for cor, stem in zip(cors, stems)]
 
     def add_type_and_vowel_letter_to_rows(self):
 
