@@ -14,3 +14,8 @@ class BasicMTDataSelector:
                                             (self.data.vt.isin(['ptca', 'ptcp'])) &
                                             (self.data.vs == 'qal')]
             return participle_qal_data
+        elif self.relevant_data == 'infc_qal':
+            infc_qal_data = self.data[(self.data.sp == 'verb') &
+                                      (self.data.vt == 'infc') &
+                                      (self.data.vs == 'qal')]
+            return infc_qal_data

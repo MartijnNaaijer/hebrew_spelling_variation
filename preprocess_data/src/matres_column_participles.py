@@ -50,7 +50,22 @@ class ParticiplesCorrector:
         self.data = self.data[self.data.pattern.str.count('C') == 3]
 
 
-class MatresColumnAdderParticiples:
+class MatresColumnAdderActiveParticiples:
     """
+    Adds columns type, vowel_letter and has_vowel_letter.
     """
+    def __init__(self, data):
+        self.data = data
+        self.add_type_column()
+        self.add_column_vowel_letter()
+        self.add_column_has_vowel_letter()
 
+    def add_type_column(self):
+        self.data['type'] = 'first'
+
+    def add_column_vowel_letter(self):
+        self.data['vowel_letter'] = np.where(np.where(self.data.pattern.str[1] == 'M', True, False),
+                                             self.data.stem.str[1], '')
+
+    def add_column_has_vowel_letter(self):
+        self.data['has_vowel_letter'] = np.where(self.data.pattern.str[1] == 'M', 1, 0)

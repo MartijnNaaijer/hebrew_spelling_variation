@@ -21,7 +21,7 @@ from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
 # For participles
 from remove_useless_participle_roots import UselessParticiplesRemover
-from matres_column_participles import ParticiplesCorrector
+from matres_column_participles import ParticiplesCorrector, MatresColumnAdderActiveParticiples
 
 
 def main():
@@ -41,15 +41,19 @@ def main():
     ####################################################
 
     # ptca en ptcp qal
-    ptca, ptcp = get_participle_qal_data(corpus, mt, matres_pattern_dataset)
-    ptca = ptca.sort_values(by=['tf_id'])
-    ptcp = ptcp.sort_values(by=['tf_id'])
-    #mt_dss_ptc_qal_data = pd.concat([ptca, ptcp])
-    #print(mt_dss_ptc_qal_data)
-    ptca.to_csv('../data/ptca.csv', sep='\t', index=False)
-    ptcp.to_csv('../data/ptcp.csv', sep='\t', index=False)
-    # TODO: Rework MatresColumnAdder for participles
-    # TODO evt only stems with three consonants
+    # ptca, ptcp = get_participle_qal_data(corpus, mt, matres_pattern_dataset)
+    # ptca = ptca.sort_values(by=['tf_id'])
+    # ptcp = ptcp.sort_values(by=['tf_id'])
+    # ptca.to_csv('../data/ptca.csv', sep='\t', index=False)
+    # ptcp.to_csv('../data/ptcp.csv', sep='\t', index=False)
+    # TODO: patterns "CCMC" are strange, "CMCC" is expected.
+
+    lamed_he_infc, other_infc = get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset)
+    print(other_infc.shape)
+    print(lamed_he_infc.shape)
+    lamed_he_infc.to_csv('../data/lamed_he_infc.csv', sep='\t', index=False)
+    other_infc.to_csv('../data/other_infc.csv', sep='\t', index=False)
+
 
 
 def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
@@ -145,9 +149,13 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
 
     ptca = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptca']
     ptcp = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptcp']
+    # TODO: continue with ptcp (cleaning, add vowel cols)
 
     participles_corrector = ParticiplesCorrector(ptca)
     ptca = participles_corrector.data
+
+    matres_column_adder_ptca = MatresColumnAdderActiveParticiples(ptca)
+    ptca = matres_column_adder_ptca.data
 
     #matres_column_adder = MatresColumnAdder(ptca)
     #ptca = matres_column_adder.df_with_vowel_letters.sort_values(by=['tf_id'])
@@ -158,15 +166,33 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
     return ptca, ptcp
 
 
+def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='infc_qal')
+    mt_infc_qal_df = basic_mt_data_selector.select_data()
+
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='infc_qal',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+
+    mt_dss_infc_qal_df = pd.concat([mt_infc_qal_df, matres_parser_dss.dss_matres_df])
+    mt_dss_infc_qal_df = mt_dss_infc_qal_df.sort_values(by=['tf_id'])
+
+    hebrew_text_adder = HebrewTextAdder(mt_dss_infc_qal_df)
+    mt_dss_infc_qal_df = hebrew_text_adder.data
+
+    final_aleph_converter = FinalAlephConverter(mt_dss_infc_qal_df)
+    mt_dss_infc_qal_df = final_aleph_converter.data
+
+    lamed_he_infc = mt_dss_infc_qal_df[mt_dss_infc_qal_df.lex.str[2] == 'H']
+    other_infc = mt_dss_infc_qal_df[mt_dss_infc_qal_df.lex.str[2] != 'H']
+    return lamed_he_infc, other_infc
+
+
 def get_hiphil_data():
     pass
 
 
 def get_infinitive_absolute():
-    pass
-
-
-def get_qal_infinitive_construct_data():
     pass
 
 

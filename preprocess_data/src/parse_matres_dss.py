@@ -194,11 +194,12 @@ class DSSMatresProcessor:
 
     def check_word_conditions(self, word_obj):
         is_hebrew = word_obj.lang == 'Hebrew'
-        #print('REL_DATA', self.relevant_data)
         if self.relevant_data == 'subs_adjv':
             is_sp_relevant = word_obj.sp in ['subs', 'adjv']
         elif self.relevant_data == 'ptc_qal':
             is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt in ['ptca', 'ptcp'] and word_obj.vs == 'qal'
+        elif self.relevant_data == 'infc_qal':
+            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt == 'infc' and word_obj.vs == 'qal'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_sp_relevant])
 
     @staticmethod
