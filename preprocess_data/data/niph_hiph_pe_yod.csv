@@ -1,0 +1,1819 @@
+tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix_g_cons	rec_signs	cor_signs
+205	MT	Genesis	1	12	JY>[	TWY>	TWY>	CMCM	CMCM	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+449	MT	Genesis	1	24	JY>[	TWY>	TWY>	CMCM	CMCM	hif	impf	sg	f	p3	verb					nnnn	nnnn
+1687	MT	Genesis	4	2	JSP[	TSP	TSP	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
+1769	MT	Genesis	4	7	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1774	MT	Genesis	4	7	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1860	MT	Genesis	4	12	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	f	p3	verb					nnn	nnn
+2157	MT	Genesis	5	3	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2172	MT	Genesis	5	4	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2179	MT	Genesis	5	4	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2207	MT	Genesis	5	6	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2214	MT	Genesis	5	7	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2224	MT	Genesis	5	7	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2248	MT	Genesis	5	9	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2255	MT	Genesis	5	10	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2266	MT	Genesis	5	10	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2289	MT	Genesis	5	12	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2296	MT	Genesis	5	13	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2306	MT	Genesis	5	13	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2332	MT	Genesis	5	15	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2339	MT	Genesis	5	16	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2349	MT	Genesis	5	16	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2379	MT	Genesis	5	18	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2386	MT	Genesis	5	19	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2393	MT	Genesis	5	19	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2420	MT	Genesis	5	21	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2430	MT	Genesis	5	22	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2437	MT	Genesis	5	22	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2477	MT	Genesis	5	25	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2484	MT	Genesis	5	26	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2496	MT	Genesis	5	26	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2526	MT	Genesis	5	28	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2553	MT	Genesis	5	30	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+2565	MT	Genesis	5	30	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2592	MT	Genesis	5	32	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2784	MT	Genesis	6	10	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+3746	MT	Genesis	8	10	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+3897	MT	Genesis	8	17	JY>[	HWY>	HWY>			hif	impv	sg	m	p2	verb					nnnn	nnnn
+3983	MT	Genesis	8	21	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg	unknown	p1	verb					nnn	nnn
+4004	MT	Genesis	8	21	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg	unknown	p1	verb					nnn	nnn
+5145	MT	Genesis	11	10	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5156	MT	Genesis	11	11	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5163	MT	Genesis	11	11	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5175	MT	Genesis	11	12	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5182	MT	Genesis	11	13	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5192	MT	Genesis	11	13	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5202	MT	Genesis	11	14	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5209	MT	Genesis	11	15	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5219	MT	Genesis	11	15	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5231	MT	Genesis	11	16	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5238	MT	Genesis	11	17	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5248	MT	Genesis	11	17	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5258	MT	Genesis	11	18	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5265	MT	Genesis	11	19	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5274	MT	Genesis	11	19	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5286	MT	Genesis	11	20	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5293	MT	Genesis	11	21	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5302	MT	Genesis	11	21	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5312	MT	Genesis	11	22	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5319	MT	Genesis	11	23	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5325	MT	Genesis	11	23	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5337	MT	Genesis	11	24	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5344	MT	Genesis	11	25	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+5354	MT	Genesis	11	25	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5364	MT	Genesis	11	26	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+5377	MT	Genesis	11	27	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+5387	MT	Genesis	11	27	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+5781	MT	Genesis	12	16	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+6032	MT	Genesis	13	9	JMN[	>JMNH	>JMN	CMCC	CMCCM	hif	impf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+6560	MT	Genesis	14	18	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+6746	MT	Genesis	15	5	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+6785	MT	Genesis	15	7	JY>[	HWY>TJK	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
+7677	MT	Genesis	17	20	JLD[	JWLJD	JWLJD	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+8289	MT	Genesis	18	27	J>L[	HW>LTJ	HW>L	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+8324	MT	Genesis	18	29	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+8368	MT	Genesis	18	31	J>L[	HW>LTJ	HW>L	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+8536	MT	Genesis	19	5	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	impv	sg	m	p2	verb	M				nnnnnn	nnnnnn
+8567	MT	Genesis	19	8	JY>[	>WYJ>H	>WYJ>	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+8690	MT	Genesis	19	12	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	p2	verb					nnnn	nnnn
+8795	MT	Genesis	19	16	JY>[	JY>HW	JY>	CCC	CCCCM	hif	wayq	pl	m	p3	verb	HW			W	nnnnn	nnnnn
+8806	MT	Genesis	19	17	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			K	nnnnnn	nnnnnn
+9588	MT	Genesis	20	16	JKX[	NKXT	NKX	CCC	CCCC	nif	ptca	sg	f	unknown	verb		T		W	nnnn	nnnn
+9662	MT	Genesis	21	3	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb				H	nnnn	nnnn
+9712	MT	Genesis	21	7	JNQ[	HJNJQH	HJNJQ	CMCMC	CMCMCM	hif	perf	sg	f	p3	verb					nnnnnn	nnnnnn
+10067	MT	Genesis	21	25	JKX[	HWKX	HWKX	CMCC	CMCC	hif	perf	sg	m	p3	verb				W	nnnn	nnnn
+11405	MT	Genesis	24	14	JKX[	HKXT	HKX	CCC	CCCC	hif	perf	sg	m	p2	verb					nnnn	nnnn
+11484	MT	Genesis	24	18	JRD[	TRD	TRD	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
+11974	MT	Genesis	24	44	JKX[	HKJX	HKJX	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+12008	MT	Genesis	24	46	JRD[	TWRD	TWRD	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+12156	MT	Genesis	24	53	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+12427	MT	Genesis	25	1	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+12714	MT	Genesis	25	19	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+14831	MT	Genesis	28	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+15582	MT	Genesis	29	35	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+15963	MT	Genesis	30	24	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+16218	MT	Genesis	30	36	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	pl	f	unknown	verb		T		H	nnnnn	nnnnn
+16243	MT	Genesis	30	38	JYG[	JYG	JYG	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+17097	MT	Genesis	31	37	JKX[	JWKJXW	JWKJX	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb				W	nnnnnn	nnnnnn
+17192	MT	Genesis	31	42	JKX[	JWKX	JWKX	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+17631	MT	Genesis	32	10	JVB[	>JVJBH	>JVJB	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+17684	MT	Genesis	32	13	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+17685	MT	Genesis	32	13	JVB[	>JVJB	>JVJB	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+17730	MT	Genesis	32	16	JNQ[	MJNJQWT	MJNJQ	CMCMC	CMCMCMC	hif	ptca	pl	f	unknown	verb		WT			nnnnnnn	nnnnnnn
+18354	MT	Genesis	33	15	JYG[	>YJGH	>YJG	CCMC	CCMCM	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+20256	MT	Genesis	37	5	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+20308	MT	Genesis	37	8	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+20646	MT	Genesis	37	25	JRD[	HWRJD	HWRJD	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+20904	MT	Genesis	38	5	JSP[	TSP	TSP	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
+21298	MT	Genesis	38	24	JY>[	HWYJ>WH	HWYJ>	CMCMC	CMCMCMC	hif	impv	pl	m	p2	verb	H				nnnnnnn	nnnnnnn
+21436	MT	Genesis	39	1	JRD[	HWRDHW	HWRD	CMCC	CMCCCM	hif	perf	pl	unknown	p3	verb	HW				nnnnnn	nnnnnn
+22177	MT	Genesis	40	14	JY>[	HWY>TNJ	HWY>	CMCM	CMCMCCM	hif	perf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+22734	MT	Genesis	41	21	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+23061	MT	Genesis	41	39	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+24134	MT	Genesis	42	38	JRD[	HWRDTM	HWRD	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+24266	MT	Genesis	43	7	JRD[	HWRJDW	HWRJD	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+24304	MT	Genesis	43	9	JYG[	HYGTJW	HYG	CCC	CCCCMC	hif	perf	sg	unknown	p1	verb	W			W	nnnnnn	nnnnnn
+24339	MT	Genesis	43	11	JRD[	HWRJDW	HWRJD	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+24582	MT	Genesis	43	22	JRD[	HWRDNW	HWRD	CMCC	CMCCCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
+24614	MT	Genesis	43	23	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+25025	MT	Genesis	44	11	JRD[	JWRDW	JWRD	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+25223	MT	Genesis	44	21	JRD[	HWRDHW	HWRD	CMCC	CMCCCM	hif	impv	pl	m	p2	verb	HW				nnnnnn	nnnnnn
+25259	MT	Genesis	44	23	JSP[	TSPWN	TSP	CCC	CCCMC	hif	impf	pl	m	p2	verb					nnnnn	nnnnn
+25352	MT	Genesis	44	29	JRD[	HWRDTM	HWRD	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+25386	MT	Genesis	44	31	JRD[	HWRJDW	HWRJD	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnnn	nnnnnn
+25466	MT	Genesis	45	1	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+25714	MT	Genesis	45	13	JRD[	HWRDTM	HWRD	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+26429	MT	Genesis	46	28	JRH[	HWRT	HWR	CMC	CMCC	hif	infc		unknown	unknown	verb		T		L	nnnn	nnnn
+26594	MT	Genesis	47	2	JYG[	JYGM	JYG	CCC	CCCC	hif	wayq	sg	m	p3	verb	M			W	nnnn	nnnn
+26671	MT	Genesis	47	6	JCB[	HWCB	HWCB	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+26764	MT	Genesis	47	11	JCB[	JWCB	JWCB	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+27388	MT	Genesis	48	5	JLD[	NWLDJM	NWLD	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+27411	MT	Genesis	48	6	JLD[	HWLDT	HWLD	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+27519	MT	Genesis	48	12	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+27824	MT	Genesis	49	4	JTR[	TWTR	TWTR	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+27877	MT	Genesis	49	8	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+28872	MT	Exodus	1	10	JSP[	NWSP	NWSP	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+29068	MT	Exodus	1	20	JVB[	JJVB	JJVB	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+29255	MT	Exodus	2	7	JNQ[	TJNQ	TJNQ	CMCC	CMCC	hif	impf	sg	f	p3	verb				W	nnnn	nnnn
+29288	MT	Exodus	2	9	JNQ[	HJNQHW	HJNQ	CMCC	CMCCCM	hif	impv	sg	f	p2	verb	HW			W	nnnnnn	nnnnnn
+29302	MT	Exodus	2	9	JNQ[	TNJQHW	TNJQ	CCMC	CCMCCM	hif	wayq	sg	f	p3	verb	HW			W	nnnnnn	nnnnnn
+29423	MT	Exodus	2	14	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+29485	MT	Exodus	2	17	JC<[	JWC<N	JWC<	CMCC	CMCCC	hif	wayq	sg	m	p3	verb	N			W	nnnnn	nnnnn
+29539	MT	Exodus	2	21	J>L[	JW>L	JW>L	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+29854	MT	Exodus	3	10	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	p2	verb				W	nnnn	nnnn
+29875	MT	Exodus	3	11	JY>[	>WYJ>	>WYJ>	CMCMM	CMCMM	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+29895	MT	Exodus	3	12	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			B	nnnnnn	nnnnnn
+30271	MT	Exodus	4	6	JY>[	JWY>H	JWY>	CMCC	CMCCC	hif	wayq	sg	m	p3	verb	H			W	nnnnn	nnnnn
+30291	MT	Exodus	4	7	JY>[	JWY>H	JWY>	CMCC	CMCCC	hif	wayq	sg	m	p3	verb	H			W	nnnnn	nnnnn
+30428	MT	Exodus	4	12	JRH[	HWRJTJK	HWRJ	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	K			W	nnnnnnn	nnnnnnn
+30491	MT	Exodus	4	15	JRH[	HWRJTJ	HWRJ	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+30936	MT	Exodus	5	7	JSP[	T>SPWN	T>SP	CMCC	CMCCMC	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+31299	MT	Exodus	6	3	JD<[	NWD<TJ	NWD<	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+31343	MT	Exodus	6	6	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+31382	MT	Exodus	6	7	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+31495	MT	Exodus	6	13	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+31712	MT	Exodus	6	26	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+31729	MT	Exodus	6	27	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+31847	MT	Exodus	7	4	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+31873	MT	Exodus	7	5	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+32686	MT	Exodus	8	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+32962	MT	Exodus	8	25	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+33648	MT	Exodus	9	28	JSP[	TSPWN	TSP	CCC	CCCMC	hif	impf	pl	m	p2	verb					nnnnn	nnnnn
+33759	MT	Exodus	9	34	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+34181	MT	Exodus	10	15	JTR[	HWTJR	HWTJR	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+34186	MT	Exodus	10	15	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+34430	MT	Exodus	10	28	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	m	p2	verb					nnn	nnn
+34445	MT	Exodus	10	29	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg	unknown	p1	verb					nnn	nnn
+34583	MT	Exodus	11	6	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	f	p3	verb					nnn	nnn
+34867	MT	Exodus	12	10	JTR[	TWTJRW	TWTJR	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+34873	MT	Exodus	12	10	JTR[	NTR	NTR	CCC	CCC	nif	ptca	sg	m	unknown	verb				WH	nnn	nnn
+35067	MT	Exodus	12	17	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+35540	MT	Exodus	12	39	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+35608	MT	Exodus	12	42	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+35666	MT	Exodus	12	46	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+35753	MT	Exodus	12	51	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+35812	MT	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+35949	MT	Exodus	13	9	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
+36039	MT	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+36099	MT	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+36445	MT	Exodus	14	11	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NW			L	nnnnnnn	nnnnnnn
+36504	MT	Exodus	14	13	JSP[	TSJPW	TSJP	CCMC	CCMCM	hif	impf	pl	m	p2	verb					nnnnn	nnnnn
+36866	MT	Exodus	14	30	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+37036	MT	Exodus	15	9	JRC[	TWRJCMW	TWRJC	CMCMC	CMCMCCM	hif	impf	sg	f	p3	verb	MW				nnnnnnn	nnnnnnn
+37062	MT	Exodus	15	11	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+37272	MT	Exodus	15	25	JRH[	JWRHW	JWR	CMC	CMCCM	hif	wayq	sg	m	p3	verb	HW			W	nnnnn	nnnnn
+37421	MT	Exodus	16	3	JY>[	HWY>TM	HWY>	CMCM	CMCMCC	hif	perf	pl	m	p2	verb					nnnnnn	nnnnnn
+37503	MT	Exodus	16	6	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+37777	MT	Exodus	16	19	JTR[	JWTR	JWTR	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+37787	MT	Exodus	16	20	JTR[	JWTRW	JWTR	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+38048	MT	Exodus	16	32	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	J			B	nnnnnn	nnnnnn
+38106	MT	Exodus	16	35	JCB[	NWCBT	NWCB	CMCC	CMCCC	nif	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn
+38499	MT	Exodus	18	1	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+38810	MT	Exodus	18	16	JD<[	HWD<TJ	HWD<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+38888	MT	Exodus	18	20	JD<[	HWD<T	HWD<	CMCC	CMCCC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+39417	MT	Exodus	19	17	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+39611	MT	Exodus	20	2	JY>[	HWY>TJK	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
+40568	MT	Exodus	21	36	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+40914	MT	Exodus	22	20	JNH[	TWNH	TWNH	CMCM	CMCM	hif	impf	sg	m	p2	verb					nnnn	nnnn
+41861	MT	Exodus	24	12	JRH[	HWRTM	HWR	CMC	CMCCC	hif	infc		unknown	unknown	verb	M	T		L	nnnnn	nnnnn
+42297	MT	Exodus	25	22	J<D[	NW<DTJ	NW<D	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+43905	MT	Exodus	28	10	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+45291	MT	Exodus	29	34	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+45461	MT	Exodus	29	43	J<D[	N<DTJ	N<D	CCC	CCCCM	nif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+45507	MT	Exodus	29	46	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+45636	MT	Exodus	30	7	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W			B	nnnnnn	nnnnnn
+46737	MT	Exodus	32	11	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+46755	MT	Exodus	32	12	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+47389	MT	Exodus	33	5	JRD[	HWRD	HWRD	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+47562	MT	Exodus	33	12	JD<[	HWD<TNJ	HWD<	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+47587	MT	Exodus	33	13	JD<[	HWD<NJ	HWD<	CMCC	CMCCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnn	nnnnnn
+48012	MT	Exodus	34	10	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+48242	MT	Exodus	34	24	JRC[	>WRJC	>WRJC	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+49114	MT	Exodus	35	34	JRH[	HWRT	HWR	CMC	CMCC	hif	infc		unknown	unknown	verb		T		WL	nnnn	nnnn
+49345	MT	Exodus	36	7	JTR[	HWTR	HWTR	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+52932	MT	Leviticus	2	3	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	sg	f	unknown	verb		T		WH	nnnnn	nnnnn
+53041	MT	Leviticus	2	10	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	sg	f	unknown	verb		T		WH	nnnnn	nnnnn
+53759	MT	Leviticus	4	12	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+53816	MT	Leviticus	4	14	JD<[	NWD<H	NWD<	CMCC	CMCCM	nif	perf	sg	f	p3	verb				W	nnnnn	nnnnn
+53958	MT	Leviticus	4	21	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+54376	MT	Leviticus	5	4	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+54667	MT	Leviticus	5	16	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+54848	MT	Leviticus	5	24	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+54976	MT	Leviticus	6	4	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+55078	MT	Leviticus	6	9	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	sg	f	unknown	verb		T		WH	nnnnn	nnnnn
+55601	MT	Leviticus	7	16	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+55606	MT	Leviticus	7	17	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+56795	MT	Leviticus	8	32	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+57605	MT	Leviticus	10	11	JRH[	HWRT	HWR	CMC	CMCC	hif	infc		unknown	unknown	verb		T		WL	nnnn	nnnn
+57633	MT	Leviticus	10	12	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+57639	MT	Leviticus	10	12	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	sg	f	unknown	verb		T		H	nnnnn	nnnnn
+57755	MT	Leviticus	10	16	JTR[	NWTRM	NWTR	CMCC	CMCCC	nif	ptca	pl	m	unknown	verb		M		H	nnnnn	nnnnn
+59118	MT	Leviticus	13	11	JCN[	NWCNT	NWCN	CMCC	CMCCC	nif	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn
+60643	MT	Leviticus	14	18	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+60901	MT	Leviticus	14	29	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+61255	MT	Leviticus	14	45	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+61496	MT	Leviticus	14	57	JRH[	HWRT	HWR	CMC	CMCC	hif	infc		unknown	unknown	verb		T		L	nnnn	nnnn
+62829	MT	Leviticus	16	27	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+63892	MT	Leviticus	19	6	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+64062	MT	Leviticus	19	17	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+64063	MT	Leviticus	19	17	JKX[	TWKJX	TWKJX	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+64215	MT	Leviticus	19	25	JSP[	HWSJP	HWSJP	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+64320	MT	Leviticus	19	33	JNH[	TWNW	TWN	CMC	CMCM	hif	impf	pl	m	p2	verb					nnnn	nnnn
+64376	MT	Leviticus	19	36	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+65901	MT	Leviticus	22	30	JTR[	TWTJRW	TWTJR	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+65931	MT	Leviticus	22	33	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+66754	MT	Leviticus	23	43	JCB[	HWCBTJ	HWCB	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+66759	MT	Leviticus	23	43	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	J			B	nnnnnn	nnnnnn
+66998	MT	Leviticus	24	14	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	p2	verb					nnnn	nnnn
+67139	MT	Leviticus	24	23	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+67417	MT	Leviticus	25	14	JNH[	TWNW	TWN	CMC	CMCM	hif	impf	pl	m	p2	verb					nnnn	nnnn
+67460	MT	Leviticus	25	17	JNH[	TWNW	TWN	CMC	CMCM	hif	impf	pl	m	p2	verb					nnnn	nnnn
+67847	MT	Leviticus	25	38	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+67909	MT	Leviticus	25	42	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+67962	MT	Leviticus	25	45	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+68140	MT	Leviticus	25	55	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+68300	MT	Leviticus	26	10	JCN[	NWCN	NWCN	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+68306	MT	Leviticus	26	10	JY>[	TWYJ>W	TWYJ>	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+68336	MT	Leviticus	26	13	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+68928	MT	Leviticus	26	45	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+69306	MT	Leviticus	27	18	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	pl	f	unknown	verb		T		H	nnnnn	nnnnn
+69556	MT	Leviticus	27	31	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+70358	MT	Numbers	1	51	JRD[	JWRJDW	JWRJD	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+71839	MT	Numbers	4	5	JRD[	HWRDW	HWRD	CMCC	CMCCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+72843	MT	Numbers	5	7	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+76299	MT	Numbers	10	3	J<D[	NW<DW	NW<D	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+76314	MT	Numbers	10	4	J<D[	NW<DW	NW<D	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+76395	MT	Numbers	10	9	JC<[	NWC<TM	NWC<	CMCC	CMCCCC	nif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+76678	MT	Numbers	10	29	JVB[	HVBNW	HVB	CCC	CCCCM	hif	perf	pl	unknown	p1	verb				W	nnnnn	nnnnn
+76730	MT	Numbers	10	32	JVB[	JJVJB	JJVJB	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+76734	MT	Numbers	10	32	JVB[	HVBNW	HVB	CCC	CCCCM	hif	perf	pl	unknown	p1	verb				W	nnnnn	nnnnn
+77775	MT	Numbers	12	11	J>L=[	NW>LNW	NW>L	CMCC	CMCCCM	nif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
+78359	MT	Numbers	13	32	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+78651	MT	Numbers	14	12	JRC[	>WRCNW	>WRC	CMCC	CMCCCM	hif	impf	sg	unknown	p1	verb	W			W	nnnnnn	nnnnnn
+78908	MT	Numbers	14	24	JRC[	JWRCNH	JWRC	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	H				nnnnnn	nnnnnn
+79112	MT	Numbers	14	35	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+79144	MT	Numbers	14	36	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+79153	MT	Numbers	14	37	JY>[	MWY>J	MWY>	CMCC	CMCCM	hif	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn
+79949	MT	Numbers	15	36	JY>[	JYJ>W	JYJ>	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+80050	MT	Numbers	15	41	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+80150	MT	Numbers	16	5	JD<[	JD<	JD<	CCC	CCC	hif	impf	sg	m	p3	verb				W	nnn	nnn
+80263	MT	Numbers	16	11	J<D[	N<DJM	N<D	CCC	CCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn
+81208	MT	Numbers	17	23	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+81217	MT	Numbers	17	24	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+82053	MT	Numbers	19	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+82697	MT	Numbers	20	8	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+82749	MT	Numbers	20	10	JY>[	NWYJ>	NWYJ>	CMCMM	CMCMM	hif	impf	pl	unknown	p1	verb					nnnnn	nnnnn
+82868	MT	Numbers	20	16	JY>[	JY>NW	JY>	CCC	CCCCM	hif	wayq	sg	m	p3	verb	NW			W	nnnnn	nnnnn
+83725	MT	Numbers	21	32	JRC[	JJRC	JJRC			hif	wayq	sg	m	p3	verb					nnnn	nnnn
+84102	MT	Numbers	22	15	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+84193	MT	Numbers	22	19	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+84341	MT	Numbers	22	25	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+84345	MT	Numbers	22	26	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+85058	MT	Numbers	23	22	JY>[	MWYJ>M	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn
+85321	MT	Numbers	24	8	JY>[	MWYJ>W	MWYJ>	CMCMC	CMCMCM	hif	ptca	sg	m	unknown	verb	W				nnnnnn	nnnnnn
+85675	MT	Numbers	25	4	JQ<[	HWQ<	HWQ<	CMCC	CMCC	hif	impv	sg	m	p2	verb				W	nnnn	nnnn
+86349	MT	Numbers	26	29	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+86755	MT	Numbers	26	58	JLD[	HWLD	HWLD	CMCC	CMCC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+86891	MT	Numbers	26	65	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+86971	MT	Numbers	27	3	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+87205	MT	Numbers	27	17	JY>[	JWYJ>M	JWYJ>	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+90289	MT	Numbers	32	21	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
+90621	MT	Numbers	32	39	JRC[	JWRC	JWRC	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+91279	MT	Numbers	33	52	JRC[	HWRCTM	HWRC	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+91304	MT	Numbers	33	53	JRC[	HWRCTM	HWRC	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+91358	MT	Numbers	33	55	JRC[	TWRJCW	TWRJC	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+91368	MT	Numbers	33	55	JTR[	TWTJRW	TWTJR	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+92593	MT	Numbers	36	3	JSP[	NWSP	NWSP	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+92615	MT	Numbers	36	4	JSP[	NWSPH	NWSP	CMCC	CMCCM	nif	perf	sg	f	p3	verb				W	nnnnn	nnnnn
+92898	MT	Deuteronomy	1	5	J>L[	HW>JL	HW>JL	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+93034	MT	Deuteronomy	1	11	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+93197	MT	Deuteronomy	1	19	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+93325	MT	Deuteronomy	1	25	JRD[	JWRDW	JWRD	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+93362	MT	Deuteronomy	1	27	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+95090	MT	Deuteronomy	3	26	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+95191	MT	Deuteronomy	4	2	JSP[	TSPW	TSP	CCC	CCCM	hif	impf	pl	m	p2	verb					nnnn	nnnn
+95367	MT	Deuteronomy	4	9	JD<[	HWD<TM	HWD<	CMCC	CMCCCC	hif	perf	sg	m	p2	verb	M			W	nnnnnn	nnnnnn
+95616	MT	Deuteronomy	4	20	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+95719	MT	Deuteronomy	4	25	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+95725	MT	Deuteronomy	4	25	JCN[	NWCNTM	NWCN	CMCC	CMCCCC	nif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+96040	MT	Deuteronomy	4	37	JY>[	JWY>K	JWY>	CMCC	CMCCC	hif	wayq	sg	m	p3	verb	K			W	nnnnn	nnnnn
+96050	MT	Deuteronomy	4	38	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+96419	MT	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
+96586	MT	Deuteronomy	5	15	JY>[	JY>K	JY>	CCC	CCCC	hif	wayq	sg	m	p3	verb	K			W	nnnn	nnnn
+96857	MT	Deuteronomy	5	28	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+97184	MT	Deuteronomy	6	12	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn
+97325	MT	Deuteronomy	6	21	JY>[	JWYJ>NW	JWYJ>	CMCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	NW			W	nnnnnnn	nnnnnnn
+97353	MT	Deuteronomy	6	23	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+97596	MT	Deuteronomy	7	8	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+97812	MT	Deuteronomy	7	17	JRC[	HWRJCM	HWRJC	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+97853	MT	Deuteronomy	7	19	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
+97899	MT	Deuteronomy	7	21	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+98072	MT	Deuteronomy	8	3	JD<[	HWD<K	HWD<	CMCC	CMCCC	hif	infc		unknown	unknown	verb	K				nnnnn	nnnnn
+98261	MT	Deuteronomy	8	14	JY>[	MWYJ>K	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn
+98277	MT	Deuteronomy	8	15	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+98288	MT	Deuteronomy	8	15	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+98311	MT	Deuteronomy	8	16	JVB[	HJVBK	HJVB	CMCC	CMCCC	hif	infc		unknown	unknown	verb	K			L	nnnnn	nnnnn
+98463	MT	Deuteronomy	9	3	JRC[	HWRCTM	HWRC	CMCC	CMCCCC	hif	perf	sg	m	p2	verb	M			W	nnnnnn	nnnnnn
+98505	MT	Deuteronomy	9	4	JRC[	MWRJCM	MWRJC	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn
+98530	MT	Deuteronomy	9	5	JRC[	MWRJCM	MWRJC	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn
+98720	MT	Deuteronomy	9	12	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+98928	MT	Deuteronomy	9	21	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+99040	MT	Deuteronomy	9	26	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+99075	MT	Deuteronomy	9	28	JY>[	HWY>TNW	HWY>	CMCM	CMCMCCM	hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+99094	MT	Deuteronomy	9	28	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+99106	MT	Deuteronomy	9	29	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+99507	MT	Deuteronomy	10	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+99568	MT	Deuteronomy	10	21	JR>[	NWR>T	NWR>	CMCC	CMCCC	nif	ptca	pl	f	unknown	verb		T		H	nnnnn	nnnnn
+100080	MT	Deuteronomy	11	23	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+101031	MT	Deuteronomy	13	1	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	m	p2	verb					nnn	nnn
+101147	MT	Deuteronomy	13	6	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+101285	MT	Deuteronomy	13	11	JY>[	MWYJ>K	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn
+101300	MT	Deuteronomy	13	12	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+101354	MT	Deuteronomy	13	15	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+101941	MT	Deuteronomy	14	28	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+102483	MT	Deuteronomy	16	1	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn
+103017	MT	Deuteronomy	17	4	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+103032	MT	Deuteronomy	17	5	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+103196	MT	Deuteronomy	17	10	JRH[	JWRWK	JWR	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+103202	MT	Deuteronomy	17	11	JRH[	JWRWK	JWR	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+103342	MT	Deuteronomy	17	16	JSP[	TSPWN	TSP	CCC	CCCMC	hif	impf	pl	m	p2	verb					nnnnn	nnnnn
+103672	MT	Deuteronomy	18	12	JRC[	MWRJC	MWRJC	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+103733	MT	Deuteronomy	18	16	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg	unknown	p1	verb					nnn	nnn
+103758	MT	Deuteronomy	18	17	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+104270	MT	Deuteronomy	19	18	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+104305	MT	Deuteronomy	19	20	JSP[	JSPW	JSP	CCC	CCCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+104419	MT	Deuteronomy	20	4	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+104805	MT	Deuteronomy	21	1	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+104850	MT	Deuteronomy	21	4	JRD[	HWRDW	HWRD	CMCC	CMCCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+105196	MT	Deuteronomy	21	19	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnnn	nnnnnn
+105520	MT	Deuteronomy	22	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+105548	MT	Deuteronomy	22	15	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnnn	nnnnnn
+105630	MT	Deuteronomy	22	19	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+105662	MT	Deuteronomy	22	21	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnnn	nnnnnn
+105739	MT	Deuteronomy	22	24	JY>[	HWY>TM	HWY>	CMCM	CMCMCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+105854	MT	Deuteronomy	22	27	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+106188	MT	Deuteronomy	23	17	JNH[	TWNNW	TWN	CMC	CMCCM	hif	impf	sg	m	p2	verb	W				nnnnn	nnnnn
+106529	MT	Deuteronomy	24	8	JRH[	JWRW	JWR	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+106580	MT	Deuteronomy	24	11	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+106846	MT	Deuteronomy	25	3	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+106848	MT	Deuteronomy	25	3	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+107325	MT	Deuteronomy	26	8	JY>[	JWY>NW	JWY>	CMCC	CMCCCM	hif	wayq	sg	m	p3	verb	NW			W	nnnnnn	nnnnnn
+107823	MT	Deuteronomy	27	8	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+108271	MT	Deuteronomy	28	11	JTR[	HWTRK	HWTR	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K			W	nnnnn	nnnnn
+108673	MT	Deuteronomy	28	29	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+108715	MT	Deuteronomy	28	31	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+108831	MT	Deuteronomy	28	38	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+108872	MT	Deuteronomy	28	41	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+109142	MT	Deuteronomy	28	54	JTR[	JWTJR	JWTJR	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+109181	MT	Deuteronomy	28	56	JYG[	HYG	HYG	CCC	CCC	hif	infa		unknown	unknown	verb					nnn	nnn
+109261	MT	Deuteronomy	28	58	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+109348	MT	Deuteronomy	28	63	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+109491	MT	Deuteronomy	28	68	JSP[	TSJP	TSJP	CCMC	CCMC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+110084	MT	Deuteronomy	29	24	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W			B	nnnnnn	nnnnnn
+110285	MT	Deuteronomy	30	5	JVB[	HJVBK	HJVB	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K			W	nnnnn	nnnnn
+110350	MT	Deuteronomy	30	9	JTR[	HWTJRK	HWTJR	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K			W	nnnnnn	nnnnnn
+111611	MT	Deuteronomy	32	13	JNQ[	JNQHW	JNQ	CCC	CCCCM	hif	wayq	sg	m	p3	verb	HW			W	nnnnn	nnnnn
+112254	MT	Deuteronomy	33	2	JP<[	HWPJ<	HWPJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+112376	MT	Deuteronomy	33	10	JRH[	JWRW	JWR	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+112665	MT	Deuteronomy	33	29	JC<[	NWC<	NWC<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+113422	MT	Joshua	2	3	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+113568	MT	Joshua	2	10	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+113710	MT	Joshua	2	15	JRD[	TWRDM	TWRD	CMCC	CMCCC	hif	wayq	sg	f	p3	verb	M			W	nnnnn	nnnnn
+113785	MT	Joshua	2	18	JRD[	HWRDTNW	HWRD	CMCC	CMCCCCM	hif	perf	sg	f	p2	verb	NW				nnnnnnn	nnnnnnn
+114163	MT	Joshua	3	10	JRC[	HWRC	HWRC	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+114164	MT	Joshua	3	10	JRC[	JWRJC	JWRJC	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+114877	MT	Joshua	4	22	JD<[	HWD<TM	HWD<	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+114893	MT	Joshua	4	23	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+114913	MT	Joshua	4	23	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+114963	MT	Joshua	5	1	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+115915	MT	Joshua	6	22	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+115937	MT	Joshua	6	23	JY>[	JYJ>W	JYJ>	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+115958	MT	Joshua	6	23	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+116284	MT	Joshua	7	7	J>L[	HW>LNW	HW>L	CMCC	CMCCCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
+116389	MT	Joshua	7	12	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+116675	MT	Joshua	7	23	JYQ[	JYQM	JYQ	CCC	CCCC	hif	wayq	pl	m	p3	verb	M			W	nnnn	nnnn
+116968	MT	Joshua	8	7	JRC[	HWRCTM	HWRC	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+116985	MT	Joshua	8	8	JYT[	TYJTW	TYJT	CCMC	CCMCM	hif	impf	pl	m	p2	verb					nnnnn	nnnnn
+117295	MT	Joshua	8	19	JYT[	JYJTW	JYJT	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+117547	MT	Joshua	8	29	JRD[	JRJDW	JRJD	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+118509	MT	Joshua	10	6	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb				W	nnnnnn	nnnnnn
+118859	MT	Joshua	10	22	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+118874	MT	Joshua	10	23	JY>[	JYJ>W	JYJ>	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+118903	MT	Joshua	10	24	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			K	nnnnnn	nnnnnn
+119000	MT	Joshua	10	27	JRD[	JRJDWM	JRJD	CCMC	CCMCMC	hif	wayq	pl	m	p3	verb	M			W	nnnnnn	nnnnnn
+119693	MT	Joshua	11	11	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+119966	MT	Joshua	11	22	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+120484	MT	Joshua	13	6	JRC[	>WRJCM	>WRJC	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
+120622	MT	Joshua	13	12	JRC[	JRCM	JRC	CCC	CCCC	hif	wayq	sg	m	p3	verb	M			W	nnnn	nnnn
+120625	MT	Joshua	13	13	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+121328	MT	Joshua	14	12	JRC[	HWRCTJM	HWRC	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn
+121699	MT	Joshua	15	14	JRC[	JRC	JRC	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+122168	MT	Joshua	15	63	JRC[	HWRJCM	HWRJC	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+122336	MT	Joshua	16	10	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+122398	MT	Joshua	17	2	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+122541	MT	Joshua	17	6	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+122678	MT	Joshua	17	12	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+122685	MT	Joshua	17	12	J>L[	JW>L	JW>L	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+122709	MT	Joshua	17	13	JRC[	HWRC	HWRC	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+122711	MT	Joshua	17	13	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn
+122840	MT	Joshua	17	18	JRC[	TWRJC	TWRJC	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+124506	MT	Joshua	21	5	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+124789	MT	Joshua	21	20	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+124890	MT	Joshua	21	26	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+125027	MT	Joshua	21	34	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+125127	MT	Joshua	21	40	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+125826	MT	Joshua	22	22	JC<[	TWCJ<NW	TWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+126309	MT	Joshua	23	5	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+126391	MT	Joshua	23	9	JRC[	JWRC	JWRC	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+126467	MT	Joshua	23	13	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+126471	MT	Joshua	23	13	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+126762	MT	Joshua	24	5	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+126765	MT	Joshua	24	6	JY>[	>WYJ>	>WYJ>	CMCMM	CMCMM	hif	wayq	sg	unknown	p1	verb				W	nnnnn	nnnnn
+127179	MT	Joshua	24	20	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+127841	MT	Judges	1	19	JRC[	JRC	JRC	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+127848	MT	Judges	1	19	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+127868	MT	Judges	1	20	JRC[	JWRC	JWRC	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+127883	MT	Judges	1	21	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+127991	MT	Judges	1	27	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+128026	MT	Judges	1	27	J>L[	JW>L	JW>L	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+128049	MT	Judges	1	28	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	infa		unknown	unknown	verb				W	nnnnn	nnnnn
+128051	MT	Judges	1	28	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn
+128055	MT	Judges	1	29	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+128073	MT	Judges	1	30	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+128093	MT	Judges	1	31	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+128129	MT	Judges	1	32	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn
+128132	MT	Judges	1	33	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+128176	MT	Judges	1	35	J>L[	JW>L	JW>L	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+128446	MT	Judges	2	12	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+128541	MT	Judges	2	16	JC<[	JWCJ<WM	JWCJ<	CMCMC	CMCMCMC	hif	wayq	pl	m	p3	verb	M			W	nnnnnnn	nnnnnnn
+128587	MT	Judges	2	18	JC<[	HWCJ<M	HWCJ<	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+128665	MT	Judges	2	21	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+128667	MT	Judges	2	21	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+128709	MT	Judges	2	23	JRC[	HWRJCM	HWRJC	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M				nnnnnn	nnnnnn
+128892	MT	Judges	3	9	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+128897	MT	Judges	3	9	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+128947	MT	Judges	3	12	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+129016	MT	Judges	3	15	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+129384	MT	Judges	3	31	JC<[	JC<	JC<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+129390	MT	Judges	4	1	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+130581	MT	Judges	6	8	JY>[	>YJ>	>YJ>	CCMM	CCMM	hif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn
+130724	MT	Judges	6	14	JC<[	HWC<T	HWC<	CMCC	CMCCC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+130740	MT	Judges	6	15	JC<[	>WCJ<	>WCJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+130796	MT	Judges	6	18	JY>[	HY>TJ	HY>	CCM	CCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+130834	MT	Judges	6	19	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+131137	MT	Judges	6	30	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	p2	verb					nnnn	nnnn
+131171	MT	Judges	6	31	JC<[	TWCJ<WN	TWCJ<	CMCMC	CMCMCMC	hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn
+131274	MT	Judges	6	36	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+131284	MT	Judges	6	37	JYG[	MYJG	MYJG	CCMC	CCMC	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+131309	MT	Judges	6	37	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+131453	MT	Judges	7	2	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	perf	sg	f	p3	verb					nnnnnn	nnnnnn
+131498	MT	Judges	7	4	JRD[	HWRD	HWRD	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+131531	MT	Judges	7	5	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+131556	MT	Judges	7	5	JYG[	TYJG	TYJG	CCMC	CCMC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+131603	MT	Judges	7	7	JC<[	>WCJ<	>WCJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+132352	MT	Judges	8	10	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+132496	MT	Judges	8	16	JD<[	JD<	JD<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+132619	MT	Judges	8	22	JC<[	HWC<TNW	HWC<	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+132720	MT	Judges	8	27	JYG[	JYG	JYG	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+133657	MT	Judges	9	37	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+133936	MT	Judges	9	49	JYT[	JYJTW	JYJT	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+134105	MT	Judges	10	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+134186	MT	Judges	10	6	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+134358	MT	Judges	10	12	JC<[	>WCJ<H	>WCJ<	CMCMC	CMCMCM	hif	wayq	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+134372	MT	Judges	10	13	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+134374	MT	Judges	10	13	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+134386	MT	Judges	10	14	JC<[	JWCJ<W	JWCJ<	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+134489	MT	Judges	11	1	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+134764	MT	Judges	11	14	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+134976	MT	Judges	11	23	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+134991	MT	Judges	11	24	JRC[	JWRJCK	JWRJC	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	K				nnnnnn	nnnnnn
+135000	MT	Judges	11	24	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+135435	MT	Judges	12	2	JC<[	HWC<TM	HWC<	CMCC	CMCCCC	hif	perf	pl	m	p2	verb					nnnnnn	nnnnnn
+135443	MT	Judges	12	3	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+135695	MT	Judges	13	1	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+135794	MT	Judges	13	5	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+135822	MT	Judges	13	6	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+135888	MT	Judges	13	8	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn
+137423	MT	Judges	16	9	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+137723	MT	Judges	16	21	JRD[	JWRJDW	JWRJD	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+138242	MT	Judges	17	11	J>L[	JW>L	JW>L	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+138284	MT	Judges	17	13	JVB[	JJVJB	JJVJB	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+139231	MT	Judges	19	6	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+139614	MT	Judges	19	22	JVB[	MJVJBJM	MJVJB	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn
+139645	MT	Judges	19	22	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	p2	verb					nnnn	nnnn
+139693	MT	Judges	19	24	JY>[	>WYJ>H	>WYJ>	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+139734	MT	Judges	19	25	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+140355	MT	Judges	20	22	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+140389	MT	Judges	20	23	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb				H	nnnnn	nnnnn
+140516	MT	Judges	20	28	JSP[	>WSP	>WSP	CMCC	CMCC	hif	impf	sg	unknown	p1	verb				H	nnnn	nnnn
+141128	MT	Judges	21	7	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		L	nnnnnn	nnnnnn
+141326	MT	Judges	21	16	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		L	nnnnnn	nnnnnn
+142018	MT	1_Samuel	1	23	JNQ[	TJNQ	TJNQ	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+142193	MT	1_Samuel	2	6	JRD[	MWRJD	MWRJD	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+142198	MT	1_Samuel	2	7	JRC[	MWRJC	MWRJC	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+142213	MT	1_Samuel	2	8	JCB[	HWCJB	HWCJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+142761	MT	1_Samuel	2	32	JVB[	JJVJB	JJVJB	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+142845	MT	1_Samuel	2	36	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+142957	MT	1_Samuel	3	6	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+142995	MT	1_Samuel	3	8	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+143195	MT	1_Samuel	3	17	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+143260	MT	1_Samuel	3	21	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+143361	MT	1_Samuel	4	3	JC<[	JC<NW	JC<	CCC	CCCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn
+143851	MT	1_Samuel	5	2	JYG[	JYJGW	JYJG	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+144152	MT	1_Samuel	6	2	JD<[	HWD<NW	HWD<	CMCC	CMCCCM	hif	impv	pl	m	p2	verb	NW				nnnnnn	nnnnnn
+144178	MT	1_Samuel	6	3	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+144491	MT	1_Samuel	6	15	JRD[	HWRJDW	HWRJD	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+144878	MT	1_Samuel	7	8	JC<[	JC<NW	JC<	CCC	CCCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn
+145681	MT	1_Samuel	9	8	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+145901	MT	1_Samuel	9	16	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+146422	MT	1_Samuel	10	8	JXL[	TWXL	TWXL	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+146427	MT	1_Samuel	10	8	JD<[	HWD<TJ	HWD<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+146651	MT	1_Samuel	10	19	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+146832	MT	1_Samuel	10	27	JC<[	JC<NW	JC<	CCC	CCCCM	hif	impf	sg	m	p3	verb	NW				nnnnn	nnnnn
+146908	MT	1_Samuel	11	3	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+147395	MT	1_Samuel	12	8	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+147401	MT	1_Samuel	12	8	JCB[	JCBWM	JCB	CCC	CCCMC	hif	wayq	pl	m	p3	verb	M			W	nnnnn	nnnnn
+147711	MT	1_Samuel	12	21	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+147730	MT	1_Samuel	12	22	J>L[	HW>JL	HW>JL	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+147752	MT	1_Samuel	12	23	JRH[	HWRJTJ	HWRJ	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+147978	MT	1_Samuel	13	8	JXL[	JJXL	JJXL			hif	wayq	sg	m	p3	verb					nnnn	nnnn
+148470	MT	1_Samuel	14	6	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+148571	MT	1_Samuel	14	12	JD<[	NWDJ<H	NWDJ<	CMCMC	CMCMCM	hif	impf	pl	unknown	p1	verb				W	nnnnnn	nnnnnn
+148830	MT	1_Samuel	14	23	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+148855	MT	1_Samuel	14	24	J>L[	J>L	J>L	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+149237	MT	1_Samuel	14	39	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+149352	MT	1_Samuel	14	44	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+150339	MT	1_Samuel	16	3	JD<[	>WDJ<K	>WDJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+150646	MT	1_Samuel	16	17	JVB[	MJVJB	MJVJB	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+151889	MT	1_Samuel	17	47	JC<[	JHWCJ<	HJWCJ<		CCMCMC	hif	impf	sg	m	p3	verb					nnnnnn	nnnnnn
+152786	MT	1_Samuel	18	29	JSP[	J>SP	J>SP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+153002	MT	1_Samuel	19	8	JSP[	TWSP	TWSP	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+153115	MT	1_Samuel	19	12	JRD[	TRD	TRD	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
+153310	MT	1_Samuel	19	21	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+153709	MT	1_Samuel	20	13	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+153711	MT	1_Samuel	20	13	JVB[	JJVB	JJVB	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+153789	MT	1_Samuel	20	17	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+153842	MT	1_Samuel	20	20	JRH=[	>WRH	>WRH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+154207	MT	1_Samuel	20	36	JRH=[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+154716	MT	1_Samuel	21	14	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+154868	MT	1_Samuel	22	6	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+155372	MT	1_Samuel	23	2	JC<[	HWC<T	HWC<	CMCC	CMCCC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+155395	MT	1_Samuel	23	4	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+155438	MT	1_Samuel	23	5	JC<[	JC<	JC<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+156991	MT	1_Samuel	25	22	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+157099	MT	1_Samuel	25	26	JC<[	HWC<	HWC<	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+157233	MT	1_Samuel	25	31	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				WL	nnnnn	nnnnn
+157237	MT	1_Samuel	25	31	JVB[	HJVB	HJVB	CMCC	CMCC	hif	perf	sg	m	p3	verb				W	nnnn	nnnn
+157279	MT	1_Samuel	25	33	JC<[	HC<	HC<	CCC	CCC	hif	infa		unknown	unknown	verb				W	nnn	nnn
+157302	MT	1_Samuel	25	34	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+158228	MT	1_Samuel	27	1	J>C[	NW>C	NW>C	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+158880	MT	1_Samuel	28	15	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NJ			L	nnnnnnn	nnnnnnn
+159642	MT	1_Samuel	30	9	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		WH	nnnnnn	nnnnnn
+159767	MT	1_Samuel	30	15	JRD[	TWRDNJ	TWRD	CMCC	CMCCCM	hif	impf	sg	m	p2	verb	NJ			H	nnnnnn	nnnnnn
+159788	MT	1_Samuel	30	15	JRD[	>WRDK	>WRD	CMCC	CMCCC	hif	impf	sg	unknown	p1	verb	K			W	nnnnn	nnnnn
+159795	MT	1_Samuel	30	16	JRD[	JRDHW	JRD	CCC	CCCCM	hif	wayq	sg	m	p3	verb	HW			W	nnnnn	nnnnn
+159933	MT	1_Samuel	30	21	JCB[	JCJBM	JCJB	CCMC	CCMCC	hif	wayq	pl	m	p3	verb	M			W	nnnnn	nnnnn
+160231	MT	1_Samuel	31	3	JRH=[	MWRJM	MWR	CMC	CMCMC	hif	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn
+160241	MT	1_Samuel	31	3	JRH=[	MWRJM	MWR	CMC	CMCMC	hif	ptca	pl	m	unknown	verb		JM		MH	nnnnn	nnnnn
+161419	MT	2_Samuel	2	22	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+161861	MT	2_Samuel	3	9	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+162059	MT	2_Samuel	3	18	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+162466	MT	2_Samuel	3	34	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+162498	MT	2_Samuel	3	35	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+162960	MT	2_Samuel	5	2	JY>[	MWYJ>	MWYJ>			hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+163353	MT	2_Samuel	5	22	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+163783	MT	2_Samuel	6	17	JYG[	JYGW	JYG	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+164176	MT	2_Samuel	7	10	JSP[	JSJPW	JSJP	CCMC	CCMCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+164259	MT	2_Samuel	7	14	JKX[	HKXTJW	HKX	CCC	CCCCMC	hif	perf	sg	unknown	p1	verb	W			W	nnnnnn	nnnnnn
+164365	MT	2_Samuel	7	20	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+164392	MT	2_Samuel	7	21	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+164444	MT	2_Samuel	7	23	JR>[	NR>WT	NR>	CCC	CCCMC	nif	ptca	pl	f	unknown	verb		WT		W	nnnnn	nnnnn
+164569	MT	2_Samuel	7	29	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+164687	MT	2_Samuel	8	4	JTR[	JWTR	JWTR	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+164728	MT	2_Samuel	8	6	JC<[	JC<	JC<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+164899	MT	2_Samuel	8	14	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+164970	MT	2_Samuel	9	1	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+165531	MT	2_Samuel	10	11	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+165607	MT	2_Samuel	10	16	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+165700	MT	2_Samuel	10	19	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+166182	MT	2_Samuel	11	20	JRH=[	JRW	JR	CC	CCM	hif	impf	pl	m	p3	verb					nnn	nnn
+166260	MT	2_Samuel	11	24	JRH=[	JR>W	JR>			hif	wayq	pl	m	p3	verb					nnnn	nnnn
+166262	MT	2_Samuel	11	24	JRH=[	MWR>JM	MWR>			hif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+166561	MT	2_Samuel	12	8	JSP[	>SPH	>SP	CCC	CCCM	hif	impf	sg	unknown	p1	verb				W	nnnn	nnnn
+167075	MT	2_Samuel	12	30	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+167084	MT	2_Samuel	12	31	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+167339	MT	2_Samuel	13	9	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+167535	MT	2_Samuel	13	18	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+167828	MT	2_Samuel	13	30	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+168105	MT	2_Samuel	14	4	JC<[	HWC<H	HWC<	CMCC	CMCCM	hif	impv	sg	m	p2	verb					nnnnn	nnnnn
+168245	MT	2_Samuel	14	10	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+168492	MT	2_Samuel	14	19	JMN[	HMJN	HMJN	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
+168767	MT	2_Samuel	14	30	JYT[	HWYTJH	HWYT			hif	impv	pl	m	p2	verb	H				nnnnnn	nnnnnn
+168772	MT	2_Samuel	14	30	JYT[	JYTW	JYT	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+168794	MT	2_Samuel	14	31	JYT[	HYJTW	HYJT	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+169451	MT	2_Samuel	15	24	JYQ[	JYQW	JYQ	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+170575	MT	2_Samuel	17	12	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+170793	MT	2_Samuel	17	19	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+171436	MT	2_Samuel	18	14	JXL[	>XJLH	>XJL	CCMC	CCMCM	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+171629	MT	2_Samuel	18	22	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+171660	MT	2_Samuel	18	22	JY>[	MY>T	MY>	CCM	CCMC	hif	ptca	sg	f	unknown	verb		T			nnnn	nnnn
+172049	MT	2_Samuel	19	6	JBC[	HBCT	HBC	CCC	CCCC	hif	perf	sg	m	p2	verb					nnnn	nnnn
+172310	MT	2_Samuel	19	14	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+173423	MT	2_Samuel	20	13	JGH=[	HGH	HGH	CCM	CCM	hif	perf	sg	m	p3	verb					nnn	nnn
+173861	MT	2_Samuel	21	6	JQ<[	HWQ<NWM	HWQ<	CMCC	CMCCCMC	hif	perf	pl	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn
+173938	MT	2_Samuel	21	9	JQ<[	JQJ<M	JQJ<	CCMC	CCMCC	hif	wayq	pl	m	p3	verb	M			W	nnnnn	nnnnn
+174338	MT	2_Samuel	22	3	JC<[	MC<J	MC<	CCC	CCCM	hif	ptca	sg	m	unknown	verb	J				nnnn	nnnn
+174341	MT	2_Samuel	22	3	JC<[	TC<NJ	TC<	CCC	CCCCM	hif	impf	sg	m	p2	verb	NJ				nnnnn	nnnnn
+174500	MT	2_Samuel	22	20	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+174574	MT	2_Samuel	22	28	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+174704	MT	2_Samuel	22	42	JC<[	MCJ<	MCJ<	CCMC	CCMC	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+174766	MT	2_Samuel	22	48	JRD[	MWRJD	MWRJD	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				W	nnnnn	nnnnn
+174770	MT	2_Samuel	22	49	JY>[	MWYJ>J	MWYJ>	CMCMC	CMCMCM	hif	ptca	sg	m	unknown	verb	J			W	nnnnnn	nnnnnn
+174783	MT	2_Samuel	22	50	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+175424	MT	2_Samuel	24	1	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+175486	MT	2_Samuel	24	3	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
+176655	MT	1_Kings	1	27	JD<[	HWD<T	HWD<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+176800	MT	1_Kings	1	33	JRD[	HWRDTM	HWRD	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+177125	MT	1_Kings	1	47	JVB[	JJVB	JJVB	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+177259	MT	1_Kings	1	53	JRD[	JRDHW	JRD	CCC	CCCCM	hif	wayq	pl	m	p3	verb	HW			W	nnnnn	nnnnn
+177435	MT	1_Kings	2	6	JRD[	TWRD	TWRD	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+177517	MT	1_Kings	2	9	JRD[	HWRDT	HWRD	CMCC	CMCCC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+177801	MT	1_Kings	2	23	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+177819	MT	1_Kings	2	24	JCB[	JWCJBJNJ	JWCJB			hif	wayq	sg	m	p3	verb	JNJ				nnnnnnnn	nnnnnnnn
+178875	MT	1_Kings	3	21	JNQ[	HJNJQ	HJNJQ	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+179852	MT	1_Kings	5	23	JRD[	JRDW	JRD	CCC	CCCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+182167	MT	1_Kings	8	5	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+182381	MT	1_Kings	8	16	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+182512	MT	1_Kings	8	21	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W			B	nnnnnn	nnnnnn
+182822	MT	1_Kings	8	33	JDH[	HWDW	HWD	CMC	CMCM	hif	perf	pl	unknown	p3	verb				W	nnnn	nnnn
+182873	MT	1_Kings	8	35	JDH[	HWDW	HWD	CMC	CMCM	hif	perf	pl	unknown	p3	verb				W	nnnn	nnnn
+182896	MT	1_Kings	8	36	JRH[	TWRM	TWR	CMC	CMCC	hif	impf	sg	m	p2	verb	M				nnnn	nnnn
+183275	MT	1_Kings	8	51	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+183321	MT	1_Kings	8	53	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			B	nnnnnn	nnnnnn
+183895	MT	1_Kings	9	9	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+184156	MT	1_Kings	9	20	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+184177	MT	1_Kings	9	21	JTR[	NTRW	NTR	CCC	CCCM	nif	perf	pl	unknown	p3	verb					nnnn	nnnn
+184487	MT	1_Kings	10	7	JSP[	HWSPT	HWSP	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+185018	MT	1_Kings	10	29	JY>[	JY>W	JY>	CCC	CCCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+186058	MT	1_Kings	12	6	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+186124	MT	1_Kings	12	9	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+186194	MT	1_Kings	12	11	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+186269	MT	1_Kings	12	14	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+186813	MT	1_Kings	13	2	JLD[	NWLD	NWLD	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+188222	MT	1_Kings	14	24	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+188664	MT	1_Kings	15	18	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+189771	MT	1_Kings	16	33	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+190079	MT	1_Kings	17	13	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	f	p2	verb				W	nnnnn	nnnnn
+190172	MT	1_Kings	17	17	JTR[	NWTRH	NWTR	CMCC	CMCCM	nif	perf	sg	f	p3	verb					nnnnn	nnnnn
+190289	MT	1_Kings	17	23	JRD[	JRDHW	JRD	CCC	CCCCM	hif	wayq	sg	m	p3	verb	HW			W	nnnnn	nnnnn
+190784	MT	1_Kings	18	22	JTR[	NWTRTJ	NWTR	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+191260	MT	1_Kings	18	40	JRD[	JWRDM	JWRD	CMCC	CMCCC	hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn
+191433	MT	1_Kings	19	2	JSP[	JWSPWN	JWSP	CMCC	CMCCMC	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+192155	MT	1_Kings	20	10	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+192634	MT	1_Kings	20	30	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+192650	MT	1_Kings	20	30	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+193212	MT	1_Kings	21	9	JCB[	HWCJBW	HWCJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+193220	MT	1_Kings	21	10	JCB[	HWCJBW	HWCJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+193235	MT	1_Kings	21	10	JY>[	HWYJ>HW	HWYJ>	CMCMC	CMCMCCM	hif	impv	pl	m	p2	verb	HW			W	nnnnnnn	nnnnnnn
+193271	MT	1_Kings	21	12	JCB[	HCJBW	HCJB	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+193306	MT	1_Kings	21	13	JY>[	JY>HW	JY>	CCC	CCCCM	hif	wayq	pl	m	p3	verb	HW			W	nnnnn	nnnnn
+193584	MT	1_Kings	21	26	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+194392	MT	1_Kings	22	34	JY>[	HWYJ>NJ	HWYJ>	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+196581	MT	2_Kings	4	5	JYQ[	MJYQT	MJYQ			hif	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn
+196632	MT	2_Kings	4	7	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				B	nnnn	nnnn
+197444	MT	2_Kings	4	43	JTR[	HWTR	HWTR	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+197452	MT	2_Kings	4	44	JTR[	JWTRW	JWTR	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+198037	MT	2_Kings	5	23	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+198209	MT	2_Kings	6	3	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+198717	MT	2_Kings	6	26	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+198724	MT	2_Kings	6	27	JC<[	JWC<K	JWC<	CMCC	CMCCC	hif	impf	sg	m	p3	verb	K				nnnnn	nnnnn
+198728	MT	2_Kings	6	27	JC<[	>WCJ<K	>WCJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+198827	MT	2_Kings	6	31	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+198917	MT	2_Kings	6	33	JXL[	>WXJL	>WXJL	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+200976	MT	2_Kings	9	30	JVB[	TJVB	TJVB	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+201670	MT	2_Kings	10	22	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	p2	verb					nnnn	nnnn
+201678	MT	2_Kings	10	22	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+201791	MT	2_Kings	10	26	JY>[	JY>W	JY>	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+202295	MT	2_Kings	11	12	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+202395	MT	2_Kings	11	15	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+202482	MT	2_Kings	11	18	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+202523	MT	2_Kings	11	19	JRD[	JRJDW	JRJD	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+202602	MT	2_Kings	12	3	JRH[	HWRHW	HWR	CMC	CMCCM	hif	perf	sg	m	p3	verb	HW				nnnnn	nnnnn
+202839	MT	2_Kings	12	12	JY>[	JWYJ>HW	JWYJ>	CMCMC	CMCMCCM	hif	wayq	pl	m	p3	verb	HW			W	nnnnnnn	nnnnnnn
+203174	MT	2_Kings	13	5	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+203436	MT	2_Kings	13	17	JRH=[	JWR	JWR	CMC	CMC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+204217	MT	2_Kings	14	27	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+204648	MT	2_Kings	15	20	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+205104	MT	2_Kings	16	3	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+205199	MT	2_Kings	16	7	JC<[	HWC<NJ	HWC<	CMCC	CMCCCM	hif	impv	sg	m	p2	verb	NJ			W	nnnnnn	nnnnnn
+205500	MT	2_Kings	16	17	JRD[	HWRD	HWRD	CMCC	CMCC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+205688	MT	2_Kings	17	6	JCB[	JCB	JCB	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+205732	MT	2_Kings	17	8	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+206107	MT	2_Kings	17	24	JCB[	JCB	JCB	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+206155	MT	2_Kings	17	26	JCB[	TWCB	TWCB	CMCC	CMCC	hif	wayq	sg	m	p2	verb				W	nnnn	nnnn
+206207	MT	2_Kings	17	27	JRH[	JRM	JR	CC	CCC	hif	impf	sg	m	p3	verb	M			W	nnn	nnn
+206229	MT	2_Kings	17	28	JRH[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+207504	MT	2_Kings	19	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+207801	MT	2_Kings	19	19	JC<[	HWCJ<NW	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+208074	MT	2_Kings	19	32	JRH=[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+208111	MT	2_Kings	19	34	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	H			L	nnnnnn	nnnnnn
+208304	MT	2_Kings	20	6	JSP[	HSPTJ	HSP	CCC	CCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+208603	MT	2_Kings	20	18	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+208710	MT	2_Kings	21	2	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+208846	MT	2_Kings	21	8	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+209549	MT	2_Kings	22	13	JYT[	NYTH	NYT	CCC	CCCM	nif	perf	sg	f	p3	verb					nnnn	nnnn
+209660	MT	2_Kings	22	17	JYT[	NYTH	NYT	CCC	CCCM	nif	perf	sg	f	p3	verb				W	nnnn	nnnn
+209905	MT	2_Kings	23	4	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+209987	MT	2_Kings	23	6	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+211018	MT	2_Kings	24	7	JSP[	HSJP	HSJP	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+211133	MT	2_Kings	24	13	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+212143	MT	Isaiah	1	5	JSP[	TWSJPW	TWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+212196	MT	Isaiah	1	8	JTR[	NWTRH	NWTR	CMCC	CMCCM	nif	perf	sg	f	p3	verb				W	nnnnn	nnnnn
+212213	MT	Isaiah	1	9	JTR[	HWTJR	HWTJR	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+212268	MT	Isaiah	1	13	JSP[	TWSJPW	TWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+212324	MT	Isaiah	1	17	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+212586	MT	Isaiah	2	3	JRH[	JRNW	JR	CC	CCCM	hif	impf	sg	m	p3	verb	NW			W	nnnn	nnnn
+212609	MT	Isaiah	2	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+213346	MT	Isaiah	4	3	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+213499	MT	Isaiah	5	5	JD<[	>WDJ<H	>WDJ<	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+214428	MT	Isaiah	7	10	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+214664	MT	Isaiah	7	22	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+214807	MT	Isaiah	8	5	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+214999	MT	Isaiah	8	15	JQC[	NWQCW	NWQC	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+215398	MT	Isaiah	9	14	JRH[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+215745	MT	Isaiah	10	13	JRD[	>WRJD	>WRJD	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+215873	MT	Isaiah	10	20	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+216135	MT	Isaiah	11	3	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+216142	MT	Isaiah	11	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+216271	MT	Isaiah	11	11	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+216418	MT	Isaiah	12	1	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+216461	MT	Isaiah	12	4	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+216467	MT	Isaiah	12	4	JD<[	HWDJ<W	HWDJ<	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+216565	MT	Isaiah	13	6	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+216658	MT	Isaiah	13	12	JQR[	>WQJR	>WQJR	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+217294	MT	Isaiah	14	31	JLL[	HJLJLJ	HJLJL	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+217355	MT	Isaiah	15	2	JLL[	JJLJL	JJLJL	CCCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+217373	MT	Isaiah	15	3	JLL[	JJLJL	JJLJL	CCCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+217463	MT	Isaiah	15	9	JSP[	NWSPWT	NWSP	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn
+217569	MT	Isaiah	16	7	JLL[	JJLJL	JJLJL	CCCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+217574	MT	Isaiah	16	7	JLL[	JJLJL	JJLJL	CCCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+218002	MT	Isaiah	18	2	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+218117	MT	Isaiah	18	7	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+218332	MT	Isaiah	19	13	J>L=[	NW>LW	NW>L	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+218489	MT	Isaiah	19	20	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+218495	MT	Isaiah	19	21	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+218747	MT	Isaiah	21	1	JR>[	NWR>H	NWR>	CMCC	CMCCM	nif	ptca	sg	f	unknown	verb		H			nnnnn	nnnnn
+219417	MT	Isaiah	23	1	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+219484	MT	Isaiah	23	6	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+219495	MT	Isaiah	23	7	JBL[	JBLWH	JBL	CCC	CCCMC	hif	impf	pl	m	p3	verb	H				nnnnn	nnnnn
+219554	MT	Isaiah	23	12	JSP[	TWSJPJ	TWSJP	CMCMC	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+219590	MT	Isaiah	23	14	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+219629	MT	Isaiah	23	16	JVB[	HJVJBJ	HJVJB	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+219996	MT	Isaiah	24	20	JSP[	TSJP	TSJP	CCMC	CCMC	hif	impf	sg	f	p3	verb					nnnn	nnnn
+220063	MT	Isaiah	25	1	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+220226	MT	Isaiah	25	9	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnnnn	nnnnnnn
+220957	MT	Isaiah	28	9	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+221048	MT	Isaiah	28	13	JQC[	NWQCW	NWQC	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+221278	MT	Isaiah	28	26	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	W				nnnnn	nnnnn
+221607	MT	Isaiah	29	14	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+221736	MT	Isaiah	29	21	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				WL	nnnnn	nnnnn
+221864	MT	Isaiah	30	5	JBC[	HB>JC	HB>JC	CCMMC	CCMMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+221868	MT	Isaiah	30	5	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+221876	MT	Isaiah	30	5	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+221913	MT	Isaiah	30	6	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+222110	MT	Isaiah	30	17	JTR[	NWTRTM	NWTR	CMCC	CMCCCC	nif	perf	pl	m	p2	verb					nnnnnn	nnnnnn
+222196	MT	Isaiah	30	21	JMN[	T>MJNW	T>MJN	CCCMC	CCCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+223168	MT	Isaiah	33	19	J<Z[	NW<Z	NW<Z	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+223231	MT	Isaiah	33	22	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+223628	MT	Isaiah	35	4	JC<[	JC<KM	JC<	CCC	CCCCC	hif	impf	sg	m	p3	verb	KM			W	nnnnn	nnnnn
+224342	MT	Isaiah	37	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+224639	MT	Isaiah	37	20	JC<[	HWCJ<NW	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+224907	MT	Isaiah	37	33	JRH=[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+224944	MT	Isaiah	37	35	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	H			L	nnnnnn	nnnnnn
+225111	MT	Isaiah	38	5	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+225324	MT	Isaiah	38	18	JDH[	TWDK	TWD	CMC	CMCC	hif	impf	sg	f	p3	verb	K				nnnn	nnnn
+225336	MT	Isaiah	38	19	JDH[	JWDK	JWD	CMC	CMCC	hif	impf	sg	m	p3	verb	K				nnnn	nnnn
+225343	MT	Isaiah	38	19	JD<[	JWDJ<	JWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+225348	MT	Isaiah	38	20	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NJ			L	nnnnnnn	nnnnnnn
+225549	MT	Isaiah	39	7	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+225784	MT	Isaiah	40	13	JD<[	JWDJ<NW	JWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	W				nnnnnnn	nnnnnnn
+225787	MT	Isaiah	40	14	J<Y[	NW<Y	NW<Y	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+225801	MT	Isaiah	40	14	JD<[	JWDJ<NW	JWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	W				nnnnnnn	nnnnnnn
+225975	MT	Isaiah	40	26	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+226433	MT	Isaiah	41	23	JVB[	TJVJBW	TJVJB	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+226545	MT	Isaiah	42	1	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+226569	MT	Isaiah	42	3	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+226638	MT	Isaiah	42	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+226753	MT	Isaiah	42	15	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+226762	MT	Isaiah	42	15	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+226988	MT	Isaiah	43	3	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn
+227058	MT	Isaiah	43	8	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+227114	MT	Isaiah	43	10	JYR[	NWYR	NWYR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+227127	MT	Isaiah	43	11	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+227131	MT	Isaiah	43	12	JC<[	HWC<TJ	HWC<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+227170	MT	Isaiah	43	14	JRD[	HWRDTJ	HWRD	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+227199	MT	Isaiah	43	17	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+227290	MT	Isaiah	43	23	JG<[	HWG<TJK	HWG<	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
+227309	MT	Isaiah	43	24	JG<[	HWG<TNJ	HWG<	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+227497	MT	Isaiah	44	9	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+227516	MT	Isaiah	44	10	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+227855	MT	Isaiah	44	27	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+228039	MT	Isaiah	45	10	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+228143	MT	Isaiah	45	15	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+228157	MT	Isaiah	45	17	JC<[	NWC<	NWC<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+228240	MT	Isaiah	45	20	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+228268	MT	Isaiah	45	21	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				W	nnnnn	nnnnn
+228444	MT	Isaiah	46	7	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	W				nnnnnnn	nnnnnnn
+228542	MT	Isaiah	47	1	JSP[	TWSJPJ	TWSJP	CMCMC	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+228589	MT	Isaiah	47	5	JSP[	TWSJPJ	TWSJP	CMCMC	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+228730	MT	Isaiah	47	12	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+228740	MT	Isaiah	47	13	JC<[	JWCJ<K	JWCJ<	CMCMC	CMCMCC	hif	impf	pl	m	p3	verb	K			W	nnnnnn	nnnnnn
+228748	MT	Isaiah	47	13	JD<[	MWDJ<M	MWDJ<	CMCMC	CMCMCC	hif	ptca	pl	m	unknown	verb		M			nnnnnn	nnnnnn
+228790	MT	Isaiah	47	15	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn
+229057	MT	Isaiah	48	17	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+229110	MT	Isaiah	48	20	JY>[	HWYJ>WH	HWYJ>	CMCMC	CMCMCMC	hif	impv	pl	m	p2	verb	H				nnnnnnn	nnnnnnn
+229600	MT	Isaiah	49	25	JC<[	>WCJ<	>WCJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+229604	MT	Isaiah	49	26	JNH[	MWNJK	MWN	CMC	CMCCC	hif	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn
+229620	MT	Isaiah	49	26	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn
+230276	MT	Isaiah	51	22	JSP[	TWSJPJ	TWSJP	CMCMC	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+230284	MT	Isaiah	51	23	JGH[	MWGJK	MWG	CMC	CMCCC	hif	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn
+230319	MT	Isaiah	52	1	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+230380	MT	Isaiah	52	5	JLL[	JHJLJLW	HJJLJL		CCMCMCM	hif	impf	pl	m	p3	verb					nnnnnnn	nnnnnnn
+230826	MT	Isaiah	54	3	JCB[	JWCJBW	JWCJB	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+231025	MT	Isaiah	54	16	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				W	nnnnn	nnnnn
+231234	MT	Isaiah	55	10	JLD[	HWLJDH	HWLJD	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	H			W	nnnnnn	nnnnnn
+231714	MT	Isaiah	57	10	J>C[	NW>C	NW>C	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+231757	MT	Isaiah	57	12	J<L[	JW<JLWK	JW<JL	CMCMC	CMCMCMC	hif	impf	pl	m	p3	verb	K				nnnnnnn	nnnnnnn
+232016	MT	Isaiah	58	5	JY<[	JYJ<	JYJ<	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+232225	MT	Isaiah	59	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				M	nnnnn	nnnnn
+232283	MT	Isaiah	59	4	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	infa		unknown	unknown	verb				W	nnnnn	nnnnn
+232510	MT	Isaiah	59	16	JC<[	TWC<	TWC<	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+232894	MT	Isaiah	60	16	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn
+233172	MT	Isaiah	61	9	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+233221	MT	Isaiah	61	11	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+233487	MT	Isaiah	63	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+233545	MT	Isaiah	63	5	JC<[	TWC<	TWC<	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+233562	MT	Isaiah	63	6	JRD[	>WRJD	>WRJD	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+233604	MT	Isaiah	63	8	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				L	nnnnn	nnnnn
+233613	MT	Isaiah	63	9	JC<[	HWCJ<M	HWCJ<	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+233798	MT	Isaiah	64	1	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+233808	MT	Isaiah	64	2	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn
+234110	MT	Isaiah	65	9	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+234237	MT	Isaiah	65	14	JLL[	TJLJLW	TJLJL	CCCMC	CCCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+234645	MT	Isaiah	66	9	JLD[	>WLJD	>WLJD	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+234651	MT	Isaiah	66	9	JLD[	MWLJD	MWLJD	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+234734	MT	Isaiah	66	14	JD<[	NWD<H	NWD<	CMCC	CMCCM	nif	perf	sg	f	p3	verb				W	nnnnn	nnnnn
+235200	MT	Jeremiah	1	12	JVB[	HJVBT	HJVB	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+235527	MT	Jeremiah	2	8	J<L[	JW<LW	JW<L	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+235559	MT	Jeremiah	2	11	JMR[	HJMJR	HJMJR	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				H	nnnnn	nnnnn
+235572	MT	Jeremiah	2	11	J<L[	JW<JL	JW<JL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+235626	MT	Jeremiah	2	15	JYT[	NYTH	NYT			nif	perf	pl	unknown	p3	verb					nnnn	nnnn
+235677	MT	Jeremiah	2	19	JKX[	TWKXK	TWKX	CMCC	CMCCC	hif	impf	pl	f	p3	verb	K				nnnnn	nnnnn
+235803	MT	Jeremiah	2	25	J>C[	NW>C	NW>C	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+235817	MT	Jeremiah	2	26	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+235853	MT	Jeremiah	2	27	JC<[	HWCJ<NW	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NW			W	nnnnnnn	nnnnnnn
+235862	MT	Jeremiah	2	28	JC<[	JWCJ<WK	JWCJ<	CMCMC	CMCMCMC	hif	impf	pl	m	p3	verb	K				nnnnnnn	nnnnnnn
+235930	MT	Jeremiah	2	33	JVB[	TJVBJ	TJVB	CMCC	CMCCM	hif	impf	sg	f	p2	verb					nnnnn	nnnnn
+236697	MT	Jeremiah	4	8	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+236889	MT	Jeremiah	4	19	JXL[	>XWLH	>XWL			hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+236944	MT	Jeremiah	4	22	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				WL	nnnnn	nnnnn
+237179	MT	Jeremiah	5	4	J>L=[	NW>LW	NW>L	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+237792	MT	Jeremiah	6	8	JCB[	NWCBH	NWCB	CMCC	CMCCM	nif	perf	sg	f	p3	verb					nnnnn	nnnnn
+237914	MT	Jeremiah	6	15	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+238245	MT	Jeremiah	7	3	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+238275	MT	Jeremiah	7	5	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infa		unknown	unknown	verb					nnnnn	nnnnn
+238276	MT	Jeremiah	7	5	JVB[	TJVJBW	TJVJB	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+238347	MT	Jeremiah	7	8	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+238654	MT	Jeremiah	7	22	JY>[	HWYJ>	HWYJ>			hif	infc		unknown	unknown	verb	J				nnnnn	nnnnn
+238957	MT	Jeremiah	8	1	JY>[	WJYJ>W	WJYJ>			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+239154	MT	Jeremiah	8	9	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+239209	MT	Jeremiah	8	12	JBC[	HBCW	HBC	CCC	CCCM	hif	perf	pl	unknown	p3	verb					nnnn	nnnn
+239369	MT	Jeremiah	8	20	JC<[	NWC<NW	NWC<	CMCC	CMCCCM	nif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
+239565	MT	Jeremiah	9	9	JYT[	NYTW	NYT	CCC	CCCM	nif	perf	pl	unknown	p3	verb					nnnn	nnnn
+239989	MT	Jeremiah	10	5	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infa		unknown	unknown	verb					nnnnn	nnnnn
+240129	MT	Jeremiah	10	13	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+240138	MT	Jeremiah	10	14	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+240376	MT	Jeremiah	11	4	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	J				nnnnnn	nnnnnn
+240609	MT	Jeremiah	11	12	JC<[	HWC<	HWC<	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+240611	MT	Jeremiah	11	12	JC<[	JWCJ<W	JWCJ<	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+240694	MT	Jeremiah	11	16	JYT[	HYJT	HYJT	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+240729	MT	Jeremiah	11	18	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+241071	MT	Jeremiah	12	13	J<L[	JW<LW	JW<L	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+241635	MT	Jeremiah	13	23	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+241796	MT	Jeremiah	14	8	JC<[	MWCJ<W	MWCJ<	CMCMC	CMCMCM	hif	ptca	sg	m	unknown	verb	W				nnnnnn	nnnnnn
+241823	MT	Jeremiah	14	9	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+242555	MT	Jeremiah	15	19	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+242592	MT	Jeremiah	15	20	JC<[	HWCJ<K	HWCJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			L	nnnnnn	nnnnnn
+242659	MT	Jeremiah	16	3	JLD[	MWLDJM	MWLD	CMCC	CMCCMC	hif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+243089	MT	Jeremiah	16	19	J<L[	MW<JL	MW<JL	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+243101	MT	Jeremiah	16	21	JD<[	MWDJ<M	MWDJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn
+243107	MT	Jeremiah	16	21	JD<[	>WDJ<M	>WDJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
+243356	MT	Jeremiah	17	14	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+243489	MT	Jeremiah	17	22	JY>[	TWYJ>W	TWYJ>	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+243671	MT	Jeremiah	17	27	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
+243850	MT	Jeremiah	18	10	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+243885	MT	Jeremiah	18	11	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+243891	MT	Jeremiah	18	12	J>C[	NW>C	NW>C	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+244584	MT	Jeremiah	20	3	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+245291	MT	Jeremiah	21	14	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
+245357	MT	Jeremiah	22	3	JNH[	TNW	TN	CC	CCM	hif	impf	pl	m	p2	verb					nnn	nnn
+245447	MT	Jeremiah	22	6	JCB[	NWCBH	NWCB			nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+246557	MT	Jeremiah	23	32	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infa		unknown	unknown	verb				W	nnnnn	nnnnn
+246559	MT	Jeremiah	23	32	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+247774	MT	Jeremiah	25	34	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+248172	MT	Jeremiah	26	13	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+248439	MT	Jeremiah	26	23	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+248950	MT	Jeremiah	27	18	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+248984	MT	Jeremiah	27	19	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+249025	MT	Jeremiah	27	21	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+249588	MT	Jeremiah	29	6	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+250385	MT	Jeremiah	30	10	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn
+250410	MT	Jeremiah	30	11	JC<[	HWCJ<K	HWCJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			L	nnnnnn	nnnnnn
+250750	MT	Jeremiah	31	7	JC<[	HWC<	HWC<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+250786	MT	Jeremiah	31	9	JBL[	>WBJLM	>WBJL	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
+250873	MT	Jeremiah	31	12	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+251236	MT	Jeremiah	31	32	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+251944	MT	Jeremiah	32	21	JY>[	TY>	TY>	CCM	CCM	hif	wayq	sg	m	p2	verb				W	nnn	nnn
+252136	MT	Jeremiah	32	29	JYT[	HYJTW	HYJT	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+252373	MT	Jeremiah	32	37	JCB[	HCBTJM	HCB	CCC	CCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnn	nnnnnn
+252419	MT	Jeremiah	32	40	JVB[	HJVJBJ	HJVJB	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	J			L	nnnnnn	nnnnnn
+252436	MT	Jeremiah	32	41	JVB[	HVJB	HVJB	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
+252802	MT	Jeremiah	33	11	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+253315	MT	Jeremiah	34	7	JTR[	NWTRWT	NWTR	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT		H	nnnnnn	nnnnnn
+253457	MT	Jeremiah	34	13	JY>[	HWY>J	HWY>	CMCC	CMCCM	hif	infc		unknown	unknown	verb	J				nnnnn	nnnnn
+254077	MT	Jeremiah	35	15	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+255098	MT	Jeremiah	36	32	JSP[	NWSP	NWSP	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+256218	MT	Jeremiah	38	23	JY>[	MWY>JM	MWY>	CMCC	CMCCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+256678	MT	Jeremiah	39	14	JY>[	HWY>HW	HWY>	CMCC	CMCCCM	hif	infc		unknown	unknown	verb	HW			L	nnnnnn	nnnnnn
+258051	MT	Jeremiah	42	11	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+258633	MT	Jeremiah	43	12	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
+258863	MT	Jeremiah	44	7	JTR[	HWTJR	HWTJR	CMCMC	CMCMC	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+260109	MT	Jeremiah	46	24	JBC[	HBJCH	HBJC	CCMC	CCMCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
+260185	MT	Jeremiah	46	27	JC<[	MWC<K	MWC<	CMCC	CMCCC	hif	ptca	sg	m	unknown	verb	K				nnnnn	nnnnn
+260281	MT	Jeremiah	47	2	JLL[	HJLL	HJLL	CMCC	CMCC	hif	perf	sg	m	p3	verb				W	nnnn	nnnn
+260386	MT	Jeremiah	48	1	JBC[	HBJCH	HBJC	CCMC	CCMCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
+260389	MT	Jeremiah	48	1	JBC[	HBJCH	HBJC	CCMC	CCMCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
+260668	MT	Jeremiah	48	20	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+260672	MT	Jeremiah	48	20	JLL[	HJLJLJ	HJLJL			hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+260820	MT	Jeremiah	48	31	JLL[	>JLJL	>JLJL	CCCMC	CCCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+260966	MT	Jeremiah	48	39	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+261179	MT	Jeremiah	49	3	JLL[	HJLJLJ	HJLJL	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+261429	MT	Jeremiah	49	16	JRD[	>WRJDK	>WRJD	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+261491	MT	Jeremiah	49	19	J<D[	J<JDNJ	J<JD	CCMC	CCMCCM	hif	impf	sg	m	p3	verb	J				nnnnnn	nnnnnn
+261624	MT	Jeremiah	49	27	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
+261903	MT	Jeremiah	50	2	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+261907	MT	Jeremiah	50	2	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+262335	MT	Jeremiah	50	25	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+262465	MT	Jeremiah	50	32	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
+262530	MT	Jeremiah	50	36	J>L=[	N>LW	N>L	CCC	CCCM	nif	perf	pl	unknown	p3	verb				W	nnnn	nnnn
+262701	MT	Jeremiah	50	44	J<D[	JW<DNJ	JW<D	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	J				nnnnnn	nnnnnn
+262873	MT	Jeremiah	51	8	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+262903	MT	Jeremiah	51	10	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+263024	MT	Jeremiah	51	16	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+263033	MT	Jeremiah	51	17	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+263276	MT	Jeremiah	51	30	JYT[	HYJTW	HYJT	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+263343	MT	Jeremiah	51	34	JYG[	HYJGNW	HYJG			hif	perf	sg	m	p3	verb	NW				nnnnnn	nnnnnn
+263387	MT	Jeremiah	51	36	JBC[	HBCTJ	HBC	CCC	CCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+263430	MT	Jeremiah	51	40	JRD[	>WRJDM	>WRJD	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
+263492	MT	Jeremiah	51	44	JY>[	HY>TJ	HY>	CCM	CCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+264682	MT	Jeremiah	52	31	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+265162	MT	Ezekiel	1	22	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+266037	MT	Ezekiel	3	26	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+266801	MT	Ezekiel	5	16	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg	unknown	p1	verb					nnn	nnn
+266945	MT	Ezekiel	6	8	JTR[	HWTRTJ	HWTR	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+268985	MT	Ezekiel	11	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+268998	MT	Ezekiel	11	9	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+269394	MT	Ezekiel	12	4	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+269421	MT	Ezekiel	12	5	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+269431	MT	Ezekiel	12	6	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+269453	MT	Ezekiel	12	7	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+269472	MT	Ezekiel	12	7	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+269559	MT	Ezekiel	12	12	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+269630	MT	Ezekiel	12	16	JTR[	HWTRTJ	HWTR	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+269718	MT	Ezekiel	12	20	JCB[	NWCBWT	NWCB	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT		H	nnnnnn	nnnnnn
+270829	MT	Ezekiel	14	22	JTR[	NWTRH	NWTR	CMCC	CMCCM	nif	perf	sg	f	p3	verb					nnnnn	nnnnn
+271036	MT	Ezekiel	16	2	JD<[	HWD<	HWD<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+272688	MT	Ezekiel	17	24	JBC[	HWBCTJ	HWBC	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+272806	MT	Ezekiel	18	7	JNH[	JWNH	JWNH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+272858	MT	Ezekiel	18	10	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+272891	MT	Ezekiel	18	12	JNH[	HWNH	HWNH	CMCM	CMCM	hif	perf	sg	m	p3	verb					nnnn	nnnn
+272930	MT	Ezekiel	18	14	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+272967	MT	Ezekiel	18	16	JNH[	HWNH	HWNH	CMCM	CMCM	hif	perf	sg	m	p3	verb					nnnn	nnnn
+273369	MT	Ezekiel	19	5	JXL[	NWXLH	NWXL	CMCC	CMCCM	nif	perf	sg	f	p3	verb					nnnnn	nnnnn
+273495	MT	Ezekiel	19	12	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+273611	MT	Ezekiel	20	4	JD<[	HWDJ<M	HWDJ<	CMCMC	CMCMCC	hif	impv	sg	m	p2	verb	M				nnnnnn	nnnnnn
+273655	MT	Ezekiel	20	6	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+273741	MT	Ezekiel	20	9	JD<[	NWD<TJ	NWD<	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+273746	MT	Ezekiel	20	9	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+273751	MT	Ezekiel	20	10	JY>[	>WYJ>M	>WYJ>	CMCMC	CMCMCC	hif	wayq	sg	unknown	p1	verb	M			W	nnnnnn	nnnnnn
+273768	MT	Ezekiel	20	11	JD<[	HWD<TJ	HWD<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+273849	MT	Ezekiel	20	14	JY>[	HWY>TJM	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	M				nnnnnnn	nnnnnnn
+274022	MT	Ezekiel	20	22	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+274278	MT	Ezekiel	20	34	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+274357	MT	Ezekiel	20	38	JY>[	>WYJ>	>WYJ>	CMCMM	CMCMM	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+274440	MT	Ezekiel	20	41	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	J			B	nnnnnn	nnnnnn
+274568	MT	Ezekiel	21	3	JYT[	MYJT	MYJT	CCMC	CCMC	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+274649	MT	Ezekiel	21	8	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+274684	MT	Ezekiel	21	10	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+274806	MT	Ezekiel	21	17	JLL[	HJLL	HJLL	CMCC	CMCC	hif	impv	sg	m	p2	verb				W	nnnn	nnnn
+274888	MT	Ezekiel	21	21	JMN[	HJMNJ	HJMN	CMCC	CMCCM	hif	impv	sg	f	p2	verb					nnnnn	nnnnn
+275221	MT	Ezekiel	22	2	JD<[	HWD<TH	HWD<	CMCC	CMCCCC	hif	perf	sg	m	p2	verb	H			W	nnnnnn	nnnnnn
+275318	MT	Ezekiel	22	7	JNH[	HWNW	HWN	CMC	CMCM	hif	perf	pl	unknown	p3	verb					nnnn	nnnn
+275622	MT	Ezekiel	22	26	JD<[	HWDJ<W	HWDJ<	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+275680	MT	Ezekiel	22	29	JNH[	HWNW	HWN	CMC	CMCM	hif	perf	pl	unknown	p3	verb					nnnn	nnnn
+275913	MT	Ezekiel	23	14	JSP[	TWSP	TWSP	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+276680	MT	Ezekiel	24	6	JY>[	HWYJ>H	HWYJ>	CMCMC	CMCMCC	hif	impv	sg	m	p2	verb	H				nnnnnn	nnnnnn
+277719	MT	Ezekiel	26	17	JCB[	NWCBT	NWCB	CMCC	CMCCC	nif	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn
+277772	MT	Ezekiel	26	19	JCB[	NWCBW	NWCB	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+277785	MT	Ezekiel	26	20	JRD[	HWRDTJK	HWRD	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	K			W	nnnnnnn	nnnnnnn
+277793	MT	Ezekiel	26	20	JCB[	HWCBTJK	HWCB	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	K			W	nnnnnnn	nnnnnnn
+278479	MT	Ezekiel	28	8	JRD[	JWRDWK	JWRD	CMCC	CMCCMC	hif	impf	pl	m	p3	verb	K				nnnnnn	nnnnnn
+278654	MT	Ezekiel	28	18	JY>[	>WY>	>WY>	CMCM	CMCM	hif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn
+279308	MT	Ezekiel	30	2	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+280108	MT	Ezekiel	31	16	JRD[	HWRDJ	HWRD	CMCC	CMCCM	hif	infc		unknown	unknown	verb	J			B	nnnnn	nnnnn
+280502	MT	Ezekiel	32	18	JRD[	HWRDHW	HWRD	CMCC	CMCCCM	hif	impv	sg	m	p2	verb	HW			W	nnnnnn	nnnnnn
+281503	MT	Ezekiel	33	32	JVB[	MVB	MVB	CCC	CCC	hif	ptca	sg	m	unknown	verb				W	nnn	nnn
+281791	MT	Ezekiel	34	13	JY>[	HWY>TJM	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn
+281923	MT	Ezekiel	34	18	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+281975	MT	Ezekiel	34	22	JC<[	HWC<TJ	HWC<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+282058	MT	Ezekiel	34	26	JRD[	HWRDTJ	HWRD	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+282340	MT	Ezekiel	35	11	JD<[	NWD<TJ	NWD<	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+282657	MT	Ezekiel	36	10	JCB[	NCBW	NCB	CCC	CCCM	nif	perf	pl	unknown	p3	verb				W	nnnn	nnnn
+282675	MT	Ezekiel	36	11	JCB[	HWCBTJ	HWCB	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+282680	MT	Ezekiel	36	11	JVB[	HVBTJ	HVB	CCC	CCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+282704	MT	Ezekiel	36	12	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+283013	MT	Ezekiel	36	29	JC<[	HWC<TJ	HWC<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+283099	MT	Ezekiel	36	33	JCB[	HWCBTJ	HWCB	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+283213	MT	Ezekiel	37	1	JY>[	JWY>NJ	JWY>	CMCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn
+283697	MT	Ezekiel	37	23	JC<[	HWC<TJ	HWC<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+283873	MT	Ezekiel	38	4	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+284045	MT	Ezekiel	38	12	JCB[	NWCBT	NWCB	CMCC	CMCCC	nif	ptca	pl	f	unknown	verb		T			nnnnn	nnnnn
+284342	MT	Ezekiel	38	23	JD<[	NWD<TJ	NWD<	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+284455	MT	Ezekiel	39	7	JD<[	>WDJ<	>WDJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+284634	MT	Ezekiel	39	14	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+284923	MT	Ezekiel	39	28	JTR[	>WTJR	>WTJR	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+286686	MT	Ezekiel	42	1	JY>[	JWY>NJ	JWY>	CMCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn
+287039	MT	Ezekiel	42	15	JY>[	HWYJ>NJ	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+287367	MT	Ezekiel	43	11	JD<[	HWD<	HWD<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+288267	MT	Ezekiel	44	23	JRH[	JWRW	JWR	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+288277	MT	Ezekiel	44	23	JD<[	JWD<M	JWD<	CMCC	CMCCC	hif	impf	pl	m	p3	verb	M				nnnnn	nnnnn
+288651	MT	Ezekiel	45	8	JNH[	JWNW	JWN	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+289514	MT	Ezekiel	46	18	JNH[	HWNTM	HWN	CMC	CMCCC	hif	infc		unknown	unknown	verb	M	T		L	nnnnn	nnnnn
+289584	MT	Ezekiel	46	20	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
+289596	MT	Ezekiel	46	21	JY>[	JWYJ>NJ	JWYJ>	CMCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+289709	MT	Ezekiel	47	2	JY>[	JWY>NJ	JWY>	CMCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn
+290162	MT	Ezekiel	47	22	JLD[	HWLDW	HWLD	CMCC	CMCCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+290479	MT	Ezekiel	48	15	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+290567	MT	Ezekiel	48	18	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+290633	MT	Ezekiel	48	21	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+291038	MT	Hosea	1	6	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+291054	MT	Hosea	1	7	JC<[	HWC<TJM	HWC<	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn
+291060	MT	Hosea	1	7	JC<[	>WCJ<M	>WCJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
+291183	MT	Hosea	2	5	JYG[	HYGTJH	HYG	CCC	CCCCMC	hif	perf	sg	unknown	p1	verb	H			W	nnnnnn	nnnnnn
+291214	MT	Hosea	2	7	JBC[	HBJCH	HBJC	CCMC	CCMCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
+291764	MT	Hosea	4	4	JKX[	JWKX	JWKX	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+292124	MT	Hosea	5	9	JD<[	HWD<TJ	HWD<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+292143	MT	Hosea	5	11	J>L[	HW>JL	HW>JL	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+292275	MT	Hosea	6	3	JRH===[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+292540	MT	Hosea	7	12	JRD[	>WRJDM	>WRJD	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
+292541	MT	Hosea	7	12	JSR[	>JSRM	>JSR	CCCC	CCCCC	hif	impf	sg	unknown	p1	verb	M				nnnnn	nnnnn
+292571	MT	Hosea	7	14	JLL[	JJLJLW	JJLJL	CCCMC	CCCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+293002	MT	Hosea	9	13	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+293033	MT	Hosea	9	15	JSP[	>WSP	>WSP	CMCC	CMCC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+293082	MT	Hosea	10	1	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+293263	MT	Hosea	10	12	JRH===[	JRH	JRH	CCM	CCM	hif	impf	sg	m	p3	verb				W	nnn	nnn
+293477	MT	Hosea	11	11	JCB[	HWCBTJM	HWCB	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn
+293622	MT	Hosea	12	10	JCB[	>WCJBK	>WCJB	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+293717	MT	Hosea	13	2	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+293773	MT	Hosea	13	4	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				W	nnnnn	nnnnn
+293832	MT	Hosea	13	10	JC<[	JWCJ<K	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	K			W	nnnnnn	nnnnnn
+293960	MT	Hosea	14	4	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+294134	MT	Joel	1	5	JLL[	HJLLW	HJLL	CMCC	CMCCM	hif	impv	pl	m	p2	verb				W	nnnnn	nnnnn
+294201	MT	Joel	1	10	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+294205	MT	Joel	1	11	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+294207	MT	Joel	1	11	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+294220	MT	Joel	1	12	JBC[	HWBJCH	HWBJC	CMCMC	CMCMCM	hif	perf	sg	f	p3	verb					nnnnnn	nnnnnn
+294236	MT	Joel	1	12	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+294246	MT	Joel	1	13	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+294316	MT	Joel	1	17	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+294410	MT	Joel	2	2	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+294563	MT	Joel	2	11	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+294814	MT	Joel	2	23	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+294974	MT	Joel	3	4	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+295031	MT	Joel	4	2	JRD[	HWRDTJM	HWRD	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn
+295635	MT	Amos	1	14	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
+296005	MT	Amos	3	3	J<D[	NW<DW	NW<D	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+296141	MT	Amos	3	11	JRD[	HWRD	HWRD	CMCC	CMCC	hif	perf	sg	m	p3	verb				W	nnnn	nnnn
+296534	MT	Amos	5	2	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+296670	MT	Amos	5	10	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+296753	MT	Amos	5	15	JYG[	HYJGW	HYJG	CCMC	CCMCM	hif	impv	pl	m	p2	verb				W	nnnnn	nnnnn
+297092	MT	Amos	6	10	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+297327	MT	Amos	7	8	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+297412	MT	Amos	7	13	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+297543	MT	Amos	8	2	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+297548	MT	Amos	8	3	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnnn	nnnnnn
+297850	MT	Amos	9	2	JRD[	>WRJDM	>WRJD	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
+298214	MT	Obadiah	1	3	JRD[	JWRDNJ	JWRD	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	NJ				nnnnnn	nnnnnn
+298229	MT	Obadiah	1	4	JRD[	>WRJDK	>WRJD	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+298543	MT	Obadiah	1	21	JC<[	MWC<JM	MWC<	CMCC	CMCCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+299000	MT	Jonah	2	5	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+299356	MT	Jonah	4	4	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb				H	nnnn	nnnn
+299478	MT	Jonah	4	9	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb				H	nnnn	nnnn
+299486	MT	Jonah	4	9	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+299688	MT	Micah	1	8	JLL[	>JLJLH	>JLJL	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+299938	MT	Micah	2	7	JVB[	JJVJBW	JJVJB	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+300255	MT	Micah	3	11	JRH[	JWRW	JWR	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+300335	MT	Micah	4	2	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn
+300358	MT	Micah	4	3	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+301158	MT	Micah	7	3	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+301224	MT	Micah	7	7	JXL[	>WXJLH	>WXJL	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+301258	MT	Micah	7	9	JY>[	JWYJ>NJ	JWYJ>	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+301660	MT	Nahum	2	1	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+302148	MT	Nahum	3	17	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+302203	MT	Habakkuk	1	2	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+302286	MT	Habakkuk	1	7	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+302378	MT	Habakkuk	1	12	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+302750	MT	Habakkuk	2	18	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+302757	MT	Habakkuk	2	18	JRH[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+302779	MT	Habakkuk	2	19	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+302823	MT	Habakkuk	3	2	JD<[	TWDJ<	TWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+303295	MT	Zephaniah	1	11	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+303335	MT	Zephaniah	1	12	JVB[	JJVJB	JJVJB	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+303651	MT	Zephaniah	2	11	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+303918	MT	Zephaniah	3	10	JBL[	JWBLWN	JWBL	CMCC	CMCCMC	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+303942	MT	Zephaniah	3	11	JSP[	TWSPJ	TWSP	CMCC	CMCCM	hif	impf	sg	f	p2	verb					nnnnn	nnnnn
+304032	MT	Zephaniah	3	17	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+304044	MT	Zephaniah	3	18	JGH[	NWGJ	NWG	CMC	CMCM	nif	ptca	pl	m	unknown	verb		J			nnnn	nnnn
+304064	MT	Zephaniah	3	19	JC<[	HWC<TJ	HWC<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+304336	MT	Haggai	1	11	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+306022	MT	Zechariah	4	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+306217	MT	Zechariah	5	4	JY>[	HWY>TJH	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	H				nnnnnnn	nnnnnnn
+307086	MT	Zechariah	8	7	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+307257	MT	Zechariah	8	13	JC<[	>WCJ<	>WCJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+307296	MT	Zechariah	8	15	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+307526	MT	Zechariah	9	4	JRC[	JWRCNH	JWRC	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	H				nnnnnn	nnnnnn
+307551	MT	Zechariah	9	5	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+307632	MT	Zechariah	9	9	JC<[	NWC<	NWC<	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+307765	MT	Zechariah	9	16	JC<[	HWCJ<M	HWCJ<	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+307898	MT	Zechariah	10	5	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+307910	MT	Zechariah	10	6	JC<[	>WCJ<	>WCJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+307912	MT	Zechariah	10	6	JCB[	HWCBWTJM	HWCB	CMCC	CMCCMCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnnn	nnnnnnnn
+308005	MT	Zechariah	10	11	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
+308035	MT	Zechariah	11	2	JLL[	HJLL	HJLL	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+308043	MT	Zechariah	11	2	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+308520	MT	Zechariah	12	7	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+309300	MT	Zechariah	14	16	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+309779	MT	Malachi	1	14	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+310119	MT	Malachi	2	17	JG<[	HWG<TM	HWG<	CMCC	CMCCCC	hif	perf	pl	m	p2	verb					nnnnnn	nnnnnn
+310127	MT	Malachi	2	17	JG<[	HWG<NW	HWG<	CMCC	CMCCCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
+310633	MT	Malachi	3	23	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+310755	MT	Psalms	2	2	JSD=[	NWSDW	NWSD	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+310920	MT	Psalms	3	8	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+311037	MT	Psalms	4	9	JCB[	TWCJBNJ	TWCJB	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+311118	MT	Psalms	5	9	JCR[	HWCR	HWCR			hif	impv	sg	m	p2	verb					nnnn	nnnn
+311187	MT	Psalms	6	2	JKX[	TWKJXNJ	TWKJX	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+311216	MT	Psalms	6	5	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+311228	MT	Psalms	6	6	JDH[	JWDH	JWDH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+311291	MT	Psalms	7	2	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+311393	MT	Psalms	7	11	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+311450	MT	Psalms	7	18	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+311570	MT	Psalms	9	2	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+311720	MT	Psalms	9	17	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+311966	MT	Psalms	10	18	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+312067	MT	Psalms	12	2	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+312479	MT	Psalms	16	11	JD<[	TWDJ<NJ	TWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+312552	MT	Psalms	17	7	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+312872	MT	Psalms	18	20	JY>[	JWYJ>NJ	JWYJ>	CMCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+312946	MT	Psalms	18	28	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+313076	MT	Psalms	18	42	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+313153	MT	Psalms	18	50	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+313399	MT	Psalms	20	7	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+313436	MT	Psalms	20	10	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+313770	MT	Psalms	22	22	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+313894	MT	Psalms	22	32	JLD[	NWLD	NWLD	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+314108	MT	Psalms	25	4	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+314154	MT	Psalms	25	8	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+314195	MT	Psalms	25	12	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	W				nnnnn	nnnnn
+314214	MT	Psalms	25	14	JD<[	HWDJ<M	HWDJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+314221	MT	Psalms	25	15	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+314239	MT	Psalms	25	17	JY>[	HWYJ>NJ	HWYJ>	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+314535	MT	Psalms	27	11	JRH[	HWRNJ	HWR	CMC	CMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnn	nnnnn
+314675	MT	Psalms	28	7	JDH[	>HWDNW	H>WD		CCMCCM	hif	impf	sg	unknown	p1	verb	W				nnnnnn	nnnnnn
+314684	MT	Psalms	28	9	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+314852	MT	Psalms	30	5	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb				W	nnnn	nnnn
+314909	MT	Psalms	30	10	JDH[	JWDK	JWD	CMC	CMCC	hif	impf	sg	m	p3	verb	K			H	nnnn	nnnn
+314942	MT	Psalms	30	13	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+314973	MT	Psalms	31	3	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NJ			L	nnnnnnn	nnnnnnn
+314985	MT	Psalms	31	5	JY>[	TWYJ>NJ	TWYJ>	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+315130	MT	Psalms	31	17	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+315274	MT	Psalms	32	5	JD<[	>WDJ<K	>WDJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+315280	MT	Psalms	32	5	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+315320	MT	Psalms	32	8	JRH[	>WRK	>WR	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K			W	nnnn	nnnn
+315378	MT	Psalms	33	2	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+315392	MT	Psalms	33	3	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+315517	MT	Psalms	33	16	JC<[	NWC<	NWC<	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+315651	MT	Psalms	34	7	JC<[	HWCJ<W	HWCJ<	CMCMC	CMCMCM	hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn
+315764	MT	Psalms	34	19	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+315982	MT	Psalms	35	18	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+316131	MT	Psalms	36	4	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+316162	MT	Psalms	36	7	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+316272	MT	Psalms	37	6	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+316619	MT	Psalms	37	40	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+316632	MT	Psalms	38	2	JKX[	TWKJXNJ	TWKJX	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+316775	MT	Psalms	38	16	JXL[	HWXLTJ	HWXL	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+316877	MT	Psalms	39	5	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+317319	MT	Psalms	41	9	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+317453	MT	Psalms	42	6	JXL[	HWXJLJ	HWXJL	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+317458	MT	Psalms	42	6	JDH[	>WDNW	>WD	CMC	CMCCM	hif	impf	sg	unknown	p1	verb	W				nnnnn	nnnnn
+317536	MT	Psalms	42	12	JXL[	HWXJLJ	HWXJL	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+317541	MT	Psalms	42	12	JDH[	>WDNW	>WD	CMC	CMCCM	hif	impf	sg	unknown	p1	verb	W				nnnnn	nnnnn
+317596	MT	Psalms	43	4	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K			W	nnnn	nnnn
+317608	MT	Psalms	43	5	JXL[	HWXJLJ	HWXJL	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+317613	MT	Psalms	43	5	JDH[	>WDNW	>WD	CMC	CMCCM	hif	impf	sg	unknown	p1	verb	W				nnnnn	nnnnn
+317642	MT	Psalms	44	3	JRC[	HWRCT	HWRC	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+317658	MT	Psalms	44	4	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	perf	sg	f	p3	verb					nnnnnn	nnnnnn
+317691	MT	Psalms	44	7	JC<[	TWCJ<NJ	TWCJ<	CMCMC	CMCMCCM	hif	impf	sg	f	p3	verb	NJ				nnnnnnn	nnnnnnn
+317693	MT	Psalms	44	8	JC<[	HWC<TNW	HWC<	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+317709	MT	Psalms	44	9	JDH[	NWDH	NWDH	CMCM	CMCM	hif	impf	pl	unknown	p1	verb					nnnn	nnnn
+317935	MT	Psalms	45	5	JRH[	TWRK	TWR	CMC	CMCC	hif	impf	sg	f	p3	verb	K			W	nnnn	nnnn
+317936	MT	Psalms	45	5	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn
+318076	MT	Psalms	45	18	JDH[	JHWDK	HJWD		CCMCC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+318226	MT	Psalms	47	3	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+318326	MT	Psalms	48	4	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+318333	MT	Psalms	48	5	J<D[	NW<DW	NW<D	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+318618	MT	Psalms	49	19	JDH[	JWDK	JWD	CMC	CMCC	hif	impf	pl	m	p3	verb	K			W	nnnn	nnnn
+318620	MT	Psalms	49	19	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+318662	MT	Psalms	50	2	JP<[	HWPJ<	HWPJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+318719	MT	Psalms	50	8	JKX[	>WKJXK	>WKJX	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+318844	MT	Psalms	50	21	JKX[	>WKJXK	>WKJX	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
+318947	MT	Psalms	51	8	JD<[	TWDJ<NJ	TWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+319046	MT	Psalms	51	20	JVB[	HJVJBH	HJVJB	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+319177	MT	Psalms	52	11	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+319301	MT	Psalms	54	3	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+319347	MT	Psalms	54	8	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+319531	MT	Psalms	55	17	JC<[	JWCJ<NJ	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+319608	MT	Psalms	55	24	JRD[	TWRDM	TWRD	CMCC	CMCCC	hif	impf	sg	m	p2	verb	M				nnnnn	nnnnn
+319704	MT	Psalms	56	8	JRD[	HWRD	HWRD	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+319815	MT	Psalms	57	4	JC<[	JWCJ<NJ	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+319881	MT	Psalms	57	10	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+320060	MT	Psalms	59	3	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+320156	MT	Psalms	59	12	JRD[	HWRJDMW	HWRJD	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	MW			W	nnnnnnn	nnnnnnn
+320305	MT	Psalms	60	7	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+320342	MT	Psalms	60	11	JBL[	JBLNJ	JBL	CCC	CCCCM	hif	impf	sg	m	p3	verb	NJ				nnnnn	nnnnn
+320435	MT	Psalms	61	7	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+320764	MT	Psalms	64	5	JRH=[	JRHW	JR	CC	CCCM	hif	impf	pl	m	p3	verb	HW				nnnn	nnnn
+320792	MT	Psalms	64	8	JRH=[	JRM	JR	CC	CCC	hif	wayq	sg	m	p3	verb	M			W	nnn	nnn
+320871	MT	Psalms	65	6	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn
+320981	MT	Psalms	66	3	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+321005	MT	Psalms	66	5	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+321086	MT	Psalms	66	12	JY>[	TWYJ>NW	TWYJ>	CMCMC	CMCMCCM	hif	wayq	sg	m	p2	verb	NW			W	nnnnnnn	nnnnnnn
+321187	MT	Psalms	67	4	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+321190	MT	Psalms	67	4	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+321208	MT	Psalms	67	6	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+321211	MT	Psalms	67	6	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+321299	MT	Psalms	68	7	JCB[	MWCJB	MWCJB	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+321302	MT	Psalms	68	7	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+321549	MT	Psalms	68	30	JBL[	JWBJLW	JWBJL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+321611	MT	Psalms	68	36	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+321634	MT	Psalms	69	2	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+321981	MT	Psalms	69	36	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+322078	MT	Psalms	71	2	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+322089	MT	Psalms	71	3	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NJ			L	nnnnnnn	nnnnnnn
+322158	MT	Psalms	71	10	J<Y[	NW<YW	NW<Y	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+322193	MT	Psalms	71	14	JSP[	HWSPTJ	HWSP	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+322277	MT	Psalms	71	22	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+322344	MT	Psalms	72	4	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+322437	MT	Psalms	72	13	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+322942	MT	Psalms	74	15	JBC[	HWBCT	HWBC	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+323034	MT	Psalms	75	2	JDH[	HWDJNW	HWDJ	CMCM	CMCMCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
+323037	MT	Psalms	75	2	JDH[	HWDJNW	HWDJ	CMCM	CMCMCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
+323148	MT	Psalms	76	2	JD<[	NWD<	NWD<	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+323203	MT	Psalms	76	8	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+323228	MT	Psalms	76	10	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+323236	MT	Psalms	76	11	JDH[	TWDK	TWD	CMC	CMCC	hif	impf	sg	f	p3	verb	K				nnnn	nnnn
+323248	MT	Psalms	76	12	JBL[	JWBJLW	JWBJL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+323256	MT	Psalms	76	13	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+323333	MT	Psalms	77	8	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+323397	MT	Psalms	77	15	JD<[	HWD<T	HWD<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+323454	MT	Psalms	77	20	JD<[	ND<W	ND<	CCC	CCCM	nif	perf	pl	unknown	p3	verb					nnnn	nnnn
+323523	MT	Psalms	78	5	JD<[	HWDJ<M	HWDJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+323637	MT	Psalms	78	16	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+323642	MT	Psalms	78	16	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+323648	MT	Psalms	78	17	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+324382	MT	Psalms	79	11	JTR[	HWTR	HWTR	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+324402	MT	Psalms	79	13	JDH[	NWDH	NWDH	CMCM	CMCM	hif	impf	pl	unknown	p1	verb					nnnn	nnnn
+324432	MT	Psalms	80	2	JP<[	HWPJ<H	HWPJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+324885	MT	Psalms	83	6	J<Y[	NW<YW	NW<Y	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+325297	MT	Psalms	86	2	JC<[	HWC<	HWC<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+325380	MT	Psalms	86	11	JRH[	HWRNJ	HWR	CMC	CMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnn	nnnnn
+325391	MT	Psalms	86	12	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+325449	MT	Psalms	86	16	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb				W	nnnnnn	nnnnnn
+325654	MT	Psalms	88	11	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+325739	MT	Psalms	89	2	JD<[	>WDJ<	>WDJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+325773	MT	Psalms	89	6	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb				W	nnnn	nnnn
+325803	MT	Psalms	89	8	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+326359	MT	Psalms	90	12	JD<[	HWD<	HWD<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+326568	MT	Psalms	92	2	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+326770	MT	Psalms	94	1	JP<[	HWPJ<	HWPJ<	CMCCC	CMCCC	hif	impv	sg	m	p2	verb					nnnnn	nnnnn
+326843	MT	Psalms	94	10	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+327121	MT	Psalms	96	4	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+327359	MT	Psalms	97	12	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb				W	nnnn	nnnn
+327372	MT	Psalms	98	1	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	perf	sg	f	p3	verb					nnnnnn	nnnnnn
+327378	MT	Psalms	98	2	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+327485	MT	Psalms	99	3	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+327489	MT	Psalms	99	3	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+327608	MT	Psalms	100	4	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+328072	MT	Psalms	103	7	JD<[	JWDJ<	JWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+328370	MT	Psalms	104	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+328584	MT	Psalms	105	1	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+328590	MT	Psalms	105	1	JD<[	HWDJ<W	HWDJ<	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+328702	MT	Psalms	105	14	JKX[	JWKX	JWKX	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+328894	MT	Psalms	105	37	JY>[	JWYJ>M	JWYJ>	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+328948	MT	Psalms	105	43	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+328976	MT	Psalms	106	1	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+329046	MT	Psalms	106	8	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+329050	MT	Psalms	106	8	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+329069	MT	Psalms	106	10	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+329085	MT	Psalms	106	11	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+329167	MT	Psalms	106	21	JC<[	MWCJ<M	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn
+329176	MT	Psalms	106	22	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn
+329424	MT	Psalms	106	47	JC<[	HWCJ<NW	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+329433	MT	Psalms	106	47	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+329460	MT	Psalms	107	1	JDH[	HDW	HD	CC	CCM	hif	impv	pl	m	p2	verb					nnn	nnn
+329529	MT	Psalms	107	8	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+329583	MT	Psalms	107	13	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+329584	MT	Psalms	107	14	JY>[	JWYJ>M	JWYJ>	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+329592	MT	Psalms	107	15	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+329636	MT	Psalms	107	19	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+329645	MT	Psalms	107	21	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+329719	MT	Psalms	107	28	JY>[	JWYJ>M	JWYJ>	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+329736	MT	Psalms	107	31	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+329784	MT	Psalms	107	36	JCB[	JWCB	JWCB	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+329877	MT	Psalms	108	4	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+329909	MT	Psalms	108	7	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+329945	MT	Psalms	108	11	JBL[	JBLNJ	JBL	CCC	CCCCM	hif	impf	sg	m	p3	verb	NJ				nnnnn	nnnnn
+330233	MT	Psalms	109	26	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+330264	MT	Psalms	109	30	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+330280	MT	Psalms	109	31	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+330367	MT	Psalms	111	1	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+330447	MT	Psalms	111	9	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+330630	MT	Psalms	113	8	JCB[	HWCJBJ	HWCJB	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb				L	nnnnnn	nnnnnn
+330636	MT	Psalms	113	9	JCB[	MWCJBJ	MWCJB	CMCMC	CMCMCM	hif	ptca	sg	m	unknown	verb					nnnnnn	nnnnnn
+330843	MT	Psalms	115	14	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+330939	MT	Psalms	116	6	JC<[	JHWCJ<	HJWCJ<		CCMCMC	hif	impf	sg	m	p3	verb					nnnnnn	nnnnnn
+331074	MT	Psalms	118	1	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+331237	MT	Psalms	118	19	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+331247	MT	Psalms	118	21	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+331283	MT	Psalms	118	25	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+331315	MT	Psalms	118	28	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K			W	nnnn	nnnn
+331318	MT	Psalms	118	29	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+331369	MT	Psalms	119	7	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+331555	MT	Psalms	119	33	JRH[	HWRNJ	HWR	CMC	CMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnn	nnnnn
+331780	MT	Psalms	119	62	JDH[	HWDWT	HWD	CMC	CMCMC	hif	infc		unknown	unknown	verb		WT		L	nnnnn	nnnnn
+331829	MT	Psalms	119	68	JVB[	MVJB	MVJB	CCMC	CCMC	hif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+332037	MT	Psalms	119	94	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+332102	MT	Psalms	119	102	JRH[	HWRTNJ	HWR	CMC	CMCCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnn	nnnnnn
+332429	MT	Psalms	119	146	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+332685	MT	Psalms	120	3	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+332830	MT	Psalms	122	4	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+333045	MT	Psalms	125	4	JVB[	HJVJBH	HJVJB	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+333369	MT	Psalms	130	5	JXL[	HWXLTJ	HWXL	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+333771	MT	Psalms	135	7	JY>[	MWY>	MWY>	CMCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+333912	MT	Psalms	136	1	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+333921	MT	Psalms	136	2	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+333930	MT	Psalms	136	3	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+334014	MT	Psalms	136	11	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+334152	MT	Psalms	136	26	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+334261	MT	Psalms	138	1	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+334273	MT	Psalms	138	2	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb				W	nnnn	nnnn
+334296	MT	Psalms	138	4	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+334337	MT	Psalms	138	7	JC<[	TWCJ<NJ	TWCJ<	CMCMC	CMCMCCM	hif	impf	sg	f	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+334417	MT	Psalms	139	8	JY<[	>YJ<H	>YJ<	CCMC	CCMCM	hif	impf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+334468	MT	Psalms	139	14	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+334471	MT	Psalms	139	14	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn
+334707	MT	Psalms	140	14	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+334768	MT	Psalms	141	5	JKX[	JWKJXNJ	JWKJX	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+334908	MT	Psalms	142	8	JY>[	HWYJ>H	HWYJ>	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+334913	MT	Psalms	142	8	JDH[	HWDWT	HWD	CMC	CMCMC	hif	infc		unknown	unknown	verb		WT		L	nnnnn	nnnnn
+334959	MT	Psalms	143	3	JCB[	HWCJBNJ	HWCJB	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+335016	MT	Psalms	143	8	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+335049	MT	Psalms	143	11	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+335295	MT	Psalms	145	6	JR>[	NWR>TJK	NWR>	CMCC	CMCCCMC	nif	ptca	pl	f	unknown	verb	K	TJ			nnnnnnn	nnnnnnn
+335326	MT	Psalms	145	10	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+335340	MT	Psalms	145	12	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+335423	MT	Psalms	145	19	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+336874	MT	Job	3	4	JP<[	TWP<	TWP<	CMCC	CMCC	hif	impf	sg	f	p3	verb					nnnn	nnnn
+337440	MT	Job	5	15	JC<[	JC<	JC<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+337463	MT	Job	5	17	JKX[	JWKXNW	JWKX	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	W				nnnnnn	nnnnnn
+337654	MT	Job	6	9	J>L[	J>L	J>L	CCC	CCC	hif	impf	sg	m	p3	verb				W	nnn	nnn
+337788	MT	Job	6	24	JRH[	HWRWNJ	HWR	CMC	CMCMCM	hif	impv	pl	m	p2	verb	NJ				nnnnnn	nnnnnn
+337803	MT	Job	6	25	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+337804	MT	Job	6	25	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+337808	MT	Job	6	26	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infc		unknown	unknown	verb				HL	nnnn	nnnn
+337815	MT	Job	6	26	J>C[	N>C	N>C	CCC	CCC	nif	ptca	sg	m	unknown	verb					nnn	nnn
+337826	MT	Job	6	28	J>L[	HW>JLW	HW>JL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+338161	MT	Job	8	10	JRH[	JWRWK	JWR	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+338167	MT	Job	8	10	JY>[	JWY>W	JWY>	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+338447	MT	Job	9	19	J<D[	JW<JDNJ	JW<JD	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+338564	MT	Job	9	33	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+338602	MT	Job	10	2	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+338619	MT	Job	10	3	JP<[	HWP<T	HWP<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+338763	MT	Job	10	18	JY>[	HY>TNJ	HY>	CCM	CCMCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnn	nnnnnn
+338812	MT	Job	10	22	JP<[	TP<	TP<	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
+339082	MT	Job	12	7	JRH[	TRK	TR	CC	CCC	hif	impf	sg	f	p3	verb	K			W	nnn	nnn
+339096	MT	Job	12	8	JRH[	TRK	TR	CC	CCC	hif	impf	sg	f	p3	verb	K			W	nnn	nnn
+339222	MT	Job	12	22	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+339285	MT	Job	13	3	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+339342	MT	Job	13	10	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+339343	MT	Job	13	10	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+339395	MT	Job	13	15	JKX[	>WKJX	>WKJX	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+339467	MT	Job	13	23	JD<[	HDJ<NJ	HDJ<	CCMC	CCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnn	nnnnnn
+339490	MT	Job	13	26	JRC[	TWRJCNJ	TWRJC	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+339762	MT	Job	15	3	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+339770	MT	Job	15	3	J<L[	JW<JL	JW<JL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+339860	MT	Job	15	13	JY>[	HY>T	HY>	CCM	CCMC	hif	perf	sg	m	p2	verb				W	nnnn	nnnn
+340288	MT	Job	16	21	JKX[	JWKX	JWKX	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
+340349	MT	Job	17	6	JYG[	HYGNJ	HYG	CCC	CCCCM	hif	perf	sg	m	p3	verb	NJ			W	nnnnn	nnnnn
+340385	MT	Job	17	9	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+340646	MT	Job	19	2	JGH[	TWGJWN	TWGJ	CMCC	CMCCMC	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+340672	MT	Job	19	5	JKX[	TWKJXW	TWKJX	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+340992	MT	Job	20	9	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+341045	MT	Job	20	15	JRC[	JWRCNW	JWRC	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	W				nnnnnn	nnnnnn
+341310	MT	Job	21	15	J<L[	NW<JL	NW<JL	CMCMC	CMCMC	hif	impf	pl	unknown	p1	verb					nnnnn	nnnnn
+341528	MT	Job	22	4	JKX[	JKJXK	JKJX	CCMC	CCMCC	hif	impf	sg	m	p3	verb	K				nnnnn	nnnnn
+341759	MT	Job	22	29	JC<[	JWC<	JWC<	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+341819	MT	Job	23	7	JKX[	NWKX	NWKX	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+342145	MT	Job	24	21	JVB[	JJVJB	JJVJB	CCCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+342261	MT	Job	26	2	JC<[	HWC<T	HWC<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+342274	MT	Job	26	3	JD<[	HWD<T	HWD<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+342376	MT	Job	27	1	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+342466	MT	Job	27	11	JRH[	>WRH	>WRH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+342695	MT	Job	28	11	JY>[	JY>	JY>	CCM	CCM	hif	impf	sg	m	p3	verb					nnn	nnn
+342873	MT	Job	29	1	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+343229	MT	Job	30	13	J<L[	J<JLW	J<JL	CCMC	CCMCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+343279	MT	Job	30	19	JRH=[	HRNJ	HR	CC	CCCM	hif	perf	sg	m	p3	verb	NJ				nnnn	nnnn
+343916	MT	Job	32	7	JD<[	JDJ<W	JDJ<	CCMC	CCMCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+343943	MT	Job	32	11	JXL[	HWXLTJ	HWXL	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+343960	MT	Job	32	12	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+343990	MT	Job	32	16	JXL[	HWXLTJ	HWXL	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+344673	MT	Job	34	32	JRH[	HRNJ	HR	CC	CCCM	hif	impv	sg	m	p2	verb	NJ				nnnn	nnnn
+344678	MT	Job	34	32	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+344725	MT	Job	34	37	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+344757	MT	Job	35	3	J<L[	><JL	><JL	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+344888	MT	Job	36	1	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+344948	MT	Job	36	7	JCB[	JCJBM	JCJB	CCMC	CCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn
+345352	MT	Job	37	15	JP<[	HWPJ<	HWPJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+345379	MT	Job	37	19	JD<[	HWDJ<NW	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+345419	MT	Job	37	22	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+345467	MT	Job	38	3	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+345539	MT	Job	38	11	JSP[	TSJP	TSJP	CCMC	CCMC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+345705	MT	Job	38	28	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+345737	MT	Job	38	32	JY>[	TYJ>	TYJ>	CCMM	CCMM	hif	impf	sg	m	p2	verb				H	nnnn	nnnn
+346139	MT	Job	40	2	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+346166	MT	Job	40	5	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+346183	MT	Job	40	7	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+346243	MT	Job	40	14	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
+346245	MT	Job	40	14	JC<[	TWC<	TWC<	CMCC	CMCC	hif	impf	sg	f	p3	verb					nnnn	nnnn
+346402	MT	Job	40	32	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+346660	MT	Job	42	4	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+346788	MT	Job	42	10	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+346974	MT	Proverbs	1	5	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
+347150	MT	Proverbs	1	23	JD<[	>WDJ<H	>WDJ<	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+347458	MT	Proverbs	3	2	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+347555	MT	Proverbs	3	12	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+347810	MT	Proverbs	4	4	JRH[	JRNJ	JR	CC	CCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnn	nnnn
+347877	MT	Proverbs	4	11	JRH[	HRTJK	HR	CC	CCCMC	hif	perf	sg	unknown	p1	verb	K				nnnnn	nnnnn
+348015	MT	Proverbs	4	25	JCR[	JJCRW	JJCR	CCCC	CCCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+348260	MT	Proverbs	6	2	JQC[	NWQCT	NWQC	CMCC	CMCCC	nif	perf	sg	m	p2	verb					nnnnn	nnnnn
+348369	MT	Proverbs	6	13	JRH[	MRH	MRH	CCM	CCM	hif	ptca	sg	m	unknown	verb					nnn	nnn
+349233	MT	Proverbs	9	7	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				W	nnnnn	nnnnn
+349238	MT	Proverbs	9	8	JKX[	TWKX	TWKX	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+349242	MT	Proverbs	9	8	JKX[	HWKX	HWKX	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+349253	MT	Proverbs	9	9	JD<[	HWD<	HWD<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+349257	MT	Proverbs	9	9	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
+349272	MT	Proverbs	9	11	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb				W	nnnnnn	nnnnnn
+349349	MT	Proverbs	10	2	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+349495	MT	Proverbs	10	18	JY>[	MWY>	MWY>	CMCM	CMCM	hif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+349533	MT	Proverbs	10	22	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+349585	MT	Proverbs	10	27	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+349660	MT	Proverbs	11	4	J<L[	JW<JL	JW<JL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+349844	MT	Proverbs	11	24	JSP[	NWSP	NWSP	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+349860	MT	Proverbs	11	25	JRH=[	JWR>	JWR>	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+350257	MT	Proverbs	13	10	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+350725	MT	Proverbs	15	2	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+350814	MT	Proverbs	15	12	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+350822	MT	Proverbs	15	13	JVB[	JJVB	JJVB	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+351219	MT	Proverbs	16	21	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+351236	MT	Proverbs	16	23	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+351557	MT	Proverbs	17	22	JVB[	JJVB	JJVB	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+351877	MT	Proverbs	19	4	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+352030	MT	Proverbs	19	19	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+352086	MT	Proverbs	19	25	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				W	nnnnn	nnnnn
+352339	MT	Proverbs	20	22	JC<[	JC<	JC<	CCC	CCC	hif	impf	sg	m	p3	verb				W	nnn	nnn
+352628	MT	Proverbs	21	22	JRD[	JRD	JRD	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+352892	MT	Proverbs	22	19	JD<[	HWD<TJK	HWD<	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
+352907	MT	Proverbs	22	21	JD<[	HWDJ<K	HWDJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			L	nnnnnn	nnnnnn
+353273	MT	Proverbs	23	28	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	f	p3	verb					nnnn	nnnn
+353356	MT	Proverbs	23	35	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+353611	MT	Proverbs	24	25	JKX[	MWKJXJM	MWKJX	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM		WL	nnnnnnn	nnnnnnn
+353836	MT	Proverbs	25	12	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+353884	MT	Proverbs	25	17	JQR[	HQR	HQR	CCC	CCC	hif	impv	sg	m	p2	verb					nnn	nnn
+354711	MT	Proverbs	28	13	JDH[	MWDH	MWDH	CMCM	CMCM	hif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+354807	MT	Proverbs	28	23	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+354966	MT	Proverbs	29	11	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+355191	MT	Proverbs	30	6	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+355195	MT	Proverbs	30	6	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+355450	MT	Proverbs	30	29	JVB[	MJVJBJ	MJVJB	CMCMC	CMCMCM	hif	ptca	pl	m	unknown	verb		J			nnnnnn	nnnnnn
+355454	MT	Proverbs	30	29	JVB[	MJVBJ	MJVB	CMCC	CMCCM	hif	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn
+355488	MT	Proverbs	30	33	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+355493	MT	Proverbs	30	33	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+355498	MT	Proverbs	30	33	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+355711	MT	Proverbs	31	23	JD<[	NWD<	NWD<	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+356133	MT	Ruth	1	17	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+356570	MT	Ruth	2	14	JTR[	TTR	TTR	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
+356637	MT	Ruth	2	18	JY>[	TWY>	TWY>	CMCM	CMCM	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+356643	MT	Ruth	2	18	JTR[	HWTRH	HWTR	CMCC	CMCCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
+356942	MT	Ruth	3	10	JVB[	HJVBT	HJVB	CMCC	CMCCC	hif	perf	sg	f	p2	verb					nnnnn	nnnnn
+357555	MT	Ruth	4	18	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357560	MT	Ruth	4	19	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357565	MT	Ruth	4	19	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357570	MT	Ruth	4	20	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357575	MT	Ruth	4	20	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357580	MT	Ruth	4	21	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357585	MT	Ruth	4	21	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357590	MT	Ruth	4	22	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+357595	MT	Ruth	4	22	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+359219	MT	Song_of_songs	8	10	JY>[	MWY>T	MWY>	CMCC	CMCCC	hif	ptca	sg	f	unknown	verb		T		K	nnnnn	nnnnn
+359533	MT	Ecclesiastes	1	16	JSP[	HWSPTJ	HWSP	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+359575	MT	Ecclesiastes	1	18	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb				W	nnnnn	nnnnn
+359577	MT	Ecclesiastes	1	18	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+359728	MT	Ecclesiastes	2	9	JSP[	HWSPTJ	HWSP	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+360350	MT	Ecclesiastes	3	14	JSP[	HWSJP	HWSJP	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+360805	MT	Ecclesiastes	4	14	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+360883	MT	Ecclesiastes	5	1	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+361103	MT	Ecclesiastes	5	13	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+361299	MT	Ecclesiastes	6	3	JLD[	JWLJD	JWLJD	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+361426	MT	Ecclesiastes	6	10	JD<[	NWD<	NWD<	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+363193	MT	Ecclesiastes	11	9	JVB[	JVJBK	JVJB	MCMC	MCMCC	hif	impf	sg	m	p3	verb	K			W	nnnnn	nnnnn
+363592	MT	Lamentations	1	4	JGH[	NWGWT	NWG	CMC	CMCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn
+363605	MT	Lamentations	1	5	JGH[	HWGH	HWG	CMC	CMCC	hif	perf	sg	m	p3	verb	H				nnnn	nnnn
+363759	MT	Lamentations	1	12	JGH[	HWGH	HWGH	CMCM	CMCM	hif	perf	sg	m	p3	verb					nnnn	nnnn
+364177	MT	Lamentations	2	10	JRD[	HWRJDW	HWRJD	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+364349	MT	Lamentations	2	18	JRD[	HWRJDJ	HWRJD	CMCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn
+364501	MT	Lamentations	3	6	JCB[	HWCJBNJ	HWCJB	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+364612	MT	Lamentations	3	21	JXL[	>WXJL	>WXJL	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+364634	MT	Lamentations	3	24	JXL[	>WXJL	>WXJL	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+364690	MT	Lamentations	3	32	JGH[	HWGH	HWGH	CMCM	CMCM	hif	perf	sg	m	p3	verb					nnnn	nnnn
+364986	MT	Lamentations	4	3	JNQ[	HJNJQW	HJNJQ	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+365109	MT	Lamentations	4	11	JYT[	JYT	JYT	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+365174	MT	Lamentations	4	15	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+365181	MT	Lamentations	4	16	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+365204	MT	Lamentations	4	17	JC<[	JWC<	JWC<	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+365269	MT	Lamentations	4	22	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+367393	MT	Esther	4	11	JCV[	JWCJV	JWCJV	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+367602	MT	Esther	5	2	JCV[	JWCV	JWCV	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+368680	MT	Esther	8	3	JSP[	TWSP	TWSP	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+368714	MT	Esther	8	4	JCV[	JWCV	JWCV	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+375601	MT	Daniel	8	19	JD<[	MWDJ<K	MWDJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn
+375845	MT	Daniel	9	4	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+376100	MT	Daniel	9	15	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+376753	MT	Daniel	10	13	JTR[	NWTRTJ	NWTR	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+376848	MT	Daniel	10	18	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+378341	MT	Ezra	1	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+378347	MT	Ezra	1	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+378357	MT	Ezra	1	8	JY>[	JWYJ>M	JWYJ>	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+379417	MT	Ezra	3	11	JDH[	HWDT	HWD	CMC	CMCC	hif	infc		unknown	unknown	verb		T		WB	nnnn	nnnn
+382628	MT	Ezra	9	12	JRC[	HWRCTM	HWRC	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+382763	MT	Ezra	10	2	JCB[	NCB	NCB	CCC	CCC	hif	wayq	pl	unknown	p1	verb				W	nnn	nnn
+382785	MT	Ezra	10	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+382790	MT	Ezra	10	3	JLD[	NWLD	NWLD	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+382963	MT	Ezra	10	10	JCB[	TCJBW	TCJB	CCMC	CCMCM	hif	wayq	pl	m	p2	verb				W	nnnnn	nnnnn
+382967	MT	Ezra	10	10	JSP[	HWSJP	HWSJP	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+383059	MT	Ezra	10	14	JCB[	HCJB	HCJB	CCMC	CCMC	hif	perf	sg	m	p3	verb				H	nnnn	nnnn
+383148	MT	Ezra	10	17	JCB[	HCJBW	HCJB	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb				H	nnnnn	nnnnn
+383166	MT	Ezra	10	18	JCB[	HCJBW	HCJB	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+383187	MT	Ezra	10	19	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+383489	MT	Nehemiah	1	3	JYT[	NYTW	NYT	CCC	CCCM	nif	perf	pl	unknown	p3	verb					nnnn	nnnn
+383531	MT	Nehemiah	1	5	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+384156	MT	Nehemiah	2	17	JYT[	NYTW	NYT	CCC	CCCM	nif	perf	pl	unknown	p3	verb					nnnn	nnnn
+385195	MT	Nehemiah	4	8	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+385214	MT	Nehemiah	4	9	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+385924	MT	Nehemiah	6	1	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+386339	MT	Nehemiah	6	19	JY>[	MWYJ>JM	MWYJ>	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn
+387527	MT	Nehemiah	8	12	JD<[	HWDJ<W	HWDJ<	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
+387900	MT	Nehemiah	9	7	JY>[	HWY>TW	HWY>	CMCM	CMCMCM	hif	perf	sg	m	p2	verb	W			W	nnnnnn	nnnnnn
+388066	MT	Nehemiah	9	14	JD<[	HWD<T	HWD<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+388092	MT	Nehemiah	9	15	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+388431	MT	Nehemiah	9	27	JC<[	MWCJ<JM	MWCJ<	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn
+388433	MT	Nehemiah	9	27	JC<[	JWCJ<WM	JWCJ<	CMCMC	CMCMCMC	hif	impf	pl	m	p3	verb	M			W	nnnnnnn	nnnnnnn
+388557	MT	Nehemiah	9	32	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+389531	MT	Nehemiah	11	17	JDH[	JHWDH	HJWDH		CCMCM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+389847	MT	Nehemiah	12	10	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+389852	MT	Nehemiah	12	10	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+389861	MT	Nehemiah	12	11	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+389866	MT	Nehemiah	12	11	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+389996	MT	Nehemiah	12	24	JDH[	HWDWT	HWD	CMC	CMCMC	hif	infc		unknown	unknown	verb		WT		L	nnnnn	nnnnn
+390485	MT	Nehemiah	12	46	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		W	nnnn	nnnn
+390952	MT	Nehemiah	13	18	JSP[	MWSJPJM	MWSJP	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn
+391083	MT	Nehemiah	13	23	JCB[	HCJBW	HCJB	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+391190	MT	Nehemiah	13	27	JCB[	HCJB	HCJB	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
+391597	MT	1_Chronicles	1	34	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+391874	MT	1_Chronicles	2	3	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+391944	MT	1_Chronicles	2	9	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+391956	MT	1_Chronicles	2	10	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+391961	MT	1_Chronicles	2	10	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+391969	MT	1_Chronicles	2	11	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+391974	MT	1_Chronicles	2	11	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+391979	MT	1_Chronicles	2	12	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+391984	MT	1_Chronicles	2	12	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+391989	MT	1_Chronicles	2	13	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392043	MT	1_Chronicles	2	18	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392074	MT	1_Chronicles	2	20	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392079	MT	1_Chronicles	2	20	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392106	MT	1_Chronicles	2	22	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392306	MT	1_Chronicles	2	36	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392311	MT	1_Chronicles	2	36	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392316	MT	1_Chronicles	2	37	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392321	MT	1_Chronicles	2	37	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392326	MT	1_Chronicles	2	38	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392331	MT	1_Chronicles	2	38	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392336	MT	1_Chronicles	2	39	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392341	MT	1_Chronicles	2	39	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392346	MT	1_Chronicles	2	40	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392351	MT	1_Chronicles	2	40	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392356	MT	1_Chronicles	2	41	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392361	MT	1_Chronicles	2	41	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392391	MT	1_Chronicles	2	44	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392398	MT	1_Chronicles	2	44	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392424	MT	1_Chronicles	2	46	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392551	MT	1_Chronicles	3	1	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+392595	MT	1_Chronicles	3	4	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+392617	MT	1_Chronicles	3	5	JLD[	NWLDW	NWLD	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+392829	MT	1_Chronicles	4	2	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392834	MT	1_Chronicles	4	2	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+392912	MT	1_Chronicles	4	8	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392976	MT	1_Chronicles	4	11	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+392984	MT	1_Chronicles	4	12	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+393011	MT	1_Chronicles	4	14	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+393016	MT	1_Chronicles	4	14	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+393976	MT	1_Chronicles	5	30	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+393980	MT	1_Chronicles	5	30	JLD[	HLJD	HLJD	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+393985	MT	1_Chronicles	5	31	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+393990	MT	1_Chronicles	5	31	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+393995	MT	1_Chronicles	5	32	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394000	MT	1_Chronicles	5	32	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394004	MT	1_Chronicles	5	33	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394009	MT	1_Chronicles	5	33	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394014	MT	1_Chronicles	5	34	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394019	MT	1_Chronicles	5	34	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394024	MT	1_Chronicles	5	35	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394029	MT	1_Chronicles	5	35	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394034	MT	1_Chronicles	5	36	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394049	MT	1_Chronicles	5	37	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+394055	MT	1_Chronicles	5	37	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394060	MT	1_Chronicles	5	38	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394065	MT	1_Chronicles	5	38	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394070	MT	1_Chronicles	5	39	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394075	MT	1_Chronicles	5	39	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394080	MT	1_Chronicles	5	40	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394085	MT	1_Chronicles	5	40	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+394584	MT	1_Chronicles	6	46	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+394769	MT	1_Chronicles	6	55	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+394873	MT	1_Chronicles	6	62	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+395306	MT	1_Chronicles	7	21	JLD[	NWLDJM	NWLD	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+395458	MT	1_Chronicles	7	32	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395571	MT	1_Chronicles	8	1	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395635	MT	1_Chronicles	8	7	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+395643	MT	1_Chronicles	8	8	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395656	MT	1_Chronicles	8	9	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+395687	MT	1_Chronicles	8	11	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395860	MT	1_Chronicles	8	32	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395875	MT	1_Chronicles	8	33	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395880	MT	1_Chronicles	8	33	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395885	MT	1_Chronicles	8	33	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395903	MT	1_Chronicles	8	34	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395918	MT	1_Chronicles	8	36	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395923	MT	1_Chronicles	8	36	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395934	MT	1_Chronicles	8	36	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+395939	MT	1_Chronicles	8	37	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396458	MT	1_Chronicles	9	28	JY>[	JWYJ>WM	JWYJ>	CMCMC	CMCMCMC	hif	impf	pl	m	p3	verb	M				nnnnnnn	nnnnnnn
+396602	MT	1_Chronicles	9	38	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396617	MT	1_Chronicles	9	39	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396622	MT	1_Chronicles	9	39	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396627	MT	1_Chronicles	9	39	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396645	MT	1_Chronicles	9	40	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396658	MT	1_Chronicles	9	42	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396663	MT	1_Chronicles	9	42	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396674	MT	1_Chronicles	9	42	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396679	MT	1_Chronicles	9	43	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+396758	MT	1_Chronicles	10	3	JRH=[	MWRJM	MWR	CMC	CMCMC	hif	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn
+397024	MT	1_Chronicles	11	2	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
+397286	MT	1_Chronicles	11	14	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+397753	MT	1_Chronicles	12	2	JMN[	MJMJNJM	MJMJN	CCCMC	CCCMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn
+398013	MT	1_Chronicles	12	18	JKX[	JWKX	JWKX	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
+398817	MT	1_Chronicles	14	3	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+398959	MT	1_Chronicles	14	13	JSP[	JSJPW	JSJP	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+399617	MT	1_Chronicles	16	1	JYG[	JYJGW	JYJG	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+399688	MT	1_Chronicles	16	4	JDH[	HWDWT	HWD	CMC	CMCMC	hif	infc		unknown	unknown	verb		WT		WL	nnnnn	nnnnn
+399756	MT	1_Chronicles	16	7	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+399764	MT	1_Chronicles	16	8	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+399770	MT	1_Chronicles	16	8	JD<[	HWDJ<W	HWDJ<	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+399883	MT	1_Chronicles	16	21	JKX[	JWKX	JWKX	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+399925	MT	1_Chronicles	16	25	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+400032	MT	1_Chronicles	16	34	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+400043	MT	1_Chronicles	16	35	JC<[	HWCJ<NW	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+400054	MT	1_Chronicles	16	35	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+400185	MT	1_Chronicles	16	41	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+400426	MT	1_Chronicles	17	9	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+400598	MT	1_Chronicles	17	18	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+400626	MT	1_Chronicles	17	19	JD<[	HDJ<	HDJ<	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
+400668	MT	1_Chronicles	17	21	JR>[	NR>WT	NR>	CCC	CCCMC	nif	ptca	pl	f	unknown	verb		WT		W	nnnnn	nnnnn
+400775	MT	1_Chronicles	17	27	J>L[	HW>LT	HW>L	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+400866	MT	1_Chronicles	18	4	JTR[	JWTR	JWTR	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+400905	MT	1_Chronicles	18	6	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+401071	MT	1_Chronicles	18	13	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+401429	MT	1_Chronicles	19	12	JC<[	HWC<TJK	HWC<	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	K			W	nnnnnnn	nnnnnnn
+401499	MT	1_Chronicles	19	16	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+401590	MT	1_Chronicles	19	19	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+401665	MT	1_Chronicles	20	2	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+401674	MT	1_Chronicles	20	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+401774	MT	1_Chronicles	20	6	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+401790	MT	1_Chronicles	20	8	JLD[	NWLDW	NWLD	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+401848	MT	1_Chronicles	21	3	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+402685	MT	1_Chronicles	22	9	JLD[	NWLD	NWLD	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
+402836	MT	1_Chronicles	22	14	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+403407	MT	1_Chronicles	23	30	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+403743	MT	1_Chronicles	24	20	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+403955	MT	1_Chronicles	25	3	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT			nnnn	nnnn
+404367	MT	1_Chronicles	26	6	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+406427	MT	1_Chronicles	29	13	JDH[	MWDJM	MWD	CMC	CMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn
+407207	MT	2_Chronicles	1	17	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+407233	MT	2_Chronicles	1	17	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+408723	MT	2_Chronicles	5	6	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+408922	MT	2_Chronicles	5	13	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		WL	nnnn	nnnn
+409039	MT	2_Chronicles	6	5	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+409524	MT	2_Chronicles	6	24	JDH[	HWDW	HWD	CMC	CMCM	hif	perf	pl	unknown	p3	verb				W	nnnn	nnnn
+409580	MT	2_Chronicles	6	26	JDH[	HWDW	HWD	CMC	CMCM	hif	perf	pl	unknown	p3	verb				W	nnnn	nnnn
+409602	MT	2_Chronicles	6	27	JRH[	TWRM	TWR	CMC	CMCC	hif	impf	sg	m	p2	verb	M				nnnn	nnnn
+410085	MT	2_Chronicles	7	3	JDH[	HWDWT	HWD	CMC	CMCMC	hif	infc		unknown	unknown	verb		WT		W	nnnnn	nnnnn
+410156	MT	2_Chronicles	7	6	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
+410589	MT	2_Chronicles	7	22	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn
+410640	MT	2_Chronicles	8	2	JCB[	JWCB	JWCB	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+410734	MT	2_Chronicles	8	7	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+410758	MT	2_Chronicles	8	8	JTR[	NWTRW	NWTR	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+411679	MT	2_Chronicles	9	28	JY>[	MWYJ>JM	MWYJ>	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM		W	nnnnnnn	nnnnnnn
+411859	MT	2_Chronicles	10	6	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+411921	MT	2_Chronicles	10	9	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+411989	MT	2_Chronicles	10	11	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+412059	MT	2_Chronicles	10	14	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+412567	MT	2_Chronicles	11	21	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+413457	MT	2_Chronicles	13	21	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+413873	MT	2_Chronicles	15	3	JRH[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
+414233	MT	2_Chronicles	16	2	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+415669	MT	2_Chronicles	18	33	JY>[	HWY>TNJ	HWY>	CMCM	CMCMCCM	hif	perf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+416114	MT	2_Chronicles	20	7	JRC[	HWRCT	HWRC	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+416181	MT	2_Chronicles	20	9	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb				W	nnnnn	nnnnn
+416224	MT	2_Chronicles	20	11	JRC[	HWRCTNW	HWRC	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+416474	MT	2_Chronicles	20	21	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+417903	MT	2_Chronicles	23	11	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+417992	MT	2_Chronicles	23	13	JD<[	MWDJ<JM	MWDJ<	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM		W	nnnnnnn	nnnnnnn
+418005	MT	2_Chronicles	23	14	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+418019	MT	2_Chronicles	23	14	JY>[	HWYJ>WH	HWYJ>	CMCMC	CMCMCMC	hif	impv	pl	m	p2	verb	H				nnnnnnn	nnnnnnn
+418181	MT	2_Chronicles	23	20	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+418199	MT	2_Chronicles	23	20	JCB[	JWCJBW	JWCJB	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+418263	MT	2_Chronicles	24	3	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+420387	MT	2_Chronicles	28	3	JRC[	HRJC	HRJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+420638	MT	2_Chronicles	28	13	JSP[	HSJP	HSJP	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
+420849	MT	2_Chronicles	28	22	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+421068	MT	2_Chronicles	29	5	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+421293	MT	2_Chronicles	29	16	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+421312	MT	2_Chronicles	29	16	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+422591	MT	2_Chronicles	31	2	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		WL	nnnn	nnnn
+422784	MT	2_Chronicles	31	10	JTR[	HWTR	HWTR	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
+422795	MT	2_Chronicles	31	10	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+423610	MT	2_Chronicles	32	22	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+423914	MT	2_Chronicles	33	2	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+424052	MT	2_Chronicles	33	8	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+424818	MT	2_Chronicles	34	14	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			WB	nnnnnn	nnnnnn
+425966	MT	2_Chronicles	35	23	JRH=[	JRW	JR	CC	CCM	hif	wayq	pl	m	p3	verb				W	nnn	nnn

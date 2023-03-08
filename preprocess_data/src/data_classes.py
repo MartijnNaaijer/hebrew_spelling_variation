@@ -22,7 +22,7 @@ SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpe
 Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
 
 MT = use('etcbc/bhsa', version=bhsa_version)
-MT.load(['g_prs', 'g_nme'])
+MT.load(['g_prs', 'g_nme', 'g_pfm', 'g_vbs'])
 F, L, T = MT.api.F, MT.api.L, MT.api.T
 
 
@@ -167,7 +167,8 @@ class MTWordProcessor:
         return prs_cons
 
     def get_stem(self):
-        return ''.join([ch for ch in F.g_lex.v(self.tf_id) if ch in self.consonants])
+        return ''.join([ch for ch in F.g_vbs.v(self.tf_id) + F.g_pfm.v(self.tf_id) + F.g_lex.v(self.tf_id)
+                        if ch in self.consonants])
 
     def get_nme(self):
         nme_cons = ''.join([ch for ch in F.g_nme.v(self.tf_id) if ch in self.consonants])

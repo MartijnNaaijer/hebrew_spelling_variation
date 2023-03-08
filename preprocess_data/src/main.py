@@ -59,6 +59,10 @@ def main():
     # other_infc.to_csv('../data/other_infc.csv', sep='\t', index=False)
     # # TODO: add some columns, see nouns_adjvs
 
+    niph_hiph_pe_yod = get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
+    print(niph_hiph_pe_yod.shape)
+    niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
+
 
 def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv', matres_pattern_dataset.matres_predictions_dict)
@@ -161,12 +165,6 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
     matres_column_adder_ptca = MatresColumnAdderActiveParticiples(ptca)
     ptca = matres_column_adder_ptca.data
 
-    #matres_column_adder = MatresColumnAdder(ptca)
-    #ptca = matres_column_adder.df_with_vowel_letters.sort_values(by=['tf_id'])
-
-    #matres_column_adder = MatresColumnAdder(ptcp)
-    #ptcp = matres_column_adder.df_with_vowel_letters.sort_values(by=['tf_id'])
-
     return ptca, ptcp
 
 
@@ -204,9 +202,19 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
     return lamed_he_infc, other_infc
 
 
-def get_triliteral_hiphil_data():
-    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='trilit_hiphil')
-    mt_ptc_qal_df = basic_mt_data_selector.select_data()
+def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='niph_hiph_pe_yod')
+    mt_niph_hiph_pe_yod_df = basic_mt_data_selector.select_data()
+
+    mt_niph_hiph_pe_yod_df = mt_niph_hiph_pe_yod_df[(mt_niph_hiph_pe_yod_df.vs == 'hif') |
+                                                    ((mt_niph_hiph_pe_yod_df.vs == 'nif') &
+                                                     mt_niph_hiph_pe_yod_df.vt.isin({'perf', 'ptca'}))]
+
+    # exclude lexeme JVB[
+
+    return mt_niph_hiph_pe_yod_df
+
+
 
 
 def get_qal_infinitive_absolute():
