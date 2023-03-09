@@ -95,9 +95,21 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
 
 def get_negation_lo(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='nega_lo')
-    nega_lo = basic_mt_data_selector.select_data()
+    mt_nega_lo = basic_mt_data_selector.select_data()
 
-    return nega_lo
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='nega_lo',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+
+    mt_dss_nega_lo_df = pd.concat([mt_nega_lo, matres_parser_dss.dss_matres_df])
+    mt_dss_nega_lo_df = mt_dss_nega_lo_df.sort_values(by=['tf_id'])
+
+    hebrew_text_adder = HebrewTextAdder(mt_dss_nega_lo_df)
+    mt_dss_nega_lo_df = hebrew_text_adder.data
+
+    # Correct in data: 1957484 is lex L, rest is good, remove deviating cases (L, LH, LW, etc in analysis)
+
+    return mt_dss_nega_lo_df
 
 
 def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
