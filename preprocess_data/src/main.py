@@ -27,6 +27,8 @@ from matres_column_participles import ParticiplesCorrector, MatresColumnAdderAct
 from matres_column_infc import InfcLamedHeCorrector, MatresColumnAdderInfinitiveConstructLamedHe, InfcOtherCorrector, \
      MatresColumnAdderInfinitiveConstructTriliteral
 
+# for particles
+from remove_useless_particles import UselessParticleRemover
 
 def main():
 
@@ -63,9 +65,9 @@ def main():
     #print(niph_hiph_pe_yod.shape)
     #niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
 
-    lo = get_negation_lo(corpus, mt, matres_pattern_dataset)
-    print(lo.shape)
-    lo.to_csv('../data/lo.csv', sep='\t', index=False)
+    particles = get_particles(corpus, mt, matres_pattern_dataset)
+    print(particles.shape)
+    particles.to_csv('../data/particles.csv', sep='\t', index=False)
 
 
 def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
@@ -93,23 +95,42 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
     return mt_niph_hiph_pe_yod_df
 
 
-def get_negation_lo(corpus, mt, matres_pattern_dataset):
-    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='nega_lo')
-    mt_nega_lo = basic_mt_data_selector.select_data()
+def get_particles(corpus, mt, matres_pattern_dataset):
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='particles')
+    mt_particles = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='nega_lo',
+                                           relevant_data='particles',
                                            matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
 
-    mt_dss_nega_lo_df = pd.concat([mt_nega_lo, matres_parser_dss.dss_matres_df])
-    mt_dss_nega_lo_df = mt_dss_nega_lo_df.sort_values(by=['tf_id'])
+    particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
+    particles_df = particles_df.sort_values(by=['tf_id'])
 
-    hebrew_text_adder = HebrewTextAdder(mt_dss_nega_lo_df)
-    mt_dss_nega_lo_df = hebrew_text_adder.data
+    hebrew_text_adder = HebrewTextAdder(particles_df)
+    particles_df = hebrew_text_adder.data
+
+    hebrew_text_adder = HebrewTextAdder(particles_df)
+    particles_df = hebrew_text_adder.data
+
+    particles_df['other_vowel_ending'] = ''
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(particles_df)
+    particles_df = mt_dss_help_columns_adder.mt_dss_data
+
+    rec_cor_columns_adder = RecCorColumnsAdder(particles_df)
+    particles_df = rec_cor_columns_adder.data
+
+    # add type, vowel_letter, has_vowel_letter
+    particles_df['type'] = 'single'
+    useless_particle_remover = UselessParticleRemover(particles_df)
+    particles_df = useless_particle_remover.data
+
+    particles_df['vowel_letter'] = particles_df.g_cons.str[1:]
+    particles_df['has_vowel_letter'] = 1
 
     # Correct in data: 1957484 is lex L, rest is good, remove deviating cases (L, LH, LW, etc in analysis)
 
-    return mt_dss_nega_lo_df
+    return particles_df
 
 
 def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):

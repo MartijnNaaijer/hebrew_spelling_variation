@@ -23,7 +23,6 @@ class BasicMTDataSelector:
             niph_hiphil_pe_yod_data = self.data[(self.data.sp == 'verb') &
                                                 (self.data.lex.str[0] == 'J') &
                                                 (self.data.vs.isin({'nif', 'hif'}))]
-
             return niph_hiphil_pe_yod_data
 
         elif self.relevant_data == 'hiph_triliteral':
@@ -31,9 +30,8 @@ class BasicMTDataSelector:
                                                 (self.data.lex.str[0] != 'J') &
                                                 (self.data.vs == 'hif') &
                                                 (self.data.vt.isin('infa', 'infc'))]
-
             return hiphil_triliteral_data
-        elif self.relevant_data == 'nega_lo':
-            lo_data = self.data[(self.data.lex == 'L>')]
+        elif self.relevant_data == 'particles':
+            particles_data = self.data[self.data.lex.isin(['KJ', 'L>', 'MJ'])]
 
-            return lo_data
+            return particles_data
