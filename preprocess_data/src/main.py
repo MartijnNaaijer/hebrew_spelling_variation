@@ -16,6 +16,7 @@ from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherV
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder, RecCorColumnsAdder
 from process_invalid_data import InvalidDataRemover
 from remove_useless_lexemes_and_plurals import UselessRowsRemover, SyllablesWithoutVariationRemover
+from remove_useless_inf_abs import UselessRootsInfAbsRemover
 
 from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
@@ -65,9 +66,14 @@ def main():
     #print(niph_hiph_pe_yod.shape)
     #niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
 
-    particles = get_particles(corpus, mt, matres_pattern_dataset)
-    print(particles.shape)
-    particles.to_csv('../data/particles.csv', sep='\t', index=False)
+    #particles = get_particles(corpus, mt, matres_pattern_dataset)
+    #print(particles.shape)
+    #particles.to_csv('../data/particles.csv', sep='\t', index=False)
+
+
+    qal_inf_abs = get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset)
+    print(qal_inf_abs.shape)
+    qal_inf_abs.to_csv('../data/qal_inf_abs.csv', sep='\t', index=False)
 
 
 def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
@@ -95,6 +101,37 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
     return mt_niph_hiph_pe_yod_df
 
 
+def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='inf_abs_qal')
+    mt_qal_inf_abs = basic_mt_data_selector.select_data()
+
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='inf_abs_qal',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+
+    qal_inf_abs_df = pd.concat([mt_qal_inf_abs, matres_parser_dss.dss_matres_df])
+    qal_inf_abs_df = qal_inf_abs_df.sort_values(by=['tf_id'])
+
+    hebrew_text_adder = HebrewTextAdder(qal_inf_abs_df)
+    qal_inf_abs_df = hebrew_text_adder.data
+
+    qal_inf_abs_df['other_vowel_ending'] = ''
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(qal_inf_abs_df)
+    qal_inf_abs_df = mt_dss_help_columns_adder.mt_dss_data
+
+    rec_cor_columns_adder = RecCorColumnsAdder(qal_inf_abs_df)
+    qal_inf_abs_df = rec_cor_columns_adder.data
+
+    useless_roots_inf_abs = UselessRootsInfAbsRemover(qal_inf_abs_df)
+    qal_inf_abs_df = useless_roots_inf_abs.no_lamed_he
+
+    # Strange case in dataset:
+    # in 4Q56 2x inf abs in 37:30, waar komen die vandaan, niet in andere manuscr.
+
+    return qal_inf_abs_df
+
+
 def get_particles(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='particles')
     mt_particles = basic_mt_data_selector.select_data()
@@ -105,9 +142,6 @@ def get_particles(corpus, mt, matres_pattern_dataset):
 
     particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
     particles_df = particles_df.sort_values(by=['tf_id'])
-
-    hebrew_text_adder = HebrewTextAdder(particles_df)
-    particles_df = hebrew_text_adder.data
 
     hebrew_text_adder = HebrewTextAdder(particles_df)
     particles_df = hebrew_text_adder.data
@@ -131,10 +165,6 @@ def get_particles(corpus, mt, matres_pattern_dataset):
     # Correct in data: 1957484 is lex L, rest is good, remove deviating cases (L, LH, LW, etc in analysis)
 
     return particles_df
-
-
-def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
-    pass
 
 
 if __name__ == '__main__':

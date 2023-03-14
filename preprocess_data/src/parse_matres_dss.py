@@ -202,6 +202,8 @@ class DSSMatresProcessor:
             is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt == 'infc' and word_obj.vs == 'qal'
         elif self.relevant_data == 'particles':
             is_sp_relevant = word_obj.lex in {'KJ', 'MJ', 'L>'}
+        elif self.relevant_data == 'inf_abs_qal':
+            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt == 'infa' and word_obj.vs == 'qal'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_sp_relevant])
 
     @staticmethod

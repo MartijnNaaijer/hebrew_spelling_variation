@@ -35,3 +35,9 @@ class BasicMTDataSelector:
             particles_data = self.data[self.data.lex.isin(['KJ', 'L>', 'MJ'])]
 
             return particles_data
+        elif self.relevant_data == 'inf_abs_qal':
+            qal_inf_abs_data = self.data[(self.data.sp == 'verb') &
+                                         (self.data.vt == 'infa') &
+                                         (self.data.vs == 'qal')]
+            return qal_inf_abs_data
+

@@ -162,12 +162,13 @@ class MTDSSHelpColumnsAdder:
     """"""
     def __init__(self, mt_dss_data):
         self.mt_dss_data = mt_dss_data
-        self.add_col_final_H()
+        self.add_col_final_h()
         self.add_line_and_column_in_manuscript()
         self.add_extra_columns()
 
-    def add_col_final_H(self):
-        self.mt_dss_data['final_h'] = np.where(self.mt_dss_data.lex.str.strip('/').str.strip('=').str[-1] == 'H',
+    def add_col_final_h(self):
+        self.mt_dss_data['final_h'] = np.where(self.mt_dss_data.lex.str.strip('/').str.strip('[').str.strip('=')
+                                               .str[-1] == 'H',
                                                'H', 'noH')
 
     def add_line_and_column_in_manuscript(self):
