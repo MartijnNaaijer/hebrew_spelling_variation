@@ -31,6 +31,10 @@ from matres_column_infc import InfcLamedHeCorrector, MatresColumnAdderInfinitive
 # for particles
 from remove_useless_particles import UselessParticleRemover
 
+# for hif-nif pe yod
+from matres_column_hif_nif_pe_yod import MatresColumnAdderHifNifPeYod
+from remove_useless_hif_nif_pe_yod import UselessHiphNiphPeYod
+
 def main():
 
     corpus = Corpus('biblical')
@@ -84,7 +88,6 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
     #                                                ((mt_niph_hiph_pe_yod_df.vs == 'nif') &
     #                                                 mt_niph_hiph_pe_yod_df.vt.isin({'perf', 'ptca'}))]
 
-    # exclude lexeme JVB[
     # At some point split hiphil from niphal and select data separately.
 
     matres_parser_dss = DSSMatresProcessor(corpus,
@@ -93,6 +96,19 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
 
     niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.dss_matres_df])
     niph_hiph_pe_yod_df = niph_hiph_pe_yod_df.sort_values(by=['tf_id'])
+
+    hebrew_text_adder = HebrewTextAdder(niph_hiph_pe_yod_df)
+    niph_hiph_pe_yod_df = hebrew_text_adder.data
+
+    rec_cor_columns_adder = RecCorColumnsAdder(niph_hiph_pe_yod_df)
+    niph_hiph_pe_yod_df = rec_cor_columns_adder.data
+
+    ## ADD REMOVE USELESS LEXEMES # exclude lexeme JVB[
+    useless_hif_nif_pe_yod = UselessHiphNiphPeYod(niph_hiph_pe_yod_df)
+    niph_hiph_pe_yod_df = useless_hif_nif_pe_yod.data_no_second_h
+
+    matres_column_adder_hif_nif_pe_yod = MatresColumnAdderHifNifPeYod(niph_hiph_pe_yod_df)
+    niph_hiph_pe_yod_df = matres_column_adder_hif_nif_pe_yod.data
 
     return niph_hiph_pe_yod_df
 
