@@ -206,7 +206,10 @@ class DSSMatresProcessor:
             is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt == 'infa' and word_obj.vs == 'qal'
         elif self.relevant_data == 'niph_hiph_pe_yod':
             is_sp_relevant = word_obj.sp == 'verb' and word_obj.lex[0] == 'J' and word_obj.vs in {'hif', 'nif', 'hof'}
+        elif self.relevant_data == 'hiph_triliteral':
+            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vs == 'hif' and word_obj.lex[0] != 'J' and word_obj.lex[2] != 'H'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_sp_relevant])
+
 
     @staticmethod
     def parse_prefix_g_cons_dss(tf_id):

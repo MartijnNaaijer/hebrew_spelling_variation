@@ -35,6 +35,10 @@ from remove_useless_particles import UselessParticleRemover
 from matres_column_hif_nif_pe_yod import MatresColumnAdderHifNifPeYod
 from remove_useless_hif_nif_pe_yod import UselessHiphNiphPeYod
 
+# for triliteral hiphil
+from remove_useless_hiphil_triliteral import UselessHiphilTriliteral
+from matres_column_hiphil_triliteral import MatresColumnAdderHifTriliteral
+
 def main():
 
     corpus = Corpus('biblical')
@@ -66,9 +70,13 @@ def main():
     # other_infc.to_csv('../data/other_infc.csv', sep='\t', index=False)
     # # TODO: add some columns, see nouns_adjvs
 
-    niph_hiph_pe_yod = get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
-    print(niph_hiph_pe_yod.shape)
-    niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
+    #niph_hiph_pe_yod = get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
+    #print(niph_hiph_pe_yod.shape)
+    #niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
+
+    hiph_triliteral = get_triliteral_hiphil(corpus, mt, matres_pattern_dataset)
+    print(hiph_triliteral.shape)
+    hiph_triliteral.to_csv('../data/hiph_triliteral.csv', sep='\t', index=False)
 
     #particles = get_particles(corpus, mt, matres_pattern_dataset)
     #print(particles.shape)
@@ -84,12 +92,6 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='niph_hiph_pe_yod')
     mt_niph_hiph_pe_yod_df = basic_mt_data_selector.select_data()
 
-    #mt_niph_hiph_pe_yod_df = mt_niph_hiph_pe_yod_df[(mt_niph_hiph_pe_yod_df.vs == 'hif') |
-    #                                                ((mt_niph_hiph_pe_yod_df.vs == 'nif') &
-    #                                                 mt_niph_hiph_pe_yod_df.vt.isin({'perf', 'ptca'}))]
-
-    # At some point split hiphil from niphal and select data separately.
-
     matres_parser_dss = DSSMatresProcessor(corpus,
                                            relevant_data='niph_hiph_pe_yod',
                                            matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
@@ -100,10 +102,14 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
     hebrew_text_adder = HebrewTextAdder(niph_hiph_pe_yod_df)
     niph_hiph_pe_yod_df = hebrew_text_adder.data
 
+    niph_hiph_pe_yod_df['other_vowel_ending'] = ''
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(niph_hiph_pe_yod_df)
+    niph_hiph_pe_yod_df = mt_dss_help_columns_adder.mt_dss_data
+
     rec_cor_columns_adder = RecCorColumnsAdder(niph_hiph_pe_yod_df)
     niph_hiph_pe_yod_df = rec_cor_columns_adder.data
 
-    ## ADD REMOVE USELESS LEXEMES # exclude lexeme JVB[
     useless_hif_nif_pe_yod = UselessHiphNiphPeYod(niph_hiph_pe_yod_df)
     niph_hiph_pe_yod_df = useless_hif_nif_pe_yod.data_no_second_h
 
@@ -114,15 +120,35 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
 
 
 def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
+    """Problem of impf is that there are two forms: jaqtil en jaqtel, the latter (juss.)
+    is difficult to distinguish without vocalization. Both are included in the dataset."""
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='hiph_triliteral')
-    mt_niph_hiph_pe_yod_df = basic_mt_data_selector.select_data()
+    mt_hiph_triliteral_df = basic_mt_data_selector.select_data()
 
-    # TODO: have look at combinations of ps, nu gn, vt:
-    # ((self.data.vt == 'perf') & (self.data.ps == 'p3') |
-    # (self.data.vt == 'impf') & (self.data.gn != 'f') & (self.data.nu == 'pl')
-    # (self.data.vt == 'ptca'))
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='hiph_triliteral',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
 
-    return mt_niph_hiph_pe_yod_df
+    hiph_triliteral_df = pd.concat([mt_hiph_triliteral_df, matres_parser_dss.dss_matres_df])
+    hiph_triliteral_df = hiph_triliteral_df.sort_values(by=['tf_id'])
+
+    hebrew_text_adder = HebrewTextAdder(hiph_triliteral_df)
+    hiph_triliteral_df = hebrew_text_adder.data
+
+    hiph_triliteral_df['other_vowel_ending'] = ''
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(hiph_triliteral_df)
+    hiph_triliteral_df = mt_dss_help_columns_adder.mt_dss_data
+
+    rec_cor_columns_adder = RecCorColumnsAdder(hiph_triliteral_df)
+    hiph_triliteral_df = rec_cor_columns_adder.data
+
+    useless_hiphil_triliteral = UselessHiphilTriliteral(hiph_triliteral_df)
+    hiph_triliteral_df = useless_hiphil_triliteral.relevant_combinations
+
+    matres_column_adder_hif_triliteral = MatresColumnAdderHifTriliteral(hiph_triliteral_df)
+    hiph_triliteral_df = matres_column_adder_hif_triliteral.data
+    return hiph_triliteral_df
 
 
 def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):

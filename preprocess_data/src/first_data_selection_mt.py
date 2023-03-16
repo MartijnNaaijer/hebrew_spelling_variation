@@ -27,9 +27,10 @@ class BasicMTDataSelector:
 
         elif self.relevant_data == 'hiph_triliteral':
             hiphil_triliteral_data = self.data[(self.data.sp == 'verb') &
-                                                (self.data.lex.str[0] != 'J') &
-                                                (self.data.vs == 'hif') &
-                                                (self.data.vt.isin('infa', 'infc'))]
+                                               (self.data.vs == 'hif') &
+                                               (self.data.lex.str[0] != 'J') &
+                                               (self.data.lex.str[2] != 'H')
+            ]
             return hiphil_triliteral_data
         elif self.relevant_data == 'particles':
             particles_data = self.data[self.data.lex.isin(['KJ', 'L>', 'MJ'])]
