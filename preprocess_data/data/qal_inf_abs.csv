@@ -1,555 +1,555 @@
-tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix_g_cons	rec_signs	cor_signs	heb_g_cons	other_vowel_ending	final_h	line	column	has_pronominal_suffix	has_prefix	has_hloc	has_nme	rec_signs_stem	cor_signs_stem
-976	MT	Genesis	2	16	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn
-3598	MT	Genesis	8	3	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-3634	MT	Genesis	8	5	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-3636	MT	Genesis	8	5	XSR[	XSWR	XSWR	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	חסור		noH	-	-	0	1	0	0	nnnn	nnnn
-3676	MT	Genesis	8	7	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		noH	-	-	0	0	0	0	nnnn	nnnn
-5668	MT	Genesis	12	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-5670	MT	Genesis	12	9	NS<[	NSW<	NSW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נסוע		noH	-	-	0	1	0	0	nnnn	nnnn
-6883	MT	Genesis	15	13	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-8608	MT	Genesis	19	9	CPV[	CPWV	CPWV	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שפוט		noH	-	-	0	0	0	0	nnnn	nnnn
-9608	MT	Genesis	20	18	<YR[	<YR	<YR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	עצר		noH	-	-	0	0	0	0	nnn	nnn
-13240	MT	Genesis	26	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-14142	MT	Genesis	27	30	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn
-15851	MT	Genesis	30	16	FKR[	FKR	FKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שכר		noH	-	-	0	0	0	0	nnn	nnn
-16650	MT	Genesis	31	15	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-16923	MT	Genesis	31	30	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-20300	MT	Genesis	37	8	MLK[	MLK	MLK	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	מלך		noH	-	-	0	1	0	0	nnn	nnn
-20304	MT	Genesis	37	8	MCL[	MCWL	MCWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	משול		noH	-	-	0	0	0	0	nnnn	nnnn
-20789	MT	Genesis	37	33	VRP[	VRP	VRP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טרף		noH	-	-	0	0	0	0	nnn	nnn
-23140	MT	Genesis	41	43	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn
-24234	MT	Genesis	43	7	C>L[	C>WL	C>WL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שאול		noH	-	-	0	0	0	0	nnnn	nnnn
-24262	MT	Genesis	43	7	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	ידוע		noH	-	-	0	1	0	0	nnnn	nnnn
-24545	MT	Genesis	43	20	JRD[	JRD	JRD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ירד		noH	-	-	0	0	0	0	nnn	nnn
-25333	MT	Genesis	44	28	VRP[	VRP	VRP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טרף		noH	-	-	0	0	0	0	nnn	nnn
-28706	MT	Genesis	50	24	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn
-28737	MT	Genesis	50	25	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn
-30009	MT	Exodus	3	16	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn
-35795	MT	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn
-36168	MT	Exodus	13	19	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn
-37296	MT	Exodus	15	26	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-38830	MT	Exodus	18	18	NBL[	NBL	NBL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נבל		noH	-	-	0	0	0	0	nnn	nnn
-39138	MT	Exodus	19	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-39329	MT	Exodus	19	13	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	סקול		noH	-	-	0	0	0	0	nnnn	nnnn
-39711	MT	Exodus	20	8	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn
-40080	MT	Exodus	21	5	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אמר		noH	-	-	0	0	0	0	nnn	nnn
-40309	MT	Exodus	21	20	NQM[	NQM	NQM	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נקם		noH	-	-	0	0	0	0	nnn	nnn
-40337	MT	Exodus	21	22	<NC[	<NWC	<NWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ענוש		noH	-	-	0	0	0	0	nnnn	nnnn
-40424	MT	Exodus	21	28	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	סקול		noH	-	-	0	0	0	0	nnnn	nnnn
-40820	MT	Exodus	22	11	GNB[	GNB	GNB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גנב		noH	-	-	0	0	0	0	nnn	nnn
-40828	MT	Exodus	22	12	VRP[	VRP	VRP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טרף		noH	-	-	0	0	0	0	nnn	nnn
-40874	MT	Exodus	22	15	MHR=[	MHR	MHR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מהר		noH	-	-	0	0	0	0	nnn	nnn
-40936	MT	Exodus	22	22	Y<Q[	Y<Q	Y<Q	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	צעק		noH	-	-	0	0	0	0	nnn	nnn
-40939	MT	Exodus	22	22	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn
-40977	MT	Exodus	22	25	XBL[	XBL	XBL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חבל		noH	-	-	0	0	0	0	nnn	nnn
-41121	MT	Exodus	23	5	<ZB[	<ZB	<ZB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	עזב		noH	-	-	0	0	0	0	nnn	nnn
-41385	MT	Exodus	23	22	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn
-52981	MT	Leviticus	2	6	PTT[	PTWT	PTWT	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פתות		noH	-	-	0	0	0	0	nnnn	nnnn
-54742	MT	Leviticus	5	19	>CM[	>CM	>CM	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אשם		noH	-	-	0	0	0	0	nnn	nnn
-55766	MT	Leviticus	7	24	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	אכל		noH	-	-	0	1	0	0	nnn	nnn
-57739	MT	Leviticus	10	16	DRC[	DRC	DRC	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	דרש		noH	-	-	0	0	0	0	nnn	nnn
-57797	MT	Leviticus	10	18	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-59134	MT	Leviticus	13	12	PRX[	PRWX	PRWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פרוח		noH	-	-	0	0	0	0	nnnn	nnnn
-61969	MT	Leviticus	15	24	CKB[	CKB	CKB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שכב		noH	-	-	0	0	0	0	nnn	nnn
-67044	MT	Leviticus	24	16	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	רגום		noH	-	-	0	0	0	0	nnnn	nnnn
-69205	MT	Leviticus	27	13	G>L[	G>L	G>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גאל		noH	-	-	0	0	0	0	nnn	nnn
-69317	MT	Leviticus	27	19	G>L[	G>L	G>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גאל		noH	-	-	0	0	0	0	nnn	nnn
-69550	MT	Leviticus	27	31	G>L[	G>L	G>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גאל		noH	-	-	0	0	0	0	nnn	nnn
-71783	MT	Numbers	4	2	NF>[	NF>	NF>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn
-72205	MT	Numbers	4	22	NF>[	NF>	NF>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn
-73857	MT	Numbers	6	23	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אמור		noH	-	-	0	0	0	0	nnnn	nnnn
-77096	MT	Numbers	11	15	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הרג		noH	-	-	0	0	0	0	nnn	nnn
-77535	MT	Numbers	11	32	CVX[	CVWX	CVWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שטוח		noH	-	-	0	0	0	0	nnnn	nnnn
-77814	MT	Numbers	12	14	JRQ[	JRQ	JRQ	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ירק		noH	-	-	0	0	0	0	nnn	nnn
-78337	MT	Numbers	13	30	JKL[	JKWL	JKWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	יכול		noH	-	-	0	0	0	0	nnnn	nnnn
-79935	MT	Numbers	15	35	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	רגום		noH	-	-	0	0	0	0	nnnn	nnnn
-83158	MT	Numbers	21	2	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נתן		noH	-	-	0	0	0	0	nnn	nnn
-84605	MT	Numbers	22	37	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שלח		noH	-	-	0	0	0	0	nnn	nnn
-84630	MT	Numbers	22	38	JKL[	JKWL	JKWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	יכול		noH	-	-	0	1	0	0	nnnn	nnnn
-85900	MT	Numbers	25	17	YRR=[	YRWR	YRWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	צרור		noH	-	-	0	0	0	0	nnnn	nnnn
-87023	MT	Numbers	27	7	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נתן		noH	-	-	0	0	0	0	nnn	nnn
-92331	MT	Numbers	35	26	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn
-93121	MT	Deuteronomy	1	16	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn
-95758	MT	Deuteronomy	4	26	>BD[	>BD	>BD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אבד		noH	-	-	0	0	0	0	nnn	nnn
-96519	MT	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמור		noH	-	-	0	0	0	0	nnnn	nnnn
-97244	MT	Deuteronomy	6	17	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמור		noH	-	-	0	0	0	0	nnnn	nnnn
-97816	MT	Deuteronomy	7	18	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	זכר		noH	-	-	0	0	0	0	nnn	nnn
-98359	MT	Deuteronomy	8	19	CKX[	CKX	CKX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שכח		noH	-	-	0	0	0	0	nnn	nnn
-98379	MT	Deuteronomy	8	19	>BD[	>BD	>BD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אבד		noH	-	-	0	0	0	0	nnn	nnn
-98927	MT	Deuteronomy	9	21	VXN[	VXWN	VXWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	טחון		noH	-	-	0	0	0	0	nnnn	nnnn
-99870	MT	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn
-100051	MT	Deuteronomy	11	22	CMR[	CMR	CMR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמר		noH	-	-	0	0	0	0	nnn	nnn
-101251	MT	Deuteronomy	13	10	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הרג		noH	-	-	0	0	0	0	nnn	nnn
-101769	MT	Deuteronomy	14	21	MKR[	MKR	MKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מכר		noH	-	-	0	0	0	0	nnn	nnn
-102003	MT	Deuteronomy	15	2	CMV[	CMWV	CMWV	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוט		noH	-	-	0	0	0	0	nnnn	nnnn
-102059	MT	Deuteronomy	15	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-102136	MT	Deuteronomy	15	8	PTX[	PTX	PTX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פתח		noH	-	-	0	0	0	0	nnn	nnn
-102186	MT	Deuteronomy	15	10	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתון		noH	-	-	0	0	0	0	nnnn	nnnn
-102228	MT	Deuteronomy	15	11	PTX[	PTX	PTX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פתח		noH	-	-	0	0	0	0	nnn	nnn
-102467	MT	Deuteronomy	16	1	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמור		noH	-	-	0	0	0	0	nnnn	nnnn
-105070	MT	Deuteronomy	21	14	MKR[	MKR	MKR	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	מכר		noH	-	-	0	1	0	0	nnn	nnn
-105266	MT	Deuteronomy	21	23	QBR[	QBWR	QBWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	קבור		noH	-	-	0	0	0	0	nnnn	nnnn
-106271	MT	Deuteronomy	23	22	DRC[	DRC	DRC	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	דרש		noH	-	-	0	0	0	0	nnn	nnn
-106541	MT	Deuteronomy	24	9	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn
-107093	MT	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn
-107668	MT	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמר		noH	-	-	0	0	0	0	nnn	nnn
-108109	MT	Deuteronomy	28	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-110571	MT	Deuteronomy	30	18	>BD[	>BD	>BD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אבד		noH	-	-	0	0	0	0	nnn	nnn
-111317	MT	Deuteronomy	31	26	LQX[	LQX	LQX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	לקח		noH	-	-	0	0	0	0	nnn	nnn
-113209	MT	Joshua	1	13	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn
-115563	MT	Joshua	6	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-115565	MT	Joshua	6	9	TQ<[	TQW<	TQW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	תקוע		noH	-	-	0	1	0	0	nnnn	nnnn
-115643	MT	Joshua	6	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-115662	MT	Joshua	6	13	HLK[	HWLK	HWLK			qal	infa		unknown	unknown	verb					nnnn	nnnn	הולך		noH	-	-	0	0	0	0	nnnn	nnnn
-115664	MT	Joshua	6	13	TQ<[	TQW<	TQW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	תקוע		noH	-	-	0	1	0	0	nnnn	nnnn
-126463	MT	Joshua	23	13	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ידוע		noH	-	-	0	0	0	0	nnnn	nnnn
-129562	MT	Judges	4	9	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-129946	MT	Judges	4	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-130281	MT	Judges	5	23	>RR[	>RWR	>RWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ארור		noH	-	-	0	0	0	0	nnnn	nnnn
-131951	MT	Judges	7	19	NPY[	NPWY	NPWY	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נפוץ		noH	-	-	0	1	0	0	nnnn	nnnn
-132661	MT	Judges	8	25	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתון		noH	-	-	0	0	0	0	nnnn	nnnn
-133044	MT	Judges	9	8	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-135136	MT	Judges	11	30	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתון		noH	-	-	0	0	0	0	nnnn	nnnn
-136432	MT	Judges	14	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-136434	MT	Judges	14	9	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	אכל		noH	-	-	0	1	0	0	nnn	nnn
-136773	MT	Judges	15	2	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אמר		noH	-	-	0	0	0	0	nnn	nnn
-136776	MT	Judges	15	2	FN>[	FN>	FN>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	שנא		noH	-	-	0	0	0	0	nnn	nnn
-137017	MT	Judges	15	13	>SR[	>SR	>SR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסר		noH	-	-	0	0	0	0	nnn	nnn
-137448	MT	Judges	16	11	>SR[	>SWR	>SWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אסור		noH	-	-	0	0	0	0	nnnn	nnnn
-142654	MT	1_Samuel	2	28	BXR[	BXR	BXR	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	בחר		noH	-	-	0	1	0	0	nnn	nnn
-142714	MT	1_Samuel	2	30	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אמור		noH	-	-	0	0	0	0	nnnn	nnnn
-144419	MT	1_Samuel	6	12	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-148744	MT	1_Samuel	14	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-149005	MT	1_Samuel	14	30	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn
-149331	MT	1_Samuel	14	43	V<M[	V<M	V<M	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טעם		noH	-	-	0	0	0	0	nnn	nnn
-153369	MT	1_Samuel	19	23	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-153479	MT	1_Samuel	20	3	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-153531	MT	1_Samuel	20	5	JCB[	JCB	JCB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ישב		noH	-	-	0	0	0	0	nnn	nnn
-153551	MT	1_Samuel	20	6	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn
-153625	MT	1_Samuel	20	9	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-153860	MT	1_Samuel	20	21	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אמר		noH	-	-	0	0	0	0	nnn	nnn
-155058	MT	1_Samuel	22	13	C>L[	C>WL	C>WL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שאול		noH	-	-	0	1	0	0	nnnn	nnnn
-155526	MT	1_Samuel	23	10	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn
-155801	MT	1_Samuel	23	22	<RM=[	<RWM	<RWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ערום		noH	-	-	0	0	0	0	nnnn	nnnn
-156438	MT	1_Samuel	24	21	MLK[	MLK	MLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מלך		noH	-	-	0	0	0	0	nnn	nnn
-158194	MT	1_Samuel	26	25	JKL[	JKL	JKL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	יכל		noH	-	-	0	0	0	0	nnn	nnn
-158524	MT	1_Samuel	28	1	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-162011	MT	2_Samuel	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-162235	MT	2_Samuel	3	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-163150	MT	2_Samuel	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-163152	MT	2_Samuel	5	10	GDL[	GDWL	GDWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	גדול		noH	-	-	0	1	0	0	nnnn	nnnn
-163306	MT	2_Samuel	5	19	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נתן		noH	-	-	0	0	0	0	nnn	nnn
-167565	MT	2_Samuel	13	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-169063	MT	2_Samuel	15	8	JCB[	JCJB	JCJB			qal	infa		unknown	unknown	verb					nnnn	nnnn	ישיב		noH	-	-	0	0	0	0	nnnn	nnnn
-169892	MT	2_Samuel	16	5	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		noH	-	-	0	0	0	0	nnnn	nnnn
-170082	MT	2_Samuel	16	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-170700	MT	2_Samuel	17	16	<BR[	<BWR	<BWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	עבור		noH	-	-	0	0	0	0	nnnn	nnnn
-171104	MT	2_Samuel	18	2	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn
-171731	MT	2_Samuel	18	25	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-173035	MT	2_Samuel	19	43	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	אכול		noH	-	-	0	1	0	0	nnnn	nnnn
-173544	MT	2_Samuel	20	18	C>L[	C>L	C>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שאל		noH	-	-	0	0	0	0	nnn	nnn
-174919	MT	2_Samuel	23	7	FRP[	FRWP	FRWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שרוף		noH	-	-	0	0	0	0	nnnn	nnnn
-175694	MT	2_Samuel	24	12	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-178184	MT	1_Kings	2	37	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-178312	MT	1_Kings	2	42	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-185224	MT	1_Kings	11	11	QR<[	QR<	QR<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	קרע		noH	-	-	0	0	0	0	nnn	nnn
-192850	MT	1_Kings	20	37	PY<[	PY<	PY<	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	פצע		noH	-	-	0	1	0	0	nnn	nnn
-195503	MT	2_Kings	2	11	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-197442	MT	2_Kings	4	43	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn
-197694	MT	2_Kings	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-197719	MT	2_Kings	5	11	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		noH	-	-	0	0	0	0	nnnn	nnnn
-208002	MT	2_Kings	19	29	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-213157	MT	Isaiah	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-213159	MT	Isaiah	3	16	VPP[	VPP	VPP	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	טפף		noH	-	-	0	1	0	0	nnn	nnn
-213514	MT	Isaiah	5	5	PRY[	PRY	PRY	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פרץ		noH	-	-	0	0	0	0	nnn	nnn
-214143	MT	Isaiah	6	9	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-214497	MT	Isaiah	7	15	M>S[	M>WS	M>WS	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	מאוס		noH	-	-	0	0	0	0	nnnn	nnnn
-214502	MT	Isaiah	7	15	BXR[	BXWR	BXWR	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	בחור		noH	-	-	0	1	0	0	nnnn	nnnn
-214512	MT	Isaiah	7	16	M>S[	M>S	M>S	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מאס		noH	-	-	0	0	0	0	nnn	nnn
-214517	MT	Isaiah	7	16	BXR[	BXR	BXR	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	בחר		noH	-	-	0	1	0	0	nnn	nnn
-218526	MT	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נגף		noH	-	-	0	0	0	0	nnn	nnn
-218528	MT	Isaiah	19	22	RP>[	RPW>	RPW>	CCMM	CCMM	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	רפוא		noH	-	-	0	1	0	0	nnnn	nnnn
-218644	MT	Isaiah	20	2	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-218793	MT	Isaiah	21	5	<RK[	<RK	<RK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ערך		noH	-	-	0	0	0	0	nnn	nnn
-218799	MT	Isaiah	21	5	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-219183	MT	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הרג		noH	-	-	0	0	0	0	nnn	nnn
-219186	MT	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שחט		noH	-	-	0	1	0	0	nnn	nnn
-219188	MT	Isaiah	22	13	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn
-219193	MT	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-219265	MT	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	צנוף		noH	-	-	0	0	0	0	nnnn	nnnn
-221309	MT	Isaiah	28	28	>DC[	>DWC	>DWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אדוש		noH	-	-	0	0	0	0	nnnn	nnnn
-222154	MT	Isaiah	30	19	XNN[	XNWN	XNWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	חנון		noH	-	-	0	0	0	0	nnnn	nnnn
-222591	MT	Isaiah	31	5	GNN[	GNWN	GNWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	גנון		noH	-	-	0	0	0	0	nnnn	nnnn
-222594	MT	Isaiah	31	5	PSX[	PSX	PSX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פסח		noH	-	-	0	0	0	0	nnn	nnn
-223580	MT	Isaiah	35	2	PRX[	PRX	PRX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פרח		noH	-	-	0	0	0	0	nnn	nnn
-224615	MT	Isaiah	37	19	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נתן		noH	-	-	0	1	0	0	nnn	nnn
-224835	MT	Isaiah	37	30	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-225093	MT	Isaiah	38	5	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-226048	MT	Isaiah	40	30	KCL[	KCWL	KCWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	כשול		noH	-	-	0	0	0	0	nnnn	nnnn
-226841	MT	Isaiah	42	20	PQX[	PQWX	PQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פקוח		noH	-	-	0	0	0	0	nnnn	nnnn
-226910	MT	Isaiah	42	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-228929	MT	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	בגוד		noH	-	-	0	0	0	0	nnnn	nnnn
-229662	MT	Isaiah	50	2	QYR[	QYWR	QYWR	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	קצור		noH	-	-	0	1	0	0	nnnn	nnnn
-231102	MT	Isaiah	55	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-232048	MT	Isaiah	58	7	PRS[	PRS	PRS	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פרס		noH	-	-	0	0	0	0	nnn	nnn
-232274	MT	Isaiah	59	4	BVX[	BVWX	BVWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	בטוח		noH	-	-	0	0	0	0	nnnn	nnnn
-232437	MT	Isaiah	59	13	PC<[	PC<	PC<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פשע		noH	-	-	0	0	0	0	nnn	nnn
-232823	MT	Isaiah	60	12	XRB[	XRB	XRB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חרב		noH	-	-	0	0	0	0	nnn	nnn
-235370	MT	Jeremiah	2	2	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-236031	MT	Jeremiah	3	1	XNP[	XNWP	XNWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	חנוף		noH	-	-	0	0	0	0	nnnn	nnnn
-236240	MT	Jeremiah	3	12	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-237297	MT	Jeremiah	5	11	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	בגוד		noH	-	-	0	0	0	0	nnnn	nnnn
-238184	MT	Jeremiah	6	29	YRP[	YRWP	YRWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	צרוף		noH	-	-	0	0	0	0	nnnn	nnnn
-238349	MT	Jeremiah	7	9	GNB[	GNB	GNB	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	גנב		noH	-	-	0	1	0	0	nnn	nnn
-238350	MT	Jeremiah	7	9	RYX[	RYX	RYX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	רצח		noH	-	-	0	0	0	0	nnn	nnn
-238352	MT	Jeremiah	7	9	N>P[	N>P	N>P	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נאף		noH	-	-	0	1	0	0	nnn	nnn
-238364	MT	Jeremiah	7	9	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	הלך		noH	-	-	0	1	0	0	nnn	nnn
-238752	MT	Jeremiah	7	25	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn
-239232	MT	Jeremiah	8	13	>SP[	>SP	>SP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסף		noH	-	-	0	0	0	0	nnn	nnn
-239470	MT	Jeremiah	9	3	<QB[	<QWB	<QWB	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	עקוב		noH	-	-	0	0	0	0	nnnn	nnnn
-239838	MT	Jeremiah	9	23	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	ידע		noH	-	-	0	1	0	0	nnn	nnn
-239976	MT	Jeremiah	10	5	NF>[	NFW>	NFW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	נשוא		noH	-	-	0	0	0	0	nnnn	nnnn
-241131	MT	Jeremiah	12	16	LMD[	LMD	LMD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	למד		noH	-	-	0	0	0	0	nnn	nnn
-241168	MT	Jeremiah	12	17	NTC[	NTWC	NTWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתוש		noH	-	-	0	0	0	0	nnnn	nnnn
-241177	MT	Jeremiah	13	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-241418	MT	Jeremiah	13	12	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	ידע		noH	-	-	0	1	0	0	nnn	nnn
-241537	MT	Jeremiah	13	17	DM<[	DM<	DM<	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	דמע		noH	-	-	0	1	0	0	nnn	nnn
-241761	MT	Jeremiah	14	5	<ZB[	<ZWB	<ZWB	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	עזוב		noH	-	-	0	1	0	0	nnnn	nnnn
-242092	MT	Jeremiah	14	19	M>S[	M>S	M>S	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	מאס		noH	-	-	0	1	0	0	nnn	nnn
-243424	MT	Jeremiah	17	19	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-243536	MT	Jeremiah	17	24	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn
-244131	MT	Jeremiah	19	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-245610	MT	Jeremiah	22	14	MCX[	MCWX	MCWX	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	משוח		noH	-	-	0	1	0	0	nnnn	nnnn
-245706	MT	Jeremiah	22	19	SXB[	SXWB	SXWB	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	סחוב		noH	-	-	0	0	0	0	nnnn	nnnn
-246203	MT	Jeremiah	23	14	N>P[	N>WP	N>WP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נאוף		noH	-	-	0	0	0	0	nnnn	nnnn
-246205	MT	Jeremiah	23	14	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	הלך		noH	-	-	0	1	0	0	nnn	nnn
-246279	MT	Jeremiah	23	17	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אמור		noH	-	-	0	0	0	0	nnnn	nnnn
-246700	MT	Jeremiah	23	39	NC>[	NC>	NC>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn
-247087	MT	Jeremiah	25	4	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn
-247684	MT	Jeremiah	25	30	C>G[	C>G	C>G	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שאג		noH	-	-	0	0	0	0	nnn	nnn
-247958	MT	Jeremiah	26	5	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn
-248208	MT	Jeremiah	26	15	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-249368	MT	Jeremiah	28	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-249909	MT	Jeremiah	29	19	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn
-250676	MT	Jeremiah	31	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-250967	MT	Jeremiah	31	18	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-251016	MT	Jeremiah	31	20	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	זכר		noH	-	-	0	0	0	0	nnn	nnn
-251774	MT	Jeremiah	32	14	LQX[	LQWX	LQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לקוח		noH	-	-	0	0	0	0	nnnn	nnnn
-252516	MT	Jeremiah	32	44	KTB[	KTWB	KTWB	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	כתוב		noH	-	-	0	1	0	0	nnnn	nnnn
-252521	MT	Jeremiah	32	44	XTM[	XTWM	XTWM	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	חתום		noH	-	-	0	1	0	0	nnnn	nnnn
-253183	MT	Jeremiah	34	2	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-253219	MT	Jeremiah	34	3	TPF[	TPF	TPF	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	תפש		noH	-	-	0	0	0	0	nnn	nnn
-253755	MT	Jeremiah	35	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-253998	MT	Jeremiah	35	13	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-254066	MT	Jeremiah	35	15	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn
-255271	MT	Jeremiah	37	9	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-255552	MT	Jeremiah	37	21	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נתן		noH	-	-	0	1	0	0	nnn	nnn
-256068	MT	Jeremiah	38	17	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn
-256703	MT	Jeremiah	39	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-257216	MT	Jeremiah	40	14	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	ידע		noH	-	-	0	1	0	0	nnn	nnn
-257454	MT	Jeremiah	41	6	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn
-258263	MT	Jeremiah	42	19	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-258320	MT	Jeremiah	42	22	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-258776	MT	Jeremiah	44	4	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn
-260500	MT	Jeremiah	48	9	NY>[	NY>	NY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נצא		noH	-	-	0	0	0	0	nnn	nnn
-261956	MT	Jeremiah	50	4	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-265001	MT	Ezekiel	1	14	RY>[	RYW>	RYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	רצוא		noH	-	-	0	0	0	0	nnnn	nnnn
-272384	MT	Ezekiel	17	10	JBC[	JBC	JBC	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	יבש		noH	-	-	0	0	0	0	nnn	nnn
-273121	MT	Ezekiel	18	23	XPY[	XPY	XPY	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	חפץ		noH	-	-	0	1	0	0	nnn	nnn
-276501	MT	Ezekiel	23	46	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נתן		noH	-	-	0	1	0	0	nnn	nnn
-276644	MT	Ezekiel	24	5	LQX[	LQWX	LQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לקוח		noH	-	-	0	0	0	0	nnnn	nnnn
-277284	MT	Ezekiel	25	12	>CM[	>CWM	>CWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אשום		noH	-	-	0	0	0	0	nnnn	nnnn
-278488	MT	Ezekiel	28	9	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	אמר		noH	-	-	0	1	0	0	nnn	nnn
-282459	MT	Ezekiel	36	3	C>P[	C>P	C>P	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שאף		noH	-	-	0	1	0	0	nnn	nnn
-288222	MT	Ezekiel	44	20	KSM[	KSWM	KSWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	כסום		noH	-	-	0	0	0	0	nnnn	nnnn
-291045	MT	Hosea	1	6	NF>[	NF>	NF>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn
-291722	MT	Hosea	4	2	RYX[	RYX	RYX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	רצח		noH	-	-	0	1	0	0	nnn	nnn
-291724	MT	Hosea	4	2	GNB[	GNB	GNB	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	גנב		noH	-	-	0	1	0	0	nnn	nnn
-291726	MT	Hosea	4	2	N>P[	N>P	N>P	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נאף		noH	-	-	0	1	0	0	nnn	nnn
-293114	MT	Hosea	10	4	KRT[	KRT	KRT	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	כרת		noH	-	-	0	0	0	0	nnn	nnn
-294168	MT	Joel	1	7	XFP[	XFP	XFP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חשף		noH	-	-	0	0	0	0	nnn	nnn
-294861	MT	Joel	2	26	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-294863	MT	Joel	2	26	FB<[	FBW<	FBW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שבוע		noH	-	-	0	1	0	0	nnnn	nnnn
-296043	MT	Amos	3	5	LKD[	LKWD	LKWD	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	לכוד		noH	-	-	0	1	0	0	nnnn	nnnn
-299891	MT	Micah	2	4	CDD[	CDWD	CDWD	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שדוד		noH	-	-	0	0	0	0	nnnn	nnnn
-300010	MT	Micah	2	12	>SP[	>SP	>SP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסף		noH	-	-	0	0	0	0	nnn	nnn
-301672	MT	Nahum	2	2	NYR[	NYWR	NYWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נצור		noH	-	-	0	0	0	0	nnnn	nnnn
-302074	MT	Nahum	3	13	PTX[	PTWX	PTWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פתוח		noH	-	-	0	0	0	0	nnnn	nnnn
-303102	MT	Zephaniah	1	2	>SP[	>SP	>SP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסף		noH	-	-	0	0	0	0	nnn	nnn
-303368	MT	Zephaniah	1	14	QRB[	QRWB	QRWB	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	קרוב		noH	-	-	0	0	0	0	nnnn	nnnn
-304221	MT	Haggai	1	6	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-304231	MT	Haggai	1	6	LBC[	LBWC	LBWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לבוש		noH	-	-	0	0	0	0	nnnn	nnnn
-306551	MT	Zechariah	6	10	LQX[	LQWX	LQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לקוח		noH	-	-	0	0	0	0	nnnn	nnnn
-306694	MT	Zechariah	6	15	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-306790	MT	Zechariah	7	5	SPD[	SPWD	SPWD	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	ספוד		noH	-	-	0	1	0	0	nnnn	nnnn
-307412	MT	Zechariah	8	21	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-308358	MT	Zechariah	11	17	JBC[	JBWC	JBWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	יבוש		noH	-	-	0	0	0	0	nnnn	nnnn
-308423	MT	Zechariah	12	3	FRV[	FRWV	FRWV	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שרוט		noH	-	-	0	0	0	0	nnnn	nnnn
-312533	MT	Psalms	17	5	TMK[	TMK	TMK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	תמך		noH	-	-	0	0	0	0	nnn	nnn
-315968	MT	Psalms	35	16	XRQ[	XRQ	XRQ	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חרק		noH	-	-	0	0	0	0	nnn	nnn
-333121	MT	Psalms	126	6	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-337585	MT	Job	6	2	CQL[	CQWL	CQWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שקול		noH	-	-	0	0	0	0	nnnn	nnnn
-339408	MT	Job	13	17	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-340083	MT	Job	15	35	JLD[	JLD	JLD	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	ילד		noH	-	-	0	1	0	0	nnn	nnn
-341186	MT	Job	21	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-342579	MT	Job	27	22	BRX[	BRWX	BRWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ברוח		noH	-	-	0	0	0	0	nnnn	nnnn
-345209	MT	Job	37	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn
-349969	MT	Proverbs	12	7	HPK[	HPWK	HPWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הפוך		noH	-	-	0	0	0	0	nnnn	nnnn
-351453	MT	Proverbs	17	12	PGC[	PGWC	PGWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פגוש		noH	-	-	0	0	0	0	nnnn	nnnn
-353992	MT	Proverbs	25	27	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn
-354535	MT	Proverbs	27	23	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn
-360860	MT	Ecclesiastes	4	17	QRB[	QRWB	QRWB	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	קרוב		noH	-	-	0	1	0	0	nnnn	nnnn
-362046	MT	Ecclesiastes	8	9	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn
-364600	MT	Lamentations	3	20	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn
-364795	MT	Lamentations	3	45	M>S[	M>WS	M>WS	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	מאוס		noH	-	-	0	1	0	0	nnnn	nnnn
-365452	MT	Lamentations	5	22	M>S[	M>S	M>S	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מאס		noH	-	-	0	0	0	0	nnn	nnn
-366098	MT	Esther	2	3	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn
-368135	MT	Esther	6	9	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn
-368311	MT	Esther	6	13	NPL[	NPWL	NPWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נפול		noH	-	-	0	0	0	0	nnnn	nnnn
-369535	MT	Esther	9	16	<MD[	<MD	<MD	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	עמד		noH	-	-	0	1	0	0	nnn	nnn
-369543	MT	Esther	9	16	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	הרג		noH	-	-	0	1	0	0	nnn	nnn
-387916	MT	Nehemiah	9	8	KRT[	KRWT	KRWT	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	כרות		noH	-	-	0	1	0	0	nnnn	nnnn
-397177	MT	1_Chronicles	11	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn
-397179	MT	1_Chronicles	11	9	GDL[	GDWL	GDWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	גדול		noH	-	-	0	1	0	0	nnnn	nnnn
-399433	MT	1_Chronicles	15	22	JSR[	JSR	JSR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	יסר		noH	-	-	0	0	0	0	nnn	nnn
-407475	MT	2_Chronicles	2	8	GDL[	GDWL	GDWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	גדול		noH	-	-	0	0	0	0	nnnn	nnnn
-420803	MT	2_Chronicles	28	19	M<L[	M<WL	M<WL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	מעול		noH	-	-	0	1	0	0	nnnn	nnnn
-422780	MT	2_Chronicles	31	10	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn
-422782	MT	2_Chronicles	31	10	FB<[	FBW<	FBW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שבוע		noH	-	-	0	1	0	0	nnnn	nnnn
-423391	MT	2_Chronicles	32	13	JKL[	JKWL	JKWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	יכול		noH	-	-	0	1	0	0	nnnn	nnnn
-426365	MT	2_Chronicles	36	15	CLX[	CLWX	CLWX	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שלוח		noH	-	-	0	1	0	0	nnnn	nnnn
-1890524	1Q2	Exodus	21	5	>MR[	>MR	>MR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אמר		noH	1	f7	0	0	0	0	rrr	nnn
-1891327	1Q4	Deuteronomy	8	19	CKX[	CKX	CKX	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שכח		noH	2	f3_4	0	0	0	0	rrr	nnn
-1891347	1Q4	Deuteronomy	8	19	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					nnr	nnn	אבד		noH	3	f3_4	0	0	0	0	nnr	nnn
-1891729	1Q4	Deuteronomy	14	21	MKR[	MKR	MKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מכר		noH	1	f11	0	0	0	0	rrr	nnn
-1892627	1Q5	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	3	f9	0	0	0	0	rrrr	nnnn
-1895990	1Qisaa	Isaiah	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	23	3	0	0	0	0	nnnn	nnnn
-1896346	1Qisaa	Isaiah	5	5	PRY[	PRY	PRY	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	פרץ		noH	17	4	0	0	0	0	nnn	nnn
-1896988	1Qisaa	Isaiah	6	9	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	3	6	0	0	0	0	nnnn	nnnn
-1897361	1Qisaa	Isaiah	7	15	M>S[	M>WS	M>WS	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	מאוס		noH	1	7	0	0	0	0	nnnn	nnnn
-1897365	1Qisaa	Isaiah	7	15	BXR[	BXR	BXR	CCC	CCC	qal	infa	NA		NA	verb				W	nnn	nnn	בחר		noH	1	7	0	1	0	0	nnn	nnn
-1897375	1Qisaa	Isaiah	7	16	M>S[	M>S	M>S	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	מאס		noH	2	7	0	0	0	0	nnn	nnn
-1897379	1Qisaa	Isaiah	7	16	BXR[	BXWR	BXWR	CCMC	CCMC	qal	infa	NA		NA	verb				W	nnnn	nnnn	בחור		noH	2	7	0	1	0	0	nnnn	nnnn
-1901587	1Qisaa	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	נגף		noH	30	15	0	0	0	0	nnn	nnn
-1901706	1Qisaa	Isaiah	20	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	7	16	0	0	0	0	nnnn	nnnn
-1901864	1Qisaa	Isaiah	21	5	<RK[	<RWK	<RWK	CCCC	CCCC	qal	infa	NA		NA	verb					nnnn	nnnn	ערוך		noH	19	16	0	0	0	0	nnnn	nnnn
-1901870	1Qisaa	Isaiah	21	5	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	19	16	0	0	0	0	nnnn	nnnn
-1902275	1Qisaa	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הרג		noH	18	17	0	0	0	0	nnn	nnn
-1902278	1Qisaa	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	nnn	nnn	שחט		noH	18	17	0	1	0	0	nnn	nnn
-1902280	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	18	17	0	0	0	0	nnnn	nnnn
-1902285	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	19	17	0	0	0	0	nnnn	nnnn
-1903077	1Qisaa	Isaiah	24	19	PRR=[	PWR	PWR	CMC	CMC	qal	infa	NA		NA	verb					nnn	nnn	פור		noH	18	19	0	0	0	0	nnn	nnn
-1904463	1Qisaa	Isaiah	28	28	>DC[	HDC	HDC	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הדש		noH	4	23	0	0	0	0	nnn	nnn
-1905357	1Qisaa	Isaiah	30	19	XNN[	XNWN	XNWN	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	חנון		noH	31	24	0	0	0	0	nnnn	nnnn
-1905813	1Qisaa	Isaiah	31	5	GNN[	GNWN	GNWN	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	גנון		noH	1	26	0	0	0	0	nnnn	nnnn
-1905817	1Qisaa	Isaiah	31	5	PSX[	PSX	PSX	CCC	CCC	qal	infa	NA		NA	verb				W	nnn	nnn	פסח		noH	2	26	0	1	0	0	nnn	nnn
-1906878	1Qisaa	Isaiah	35	2	PRX[	PRX	PRX	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	פרח		noH	19	28	0	0	0	0	nnn	nnn
-1908234	1Qisaa	Isaiah	37	30	NV<[	NVW<	NVW<	CCMC	CCMC	qal	infa	NA	m	NA	verb				W	nnnn	nnnn	נטוע		noH	9	31	0	1	0	0	nnnn	nnnn
-1908482	1Qisaa	Isaiah	38	5	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	24	31	0	0	0	0	nnnn	nnnn
-1909516	1Qisaa	Isaiah	40	30	KCL[	KCWL	KCWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	כשול		noH	2	34	0	0	0	0	nnnn	nnnn
-1912572	1Qisaa	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	בגוד		noH	14	40	0	0	0	0	nnnn	nnnn
-1913356	1Qisaa	Isaiah	50	2	QYR[	QYWR	QYWR	CCMC	CCMC	qal	infa	NA		NA	verb				H	nnnn	nnnn	קצור		noH	2	42	0	1	0	0	nnnn	nnnn
-1914865	1Qisaa	Isaiah	55	2	CM<[	CM<W>	CM<W>	CCCMM	CCCMM	qal	infa	NA		NA	verb					nnnnn	nnnnn	שמעוא		noH	21	45	0	0	0	0	nnnnn	nnnnn
-1915384	1Qisaa	Isaiah	57	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA	m	NA	verb					nnnn	nnnn	הלוך		noH	1	47	0	0	0	0	nnnn	nnnn
-1915874	1Qisaa	Isaiah	58	7	PRS[	PRWS	PRWS	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	פרוס		noH	1	48	0	0	0	0	nnnn	nnnn
-1916668	1Qisaa	Isaiah	60	12	XRB[	XRWB	XRWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	חרוב		noH	15	49	0	0	0	0	nnnn	nnnn
-1919971	1Q8	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נגף		noH	4	8a_b	0	0	0	0	rrr	nnn
-1919973	1Q8	Isaiah	19	22	RP>[	RPW>	RPW>	CCMM	CCMM	qal	infa	NA		NA	verb				W	rrrr	nnnn	רפוא		noH	4	8a_b	0	1	0	0	rrrr	nnnn
-1920148	1Q8	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הרג		noH	4	8c_e	0	0	0	0	nnn	nnn
-1920151	1Q8	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	nrr	nnn	שחט		noH	4	8c_e	0	1	0	0	nrr	nnn
-1920153	1Q8	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	4	8c_e	0	0	0	0	rrrr	nnnn
-1920158	1Q8	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	4	8c_e	0	0	0	0	rrrr	nnnn
-1920234	1Q8	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	צנוף		noH	9	8c_e	0	0	0	0	rrrr	nnnn
-1920433	1Q8	Isaiah	24	19	PRR=[	PWR	PWR	CMC	CMC	qal	infa	NA		NA	verb					rrr	nnn	פור		noH	2	9b	0	0	0	0	rrr	nnn
-1924729	1Q8	Isaiah	55	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	1	24	0	0	0	0	nnnn	nnnn
-1925470	1Q8	Isaiah	58	7	PRS[	PRWS	PRWS	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	פרוס		noH	14	25	0	0	0	0	nnnn	nnnn
-1926015	1Q8	Isaiah	60	12	XRB[	XRWB	XRWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	חרוב		noH	18	26	0	0	0	0	nnnn	nnnn
-1928154	1Q11	Psalms	126	6	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	1	f1	0	0	0	0	rrrr	nnnn
-1928578	1Q13	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	11	f1_18	0	0	0	0	rrrr	nnnn
-1929090	1Q13	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f28_29	0	0	0	0	rrrr	nnnn
-1930955	2Q3	Exodus	22	15	MHR=[	MHWR	MHWR	CCMC	CCMC	qal	infa	NA		NA	verb					nrrr	nnnn	מהור		noH	2	f5	0	0	0	0	nrrr	nnnn
-1931519	2Q6	Numbers	4	2	NF>[	NF>	NF>	CCM	CCM	qal	infa	NA		NA	verb					rrr	nnn	נשא		noH	4	f2	0	0	0	0	rrr	nnn
-1933406	2Q16	Ruth	2	16	CLL=[	CL	CL	CC	CC	qal	infa	NA		NA	verb					rr	nn	של		noH	3	f1ii_4i	0	0	0	0	rr	nn
-1938363	4Q2	Genesis	2	16	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אכל		noH	3	f1ii	0	0	0	0	nnn	nnn
-1939766	4Q5	Genesis	41	43	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	נתון		noH	12	f4ii+6	0	1	0	0	rrrr	nnnn
-1941181	4Q9	Genesis	41	43	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	נתון		noH	8	f2ii	0	1	0	0	rrrr	nnnn
-1941430	4Q9	Genesis	43	7	C>L[	C>WL	C>WL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שאול		noH	3	f7_8	0	0	0	0	rrrr	nnnn
-1941458	4Q9	Genesis	43	7	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa	NA		NA	verb				H	rrrr	nnnn	ידוע		noH	4	f7_8	0	1	0	0	rrrr	nnnn
-1944211	4Q11	Exodus	18	18	NBL[	NBL	NBL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נבל		noH	2	f20	0	0	0	0	rrr	nnn
-1944506	4Q11	Exodus	23	5	<ZB[	<ZB	<ZB	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	עזב		noH	3	f23	0	0	0	0	nnn	nnn
-1946457	4Q13	Exodus	3	16	PQD[	PQWD	PQWD	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	פקוד		noH	7	f3ii+5_6i	0	0	0	0	nnnn	nnnn
-1949547	4Q14	Exodus	13	19	PQD[	PQD	PQD	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	פקד		noH	38	5	0	0	0	0	rrr	nnn
-1950905	4Q16	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	1	f1	0	0	0	0	nnnn	nnnn
-1954903	4Q22	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	19	11	0	0	0	0	rrrr	nnnn
-1955279	4Q22	Exodus	15	26	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוע		noH	11	15	0	0	0	0	rrrr	nnnn
-1956306	4Q22	Exodus	18	18	NBL[	NBL	NBL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נבל		noH	27	18	0	0	0	0	rrr	nnn
-1956793	4Q22	Exodus	19	13	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnrr	nnnn	סקול		noH	11	20	0	0	0	0	nnrr	nnnn
-1957153	4Q22	Exodus	21	22	<NC[	<NWC	<NWC	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	ענוש		noH	19	23	0	0	0	0	nnnn	nnnn
-1957244	4Q22	Exodus	21	28	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	סקול		noH	26	23	0	0	0	0	rrrr	nnnn
-1957413	4Q22	Exodus	22	11	GNB[	GNB	GNB	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	גנב		noH	25	24	0	0	0	0	rrr	nnn
-1957422	4Q22	Exodus	22	12	VRP[	VRP	VRP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	טרף		noH	25	24	0	0	0	0	rrr	nnn
-1957504	4Q22	Exodus	22	22	Y<Q[	Y<WQ	Y<WQ	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	צעוק		noH	3	25	0	0	0	0	nnnn	nnnn
-1957507	4Q22	Exodus	22	22	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	3	25	0	0	0	0	rrr	nnn
-1957546	4Q22	Exodus	22	25	XBL[	XBL	XBL	CCC	CCC	qal	infa	NA		NA	verb					nrr	nnn	חבל		noH	6	25	0	0	0	0	nrr	nnn
-1962358	4Q23	Leviticus	15	24	CKB[	CKB	CKB	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שכב		noH	6	f7	0	0	0	0	rrr	nnn
-1963254	4Q23	Leviticus	27	13	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	גאל		noH	12	f21ii_23	0	0	0	0	rrr	nnn
-1963366	4Q23	Leviticus	27	19	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	גאל		noH	5	f24_26	0	0	0	0	rrr	nnn
-1964000	4Q23	Numbers	4	2	NF>[	NF>	NF>	CCM	CCM	qal	infa	NA		NA	verb					nnn	nnn	נשא		noH	7	f32ii+34i_43	0	0	0	0	nnn	nnn
-1967014	4Q24	Leviticus	2	6	PTT[	PTWT	PTWT	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	פתות		noH	27	f1_7	0	0	0	0	rrrr	nnnn
-1968877	4Q24	Leviticus	24	16	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	רגום		noH	20	f20ii+22_25	0	0	0	0	rrrr	nnnn
-1970053	4Q26	Leviticus	15	24	CKB[	CKB	CKB	CCC	CCC	qal	infa	NA		NA	verb					nrr	nnn	שכב		noH	4	f3	0	0	0	0	nrr	nnn
-1971160	4Q26b	Leviticus	7	24	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb				W	nnnn	nnnn	אכול		noH	7	f1	0	1	0	0	nnnn	nnnn
-1971449	4Q27	Numbers	11	32	CVX[	CVWX	CVWX	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שטוח		noH	3	f1_4	0	0	0	0	rrrr	nnnn
-1973770	4Q27	Numbers	22	38	JKL[	JKWL	JKWL	MCMC	MCMC	qal	infa	NA		NA	verb				H	nnnn	nnnn	יכול		noH	6	f23_26	0	1	0	0	nnnn	nnnn
-1975163	4Q27	Numbers	27	7	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb					nnrr	nnnn	נתון		noH	10	f42_47	0	0	0	0	nnrr	nnnn
-1979154	4Q29	Deuteronomy	31	26	LQX[	LQX	LQX	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	לקח		noH	2	f5_8	0	0	0	0	nnn	nnn
-1980042	4Q30	Deuteronomy	11	13	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	8	f12_15	0	0	0	0	nnnn	nnnn
-1980290	4Q30	Deuteronomy	15	2	CMV[	CMWV	CMWV	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוט		noH	2	f26_27	0	0	0	0	rrrr	nnnn
-1981017	4Q30	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמר		noH	3	f42	0	0	0	0	rrr	nnn
-1981095	4Q30	Deuteronomy	28	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	5	f43_45i	0	0	0	0	nnnn	nnnn
-1983034	4Q33	Deuteronomy	4	26	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אבד		noH	5	f1	0	0	0	0	rrr	nnn
-1984363	4Q33	Deuteronomy	23	22	DRC[	DRC	DRC	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	דרש		noH	4	f24_25	0	0	0	0	nnn	nnn
-1984750	4Q33	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa	NA		NA	verb					nrr	nnn	שמר		noH	3	f32_35	0	0	0	0	nrr	nnn
-1985347	4Q34	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	3	f6_9	0	0	0	0	rrrr	nnnn
-1986004	4Q35	Deuteronomy	1	16	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	13	f1	0	0	0	0	rrr	nnn
-1988573	4Q37	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	13	8	0	0	0	0	rrr	nnn
-1988794	4Q37	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrnn	nnnn	זכור		noH	9	10	0	0	0	0	rrnn	nnnn
-1989322	4Q38	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	13	f2	0	0	0	0	rrr	nnn
-1990248	4Q38a	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמר		noH	4	f6_7	0	0	0	0	rrr	nnn
-1990322	4Q38b	Deuteronomy	30	18	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אבד		noH	4	f1	0	0	0	0	nnn	nnn
-1991356	4Q41	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	9	3	0	0	0	0	nnnn	nnnn
-1993176	4Q45	Deuteronomy	7	18	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	זכר		noH	4	f5_6	0	0	0	0	rrr	nnn
-1993765	4Q45	Deuteronomy	14	21	MKR[	MKR	MKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מכר		noH	3	f21i_22	0	0	0	0	rrr	nnn
-1993857	4Q45	Deuteronomy	15	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוע		noH	2	f25	0	0	0	0	rrrr	nnnn
-1993956	4Q45	Deuteronomy	15	10	NTN[	NTN	NTN	CCC	CCC	qal	infa	NA		NA	verb					rrn	nnn	נתן		noH	5	f21ii	0	0	0	0	rrn	nnn
-1995126	4Q47	Joshua	6	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	8	f3_8	0	0	0	0	rrrr	nnnn
-1995128	4Q47	Joshua	6	9	TQ<[	TQW<	TQW<	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	תקוע		noH	8	f3_8	0	1	0	0	rrrr	nnnn
-1997295	4Q51	1_Samuel	2	10	JD<[	JD<	JD<	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	ידע		noH	32	2a_d	0	1	0	0	rrr	nnn
-1997577	4Q51	1_Samuel	2	25	XV>[	XVW>	XVW>	CCMM	CCMM	qal	infa	NA		NA	verb					nnnn	nnnn	חטוא		noH	18	3a_e	0	0	0	0	nnnn	nnnn
-1997602	4Q51	1_Samuel	2	25	XPY[	XPY	XPY	CCC	CCC	qal	infa	NA		NA	verb					rrn	nnn	חפץ		noH	19	3a_e	0	0	0	0	rrn	nnn
-1997651	4Q51	1_Samuel	2	28	BXR[	BXWR	BXWR	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	בחור		noH	24	3a_e	0	1	0	0	rrrr	nnnn
-1998499	4Q51	1_Samuel	6	8	HLK[	HLK	HLK	CCC	CCC	qal	infa	NA	m	NA	verb				W	rrr	nnn	הלך		noH	22	6a_b	0	1	0	0	rrr	nnn
-2000368	4Q51	1_Samuel	14	29	<KR[	<KWR	<KWR	CCMC	CCMC	qal	infa	NA	m	NA	verb					nnnn	nnnn	עכור		noH	3	f3_5	0	0	0	0	nnnn	nnnn
-2000389	4Q51	1_Samuel	14	30	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	4	f3_5	0	0	0	0	rrrr	nnnn
-2001324	4Q51	1_Samuel	24	21	MLK[	MLK	MLK	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מלך		noH	11	f26_27	0	0	0	0	rrr	nnn
-2002131	4Q51	1_Samuel	28	1	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	ידוע		noH	10	f43	0	0	0	0	nnnn	nnnn
-2004019	4Q51	2_Samuel	4	11	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הרג		noH	4	f61ii+63_64a_b+65_67	0	0	0	0	nnn	nnn
-2004265	4Q51	2_Samuel	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	21	f61ii+63_64a_b+65_67	0	0	0	0	rrrr	nnnn
-2004425	4Q51	2_Samuel	5	19	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	נתון		noH	32	f61ii+63_64a_b+65_67	0	0	0	0	rrrr	nnnn
-2006603	4Q51	2_Samuel	13	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	10	f102ii+103_106i+107_109a_b	0	0	0	0	rrrr	nnnn
-2006605	4Q51	2_Samuel	13	19	Z<Q[	Z<Q	Z<Q	CCC	CCC	qal	infa	NA	f	NA	verb				W	rrr	nnn	זעק		noH	10	f102ii+103_106i+107_109a_b	0	1	0	0	rrr	nnn
-2007864	4Q51	2_Samuel	16	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rnrr	nnnn	הלוך		noH	5	f120	0	0	0	0	rnrr	nnnn
-2007868	4Q51	2_Samuel	16	13	SQL[	SQL	SQL	CCC	CCC	qal	infa	NA	m	NA	verb				W	rrr	nnn	סקל		noH	5	f120	0	1	0	0	rrr	nnn
-2008189	4Q51	2_Samuel	18	2	JY>[	JYW>	JYW>	CCCM	CCCM	qal	infa	NA		NA	verb					rrrr	nnnn	יצוא		noH	7	f128_132	0	0	0	0	rrrr	nnnn
-2012199	4Q52	1_Samuel	23	10	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	2	f10_23	0	0	0	0	nnn	nnn
-2015224	4Q55	Isaiah	20	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	18	f10_11i+12_14	0	0	0	0	nnnn	nnnn
-2015382	4Q55	Isaiah	21	5	<RK[	<RK	<RK	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	ערך		noH	26	f10_11i+12_14	0	0	0	0	rrr	nnn
-2015388	4Q55	Isaiah	21	5	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	26	f10_11i+12_14	0	0	0	0	rrrr	nnnn
-2015583	4Q55	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	הרג		noH	13	f11ii+15	0	0	0	0	rrr	nnn
-2015586	4Q55	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	שחט		noH	13	f11ii+15	0	1	0	0	rrr	nnn
-2015588	4Q55	Isaiah	22	13	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אכל		noH	13	f11ii+15	0	0	0	0	rrr	nnn
-2015593	4Q55	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	13	f11ii+15	0	0	0	0	rrrr	nnnn
-2015669	4Q55	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	צנוף		noH	18	f11ii+15	0	0	0	0	nnnn	nnnn
-2016407	4Q56	Isaiah	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	12	f3i	0	0	0	0	rrrr	nnnn
-2016409	4Q56	Isaiah	3	16	VPP[	VPP	VPP	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	טפף		noH	12	f3i	0	1	0	0	rrr	nnn
-2017713	4Q56	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נגף		noH	31	f10_13	0	0	0	0	rrr	nnn
-2017715	4Q56	Isaiah	19	22	RP>[	RPW>	RPW>	CCMM	CCMM	qal	infa	NA		NA	verb				W	rrrr	nnnn	רפוא		noH	31	f10_13	0	1	0	0	rrrr	nnnn
-2017833	4Q56	Isaiah	20	2	HLK[	HLK	HLK	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הלך		noH	40	f10_13	0	0	0	0	nnn	nnn
-2018502	4Q56	Isaiah	37	30	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אכל		noH	2	f22_23	0	0	0	0	nnn	nnn
-2018524	4Q56	Isaiah	37	30	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA	m	NA	verb				W	nnnn	nnnn	אכול		noH	3	f22_23	0	1	0	0	nnnn	nnnn
-2019616	4Q56	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	בגוד		noH	7	f33ii	0	0	0	0	rrrr	nnnn
-2020939	4Q57	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	הרג		noH	27	f9i	0	0	0	0	rrr	nnn
-2020942	4Q57	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	שחט		noH	27	f9i	0	1	0	0	rrr	nnn
-2020944	4Q57	Isaiah	22	13	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אכל		noH	27	f9i	0	0	0	0	rrr	nnn
-2020949	4Q57	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	27	f9i	0	0	0	0	nnnn	nnnn
-2021405	4Q57	Isaiah	24	19	PRR=[	PWR	PWR	CMC	CMC	qal	infa	NA		NA	verb					rrr	nnn	פור		noH	6	f13	0	0	0	0	rrr	nnn
-2021457	4Q57	Isaiah	24	22	>SP[	>SWP	>SWP	CCMC	CCMC	qal	infa	sg		NA	verb					nnnn	nnnn	אסוף		noH	9	f13	0	0	0	0	nnnn	nnnn
-2023445	4Q57	Isaiah	55	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוע		noH	12	f44_47	0	0	0	0	rrrr	nnnn
-2024078	4Q58	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	בגוד		noH	17	3	0	0	0	0	rrrr	nnnn
-2025327	4Q58	Isaiah	58	7	PRS[	PRS	PRS	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	פרס		noH	22	12	0	0	0	0	nnn	nnn
-2027173	4Q60	Isaiah	7	16	M>S[	M>S	M>S	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מאס		noH	24	f12i	0	0	0	0	rrr	nnn
-2027177	4Q60	Isaiah	7	16	BXR[	BXR	BXR	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	בחר		noH	24	f12i	0	1	0	0	rrr	nnn
-2027540	4Q60	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	צנוף		noH	6	f17	0	0	0	0	nnnn	nnnn
-2028187	4Q61	Isaiah	42	20	PQX[	PQWX	PQWX	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	פקוח		noH	7	f1_8	0	0	0	0	rrrr	nnnn
-2028259	4Q61	Isaiah	42	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	11	f1_8	0	0	0	0	rrrr	nnnn
-2028859	4Q64	Isaiah	28	28	>DC[	>DWC	>DWC	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אדוש		noH	3	f1_5	0	0	0	0	rrrr	nnnn
-2030150	4Q70	Jeremiah	8	13	>SP[	>SP	>SP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אסף		noH	18	f3+4i+5_7	0	0	0	0	rrr	nnn
-2031017	4Q70	Jeremiah	12	16	LMD[	LMD	LMD	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	למד		noH	5	f17_20	0	0	0	0	nnn	nnn
-2031054	4Q70	Jeremiah	12	17	NTC[	NTWC	NTWC	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	נתוש		noH	1	f21_22i	0	0	0	0	nnnn	nnnn
-2031064	4Q70	Jeremiah	13	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	2	f21_22i	0	0	0	0	nnnn	nnnn
-2031221	4Q70	Jeremiah	14	5	<ZB[	<ZWB	<ZWB	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrnr	nnnn	עזוב		noH	1	f22ii	0	1	0	0	rrnr	nnnn
-2031459	4Q70	Jeremiah	17	19	HLK[	HWLWK	HWLWK	CMCMC	CMCMC	qal	infa	NA		NA	verb					nnnnn	nnnnn	הולוך		noH	9	f26_28	0	0	0	0	nnnnn	nnnnn
-2031574	4Q70	Jeremiah	17	24	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	14	f26_28	0	0	0	0	nnnn	nnnn
-2031868	4Q70	Jeremiah	19	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	13	f29	0	0	0	0	rrrr	nnnn
-2032271	4Q70	Jeremiah	22	14	MCX[	MCWX	MCWX	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	משוח		noH	29	f32ii_35	0	1	0	0	rrrr	nnnn
-2032453	4Q71	Jeremiah	9	23	JD<[	JD<	JD<	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	ידע		noH	2	f1	0	1	0	0	rrr	nnn
-2032615	4Q71	Jeremiah	10	5	NF>[	NFW>	NFW>	CCMM	CCMM	qal	infa	NA		NA	verb					rrrr	nnnn	נשוא		noH	7	f1	0	0	0	0	rrrr	nnnn
-2033091	4Q72	Jeremiah	9	3	<QB[	<QWB	<QWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnr	nnnn	עקוב		noH	9	f4_5	0	0	0	0	nnnr	nnnn
-2033664	4Q72	Jeremiah	22	14	QR<[	QRW<	QRW<	CCMC	CCMC	qal	infa	NA	m	NA	verb					nnnn	nnnn	קרוע		noH	13	f14_18	0	0	0	0	nnnn	nnnn
-2033672	4Q72	Jeremiah	22	14	MCX[	MCWX	MCWX	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	משוח		noH	13	f14_18	0	1	0	0	rrrr	nnnn
-2033772	4Q72	Jeremiah	22	19	SXB[	SXWB	SXWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	סחוב		noH	4	f19_21	0	0	0	0	nnnn	nnnn
-2034590	4Q72	Jeremiah	31	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	16	f34ii+36_43	0	0	0	0	nnnn	nnnn
-2034872	4Q72	Jeremiah	31	20	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	זכר		noH	9	f47_48ii+51_54	0	0	0	0	rrr	nnn
-2035376	4Q72b	Jeremiah	50	4	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	1	f1	0	0	0	0	rrrr	nnnn
-2036100	4Q73	Ezekiel	23	46	NTN[	NTN	NTN	CCC	CCC	qal	infa	NA		NA	verb				W	nnr	nnn	נתן		noH	4	f3ii	0	1	0	0	nnr	nnn
-2037584	4Q77	Zephaniah	1	2	>SP[	>SP	>SP	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אסף		noH	1	f1	0	0	0	0	nnn	nnn
-2037976	4Q78	Hosea	4	2	RYX[	RYX	RYX	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	רצח		noH	1	f4_7	0	1	0	0	rrr	nnn
-2037978	4Q78	Hosea	4	2	GNB[	GNB	GNB	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	גנב		noH	1	f4_7	0	1	0	0	rrr	nnn
-2037980	4Q78	Hosea	4	2	N>P[	N>P	N>P	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	נאף		noH	1	f4_7	0	1	0	0	rrr	nnn
-2039510	4Q78	Amos	3	5	LKD[	LKWD	LKWD	CCMC	CCMC	qal	infa	NA		NA	verb				W	nnnn	nnnn	לכוד		noH	8	f21_23	0	1	0	0	nnnn	nnnn
-2040277	4Q79	Hosea	1	6	NF>[	NF>	NF>	CCM	CCM	qal	infa	NA		NA	verb					rrr	nnn	נשא		noH	1	f1_2	0	0	0	0	rrr	nnn
-2042687	4Q82	Hosea	10	4	KRT[	KRT	KRT	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	כרת		noH	13	f15_26	0	0	0	0	rrr	nnn
-2046420	4Q82	Micah	2	4	CDD[	CDWD	CDWD	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שדוד		noH	11	f91ii+93_94i	0	0	0	0	rrrr	nnnn
-2053944	4Q98	Psalms	35	16	XRQ[	XRQ	XRQ	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	חרק		noH	7	2	0	0	0	0	rrr	nnn
-2054855	4Q99	Job	37	2	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	11	f16ii	0	0	0	0	nnn	nnn
-2057588	4Q111	Lamentations	1	8	XV>[	XVW>	XVW>	CCMM	CCMM	qal	infa	NA		NA	verb					nnnn	nnnn	חטוא		noH	5	2	0	0	0	0	nnnn	nnnn
-2062886	4Q128	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	6	f1	0	0	0	0	rrrr	nnnn
-2063672	4Q128	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	37	f1	0	0	0	0	rrr	nnn
-2064037	4Q128	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnr	nnnn	זכור		noH	52	f1	0	0	0	0	nnnr	nnnn
-2064350	4Q129	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	6	f1R	0	0	0	0	rrrr	nnnn
-2065106	4Q130	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f1	0	0	0	0	rrrr	nnnn
-2065517	4Q130	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	19	f1	0	0	0	0	rrr	nnn
-2066287	4Q134	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	18	f1	0	0	0	0	rrrr	nnnn
-2067296	4Q136	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	11	f1	0	0	0	0	nnnn	nnnn
-2067730	4Q137	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	19	f1	0	0	0	0	nnnn	nnnn
-2068854	4Q139	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	4	f1	0	0	0	0	rrrr	nnnn
-2069264	4Q140	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	9	f1	0	0	0	0	rrrr	nnnn
-2069922	4Q142	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	7	f1	0	0	0	0	rrrr	nnnn
-2070306	4Q144	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	6	f1R	0	0	0	0	rrr	nnn
-2070581	4Q145	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f1R	0	0	0	0	rrrr	nnnn
-2070824	4Q149	Exodus	20	8	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f1	0	0	0	0	rrrr	nnnn
-2071724	4Q154	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	3	f1	0	0	0	0	nnnn	nnnn
-2072098	5Q1	Deuteronomy	7	18	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					rnn	nnn	זכר		noH	3	1	0	0	0	0	rnn	nnn
-2072503	5Q1	Deuteronomy	8	19	CKX[	CKX	CKX	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שכח		noH	11	2	0	0	0	0	rrr	nnn
-2072530	5Q1	Deuteronomy	8	19	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אבד		noH	12	2	0	0	0	0	rrr	nnn
-2076052	8Q2	Psalms	17	5	TMK[	TMK	TMK	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	תמך		noH	1	f1_6	0	0	0	0	nnn	nnn
-2076251	8Q3	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	3	f1_11i	0	0	0	0	rrrr	nnnn
-2076568	8Q3	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	24	f1_11i	0	0	0	0	nnn	nnn
-2077471	8Q3	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	23	f17_25	0	0	0	0	nnnn	nnnn
-2078608	8Q4	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	32	f1	0	0	0	0	rrr	nnn
-2081108	11Q1	Leviticus	27	13	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	גאל		noH	2	6	0	0	0	0	nnn	nnn
-2081229	11Q1	Leviticus	27	19	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	גאל		noH	9	6	0	0	0	0	nnn	nnn
-2083717	11Q5	Psalms	126	6	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	14	4	0	0	0	0	nnnn	nnnn
-2086635	11Q5	2_Samuel	23	7	FRP[	FRWPP	FRWPP	CCMCC	CCMCC	qal	infa	NA		NA	verb					nnnnn	nnnnn	שרופף		noH	1	27	0	0	0	0	nnnnn	nnnnn
-2088680	Xq1	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	9	1	0	0	0	0	nnnn	nnnn
-2089697	Xq3	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	19	1	0	0	0	0	nnnn	nnnn
-2090789	Mur2	Deuteronomy	15	2	CMV[	CMWV	CMWV	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוט		noH	1	f3	0	0	0	0	rrrr	nnnn
-2091000	Mur4	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	10	f1	0	0	0	0	nnnn	nnnn
-2091322	Mur4	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	76	f1	0	0	0	0	nnn	nnn
-2091639	Mur88	Joel	2	26	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	8	2	0	0	0	0	rrrr	nnnn
-2091641	Mur88	Joel	2	26	FB<[	FBW<	FBW<	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	שבוע		noH	8	2	0	1	0	0	rrrr	nnnn
-2094951	Mur88	Micah	2	4	CDD[	CDWD	CDWD	CCMC	CCMC	qal	infa	NA		NA	verb					rnnn	nnnn	שדוד		noH	21	12	0	0	0	0	rnnn	nnnn
-2095077	Mur88	Micah	2	12	>SP[	>SP	>SP	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אסף		noH	30	12	0	0	0	0	nnn	nnn
-2096707	Mur88	Nahum	2	2	NYR[	NYWR	NYWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	נצור		noH	27	16	0	0	0	0	rrrr	nnnn
-2097121	Mur88	Nahum	3	13	PTX[	PTWX	PTWX	CCMC	CCMC	qal	infa	NA		NA	verb					rrnn	nnnn	פתוח		noH	22	17	0	0	0	0	rrnn	nnnn
-2098959	Mur88	Haggai	1	6	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nrrr	nnnn	אכול		noH	30	21	0	0	0	0	nrrr	nnnn
-2098969	Mur88	Haggai	1	6	LBC[	LBWC	LBWC	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	לבוש		noH	31	21	0	0	0	0	nnnn	nnnn
-2101991	Xhev/se2	Numbers	27	7	NTN[	NTN	NTN	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	נתן		noH	31	1	0	0	0	0	nnn	nnn
-2102341	Xhev/se5	Exodus	13	3	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	זכר		noH	1	f1	0	0	0	0	nnn	nnn
-2102740	Xhev/se5	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	10	f1	0	0	0	0	nnn	nnn
-2102956	34Se1	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	2	f1	0	0	0	0	nnnn	nnnn
-2104212	Mas1b	Leviticus	10	16	DRC[	DRC	DRC	CCC	CCC	qal	infa	NA		NA	verb					nnr	nnn	דרש		noH	18	3	0	0	0	0	nnr	nnn
-2104272	Mas1b	Leviticus	10	18	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrn	nnnn	אכול		noH	23	3	0	0	0	0	rrrn	nnnn
-2105372	Mas1d	Ezekiel	36	3	C>P[	C>P	C>P	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	שאף		noH	14	1	0	1	0	0	rrr	nnn
-2107473	Arugleviticus	Leviticus	24	16	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	רגום		noH	12	fB+Cii	0	0	0	0	rrrr	nnnn
-2107830	Xjudges	Judges	4	9	HLK[	HLK	HLK	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הלך		noH	11	f3_7i	0	0	0	0	nnn	nnn
+tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix_g_cons	rec_signs	cor_signs	heb_g_cons	other_vowel_ending	final_h	line	column	has_pronominal_suffix	has_prefix	has_hloc	has_nme	rec_signs_stem	cor_signs_stem	type	vowel_letter	has_vowel_letter
+976	MT	Genesis	2	16	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+3598	MT	Genesis	8	3	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+3634	MT	Genesis	8	5	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+3636	MT	Genesis	8	5	XSR[	XSWR	XSWR	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	חסור		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+3676	MT	Genesis	8	7	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+5668	MT	Genesis	12	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+5670	MT	Genesis	12	9	NS<[	NSW<	NSW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נסוע		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+6883	MT	Genesis	15	13	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+8608	MT	Genesis	19	9	CPV[	CPWV	CPWV	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שפוט		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+9608	MT	Genesis	20	18	<YR[	<YR	<YR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	עצר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+13240	MT	Genesis	26	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+14142	MT	Genesis	27	30	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+15851	MT	Genesis	30	16	FKR[	FKR	FKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שכר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+16650	MT	Genesis	31	15	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+16923	MT	Genesis	31	30	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+20300	MT	Genesis	37	8	MLK[	MLK	MLK	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	מלך		noH	-	-	0	1	0	0	nnn	nnn	last		0
+20304	MT	Genesis	37	8	MCL[	MCWL	MCWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	משול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+20789	MT	Genesis	37	33	VRP[	VRP	VRP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טרף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+23140	MT	Genesis	41	43	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+24234	MT	Genesis	43	7	C>L[	C>WL	C>WL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שאול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+24262	MT	Genesis	43	7	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	ידוע		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+24545	MT	Genesis	43	20	JRD[	JRD	JRD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ירד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+25333	MT	Genesis	44	28	VRP[	VRP	VRP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טרף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+28706	MT	Genesis	50	24	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+28737	MT	Genesis	50	25	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+30009	MT	Exodus	3	16	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+35795	MT	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+36168	MT	Exodus	13	19	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+37296	MT	Exodus	15	26	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+38830	MT	Exodus	18	18	NBL[	NBL	NBL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נבל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+39138	MT	Exodus	19	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+39329	MT	Exodus	19	13	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	סקול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+39711	MT	Exodus	20	8	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+40080	MT	Exodus	21	5	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אמר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+40309	MT	Exodus	21	20	NQM[	NQM	NQM	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נקם		noH	-	-	0	0	0	0	nnn	nnn	last		0
+40337	MT	Exodus	21	22	<NC[	<NWC	<NWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ענוש		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+40424	MT	Exodus	21	28	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	סקול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+40820	MT	Exodus	22	11	GNB[	GNB	GNB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גנב		noH	-	-	0	0	0	0	nnn	nnn	last		0
+40828	MT	Exodus	22	12	VRP[	VRP	VRP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טרף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+40874	MT	Exodus	22	15	MHR=[	MHR	MHR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מהר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+40936	MT	Exodus	22	22	Y<Q[	Y<Q	Y<Q	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	צעק		noH	-	-	0	0	0	0	nnn	nnn	last		0
+40939	MT	Exodus	22	22	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+40977	MT	Exodus	22	25	XBL[	XBL	XBL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חבל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+41121	MT	Exodus	23	5	<ZB[	<ZB	<ZB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	עזב		noH	-	-	0	0	0	0	nnn	nnn	last		0
+41385	MT	Exodus	23	22	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+52981	MT	Leviticus	2	6	PTT[	PTWT	PTWT	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פתות		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+54742	MT	Leviticus	5	19	>CM[	>CM	>CM	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אשם		noH	-	-	0	0	0	0	nnn	nnn	last		0
+55766	MT	Leviticus	7	24	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	אכל		noH	-	-	0	1	0	0	nnn	nnn	last		0
+57739	MT	Leviticus	10	16	DRC[	DRC	DRC	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	דרש		noH	-	-	0	0	0	0	nnn	nnn	last		0
+57797	MT	Leviticus	10	18	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+59134	MT	Leviticus	13	12	PRX[	PRWX	PRWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פרוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+61969	MT	Leviticus	15	24	CKB[	CKB	CKB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שכב		noH	-	-	0	0	0	0	nnn	nnn	last		0
+67044	MT	Leviticus	24	16	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	רגום		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+69205	MT	Leviticus	27	13	G>L[	G>L	G>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גאל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+69317	MT	Leviticus	27	19	G>L[	G>L	G>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גאל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+69550	MT	Leviticus	27	31	G>L[	G>L	G>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	גאל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+71783	MT	Numbers	4	2	NF>[	NF>	NF>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+72205	MT	Numbers	4	22	NF>[	NF>	NF>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+73857	MT	Numbers	6	23	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אמור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+77096	MT	Numbers	11	15	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הרג		noH	-	-	0	0	0	0	nnn	nnn	last		0
+77535	MT	Numbers	11	32	CVX[	CVWX	CVWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שטוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+77814	MT	Numbers	12	14	JRQ[	JRQ	JRQ	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ירק		noH	-	-	0	0	0	0	nnn	nnn	last		0
+78337	MT	Numbers	13	30	JKL[	JKWL	JKWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	יכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+79935	MT	Numbers	15	35	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	רגום		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+83158	MT	Numbers	21	2	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נתן		noH	-	-	0	0	0	0	nnn	nnn	last		0
+84605	MT	Numbers	22	37	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שלח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+84630	MT	Numbers	22	38	JKL[	JKWL	JKWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	יכול		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+85900	MT	Numbers	25	17	YRR=[	YRWR	YRWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	צרור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+87023	MT	Numbers	27	7	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נתן		noH	-	-	0	0	0	0	nnn	nnn	last		0
+92331	MT	Numbers	35	26	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+93121	MT	Deuteronomy	1	16	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+95758	MT	Deuteronomy	4	26	>BD[	>BD	>BD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אבד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+96519	MT	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+97244	MT	Deuteronomy	6	17	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+97816	MT	Deuteronomy	7	18	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	זכר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+98359	MT	Deuteronomy	8	19	CKX[	CKX	CKX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שכח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+98379	MT	Deuteronomy	8	19	>BD[	>BD	>BD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אבד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+98927	MT	Deuteronomy	9	21	VXN[	VXWN	VXWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	טחון		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+99870	MT	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+100051	MT	Deuteronomy	11	22	CMR[	CMR	CMR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+101251	MT	Deuteronomy	13	10	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הרג		noH	-	-	0	0	0	0	nnn	nnn	last		0
+101769	MT	Deuteronomy	14	21	MKR[	MKR	MKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מכר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+102003	MT	Deuteronomy	15	2	CMV[	CMWV	CMWV	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוט		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+102059	MT	Deuteronomy	15	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+102136	MT	Deuteronomy	15	8	PTX[	PTX	PTX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פתח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+102186	MT	Deuteronomy	15	10	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתון		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+102228	MT	Deuteronomy	15	11	PTX[	PTX	PTX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פתח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+102467	MT	Deuteronomy	16	1	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+105070	MT	Deuteronomy	21	14	MKR[	MKR	MKR	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	מכר		noH	-	-	0	1	0	0	nnn	nnn	last		0
+105266	MT	Deuteronomy	21	23	QBR[	QBWR	QBWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	קבור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+106271	MT	Deuteronomy	23	22	DRC[	DRC	DRC	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	דרש		noH	-	-	0	0	0	0	nnn	nnn	last		0
+106541	MT	Deuteronomy	24	9	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+107093	MT	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+107668	MT	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+108109	MT	Deuteronomy	28	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+110571	MT	Deuteronomy	30	18	>BD[	>BD	>BD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אבד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+111317	MT	Deuteronomy	31	26	LQX[	LQX	LQX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	לקח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+113209	MT	Joshua	1	13	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+115563	MT	Joshua	6	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+115565	MT	Joshua	6	9	TQ<[	TQW<	TQW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	תקוע		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+115643	MT	Joshua	6	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+115662	MT	Joshua	6	13	HLK[	HWLK	HWLK			qal	infa		unknown	unknown	verb					nnnn	nnnn	הולך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+115664	MT	Joshua	6	13	TQ<[	TQW<	TQW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	תקוע		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+126463	MT	Joshua	23	13	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ידוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+129562	MT	Judges	4	9	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+129946	MT	Judges	4	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+130281	MT	Judges	5	23	>RR[	>RWR	>RWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ארור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+131951	MT	Judges	7	19	NPY[	NPWY	NPWY	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נפוץ		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+132661	MT	Judges	8	25	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתון		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+133044	MT	Judges	9	8	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+135136	MT	Judges	11	30	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתון		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+136432	MT	Judges	14	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+136434	MT	Judges	14	9	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	אכל		noH	-	-	0	1	0	0	nnn	nnn	last		0
+136773	MT	Judges	15	2	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אמר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+136776	MT	Judges	15	2	FN>[	FN>	FN>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	שנא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+137017	MT	Judges	15	13	>SR[	>SR	>SR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+137448	MT	Judges	16	11	>SR[	>SWR	>SWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אסור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+142654	MT	1_Samuel	2	28	BXR[	BXR	BXR	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	בחר		noH	-	-	0	1	0	0	nnn	nnn	last		0
+142714	MT	1_Samuel	2	30	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אמור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+144419	MT	1_Samuel	6	12	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+148744	MT	1_Samuel	14	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+149005	MT	1_Samuel	14	30	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+149331	MT	1_Samuel	14	43	V<M[	V<M	V<M	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טעם		noH	-	-	0	0	0	0	nnn	nnn	last		0
+153369	MT	1_Samuel	19	23	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+153479	MT	1_Samuel	20	3	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+153531	MT	1_Samuel	20	5	JCB[	JCB	JCB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ישב		noH	-	-	0	0	0	0	nnn	nnn	last		0
+153551	MT	1_Samuel	20	6	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+153625	MT	1_Samuel	20	9	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+153860	MT	1_Samuel	20	21	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אמר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+155058	MT	1_Samuel	22	13	C>L[	C>WL	C>WL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שאול		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+155526	MT	1_Samuel	23	10	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+155801	MT	1_Samuel	23	22	<RM=[	<RWM	<RWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ערום		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+156438	MT	1_Samuel	24	21	MLK[	MLK	MLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+158194	MT	1_Samuel	26	25	JKL[	JKL	JKL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	יכל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+158524	MT	1_Samuel	28	1	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+162011	MT	2_Samuel	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+162235	MT	2_Samuel	3	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+163150	MT	2_Samuel	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+163152	MT	2_Samuel	5	10	GDL[	GDWL	GDWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	גדול		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+163306	MT	2_Samuel	5	19	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נתן		noH	-	-	0	0	0	0	nnn	nnn	last		0
+167565	MT	2_Samuel	13	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+169063	MT	2_Samuel	15	8	JCB[	JCJB	JCJB			qal	infa		unknown	unknown	verb					nnnn	nnnn	ישיב		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+169892	MT	2_Samuel	16	5	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+170082	MT	2_Samuel	16	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+170700	MT	2_Samuel	17	16	<BR[	<BWR	<BWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	עבור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+171104	MT	2_Samuel	18	2	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+171731	MT	2_Samuel	18	25	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+173035	MT	2_Samuel	19	43	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	אכול		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+173544	MT	2_Samuel	20	18	C>L[	C>L	C>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שאל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+174919	MT	2_Samuel	23	7	FRP[	FRWP	FRWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שרוף		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+175694	MT	2_Samuel	24	12	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+178184	MT	1_Kings	2	37	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+178312	MT	1_Kings	2	42	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+185224	MT	1_Kings	11	11	QR<[	QR<	QR<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	קרע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+192850	MT	1_Kings	20	37	PY<[	PY<	PY<	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	פצע		noH	-	-	0	1	0	0	nnn	nnn	last		0
+195503	MT	2_Kings	2	11	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+197442	MT	2_Kings	4	43	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+197694	MT	2_Kings	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+197719	MT	2_Kings	5	11	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+208002	MT	2_Kings	19	29	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+213157	MT	Isaiah	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+213159	MT	Isaiah	3	16	VPP[	VPP	VPP	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	טפף		noH	-	-	0	1	0	0	nnn	nnn	last		0
+213514	MT	Isaiah	5	5	PRY[	PRY	PRY	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פרץ		noH	-	-	0	0	0	0	nnn	nnn	last		0
+214143	MT	Isaiah	6	9	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+214497	MT	Isaiah	7	15	M>S[	M>WS	M>WS	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	מאוס		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+214502	MT	Isaiah	7	15	BXR[	BXWR	BXWR	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	בחור		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+214512	MT	Isaiah	7	16	M>S[	M>S	M>S	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מאס		noH	-	-	0	0	0	0	nnn	nnn	last		0
+214517	MT	Isaiah	7	16	BXR[	BXR	BXR	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	בחר		noH	-	-	0	1	0	0	nnn	nnn	last		0
+218526	MT	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נגף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+218528	MT	Isaiah	19	22	RP>[	RPW>	RPW>	CCMM	CCMM	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	רפוא		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+218644	MT	Isaiah	20	2	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+218793	MT	Isaiah	21	5	<RK[	<RK	<RK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ערך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+218799	MT	Isaiah	21	5	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+219183	MT	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הרג		noH	-	-	0	0	0	0	nnn	nnn	last		0
+219186	MT	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שחט		noH	-	-	0	1	0	0	nnn	nnn	last		0
+219188	MT	Isaiah	22	13	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+219193	MT	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+219265	MT	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	צנוף		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+221309	MT	Isaiah	28	28	>DC[	>DWC	>DWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אדוש		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+222154	MT	Isaiah	30	19	XNN[	XNWN	XNWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	חנון		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+222591	MT	Isaiah	31	5	GNN[	GNWN	GNWN	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	גנון		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+222594	MT	Isaiah	31	5	PSX[	PSX	PSX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פסח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+223580	MT	Isaiah	35	2	PRX[	PRX	PRX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פרח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+224615	MT	Isaiah	37	19	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נתן		noH	-	-	0	1	0	0	nnn	nnn	last		0
+224835	MT	Isaiah	37	30	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+225093	MT	Isaiah	38	5	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+226048	MT	Isaiah	40	30	KCL[	KCWL	KCWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	כשול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+226841	MT	Isaiah	42	20	PQX[	PQWX	PQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פקוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+226910	MT	Isaiah	42	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+228929	MT	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	בגוד		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+229662	MT	Isaiah	50	2	QYR[	QYWR	QYWR	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	קצור		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+231102	MT	Isaiah	55	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+232048	MT	Isaiah	58	7	PRS[	PRS	PRS	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פרס		noH	-	-	0	0	0	0	nnn	nnn	last		0
+232274	MT	Isaiah	59	4	BVX[	BVWX	BVWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	בטוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+232437	MT	Isaiah	59	13	PC<[	PC<	PC<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פשע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+232823	MT	Isaiah	60	12	XRB[	XRB	XRB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חרב		noH	-	-	0	0	0	0	nnn	nnn	last		0
+235370	MT	Jeremiah	2	2	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+236031	MT	Jeremiah	3	1	XNP[	XNWP	XNWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	חנוף		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+236240	MT	Jeremiah	3	12	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+237297	MT	Jeremiah	5	11	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	בגוד		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+238184	MT	Jeremiah	6	29	YRP[	YRWP	YRWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	צרוף		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+238349	MT	Jeremiah	7	9	GNB[	GNB	GNB	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	גנב		noH	-	-	0	1	0	0	nnn	nnn	last		0
+238350	MT	Jeremiah	7	9	RYX[	RYX	RYX	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	רצח		noH	-	-	0	0	0	0	nnn	nnn	last		0
+238352	MT	Jeremiah	7	9	N>P[	N>P	N>P	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נאף		noH	-	-	0	1	0	0	nnn	nnn	last		0
+238364	MT	Jeremiah	7	9	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	הלך		noH	-	-	0	1	0	0	nnn	nnn	last		0
+238752	MT	Jeremiah	7	25	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn	last		0
+239232	MT	Jeremiah	8	13	>SP[	>SP	>SP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+239470	MT	Jeremiah	9	3	<QB[	<QWB	<QWB	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	עקוב		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+239838	MT	Jeremiah	9	23	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	ידע		noH	-	-	0	1	0	0	nnn	nnn	last		0
+239976	MT	Jeremiah	10	5	NF>[	NFW>	NFW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	נשוא		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+241131	MT	Jeremiah	12	16	LMD[	LMD	LMD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	למד		noH	-	-	0	0	0	0	nnn	nnn	last		0
+241168	MT	Jeremiah	12	17	NTC[	NTWC	NTWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נתוש		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+241177	MT	Jeremiah	13	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+241418	MT	Jeremiah	13	12	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	ידע		noH	-	-	0	1	0	0	nnn	nnn	last		0
+241537	MT	Jeremiah	13	17	DM<[	DM<	DM<	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	דמע		noH	-	-	0	1	0	0	nnn	nnn	last		0
+241761	MT	Jeremiah	14	5	<ZB[	<ZWB	<ZWB	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	עזוב		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+242092	MT	Jeremiah	14	19	M>S[	M>S	M>S	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	מאס		noH	-	-	0	1	0	0	nnn	nnn	last		0
+243424	MT	Jeremiah	17	19	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+243536	MT	Jeremiah	17	24	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+244131	MT	Jeremiah	19	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+245610	MT	Jeremiah	22	14	MCX[	MCWX	MCWX	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	משוח		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+245706	MT	Jeremiah	22	19	SXB[	SXWB	SXWB	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	סחוב		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+246203	MT	Jeremiah	23	14	N>P[	N>WP	N>WP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נאוף		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+246205	MT	Jeremiah	23	14	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	הלך		noH	-	-	0	1	0	0	nnn	nnn	last		0
+246279	MT	Jeremiah	23	17	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אמור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+246700	MT	Jeremiah	23	39	NC>[	NC>	NC>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+247087	MT	Jeremiah	25	4	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn	last		0
+247684	MT	Jeremiah	25	30	C>G[	C>G	C>G	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שאג		noH	-	-	0	0	0	0	nnn	nnn	last		0
+247958	MT	Jeremiah	26	5	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn	last		0
+248208	MT	Jeremiah	26	15	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+249368	MT	Jeremiah	28	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+249909	MT	Jeremiah	29	19	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn	last		0
+250676	MT	Jeremiah	31	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+250967	MT	Jeremiah	31	18	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+251016	MT	Jeremiah	31	20	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	זכר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+251774	MT	Jeremiah	32	14	LQX[	LQWX	LQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לקוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+252516	MT	Jeremiah	32	44	KTB[	KTWB	KTWB	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	כתוב		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+252521	MT	Jeremiah	32	44	XTM[	XTWM	XTWM	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	חתום		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+253183	MT	Jeremiah	34	2	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+253219	MT	Jeremiah	34	3	TPF[	TPF	TPF	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	תפש		noH	-	-	0	0	0	0	nnn	nnn	last		0
+253755	MT	Jeremiah	35	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+253998	MT	Jeremiah	35	13	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+254066	MT	Jeremiah	35	15	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn	last		0
+255271	MT	Jeremiah	37	9	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+255552	MT	Jeremiah	37	21	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נתן		noH	-	-	0	1	0	0	nnn	nnn	last		0
+256068	MT	Jeremiah	38	17	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+256703	MT	Jeremiah	39	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+257216	MT	Jeremiah	40	14	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	ידע		noH	-	-	0	1	0	0	nnn	nnn	last		0
+257454	MT	Jeremiah	41	6	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+258263	MT	Jeremiah	42	19	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+258320	MT	Jeremiah	42	22	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+258776	MT	Jeremiah	44	4	CLX[	CLX	CLX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שלח		noH	-	-	0	1	0	0	nnn	nnn	last		0
+260500	MT	Jeremiah	48	9	NY>[	NY>	NY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נצא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+261956	MT	Jeremiah	50	4	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+265001	MT	Ezekiel	1	14	RY>[	RYW>	RYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	רצוא		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+272384	MT	Ezekiel	17	10	JBC[	JBC	JBC	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	יבש		noH	-	-	0	0	0	0	nnn	nnn	last		0
+273121	MT	Ezekiel	18	23	XPY[	XPY	XPY	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	חפץ		noH	-	-	0	1	0	0	nnn	nnn	last		0
+276501	MT	Ezekiel	23	46	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נתן		noH	-	-	0	1	0	0	nnn	nnn	last		0
+276644	MT	Ezekiel	24	5	LQX[	LQWX	LQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לקוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+277284	MT	Ezekiel	25	12	>CM[	>CWM	>CWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אשום		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+278488	MT	Ezekiel	28	9	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb				H	nnn	nnn	אמר		noH	-	-	0	1	0	0	nnn	nnn	last		0
+282459	MT	Ezekiel	36	3	C>P[	C>P	C>P	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	שאף		noH	-	-	0	1	0	0	nnn	nnn	last		0
+288222	MT	Ezekiel	44	20	KSM[	KSWM	KSWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	כסום		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+291045	MT	Hosea	1	6	NF>[	NF>	NF>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	נשא		noH	-	-	0	0	0	0	nnn	nnn	last		0
+291722	MT	Hosea	4	2	RYX[	RYX	RYX	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	רצח		noH	-	-	0	1	0	0	nnn	nnn	last		0
+291724	MT	Hosea	4	2	GNB[	GNB	GNB	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	גנב		noH	-	-	0	1	0	0	nnn	nnn	last		0
+291726	MT	Hosea	4	2	N>P[	N>P	N>P	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	נאף		noH	-	-	0	1	0	0	nnn	nnn	last		0
+293114	MT	Hosea	10	4	KRT[	KRT	KRT	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	כרת		noH	-	-	0	0	0	0	nnn	nnn	last		0
+294168	MT	Joel	1	7	XFP[	XFP	XFP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חשף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+294861	MT	Joel	2	26	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+294863	MT	Joel	2	26	FB<[	FBW<	FBW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שבוע		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+296043	MT	Amos	3	5	LKD[	LKWD	LKWD	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	לכוד		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+299891	MT	Micah	2	4	CDD[	CDWD	CDWD	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שדוד		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+300010	MT	Micah	2	12	>SP[	>SP	>SP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+301672	MT	Nahum	2	2	NYR[	NYWR	NYWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נצור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+302074	MT	Nahum	3	13	PTX[	PTWX	PTWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פתוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+303102	MT	Zephaniah	1	2	>SP[	>SP	>SP	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אסף		noH	-	-	0	0	0	0	nnn	nnn	last		0
+303368	MT	Zephaniah	1	14	QRB[	QRWB	QRWB	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	קרוב		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+304221	MT	Haggai	1	6	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+304231	MT	Haggai	1	6	LBC[	LBWC	LBWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לבוש		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+306551	MT	Zechariah	6	10	LQX[	LQWX	LQWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	לקוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+306694	MT	Zechariah	6	15	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+306790	MT	Zechariah	7	5	SPD[	SPWD	SPWD	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	ספוד		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+307412	MT	Zechariah	8	21	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+308358	MT	Zechariah	11	17	JBC[	JBWC	JBWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	יבוש		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+308423	MT	Zechariah	12	3	FRV[	FRWV	FRWV	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שרוט		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+312533	MT	Psalms	17	5	TMK[	TMK	TMK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	תמך		noH	-	-	0	0	0	0	nnn	nnn	last		0
+315968	MT	Psalms	35	16	XRQ[	XRQ	XRQ	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	חרק		noH	-	-	0	0	0	0	nnn	nnn	last		0
+333121	MT	Psalms	126	6	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+337585	MT	Job	6	2	CQL[	CQWL	CQWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שקול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+339408	MT	Job	13	17	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+340083	MT	Job	15	35	JLD[	JLD	JLD	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	ילד		noH	-	-	0	1	0	0	nnn	nnn	last		0
+341186	MT	Job	21	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+342579	MT	Job	27	22	BRX[	BRWX	BRWX	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ברוח		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+345209	MT	Job	37	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שמוע		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+349969	MT	Proverbs	12	7	HPK[	HPWK	HPWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הפוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+351453	MT	Proverbs	17	12	PGC[	PGWC	PGWC	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	פגוש		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+353992	MT	Proverbs	25	27	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		noH	-	-	0	0	0	0	nnn	nnn	last		0
+354535	MT	Proverbs	27	23	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		noH	-	-	0	0	0	0	nnn	nnn	last		0
+360860	MT	Ecclesiastes	4	17	QRB[	QRWB	QRWB	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	קרוב		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+362046	MT	Ecclesiastes	8	9	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+364600	MT	Lamentations	3	20	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	זכור		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+364795	MT	Lamentations	3	45	M>S[	M>WS	M>WS	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	מאוס		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+365452	MT	Lamentations	5	22	M>S[	M>S	M>S	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מאס		noH	-	-	0	0	0	0	nnn	nnn	last		0
+366098	MT	Esther	2	3	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+368135	MT	Esther	6	9	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	נתון		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+368311	MT	Esther	6	13	NPL[	NPWL	NPWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	נפול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+369535	MT	Esther	9	16	<MD[	<MD	<MD	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	עמד		noH	-	-	0	1	0	0	nnn	nnn	last		0
+369543	MT	Esther	9	16	HRG[	HRG	HRG	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	הרג		noH	-	-	0	1	0	0	nnn	nnn	last		0
+387916	MT	Nehemiah	9	8	KRT[	KRWT	KRWT	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	כרות		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+397177	MT	1_Chronicles	11	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+397179	MT	1_Chronicles	11	9	GDL[	GDWL	GDWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	גדול		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+399433	MT	1_Chronicles	15	22	JSR[	JSR	JSR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	יסר		noH	-	-	0	0	0	0	nnn	nnn	last		0
+407475	MT	2_Chronicles	2	8	GDL[	GDWL	GDWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	גדול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+420803	MT	2_Chronicles	28	19	M<L[	M<WL	M<WL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	מעול		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+422780	MT	2_Chronicles	31	10	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		noH	-	-	0	0	0	0	nnnn	nnnn	last		0
+422782	MT	2_Chronicles	31	10	FB<[	FBW<	FBW<	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שבוע		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+423391	MT	2_Chronicles	32	13	JKL[	JKWL	JKWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	יכול		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+426365	MT	2_Chronicles	36	15	CLX[	CLWX	CLWX	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שלוח		noH	-	-	0	1	0	0	nnnn	nnnn	last		0
+1890524	1Q2	Exodus	21	5	>MR[	>MR	>MR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אמר		noH	1	f7	0	0	0	0	rrr	nnn	last		0
+1891327	1Q4	Deuteronomy	8	19	CKX[	CKX	CKX	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שכח		noH	2	f3_4	0	0	0	0	rrr	nnn	last		0
+1891347	1Q4	Deuteronomy	8	19	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					nnr	nnn	אבד		noH	3	f3_4	0	0	0	0	nnr	nnn	last		0
+1891729	1Q4	Deuteronomy	14	21	MKR[	MKR	MKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מכר		noH	1	f11	0	0	0	0	rrr	nnn	last		0
+1892627	1Q5	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	3	f9	0	0	0	0	rrrr	nnnn	last		0
+1895990	1Qisaa	Isaiah	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	23	3	0	0	0	0	nnnn	nnnn	last		0
+1896346	1Qisaa	Isaiah	5	5	PRY[	PRY	PRY	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	פרץ		noH	17	4	0	0	0	0	nnn	nnn	last		0
+1896988	1Qisaa	Isaiah	6	9	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	3	6	0	0	0	0	nnnn	nnnn	last		0
+1897361	1Qisaa	Isaiah	7	15	M>S[	M>WS	M>WS	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	מאוס		noH	1	7	0	0	0	0	nnnn	nnnn	last		0
+1897365	1Qisaa	Isaiah	7	15	BXR[	BXR	BXR	CCC	CCC	qal	infa	NA		NA	verb				W	nnn	nnn	בחר		noH	1	7	0	1	0	0	nnn	nnn	last		0
+1897375	1Qisaa	Isaiah	7	16	M>S[	M>S	M>S	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	מאס		noH	2	7	0	0	0	0	nnn	nnn	last		0
+1897379	1Qisaa	Isaiah	7	16	BXR[	BXWR	BXWR	CCMC	CCMC	qal	infa	NA		NA	verb				W	nnnn	nnnn	בחור		noH	2	7	0	1	0	0	nnnn	nnnn	last		0
+1901587	1Qisaa	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	נגף		noH	30	15	0	0	0	0	nnn	nnn	last		0
+1901706	1Qisaa	Isaiah	20	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	7	16	0	0	0	0	nnnn	nnnn	last		0
+1901864	1Qisaa	Isaiah	21	5	<RK[	<RWK	<RWK	CCCC	CCCC	qal	infa	NA		NA	verb					nnnn	nnnn	ערוך		noH	19	16	0	0	0	0	nnnn	nnnn	last		0
+1901870	1Qisaa	Isaiah	21	5	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	19	16	0	0	0	0	nnnn	nnnn	last		0
+1902275	1Qisaa	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הרג		noH	18	17	0	0	0	0	nnn	nnn	last		0
+1902278	1Qisaa	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	nnn	nnn	שחט		noH	18	17	0	1	0	0	nnn	nnn	last		0
+1902280	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	18	17	0	0	0	0	nnnn	nnnn	last		0
+1902285	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	19	17	0	0	0	0	nnnn	nnnn	last		0
+1903077	1Qisaa	Isaiah	24	19	PRR=[	PWR	PWR	CMC	CMC	qal	infa	NA		NA	verb					nnn	nnn	פור		noH	18	19	0	0	0	0	nnn	nnn	last		0
+1904463	1Qisaa	Isaiah	28	28	>DC[	HDC	HDC	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הדש		noH	4	23	0	0	0	0	nnn	nnn	last		0
+1905357	1Qisaa	Isaiah	30	19	XNN[	XNWN	XNWN	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	חנון		noH	31	24	0	0	0	0	nnnn	nnnn	last		0
+1905813	1Qisaa	Isaiah	31	5	GNN[	GNWN	GNWN	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	גנון		noH	1	26	0	0	0	0	nnnn	nnnn	last		0
+1905817	1Qisaa	Isaiah	31	5	PSX[	PSX	PSX	CCC	CCC	qal	infa	NA		NA	verb				W	nnn	nnn	פסח		noH	2	26	0	1	0	0	nnn	nnn	last		0
+1906878	1Qisaa	Isaiah	35	2	PRX[	PRX	PRX	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	פרח		noH	19	28	0	0	0	0	nnn	nnn	last		0
+1908234	1Qisaa	Isaiah	37	30	NV<[	NVW<	NVW<	CCMC	CCMC	qal	infa	NA	m	NA	verb				W	nnnn	nnnn	נטוע		noH	9	31	0	1	0	0	nnnn	nnnn	last		0
+1908482	1Qisaa	Isaiah	38	5	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	24	31	0	0	0	0	nnnn	nnnn	last		0
+1909516	1Qisaa	Isaiah	40	30	KCL[	KCWL	KCWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	כשול		noH	2	34	0	0	0	0	nnnn	nnnn	last		0
+1912572	1Qisaa	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	בגוד		noH	14	40	0	0	0	0	nnnn	nnnn	last		0
+1913356	1Qisaa	Isaiah	50	2	QYR[	QYWR	QYWR	CCMC	CCMC	qal	infa	NA		NA	verb				H	nnnn	nnnn	קצור		noH	2	42	0	1	0	0	nnnn	nnnn	last		0
+1914865	1Qisaa	Isaiah	55	2	CM<[	CM<W>	CM<W>	CCCMM	CCCMM	qal	infa	NA		NA	verb					nnnnn	nnnnn	שמעוא		noH	21	45	0	0	0	0	nnnnn	nnnnn	last		0
+1915384	1Qisaa	Isaiah	57	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA	m	NA	verb					nnnn	nnnn	הלוך		noH	1	47	0	0	0	0	nnnn	nnnn	last		0
+1915874	1Qisaa	Isaiah	58	7	PRS[	PRWS	PRWS	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	פרוס		noH	1	48	0	0	0	0	nnnn	nnnn	last		0
+1916668	1Qisaa	Isaiah	60	12	XRB[	XRWB	XRWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	חרוב		noH	15	49	0	0	0	0	nnnn	nnnn	last		0
+1919971	1Q8	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נגף		noH	4	8a_b	0	0	0	0	rrr	nnn	last		0
+1919973	1Q8	Isaiah	19	22	RP>[	RPW>	RPW>	CCMM	CCMM	qal	infa	NA		NA	verb				W	rrrr	nnnn	רפוא		noH	4	8a_b	0	1	0	0	rrrr	nnnn	last		0
+1920148	1Q8	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הרג		noH	4	8c_e	0	0	0	0	nnn	nnn	last		0
+1920151	1Q8	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	nrr	nnn	שחט		noH	4	8c_e	0	1	0	0	nrr	nnn	last		0
+1920153	1Q8	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	4	8c_e	0	0	0	0	rrrr	nnnn	last		0
+1920158	1Q8	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	4	8c_e	0	0	0	0	rrrr	nnnn	last		0
+1920234	1Q8	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	צנוף		noH	9	8c_e	0	0	0	0	rrrr	nnnn	last		0
+1920433	1Q8	Isaiah	24	19	PRR=[	PWR	PWR	CMC	CMC	qal	infa	NA		NA	verb					rrr	nnn	פור		noH	2	9b	0	0	0	0	rrr	nnn	last		0
+1924729	1Q8	Isaiah	55	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	1	24	0	0	0	0	nnnn	nnnn	last		0
+1925470	1Q8	Isaiah	58	7	PRS[	PRWS	PRWS	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	פרוס		noH	14	25	0	0	0	0	nnnn	nnnn	last		0
+1926015	1Q8	Isaiah	60	12	XRB[	XRWB	XRWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	חרוב		noH	18	26	0	0	0	0	nnnn	nnnn	last		0
+1928154	1Q11	Psalms	126	6	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	1	f1	0	0	0	0	rrrr	nnnn	last		0
+1928578	1Q13	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	11	f1_18	0	0	0	0	rrrr	nnnn	last		0
+1929090	1Q13	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f28_29	0	0	0	0	rrrr	nnnn	last		0
+1930955	2Q3	Exodus	22	15	MHR=[	MHWR	MHWR	CCMC	CCMC	qal	infa	NA		NA	verb					nrrr	nnnn	מהור		noH	2	f5	0	0	0	0	nrrr	nnnn	last		0
+1931519	2Q6	Numbers	4	2	NF>[	NF>	NF>	CCM	CCM	qal	infa	NA		NA	verb					rrr	nnn	נשא		noH	4	f2	0	0	0	0	rrr	nnn	last		0
+1933406	2Q16	Ruth	2	16	CLL=[	CL	CL	CC	CC	qal	infa	NA		NA	verb					rr	nn	של		noH	3	f1ii_4i	0	0	0	0	rr	nn	last		0
+1938363	4Q2	Genesis	2	16	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אכל		noH	3	f1ii	0	0	0	0	nnn	nnn	last		0
+1939766	4Q5	Genesis	41	43	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	נתון		noH	12	f4ii+6	0	1	0	0	rrrr	nnnn	last		0
+1941181	4Q9	Genesis	41	43	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	נתון		noH	8	f2ii	0	1	0	0	rrrr	nnnn	last		0
+1941430	4Q9	Genesis	43	7	C>L[	C>WL	C>WL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שאול		noH	3	f7_8	0	0	0	0	rrrr	nnnn	last		0
+1941458	4Q9	Genesis	43	7	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa	NA		NA	verb				H	rrrr	nnnn	ידוע		noH	4	f7_8	0	1	0	0	rrrr	nnnn	last		0
+1944211	4Q11	Exodus	18	18	NBL[	NBL	NBL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נבל		noH	2	f20	0	0	0	0	rrr	nnn	last		0
+1944506	4Q11	Exodus	23	5	<ZB[	<ZB	<ZB	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	עזב		noH	3	f23	0	0	0	0	nnn	nnn	last		0
+1946457	4Q13	Exodus	3	16	PQD[	PQWD	PQWD	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	פקוד		noH	7	f3ii+5_6i	0	0	0	0	nnnn	nnnn	last		0
+1949547	4Q14	Exodus	13	19	PQD[	PQD	PQD	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	פקד		noH	38	5	0	0	0	0	rrr	nnn	last		0
+1950905	4Q16	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	1	f1	0	0	0	0	nnnn	nnnn	last		0
+1954903	4Q22	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	19	11	0	0	0	0	rrrr	nnnn	last		0
+1955279	4Q22	Exodus	15	26	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוע		noH	11	15	0	0	0	0	rrrr	nnnn	last		0
+1956306	4Q22	Exodus	18	18	NBL[	NBL	NBL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נבל		noH	27	18	0	0	0	0	rrr	nnn	last		0
+1956793	4Q22	Exodus	19	13	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnrr	nnnn	סקול		noH	11	20	0	0	0	0	nnrr	nnnn	last		0
+1957153	4Q22	Exodus	21	22	<NC[	<NWC	<NWC	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	ענוש		noH	19	23	0	0	0	0	nnnn	nnnn	last		0
+1957244	4Q22	Exodus	21	28	SQL[	SQWL	SQWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	סקול		noH	26	23	0	0	0	0	rrrr	nnnn	last		0
+1957413	4Q22	Exodus	22	11	GNB[	GNB	GNB	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	גנב		noH	25	24	0	0	0	0	rrr	nnn	last		0
+1957422	4Q22	Exodus	22	12	VRP[	VRP	VRP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	טרף		noH	25	24	0	0	0	0	rrr	nnn	last		0
+1957504	4Q22	Exodus	22	22	Y<Q[	Y<WQ	Y<WQ	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	צעוק		noH	3	25	0	0	0	0	nnnn	nnnn	last		0
+1957507	4Q22	Exodus	22	22	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	3	25	0	0	0	0	rrr	nnn	last		0
+1957546	4Q22	Exodus	22	25	XBL[	XBL	XBL	CCC	CCC	qal	infa	NA		NA	verb					nrr	nnn	חבל		noH	6	25	0	0	0	0	nrr	nnn	last		0
+1962358	4Q23	Leviticus	15	24	CKB[	CKB	CKB	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שכב		noH	6	f7	0	0	0	0	rrr	nnn	last		0
+1963254	4Q23	Leviticus	27	13	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	גאל		noH	12	f21ii_23	0	0	0	0	rrr	nnn	last		0
+1963366	4Q23	Leviticus	27	19	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	גאל		noH	5	f24_26	0	0	0	0	rrr	nnn	last		0
+1964000	4Q23	Numbers	4	2	NF>[	NF>	NF>	CCM	CCM	qal	infa	NA		NA	verb					nnn	nnn	נשא		noH	7	f32ii+34i_43	0	0	0	0	nnn	nnn	last		0
+1967014	4Q24	Leviticus	2	6	PTT[	PTWT	PTWT	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	פתות		noH	27	f1_7	0	0	0	0	rrrr	nnnn	last		0
+1968877	4Q24	Leviticus	24	16	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	רגום		noH	20	f20ii+22_25	0	0	0	0	rrrr	nnnn	last		0
+1970053	4Q26	Leviticus	15	24	CKB[	CKB	CKB	CCC	CCC	qal	infa	NA		NA	verb					nrr	nnn	שכב		noH	4	f3	0	0	0	0	nrr	nnn	last		0
+1971160	4Q26b	Leviticus	7	24	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb				W	nnnn	nnnn	אכול		noH	7	f1	0	1	0	0	nnnn	nnnn	last		0
+1971449	4Q27	Numbers	11	32	CVX[	CVWX	CVWX	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שטוח		noH	3	f1_4	0	0	0	0	rrrr	nnnn	last		0
+1973770	4Q27	Numbers	22	38	JKL[	JKWL	JKWL	MCMC	MCMC	qal	infa	NA		NA	verb				H	nnnn	nnnn	יכול		noH	6	f23_26	0	1	0	0	nnnn	nnnn	last		0
+1975163	4Q27	Numbers	27	7	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb					nnrr	nnnn	נתון		noH	10	f42_47	0	0	0	0	nnrr	nnnn	last		0
+1979154	4Q29	Deuteronomy	31	26	LQX[	LQX	LQX	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	לקח		noH	2	f5_8	0	0	0	0	nnn	nnn	last		0
+1980042	4Q30	Deuteronomy	11	13	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	8	f12_15	0	0	0	0	nnnn	nnnn	last		0
+1980290	4Q30	Deuteronomy	15	2	CMV[	CMWV	CMWV	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוט		noH	2	f26_27	0	0	0	0	rrrr	nnnn	last		0
+1981017	4Q30	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמר		noH	3	f42	0	0	0	0	rrr	nnn	last		0
+1981095	4Q30	Deuteronomy	28	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	5	f43_45i	0	0	0	0	nnnn	nnnn	last		0
+1983034	4Q33	Deuteronomy	4	26	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אבד		noH	5	f1	0	0	0	0	rrr	nnn	last		0
+1984363	4Q33	Deuteronomy	23	22	DRC[	DRC	DRC	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	דרש		noH	4	f24_25	0	0	0	0	nnn	nnn	last		0
+1984750	4Q33	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa	NA		NA	verb					nrr	nnn	שמר		noH	3	f32_35	0	0	0	0	nrr	nnn	last		0
+1985347	4Q34	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	3	f6_9	0	0	0	0	rrrr	nnnn	last		0
+1986004	4Q35	Deuteronomy	1	16	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	13	f1	0	0	0	0	rrr	nnn	last		0
+1988573	4Q37	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	13	8	0	0	0	0	rrr	nnn	last		0
+1988794	4Q37	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrnn	nnnn	זכור		noH	9	10	0	0	0	0	rrnn	nnnn	last		0
+1989322	4Q38	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	13	f2	0	0	0	0	rrr	nnn	last		0
+1990248	4Q38a	Deuteronomy	27	1	CMR[	CMR	CMR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמר		noH	4	f6_7	0	0	0	0	rrr	nnn	last		0
+1990322	4Q38b	Deuteronomy	30	18	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אבד		noH	4	f1	0	0	0	0	nnn	nnn	last		0
+1991356	4Q41	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	9	3	0	0	0	0	nnnn	nnnn	last		0
+1993176	4Q45	Deuteronomy	7	18	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	זכר		noH	4	f5_6	0	0	0	0	rrr	nnn	last		0
+1993765	4Q45	Deuteronomy	14	21	MKR[	MKR	MKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מכר		noH	3	f21i_22	0	0	0	0	rrr	nnn	last		0
+1993857	4Q45	Deuteronomy	15	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוע		noH	2	f25	0	0	0	0	rrrr	nnnn	last		0
+1993956	4Q45	Deuteronomy	15	10	NTN[	NTN	NTN	CCC	CCC	qal	infa	NA		NA	verb					rrn	nnn	נתן		noH	5	f21ii	0	0	0	0	rrn	nnn	last		0
+1995126	4Q47	Joshua	6	9	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	8	f3_8	0	0	0	0	rrrr	nnnn	last		0
+1995128	4Q47	Joshua	6	9	TQ<[	TQW<	TQW<	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	תקוע		noH	8	f3_8	0	1	0	0	rrrr	nnnn	last		0
+1997295	4Q51	1_Samuel	2	10	JD<[	JD<	JD<	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	ידע		noH	32	2a_d	0	1	0	0	rrr	nnn	last		0
+1997577	4Q51	1_Samuel	2	25	XV>[	XVW>	XVW>	CCMM	CCMM	qal	infa	NA		NA	verb					nnnn	nnnn	חטוא		noH	18	3a_e	0	0	0	0	nnnn	nnnn	last		0
+1997602	4Q51	1_Samuel	2	25	XPY[	XPY	XPY	CCC	CCC	qal	infa	NA		NA	verb					rrn	nnn	חפץ		noH	19	3a_e	0	0	0	0	rrn	nnn	last		0
+1997651	4Q51	1_Samuel	2	28	BXR[	BXWR	BXWR	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	בחור		noH	24	3a_e	0	1	0	0	rrrr	nnnn	last		0
+1998499	4Q51	1_Samuel	6	8	HLK[	HLK	HLK	CCC	CCC	qal	infa	NA	m	NA	verb				W	rrr	nnn	הלך		noH	22	6a_b	0	1	0	0	rrr	nnn	last		0
+2000368	4Q51	1_Samuel	14	29	<KR[	<KWR	<KWR	CCMC	CCMC	qal	infa	NA	m	NA	verb					nnnn	nnnn	עכור		noH	3	f3_5	0	0	0	0	nnnn	nnnn	last		0
+2000389	4Q51	1_Samuel	14	30	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	4	f3_5	0	0	0	0	rrrr	nnnn	last		0
+2001324	4Q51	1_Samuel	24	21	MLK[	MLK	MLK	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מלך		noH	11	f26_27	0	0	0	0	rrr	nnn	last		0
+2002131	4Q51	1_Samuel	28	1	JD<[	JDW<	JDW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	ידוע		noH	10	f43	0	0	0	0	nnnn	nnnn	last		0
+2004019	4Q51	2_Samuel	4	11	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הרג		noH	4	f61ii+63_64a_b+65_67	0	0	0	0	nnn	nnn	last		0
+2004265	4Q51	2_Samuel	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	21	f61ii+63_64a_b+65_67	0	0	0	0	rrrr	nnnn	last		0
+2004425	4Q51	2_Samuel	5	19	NTN[	NTWN	NTWN	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	נתון		noH	32	f61ii+63_64a_b+65_67	0	0	0	0	rrrr	nnnn	last		0
+2006603	4Q51	2_Samuel	13	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	10	f102ii+103_106i+107_109a_b	0	0	0	0	rrrr	nnnn	last		0
+2006605	4Q51	2_Samuel	13	19	Z<Q[	Z<Q	Z<Q	CCC	CCC	qal	infa	NA	f	NA	verb				W	rrr	nnn	זעק		noH	10	f102ii+103_106i+107_109a_b	0	1	0	0	rrr	nnn	last		0
+2007864	4Q51	2_Samuel	16	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rnrr	nnnn	הלוך		noH	5	f120	0	0	0	0	rnrr	nnnn	last		0
+2007868	4Q51	2_Samuel	16	13	SQL[	SQL	SQL	CCC	CCC	qal	infa	NA	m	NA	verb				W	rrr	nnn	סקל		noH	5	f120	0	1	0	0	rrr	nnn	last		0
+2008189	4Q51	2_Samuel	18	2	JY>[	JYW>	JYW>	CCCM	CCCM	qal	infa	NA		NA	verb					rrrr	nnnn	יצוא		noH	7	f128_132	0	0	0	0	rrrr	nnnn	last		0
+2012199	4Q52	1_Samuel	23	10	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	2	f10_23	0	0	0	0	nnn	nnn	last		0
+2015224	4Q55	Isaiah	20	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	18	f10_11i+12_14	0	0	0	0	nnnn	nnnn	last		0
+2015382	4Q55	Isaiah	21	5	<RK[	<RK	<RK	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	ערך		noH	26	f10_11i+12_14	0	0	0	0	rrr	nnn	last		0
+2015388	4Q55	Isaiah	21	5	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	26	f10_11i+12_14	0	0	0	0	rrrr	nnnn	last		0
+2015583	4Q55	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	הרג		noH	13	f11ii+15	0	0	0	0	rrr	nnn	last		0
+2015586	4Q55	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	שחט		noH	13	f11ii+15	0	1	0	0	rrr	nnn	last		0
+2015588	4Q55	Isaiah	22	13	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אכל		noH	13	f11ii+15	0	0	0	0	rrr	nnn	last		0
+2015593	4Q55	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	13	f11ii+15	0	0	0	0	rrrr	nnnn	last		0
+2015669	4Q55	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	צנוף		noH	18	f11ii+15	0	0	0	0	nnnn	nnnn	last		0
+2016407	4Q56	Isaiah	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	12	f3i	0	0	0	0	rrrr	nnnn	last		0
+2016409	4Q56	Isaiah	3	16	VPP[	VPP	VPP	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	טפף		noH	12	f3i	0	1	0	0	rrr	nnn	last		0
+2017713	4Q56	Isaiah	19	22	NGP[	NGP	NGP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	נגף		noH	31	f10_13	0	0	0	0	rrr	nnn	last		0
+2017715	4Q56	Isaiah	19	22	RP>[	RPW>	RPW>	CCMM	CCMM	qal	infa	NA		NA	verb				W	rrrr	nnnn	רפוא		noH	31	f10_13	0	1	0	0	rrrr	nnnn	last		0
+2017833	4Q56	Isaiah	20	2	HLK[	HLK	HLK	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הלך		noH	40	f10_13	0	0	0	0	nnn	nnn	last		0
+2018502	4Q56	Isaiah	37	30	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אכל		noH	2	f22_23	0	0	0	0	nnn	nnn	last		0
+2018524	4Q56	Isaiah	37	30	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA	m	NA	verb				W	nnnn	nnnn	אכול		noH	3	f22_23	0	1	0	0	nnnn	nnnn	last		0
+2019616	4Q56	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	בגוד		noH	7	f33ii	0	0	0	0	rrrr	nnnn	last		0
+2020939	4Q57	Isaiah	22	13	HRG[	HRG	HRG	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	הרג		noH	27	f9i	0	0	0	0	rrr	nnn	last		0
+2020942	4Q57	Isaiah	22	13	CXV[	CXV	CXV	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	שחט		noH	27	f9i	0	1	0	0	rrr	nnn	last		0
+2020944	4Q57	Isaiah	22	13	>KL[	>KL	>KL	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אכל		noH	27	f9i	0	0	0	0	rrr	nnn	last		0
+2020949	4Q57	Isaiah	22	13	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	אכול		noH	27	f9i	0	0	0	0	nnnn	nnnn	last		0
+2021405	4Q57	Isaiah	24	19	PRR=[	PWR	PWR	CMC	CMC	qal	infa	NA		NA	verb					rrr	nnn	פור		noH	6	f13	0	0	0	0	rrr	nnn	last		0
+2021457	4Q57	Isaiah	24	22	>SP[	>SWP	>SWP	CCMC	CCMC	qal	infa	sg		NA	verb					nnnn	nnnn	אסוף		noH	9	f13	0	0	0	0	nnnn	nnnn	last		0
+2023445	4Q57	Isaiah	55	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוע		noH	12	f44_47	0	0	0	0	rrrr	nnnn	last		0
+2024078	4Q58	Isaiah	48	8	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	בגוד		noH	17	3	0	0	0	0	rrrr	nnnn	last		0
+2025327	4Q58	Isaiah	58	7	PRS[	PRS	PRS	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	פרס		noH	22	12	0	0	0	0	nnn	nnn	last		0
+2027173	4Q60	Isaiah	7	16	M>S[	M>S	M>S	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	מאס		noH	24	f12i	0	0	0	0	rrr	nnn	last		0
+2027177	4Q60	Isaiah	7	16	BXR[	BXR	BXR	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	בחר		noH	24	f12i	0	1	0	0	rrr	nnn	last		0
+2027540	4Q60	Isaiah	22	18	YNP[	YNWP	YNWP	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	צנוף		noH	6	f17	0	0	0	0	nnnn	nnnn	last		0
+2028187	4Q61	Isaiah	42	20	PQX[	PQWX	PQWX	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	פקוח		noH	7	f1_8	0	0	0	0	rrrr	nnnn	last		0
+2028259	4Q61	Isaiah	42	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	11	f1_8	0	0	0	0	rrrr	nnnn	last		0
+2028859	4Q64	Isaiah	28	28	>DC[	>DWC	>DWC	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אדוש		noH	3	f1_5	0	0	0	0	rrrr	nnnn	last		0
+2030150	4Q70	Jeremiah	8	13	>SP[	>SP	>SP	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אסף		noH	18	f3+4i+5_7	0	0	0	0	rrr	nnn	last		0
+2031017	4Q70	Jeremiah	12	16	LMD[	LMD	LMD	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	למד		noH	5	f17_20	0	0	0	0	nnn	nnn	last		0
+2031054	4Q70	Jeremiah	12	17	NTC[	NTWC	NTWC	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	נתוש		noH	1	f21_22i	0	0	0	0	nnnn	nnnn	last		0
+2031064	4Q70	Jeremiah	13	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	2	f21_22i	0	0	0	0	nnnn	nnnn	last		0
+2031221	4Q70	Jeremiah	14	5	<ZB[	<ZWB	<ZWB	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrnr	nnnn	עזוב		noH	1	f22ii	0	1	0	0	rrnr	nnnn	last		0
+2031459	4Q70	Jeremiah	17	19	HLK[	HWLWK	HWLWK	CMCMC	CMCMC	qal	infa	NA		NA	verb					nnnnn	nnnnn	הולוך		noH	9	f26_28	0	0	0	0	nnnnn	nnnnn	last		0
+2031574	4Q70	Jeremiah	17	24	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמוע		noH	14	f26_28	0	0	0	0	nnnn	nnnn	last		0
+2031868	4Q70	Jeremiah	19	1	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	13	f29	0	0	0	0	rrrr	nnnn	last		0
+2032271	4Q70	Jeremiah	22	14	MCX[	MCWX	MCWX	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	משוח		noH	29	f32ii_35	0	1	0	0	rrrr	nnnn	last		0
+2032453	4Q71	Jeremiah	9	23	JD<[	JD<	JD<	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	ידע		noH	2	f1	0	1	0	0	rrr	nnn	last		0
+2032615	4Q71	Jeremiah	10	5	NF>[	NFW>	NFW>	CCMM	CCMM	qal	infa	NA		NA	verb					rrrr	nnnn	נשוא		noH	7	f1	0	0	0	0	rrrr	nnnn	last		0
+2033091	4Q72	Jeremiah	9	3	<QB[	<QWB	<QWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnr	nnnn	עקוב		noH	9	f4_5	0	0	0	0	nnnr	nnnn	last		0
+2033664	4Q72	Jeremiah	22	14	QR<[	QRW<	QRW<	CCMC	CCMC	qal	infa	NA	m	NA	verb					nnnn	nnnn	קרוע		noH	13	f14_18	0	0	0	0	nnnn	nnnn	last		0
+2033672	4Q72	Jeremiah	22	14	MCX[	MCWX	MCWX	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	משוח		noH	13	f14_18	0	1	0	0	rrrr	nnnn	last		0
+2033772	4Q72	Jeremiah	22	19	SXB[	SXWB	SXWB	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	סחוב		noH	4	f19_21	0	0	0	0	nnnn	nnnn	last		0
+2034590	4Q72	Jeremiah	31	2	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	16	f34ii+36_43	0	0	0	0	nnnn	nnnn	last		0
+2034872	4Q72	Jeremiah	31	20	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	זכר		noH	9	f47_48ii+51_54	0	0	0	0	rrr	nnn	last		0
+2035376	4Q72b	Jeremiah	50	4	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	הלוך		noH	1	f1	0	0	0	0	rrrr	nnnn	last		0
+2036100	4Q73	Ezekiel	23	46	NTN[	NTN	NTN	CCC	CCC	qal	infa	NA		NA	verb				W	nnr	nnn	נתן		noH	4	f3ii	0	1	0	0	nnr	nnn	last		0
+2037584	4Q77	Zephaniah	1	2	>SP[	>SP	>SP	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אסף		noH	1	f1	0	0	0	0	nnn	nnn	last		0
+2037976	4Q78	Hosea	4	2	RYX[	RYX	RYX	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	רצח		noH	1	f4_7	0	1	0	0	rrr	nnn	last		0
+2037978	4Q78	Hosea	4	2	GNB[	GNB	GNB	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	גנב		noH	1	f4_7	0	1	0	0	rrr	nnn	last		0
+2037980	4Q78	Hosea	4	2	N>P[	N>P	N>P	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	נאף		noH	1	f4_7	0	1	0	0	rrr	nnn	last		0
+2039510	4Q78	Amos	3	5	LKD[	LKWD	LKWD	CCMC	CCMC	qal	infa	NA		NA	verb				W	nnnn	nnnn	לכוד		noH	8	f21_23	0	1	0	0	nnnn	nnnn	last		0
+2040277	4Q79	Hosea	1	6	NF>[	NF>	NF>	CCM	CCM	qal	infa	NA		NA	verb					rrr	nnn	נשא		noH	1	f1_2	0	0	0	0	rrr	nnn	last		0
+2042687	4Q82	Hosea	10	4	KRT[	KRT	KRT	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	כרת		noH	13	f15_26	0	0	0	0	rrr	nnn	last		0
+2046420	4Q82	Micah	2	4	CDD[	CDWD	CDWD	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שדוד		noH	11	f91ii+93_94i	0	0	0	0	rrrr	nnnn	last		0
+2053944	4Q98	Psalms	35	16	XRQ[	XRQ	XRQ	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	חרק		noH	7	2	0	0	0	0	rrr	nnn	last		0
+2054855	4Q99	Job	37	2	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	11	f16ii	0	0	0	0	nnn	nnn	last		0
+2057588	4Q111	Lamentations	1	8	XV>[	XVW>	XVW>	CCMM	CCMM	qal	infa	NA		NA	verb					nnnn	nnnn	חטוא		noH	5	2	0	0	0	0	nnnn	nnnn	last		0
+2062886	4Q128	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	6	f1	0	0	0	0	rrrr	nnnn	last		0
+2063672	4Q128	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	37	f1	0	0	0	0	rrr	nnn	last		0
+2064037	4Q128	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnr	nnnn	זכור		noH	52	f1	0	0	0	0	nnnr	nnnn	last		0
+2064350	4Q129	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	6	f1R	0	0	0	0	rrrr	nnnn	last		0
+2065106	4Q130	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f1	0	0	0	0	rrrr	nnnn	last		0
+2065517	4Q130	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	19	f1	0	0	0	0	rrr	nnn	last		0
+2066287	4Q134	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	18	f1	0	0	0	0	rrrr	nnnn	last		0
+2067296	4Q136	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	11	f1	0	0	0	0	nnnn	nnnn	last		0
+2067730	4Q137	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	19	f1	0	0	0	0	nnnn	nnnn	last		0
+2068854	4Q139	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	4	f1	0	0	0	0	rrrr	nnnn	last		0
+2069264	4Q140	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	9	f1	0	0	0	0	rrrr	nnnn	last		0
+2069922	4Q142	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמור		noH	7	f1	0	0	0	0	rrrr	nnnn	last		0
+2070306	4Q144	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	6	f1R	0	0	0	0	rrr	nnn	last		0
+2070581	4Q145	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f1R	0	0	0	0	rrrr	nnnn	last		0
+2070824	4Q149	Exodus	20	8	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	2	f1	0	0	0	0	rrrr	nnnn	last		0
+2071724	4Q154	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	3	f1	0	0	0	0	nnnn	nnnn	last		0
+2072098	5Q1	Deuteronomy	7	18	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					rnn	nnn	זכר		noH	3	1	0	0	0	0	rnn	nnn	last		0
+2072503	5Q1	Deuteronomy	8	19	CKX[	CKX	CKX	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שכח		noH	11	2	0	0	0	0	rrr	nnn	last		0
+2072530	5Q1	Deuteronomy	8	19	>BD[	>BD	>BD	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	אבד		noH	12	2	0	0	0	0	rrr	nnn	last		0
+2076052	8Q2	Psalms	17	5	TMK[	TMK	TMK	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	תמך		noH	1	f1_6	0	0	0	0	nnn	nnn	last		0
+2076251	8Q3	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	זכור		noH	3	f1_11i	0	0	0	0	rrrr	nnnn	last		0
+2076568	8Q3	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	24	f1_11i	0	0	0	0	nnn	nnn	last		0
+2077471	8Q3	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	23	f17_25	0	0	0	0	nnnn	nnnn	last		0
+2078608	8Q4	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					rrr	nnn	שמע		noH	32	f1	0	0	0	0	rrr	nnn	last		0
+2081108	11Q1	Leviticus	27	13	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	גאל		noH	2	6	0	0	0	0	nnn	nnn	last		0
+2081229	11Q1	Leviticus	27	19	G>L[	G>L	G>L	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	גאל		noH	9	6	0	0	0	0	nnn	nnn	last		0
+2083717	11Q5	Psalms	126	6	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	הלוך		noH	14	4	0	0	0	0	nnnn	nnnn	last		0
+2086635	11Q5	2_Samuel	23	7	FRP[	FRWPP	FRWPP	CCMCC	CCMCC	qal	infa	NA		NA	verb					nnnnn	nnnnn	שרופף		noH	1	27	0	0	0	0	nnnnn	nnnnn	last		0
+2088680	Xq1	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	9	1	0	0	0	0	nnnn	nnnn	last		0
+2089697	Xq3	Deuteronomy	5	12	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	שמור		noH	19	1	0	0	0	0	nnnn	nnnn	last		0
+2090789	Mur2	Deuteronomy	15	2	CMV[	CMWV	CMWV	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	שמוט		noH	1	f3	0	0	0	0	rrrr	nnnn	last		0
+2091000	Mur4	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	10	f1	0	0	0	0	nnnn	nnnn	last		0
+2091322	Mur4	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	76	f1	0	0	0	0	nnn	nnn	last		0
+2091639	Mur88	Joel	2	26	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	אכול		noH	8	2	0	0	0	0	rrrr	nnnn	last		0
+2091641	Mur88	Joel	2	26	FB<[	FBW<	FBW<	CCMC	CCMC	qal	infa	NA		NA	verb				W	rrrr	nnnn	שבוע		noH	8	2	0	1	0	0	rrrr	nnnn	last		0
+2094951	Mur88	Micah	2	4	CDD[	CDWD	CDWD	CCMC	CCMC	qal	infa	NA		NA	verb					rnnn	nnnn	שדוד		noH	21	12	0	0	0	0	rnnn	nnnn	last		0
+2095077	Mur88	Micah	2	12	>SP[	>SP	>SP	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	אסף		noH	30	12	0	0	0	0	nnn	nnn	last		0
+2096707	Mur88	Nahum	2	2	NYR[	NYWR	NYWR	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	נצור		noH	27	16	0	0	0	0	rrrr	nnnn	last		0
+2097121	Mur88	Nahum	3	13	PTX[	PTWX	PTWX	CCMC	CCMC	qal	infa	NA		NA	verb					rrnn	nnnn	פתוח		noH	22	17	0	0	0	0	rrnn	nnnn	last		0
+2098959	Mur88	Haggai	1	6	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					nrrr	nnnn	אכול		noH	30	21	0	0	0	0	nrrr	nnnn	last		0
+2098969	Mur88	Haggai	1	6	LBC[	LBWC	LBWC	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	לבוש		noH	31	21	0	0	0	0	nnnn	nnnn	last		0
+2101991	Xhev/se2	Numbers	27	7	NTN[	NTN	NTN	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	נתן		noH	31	1	0	0	0	0	nnn	nnn	last		0
+2102341	Xhev/se5	Exodus	13	3	ZKR[	ZKR	ZKR	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	זכר		noH	1	f1	0	0	0	0	nnn	nnn	last		0
+2102740	Xhev/se5	Deuteronomy	11	13	CM<[	CM<	CM<	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	שמע		noH	10	f1	0	0	0	0	nnn	nnn	last		0
+2102956	34Se1	Exodus	13	3	ZKR[	ZKWR	ZKWR	CCMC	CCMC	qal	infa	NA		NA	verb					nnnn	nnnn	זכור		noH	2	f1	0	0	0	0	nnnn	nnnn	last		0
+2104212	Mas1b	Leviticus	10	16	DRC[	DRC	DRC	CCC	CCC	qal	infa	NA		NA	verb					nnr	nnn	דרש		noH	18	3	0	0	0	0	nnr	nnn	last		0
+2104272	Mas1b	Leviticus	10	18	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa	NA		NA	verb					rrrn	nnnn	אכול		noH	23	3	0	0	0	0	rrrn	nnnn	last		0
+2105372	Mas1d	Ezekiel	36	3	C>P[	C>P	C>P	CCC	CCC	qal	infa	NA		NA	verb				W	rrr	nnn	שאף		noH	14	1	0	1	0	0	rrr	nnn	last		0
+2107473	Arugleviticus	Leviticus	24	16	RGM[	RGWM	RGWM	CCMC	CCMC	qal	infa	NA		NA	verb					rrrr	nnnn	רגום		noH	12	fB+Cii	0	0	0	0	rrrr	nnnn	last		0
+2107830	Xjudges	Judges	4	9	HLK[	HLK	HLK	CCC	CCC	qal	infa	NA		NA	verb					nnn	nnn	הלך		noH	11	f3_7i	0	0	0	0	nnn	nnn	last		0

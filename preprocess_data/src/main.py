@@ -26,7 +26,7 @@ from matres_column_participles import ParticiplesCorrector, MatresColumnAdderAct
 
 # For infc
 from matres_column_infc import InfcLamedHeCorrector, MatresColumnAdderInfinitiveConstructLamedHe, InfcOtherCorrector, \
-     MatresColumnAdderInfinitiveConstructTriliteral
+     MatresColumnAdderInfinitiveTriliteral
 
 # for particles
 from remove_useless_particles import UselessParticleRemover
@@ -62,31 +62,39 @@ def main():
     # other_infc.to_csv('../data/other_infc.csv', sep='\t', index=False)
     # # TODO: add some columns, see nouns_adjvs
 
-    #niph_hiph_pe_yod = get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
-    #print(niph_hiph_pe_yod.shape)
-    #niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
+    niph_hiph_pe_yod = get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
+    print(niph_hiph_pe_yod.shape)
+    niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
 
     #particles = get_particles(corpus, mt, matres_pattern_dataset)
     #print(particles.shape)
     #particles.to_csv('../data/particles.csv', sep='\t', index=False)
 
 
-    qal_inf_abs = get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset)
-    print(qal_inf_abs.shape)
-    qal_inf_abs.to_csv('../data/qal_inf_abs.csv', sep='\t', index=False)
+    #qal_inf_abs = get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset)
+    #print(qal_inf_abs.shape)
+    #qal_inf_abs.to_csv('../data/qal_inf_abs.csv', sep='\t', index=False)
 
 
 def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='niph_hiph_pe_yod')
     mt_niph_hiph_pe_yod_df = basic_mt_data_selector.select_data()
 
-    mt_niph_hiph_pe_yod_df = mt_niph_hiph_pe_yod_df[(mt_niph_hiph_pe_yod_df.vs == 'hif') |
-                                                    ((mt_niph_hiph_pe_yod_df.vs == 'nif') &
-                                                     mt_niph_hiph_pe_yod_df.vt.isin({'perf', 'ptca'}))]
+    #mt_niph_hiph_pe_yod_df = mt_niph_hiph_pe_yod_df[(mt_niph_hiph_pe_yod_df.vs == 'hif') |
+    #                                                ((mt_niph_hiph_pe_yod_df.vs == 'nif') &
+    #                                                 mt_niph_hiph_pe_yod_df.vt.isin({'perf', 'ptca'}))]
 
     # exclude lexeme JVB[
+    # At some point split hiphil from niphal and select data separately.
 
-    return mt_niph_hiph_pe_yod_df
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='niph_hiph_pe_yod',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+
+    niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.dss_matres_df])
+    niph_hiph_pe_yod_df = niph_hiph_pe_yod_df.sort_values(by=['tf_id'])
+
+    return niph_hiph_pe_yod_df
 
 
 def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
@@ -125,6 +133,10 @@ def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
 
     useless_roots_inf_abs = UselessRootsInfAbsRemover(qal_inf_abs_df)
     qal_inf_abs_df = useless_roots_inf_abs.no_lamed_he
+
+    # add has_vowel_letter has_syllable_recs
+    matres_column_adder_infin_trilit = MatresColumnAdderInfinitiveTriliteral(qal_inf_abs_df)
+    qal_inf_abs_df = matres_column_adder_infin_trilit.data
 
     # Strange case in dataset:
     # in 4Q56 2x inf abs in 37:30, waar komen die vandaan, niet in andere manuscr.

@@ -5,6 +5,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1769	MT	Genesis	4	7	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
 1774	MT	Genesis	4	7	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
 1860	MT	Genesis	4	12	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	f	p3	verb					nnn	nnn
+1968	MT	Genesis	4	18	JLD[	JWLD	JWLD	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 2157	MT	Genesis	5	3	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 2172	MT	Genesis	5	4	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
 2179	MT	Genesis	5	4	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
@@ -35,9 +36,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2592	MT	Genesis	5	32	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 2784	MT	Genesis	6	10	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 3746	MT	Genesis	8	10	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+3781	MT	Genesis	8	12	JXL[	JJXL	JJXL	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 3897	MT	Genesis	8	17	JY>[	HWY>	HWY>			hif	impv	sg	m	p2	verb					nnnn	nnnn
 3983	MT	Genesis	8	21	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg	unknown	p1	verb					nnn	nnn
 4004	MT	Genesis	8	21	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg	unknown	p1	verb					nnn	nnn
+4549	MT	Genesis	10	1	JLD[	JWLDW	JWLD	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 5145	MT	Genesis	11	10	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 5156	MT	Genesis	11	11	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W				nnnnnn	nnnnnn
 5163	MT	Genesis	11	11	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
@@ -70,6 +73,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 6560	MT	Genesis	14	18	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 6746	MT	Genesis	15	5	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 6785	MT	Genesis	15	7	JY>[	HWY>TJK	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
+7613	MT	Genesis	17	17	JLD[	JWLD	JWLD	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 7677	MT	Genesis	17	20	JLD[	JWLJD	JWLJD	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 8289	MT	Genesis	18	27	J>L[	HW>LTJ	HW>L	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
 8324	MT	Genesis	18	29	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
@@ -81,6 +85,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 8806	MT	Genesis	19	17	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			K	nnnnnn	nnnnnn
 9588	MT	Genesis	20	16	JKX[	NKXT	NKX	CCC	CCCC	nif	ptca	sg	f	unknown	verb		T		W	nnnn	nnnn
 9662	MT	Genesis	21	3	JLD[	NWLD	NWLD	CMCC	CMCC	nif	perf	sg	m	p3	verb				H	nnnn	nnnn
+9689	MT	Genesis	21	5	JLD[	HWLD	HWLD	CCCC	CCCC	nif	infc		unknown	unknown	verb				B	nnnn	nnnn
 9712	MT	Genesis	21	7	JNQ[	HJNJQH	HJNJQ	CMCMC	CMCMCM	hif	perf	sg	f	p3	verb					nnnnnn	nnnnnn
 10067	MT	Genesis	21	25	JKX[	HWKX	HWKX	CMCC	CMCC	hif	perf	sg	m	p3	verb				W	nnnn	nnnn
 11405	MT	Genesis	24	14	JKX[	HKXT	HKX	CCC	CCCC	hif	perf	sg	m	p2	verb					nnnn	nnnn
@@ -101,6 +106,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 17684	MT	Genesis	32	13	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
 17685	MT	Genesis	32	13	JVB[	>JVJB	>JVJB	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 17730	MT	Genesis	32	16	JNQ[	MJNJQWT	MJNJQ	CMCMC	CMCMCMC	hif	ptca	pl	f	unknown	verb		WT			nnnnnnn	nnnnnnn
+17925	MT	Genesis	32	25	JTR[	JWTR	JWTR	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 18354	MT	Genesis	33	15	JYG[	>YJGH	>YJG	CCMC	CCMCM	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 20256	MT	Genesis	37	5	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 20308	MT	Genesis	37	8	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
@@ -110,6 +116,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 21436	MT	Genesis	39	1	JRD[	HWRDHW	HWRD	CMCC	CMCCCM	hif	perf	pl	unknown	p3	verb	HW				nnnnnn	nnnnnn
 22177	MT	Genesis	40	14	JY>[	HWY>TNJ	HWY>	CMCM	CMCMCCM	hif	perf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
 22734	MT	Genesis	41	21	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+22906	MT	Genesis	41	31	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 23061	MT	Genesis	41	39	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
 24134	MT	Genesis	42	38	JRD[	HWRDTM	HWRD	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
 24266	MT	Genesis	43	7	JRD[	HWRJDW	HWRJD	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
@@ -118,12 +125,15 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 24582	MT	Genesis	43	22	JRD[	HWRDNW	HWRD	CMCC	CMCCCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
 24614	MT	Genesis	43	23	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 25025	MT	Genesis	44	11	JRD[	JWRDW	JWRD	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+25210	MT	Genesis	44	20	JTR[	JWTR	JWTR	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 25223	MT	Genesis	44	21	JRD[	HWRDHW	HWRD	CMCC	CMCCCM	hif	impv	pl	m	p2	verb	HW				nnnnnn	nnnnnn
 25259	MT	Genesis	44	23	JSP[	TSPWN	TSP	CCC	CCCMC	hif	impf	pl	m	p2	verb					nnnnn	nnnnn
 25352	MT	Genesis	44	29	JRD[	HWRDTM	HWRD	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
 25386	MT	Genesis	44	31	JRD[	HWRJDW	HWRJD	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnnn	nnnnnn
 25466	MT	Genesis	45	1	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
+25676	MT	Genesis	45	11	JRC[	TWRC	TWRC	CCCC	CCCC	nif	impf	sg	m	p2	verb					nnnn	nnnn
 25714	MT	Genesis	45	13	JRD[	HWRDTM	HWRD	CMCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
+26298	MT	Genesis	46	20	JLD[	JWLD	JWLD	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 26429	MT	Genesis	46	28	JRH[	HWRT	HWR	CMC	CMCC	hif	infc		unknown	unknown	verb		T		L	nnnn	nnnn
 26594	MT	Genesis	47	2	JYG[	JYGM	JYG	CCC	CCCC	hif	wayq	sg	m	p3	verb	M			W	nnnn	nnnn
 26671	MT	Genesis	47	6	JCB[	HWCB	HWCB	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
@@ -159,6 +169,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 31873	MT	Exodus	7	5	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
 32686	MT	Exodus	8	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
 32962	MT	Exodus	8	25	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
+33401	MT	Exodus	9	18	JSD[	HWSDH	HWSD	CCCC	CCCCM	nif	infc		unknown	unknown	verb		H			nnnnn	nnnnn
 33648	MT	Exodus	9	28	JSP[	TSPWN	TSP	CCC	CCCMC	hif	impf	pl	m	p2	verb					nnnnn	nnnnn
 33759	MT	Exodus	9	34	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 34181	MT	Exodus	10	15	JTR[	HWTJR	HWTJR	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
@@ -192,6 +203,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 38499	MT	Exodus	18	1	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 38810	MT	Exodus	18	16	JD<[	HWD<TJ	HWD<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
 38888	MT	Exodus	18	20	JD<[	HWD<T	HWD<	CMCC	CMCCC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
+39333	MT	Exodus	19	13	JRH=[	JJRH	JJRH	CCCM	CCCM	nif	impf	sg	m	p3	verb					nnnn	nnnn
 39417	MT	Exodus	19	17	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 39611	MT	Exodus	20	2	JY>[	HWY>TJK	HWY>	CMCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
 40568	MT	Exodus	21	36	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
@@ -199,15 +211,20 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 41861	MT	Exodus	24	12	JRH[	HWRTM	HWR	CMC	CMCCC	hif	infc		unknown	unknown	verb	M	T		L	nnnnn	nnnnn
 42297	MT	Exodus	25	22	J<D[	NW<DTJ	NW<D	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
 43905	MT	Exodus	28	10	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+45275	MT	Exodus	29	34	JTR[	JWTR	JWTR	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 45291	MT	Exodus	29	34	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
+45453	MT	Exodus	29	42	J<D[	>W<D	>W<D	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 45461	MT	Exodus	29	43	J<D[	N<DTJ	N<D	CCC	CCCCM	nif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
 45507	MT	Exodus	29	46	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+45620	MT	Exodus	30	6	J<D[	>W<D	>W<D	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 45636	MT	Exodus	30	7	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	W			B	nnnnnn	nnnnnn
+46128	MT	Exodus	30	36	J<D[	>W<D	>W<D	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 46737	MT	Exodus	32	11	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
 46755	MT	Exodus	32	12	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn
 47389	MT	Exodus	33	5	JRD[	HWRD	HWRD	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
 47562	MT	Exodus	33	12	JD<[	HWD<TNJ	HWD<	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
 47587	MT	Exodus	33	13	JD<[	HWD<NJ	HWD<	CMCC	CMCCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnn	nnnnnn
+47627	MT	Exodus	33	16	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 48012	MT	Exodus	34	10	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
 48242	MT	Exodus	34	24	JRC[	>WRJC	>WRJC	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 49114	MT	Exodus	35	34	JRH[	HWRT	HWR	CMC	CMCC	hif	infc		unknown	unknown	verb		T		WL	nnnn	nnnn
@@ -241,6 +258,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 64215	MT	Leviticus	19	25	JSP[	HWSJP	HWSJP	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
 64320	MT	Leviticus	19	33	JNH[	TWNW	TWN	CMC	CMCM	hif	impf	pl	m	p2	verb					nnnn	nnnn
 64376	MT	Leviticus	19	36	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+65851	MT	Leviticus	22	27	JLD[	JWLD	JWLD	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 65901	MT	Leviticus	22	30	JTR[	TWTJRW	TWTJR	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
 65931	MT	Leviticus	22	33	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
 66754	MT	Leviticus	23	43	JCB[	HWCBTJ	HWCB	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
@@ -256,6 +274,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 68300	MT	Leviticus	26	10	JCN[	NWCN	NWCN	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
 68306	MT	Leviticus	26	10	JY>[	TWYJ>W	TWYJ>	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
 68336	MT	Leviticus	26	13	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+68532	MT	Leviticus	26	23	JSR[	TWSRW	TWSR	CCCC	CCCCM	nif	impf	pl	m	p2	verb					nnnnn	nnnnn
 68928	MT	Leviticus	26	45	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
 69306	MT	Leviticus	27	18	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	pl	f	unknown	verb		T		H	nnnnn	nnnnn
 69556	MT	Leviticus	27	31	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn
@@ -279,6 +298,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 80050	MT	Numbers	15	41	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
 80150	MT	Numbers	16	5	JD<[	JD<	JD<	CCC	CCC	hif	impf	sg	m	p3	verb				W	nnn	nnn
 80263	MT	Numbers	16	11	J<D[	N<DJM	N<D	CCC	CCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn
+81120	MT	Numbers	17	19	J<D[	>W<D	>W<D	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 81208	MT	Numbers	17	23	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 81217	MT	Numbers	17	24	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 82053	MT	Numbers	19	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
@@ -295,6 +315,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 85675	MT	Numbers	25	4	JQ<[	HWQ<	HWQ<	CMCC	CMCC	hif	impv	sg	m	p2	verb				W	nnnn	nnnn
 86349	MT	Numbers	26	29	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 86755	MT	Numbers	26	58	JLD[	HWLD	HWLD	CMCC	CMCC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+86786	MT	Numbers	26	60	JLD[	JWLD	JWLD	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 86891	MT	Numbers	26	65	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
 86971	MT	Numbers	27	3	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
 87205	MT	Numbers	27	17	JY>[	JWYJ>M	JWYJ>	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn
@@ -329,6 +350,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 97812	MT	Deuteronomy	7	17	JRC[	HWRJCM	HWRJC	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
 97853	MT	Deuteronomy	7	19	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
 97899	MT	Deuteronomy	7	21	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+97972	MT	Deuteronomy	7	25	JQC[	TWQC	TWQC	CCCC	CCCC	nif	impf	sg	m	p2	verb					nnnn	nnnn
 98072	MT	Deuteronomy	8	3	JD<[	HWD<K	HWD<	CMCC	CMCCC	hif	infc		unknown	unknown	verb	K				nnnnn	nnnnn
 98261	MT	Deuteronomy	8	14	JY>[	MWYJ>K	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn
 98277	MT	Deuteronomy	8	15	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
@@ -352,6 +374,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 101300	MT	Deuteronomy	13	12	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
 101354	MT	Deuteronomy	13	15	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
 101941	MT	Deuteronomy	14	28	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+102384	MT	Deuteronomy	15	19	JLD[	JWLD	JWLD	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 102483	MT	Deuteronomy	16	1	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn
 103017	MT	Deuteronomy	17	4	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
 103032	MT	Deuteronomy	17	5	JY>[	HWY>T	HWY>	CMCM	CMCMC	hif	perf	sg	m	p2	verb				W	nnnnn	nnnnn
@@ -373,6 +396,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 105662	MT	Deuteronomy	22	21	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnnn	nnnnnn
 105739	MT	Deuteronomy	22	24	JY>[	HWY>TM	HWY>	CMCM	CMCMCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn
 105854	MT	Deuteronomy	22	27	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+106034	MT	Deuteronomy	23	9	JLD[	JWLDW	JWLD	CCCC	CCCCM	nif	impf	pl	m	p3	verb					nnnnn	nnnnn
 106188	MT	Deuteronomy	23	17	JNH[	TWNNW	TWN	CMC	CMCCM	hif	impf	sg	m	p2	verb	W				nnnnn	nnnnn
 106529	MT	Deuteronomy	24	8	JRH[	JWRW	JWR	CMC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
 106580	MT	Deuteronomy	24	11	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
@@ -422,6 +446,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 118874	MT	Joshua	10	23	JY>[	JYJ>W	JYJ>	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 118903	MT	Joshua	10	24	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			K	nnnnnn	nnnnnn
 119000	MT	Joshua	10	27	JRD[	JRJDWM	JRJD	CCMC	CCMCMC	hif	wayq	pl	m	p3	verb	M			W	nnnnnn	nnnnnn
+119534	MT	Joshua	11	5	J<D[	JW<DW	JW<D	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 119693	MT	Joshua	11	11	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
 119966	MT	Joshua	11	22	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
 120484	MT	Joshua	13	6	JRC[	>WRJCM	>WRJC	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
@@ -438,6 +463,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 122709	MT	Joshua	17	13	JRC[	HWRC	HWRC	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
 122711	MT	Joshua	17	13	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn
 122840	MT	Joshua	17	18	JRC[	TWRJC	TWRJC	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+122871	MT	Joshua	18	2	JTR[	JWTRW	JWTR	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 124506	MT	Joshua	21	5	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
 124789	MT	Joshua	21	20	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
 124890	MT	Joshua	21	26	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
@@ -496,6 +522,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 132496	MT	Judges	8	16	JD<[	JD<	JD<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 132619	MT	Judges	8	22	JC<[	HWC<TNW	HWC<	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
 132720	MT	Judges	8	27	JYG[	JYG	JYG	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+132985	MT	Judges	9	5	JTR[	JWTR	JWTR	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 133657	MT	Judges	9	37	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 133936	MT	Judges	9	49	JYT[	JYJTW	JYJT	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 134105	MT	Judges	10	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
@@ -597,11 +624,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 160231	MT	1_Samuel	31	3	JRH=[	MWRJM	MWR	CMC	CMCMC	hif	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn
 160241	MT	1_Samuel	31	3	JRH=[	MWRJM	MWR	CMC	CMCMC	hif	ptca	pl	m	unknown	verb		JM		MH	nnnnn	nnnnn
 161419	MT	2_Samuel	2	22	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+161713	MT	2_Samuel	3	2	JLD[	JLDW	JLD			nif	wayq	pl	m	p3	verb					nnnn	nnnn
 161861	MT	2_Samuel	3	9	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 162059	MT	2_Samuel	3	18	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 162466	MT	2_Samuel	3	34	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
 162498	MT	2_Samuel	3	35	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 162960	MT	2_Samuel	5	2	JY>[	MWYJ>	MWYJ>			hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+163213	MT	2_Samuel	5	13	JLD[	JWLDW	JWLD	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 163353	MT	2_Samuel	5	22	JSP[	JSPW	JSP	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
 163783	MT	2_Samuel	6	17	JYG[	JYGW	JYG	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
 164176	MT	2_Samuel	7	10	JSP[	JSJPW	JSJP	CCMC	CCMCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
@@ -629,6 +658,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 168105	MT	2_Samuel	14	4	JC<[	HWC<H	HWC<	CMCC	CMCCM	hif	impv	sg	m	p2	verb					nnnnn	nnnnn
 168245	MT	2_Samuel	14	10	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 168492	MT	2_Samuel	14	19	JMN[	HMJN	HMJN	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
+168697	MT	2_Samuel	14	27	JLD[	JWLDW	JWLD	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 168767	MT	2_Samuel	14	30	JYT[	HWYTJH	HWYT			hif	impv	pl	m	p2	verb	H				nnnnnn	nnnnnn
 168772	MT	2_Samuel	14	30	JYT[	JYTW	JYT	CCC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
 168794	MT	2_Samuel	14	31	JYT[	HYJTW	HYJT	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
@@ -645,6 +675,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 173938	MT	2_Samuel	21	9	JQ<[	JQJ<M	JQJ<	CCMC	CCMCC	hif	wayq	pl	m	p3	verb	M			W	nnnnn	nnnnn
 174338	MT	2_Samuel	22	3	JC<[	MC<J	MC<	CCC	CCCM	hif	ptca	sg	m	unknown	verb	J				nnnn	nnnn
 174341	MT	2_Samuel	22	3	JC<[	TC<NJ	TC<	CCC	CCCCM	hif	impf	sg	m	p2	verb	NJ				nnnnn	nnnnn
+174348	MT	2_Samuel	22	4	JC<[	>WC<	>WC<	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 174500	MT	2_Samuel	22	20	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 174574	MT	2_Samuel	22	28	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
 174704	MT	2_Samuel	22	42	JC<[	MCJ<	MCJ<	CCMC	CCMC	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
@@ -676,10 +707,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 184177	MT	1_Kings	9	21	JTR[	NTRW	NTR	CCC	CCCM	nif	perf	pl	unknown	p3	verb					nnnn	nnnn
 184487	MT	1_Kings	10	7	JSP[	HWSPT	HWSP	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
 185018	MT	1_Kings	10	29	JY>[	JY>W	JY>	CCC	CCCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+186037	MT	1_Kings	12	6	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 186058	MT	1_Kings	12	6	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+186107	MT	1_Kings	12	8	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 186124	MT	1_Kings	12	9	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
 186194	MT	1_Kings	12	11	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 186269	MT	1_Kings	12	14	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
+186616	MT	1_Kings	12	28	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 186813	MT	1_Kings	13	2	JLD[	NWLD	NWLD	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
 188222	MT	1_Kings	14	24	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 188664	MT	1_Kings	15	18	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
@@ -688,8 +722,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 190172	MT	1_Kings	17	17	JTR[	NWTRH	NWTR	CMCC	CMCCM	nif	perf	sg	f	p3	verb					nnnnn	nnnnn
 190289	MT	1_Kings	17	23	JRD[	JRDHW	JRD	CCC	CCCCM	hif	wayq	sg	m	p3	verb	HW			W	nnnnn	nnnnn
 190784	MT	1_Kings	18	22	JTR[	NWTRTJ	NWTR	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+191156	MT	1_Kings	18	36	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 191260	MT	1_Kings	18	40	JRD[	JWRDM	JWRD	CMCC	CMCCC	hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn
 191433	MT	1_Kings	19	2	JSP[	JWSPWN	JWSP	CMCC	CMCCMC	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+191622	MT	1_Kings	19	10	JTR[	>WTR	>WTR	CCCC	CCCC	nif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn
+191743	MT	1_Kings	19	14	JTR[	>WTR	>WTR	CCCC	CCCC	nif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn
 192155	MT	1_Kings	20	10	JSP[	JWSPW	JWSP	CMCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
 192634	MT	1_Kings	20	30	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
 192650	MT	1_Kings	20	30	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
@@ -706,6 +743,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 197452	MT	2_Kings	4	44	JTR[	JWTRW	JWTR	CMCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 198037	MT	2_Kings	5	23	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
 198209	MT	2_Kings	6	3	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
+198293	MT	2_Kings	6	8	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 198717	MT	2_Kings	6	26	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
 198724	MT	2_Kings	6	27	JC<[	JWC<K	JWC<	CMCC	CMCCC	hif	impf	sg	m	p3	verb	K				nnnnn	nnnnn
 198728	MT	2_Kings	6	27	JC<[	>WCJ<K	>WCJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
@@ -739,6 +777,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 208074	MT	2_Kings	19	32	JRH=[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
 208111	MT	2_Kings	19	34	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	H			L	nnnnnn	nnnnnn
 208304	MT	2_Kings	20	6	JSP[	HSPTJ	HSP	CCC	CCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
+208592	MT	2_Kings	20	17	JTR[	JWTR	JWTR	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 208603	MT	2_Kings	20	18	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
 208710	MT	2_Kings	21	2	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 208846	MT	2_Kings	21	8	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
@@ -753,6 +792,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 212213	MT	Isaiah	1	9	JTR[	HWTJR	HWTJR	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 212268	MT	Isaiah	1	13	JSP[	TWSJPW	TWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
 212324	MT	Isaiah	1	17	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
+212336	MT	Isaiah	1	18	JKX[	NWKXH	NWKX	CCCC	CCCCM	nif	impf	pl	unknown	p1	verb				W	nnnnn	nnnnn
 212586	MT	Isaiah	2	3	JRH[	JRNW	JR	CC	CCCM	hif	impf	sg	m	p3	verb	NW			W	nnnn	nnnn
 212609	MT	Isaiah	2	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
 213346	MT	Isaiah	4	3	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
@@ -802,6 +842,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 221868	MT	Isaiah	30	5	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
 221876	MT	Isaiah	30	5	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
 221913	MT	Isaiah	30	6	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+222068	MT	Isaiah	30	15	JC<[	TWC<WN	TWC<	CCCC	CCCCMC	nif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
 222110	MT	Isaiah	30	17	JTR[	NWTRTM	NWTR	CMCC	CMCCCC	nif	perf	pl	m	p2	verb					nnnnnn	nnnnnn
 222196	MT	Isaiah	30	21	JMN[	T>MJNW	T>MJN	CCCMC	CCCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
 223168	MT	Isaiah	33	19	J<Z[	NW<Z	NW<Z	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
@@ -816,6 +857,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 225336	MT	Isaiah	38	19	JDH[	JWDK	JWD	CMC	CMCC	hif	impf	sg	m	p3	verb	K				nnnn	nnnn
 225343	MT	Isaiah	38	19	JD<[	JWDJ<	JWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 225348	MT	Isaiah	38	20	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NJ			L	nnnnnnn	nnnnnnn
+225538	MT	Isaiah	39	6	JTR[	JWTR	JWTR	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 225549	MT	Isaiah	39	7	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
 225784	MT	Isaiah	40	13	JD<[	JWDJ<NW	JWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	W				nnnnnnn	nnnnnnn
 225787	MT	Isaiah	40	14	J<Y[	NW<Y	NW<Y	CMCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
@@ -839,11 +881,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 227497	MT	Isaiah	44	9	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
 227516	MT	Isaiah	44	10	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc		unknown	unknown	verb					nnnnn	nnnnn
 227855	MT	Isaiah	44	27	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
+227873	MT	Isaiah	44	28	JSD[	TWSD	TWSD	CCCC	CCCC	nif	impf	sg	f	p3	verb					nnnn	nnnn
 228039	MT	Isaiah	45	10	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
 228143	MT	Isaiah	45	15	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
 228157	MT	Isaiah	45	17	JC<[	NWC<	NWC<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
 228240	MT	Isaiah	45	20	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+228245	MT	Isaiah	45	21	J<Y[	JW<YW	JW<Y	CCCC	CCCCM	nif	impf	pl	m	p3	verb					nnnnn	nnnnn
 228268	MT	Isaiah	45	21	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				W	nnnnn	nnnnn
+228274	MT	Isaiah	45	22	JC<[	HWC<W	HWC<	CCCC	CCCCM	nif	impv	pl	m	p2	verb				W	nnnnn	nnnnn
 228444	MT	Isaiah	46	7	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	W				nnnnnnn	nnnnnnn
 228542	MT	Isaiah	47	1	JSP[	TWSJPJ	TWSJP	CMCMC	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
 228589	MT	Isaiah	47	5	JSP[	TWSJPJ	TWSJP	CMCMC	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
@@ -879,8 +924,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 233613	MT	Isaiah	63	9	JC<[	HWCJ<M	HWCJ<	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn
 233798	MT	Isaiah	64	1	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
 233808	MT	Isaiah	64	2	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn
+233849	MT	Isaiah	64	4	JC<[	NWC<	NWC<	CCCC	CCCC	nif	impf	pl	unknown	p1	verb				W	nnnn	nnnn
 234110	MT	Isaiah	65	9	JY>[	HWY>TJ	HWY>	CMCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
 234237	MT	Isaiah	65	14	JLL[	TJLJLW	TJLJL	CCCMC	CCCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+234629	MT	Isaiah	66	8	JLD[	JWLD	JWLD	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 234645	MT	Isaiah	66	9	JLD[	>WLJD	>WLJD	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 234651	MT	Isaiah	66	9	JLD[	MWLJD	MWLJD	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn
 234734	MT	Isaiah	66	14	JD<[	NWD<H	NWD<	CMCC	CMCCM	nif	perf	sg	f	p3	verb				W	nnnnn	nnnnn
@@ -896,9 +943,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 235862	MT	Jeremiah	2	28	JC<[	JWCJ<WK	JWCJ<	CMCMC	CMCMCMC	hif	impf	pl	m	p3	verb	K				nnnnnnn	nnnnnnn
 235930	MT	Jeremiah	2	33	JVB[	TJVBJ	TJVB	CMCC	CMCCM	hif	impf	sg	f	p2	verb					nnnnn	nnnnn
 236697	MT	Jeremiah	4	8	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+236822	MT	Jeremiah	4	14	JC<[	TWC<J	TWC<	CCCC	CCCCM	nif	impf	sg	f	p2	verb					nnnnn	nnnnn
 236889	MT	Jeremiah	4	19	JXL[	>XWLH	>XWL			hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 236944	MT	Jeremiah	4	22	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				WL	nnnnn	nnnnn
 237179	MT	Jeremiah	5	4	J>L=[	NW>LW	NW>L	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+237781	MT	Jeremiah	6	8	JSR[	HWSRJ	HWSR	CCCC	CCCCM	nif	impv	sg	f	p2	verb					nnnnn	nnnnn
 237792	MT	Jeremiah	6	8	JCB[	NWCBH	NWCB	CMCC	CMCCM	nif	perf	sg	f	p3	verb					nnnnn	nnnnn
 237914	MT	Jeremiah	6	15	JBC[	HBJCW	HBJC	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
 238245	MT	Jeremiah	7	3	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
@@ -930,6 +979,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 243101	MT	Jeremiah	16	21	JD<[	MWDJ<M	MWDJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn
 243107	MT	Jeremiah	16	21	JD<[	>WDJ<M	>WDJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
 243356	MT	Jeremiah	17	14	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+243358	MT	Jeremiah	17	14	JC<[	>WC<H	>WC<	CCCC	CCCCM	nif	impf	sg	unknown	p1	verb				W	nnnnn	nnnnn
 243489	MT	Jeremiah	17	22	JY>[	TWYJ>W	TWYJ>	CMCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
 243671	MT	Jeremiah	17	27	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
 243850	MT	Jeremiah	18	10	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
@@ -939,6 +989,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 245291	MT	Jeremiah	21	14	JYT[	HYTJ	HY	CC	CCCM	hif	perf	sg	unknown	p1	verb				W	nnnn	nnnn
 245357	MT	Jeremiah	22	3	JNH[	TNW	TN	CC	CCM	hif	impf	pl	m	p2	verb					nnn	nnn
 245447	MT	Jeremiah	22	6	JCB[	NWCBH	NWCB			nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+246035	MT	Jeremiah	23	6	JC<[	TWC<	TWC<	CCCC	CCCC	nif	impf	sg	f	p3	verb					nnnn	nnnn
 246557	MT	Jeremiah	23	32	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infa		unknown	unknown	verb				W	nnnnn	nnnnn
 246559	MT	Jeremiah	23	32	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
 247774	MT	Jeremiah	25	34	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
@@ -947,12 +998,16 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 248950	MT	Jeremiah	27	18	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
 248984	MT	Jeremiah	27	19	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
 249025	MT	Jeremiah	27	21	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn
+249285	MT	Jeremiah	28	9	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 249588	MT	Jeremiah	29	6	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
+250334	MT	Jeremiah	30	7	JC<[	JWC<	JWC<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 250385	MT	Jeremiah	30	10	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn
 250410	MT	Jeremiah	30	11	JC<[	HWCJ<K	HWCJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			L	nnnnnn	nnnnnn
 250750	MT	Jeremiah	31	7	JC<[	HWC<	HWC<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
 250786	MT	Jeremiah	31	9	JBL[	>WBJLM	>WBJL	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
 250873	MT	Jeremiah	31	12	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+250973	MT	Jeremiah	31	18	JSR[	>WSR	>WSR	CCCC	CCCC	nif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn
+250991	MT	Jeremiah	31	19	JD<[	HWD<J	HWD<	CCCC	CCCCM	nif	infc		unknown	unknown	verb	J				nnnnn	nnnnn
 251236	MT	Jeremiah	31	32	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
 251944	MT	Jeremiah	32	21	JY>[	TY>	TY>	CCM	CCM	hif	wayq	sg	m	p2	verb				W	nnn	nnn
 252136	MT	Jeremiah	32	29	JYT[	HYJTW	HYJT	CCMC	CCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn
@@ -960,6 +1015,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 252419	MT	Jeremiah	32	40	JVB[	HJVJBJ	HJVJB	CMCMC	CMCMCM	hif	infc		unknown	unknown	verb	J			L	nnnnnn	nnnnnn
 252436	MT	Jeremiah	32	41	JVB[	HVJB	HVJB	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
 252802	MT	Jeremiah	33	11	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
+252940	MT	Jeremiah	33	16	JC<[	TWC<	TWC<	CCCC	CCCC	nif	impf	sg	f	p3	verb					nnnn	nnnn
 253315	MT	Jeremiah	34	7	JTR[	NWTRWT	NWTR	CMCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT		H	nnnnnn	nnnnnn
 253457	MT	Jeremiah	34	13	JY>[	HWY>J	HWY>	CMCC	CMCCM	hif	infc		unknown	unknown	verb	J				nnnnn	nnnnn
 254077	MT	Jeremiah	35	15	JVB[	HJVJBW	HJVJB	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
@@ -1023,6 +1079,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 273369	MT	Ezekiel	19	5	JXL[	NWXLH	NWXL	CMCC	CMCCM	nif	perf	sg	f	p3	verb					nnnnn	nnnnn
 273495	MT	Ezekiel	19	12	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 273611	MT	Ezekiel	20	4	JD<[	HWDJ<M	HWDJ<	CMCMC	CMCMCC	hif	impv	sg	m	p2	verb	M				nnnnnn	nnnnnn
+273632	MT	Ezekiel	20	5	JD<[	>WD<	>WD<	CCCC	CCCC	nif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn
 273655	MT	Ezekiel	20	6	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
 273741	MT	Ezekiel	20	9	JD<[	NWD<TJ	NWD<	CMCC	CMCCCM	nif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
 273746	MT	Ezekiel	20	9	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
@@ -1064,6 +1121,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 282680	MT	Ezekiel	36	11	JVB[	HVBTJ	HVB	CCC	CCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn
 282704	MT	Ezekiel	36	12	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
 283013	MT	Ezekiel	36	29	JC<[	HWC<TJ	HWC<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
+283078	MT	Ezekiel	36	32	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 283099	MT	Ezekiel	36	33	JCB[	HWCBTJ	HWCB	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
 283213	MT	Ezekiel	37	1	JY>[	JWY>NJ	JWY>	CMCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn
 283697	MT	Ezekiel	37	23	JC<[	HWC<TJ	HWC<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn
@@ -1091,6 +1149,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 291054	MT	Hosea	1	7	JC<[	HWC<TJM	HWC<	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn
 291060	MT	Hosea	1	7	JC<[	>WCJ<M	>WCJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn
 291183	MT	Hosea	2	5	JYG[	HYGTJH	HYG	CCC	CCCCMC	hif	perf	sg	unknown	p1	verb	H			W	nnnnnn	nnnnnn
+291186	MT	Hosea	2	5	JLD[	HWLDH	HWLD	CCCC	CCCCC	nif	infc		unknown	unknown	verb	H				nnnnn	nnnnn
 291214	MT	Hosea	2	7	JBC[	HBJCH	HBJC	CCMC	CCMCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
 291764	MT	Hosea	4	4	JKX[	JWKX	JWKX	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 292124	MT	Hosea	5	9	JD<[	HWD<TJ	HWD<	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
@@ -1128,6 +1187,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 296534	MT	Amos	5	2	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
 296670	MT	Amos	5	10	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
 296753	MT	Amos	5	15	JYG[	HYJGW	HYJG	CCMC	CCMCM	hif	impv	pl	m	p2	verb				W	nnnnn	nnnnn
+297078	MT	Amos	6	9	JTR[	JWTRW	JWTR	CCCC	CCCCM	nif	impf	pl	m	p3	verb					nnnnn	nnnnn
 297092	MT	Amos	6	10	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
 297327	MT	Amos	7	8	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 297412	MT	Amos	7	13	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
@@ -1183,12 +1243,15 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 308035	MT	Zechariah	11	2	JLL[	HJLL	HJLL	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
 308043	MT	Zechariah	11	2	JLL[	HJLJLW	HJLJL	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn
 308520	MT	Zechariah	12	7	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+308876	MT	Zechariah	13	8	JTR[	JWTR	JWTR	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
+309071	MT	Zechariah	14	7	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 309300	MT	Zechariah	14	16	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
 309779	MT	Malachi	1	14	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
 310119	MT	Malachi	2	17	JG<[	HWG<TM	HWG<	CMCC	CMCCCC	hif	perf	pl	m	p2	verb					nnnnnn	nnnnnn
 310127	MT	Malachi	2	17	JG<[	HWG<NW	HWG<	CMCC	CMCCCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
 310633	MT	Malachi	3	23	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
 310755	MT	Psalms	2	2	JSD=[	NWSDW	NWSD	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
+310828	MT	Psalms	2	10	JSR[	HWSRW	HWSR	CCCC	CCCCM	nif	impv	pl	m	p2	verb					nnnnn	nnnnn
 310920	MT	Psalms	3	8	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
 311037	MT	Psalms	4	9	JCB[	TWCJBNJ	TWCJB	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
 311118	MT	Psalms	5	9	JCR[	HWCR	HWCR			hif	impv	sg	m	p2	verb					nnnn	nnnn
@@ -1204,6 +1267,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 312067	MT	Psalms	12	2	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
 312479	MT	Psalms	16	11	JD<[	TWDJ<NJ	TWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
 312552	MT	Psalms	17	7	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
+312704	MT	Psalms	18	4	JC<[	>WC<	>WC<	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 312872	MT	Psalms	18	20	JY>[	JWYJ>NJ	JWYJ>	CMCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
 312946	MT	Psalms	18	28	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
 313076	MT	Psalms	18	42	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
@@ -1226,6 +1290,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 314942	MT	Psalms	30	13	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
 314973	MT	Psalms	31	3	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NJ			L	nnnnnnn	nnnnnnn
 314985	MT	Psalms	31	5	JY>[	TWYJ>NJ	TWYJ>	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+315101	MT	Psalms	31	14	JSD=[	HWSDM	HWSD	CCCC	CCCCC	nif	infc		unknown	unknown	verb	M			B	nnnnn	nnnnn
 315130	MT	Psalms	31	17	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
 315274	MT	Psalms	32	5	JD<[	>WDJ<K	>WDJ<	CMCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn
 315280	MT	Psalms	32	5	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
@@ -1305,6 +1370,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 322277	MT	Psalms	71	22	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
 322344	MT	Psalms	72	4	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 322437	MT	Psalms	72	13	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+322832	MT	Psalms	74	5	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 322942	MT	Psalms	74	15	JBC[	HWBCT	HWBC	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
 323034	MT	Psalms	75	2	JDH[	HWDJNW	HWDJ	CMCM	CMCMCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
 323037	MT	Psalms	75	2	JDH[	HWDJNW	HWDJ	CMCM	CMCMCM	hif	perf	pl	unknown	p1	verb					nnnnnn	nnnnnn
@@ -1318,18 +1384,24 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 323397	MT	Psalms	77	15	JD<[	HWD<T	HWD<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
 323454	MT	Psalms	77	20	JD<[	ND<W	ND<	CCC	CCCM	nif	perf	pl	unknown	p3	verb					nnnn	nnnn
 323523	MT	Psalms	78	5	JD<[	HWDJ<M	HWDJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn
+323531	MT	Psalms	78	6	JLD[	JWLDW	JWLD	CCCC	CCCCM	nif	impf	pl	m	p3	verb					nnnnn	nnnnn
 323637	MT	Psalms	78	16	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 323642	MT	Psalms	78	16	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 323648	MT	Psalms	78	17	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
+324363	MT	Psalms	79	10	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 324382	MT	Psalms	79	11	JTR[	HWTR	HWTR	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
 324402	MT	Psalms	79	13	JDH[	NWDH	NWDH	CMCM	CMCM	hif	impf	pl	unknown	p1	verb					nnnn	nnnn
 324432	MT	Psalms	80	2	JP<[	HWPJ<H	HWPJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+324454	MT	Psalms	80	4	JC<[	NWC<H	NWC<	CCCC	CCCCM	nif	impf	pl	unknown	p1	verb				W	nnnnn	nnnnn
+324487	MT	Psalms	80	8	JC<[	NWC<H	NWC<	CCCC	CCCCM	nif	impf	pl	unknown	p1	verb				W	nnnnn	nnnnn
+324594	MT	Psalms	80	20	JC<[	NWC<H	NWC<	CCCC	CCCCM	nif	impf	pl	unknown	p1	verb				W	nnnnn	nnnnn
 324885	MT	Psalms	83	6	J<Y[	NW<YW	NW<Y	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
 325297	MT	Psalms	86	2	JC<[	HWC<	HWC<	CMCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn
 325380	MT	Psalms	86	11	JRH[	HWRNJ	HWR	CMC	CMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnn	nnnnn
 325391	MT	Psalms	86	12	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn
 325449	MT	Psalms	86	16	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb				W	nnnnnn	nnnnnn
 325654	MT	Psalms	88	11	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+325667	MT	Psalms	88	13	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb				H	nnnn	nnnn
 325739	MT	Psalms	89	2	JD<[	>WDJ<	>WDJ<	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 325773	MT	Psalms	89	6	JDH[	JWDW	JWD	CMC	CMCM	hif	impf	pl	m	p3	verb				W	nnnn	nnnn
 325803	MT	Psalms	89	8	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
@@ -1394,10 +1466,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331829	MT	Psalms	119	68	JVB[	MVJB	MVJB	CCMC	CCMC	hif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
 332037	MT	Psalms	119	94	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
 332102	MT	Psalms	119	102	JRH[	HWRTNJ	HWR	CMC	CMCCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnn	nnnnnn
+332215	MT	Psalms	119	117	JC<[	>WC<H	>WC<	CCCC	CCCCM	nif	impf	sg	unknown	p1	verb				W	nnnnn	nnnnn
 332429	MT	Psalms	119	146	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
 332685	MT	Psalms	120	3	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 332830	MT	Psalms	122	4	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		L	nnnn	nnnn
 333045	MT	Psalms	125	4	JVB[	HJVJBH	HJVJB	CMCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn
+333361	MT	Psalms	130	4	JR>[	TWR>	TWR>	CCCM	CCCM	nif	impf	sg	m	p2	verb					nnnn	nnnn
 333369	MT	Psalms	130	5	JXL[	HWXLTJ	HWXL	CMCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn
 333771	MT	Psalms	135	7	JY>[	MWY>	MWY>	CMCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn
 333912	MT	Psalms	136	1	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
@@ -1423,6 +1497,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 335326	MT	Psalms	145	10	JDH[	JWDWK	JWD	CMC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
 335340	MT	Psalms	145	12	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
 335423	MT	Psalms	145	19	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+336049	MT	Job	1	2	JLD[	JWLDW	JWLD	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+336778	MT	Job	2	11	J<D[	JW<DW	JW<D	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
+336853	MT	Job	3	3	JLD[	>WLD	>WLD	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 336874	MT	Job	3	4	JP<[	TWP<	TWP<	CMCC	CMCC	hif	impf	sg	f	p3	verb					nnnn	nnnn
 337440	MT	Job	5	15	JC<[	JC<	JC<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 337463	MT	Job	5	17	JKX[	JWKXNW	JWKX	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	W				nnnnnn	nnnnnn
@@ -1441,6 +1518,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 338619	MT	Job	10	3	JP<[	HWP<T	HWP<	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
 338763	MT	Job	10	18	JY>[	HY>TNJ	HY>	CCM	CCMCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnn	nnnnnn
 338812	MT	Job	10	22	JP<[	TP<	TP<	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
+338930	MT	Job	11	12	JLD[	JWLD	JWLD	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 339082	MT	Job	12	7	JRH[	TRK	TR	CC	CCC	hif	impf	sg	f	p3	verb	K			W	nnn	nnn
 339096	MT	Job	12	8	JRH[	TRK	TR	CC	CCC	hif	impf	sg	f	p3	verb	K			W	nnn	nnn
 339222	MT	Job	12	22	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
@@ -1452,6 +1530,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 339490	MT	Job	13	26	JRC[	TWRJCNJ	TWRJC	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
 339762	MT	Job	15	3	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
 339770	MT	Job	15	3	J<L[	JW<JL	JW<JL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+339802	MT	Job	15	7	JLD[	TWLD	TWLD	CCCC	CCCC	nif	impf	sg	m	p2	verb					nnnn	nnnn
 339860	MT	Job	15	13	JY>[	HY>T	HY>	CCM	CCMC	hif	perf	sg	m	p2	verb				W	nnnn	nnnn
 340288	MT	Job	16	21	JKX[	JWKX	JWKX	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
 340349	MT	Job	17	6	JYG[	HYGNJ	HYG	CCC	CCCCM	hif	perf	sg	m	p3	verb	NJ			W	nnnnn	nnnnn
@@ -1488,6 +1567,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 345419	MT	Job	37	22	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn
 345467	MT	Job	38	3	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn
 345539	MT	Job	38	11	JSP[	TSJP	TSJP	CCMC	CCMC	hif	impf	sg	m	p2	verb					nnnn	nnnn
+345632	MT	Job	38	21	JLD[	TWLD	TWLD	CCCC	CCCC	nif	impf	sg	m	p2	verb					nnnn	nnnn
 345705	MT	Job	38	28	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 345737	MT	Job	38	32	JY>[	TYJ>	TYJ>	CCMM	CCMM	hif	impf	sg	m	p2	verb				H	nnnn	nnnn
 346139	MT	Job	40	2	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
@@ -1500,6 +1580,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 346788	MT	Job	42	10	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 346974	MT	Proverbs	1	5	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
 347150	MT	Proverbs	1	23	JD<[	>WDJ<H	>WDJ<	CMCMC	CMCMCM	hif	impf	sg	unknown	p1	verb					nnnnnn	nnnnnn
+347431	MT	Proverbs	2	21	JTR[	JWTRW	JWTR	CCCC	CCCCM	nif	impf	pl	m	p3	verb					nnnnn	nnnnn
 347458	MT	Proverbs	3	2	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
 347555	MT	Proverbs	3	12	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 347810	MT	Proverbs	4	4	JRH[	JRNJ	JR	CC	CCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnn	nnnn
@@ -1514,36 +1595,45 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 349257	MT	Proverbs	9	9	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
 349272	MT	Proverbs	9	11	JSP[	JWSJPW	JWSJP	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb				W	nnnnnn	nnnnnn
 349349	MT	Proverbs	10	2	J<L[	JW<JLW	JW<JL	CMCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+349420	MT	Proverbs	10	9	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 349495	MT	Proverbs	10	18	JY>[	MWY>	MWY>	CMCM	CMCM	hif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
 349533	MT	Proverbs	10	22	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 349585	MT	Proverbs	10	27	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
 349660	MT	Proverbs	11	4	J<L[	JW<JL	JW<JL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 349844	MT	Proverbs	11	24	JSP[	NWSP	NWSP	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
 349860	MT	Proverbs	11	25	JRH=[	JWR>	JWR>	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+350059	MT	Proverbs	12	16	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 350257	MT	Proverbs	13	10	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+350697	MT	Proverbs	14	33	JD<[	TWD<	TWD<	CCCC	CCCC	nif	impf	sg	f	p3	verb					nnnn	nnnn
 350725	MT	Proverbs	15	2	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
 350814	MT	Proverbs	15	12	JKX[	HWKX	HWKX	CMCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn
 350822	MT	Proverbs	15	13	JVB[	JJVB	JJVB	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 351219	MT	Proverbs	16	21	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 351236	MT	Proverbs	16	23	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+351514	MT	Proverbs	17	17	JLD[	JWLD	JWLD	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 351557	MT	Proverbs	17	22	JVB[	JJVB	JJVB	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 351877	MT	Proverbs	19	4	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 352030	MT	Proverbs	19	19	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
 352086	MT	Proverbs	19	25	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	infc		unknown	unknown	verb				W	nnnnn	nnnnn
+352249	MT	Proverbs	20	13	JRC[	TWRC	TWRC	CCCC	CCCC	nif	impf	sg	m	p2	verb					nnnn	nnnn
 352339	MT	Proverbs	20	22	JC<[	JC<	JC<	CCC	CCC	hif	impf	sg	m	p3	verb				W	nnn	nnn
 352628	MT	Proverbs	21	22	JRD[	JRD	JRD	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
 352892	MT	Proverbs	22	19	JD<[	HWD<TJK	HWD<	CMCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	K				nnnnnnn	nnnnnnn
 352907	MT	Proverbs	22	21	JD<[	HWDJ<K	HWDJ<	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			L	nnnnnn	nnnnnn
+353206	MT	Proverbs	23	21	JRC[	JWRC	JWRC	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 353273	MT	Proverbs	23	28	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	f	p3	verb					nnnn	nnnn
 353356	MT	Proverbs	23	35	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 353611	MT	Proverbs	24	25	JKX[	MWKJXJM	MWKJX	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM		WL	nnnnnnn	nnnnnnn
 353836	MT	Proverbs	25	12	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
 353884	MT	Proverbs	25	17	JQR[	HQR	HQR	CCC	CCC	hif	impv	sg	m	p2	verb					nnn	nnn
 354711	MT	Proverbs	28	13	JDH[	MWDH	MWDH	CMCM	CMCM	hif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+354758	MT	Proverbs	28	18	JC<[	JWC<	JWC<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 354807	MT	Proverbs	28	23	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn
 354966	MT	Proverbs	29	11	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+355040	MT	Proverbs	29	19	JSR[	JWSR	JWSR	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 355191	MT	Proverbs	30	6	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn
 355195	MT	Proverbs	30	6	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+355234	MT	Proverbs	30	9	JRC[	>WRC	>WRC	CCCC	CCCC	nif	impf	sg	unknown	p1	verb					nnnn	nnnn
 355450	MT	Proverbs	30	29	JVB[	MJVJBJ	MJVJB	CMCMC	CMCMCM	hif	ptca	pl	m	unknown	verb		J			nnnnnn	nnnnnn
 355454	MT	Proverbs	30	29	JVB[	MJVBJ	MJVB	CMCC	CMCCM	hif	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn
 355488	MT	Proverbs	30	33	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
@@ -1554,7 +1644,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 356570	MT	Ruth	2	14	JTR[	TTR	TTR	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn
 356637	MT	Ruth	2	18	JY>[	TWY>	TWY>	CMCM	CMCM	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
 356643	MT	Ruth	2	18	JTR[	HWTRH	HWTR	CMCC	CMCCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
+356819	MT	Ruth	3	3	JD<[	TWD<J	TWD<	CCCC	CCCCM	nif	impf	sg	f	p2	verb					nnnnn	nnnnn
 356942	MT	Ruth	3	10	JVB[	HJVBT	HJVB	CMCC	CMCCC	hif	perf	sg	f	p2	verb					nnnnn	nnnnn
+357036	MT	Ruth	3	14	JD<[	JWD<	JWD<	CCCC	CCCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
 357555	MT	Ruth	4	18	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 357560	MT	Ruth	4	19	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 357565	MT	Ruth	4	19	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
@@ -1575,6 +1667,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 361103	MT	Ecclesiastes	5	13	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
 361299	MT	Ecclesiastes	6	3	JLD[	JWLJD	JWLJD	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 361426	MT	Ecclesiastes	6	10	JD<[	NWD<	NWD<	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn
+361493	MT	Ecclesiastes	7	1	JLD[	HWLDW	HWLD	CCCC	CCCCM	nif	infc		unknown	unknown	verb	W				nnnnn	nnnnn
 363193	MT	Ecclesiastes	11	9	JVB[	JVJBK	JVJB	MCMC	MCMCC	hif	impf	sg	m	p3	verb	K			W	nnnnn	nnnnn
 363592	MT	Lamentations	1	4	JGH[	NWGWT	NWG	CMC	CMCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn
 363605	MT	Lamentations	1	5	JGH[	HWGH	HWG	CMC	CMCC	hif	perf	sg	m	p3	verb	H				nnnn	nnnn
@@ -1591,6 +1684,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 365181	MT	Lamentations	4	16	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 365204	MT	Lamentations	4	17	JC<[	JWC<	JWC<	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
 365269	MT	Lamentations	4	22	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+366617	MT	Esther	2	22	JD<[	JWD<	JWD<	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 367393	MT	Esther	4	11	JCV[	JWCJV	JWCJV	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
 367602	MT	Esther	5	2	JCV[	JWCV	JWCV	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 368680	MT	Esther	8	3	JSP[	TWSP	TWSP	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
@@ -1620,6 +1714,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 385195	MT	Nehemiah	4	8	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
 385214	MT	Nehemiah	4	9	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
 385924	MT	Nehemiah	6	1	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+385949	MT	Nehemiah	6	2	J<D[	NW<DH	NW<D	CCCC	CCCCM	nif	impf	pl	unknown	p1	verb				W	nnnnn	nnnnn
+386087	MT	Nehemiah	6	7	J<Y[	NW<YH	NW<Y	CCCC	CCCCM	nif	impf	pl	unknown	p1	verb				W	nnnnn	nnnnn
+386142	MT	Nehemiah	6	10	J<D[	NW<D	NW<D	CCCC	CCCC	nif	impf	pl	unknown	p1	verb					nnnn	nnnn
 386339	MT	Nehemiah	6	19	JY>[	MWYJ>JM	MWYJ>	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn
 387527	MT	Nehemiah	8	12	JD<[	HWDJ<W	HWDJ<	CMCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn
 387900	MT	Nehemiah	9	7	JY>[	HWY>TW	HWY>	CMCM	CMCMCM	hif	perf	sg	m	p2	verb	W			W	nnnnnn	nnnnnn
@@ -1732,6 +1829,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 397286	MT	1_Chronicles	11	14	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 397753	MT	1_Chronicles	12	2	JMN[	MJMJNJM	MJMJN	CCCMC	CCCMCMC	hif	ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn
 398013	MT	1_Chronicles	12	18	JKX[	JWKX	JWKX	CMCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn
+398467	MT	1_Chronicles	13	1	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 398817	MT	1_Chronicles	14	3	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 398959	MT	1_Chronicles	14	13	JSP[	JSJPW	JSJP	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 399617	MT	1_Chronicles	16	1	JYG[	JYJGW	JYJG	CCMC	CCMCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
@@ -1783,7 +1881,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 410734	MT	2_Chronicles	8	7	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn
 410758	MT	2_Chronicles	8	8	JTR[	NWTRW	NWTR	CMCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn
 411679	MT	2_Chronicles	9	28	JY>[	MWYJ>JM	MWYJ>	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM		W	nnnnnnn	nnnnnnn
+411838	MT	2_Chronicles	10	6	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 411859	MT	2_Chronicles	10	6	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
+411905	MT	2_Chronicles	10	8	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 411921	MT	2_Chronicles	10	9	J<Y[	NW<YJM	NW<Y	CMCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn
 411989	MT	2_Chronicles	10	11	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
 412059	MT	2_Chronicles	10	14	JSP[	>SJP	>SJP	CCMC	CCMC	hif	impf	sg	unknown	p1	verb					nnnn	nnnn
@@ -1795,6 +1895,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 416114	MT	2_Chronicles	20	7	JRC[	HWRCT	HWRC	CMCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
 416181	MT	2_Chronicles	20	9	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb				W	nnnnn	nnnnn
 416224	MT	2_Chronicles	20	11	JRC[	HWRCTNW	HWRC	CMCC	CMCCCCM	hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn
+416452	MT	2_Chronicles	20	21	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 416474	MT	2_Chronicles	20	21	JDH[	HWDW	HWD	CMC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn
 417903	MT	2_Chronicles	23	11	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
 417992	MT	2_Chronicles	23	13	JD<[	MWDJ<JM	MWDJ<	CMCMC	CMCMCMC	hif	ptca	pl	m	unknown	verb		JM		W	nnnnnnn	nnnnnnn
@@ -1803,17 +1904,1029 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 418181	MT	2_Chronicles	23	20	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 418199	MT	2_Chronicles	23	20	JCB[	JWCJBW	JWCJB	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
 418263	MT	2_Chronicles	24	3	JLD[	JWLD	JWLD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+419315	MT	2_Chronicles	25	17	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 420387	MT	2_Chronicles	28	3	JRC[	HRJC	HRJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
 420638	MT	2_Chronicles	28	13	JSP[	HSJP	HSJP	CCMC	CCMC	hif	infc		unknown	unknown	verb				L	nnnn	nnnn
 420849	MT	2_Chronicles	28	22	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 421068	MT	2_Chronicles	29	5	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn
 421293	MT	2_Chronicles	29	16	JY>[	JWYJ>W	JWYJ>	CMCMC	CMCMCM	hif	wayq	pl	m	p3	verb				W	nnnnnn	nnnnnn
 421312	MT	2_Chronicles	29	16	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn
+421860	MT	2_Chronicles	30	2	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+422385	MT	2_Chronicles	30	23	J<Y[	JW<YW	JW<Y	CCCC	CCCCM	nif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn
 422591	MT	2_Chronicles	31	2	JDH[	HDWT	HD	CC	CCMC	hif	infc		unknown	unknown	verb		WT		WL	nnnn	nnnn
 422784	MT	2_Chronicles	31	10	JTR[	HWTR	HWTR	CMCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn
 422795	MT	2_Chronicles	31	10	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn
+423128	MT	2_Chronicles	32	3	J<Y[	JW<Y	JW<Y	CCCC	CCCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 423610	MT	2_Chronicles	32	22	JC<[	JWC<	JWC<	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
 423914	MT	2_Chronicles	33	2	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
 424052	MT	2_Chronicles	33	8	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn
 424818	MT	2_Chronicles	34	14	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			WB	nnnnnn	nnnnnn
 425966	MT	2_Chronicles	35	23	JRH=[	JRW	JR	CC	CCM	hif	wayq	pl	m	p3	verb				W	nnn	nnn
+1890671	1Q3	Leviticus	19	33	JNH[	TWNW	TWNW	CMCM	CMCM	hif	impf	pl	m	p2	verb					rrrr	nnnn
+1891380	1Q4	Deuteronomy	9	28	JY>[	JWY>NW	JWY>	CMCM	CMCMCM	hif	impf	sg	m	p3	verb	NW				nnnnnr	nnnnnn
+1891534	1Q4	Deuteronomy	13	1	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	m	p2	verb					rrr	nnn
+1891645	1Q4	Deuteronomy	13	6	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn
+1892164	1Q5	Deuteronomy	1	11	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					rrr	nnn
+1892361	1Q5	Deuteronomy	17	16	JSP[	TSPWN	TSPW	CCCM	CCCMC	hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn
+1892462	1Q5	Deuteronomy	24	11	JY>[	JWY>	JWY>	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1894095	1Q6	Judges	9	5	JTR[	JWTR	JWTR	CMCC	CMCC	nif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+1894318	1Q6	Judges	9	49	JYT[	JYJTW	JYJTW	CCMCM	CCMCM	hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn
+1894937	1Qisaa	Isaiah	1	5	JSP[	TWSJPW	TWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+1894993	1Qisaa	Isaiah	1	8	JTR[	NTRT	NTRT	CCCC	CCCC	nif	ptca	sg	f	NA	verb				W	nnnn	nnnn
+1895012	1Qisaa	Isaiah	1	9	JTR[	HWTJR	HWTJR	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+1895073	1Qisaa	Isaiah	1	13	JSP[	TWSJPW	TWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+1895139	1Qisaa	Isaiah	1	17	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infa	NA		NA	verb					nnnnn	nnnnn
+1895152	1Qisaa	Isaiah	1	18	JKX[	NWKXH	NWKXH	CMCCM	CMCCM	nif	impf	pl		p1	verb				W	nnnnn	nnnnn
+1895408	1Qisaa	Isaiah	2	3	JRH[	JRWNW	JRW	MCM	MCMCM	hif	impf	pl	m	p3	verb	NW			W	nnnnn	nnnnn
+1895434	1Qisaa	Isaiah	2	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+1896191	1Qisaa	Isaiah	4	3	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn
+1896332	1Qisaa	Isaiah	5	5	JD<[	>WDJ<	>WDJ<	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1897285	1Qisaa	Isaiah	7	10	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+1897527	1Qisaa	Isaiah	7	22	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				H	nnnn	nnnn
+1897679	1Qisaa	Isaiah	8	5	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+1897802	1Qisaa	Isaiah	8	11	JSR[	JSJRNW	JSJR	CCMC	CCMCCM	hif	impf	sg	m	p3	verb	NW				nnnnnn	nnnnnn
+1897881	1Qisaa	Isaiah	8	15	JQC[	NWQCW	NWQCW	CMCCM	CMCCM	nif	perf	pl		p3	verb				W	nnnnn	nnnnn
+1898305	1Qisaa	Isaiah	9	14	JRH[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	NA	verb					nnnn	nnnn
+1898672	1Qisaa	Isaiah	10	13	JRD[	>WRJD	>WRJD	CMCMC	CMCMC	hif	impf	sg		p1	verb				W	nnnnn	nnnnn
+1898805	1Qisaa	Isaiah	10	20	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1899083	1Qisaa	Isaiah	11	3	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1899091	1Qisaa	Isaiah	11	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+1899224	1Qisaa	Isaiah	11	11	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1899375	1Qisaa	Isaiah	12	1	JDH[	>WDKH	>WD	CMC	CMCCM	hif	impf	sg		p1	verb	KH				nnnnn	nnnnn
+1899421	1Qisaa	Isaiah	12	4	JDH[	>WDW	>WDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					nnnn	nnnn
+1899427	1Qisaa	Isaiah	12	4	JD<[	HWDJ<W	HWDJ<W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+1899532	1Qisaa	Isaiah	13	6	JLL[	HJLJLW	HJLJLW	CCCMCM	CCCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+1899630	1Qisaa	Isaiah	13	12	JQR[	>WQR	>WQR	CMCC	CMCC	hif	impf	sg		p1	verb					nnnn	nnnn
+1900312	1Qisaa	Isaiah	14	31	JLL[	HJLJLJ	HJLJLJ	CMCMCM	CMCMCM	hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn
+1900378	1Qisaa	Isaiah	15	2	JLL[	JLJL	JLJL	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1900398	1Qisaa	Isaiah	15	3	JLL[	JHJLJL	JHJLJL	CCMCMC	CCMCMC	hif	impf	sg	m	p3	verb					nnnnnn	nnnnnn
+1900495	1Qisaa	Isaiah	15	9	JSP[	NWSPT	NWSP	CMCC	CMCCC	nif	ptca	pl	f	NA	verb		T			nnnnn	nnnnn
+1900608	1Qisaa	Isaiah	16	7	JLL[	JJLJL	JJLJL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1900613	1Qisaa	Isaiah	16	7	JLL[	JJLJL	JJLJL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1901041	1Qisaa	Isaiah	18	2	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					nnnn	nnnn
+1901159	1Qisaa	Isaiah	18	7	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					nnnn	nnnn
+1901388	1Qisaa	Isaiah	19	13	J>L=[	N>WLW	N>WLW	CCMCM	CCMCM	nif	perf	pl		p3	verb					nnnnn	nnnnn
+1901550	1Qisaa	Isaiah	19	20	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn
+1901557	1Qisaa	Isaiah	19	21	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+1901812	1Qisaa	Isaiah	21	1	JR>[	NWR>H	NWR>H	CMCCM	CMCCM	nif	ptca	sg	f	NA	verb					nnnnn	nnnnn
+1902519	1Qisaa	Isaiah	23	1	JLL[	>JLJLW	>JLJLW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+1902591	1Qisaa	Isaiah	23	6	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+1902669	1Qisaa	Isaiah	23	12	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+1902706	1Qisaa	Isaiah	23	14	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+1902731	1Qisaa	Isaiah	23	16	JVB[	HJVJBJ	HJVJBJ	CMCMCM	CMCMCM	hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn
+1903103	1Qisaa	Isaiah	24	20	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+1903170	1Qisaa	Isaiah	25	1	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg		p1	verb					nnnn	nnnn
+1903336	1Qisaa	Isaiah	25	9	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnnnn	nnnnnnn
+1904098	1Qisaa	Isaiah	28	9	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1904193	1Qisaa	Isaiah	28	13	JQC[	NWQCW	NWQCW	CMCCM	CMCCM	nif	perf	pl		p3	verb				W	nnnnn	nnnnn
+1904434	1Qisaa	Isaiah	28	26	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn
+1904782	1Qisaa	Isaiah	29	14	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1904915	1Qisaa	Isaiah	29	21	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				WL	nnnnn	nnnnn
+1905053	1Qisaa	Isaiah	30	5	J<L[	JW<JLW	JW<JLW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+1905060	1Qisaa	Isaiah	30	5	J<L[	TW<JL	TW<JL	CMCMC	CMCMC	hif	impf	sg		p3	verb					nnnnn	nnnnn
+1905102	1Qisaa	Isaiah	30	6	J<L[	JW<JLW	JW<JLW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+1905267	1Qisaa	Isaiah	30	15	JC<[	TWC<WN	TWC<W	CCCCM	CCCCMC	nif	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn
+1905311	1Qisaa	Isaiah	30	17	JTR[	NWTRTM	NWTRT	CMCCC	CMCCCC	nif	perf	pl	m	p2	verb		M			nnnnnn	nnnnnn
+1905402	1Qisaa	Isaiah	30	21	JMN[	TJ>MJNW	TJ>MJNW	CMCCMCM	CMCCMCM	hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn
+1906224	1Qisaa	Isaiah	33	2	JC<[	HWC<TNW	HWC<T	CMCCC	CMCCCCM	hif	perf	sg	f	p2	verb	NW				nnnnnnn	nnnnnnn
+1906431	1Qisaa	Isaiah	33	19	J<Z[	NW<Z	NW<Z	CMCC	CMCC	nif	ptca	sg	m	NA	verb					nnnn	nnnn
+1906499	1Qisaa	Isaiah	33	22	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+1906928	1Qisaa	Isaiah	35	4	JC<[	JWC<KMH	JWC<	CMCC	CMCCCCM	hif	impf	sg	m	p3	verb	KMH			W	nnnnnnn	nnnnnnn
+1907693	1Qisaa	Isaiah	37	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+1908012	1Qisaa	Isaiah	37	20	JC<[	>WCJ<NW	>WCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NW				nnnnnnn	nnnnnnn
+1908293	1Qisaa	Isaiah	37	33	JRH[	JR>	JR>	CCM	CCM	hif	impf	sg		p3	verb					nnn	nnn
+1908326	1Qisaa	Isaiah	37	35	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	infc	NA		NA	verb	H			L	nnnnnn	nnnnnn
+1908501	1Qisaa	Isaiah	38	5	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1908731	1Qisaa	Isaiah	38	18	JDH[	TWDKH	TWD	CMC	CMCCM	hif	impf	sg	f	p3	verb	KH				nnnnn	nnnnn
+1908747	1Qisaa	Isaiah	38	19	JDH[	JWDKH	JWD	CMC	CMCCM	hif	impf	sg	m	p3	verb	KH				nnnnn	nnnnn
+1908754	1Qisaa	Isaiah	38	19	JD<[	JWDJ<	JWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1908760	1Qisaa	Isaiah	38	20	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc	NA		NA	verb	NJ			L	nnnnnnn	nnnnnnn
+1908763	1Qisaa	Isaiah	38	20	JDH[	JWDK	JWD	CMC	CMCC	hif	impf	sg		p3	verb	K				nnnn	nnnn
+1908770	1Qisaa	Isaiah	38	20	JD<[	JHWDJ<	JHWDJ<	CCMCMC	CCMCMC	hif	impf	sg		p3	verb					nnnnnn	nnnnnn
+1908775	1Qisaa	Isaiah	38	20	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc	NA		NA	verb	NJ			L	nnnnnnn	nnnnnnn
+1908975	1Qisaa	Isaiah	39	6	JTR[	JWTR	JWTR	CMCC	CMCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
+1908988	1Qisaa	Isaiah	39	7	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1909236	1Qisaa	Isaiah	40	13	JD<[	JWDJ<NH	JWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NH				nnnnnnn	nnnnnnn
+1909240	1Qisaa	Isaiah	40	14	J<Y[	NW<Y	NW<Y	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+1909254	1Qisaa	Isaiah	40	14	JD<[	JWDJ<NW	JWDJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+1909437	1Qisaa	Isaiah	40	26	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn
+1909569	1Qisaa	Isaiah	41	2	JRD[	JWRJD	JWRJD	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1909922	1Qisaa	Isaiah	41	23	JVB[	TJVJBW	TJVJBW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+1910040	1Qisaa	Isaiah	42	1	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1910065	1Qisaa	Isaiah	42	3	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1910137	1Qisaa	Isaiah	42	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+1910234	1Qisaa	Isaiah	42	13	JD<[	JWDJ<	JWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1910262	1Qisaa	Isaiah	42	15	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1910270	1Qisaa	Isaiah	42	15	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1910585	1Qisaa	Isaiah	43	8	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	impv	pl		NA	verb					nnnnnn	nnnnnn
+1910642	1Qisaa	Isaiah	43	10	JYR[	NWYR	NWYR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+1910656	1Qisaa	Isaiah	43	11	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn
+1910661	1Qisaa	Isaiah	43	12	JC<[	HWC<TJ	HWC<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn
+1910702	1Qisaa	Isaiah	43	14	JRD[	HWRDTJ	HWRDTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn
+1910733	1Qisaa	Isaiah	43	17	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn
+1910834	1Qisaa	Isaiah	43	23	JG<[	HWG<TJKH	HWG<TJ	CMCCCM	CMCCCMCM	hif	perf	sg		p1	verb	KH				nnnnnnnn	nnnnnnnn
+1910853	1Qisaa	Isaiah	43	24	JG<[	HWG<TNJ	HWG<T	CMCCC	CMCCCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+1911057	1Qisaa	Isaiah	44	9	J<L[	JW<JLW	JW<JLW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+1911076	1Qisaa	Isaiah	44	10	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	perf	sg		p3	verb					nnnnn	nnnnn
+1911434	1Qisaa	Isaiah	44	27	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1911630	1Qisaa	Isaiah	45	10	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1911737	1Qisaa	Isaiah	45	15	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn
+1911753	1Qisaa	Isaiah	45	17	JC<[	NWC<	NWC<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+1911842	1Qisaa	Isaiah	45	20	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1911848	1Qisaa	Isaiah	45	21	J<Y[	JW<YW	JW<YW	CMCCM	CMCCM	nif	impf	pl	m	p3	verb					nnnnn	nnnnn
+1911871	1Qisaa	Isaiah	45	21	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn
+1911879	1Qisaa	Isaiah	45	22	JC<[	HWCJ<W	HWCJ<W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb				W	nnnnnn	nnnnnn
+1912053	1Qisaa	Isaiah	46	7	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+1912160	1Qisaa	Isaiah	47	1	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+1912211	1Qisaa	Isaiah	47	5	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+1912374	1Qisaa	Isaiah	47	13	JC<[	JWCJ<WK	JWCJ<W	CMCMCM	CMCMCMC	hif	impf	pl	m	p3	verb	K			W	nnnnnnn	nnnnnnn
+1912382	1Qisaa	Isaiah	47	13	JD<[	MWD<JM	MWD<	CMCC	CMCCMC	hif	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn
+1912425	1Qisaa	Isaiah	47	15	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn
+1912713	1Qisaa	Isaiah	48	17	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+1913242	1Qisaa	Isaiah	49	23	JNQ[	MJNQWTJK	MJNQ	CMCC	CMCCMCMC	hif	ptca	pl	f	NA	verb	K	WTJ			nnnnnnnn	nnnnnnnn
+1913292	1Qisaa	Isaiah	49	25	JC<[	>WCJ<	>WCJ<	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1913297	1Qisaa	Isaiah	49	26	JNH[	MWNJK	MWN	CMC	CMCMC	hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn
+1913312	1Qisaa	Isaiah	49	26	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn
+1913643	1Qisaa	Isaiah	51	5	JXL[	JWXJLWN	JWXJLW	CMCMCM	CMCMCMC	hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn
+1913991	1Qisaa	Isaiah	51	22	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+1914000	1Qisaa	Isaiah	51	23	JGH[	MWGJK	MWG	CMC	CMCCC	hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn
+1914035	1Qisaa	Isaiah	52	1	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1914101	1Qisaa	Isaiah	52	5	JLL[	HWLLW	HWLLW	CMCCM	CMCCM	hif	perf	pl	m	p3	verb				W	nnnnn	nnnnn
+1914590	1Qisaa	Isaiah	54	3	JCB[	JWCJBW	JWCJBW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+1914802	1Qisaa	Isaiah	54	16	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn
+1915006	1Qisaa	Isaiah	55	10	JLD[	HWLJDH	HWLJD	CMCMC	CMCMCM	hif	perf	sg	m	p3	verb	H			W	nnnnnn	nnnnnn
+1915518	1Qisaa	Isaiah	57	10	J>C[	NW>C	NW>C	CMCC	CMCC	nif	ptca	sg	m	NA	verb					nnnn	nnnn
+1915565	1Qisaa	Isaiah	57	12	J<L[	JW<JLWK	JW<JLW	CMCMCM	CMCMCMC	hif	impf	pl	m	p3	verb	K				nnnnnnn	nnnnnnn
+1915838	1Qisaa	Isaiah	58	5	JY<[	JYJ<	JYJ<	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1916059	1Qisaa	Isaiah	59	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				M	nnnnn	nnnnn
+1916115	1Qisaa	Isaiah	59	4	JLD[	HWLJDW	HWLJDW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn
+1916346	1Qisaa	Isaiah	59	16	JC<[	TWC<	TWC<	CCCC	CCCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+1916749	1Qisaa	Isaiah	60	16	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn
+1917049	1Qisaa	Isaiah	61	9	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+1917097	1Qisaa	Isaiah	61	11	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	f	p3	verb					nnnnn	nnnnn
+1917379	1Qisaa	Isaiah	63	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+1917428	1Qisaa	Isaiah	63	5	JC<[	TWC<	TWC<	CCCC	CCCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+1917446	1Qisaa	Isaiah	63	6	JRD[	>WRJDH	>WRJDH	CMCMCM	CMCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn
+1917489	1Qisaa	Isaiah	63	8	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn
+1917499	1Qisaa	Isaiah	63	9	JC<[	HWCJ<MH	HWCJ<	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	MH				nnnnnnn	nnnnnnn
+1917695	1Qisaa	Isaiah	64	1	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+1917707	1Qisaa	Isaiah	64	2	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn
+1917750	1Qisaa	Isaiah	64	4	JC<[	NWC<	NWC<	CMCC	CMCC	nif	impf	pl		p1	verb				W	nnnn	nnnn
+1918021	1Qisaa	Isaiah	65	9	JY>[	HWYJTJ	HWYJTJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn
+1918149	1Qisaa	Isaiah	65	14	JLL[	TJLJLW	TJLJLW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+1918552	1Qisaa	Isaiah	66	8	JLD[	JWLD	JWLD	CMCC	CMCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
+1918569	1Qisaa	Isaiah	66	9	JLD[	>WLJD	>WLJD	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1918575	1Qisaa	Isaiah	66	9	JLD[	MWLJD	MWLJD	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn
+1918662	1Qisaa	Isaiah	66	14	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	f	p3	verb				W	nnnn	nnnn
+1918982	1Q8	Isaiah	7	22	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				H	rrrr	nnnn
+1919197	1Q8	Isaiah	12	4	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+1919203	1Q8	Isaiah	12	4	JD<[	HWDJ<W	HWDJ<W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+1919307	1Q8	Isaiah	13	6	JLL[	HJLJLW	HJLJLW	CCCMCM	CCCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+1919410	1Q8	Isaiah	15	2	JLL[	JJLJL	JJLJL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+1919430	1Q8	Isaiah	15	3	JLL[	JJLJL	JJLJL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+1919527	1Q8	Isaiah	15	9	JSP[	NWSPWT	NWSP	CMCC	CMCCMC	nif	ptca	pl	f	NA	verb		WT			rrrrrr	nnnnnn
+1919607	1Q8	Isaiah	16	7	JLL[	JJLJL	JJLJL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+1919612	1Q8	Isaiah	16	7	JLL[	JJLJL	JJLJL	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+1919815	1Q8	Isaiah	19	13	J>L=[	NW>LW	NW>LW	CMCCM	CMCCM	nif	perf	pl		p3	verb					rrrrr	nnnnn
+1919933	1Q8	Isaiah	19	20	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+1919940	1Q8	Isaiah	19	21	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn
+1920333	1Q8	Isaiah	23	1	JLL[	HJLJLW	HJLJLW	CCCMCM	CCCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+1920457	1Q8	Isaiah	24	20	JSP[	TSJP	TSJP	CCMC	CCMC	hif	impf	sg	f	p3	verb					rrrr	nnnn
+1920526	1Q8	Isaiah	25	1	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg		p1	verb					rrrr	nnnn
+1921142	1Q8	Isaiah	30	15	JC<[	TWC<WN	TWC<W	CCCCM	CCCCMC	nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn
+1921346	1Q8	Isaiah	35	4	JC<[	JC<KM	JC<	CCC	CCCCC	hif	impf	sg	m	p3	verb	KM			W	rrrrr	nnnnn
+1921637	1Q8	Isaiah	38	18	JDH[	TW<K	TW<	CMC	CMCC	hif	impf	sg	f	p3	verb	K				nnnn	nnnn
+1921650	1Q8	Isaiah	38	19	JDH[	JWDK	JWD	CMC	CMCC	hif	impf	sg	m	p3	verb	K				nnnn	nnnn
+1921657	1Q8	Isaiah	38	19	JD<[	JWD<	JWD<	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1921663	1Q8	Isaiah	38	20	JC<[	HCJ<NJ	HCJ<	CCMC	CCMCCM	hif	infc	NA		NA	verb	NJ			L	nnnnnn	nnnnnn
+1921862	1Q8	Isaiah	39	6	JTR[	JWTR	JWTR	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrn	nnnn
+1921874	1Q8	Isaiah	39	7	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+1922327	1Q8	Isaiah	41	23	JVB[	TJVJBW	TJVJBW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnr	nnnnnn
+1922404	1Q8	Isaiah	43	3	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn
+1922479	1Q8	Isaiah	43	8	JY>[	>WYJ>	>WYJ>	CMCMM	CMCMM	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1922537	1Q8	Isaiah	43	10	JYR[	NWYR	NWYR	CMCC	CMCC	nif	perf	sg	m	p3	verb					rrrr	nnnn
+1922550	1Q8	Isaiah	43	11	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+1922555	1Q8	Isaiah	43	12	JC<[	HWC<TJ	HWC<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrnn	nnnnnn
+1922644	1Q8	Isaiah	43	23	JG<[	HWG<TJK	HWG<TJ	CMCCCM	CMCCCMC	hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn
+1922663	1Q8	Isaiah	43	24	JG<[	HWG<TNJ	HWG<T	CMCCC	CMCCCCM	hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+1922825	1Q8	Isaiah	44	27	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1922844	1Q8	Isaiah	44	28	JSD[	TWSD	TWSD	CMCC	CMCC	nif	impf	sg	f	p3	verb					nrnn	nnnn
+1923022	1Q8	Isaiah	45	10	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1923172	1Q8	Isaiah	46	7	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+1923276	1Q8	Isaiah	47	1	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					rrrrnn	nnnnnn
+1923326	1Q8	Isaiah	47	5	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn
+1923475	1Q8	Isaiah	47	12	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc	NA		NA	verb					nnnnn	nnnnn
+1923486	1Q8	Isaiah	47	13	JC<[	JWCJ<K	JWCJ<	CMCMC	CMCMCC	hif	impf	pl	m	p3	verb	K			W	rrrrrr	nnnnnn
+1923494	1Q8	Isaiah	47	13	JD<[	MWDJ<M	MWDJ<	CMCMC	CMCMCC	hif	ptca	pl	m	NA	verb		M			rrrrrr	nnnnnn
+1923544	1Q8	Isaiah	48	17	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+1923599	1Q8	Isaiah	48	20	JY>[	HWY>WH	HWY>W	CMCCC	CMCCCM	hif	impv	pl	m	NA	verb	H				nnnnrr	nnnnnn
+1924668	1Q8	Isaiah	54	3	JCB[	JWCJBW	JWCJBW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn
+1924869	1Q8	Isaiah	55	10	JLD[	HWLJDH	HWLJD	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	H			W	nrrrrr	nnnnnn
+1925438	1Q8	Isaiah	58	5	JY<[	JYJ<	JYJ<	CCMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+1925649	1Q8	Isaiah	59	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				M	nnnnn	nnnnn
+1925706	1Q8	Isaiah	59	4	JLD[	HWLJDW	HWLJDW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn
+1926091	1Q8	Isaiah	60	16	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn
+1926489	1Q8	Isaiah	63	1	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1926551	1Q8	Isaiah	63	5	JC<[	TWC<	TWC<	CCCC	CCCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+1926569	1Q8	Isaiah	63	6	JRD[	>RJDH	>RJDH	CCMCM	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn
+1926612	1Q8	Isaiah	63	8	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn
+1926622	1Q8	Isaiah	63	9	JC<[	HWCJ<M	HWCJ<	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				rrrrrr	nnnnnn
+1926812	1Q8	Isaiah	64	1	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1926823	1Q8	Isaiah	64	2	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	NA	verb		WT			rrrrrr	nnnnnn
+1926866	1Q8	Isaiah	64	4	JC<[	NWC<	NWC<	CMCC	CMCC	nif	impf	pl		p1	verb				W	rrrr	nnnn
+1927335	1Q8	Isaiah	66	8	JLD[	JWLD	JWLD	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+1927352	1Q8	Isaiah	66	9	JLD[	>WLJD	>WLJD	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+1927358	1Q8	Isaiah	66	9	JLD[	MWLJD	MWLJD	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				H	rnnnn	nnnnn
+1927445	1Q8	Isaiah	66	14	JD<[	NWD<H	NWD<H	CMCCM	CMCCM	nif	perf	sg	f	p3	verb				W	nnrrr	nnnnn
+1927957	1Q10	Psalms	119	33	JRH[	HWRNJ	HWR	CMC	CMCCM	hif	impv	sg	m	NA	verb	NJ				rrrrr	nnnnn
+1928268	1Q12	Psalms	44	3	JRC[	HWRCT	HWRCT	CMCCC	CMCCC	hif	perf	sg	m	p2	verb					rrrrr	nnnnn
+1928285	1Q12	Psalms	44	4	JC<[	HWCJ<H	HWCJ<H	CMCMCM	CMCMCM	hif	perf	sg	f	p3	verb					rrnnnn	nnnnnn
+1928321	1Q12	Psalms	44	7	JC<[	TWCJ<NJ	TWCJ<	CMCMC	CMCMCCM	hif	impf	sg	f	p3	verb	NJ				rrrrrrr	nnnnnnn
+1928324	1Q12	Psalms	44	8	JC<[	HWC<TNW	HWC<T	CMCCC	CMCCCCM	hif	perf	sg	m	p2	verb	NW				rrrrrrr	nnnnnnn
+1928478	1Q13	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn
+1928649	1Q13	Deuteronomy	5	15	JY>[	JWYJ>K	JWYJ>	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	K			W	rrrrrr	nnnnnn
+1928897	1Q13	Deuteronomy	10	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+1928925	1Q13	Deuteronomy	10	21	JR>[	NWR>T	NWR>	CMCC	CMCCC	nif	ptca	pl	f	NA	verb		T		H	nnnnr	nnnnn
+1929107	1Q13	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1929178	1Q13	Exodus	13	9	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn
+1930142	2Q2	Exodus	7	4	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+1930172	2Q2	Exodus	9	28	JSP[	TWSPWN	TWSPW	CMCCM	CMCCMC	hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn
+1930300	2Q2	Exodus	11	6	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	f	p3	verb					rrrr	nnnn
+1930453	2Q2	Exodus	12	39	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+1931144	2Q3	Exodus	34	10	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					rrrr	nnnn
+1931631	2Q7	Numbers	33	52	JRC[	HWRCTMH	HWRCTMH	CMCCCCM	CMCCCCM	hif	perf	pl	m	p2	verb				W	rrrrrrn	nnnnnnn
+1931656	2Q7	Numbers	33	53	JRC[	HWRCTMH	HWRCTMH	CMCCCCM	CMCCCCM	hif	perf	pl	m	p2	verb				W	rrrrrrr	nnnnnnn
+1932146	2Q13	Jeremiah	42	11	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1932455	2Q13	Jeremiah	46	27	JC<[	MWCJ<KH	MWCJ<	CMCMC	CMCMCCM	hif	ptca	sg	m	NA	verb	KH				nnnnnnn	nnnnnnn
+1932553	2Q13	Jeremiah	47	2	JLL[	HJLJL	HJLJL	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn
+1932771	2Q13	Jeremiah	48	31	JLL[	>JLJL	>JLJL	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1932928	2Q13	Jeremiah	48	39	JLL[	HJLJLW	HJLJLW	CCCMCM	CCCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+1933176	2Q14	Psalms	103	7	JD<[	JWDJ<	JWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+1933382	2Q16	Ruth	2	14	JTR[	TTR	TTR	CCC	CCC	hif	wayq	sg	f	p3	verb				W	nrr	nnn
+1933452	2Q16	Ruth	2	18	JY>[	TWY>	TWY>	CMCM	CMCM	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+1933458	2Q16	Ruth	2	18	JTR[	HWTRH	HWTRH	CMCCM	CMCCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn
+1933787	2Q17	Ruth	3	14	JD<[	JWD<	JWD<	CMCC	CMCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
+1934001	3Q3	Lamentations	1	12	JGH[	HWGH	HWGH	CMCM	CMCM	hif	perf	sg	m	p3	verb					nnnr	nnnn
+1934836	4Q1	Genesis	37	5	JSP[	JWSPW	JWSPW	CMCCM	CMCCM	hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn
+1934939	4Q1	Genesis	37	25	JRD[	HWRJD	HWRJD	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1935593	4Q1	Genesis	49	4	JTR[	TWTR	TWTR	CMCC	CMCC	hif	impf	sg	m	p2	verb					rrrr	nnnn
+1935712	4Q1	Exodus	1	10	JSP[	NWSP	NWSP	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	rrnn	nnnn
+1936043	4Q1	Exodus	3	10	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	NA	verb				W	nnnn	nnnn
+1936065	4Q1	Exodus	3	11	JY>[	>WYJ>	>WYJ>	CMCMM	CMCMM	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1936086	4Q1	Exodus	3	12	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	infc	NA		NA	verb	K			B	nnnnnn	nnnnnn
+1936323	4Q1	Exodus	4	6	JY>[	JWY>H	JWY>	CMCC	CMCCM	hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn
+1936345	4Q1	Exodus	4	7	JY>[	JWY>H	JWY>	CMCC	CMCCM	hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn
+1936599	4Q1	Exodus	5	7	JSP[	T>SPWN	T>SPW	CCCCM	CCCCMC	hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn
+1936841	4Q1	Exodus	6	6	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+1936881	4Q1	Exodus	6	7	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn
+1936999	4Q1	Exodus	6	13	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1937171	4Q1	Exodus	7	5	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+1937945	4Q2	Genesis	1	12	JY>[	TWY>	TWY>	CMCM	CMCM	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn
+1938197	4Q2	Genesis	1	24	JY>[	TWY>	TWY>	CMCM	CMCM	hif	impf	sg	f	p3	verb					nnnn	nnnn
+1938445	4Q2	Genesis	4	2	JSP[	TSP	TSP	CCC	CCC	hif	wayq	sg	f	p3	verb				W	rnn	nnn
+1938532	4Q2	Genesis	4	7	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1938537	4Q2	Genesis	4	7	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+1938618	4Q2	Genesis	5	13	JLD[	HWLJDW	HWLJD	CMCMC	CMCMCM	hif	infc	NA		NA	verb	W				rrrrrr	nnnnnn
+1939107	4Q4	Genesis	1	24	JY>[	TWY>	TWY>	CMCM	CMCM	hif	impf	sg	f	p3	verb					rnnr	nnnn
+1939683	4Q5	Genesis	41	39	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb					rrrrr	nnnnn
+1939859	4Q5	Genesis	43	9	JYG[	HYGTHW	HYGT	CCCC	CCCCCM	hif	perf	sg		p1	verb	HW			W	nnnnnn	nnnnnn
+1939896	4Q5	Genesis	43	11	JRD[	HWRJDW	HWRJDW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb				W	rrrrrr	nnnnnn
+1940011	4Q5	Genesis	49	8	JDH[	JWDWK	JWDW	CMCM	CMCMC	hif	impf	pl	m	p3	verb	K				rrrrr	nnnnn
+1940161	4Q6	Genesis	48	5	JLD[	NWLDJM	NWLD	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn
+1940186	4Q6	Genesis	48	6	JLD[	HWLDT	HWLDT	CMCCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn
+1940981	4Q9	Genesis	41	31	JD<[	JWD<	JWD<	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+1941098	4Q9	Genesis	41	39	JD<[	HWDJ<	HWDJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb					nnnnn	nnnnn
+1941366	4Q9	Genesis	42	38	JRD[	HWRDTM	HWRDT	CMCCC	CMCCCC	hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn
+1941462	4Q9	Genesis	43	7	JRD[	HWRJDW	HWRJDW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+1942355	4Q11	Exodus	8	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1942525	4Q11	Exodus	9	28	JSP[	TSPWN	TSPW	CCCM	CCCMC	hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn
+1942596	4Q11	Exodus	9	34	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	rrr	nnn
+1942791	4Q11	Exodus	11	6	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	f	p3	verb					rrr	nnn
+1943086	4Q11	Exodus	12	10	JTR[	TWTJRW	TWTJRW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+1943092	4Q11	Exodus	12	10	JTR[	NTR	NTR	CCC	CCC	nif	ptca	sg	m	NA	verb				WH	rrr	nnn
+1943221	4Q11	Exodus	12	46	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+1943505	4Q11	Exodus	16	3	JY>[	HWY>TM	HWY>T	CMCMC	CMCMCC	hif	perf	pl	m	p2	verb		M			nnnrrr	nnnnnn
+1943588	4Q11	Exodus	16	6	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrn	nnnnn
+1943692	4Q11	Exodus	16	19	JTR[	JWTR	JWTR	CMCC	CMCC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+1943703	4Q11	Exodus	16	20	JTR[	JWTRW	JWTRW	CMCCM	CMCCM	hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn
+1943940	4Q11	Exodus	16	35	JCB[	NWCBT	NWCBT	CMCCC	CMCCC	nif	ptca	sg	f	NA	verb					rrrrr	nnnnn
+1944270	4Q11	Exodus	18	20	JD<[	HWD<T	HWD<T	CMCCC	CMCCC	hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn
+1944443	4Q11	Exodus	20	2	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				rnnnnnn	nnnnnnn
+1945933	4Q13	Exodus	1	20	JVB[	JVB	JVB	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+1946081	4Q13	Exodus	2	7	JNQ[	MJNQT	MJNQT	CMCCC	CMCCC	hif	ptca	sg	f	NA	verb					rrrrr	nnnnn
+1946086	4Q13	Exodus	2	7	JNQ[	HJNQH	HJNQH	CCCCM	CCCCM	hif	perf	sg	f	p3	verb				W	nnnnn	nnnnn
+1946121	4Q13	Exodus	2	9	JNQ[	HJNJQHW	HJNJQ	CMCMC	CMCMCCM	hif	impv	sg	f	NA	verb	HW			W	rrrrrrr	nnnnnnn
+1946135	4Q13	Exodus	2	9	JNQ[	TJNJQHW	TJNJQ	CMCMC	CMCMCCM	hif	wayq	sg	f	p3	verb	HW			W	rrrrrrr	nnnnnnn
+1946267	4Q13	Exodus	2	14	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+1946337	4Q13	Exodus	2	17	JC<[	JCJ<N	JCJ<	MCMC	MCMCC	hif	wayq	sg	m	p3	verb	N			W	rrrnn	nnnnn
+1946733	4Q13	Exodus	4	6	JY>[	JWY>H	JWY>	CMCC	CMCCM	hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn
+1946755	4Q13	Exodus	4	7	JY>[	JWYJ>H	JWYJ>	CMCMC	CMCMCM	hif	wayq	sg	m	p3	verb	H			W	rrrrrr	nnnnnn
+1946840	4Q13	Exodus	5	7	JSP[	T>SPWN	T>SPW	CCCCM	CCCCMC	hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn
+1947700	4Q14	Exodus	8	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1948021	4Q14	Exodus	9	18	JSD[	HWSDH	HWSD	CMCC	CMCCM	nif	infc	NA		NA	verb	H				rrrrr	nnnnn
+1948272	4Q14	Exodus	9	28	JSP[	TSPWN	TSPW	CCCM	CCCMC	hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn
+1948388	4Q14	Exodus	9	34	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	rrn	nnn
+1948819	4Q14	Exodus	10	15	JTR[	HWTJR	HWTJR	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1948824	4Q14	Exodus	10	15	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+1949324	4Q14	Exodus	12	39	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					nnnnnn	nnnnnn
+1949396	4Q14	Exodus	12	42	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	infc	NA		NA	verb	M			L	rrrrrr	nnnnnn
+1949458	4Q14	Exodus	12	46	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1949840	4Q14	Exodus	14	11	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	infc	NA		NA	verb	NW			L	rrrrrrr	nnnnnnn
+1949911	4Q14	Exodus	15	9	JRC[	TWRJCMW	TWRJC	CMCMC	CMCMCCM	hif	impf	sg	f	p3	verb	MW				rrrrrrr	nnnnnnn
+1949936	4Q14	Exodus	15	11	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					rrrr	nnnn
+1950478	4Q14	Exodus	18	1	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1950862	4Q15	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn
+1950920	4Q16	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1952143	4Q19	Exodus	6	3	JD<[	NWD<TJ	NWD<TJ	CMCCCM	CMCCCM	nif	perf	sg		p1	verb					rrrrnn	nnnnnn
+1952191	4Q19	Exodus	6	6	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+1952368	4Q22	Exodus	6	26	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+1952386	4Q22	Exodus	6	27	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+1952509	4Q22	Exodus	7	4	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	rrrnnn	nnnnnn
+1952536	4Q22	Exodus	7	5	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb					rrrrrr	nnnnnn
+1953057	4Q22	Exodus	8	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1953700	4Q22	Exodus	9	19	JSD[	HWSDH	HWSD	CMCC	CMCCM	nif	infc	NA		NA	verb	H				rrrrr	nnnnn
+1954627	4Q22	Exodus	12	17	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb					rrrrrr	nnnnnn
+1954888	4Q22	Exodus	12	39	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+1954920	4Q22	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnrrr	nnnnn
+1955254	4Q22	Exodus	15	25	JRH[	JWRHW	JWR	CMC	CMCCM	hif	wayq	sg	m	p3	verb	HW			W	rrrrr	nnnnn
+1955399	4Q22	Exodus	16	6	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1955493	4Q22	Exodus	16	32	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	infc	NA		NA	verb	J			B	rrrrrr	nnnnnn
+1955554	4Q22	Exodus	16	35	JCB[	NWCBT	NWCBT	CMCCC	CMCCC	nif	ptca	sg	f	NA	verb					rrrrr	nnnnn
+1955964	4Q22	Exodus	18	1	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+1956284	4Q22	Exodus	18	16	JD<[	HWD<TJ	HWD<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+1956361	4Q22	Exodus	18	20	JD<[	HWD<T	HWD<T	CMCCC	CMCCC	hif	perf	sg	m	p2	verb				W	rrrrr	nnnnn
+1956508	4Q22	Exodus	18	25	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg		p3	verb					rrr	nnn
+1956797	4Q22	Exodus	19	13	JRH=[	JJRH	JJRH	CMCM	CMCM	nif	impf	sg	m	p3	verb					rrrr	nnnn
+1956882	4Q22	Exodus	19	17	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+1958049	4Q22	Exodus	25	22	J<D[	NW<DTJ	NW<DTJ	CMCCCM	CMCCCM	nif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+1958930	4Q22	Exodus	28	10	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn
+1959674	4Q22	Exodus	29	34	JTR[	JWTR	JWTR	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrn	nnnn
+1959690	4Q22	Exodus	29	34	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				H	rrrr	nnnn
+1960076	4Q22	Exodus	30	36	J<D[	>W<D	>W<D	CMCC	CMCC	nif	impf	sg		p1	verb					rrrr	nnnn
+1960524	4Q22	Exodus	32	11	JY>[	HWY>T	HWY>T	CMCMC	CMCMC	hif	perf	sg	m	p2	verb					nnnrr	nnnnn
+1960543	4Q22	Exodus	32	12	JY>[	HWYJ>M	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				rrrrrr	nnnnnn
+1960872	4Q22	Exodus	33	13	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				rrrnnnn	nnnnnnn
+1961121	4Q22	Exodus	34	10	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					nnnr	nnnn
+1961309	4Q22	Exodus	34	24	JRC[	>WRJC	>WRJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+1961782	4Q23	Leviticus	14	29	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+1961994	4Q23	Leviticus	14	45	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	perf	pl	m	p3	verb				W	rrrrrr	nnnnnn
+1962685	4Q23	Leviticus	16	27	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+1962887	4Q23	Leviticus	19	6	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+1963354	4Q23	Leviticus	27	18	JTR[	NWTRT	NWTR	CMCC	CMCCC	nif	ptca	pl	f	NA	verb		T		H	rrrrr	nnnnn
+1964058	4Q23	Numbers	4	5	JRD[	HWRDW	HWRDW	CMCCM	CMCCM	hif	perf	pl		p3	verb				W	rrrrr	nnnnn
+1964520	4Q23	Numbers	5	7	JSP[	JSP	JSP	CCC	CCC	hif	impf	sg	m	p3	verb					rrr	nnn
+1966120	4Q23	Numbers	32	39	JRC[	JWRC	JWRC	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+1966379	4Q23	Numbers	33	52	JRC[	HWRCTM	HWRCT	CMCCC	CMCCCC	hif	perf	pl	m	p2	verb		M		W	rrrrnn	nnnnnn
+1966405	4Q23	Numbers	33	53	JRC[	HWRCTM	HWRCT	CMCCC	CMCCCC	hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn
+1966965	4Q24	Leviticus	2	3	JTR[	NWTRT	NWTRT	CMCCC	CMCCC	nif	ptca	sg	f	NA	verb				WH	rrrrr	nnnnn
+1967077	4Q24	Leviticus	2	10	JTR[	NWTRT	NWTRT	CMCCC	CMCCC	nif	ptca	sg	f	NA	verb				WH	nnrrr	nnnnn
+1968017	4Q24	Leviticus	22	27	JLD[	JWLD	JWLD	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+1968069	4Q24	Leviticus	22	30	JTR[	TWTJRW	TWTJRW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnr	nnnnnn
+1968100	4Q24	Leviticus	22	33	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn
+1968830	4Q24	Leviticus	24	14	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	NA	verb					rrrr	nnnn
+1968974	4Q24	Leviticus	24	23	JY>[	JWYJ>W	JWYJ>W	CMCMCM	CMCMCM	hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn
+1969057	4Q24	Leviticus	25	45	JLD[	HWLJDW	HWLJDW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+1969571	4Q25	Leviticus	4	14	JD<[	NWD<H	NWD<H	CMCCM	CMCCM	nif	perf	sg	f	p3	verb				W	rrrnn	nnnnn
+1969876	4Q26	Leviticus	14	29	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn
+1970556	4Q26a	Leviticus	19	36	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb					rrrrrr	nnnnnn
+1972101	4Q27	Numbers	16	5	JD<[	JD<	JD<	CCC	CCC	hif	impf	sg	m	p3	verb				W	rrr	nnn
+1972224	4Q27	Numbers	16	11	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	nrrrrr	nnnnnn
+1972616	4Q27	Numbers	19	3	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	perf	pl	m	p3	verb				W	rrrrrr	nnnnnn
+1972788	4Q27	Numbers	20	13	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg		p2	verb					nrrr	nnnn
+1972813	4Q27	Numbers	20	16	JY>[	JWYJ>NW	JWYJ>	CMCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn
+1973493	4Q27	Numbers	22	15	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+1973593	4Q27	Numbers	22	19	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+1974017	4Q27	Numbers	23	22	JY>[	MWYJ>M	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn
+1974269	4Q27	Numbers	25	4	JQ<[	HWQ<	HWQ<	CMCC	CMCC	hif	impv	sg	m	NA	verb				W	rnnn	nnnn
+1974884	4Q27	Numbers	26	29	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1975024	4Q27	Numbers	26	65	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					rrrn	nnnn
+1975106	4Q27	Numbers	27	3	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn
+1976763	4Q27	Numbers	32	21	JRC[	HWRJCW	HWRJC	CMCMC	CMCMCM	hif	infc	NA		NA	verb	W				rrrrrr	nnnnnn
+1977056	4Q27	Numbers	32	39	JRC[	JWRJCW	JWRJCW	CMCMCM	CMCMCM	hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn
+1977334	4Q27	Numbers	33	52	JRC[	HWRCTM	HWRCT	CMCCC	CMCCCC	hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn
+1978526	4Q28	Deuteronomy	24	8	JRH[	JWRW	JWRW	CMCM	CMCM	hif	impf	pl	m	p3	verb					rrrr	nnnn
+1978553	4Q29	Deuteronomy	29	24	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	infc	NA		NA	verb	W			B	rrrrrr	nnnnnn
+1978660	4Q29	Deuteronomy	30	5	JVB[	HJVBK	HJVB	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn
+1978729	4Q29	Deuteronomy	30	9	JTR[	HWTJRK	HWTJR	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K			W	rrrrrr	nnnnnn
+1979343	4Q29	Deuteronomy	33	29	JC<[	NWC<	NWC<	CMCC	CMCC	nif	perf	sg	m	p3	verb					rrrr	nnnn
+1979426	4Q30	Deuteronomy	3	26	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					rrrr	nnnn
+1979674	4Q30	Deuteronomy	8	3	JD<[	HWDJ<K	HWDJ<	CMCMC	CMCMCC	hif	infc	NA		NA	verb	K				nnnnnn	nnnnnn
+1979819	4Q30	Deuteronomy	9	29	JY>[	HWY>T	HWY>T	CMCMC	CMCMC	hif	perf	sg	m	p2	verb					rrrrr	nnnnn
+1980230	4Q30	Deuteronomy	13	11	JY>[	MWYJ>K	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K			H	rrrrrr	nnnnnn
+1980246	4Q30	Deuteronomy	13	12	JSP[	JWSJPW	JWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+1980432	4Q30	Deuteronomy	15	19	JLD[	JWLD	JWLD	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+1980720	4Q30	Deuteronomy	17	4	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa	NA		NA	verb					nnrr	nnnn
+1980736	4Q30	Deuteronomy	17	5	JY>[	HWY>T	HWY>T	CMCMC	CMCMC	hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn
+1980847	4Q30	Deuteronomy	17	16	JSP[	TSPWN	TSPW	CCCM	CCCMC	hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn
+1981263	4Q30	Deuteronomy	28	11	JTR[	HWTRK	HWTR	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn
+1981462	4Q30	Deuteronomy	28	29	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+1982389	4Q31	Deuteronomy	3	26	JSP[	TSP	TSP	CCC	CCC	hif	impf	sg	m	p2	verb					nnn	nnn
+1982598	4Q32	Deuteronomy	7	21	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	rrnn	nnnn
+1982674	4Q32	Deuteronomy	7	25	JQC[	TWQC	TWQC	CMCC	CMCC	nif	impf	sg	m	p2	verb					rrrr	nnnn
+1982777	4Q32	Deuteronomy	8	3	JD<[	HWD<K	HWD<	CMCC	CMCCC	hif	infc	NA		NA	verb	K				rrrrr	nnnnn
+1982920	4Q32	Deuteronomy	8	15	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+1982931	4Q32	Deuteronomy	8	15	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn
+1982954	4Q32	Deuteronomy	8	16	JVB[	HJVBK	HJVB	CMCC	CMCCC	hif	infc	NA		NA	verb	K			L	nrrrr	nnnnn
+1982995	4Q33	Deuteronomy	4	25	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+1983001	4Q33	Deuteronomy	4	25	JCN[	NWCNTM	NWCNT	CMCCC	CMCCCC	nif	perf	pl	m	p2	verb		M		W	rrrrrn	nnnnnn
+1983134	4Q33	Deuteronomy	7	25	JQC[	TWQC	TWQC	CMCC	CMCC	nif	impf	sg	m	p2	verb					rrrr	nnnn
+1983186	4Q33	Deuteronomy	8	3	JD<[	HWD<K	HWD<	CMCC	CMCCC	hif	infc	NA		NA	verb	K				rrrrr	nnnnn
+1983388	4Q33	Deuteronomy	8	14	JY>[	MWYJ>K	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn
+1983732	4Q33	Deuteronomy	19	18	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa	NA		NA	verb					rrrr	nnnn
+1983769	4Q33	Deuteronomy	19	20	JSP[	JSPW	JSPW	CCCM	CCCM	hif	impf	pl	m	p3	verb					rrrr	nnnn
+1983886	4Q33	Deuteronomy	20	4	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1984010	4Q33	Deuteronomy	21	4	JRD[	HRJDW	HRJDW	CCMCM	CCMCM	hif	perf	pl		p3	verb				W	nnnnn	nnnnn
+1984213	4Q33	Deuteronomy	22	14	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nrrrr	nnnnn
+1984242	4Q33	Deuteronomy	22	15	JY>[	HWYJ>W	HWYJ>W	CMCMCM	CMCMCM	hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn
+1984909	4Q33	Deuteronomy	27	8	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa	NA		NA	verb					rrrr	nnnn
+1984996	4Q34	Deuteronomy	9	12	JY>[	HWY>T	HWY>T	CMCMC	CMCMC	hif	perf	sg	m	p2	verb					rrrrr	nnnnn
+1985267	4Q34	Deuteronomy	25	3	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+1985269	4Q34	Deuteronomy	25	3	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+1985774	4Q35	Deuteronomy	1	5	J>L[	HW>JL	HW>JL	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+1985911	4Q35	Deuteronomy	1	11	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+1986838	4Q35	Deuteronomy	33	10	JRH[	JWR	JWR	CMC	CMC	hif	impf	sg	m	p3	verb					nnn	nnn
+1986981	4Q35	Deuteronomy	33	19	JDH[	HDW	HDW	CCM	CCM	hif	impv	pl		NA	verb					nnn	nnn
+1987600	4Q36	Deuteronomy	30	5	JVB[	HJVBK	HJVB	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn
+1987720	4Q37	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn
+1987872	4Q37	Deuteronomy	5	15	JY>[	JY>K	JY>	CCC	CCCC	hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn
+1988031	4Q37	Deuteronomy	5	25	JSP[	MWSJPJM	MWSJP	CMCMC	CMCMCMC	hif	ptca	pl	m	NA	verb		JM			rrnnnnn	nnnnnnn
+1988111	4Q37	Deuteronomy	5	28	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+1988660	4Q37	Exodus	12	46	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+1988751	4Q37	Exodus	12	51	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1988813	4Q37	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnrrr	nnnnn
+1988907	4Q37	Exodus	13	9	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn
+1989066	4Q38	Deuteronomy	5	28	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rnnnnn	nnnnnn
+1990377	4Q38c	Deuteronomy	14	28	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+1990574	4Q39	Deuteronomy	28	68	JSP[	TSJP	TSJP	CCMC	CCMC	hif	impf	sg	m	p2	verb					rrrr	nnnn
+1990690	4Q39	Deuteronomy	33	2	JP<[	HWPJ<	HWPJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+1990962	4Q40	Deuteronomy	7	19	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn
+1991010	4Q40	Deuteronomy	7	21	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	rrrr	nnnn
+1991257	4Q41	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn
+1991426	4Q41	Deuteronomy	5	15	JY>[	JYJ>K	JYJ>	CCMC	CCMCC	hif	wayq	sg	m	p3	verb	K			W	nnnnn	nnnnn
+1991741	4Q41	Deuteronomy	5	28	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+1992534	4Q42	Deuteronomy	28	58	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+1992668	4Q42	Deuteronomy	29	24	JY>[	HWYJ>W	HWYJ>	CMCMC	CMCMCM	hif	infc	NA		NA	verb	W			B	rrrrrr	nnnnnn
+1993171	4Q45	Deuteronomy	7	17	JRC[	HWRJCM	HWRJC	CMCMC	CMCMCC	hif	infc	NA		NA	verb	M			L	nnnnnn	nnnnnn
+1993213	4Q45	Deuteronomy	7	19	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn
+1993261	4Q45	Deuteronomy	7	21	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	rrrn	nnnn
+1993832	4Q45	Deuteronomy	14	28	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+1994363	4Q45	Deuteronomy	32	13	JNQ[	JNQHW	JNQ	CCC	CCCCM	hif	wayq	sg	m	p3	verb	HW			W	rrrrr	nnnnn
+1995170	4Q47	Joshua	7	12	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+1995414	4Q47	Joshua	8	7	JRC[	HWRCTM	HWRCT	CMCCC	CMCCCC	hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn
+1995432	4Q47	Joshua	8	8	JYT[	TYJTW	TYJTW	CCMCM	CCMCM	hif	impf	pl	m	p2	verb					rrrrr	nnnnn
+1995980	4Q48	Joshua	17	2	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn
+1996144	4Q48	Joshua	17	12	JRC[	HWRJC	HWRJC	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1996151	4Q48	Joshua	17	12	J>L[	JW>L	JW>L	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+1996175	4Q48	Joshua	17	13	JRC[	HWRC	HWRC	CMCC	CMCC	hif	infa	NA		NA	verb				W	rrrr	nnnn
+1996177	4Q48	Joshua	17	13	JRC[	HWRJCHW	HWRJC	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	HW				nnnnnnn	nnnnnnn
+1996469	4Q50	Judges	19	6	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	NA	verb					rrrr	nnnn
+1996565	4Q50	Judges	21	16	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		L	rrrrrr	nnnnnn
+1996974	4Q51	1_Samuel	1	23	JNQ[	TJNQ	TJNQ	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	rrrr	nnnn
+1997193	4Q51	1_Samuel	2	6	JRD[	MWRJD	MWRJD	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn
+1997199	4Q51	1_Samuel	2	7	JRC[	MWRJC	MWRJC	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+1997216	4Q51	1_Samuel	2	8	JCB[	HWCJB	HWCJB	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+1997849	4Q51	1_Samuel	2	36	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				H	nnnn	nnnn
+1997989	4Q51	1_Samuel	3	21	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+1998013	4Q51	1_Samuel	4	3	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn
+1998315	4Q51	1_Samuel	6	2	JD<[	HWDJ<WNW	HWDJ<W	CMCMCM	CMCMCMCM	hif	impv	pl	m	NA	verb	NW				rrrrrrrr	nnnnnnnn
+1999018	4Q51	1_Samuel	9	8	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+1999098	4Q51	1_Samuel	9	16	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn
+1999472	4Q51	1_Samuel	10	8	JXL[	TWXL	TWXL	CMCC	CMCC	hif	impf	sg	m	p2	verb					rrrr	nnnn
+1999477	4Q51	1_Samuel	10	8	JD<[	HD<TJ	HD<TJ	CCCCM	CCCCM	hif	perf	sg		p1	verb				W	nnnrr	nnnnn
+1999749	4Q51	1_Samuel	10	27	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn
+1999784	4Q51	1_Samuel	10	27	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg		NA	verb					rrrrn	nnnnn
+2000073	4Q51	1_Samuel	12	8	JY>[	JWYJ>W	JWYJ>W	CMCMCM	CMCMCM	hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn
+2000289	4Q51	1_Samuel	14	24	J>L[	JW>L	JW>L	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2000517	4Q51	1_Samuel	14	47	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2001671	4Q51	1_Samuel	25	26	JC<[	HWC<	HWC<	CMCC	CMCC	hif	infa	NA		NA	verb				W	rrrr	nnnn
+2001971	4Q51	1_Samuel	27	1	J>C[	NW>C	NW>C	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	rrrr	nnnn
+2002559	4Q51	1_Samuel	31	3	JRH=[	MWRJM	MWR	CMC	CMCMC	hif	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn
+2003142	4Q51	2_Samuel	3	2	JLD[	JWLD	JWLD	CMCC	CMCC	nif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2003297	4Q51	2_Samuel	3	9	JSP[	JSJP	JSJP	CCMC	CCMC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2003739	4Q51	2_Samuel	3	34	JSP[	JSPW	JSPW	CCCM	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn
+2003769	4Q51	2_Samuel	3	35	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2004107	4Q51	2_Samuel	5	2	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn
+2004329	4Q51	2_Samuel	5	13	JLD[	JWLDW	JWLDW	CMCCM	CMCCM	nif	wayq	pl	m	p3	verb				W	rrrrn	nnnnn
+2004813	4Q51	2_Samuel	6	17	JYG[	JYGW	JYGW	CCCM	CCCM	hif	wayq	pl	m	p3	verb				W	rrrr	nnnn
+2004932	4Q51	2_Samuel	7	23	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	NA	verb		WT		W	rrrrrr	nnnnnn
+2005061	4Q51	2_Samuel	7	29	J>L[	HW>L	HW>L	CMCC	CMCC	hif	impv	sg	m	NA	verb					nnnn	nnnn
+2005172	4Q51	2_Samuel	8	4	JTR[	JWTR	JWTR	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2005215	4Q51	2_Samuel	8	6	JC<[	JC<	JC<	CCC	CCC	hif	wayq	sg	m	p3	verb				W	rrr	nnn
+2005498	4Q51	2_Samuel	10	19	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+2005871	4Q51	2_Samuel	11	20	JRH=[	TJRW	TJRW	CMCM	CMCM	nif	impf	pl	m	p2	verb					rrrr	nnnn
+2005992	4Q51	2_Samuel	12	8	JSP[	>SPH	>SPH	CCCM	CCCM	hif	impf	sg		p1	verb				W	rrrr	nnnn
+2006249	4Q51	2_Samuel	12	30	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2006259	4Q51	2_Samuel	12	31	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2006569	4Q51	2_Samuel	13	18	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2006887	4Q51	2_Samuel	13	30	JTR[	NWTR	NWTR	CMCC	CMCC	nif	perf	sg	m	p3	verb					rrrr	nnnn
+2007264	4Q51	2_Samuel	14	19	JMN[	HMJN	HMJN	CCMC	CCMC	hif	infc	NA		NA	verb				L	rrrr	nnnn
+2008774	4Q51	2_Samuel	19	14	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrnn	nnnnn
+2009130	4Q51	2_Samuel	20	13	JGH=[	HGH	HGH	CCM	CCM	hif	perf	sg	m	p3	verb					rrr	nnn
+2009435	4Q51	2_Samuel	21	6	JQ<[	HWQ<NWM	HWQ<NW	CMCCCM	CMCCCMC	hif	perf	pl		p1	verb	M			W	rrrrrrr	nnnnnnn
+2009612	4Q51	2_Samuel	22	20	JY>[	JWYJ>NJ	JWYJ>	CMCMC	CMCMCCM	hif	wayq	sg		p3	verb	NJ			W	rrrrrrr	nnnnnnn
+2009695	4Q51	2_Samuel	22	28	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+2009836	4Q51	2_Samuel	22	42	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn
+2009905	4Q51	2_Samuel	22	49	JY>[	MWYJ>J	MWYJ>	CMCMC	CMCMCM	hif	ptca	sg	m	NA	verb	J			W	rrrrrr	nnnnnn
+2009919	4Q51	2_Samuel	22	50	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg		p1	verb	K				nnnn	nnnn
+2011136	4Q52	1_Samuel	16	3	JD<[	>WDJ<K	>WDJ<	CMCMC	CMCMCC	hif	impf	sg		p1	verb	K				rrrrrr	nnnnnn
+2011370	4Q52	1_Samuel	19	12	JRD[	TWRD	TWRD	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	rrrr	nnnn
+2011704	4Q52	1_Samuel	20	36	JRH=[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	NA	verb					rrrr	nnnn
+2012523	4Q53	1_Samuel	25	31	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				WL	rrrrr	nnnnn
+2012528	4Q53	1_Samuel	25	31	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+2012611	4Q53	2_Samuel	14	10	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2012858	4Q53	2_Samuel	14	19	JMN[	HJMJN	HJMJN	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2013066	4Q53	2_Samuel	14	27	JLD[	JWLDW	JWLDW	CMCCM	CMCCM	nif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn
+2013142	4Q53	2_Samuel	14	30	JYT[	HYJTWH	HYJTW	CCMCM	CCMCMC	hif	impv	pl		NA	verb	H			W	nnnnnn	nnnnnn
+2013146	4Q53	2_Samuel	14	30	JYT[	JYJTW	JYJTW	CCMCM	CCMCM	hif	wayq	pl		p3	verb				W	nnnrr	nnnnn
+2013163	4Q53	2_Samuel	14	30	JYT[	HYJTW	HYJTW	CCMCM	CCMCM	hif	perf	pl	m	p3	verb					rrrrr	nnnnn
+2013185	4Q53	2_Samuel	14	31	JYT[	HYJTH	HYJT	CCMC	CCMCM	hif	perf	sg		p3	verb	H				nnnnn	nnnnn
+2013451	4Q53	2_Samuel	15	8	JCB[	HCB	HCB	CCC	CCC	hif	infa	NA		NA	verb					rrr	nnn
+2014212	4Q54	1_Kings	8	5	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn
+2014731	4Q55	Isaiah	12	4	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2014737	4Q55	Isaiah	12	4	JD<[	HWDJ<W	HWDJ<W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2014838	4Q55	Isaiah	13	6	JLL[	HJLJLW	HJLJLW	CCCMCM	CCCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2014938	4Q55	Isaiah	13	12	JQR[	>WQJR	>WQJR	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2015330	4Q55	Isaiah	21	1	JR>[	NWR>H	NWR>H	CMCCM	CMCCM	nif	ptca	sg	f	NA	verb					rrrrr	nnnnn
+2015826	4Q55	Isaiah	23	1	JLL[	HJLJLW	HJLJLW	CCCMCM	CCCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+2015898	4Q55	Isaiah	23	6	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2015910	4Q55	Isaiah	23	7	JBL[	JBLWH	JBLW	CCCM	CCCMC	hif	impf	pl	m	p3	verb	H				rrrrr	nnnnn
+2015973	4Q55	Isaiah	23	12	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn
+2016089	4Q56	Isaiah	1	5	JSP[	TWSJPW	TWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn
+2016148	4Q56	Isaiah	2	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn
+2016885	4Q56	Isaiah	13	6	JLL[	HJLJLW	HJLJLW	CCCMCM	CCCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+2016983	4Q56	Isaiah	13	12	JQR[	>WQJR	>WQJR	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2017285	4Q56	Isaiah	18	7	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					nnnn	nnnn
+2017513	4Q56	Isaiah	19	13	J>L=[	NW>LW	NW>LW	CMCCM	CMCCM	nif	perf	pl		p3	verb					rrrrr	nnnnn
+2017675	4Q56	Isaiah	19	20	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnnrr	nnnnn
+2017682	4Q56	Isaiah	19	21	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	rrrr	nnnn
+2018725	4Q56	Isaiah	39	6	JTR[	JWTR	JWTR	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+2018737	4Q56	Isaiah	39	7	JLD[	TWLJD	TWLJD	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+2018893	4Q56	Isaiah	40	26	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn
+2019005	4Q56	Isaiah	42	3	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2019075	4Q56	Isaiah	42	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2019163	4Q56	Isaiah	43	12	JC<[	HWC<TJ	HWC<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2019204	4Q56	Isaiah	43	14	JRD[	HWRDTJ	HWRDTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2019382	4Q56	Isaiah	44	27	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2019401	4Q56	Isaiah	44	28	JSD[	TWSD	TWSD	CMCC	CMCC	nif	impf	sg	f	p3	verb					rrrr	nnnn
+2019424	4Q56	Isaiah	45	20	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2019430	4Q56	Isaiah	45	21	J<Y[	JW<YW	JW<YW	CMCCM	CMCCM	nif	impf	pl	m	p3	verb					nnnnn	nnnnn
+2019453	4Q56	Isaiah	45	21	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn
+2019460	4Q56	Isaiah	45	22	JC<[	HWC<W	HWC<W	CMCCM	CMCCM	nif	impv	pl	m	NA	verb				W	rrrrr	nnnnn
+2019669	4Q56	Isaiah	49	23	JNQ[	MJNJQTJK	MJNJQ	CMCMC	CMCMCCMC	hif	ptca	pl	f	NA	verb	K	TJ			nnrrrrrr	nnnnnnnn
+2020516	4Q57	Isaiah	11	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn
+2020649	4Q57	Isaiah	11	11	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2020734	4Q57	Isaiah	12	1	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg		p1	verb	K				rrrr	nnnn
+2021049	4Q57	Isaiah	23	12	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn
+2021128	4Q57	Isaiah	23	16	JVB[	HJVJBJ	HJVJBJ	CMCMCM	CMCMCM	hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn
+2021429	4Q57	Isaiah	24	20	JSP[	TSJP	TSJP	CCMC	CCMC	hif	impf	sg	f	p3	verb					rrrr	nnnn
+2021498	4Q57	Isaiah	25	1	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg		p1	verb					rrrn	nnnn
+2021545	4Q57	Isaiah	25	9	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn
+2021771	4Q57	Isaiah	28	9	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2021865	4Q57	Isaiah	28	13	JQC[	NWQCW	NWQCW	CMCCM	CMCCM	nif	perf	pl		p3	verb				W	rrrrr	nnnnn
+2022026	4Q57	Isaiah	30	15	JC<[	TWC<WN	TWC<W	CCCCM	CCCCMC	nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn
+2022177	4Q57	Isaiah	33	19	J<Z[	NW<Z	NW<Z	CMCC	CMCC	nif	ptca	sg	m	NA	verb					rrrr	nnnn
+2022244	4Q57	Isaiah	33	22	JC<[	JWCJ<NW	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn
+2022708	4Q57	Isaiah	48	17	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+2023172	4Q57	Isaiah	54	3	JCB[	JWCJBW	JWCJBW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnrrrr	nnnnnn
+2023367	4Q57	Isaiah	54	16	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn
+2023964	4Q58	Isaiah	47	1	JSP[	TWSPJ	TWSPJ	CMCCM	CMCCM	hif	impf	sg	f	p2	verb					nnnnn	nnnnn
+2024014	4Q58	Isaiah	47	5	JSP[	TWSJPJ	TWSJPJ	CMCMCM	CMCMCM	hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn
+2024214	4Q58	Isaiah	48	17	J<L[	HW<JL	HW<JL	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2024268	4Q58	Isaiah	48	20	JY>[	HWYJ>WH	HWYJ>W	CMCMCC	CMCMCCM	hif	impv	pl	m	NA	verb	H				nnnnnnn	nnnnnnn
+2024628	4Q58	Isaiah	52	5	JLL[	JHJLJLW	JHJLJLW	CCMCMCM	CCMCMCM	hif	impf	pl	m	p3	verb					rrrrrrr	nnnnnnn
+2024834	4Q58	Isaiah	54	3	JCB[	JWCJBW	JWCJBW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn
+2025005	4Q58	Isaiah	57	10	J>C[	NW>C	NW>C	CMCC	CMCC	nif	ptca	sg	m	NA	verb					nnnn	nnnn
+2025050	4Q58	Isaiah	57	12	J<L[	JW<LWK	JW<LW	CMCCM	CMCCMC	hif	impf	pl	m	p3	verb	K				nnnnnn	nnnnnn
+2025294	4Q58	Isaiah	58	5	JY<[	JYJ<	JYJ<	CCMC	CCMC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2025406	4Q59	Isaiah	2	3	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn
+2025430	4Q59	Isaiah	2	4	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn
+2025587	4Q59	Isaiah	8	5	JSP[	JWSP	JWSP	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2026062	4Q59	Isaiah	12	1	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg		p1	verb	K				rrrr	nnnn
+2026107	4Q59	Isaiah	12	4	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2026113	4Q59	Isaiah	12	4	JD<[	HWDJ<W	HWDJ<W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2026590	4Q60	Isaiah	1	13	JSP[	TWSJPW	TWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnrrrr	nnnnnn
+2026655	4Q60	Isaiah	1	18	JKX[	NWKX	NWKX	CMCC	CMCC	nif	impf	pl		p1	verb				W	rrnn	nnnn
+2026916	4Q60	Isaiah	2	3	JRH[	JRNW	JR	CC	CCCM	hif	impf	sg	m	p3	verb	NW			W	rrrr	nnnn
+2027318	4Q60	Isaiah	8	5	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	rrn	nnn
+2027930	4Q60	Isaiah	28	9	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2028097	4Q61	Isaiah	42	15	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2028105	4Q61	Isaiah	42	15	JBC[	>WBJC	>WBJC	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2028339	4Q61	Isaiah	43	3	JC<[	MWCJ<K	MWCJ<	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K				rrrrrr	nnnnnn
+2028372	4Q61	Isaiah	43	17	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn
+2028467	4Q61	Isaiah	43	23	JG<[	HWG<TJK	HWG<TJ	CMCCCM	CMCCCMC	hif	perf	sg		p1	verb	K				rrnnnnn	nnnnnnn
+2028551	4Q62	Isaiah	42	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2028792	4Q63	Isaiah	1	5	JSP[	TWSJPW	TWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn
+2029406	4Q68	Isaiah	14	31	JLL[	HJLJLJ	HJLJLJ	CMCMCM	CMCMCM	hif	impv	sg	f	NA	verb					rrrrrr	nnnnnn
+2029867	4Q70	Jeremiah	8	1	JY>[	JWYJ>W	JWYJ>W	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+2030066	4Q70	Jeremiah	8	9	JBC[	HBCW	HBCW	CCCM	CCCM	hif	perf	pl		p3	verb					rrrr	nnnn
+2030125	4Q70	Jeremiah	8	12	JBC[	HBCW	HBCW	CCCM	CCCM	hif	perf	pl		p3	verb					rrrr	nnnn
+2030292	4Q70	Jeremiah	8	20	JC<[	NWC<NW	NWC<NW	CMCCCM	CMCCCM	nif	perf	pl		p1	verb					rrrrrr	nnnnnn
+2030433	4Q70	Jeremiah	9	9	JYT[	NYTW	NYTW	CCCM	CCCM	nif	perf	pl		p3	verb					rrrr	nnnn
+2030664	4Q70	Jeremiah	10	13	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2030674	4Q70	Jeremiah	10	14	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					rrrr	nnnn
+2030725	4Q70	Jeremiah	11	4	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	infc	NA		NA	verb	J				rrrrrr	nnnnnn
+2030955	4Q70	Jeremiah	12	13	J<L[	JW<LW	JW<LW	CMCCM	CMCCM	hif	impf	pl	m	p3	verb					rrrrr	nnnnn
+2031195	4Q70	Jeremiah	13	23	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+2031385	4Q70	Jeremiah	17	14	JC<[	HWC<NJ	HWC<	CMCC	CMCCCM	hif	impv	sg	m	NA	verb	NJ				nnnnnn	nnnnnn
+2031387	4Q70	Jeremiah	17	14	JC<[	>WC<H	>WC<H	CCCCM	CCCCM	nif	impf	sg		p1	verb				W	rrrrn	nnnnn
+2031525	4Q70	Jeremiah	17	22	JY>[	TWYJ>W	TWYJ>W	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					rrnnnn	nnnnnn
+2032014	4Q70	Jeremiah	22	3	JNH[	TNW	TNW	CCM	CCM	hif	impf	pl	m	p2	verb					rrr	nnn
+2032103	4Q70	Jeremiah	22	6	JCB[	NWCBH	NWCBH	CMCCM	CMCCM	nif	perf	sg		p3	verb					rrrrr	nnnnn
+2032628	4Q71	Jeremiah	10	5	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infa	NA		NA	verb					rrrrr	nnnnn
+2032689	4Q71	Jeremiah	10	13	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2032699	4Q71	Jeremiah	10	14	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					rrrr	nnnn
+2032870	4Q72	Jeremiah	4	14	JC<[	TWC<J	TWC<J	CMCCM	CMCCM	nif	impf	sg	f	p2	verb					rrrrr	nnnnn
+2033200	4Q72	Jeremiah	20	3	JY>[	JY>	JY>	CCM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+2034216	4Q72	Jeremiah	26	13	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2034382	4Q72	Jeremiah	30	7	JC<[	JWC<	JWC<	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+2034669	4Q72	Jeremiah	31	7	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	impv	sg	m	NA	verb					nnnnn	nnnnn
+2034707	4Q72	Jeremiah	31	9	JBL[	>WBJLM	>WBJL	CMCMC	CMCMCC	hif	impf	sg		p1	verb	M				rrrrnr	nnnnnn
+2034797	4Q72	Jeremiah	31	12	JSP[	JWSJPW	JWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn
+2034846	4Q72	Jeremiah	31	19	JD<[	HWD<J	HWD<	CMCC	CMCCM	nif	infc	NA		NA	verb	J				rrrrr	nnnnn
+2035926	4Q73	Ezekiel	11	7	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg		p3	verb					rrrrr	nnnnn
+2035941	4Q73	Ezekiel	11	9	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2035982	4Q73	Ezekiel	23	14	JSP[	TWSP	TWSP	CMCC	CMCC	hif	wayq	sg	f	p3	verb				W	rrrr	nnnn
+2036420	4Q74	Ezekiel	1	22	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				H	nnnn	nnnn
+2036711	4Q76	Malachi	2	17	JG<[	HG<TM	HG<T	CCCC	CCCCC	hif	perf	pl	m	p2	verb		M		W	nnnnn	nnnnn
+2036719	4Q76	Malachi	2	17	JG<[	HGW<NW	HGW<NW	CCCCCM	CCCCCM	hif	perf	pl		p1	verb					nnnnnn	nnnnnn
+2037237	4Q76	Malachi	3	23	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn
+2037686	4Q77	Zephaniah	3	19	JC<[	HWC<TJ	HWC<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2038020	4Q78	Hosea	4	4	JKX[	JWKX	JWKX	CMCC	CMCC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2038292	4Q78	Hosea	7	12	JRD[	>WRJDM	>WRJD	CMCMC	CMCMCC	hif	impf	sg		p1	verb	M				nnnrrr	nnnnnn
+2038293	4Q78	Hosea	7	12	JSR[	>JSRM	>JSR	CCCC	CCCCC	hif	impf	sg		p1	verb	M				rrrrr	nnnnn
+2038365	4Q78	Hosea	13	4	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb				W	rrrrr	nnnnn
+2038431	4Q78	Hosea	13	10	JC<[	JWCJ<KH	JWCJ<	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	KH			W	rrrrrrr	nnnnnnn
+2038508	4Q78	Hosea	14	4	JC<[	JWCJ<JNW	JWCJ<	CMCMC	CMCMCMCM	hif	impf	sg	m	p3	verb	JNW				nrrrrrrr	nnnnnnnn
+2038555	4Q78	Joel	1	10	JBC[	HWBJC	HWBJC	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2038560	4Q78	Joel	1	11	JBC[	HWBJCW	HWBJCW	CMCMCM	CMCMCM	hif	impv	pl		NA	verb					rrrrrr	nnnnnn
+2038562	4Q78	Joel	1	11	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	impv	pl		NA	verb					rrrrrr	nnnnnn
+2038576	4Q78	Joel	1	12	JBC[	HWBJCH	HWBJCH	CMCMCM	CMCMCM	hif	perf	sg	f	p3	verb					rrrrrr	nnnnnn
+2038592	4Q78	Joel	1	12	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					rrrr	nnnn
+2038603	4Q78	Joel	1	13	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnrnn	nnnnnn
+2038676	4Q78	Joel	1	17	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					rrrr	nnnn
+2038821	4Q78	Joel	2	11	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	nnnn	nnnn
+2039083	4Q78	Joel	2	23	JRD[	JWRD	JWRD	CMCC	CMCC	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2039471	4Q78	Amos	3	3	J<D[	NW<DW	NW<DW	CMCCM	CMCCM	nif	perf	pl		p3	verb					rrrrr	nnnnn
+2039615	4Q78	Amos	3	11	JRD[	HWR	HWR	CMC	CMC	hif	perf	sg	m	p3	verb				W	nnn	nnn
+2039981	4Q78	Amos	7	13	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nrrrr	nnnnn
+2040287	4Q79	Hosea	1	7	JC<[	HWC<TJM	HWC<TJ	CMCCCM	CMCCCMC	hif	perf	sg		p1	verb	M			W	rrrrrrr	nnnnnnn
+2040293	4Q79	Hosea	1	7	JC<[	>WCJ<M	>WCJ<	CMCMC	CMCMCC	hif	impf	sg		p1	verb	M				rrrrrr	nnnnnn
+2040426	4Q79	Hosea	2	5	JYG[	HYGTJH	HYGTJ	CCCCM	CCCCMC	hif	perf	sg		p1	verb	H			W	rrrrrr	nnnnnn
+2040429	4Q79	Hosea	2	5	JLD[	HWLDH	HWLD	CMCC	CMCCM	nif	infc	NA		NA	verb	H				rrrrr	nnnnn
+2041272	4Q80	Zechariah	8	7	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+2041861	4Q82	Hosea	2	5	JYG[	HYGTJH	HYGTJ	CCCCM	CCCCMC	hif	perf	sg		p1	verb	H			W	rrrrrr	nnnnnn
+2041864	4Q82	Hosea	2	5	JLD[	HWLDH	HWLD	CMCC	CMCCM	nif	infc	NA		NA	verb	H				rrrrr	nnnnn
+2042285	4Q82	Hosea	6	3	JRH===[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2042356	4Q82	Hosea	7	12	JRD[	>WRJDM	>WRJD	CMCMC	CMCMCC	hif	impf	sg		p1	verb	M				rrrrrr	nnnnnn
+2042357	4Q82	Hosea	7	12	JSR[	>JSRM	>JSR	CCCC	CCCCC	hif	impf	sg		p1	verb	M				rrrrr	nnnnn
+2042389	4Q82	Hosea	7	14	JLL[	JLJLW	JLJLW	CCMCM	CCMCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+2042570	4Q82	Hosea	9	13	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2042602	4Q82	Hosea	9	15	JSP[	>WSP	>WSP	CMCC	CMCC	hif	impf	sg		p1	verb					rrrr	nnnn
+2042652	4Q82	Hosea	10	1	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+2042835	4Q82	Hosea	10	12	JRH===[	JRW	JRW	CCM	CCM	hif	impf	pl	m	p3	verb				W	nnn	nnn
+2043063	4Q82	Hosea	11	11	JCB[	HWCBTJM	HWCBTJ	CMCCCM	CMCCCMC	hif	perf	sg		p1	verb	M			W	rrrrrrr	nnnnnnn
+2043220	4Q82	Hosea	12	10	JCB[	>WCJBK	>WCJB	CMCMC	CMCMCC	hif	impf	sg		p1	verb	K				rrrrrr	nnnnnn
+2043398	4Q82	Joel	1	12	JBC[	HWBJCH	HWBJCH	CMCMCM	CMCMCM	hif	perf	sg	f	p3	verb					rrrrnn	nnnnnn
+2043414	4Q82	Joel	1	12	JBC[	HBJC	HBJC	CCMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn
+2043425	4Q82	Joel	1	13	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2043479	4Q82	Joel	2	2	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					rnnn	nnnn
+2043637	4Q82	Joel	2	11	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	nnnn	nnnn
+2044156	4Q82	Amos	1	14	JYT[	HYTJ	HYTJ	CCCM	CCCM	hif	perf	sg		p1	verb				W	rrrr	nnnn
+2044469	4Q82	Amos	5	2	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					rrrrr	nnnnn
+2044491	4Q82	Amos	5	10	JKX[	MWKJX	MWKJX	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+2044578	4Q82	Amos	5	15	JYG[	HYJGW	HYJGW	CCMCM	CCMCM	hif	impv	pl	m	NA	verb				W	rrrrr	nnnnn
+2044783	4Q82	Amos	6	9	JTR[	JWTRW	JWTRW	CMCCM	CMCCM	nif	impf	pl	m	p3	verb					rrrrr	nnnnn
+2044798	4Q82	Amos	6	10	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+2044958	4Q82	Amos	7	8	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2045048	4Q82	Amos	7	13	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+2045186	4Q82	Amos	8	2	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2045192	4Q82	Amos	8	3	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn
+2045496	4Q82	Obadiah	1	3	JRD[	JWRDNJ	JWRD	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	NJ				rrrrrr	nnnnnn
+2045511	4Q82	Obadiah	1	4	JRD[	>WRJDK	>WRJD	CMCMC	CMCMCC	hif	impf	sg		p1	verb	K				rrrrrr	nnnnnn
+2045974	4Q82	Jonah	2	5	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg		p1	verb					rrr	nnn
+2046219	4Q82	Jonah	4	9	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa	NA		NA	verb				H	rrrr	nnnn
+2046227	4Q82	Jonah	4	9	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa	NA		NA	verb					rrrr	nnnn
+2046479	4Q82	Micah	4	2	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	NW			W	rrrrr	nnnnn
+2046562	4Q82	Micah	7	3	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+2046746	4Q82	Nahum	3	17	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					rrrr	nnnn
+2046804	4Q82	Zechariah	10	11	JBC[	HBJCW	HBJCW	CCMCM	CCMCM	hif	perf	pl		p3	verb				W	rrrrr	nnnnn
+2046837	4Q82	Zechariah	11	2	JLL[	HJLL	HJLL	CMCC	CMCC	hif	impv	sg	m	NA	verb					nnnn	nnnn
+2046845	4Q82	Zechariah	11	2	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2046898	4Q83	Psalms	5	9	JCR[	HWCR	HWCR	CMCC	CMCC	hif	impv	sg	m	NA	verb					rrrr	nnnn
+2046975	4Q83	Psalms	6	2	JKX[	TWKJXNJ	TWKJX	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				rrrrnnn	nnnnnnn
+2047014	4Q83	Psalms	25	8	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2047057	4Q83	Psalms	25	12	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	NW				rrrnn	nnnnn
+2047069	4Q83	Psalms	25	15	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2047125	4Q83	Psalms	33	2	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2047140	4Q83	Psalms	33	3	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2047337	4Q83	Psalms	35	18	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg		p1	verb	K				rrrr	nnnn
+2047444	4Q83	Psalms	36	4	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	rrrrr	nnnnn
+2047479	4Q83	Psalms	36	7	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+2047508	4Q83	Psalms	38	2	JKX[	TWKJXNJ	TWKJX	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				rrrrrrr	nnnnnnn
+2047629	4Q83	Psalms	38	16	JXL[	HWXLTJ	HWXLTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb					rrrrrr	nnnnnn
+2047795	4Q83	Psalms	71	10	J<Y[	NW<YW	NW<YW	CMCCM	CMCCM	nif	perf	pl		p3	verb					rrrrr	nnnnn
+2047834	4Q83	Psalms	71	14	JSP[	HWSPTJ	HWSPTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn
+2047960	4Q83	Psalms	54	3	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn
+2048147	4Q83	Psalms	67	4	JDH[	JWDWKH	JWDW	CMCM	CMCMCM	hif	impf	pl	m	p3	verb	KH				rrrrrr	nnnnnn
+2048150	4Q83	Psalms	67	4	JDH[	JWDWKH	JWDW	CMCM	CMCMCM	hif	impf	pl	m	p3	verb	KH				nnnnnn	nnnnnn
+2048170	4Q83	Psalms	67	6	JDH[	JDWKH	JDW	CCM	CCMCM	hif	impf	pl	m	p3	verb	KH			W	nnnnn	nnnnn
+2048173	4Q83	Psalms	67	6	JDH[	JWDWK	JWDW	CMCM	CMCMC	hif	impf	pl	m	p3	verb	K				rrrrr	nnnnn
+2048200	4Q83	Psalms	69	2	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				nnnrrrr	nnnnnnn
+2048601	4Q84	Psalms	94	1	JP<[	HWPJ<	HWPJ<	CMCMC	CMCMC	hif	impv	sg	m	NA	verb					nnnnn	nnnnn
+2048667	4Q84	Psalms	94	10	JKX[	JWKJX	JWKJX	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2049291	4Q84	Psalms	118	1	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2049411	4Q84	Psalms	118	19	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg		p1	verb					nnnn	nnnn
+2049445	4Q84	Psalms	118	25	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	NA	verb	H				rnnnnn	nnnnnn
+2049464	4Q84	Psalms	118	29	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2049613	4Q85	Psalms	18	4	JC<[	>WC<	>WC<	CCCC	CCCC	nif	impf	sg		p1	verb					rrnn	nnnn
+2050031	4Q85	Psalms	44	8	JC<[	HWC<TNW	HWC<T	CMCCC	CMCCCCM	hif	perf	sg	m	p2	verb	NW				rrrrrrr	nnnnnnn
+2050047	4Q85	Psalms	44	9	JDH[	NWDH	NWDH	CMCM	CMCM	hif	impf	pl		p1	verb					rrrr	nnnn
+2050381	4Q85	Psalms	50	21	JKX[	>WKJXK	>WKJX	CMCMC	CMCMCC	hif	impf	sg		p1	verb	K				nnrrnr	nnnnnn
+2050524	4Q85	Psalms	52	11	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg		p1	verb	K			W	nnnn	nnnn
+2050823	4Q86	Psalms	104	14	JY>[	HYJ>	HYJ>	CCMM	CCMM	hif	infc	NA		NA	verb				L	nnrr	nnnn
+2050925	4Q87	Psalms	76	10	JC<[	HWCJ<	HWCJ<	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2050934	4Q87	Psalms	76	11	JDH[	TWDK	TWD	CMC	CMCC	hif	impf	sg	f	p3	verb	K				rrrr	nnnn
+2050947	4Q87	Psalms	76	12	JBL[	JBJLW	JBJLW	CCMCM	CCMCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn
+2050955	4Q87	Psalms	76	13	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					rrrr	nnnn
+2050975	4Q87	Psalms	78	6	JLD[	JWLDW	JWLDW	CMCCM	CMCCM	nif	impf	pl	m	p3	verb					rrrrr	nnnnn
+2051058	4Q87	Psalms	86	11	JRH[	HWRNJ	HWR	CMC	CMCCM	hif	impv	sg	m	NA	verb	NJ				rrrrr	nnnnn
+2051422	4Q87	Psalms	105	1	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2051428	4Q87	Psalms	105	1	JD<[	HWDJ<W	HWDJ<W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnrrr	nnnnnn
+2051487	4Q87	Psalms	105	37	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn
+2051547	4Q87	Psalms	105	43	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	HJVJB	CMCMC	CMCMCM	hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn
+2051768	4Q87	Psalms	130	4	JR>[	TWR>	TWR>	CMCM	CMCM	nif	impf	sg	m	p2	verb					rrrr	nnnn
+2051777	4Q87	Psalms	130	5	JXL[	HWXLTJ	HWXLTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb					rrrrrr	nnnnnn
+2051779	4Q87	Psalms	130	6	JXL[	HWXJLJ	HWXJLJ	CMCMCM	CMCMCM	hif	impv	sg		NA	verb					rrrrrr	nnnnnn
+2051885	4Q88	Psalms	107	8	JDH[	JWDW	JWDW	CMCM	CMCM	hif	impf	pl	m	p3	verb					rrrr	nnnn
+2051943	4Q88	Psalms	107	13	JC<[	JCJ<M	JCJ<	MCMC	MCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn
+2051946	4Q88	Psalms	107	14	JY>[	JWYJ>M	JWYJ>	CMCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+2051955	4Q88	Psalms	107	15	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					nrrr	nnnn
+2051993	4Q88	Psalms	107	19	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				rrrrrr	nnnnnn
+2052029	4Q88	Psalms	107	24	JDH[	JWDW	JWDW	CMCM	CMCM	hif	impf	pl		p3	verb					nnnn	nnnn
+2052074	4Q88	Psalms	107	28	JC<[	JCJ<M	JCJ<	CCMC	CCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn
+2052105	4Q88	Psalms	107	36	JCB[	JCB	JCB	CCC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn
+2052574	4Q91	Psalms	48	4	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					rrrr	nnnn
+2052581	4Q91	Psalms	48	5	J<D[	NW<DW	NW<DW	CMCCM	CMCCM	nif	perf	pl		p3	verb					rrrrr	nnnnn
+2052847	4Q92	Psalms	135	7	JY>[	MWY>	MWY>	CMCM	CMCM	hif	ptca	sg	m	NA	verb					rrrr	nnnn
+2052965	4Q92	Psalms	99	3	JDH[	JWDW	JWDW	CMCM	CMCM	hif	impf	pl	m	p3	verb					rrrr	nnnn
+2052969	4Q92	Psalms	99	3	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	rrrr	nnnn
+2053277	4Q95	Psalms	135	7	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+2053459	4Q96	Psalms	116	6	JC<[	JHWCJ<	JHWCJ<	CCMCMC	CCMCMC	hif	impf	sg	m	p3	verb					rrrrrr	nnnnnn
+2053519	4Q97	Psalms	143	3	JCB[	HWCJBNJ	HWCJB	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+2053610	4Q98	Psalms	33	2	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					nnnr	nnnn
+2053626	4Q98	Psalms	33	3	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn
+2053769	4Q98	Psalms	33	16	JC<[	NWC<	NWC<	CMCC	CMCC	nif	ptca	sg	m	NA	verb					nnnn	nnnn
+2053960	4Q98	Psalms	35	18	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg		p1	verb	K				rrrr	nnnn
+2054072	4Q98a	Psalms	30	10	JDH[	JWDK	JWD	CMC	CMCC	hif	impf	sg	m	p3	verb	K			H	nrrr	nnnn
+2054108	4Q98a	Psalms	30	13	JDH[	>WDK	>WD	CMC	CMCC	hif	impf	sg		p1	verb	K				rrrr	nnnn
+2054121	4Q98b	Psalms	5	9	JCR[	HWCR	HWCR	CMCC	CMCC	hif	impv	sg	m	NA	verb					rrrr	nnnn
+2054383	4Q98g	Psalms	89	23	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg		p3	verb					rrrrr	nnnnn
+2054625	4Q99	Job	36	7	JCB[	JCJBM	JCJB	CCMC	CCMCC	hif	wayq	sg	m	p3	verb	M			W	rrrrr	nnnnn
+2054916	4Q99	Job	37	15	JP<[	HWPJ<	HWPJ<	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn
+2055084	4Q101	Job	13	23	JD<[	HD<NJ	HD<	CCC	CCCCM	hif	impv	sg	m	NA	verb	NJ				rrrnn	nnnnn
+2055110	4Q101	Job	13	26	JRC[	TRCNJ	TRC	CCC	CCCCM	hif	impf	sg	m	p2	verb	NJ			W	rrrrn	nnnnn
+2055412	4Q103	Proverbs	14	33	JD<[	TWD<	TWD<	CMCC	CMCC	nif	impf	sg	f	p3	verb					rrrr	nnnn
+2055444	4Q103	Proverbs	15	2	JVB[	TJVJB	TJVJB	CMCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnr	nnnnn
+2056884	4Q109	Ecclesiastes	5	13	JLD[	HWLJD	HWLJD	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn
+2057108	4Q109	Ecclesiastes	7	1	JLD[	HWLDW	HWLD	CMCC	CMCCM	nif	infc	NA		NA	verb	W				rrnnn	nnnnn
+2057430	4Q110	Ecclesiastes	1	16	JSP[	HWSPTJ	HWSPTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2057515	4Q111	Lamentations	1	4	JGH[	NWGWT	NWG	CMC	CMCMC	nif	ptca	pl	f	NA	verb		WT			rrrrr	nnnnn
+2057529	4Q111	Lamentations	1	5	JGH[	HWGH	HWG	CMC	CMCM	hif	perf	sg	m	p3	verb	H				rrrr	nnnn
+2057678	4Q111	Lamentations	1	12	JGR[	HWGJRNJ	HWGJR	CMCMC	CMCMCCM	hif	perf	sg		p3	verb	NJ				nnnnnnn	nnnnnnn
+2057691	4Q111	Lamentations	1	13	JRD[	JWRJDNJ	JWRJD	CMCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+2059536	4Q112	Daniel	10	18	JSP[	JSP	JSP	CCC	CCC	hif	wayq	sg	m	p3	verb				W	rrr	nnn
+2061171	4Q114	Daniel	10	13	JTR[	NWTRTJ	NWTRTJ	CMCCCM	CMCCCM	nif	perf	sg		p1	verb					rrrrrr	nnnnnn
+2062786	4Q128	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn
+2062987	4Q128	Deuteronomy	5	28	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+2063259	4Q128	Deuteronomy	10	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+2063322	4Q128	Deuteronomy	10	21	JR>[	NWR>T	NWR>	CMCC	CMCCC	nif	ptca	pl	f	NA	verb		T		H	rrrrr	nnnnn
+2063905	4Q128	Exodus	12	46	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+2063994	4Q128	Exodus	12	51	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2064055	4Q128	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+2064250	4Q129	Deuteronomy	5	6	JY>[	HWY>TJKH	HWY>TJ	CMCMCM	CMCMCMCM	hif	perf	sg		p1	verb	KH				nnnnnnnn	nnnnnnnn
+2064422	4Q129	Deuteronomy	5	15	JY>[	JY>K	JY>	CCC	CCCC	hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn
+2064641	4Q129	Deuteronomy	5	25	JSP[	MWSJPJM	MWSJP	CMCMC	CMCMCMC	hif	ptca	pl	m	NA	verb		JM			nrrrrrr	nnnnnnn
+2064721	4Q129	Deuteronomy	5	28	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+2064914	4Q129	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn
+2064929	4Q129	Exodus	13	9	JY>[	HWYJ>KH	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	KH				nnnnrrr	nnnnnnn
+2065024	4Q129	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn
+2065123	4Q130	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2065264	4Q130	Exodus	13	9	JY>[	HY>NW	HY>	CCM	CCMCM	hif	perf	sg	m	p3	verb	NW				nnnnn	nnnnn
+2065361	4Q130	Exodus	13	14	JY>[	HY>NW	HY>	CCM	CCMCM	hif	perf	sg	m	p3	verb	NW				nnnnn	nnnnn
+2065426	4Q130	Exodus	13	16	JY>[	HY>NW	HY>	CCM	CCMCM	hif	perf	sg	m	p3	verb	NW				nnnnn	nnnnn
+2065986	4Q133	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrnnrrr	nnnnnnn
+2066048	4Q133	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrrnnnn	nnnnnnn
+2066185	4Q134	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				rrrrnnn	nnnnnnn
+2066582	4Q135	Deuteronomy	5	25	JSP[	MWSJPJM	MWSJP	CMCMC	CMCMCMC	hif	ptca	pl	m	NA	verb		JM			rrnnnnn	nnnnnnn
+2066877	4Q135	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+2067164	4Q136	Exodus	12	46	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+2067253	4Q136	Exodus	12	51	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2067315	4Q136	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2067454	4Q136	Exodus	13	9	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn
+2067803	4Q137	Deuteronomy	5	15	JY>[	JWYJ>KH	JWYJ>	CMCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	KH			W	rrrrnnn	nnnnnnn
+2068353	4Q138	Deuteronomy	10	17	JR>[	NWRH	NWRH	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn
+2068423	4Q138	Deuteronomy	10	21	JR>[	NWR>WT	NWR>	CMCC	CMCCMC	nif	ptca	pl	f	NA	verb		WT		H	nnnnnr	nnnnnn
+2068924	4Q139	Deuteronomy	5	15	JY>[	JY>K	JY>	CCC	CCCC	hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn
+2069130	4Q140	Exodus	12	46	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+2069221	4Q140	Exodus	12	51	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2069283	4Q140	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrnn	nnnnn
+2069427	4Q140	Exodus	13	9	JY>[	HWYJ>KH	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	KH				nnnnnnn	nnnnnnn
+2069466	4Q140	Deuteronomy	5	33	JRC[	TWRJCWN	TWRJCW	CMCMCM	CMCMCMC	hif	impf	pl	m	p2	verb	N				nnnnnnn	nnnnnnn
+2069820	4Q142	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn
+2069992	4Q142	Deuteronomy	5	15	JY>[	JY>K	JY>	CCC	CCCC	hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn
+2070598	4Q145	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2070741	4Q145	Exodus	13	9	JY>[	HYJ>K	HYJ>	CCMC	CCMCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
+2071124	4Q151	Deuteronomy	5	28	JVB[	HJVJBW	HJVJBW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb					rrrrrr	nnnnnn
+2071511	4Q151	Deuteronomy	10	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+2071741	4Q154	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2071843	4Q155	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nrrrnnn	nnnnnnn
+2071905	4Q155	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn
+2072093	5Q1	Deuteronomy	7	17	JRC[	HWRCM	HWRC	CMCC	CMCCC	hif	infc	NA		NA	verb	M			L	nnnnn	nnnnn
+2072137	5Q1	Deuteronomy	7	19	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn
+2072185	5Q1	Deuteronomy	7	21	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	rrrr	nnnn
+2072403	5Q1	Deuteronomy	8	14	JY>[	MWYJ>K	MWYJ>	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn
+2072419	5Q1	Deuteronomy	8	15	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+2072430	5Q1	Deuteronomy	8	15	JY>[	MWY>	MWY>	CMCM	CMCM	hif	ptca	sg	m	NA	verb				H	nnnn	nnnn
+2072453	5Q1	Deuteronomy	8	16	JVB[	HJVBK	HJVB	CMCC	CMCCC	hif	infc	NA		NA	verb	K			L	nnnnn	nnnnn
+2072659	5Q2	1_Kings	1	27	JD<[	HWD<T	HWD<T	CMCCC	CMCCC	hif	perf	sg	m	p2	verb					rrrrr	nnnnn
+2072811	5Q2	1_Kings	1	33	JRD[	HWRDTM	HWRDT	CMCCC	CMCCCC	hif	perf	pl	m	p2	verb		M		W	nnnnnn	nnnnnn
+2073165	5Q5	Psalms	119	117	JC<[	>WC<H	>WC<H	CCCCM	CCCCM	nif	impf	sg		p1	verb				W	rrrrr	nnnnn
+2073355	5Q6	Lamentations	4	15	JSP[	JWSJPW	JWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn
+2073363	5Q6	Lamentations	4	16	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2073445	5Q6	Lamentations	4	22	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+2073695	5Q7	Lamentations	4	17	JC<[	JWC<	JWC<	CMCC	CMCC	hif	impf	sg	m	p3	verb					rrrr	nnnn
+2075454	6Q7	Daniel	10	13	JTR[	NWTRTJ	NWTRTJ	CMCCCM	CMCCCM	nif	perf	sg		p1	verb					rrrrrr	nnnnnn
+2075883	8Q1	Genesis	17	17	JLD[	JWLD	JWLD	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+2076073	8Q2	Psalms	17	7	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					rrrrr	nnnnn
+2076268	8Q3	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+2076408	8Q3	Exodus	13	9	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
+2076498	8Q3	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+2076560	8Q3	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nrrrrrr	nnnnnnn
+2076991	8Q3	Deuteronomy	10	21	JR>[	NWR>W	NWR>W	CMCCM	CMCCM	nif	ptca	pl		NA	verb				H	rrnnn	nnnnn
+2077150	8Q3	Deuteronomy	10	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg		NA	verb				WH	nnnn	nnnn
+2077216	8Q3	Exodus	12	46	JY>[	TWY>N	TWY>	CMCM	CMCMC	hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn
+2077275	8Q3	Exodus	12	51	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn
+2077390	8Q3	Deuteronomy	5	6	JY>[	HWY>TJK	HWY>TJ	CMCMCM	CMCMCMC	hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn
+2077620	8Q3	Deuteronomy	10	21	JR>[	NWR>T	NWR>	CMCC	CMCCC	nif	ptca	pl	f	NA	verb		T		H	nrrrr	nnnnn
+2078207	8Q4	Deuteronomy	10	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+2078273	8Q4	Deuteronomy	10	21	JR>[	NWR>T	NWR>	CMCC	CMCCC	nif	ptca	pl	f	NA	verb		T		H	rrrrr	nnnnn
+2079381	11Q1	Leviticus	14	18	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn
+2079563	11Q1	Leviticus	14	57	JRH[	HWRT	HWRT	CMCC	CMCC	hif	infc	NA		NA	verb				L	rrrr	nnnn
+2080495	11Q1	Leviticus	22	27	JLD[	JWLD	JWLD	CMCC	CMCC	nif	impf	sg	m	p3	verb					nnnn	nnnn
+2080735	11Q1	Leviticus	24	14	JY>[	HYJ>W	HYJ>W	CCMCM	CCMCM	hif	impv	pl	m	NA	verb					nnnnn	nnnnn
+2081216	11Q1	Leviticus	27	18	JTR[	NTRWT	NTR	CCC	CCCMC	nif	ptca	pl	f	NA	verb		WT		H	nnnnn	nnnnn
+2081717	11Q3	Deuteronomy	1	5	J>L[	HW>JL	HW>JL	CMCMC	CMCMC	hif	perf	sg	m	p3	verb					rrrrr	nnnnn
+2082085	11Q4	Ezekiel	5	16	JSP[	>SP	>SP	CCC	CCC	hif	impf	sg		p1	verb					rrr	nnn
+2082408	11Q5	Psalms	102	26	JSD[	NWSDH	NWSDH	CMCCM	CMCCM	nif	perf	sg		p3	verb					nnnnn	nnnnn
+2082517	11Q5	Psalms	109	26	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				rnnnnnn	nnnnnnn
+2082551	11Q5	Psalms	109	30	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg		p1	verb					nnnn	nnnn
+2082568	11Q5	Psalms	118	25	JC<[	HWCJ<H	HWCJ<	CMCMC	CMCMCM	hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn
+2082605	11Q5	Psalms	118	28	JDH[	>WDKH	>WD	CMC	CMCCM	hif	impf	sg		p1	verb	KH			W	nnnnn	nnnnn
+2082609	11Q5	Psalms	118	29	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2082889	11Q5	Psalms	147	20	JD<[	HWDJ<M	HWDJ<	CMCMC	CMCMCC	hif	perf	sg		p3	verb	M				nnnnnn	nnnnnn
+2082893	11Q5	Psalms	105	1	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl		NA	verb					nnnn	nnnn
+2082902	11Q5	Psalms	105	1	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2082908	11Q5	Psalms	105	1	JD<[	HWDJ<W	HWDJ<W	CMCMCM	CMCMCM	hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn
+2083124	11Q5	Psalms	105	37	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2083185	11Q5	Psalms	105	43	JY>[	JWY>	JWY>	CMCM	CMCM	hif	wayq	sg	m	p3	verb				W	rrrr	nnnn
+2083232	11Q5	Psalms	146	9	JD<[	HWD<W	HWD<	CMCC	CMCCM	hif	infc	NA		NA	verb	W			B	nnnnn	nnnnn
+2083498	11Q5	Psalms	122	4	JDH[	HWDWT	HWDWT	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2083640	11Q5	Psalms	125	4	JVB[	HJVJBH	HJVJB	CMCMC	CMCMCM	hif	impv	sg	m	NA	verb	H				rrrrnn	nnnnnn
+2083888	11Q5	Psalms	130	4	JR>[	TWR>	TWR>	CMCM	CMCM	nif	impf	sg	m	p2	verb					rrrr	nnnn
+2083896	11Q5	Psalms	130	5	JXL[	HWXLTJ	HWXLTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb					nnnnnn	nnnnnn
+2083898	11Q5	Psalms	130	6	JXL[	HWXJLJ	HWXJLJ	CMCMCM	CMCMCM	hif	impv	sg		NA	verb					nnnnnn	nnnnnn
+2084362	11Q5	Psalms	119	62	JDH[	HWDWT	HWDWT	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2084418	11Q5	Psalms	119	68	JVB[	MVJB	MVJB	CCMC	CCMC	hif	ptca	sg	m	NA	verb				W	nnnn	nnnn
+2084579	11Q5	Psalms	119	94	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				nnnnnnn	nnnnnnn
+2084702	11Q5	Psalms	119	117	JC<[	>WC<H	>WC<H	CCCCM	CCCCM	nif	impf	sg		p1	verb				W	nnnnn	nnnnn
+2085137	11Q5	Psalms	135	7	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn
+2085212	11Q5	Psalms	136	1	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					nnnn	nnnn
+2085222	11Q5	Psalms	136	2	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					nnnn	nnnn
+2085232	11Q5	Psalms	136	3	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					nnnn	nnnn
+2085329	11Q5	Psalms	136	11	JY>[	JWYJ>	JWYJ>	CMCMM	CMCMM	hif	wayq	sg	m	p3	verb				W	nnnnn	nnnnn
+2085398	11Q5	Psalms	118	1	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					nnnn	nnnn
+2085459	11Q5	Psalms	118	29	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl		NA	verb					nnnn	nnnn
+2085572	11Q5	Psalms	145	6	JR>[	NWR>WTJKH	NWR>	CMCC	CMCCMCMCM	nif	ptca	pl	f	NA	verb	KH	WTJ			nnnnnnnnn	nnnnnnnnn
+2085757	11Q5	Psalms	145	19	JC<[	JWCJ<M	JWCJ<	CMCMC	CMCMCC	hif	impf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn
+2085873	11Q5	Psalms	139	14	JDH[	>WDKH	>WD	CMC	CMCCM	hif	impf	sg		p1	verb	KH				nnnnn	nnnnn
+2085876	11Q5	Psalms	139	14	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	f	NA	verb					nnnn	nnnn
+2086017	11Q5	Psalms	138	1	JDH[	>WDKH	>WD	CMC	CMCCM	hif	impf	sg		p1	verb	KH				nnnnn	nnnnn
+2086032	11Q5	Psalms	138	2	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg		p1	verb				W	nnnn	nnnn
+2086057	11Q5	Psalms	138	4	JDH[	JWDWK	JWDW	CMCM	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn
+2086101	11Q5	Psalms	138	7	JC<[	TWCJ<NJ	TWCJ<	CMCMC	CMCMCCM	hif	impf	sg	f	p2	verb	NJ			W	nnnnnnn	nnnnnnn
+2086145	11Q5	Psalms	141	5	JKX[	JWKJXNJ	JWKJX	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn
+2086403	11Q5	Psalms	142	8	JY>[	HWY>	HWY>	CMCM	CMCM	hif	impv	sg	m	NA	verb					nnnn	nnnn
+2086408	11Q5	Psalms	142	8	JDH[	HWDWT	HWDWT	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2086457	11Q5	Psalms	143	3	JCB[	HWCJBNJ	HWCJB	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn
+2086520	11Q5	Psalms	143	8	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn
+2086742	11Q6	Psalms	77	20	JD<[	NWD<W	NWD<W	CMCCM	CMCCM	nif	perf	pl		p3	verb					rrrrr	nnnnn
+2086791	11Q6	Psalms	118	1	JDH[	HWDW	HWDW	CMCM	CMCM	hif	impv	pl	m	NA	verb					rrrr	nnnn
+2086948	11Q7	Psalms	2	2	JSD=[	NWSDW	NWSDW	CMCCM	CMCCM	nif	perf	pl		p3	verb					rrrrr	nnnnn
+2087483	11Q7	Psalms	18	4	JC<[	>WC<	>WC<	CCCC	CCCC	nif	impf	sg		p1	verb					nnrr	nnnn
+2087700	11Q7	Psalms	25	4	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn
+2087824	11Q8	Psalms	18	28	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					rrrrr	nnnnn
+2087865	11Q8	Psalms	18	42	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnrrr	nnnnn
+2088199	11Q8	Psalms	78	6	JLD[	JWLDW	JWLDW	CMCCM	CMCCM	nif	impf	pl	m	p3	verb					rrrrr	nnnnn
+2088347	11Q8	Psalms	86	12	JDH[	>WDKH	>WD	CMC	CMCCM	hif	impf	sg		p1	verb	KH				rrrrr	nnnnn
+2088548	Xq1	Exodus	12	46	JY>[	TWYJ>W	TWYJ>W	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn
+2088637	Xq1	Exodus	12	51	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+2088697	Xq1	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+2088837	Xq1	Exodus	13	9	JY>[	HWYJ>K	HWYJ>	CMCMC	CMCMCC	hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn
+2088984	Xq1	Deuteronomy	10	17	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn
+2089044	Xq2	Deuteronomy	5	22	JSP[	JWSP	JWSP	CMCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn
+2089207	Xq2	Deuteronomy	5	28	JVB[	HJVBW	HJVBW	CMCCM	CMCCM	hif	perf	pl		p3	verb					nnnnn	nnnnn
+2089599	Xq3	Deuteronomy	5	6	JY>[	HWYJ>TK	HWYJ>T	CMCMCC	CMCMCCC	hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn
+2089768	Xq3	Deuteronomy	5	15	JY>[	JWY>K	JWY>	CMCC	CMCCC	hif	wayq	sg	m	p3	verb	K			W	nnnnn	nnnnn
+2089933	Xq3	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+2089995	Xq3	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+2090465	Mur1	Exodus	6	6	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	rrnnnn	nnnnnn
+2090505	Mur1	Exodus	6	7	JY>[	MWYJ>	MWYJ>	CMCMM	CMCMM	hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn
+2090820	Mur3	Isaiah	1	5	JSP[	TWSJPW	TWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn
+2090875	Mur3	Isaiah	1	8	JTR[	NWTRH	NWTRH	CMCCM	CMCCM	nif	perf	sg	f	p3	verb				W	rrrrr	nnnnn
+2090937	Mur3	Isaiah	1	13	JSP[	TWSJPW	TWSJPW	CMCMCM	CMCMCM	hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn
+2091017	Mur4	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+2091157	Mur4	Exodus	13	9	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
+2091252	Mur4	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+2091314	Mur4	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+2091754	Mur88	Joel	3	4	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				WH	nnrr	nnnn
+2091811	Mur88	Joel	4	2	JRD[	HWRDTJM	HWRDTJ	CMCCCM	CMCCCMC	hif	perf	sg		p1	verb	M			W	nnnnrrn	nnnnnnn
+2092225	Mur88	Amos	1	14	JYT[	HYTJ	HYTJ	CCCM	CCCM	hif	perf	sg		p1	verb				W	rrrr	nnnn
+2092378	Mur88	Amos	7	8	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg		p1	verb					rnnnn	nnnnn
+2092468	Mur88	Amos	7	13	JSP[	TWSJP	TWSJP	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+2092602	Mur88	Amos	8	2	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg		p1	verb					rrrrr	nnnnn
+2092608	Mur88	Amos	8	3	JLL[	HJLJLW	HJLJLW	CMCMCM	CMCMCM	hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn
+2092830	Mur88	Amos	9	2	JRD[	>WRJDM	>WRJD	CMCMC	CMCMCC	hif	impf	sg		p1	verb	M				nnnnnn	nnnnnn
+2093198	Mur88	Obadiah	1	3	JRD[	JWRDNJ	JWRD	CMCC	CMCCCM	hif	impf	sg	m	p3	verb	NJ				nnnnnn	nnnnnn
+2093213	Mur88	Obadiah	1	4	JRD[	>WRJDK	>WRJD	CMCMC	CMCMCC	hif	impf	sg		p1	verb	K				rnnnnn	nnnnnn
+2093544	Mur88	Obadiah	1	21	JC<[	MC<JM	MC<	CCC	CCCMC	hif	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn
+2094020	Mur88	Jonah	2	5	JSP[	>WSJP	>WSJP	CMCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn
+2094394	Mur88	Jonah	4	4	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa	NA		NA	verb				H	nnnn	nnnn
+2094517	Mur88	Jonah	4	9	JVB[	HJVB	HJVB	CMCC	CMCC	hif	infa	NA		NA	verb				H	nnnn	nnnn
+2094525	Mur88	Jonah	4	9	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infa	NA		NA	verb					nnnnn	nnnnn
+2094735	Mur88	Micah	1	8	JLL[	>JLJLH	>JLJLH	CMCMCM	CMCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn
+2095002	Mur88	Micah	2	7	JVB[	JJVJBW	JJVJBW	CMCMCM	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn
+2095332	Mur88	Micah	3	11	JRH[	JWRW	JWRW	CMCM	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn
+2095416	Mur88	Micah	4	2	JRH[	JWRNW	JWR	CMC	CMCCM	hif	impf	sg	m	p3	verb	NW			W	rrrrr	nnnnn
+2095440	Mur88	Micah	4	3	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn
+2096162	Mur88	Micah	7	3	JVB[	HJVJB	HJVJB	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2096232	Mur88	Micah	7	7	JXL[	>WXJLH	>WXJLH	CMCMCM	CMCMCM	hif	impf	sg		p1	verb					nnnnrr	nnnnnn
+2096267	Mur88	Micah	7	9	JY>[	JWYJ>NJ	JWYJ>	CMCMC	CMCMCCM	hif	impf	sg	m	p3	verb	NJ				rrnnnnn	nnnnnnn
+2096694	Mur88	Nahum	2	1	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					rrrrr	nnnnn
+2097032	Mur88	Nahum	3	8	JVB[	TJVBJ	TJVBJ	CMCCM	CMCCM	hif	impf	sg	f	p2	verb				H	nnnnn	nnnnn
+2097192	Mur88	Nahum	3	17	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+2097319	Mur88	Habakkuk	1	7	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb				W	nrnn	nnnn
+2097414	Mur88	Habakkuk	1	12	JKX[	HWKJX	HWKJX	CMCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn
+2097667	Mur88	Habakkuk	2	18	JRH[	MWRH	MWRH	CMCM	CMCM	hif	ptca	sg	m	NA	verb				W	rrrn	nnnn
+2097689	Mur88	Habakkuk	2	19	JRH[	JWRH	JWRH	CMCM	CMCM	hif	impf	sg	m	p3	verb					nnnn	nnnn
+2097736	Mur88	Habakkuk	3	2	JD<[	TWDJ<	TWDJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nrrrn	nnnnn
+2098065	Mur88	Zephaniah	1	12	JVB[	JJVJB	JJVJB	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+2098392	Mur88	Zephaniah	2	11	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					rrrr	nnnn
+2098647	Mur88	Zephaniah	3	10	JBL[	JWBLWN	JWBLW	CMCCM	CMCCMC	hif	impf	pl	m	p3	verb	N				nnnnnn	nnnnnn
+2098671	Mur88	Zephaniah	3	11	JSP[	TWSPJ	TWSPJ	CMCCM	CMCCM	hif	impf	sg	f	p2	verb					nnnnn	nnnnn
+2098766	Mur88	Zephaniah	3	17	JC<[	JWCJ<	JWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn
+2098779	Mur88	Zephaniah	3	18	JGH[	NWGJ	NWG	CMC	CMCM	nif	ptca	pl	m	NA	verb		J			nnnn	nnnn
+2098799	Mur88	Zephaniah	3	19	JC<[	HWC<TJ	HWC<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	nnnnnr	nnnnnn
+2099079	Mur88	Haggai	1	11	JY>[	TWYJ>	TWYJ>	CMCMM	CMCMM	hif	impf	sg	f	p3	verb					rrrrr	nnnnn
+2099869	Sdeir1	Genesis	35	8	JNQ[	MJNQT	MJNQT	CMCCC	CMCCC	hif	ptca	sg	f	NA	verb					rrrrr	nnnnn
+2100367	5/6hev1b	Psalms	7	18	JDH[	>WDH	>WDH	CMCM	CMCM	hif	impf	sg		p1	verb					nnnn	nnnn
+2100511	5/6hev1b	Psalms	9	17	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn
+2100680	5/6hev1b	Psalms	10	18	JSP[	JWSJP	JWSJP	CMCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnrn	nnnnn
+2101088	5/6hev1b	Psalms	18	20	JY>[	JYJ>NJ	JYJ>	CCMC	CCMCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnr	nnnnnn
+2101169	5/6hev1b	Psalms	18	28	JC<[	TWCJ<	TWCJ<	CMCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn
+2101310	5/6hev1b	Psalms	18	42	JC<[	MWCJ<	MWCJ<	CMCMC	CMCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn
+2101555	5/6hev1b	Psalms	25	4	JD<[	HWDJ<NJ	HWDJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn
+2101656	5/6hev1b	Psalms	31	3	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	infc	NA		NA	verb	NJ			L	rrrrrrr	nnnnnnn
+2101670	5/6hev1b	Psalms	31	5	JY>[	TWYJ>NJ	TWYJ>	CMCMC	CMCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn
+2101793	5/6hev1b	Psalms	31	14	JSD=[	HWSDM	HWSD	CMCC	CMCCC	nif	infc	NA		NA	verb	M			B	rrrrr	nnnnn
+2101825	5/6hev1b	Psalms	31	17	JC<[	HWCJ<NJ	HWCJ<	CMCMC	CMCMCCM	hif	impv	sg	m	NA	verb	NJ				rnnnnnn	nnnnnnn
+2101935	Xhev/se2	Numbers	27	3	J<D[	NW<DJM	NW<D	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrnnn	nnnnnn
+2102176	Xhev/se3	Deuteronomy	9	4	JRC[	MWRJCM	MWRJC	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn
+2102202	Xhev/se3	Deuteronomy	9	5	JRC[	MWRJCM	MWRJC	CMCMC	CMCMCC	hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn
+2102358	Xhev/se5	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn
+2102499	Xhev/se5	Exodus	13	9	JY>[	HYJ>K	HYJ>	CCMC	CCMCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
+2102593	Xhev/se5	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn
+2102651	Xhev/se5	Exodus	13	16	JY>[	HYJ>NW	HYJ>	CCMC	CCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnn	nnnnnn
+2102973	34Se1	Exodus	13	3	JY>[	HWYJ>	HWYJ>	CMCMM	CMCMM	hif	perf	sg	m	p3	verb					rrnnn	nnnnn
+2103113	34Se1	Exodus	13	9	JY>[	HWY>K	HWY>	CMCC	CMCCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn
+2103208	34Se1	Exodus	13	14	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrnnnnn	nnnnnnn
+2103270	34Se1	Exodus	13	16	JY>[	HWYJ>NW	HWYJ>	CMCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn
+2103554	Mas1b	Leviticus	8	32	JTR[	NWTR	NWTR	CMCC	CMCC	nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn
+2104073	Mas1b	Leviticus	10	11	JRH[	HWRT	HWRT	CMCC	CMCC	hif	infc	NA		NA	verb				WL	rrrr	nnnn
+2104102	Mas1b	Leviticus	10	12	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn
+2104108	Mas1b	Leviticus	10	12	JTR[	NWTRT	NWTRT	CMCCC	CMCCC	nif	ptca	sg	f	NA	verb				H	rrrrr	nnnnn
+2104228	Mas1b	Leviticus	10	16	JTR[	NWTRJM	NWTR	CMCC	CMCCMC	nif	ptca	pl	m	NA	verb		JM		H	rrrnnn	nnnnnn
+2105245	Mas1d	Ezekiel	35	11	JD<[	NWD<TJ	NWD<TJ	CMCCCM	CMCCCM	nif	perf	sg		p1	verb				W	nrrnnn	nnnnnn
+2105571	Mas1d	Ezekiel	36	10	JCB[	NCBW	NCBW	CCCM	CCCM	nif	perf	pl		p3	verb				W	rrrr	nnnn
+2105590	Mas1d	Ezekiel	36	11	JCB[	HWCBTJ	HWCBTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2105595	Mas1d	Ezekiel	36	11	JVB[	HVBTJ	HVBTJ	CCCCM	CCCCM	hif	perf	sg		p1	verb				W	rrrrr	nnnnn
+2105620	Mas1d	Ezekiel	36	12	JSP[	TWSP	TWSP	CMCC	CMCC	hif	impf	sg	m	p2	verb					rrrr	nnnn
+2105943	Mas1d	Ezekiel	36	29	JC<[	HWC<TJ	HWC<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn
+2106010	Mas1d	Ezekiel	36	32	JD<[	JWD<	JWD<	CMCC	CMCC	nif	impf	sg	m	p3	verb					rrrr	nnnn
+2106032	Mas1d	Ezekiel	36	33	JCB[	HWCBTJ	HWCBTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2106086	Mas1d	Ezekiel	37	1	JY>[	JWY>NJ	JWY>	CMCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnrrr	nnnnnn
+2106444	Mas1d	Ezekiel	37	23	JC<[	HWC<TJ	HWC<TJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn
+2106536	Mas1d	Ezekiel	38	4	JY>[	HWY>TJ	HWY>TJ	CMCMCM	CMCMCM	hif	perf	sg		p1	verb				W	nrrrrr	nnnnnn
+2106945	Mas1e	Psalms	83	6	J<Y[	NW<YW	NW<YW	CMCCM	CMCCM	nif	perf	pl		p3	verb					nnnnn	nnnnn
+2107453	Arugleviticus	Leviticus	23	43	JCB[	HWCBTJ	HWCBTJ	CMCCCM	CMCCCM	hif	perf	sg		p1	verb					nnnnnn	nnnnnn
+2107458	Arugleviticus	Leviticus	23	43	JY>[	HWYJ>J	HWYJ>	CMCMC	CMCMCM	hif	infc	NA		NA	verb	J			B	rrrrrr	nnnnnn

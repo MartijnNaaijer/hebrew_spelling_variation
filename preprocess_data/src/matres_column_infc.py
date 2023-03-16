@@ -125,7 +125,7 @@ class InfcOtherCorrector:
         self.data = self.data[~self.data.pattern.isin(['CC', 'CCCM', 'CCM'])]
 
 
-class MatresColumnAdderInfinitiveConstructTriliteral:
+class MatresColumnAdderInfinitiveTriliteral:
     def __init__(self, data):
         self.data = data
         self.add_type_column()
