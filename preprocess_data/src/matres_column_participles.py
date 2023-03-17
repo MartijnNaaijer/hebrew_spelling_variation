@@ -50,22 +50,32 @@ class ParticiplesCorrector:
         self.data = self.data[self.data.pattern.str.count('C') == 3]
 
 
-class MatresColumnAdderActiveParticiples:
+class MatresColumnAdderParticiples:
     """
     Adds columns type, vowel_letter and has_vowel_letter.
     """
-    def __init__(self, data):
+    def __init__(self, data, ptc_type):
         self.data = data
+        self.ptc_type = ptc_type
         self.add_type_column()
         self.add_column_vowel_letter()
         self.add_column_has_vowel_letter()
 
     def add_type_column(self):
-        self.data['type'] = 'first'
+        if self.ptc_type == 'ptca':
+            self.data['type'] = 'first'
+        elif self.ptc_type == 'ptcp':
+            self.data['type'] = 'last'
 
     def add_column_vowel_letter(self):
-        self.data['vowel_letter'] = np.where(np.where(self.data.pattern.str[1] == 'M', True, False),
-                                             self.data.stem.str[1], '')
+        if self.ptc_type == 'ptca':
+            self.data['vowel_letter'] = np.where(np.where(self.data.pattern.str[1] == 'M', True, False),
+                                                 self.data.stem.str[1], '')
+        elif self.ptc_type == 'ptcp':
+            self.data['vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 'W', '')
 
     def add_column_has_vowel_letter(self):
-        self.data['has_vowel_letter'] = np.where(self.data.pattern.str[1] == 'M', 1, 0)
+        if self.ptc_type == 'ptca':
+            self.data['has_vowel_letter'] = np.where(self.data.pattern.str[1] == 'M', 1, 0)
+        elif self.ptc_type == 'ptcp':
+            self.data['has_vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 1, 0)

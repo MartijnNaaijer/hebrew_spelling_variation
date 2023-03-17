@@ -21,8 +21,8 @@ from remove_useless_inf_abs import UselessRootsInfAbsRemover
 from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
 # For participles
-from remove_useless_participle_roots import UselessParticiplesRemover
-from matres_column_participles import ParticiplesCorrector, MatresColumnAdderActiveParticiples
+from remove_useless_participle_roots import UselessParticiplesRemover, PassiveParticipleNMECleaner
+from matres_column_participles import ParticiplesCorrector, MatresColumnAdderParticiples
 
 # For infc
 from matres_column_infc import InfcLamedHeCorrector, MatresColumnAdderInfinitiveConstructLamedHe, InfcOtherCorrector, \
@@ -38,6 +38,7 @@ from remove_useless_hif_nif_pe_yod import UselessHiphNiphPeYod
 # for triliteral hiphil
 from remove_useless_hiphil_triliteral import UselessHiphilTriliteral
 from matres_column_hiphil_triliteral import MatresColumnAdderHifTriliteral
+
 
 def main():
 
@@ -56,11 +57,11 @@ def main():
     ####################################################
 
     # ptca en ptcp qal
-    # ptca, ptcp = get_participle_qal_data(corpus, mt, matres_pattern_dataset)
-    # ptca = ptca.sort_values(by=['tf_id'])
-    # ptcp = ptcp.sort_values(by=['tf_id'])
-    # ptca.to_csv('../data/ptca.csv', sep='\t', index=False)
-    # ptcp.to_csv('../data/ptcp.csv', sep='\t', index=False)
+    ptca, ptcp = get_participle_qal_data(corpus, mt, matres_pattern_dataset)
+    ptca = ptca.sort_values(by=['tf_id'])
+    ptcp = ptcp.sort_values(by=['tf_id'])
+    ptca.to_csv('../data/ptca.csv', sep='\t', index=False)
+    ptcp.to_csv('../data/ptcp.csv', sep='\t', index=False)
     # TODO: patterns "CCMC" are strange, "CMCC" is expected.
 
     # lamed_he_infc, other_infc = get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset)
@@ -74,9 +75,9 @@ def main():
     #print(niph_hiph_pe_yod.shape)
     #niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
 
-    hiph_triliteral = get_triliteral_hiphil(corpus, mt, matres_pattern_dataset)
-    print(hiph_triliteral.shape)
-    hiph_triliteral.to_csv('../data/hiph_triliteral.csv', sep='\t', index=False)
+    #hiph_triliteral = get_triliteral_hiphil(corpus, mt, matres_pattern_dataset)
+    #print(hiph_triliteral.shape)
+    #hiph_triliteral.to_csv('../data/hiph_triliteral.csv', sep='\t', index=False)
 
     #particles = get_particles(corpus, mt, matres_pattern_dataset)
     #print(particles.shape)
@@ -86,6 +87,58 @@ def main():
     #qal_inf_abs = get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset)
     #print(qal_inf_abs.shape)
     #qal_inf_abs.to_csv('../data/qal_inf_abs.csv', sep='\t', index=False)
+
+def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
+    mt_ptc_qal_df = basic_mt_data_selector.select_data()
+
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='ptc_qal',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+
+    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, matres_parser_dss.dss_matres_df])
+    mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
+
+    useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = useless_participles_remover.clean_ptc_data
+
+    hebrew_text_adder = HebrewTextAdder(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = hebrew_text_adder.data
+
+    final_aleph_converter = FinalAlephConverter(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = final_aleph_converter.data
+
+    fem_t_stripper = FeminineTStripper(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = fem_t_stripper.data
+
+    other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = other_vowel_endings_column_adder.data
+
+    final_yod_remover = FinalYodRemover(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = final_yod_remover.data
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = mt_dss_help_columns_adder.mt_dss_data
+
+    rec_cor_columns_adder = RecCorColumnsAdder(mt_dss_ptc_qal_df)
+    mt_dss_ptc_qal_df = rec_cor_columns_adder.data
+
+    ptca = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptca']
+    ptcp = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptcp']
+
+    participles_corrector = ParticiplesCorrector(ptca)
+    ptca = participles_corrector.data
+
+    matres_column_adder_ptca = MatresColumnAdderParticiples(ptca, 'ptca')
+    ptca = matres_column_adder_ptca.data
+
+    pp_nme_cleaner = PassiveParticipleNMECleaner(ptcp)
+    ptcp = pp_nme_cleaner.data
+
+    matres_column_adder_ptcp = MatresColumnAdderParticiples(ptcp, 'ptcp')
+    ptcp = matres_column_adder_ptcp.data
+
+    return ptca, ptcp
 
 
 def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):

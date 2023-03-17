@@ -133,11 +133,10 @@ class MatresColumnAdderInfinitiveTriliteral:
         self.add_column_has_vowel_letter()
 
     def add_type_column(self):
-        self.data['type'] = 'last'
+        self.data['type'] = 'first'
 
     def add_column_vowel_letter(self):
         self.data['vowel_letter'] = np.where(self.data.stem.str[-1] == 'W', 'W', '')
 
     def add_column_has_vowel_letter(self):
         self.data['has_vowel_letter'] = np.where(self.data.vowel_letter.str == 'W', 1, 0)
-

@@ -54,54 +54,6 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     return mt_dss
 
 
-def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
-    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
-    mt_ptc_qal_df = basic_mt_data_selector.select_data()
-
-    matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='ptc_qal',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
-
-    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, matres_parser_dss.dss_matres_df])
-    mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
-
-    useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = useless_participles_remover.no_lamed_he_data
-
-    hebrew_text_adder = HebrewTextAdder(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = hebrew_text_adder.data
-
-    final_aleph_converter = FinalAlephConverter(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = final_aleph_converter.data
-
-    fem_t_stripper = FeminineTStripper(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = fem_t_stripper.data
-
-    other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = other_vowel_endings_column_adder.data
-
-    final_yod_remover = FinalYodRemover(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = final_yod_remover.data
-
-    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = mt_dss_help_columns_adder.mt_dss_data
-
-    rec_cor_columns_adder = RecCorColumnsAdder(mt_dss_ptc_qal_df)
-    mt_dss_ptc_qal_df = rec_cor_columns_adder.data
-
-    ptca = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptca']
-    ptcp = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptcp']
-    # TODO: continue with ptcp (cleaning, add vowel cols)
-
-    participles_corrector = ParticiplesCorrector(ptca)
-    ptca = participles_corrector.data
-
-    matres_column_adder_ptca = MatresColumnAdderActiveParticiples(ptca)
-    ptca = matres_column_adder_ptca.data
-
-    return ptca, ptcp
-
-
 def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='infc_qal')
     mt_infc_qal_df = basic_mt_data_selector.select_data()
