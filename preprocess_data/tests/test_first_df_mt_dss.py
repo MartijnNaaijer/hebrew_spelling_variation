@@ -9,7 +9,7 @@ import pytest
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FOLDER = 'data'
-DATA_FILE = 'mt_dss_new_matres_pattern.csv'
+DATA_FILE = 'nouns_adjectives.csv'
 
 
 @pytest.fixture(scope="module")
