@@ -39,11 +39,11 @@ def main():
     # TODO: patterns "CCMC" are strange, "CMCC" is expected.
 
     lamed_he_infc, other_infc = pf.get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset)
-    # print(other_infc.shape)
-    # print(lamed_he_infc.shape)
+    print(other_infc.shape)
+    print(lamed_he_infc.shape)
     lamed_he_infc.to_csv('../data/lamed_he_infc.csv', sep='\t', index=False)
     other_infc.to_csv('../data/other_infc.csv', sep='\t', index=False)
-    # # TODO: add some columns, see nouns_adjvs
+    # # # TODO: add some columns, see nouns_adjvs
 
     niph_hiph_pe_yod = pf.get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
     print(niph_hiph_pe_yod.shape)

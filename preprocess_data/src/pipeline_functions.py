@@ -113,11 +113,16 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder_lamed_he_infc = MatresColumnAdderInfinitiveConstructLamedHe(lamed_he_infc)
     lamed_he_infc = matres_column_adder_lamed_he_infc.data
+    # How remove reconstructed syllables in lamed_he_infc
 
     infc_other_corrector = InfcOtherCorrector(other_infc)
     other_infc = infc_other_corrector.data
+
     matres_col_adder_infc_triliteral = MatresColumnAdderInfinitiveTriliteral(other_infc)
     other_infc = matres_col_adder_infc_triliteral.data
+
+    invalid_data_remover = InvalidDataRemover(other_infc)
+    other_infc = invalid_data_remover.data_complete_syllables
 
     return lamed_he_infc, other_infc
 
@@ -165,12 +170,23 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder_ptca = MatresColumnAdderParticiples(ptca, 'ptca')
     ptca = matres_column_adder_ptca.data
+    print('BEFORE', ptca.shape)
+
+    invalid_data_remover = InvalidDataRemover(ptca)
+    ptca = invalid_data_remover.data_complete_syllables
+
+    print('AFTER', ptca.shape)
 
     pp_nme_cleaner = PassiveParticipleNMECleaner(ptcp)
     ptcp = pp_nme_cleaner.data
 
     matres_column_adder_ptcp = MatresColumnAdderParticiples(ptcp, 'ptcp')
     ptcp = matres_column_adder_ptcp.data
+
+    print('BEFORE', ptcp.shape)
+    invalid_data_remover = InvalidDataRemover(ptcp)
+    ptcp = invalid_data_remover.data_complete_syllables
+    print('AFTER', ptcp.shape)
 
     return ptca, ptcp
 
@@ -202,6 +218,9 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder_hif_nif_pe_yod = MatresColumnAdderHifNifPeYod(niph_hiph_pe_yod_df)
     niph_hiph_pe_yod_df = matres_column_adder_hif_nif_pe_yod.data
+
+    invalid_data_remover = InvalidDataRemover(niph_hiph_pe_yod_df)
+    niph_hiph_pe_yod_df = invalid_data_remover.data_complete_syllables
 
     return niph_hiph_pe_yod_df
 
@@ -235,6 +254,10 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder_hif_triliteral = MatresColumnAdderHifTriliteral(hiph_triliteral_df)
     hiph_triliteral_df = matres_column_adder_hif_triliteral.data
+
+    invalid_data_remover = InvalidDataRemover(hiph_triliteral_df)
+    hiph_triliteral_df = invalid_data_remover.data_complete_syllables
+
     return hiph_triliteral_df
 
 
@@ -266,6 +289,9 @@ def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
     # add has_vowel_letter has_syllable_recs
     matres_column_adder_infin_trilit = MatresColumnAdderInfinitiveTriliteral(qal_inf_abs_df)
     qal_inf_abs_df = matres_column_adder_infin_trilit.data
+
+    invalid_data_remover = InvalidDataRemover(qal_inf_abs_df)
+    qal_inf_abs_df = invalid_data_remover.data_complete_syllables
 
     # Strange case in dataset:
     # in 4Q56 2x inf abs in 37:30, waar komen die vandaan, niet in andere manuscr.
@@ -302,6 +328,9 @@ def get_particles(corpus, mt, matres_pattern_dataset):
 
     particles_df['vowel_letter'] = particles_df.g_cons.str[1:]
     particles_df['has_vowel_letter'] = 1
+
+    invalid_data_remover = InvalidDataRemover(particles_df)
+    particles_df = invalid_data_remover.data_complete_syllables
 
     # Correct in data: 1957484 is lex L, rest is good, remove deviating cases (L, LH, LW, etc in analysis)
 
