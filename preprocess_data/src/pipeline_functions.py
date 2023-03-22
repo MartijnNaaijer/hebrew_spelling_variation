@@ -6,7 +6,7 @@ from parse_matres_dss import DSSMatresProcessor
 
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder, RecCorColumnsAdder
-from process_invalid_data import InvalidDataRemover
+from process_invalid_data import InvalidDataRemover, InvalidDataRemoverInfcLamedHe
 from remove_useless_lexemes_and_plurals import UselessRowsRemover, SyllablesWithoutVariationRemover
 from remove_useless_inf_abs import UselessRootsInfAbsRemover
 
@@ -113,13 +113,21 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder_lamed_he_infc = MatresColumnAdderInfinitiveConstructLamedHe(lamed_he_infc)
     lamed_he_infc = matres_column_adder_lamed_he_infc.data
-    # How remove reconstructed syllables in lamed_he_infc
+
+    rec_cor_col_adder = RecCorColumnsAdder(lamed_he_infc)
+    lamed_he_infc = rec_cor_col_adder.data
+
+    invalid_data_remover_lam_he = InvalidDataRemoverInfcLamedHe(lamed_he_infc)
+    lamed_he = invalid_data_remover_lam_he.data_complete_syllables
 
     infc_other_corrector = InfcOtherCorrector(other_infc)
     other_infc = infc_other_corrector.data
 
     matres_col_adder_infc_triliteral = MatresColumnAdderInfinitiveTriliteral(other_infc)
     other_infc = matres_col_adder_infc_triliteral.data
+
+    rec_cor_col_adder = RecCorColumnsAdder(other_infc)
+    other_infc = rec_cor_col_adder.data
 
     invalid_data_remover = InvalidDataRemover(other_infc)
     other_infc = invalid_data_remover.data_complete_syllables
@@ -170,12 +178,9 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder_ptca = MatresColumnAdderParticiples(ptca, 'ptca')
     ptca = matres_column_adder_ptca.data
-    print('BEFORE', ptca.shape)
 
     invalid_data_remover = InvalidDataRemover(ptca)
     ptca = invalid_data_remover.data_complete_syllables
-
-    print('AFTER', ptca.shape)
 
     pp_nme_cleaner = PassiveParticipleNMECleaner(ptcp)
     ptcp = pp_nme_cleaner.data
@@ -183,10 +188,8 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
     matres_column_adder_ptcp = MatresColumnAdderParticiples(ptcp, 'ptcp')
     ptcp = matres_column_adder_ptcp.data
 
-    print('BEFORE', ptcp.shape)
     invalid_data_remover = InvalidDataRemover(ptcp)
     ptcp = invalid_data_remover.data_complete_syllables
-    print('AFTER', ptcp.shape)
 
     return ptca, ptcp
 

@@ -43,7 +43,7 @@ def main():
     print(lamed_he_infc.shape)
     lamed_he_infc.to_csv('../data/lamed_he_infc.csv', sep='\t', index=False)
     other_infc.to_csv('../data/other_infc.csv', sep='\t', index=False)
-    # # # TODO: add some columns, see nouns_adjvs
+    # TODO: add some columns, see nouns_adjvs
 
     niph_hiph_pe_yod = pf.get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
     print(niph_hiph_pe_yod.shape)
@@ -51,7 +51,7 @@ def main():
 
     hiph_triliteral = pf.get_triliteral_hiphil(corpus, mt, matres_pattern_dataset)
     print(hiph_triliteral.shape)
-    hiph_triliteral.to_csv('../data/hiph_triliteral.csv', sep='\t', index=False)
+    hiph_triliteral.to_csv('../data/hiphil_triliteral.csv', sep='\t', index=False)
 
     particles = pf.get_particles(corpus, mt, matres_pattern_dataset)
     print(particles.shape)

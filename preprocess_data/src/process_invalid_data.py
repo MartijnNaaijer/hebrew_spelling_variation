@@ -10,7 +10,6 @@ class InvalidDataRemover:
     """
     def __init__(self, data):
         self.data = data
-
         self.remove_short_stems(1)
         self.syllable_recs = self.find_reconstructed_syllables()
         self.data_complete_syllables = self.select_non_reconstructed_syllables()
@@ -50,6 +49,51 @@ class InvalidDataRemover:
                         'first': (0, self.get_syllable_length(vowels)),
                         'last': (-self.get_syllable_length(vowels), len(stem))}
         return stem_indices[syll_type]
+
+    @staticmethod
+    def contains_reconstructed_sign(reconstructed_signs):
+        if reconstructed_signs.count('r') > 0:
+            return 1
+        return 0
+
+    def select_non_reconstructed_syllables(self):
+        self.data['syllable_recs'] = self.syllable_recs
+        self.data = self.data[self.data['syllable_recs'] == 0]
+        self.data.drop(columns=['syllable_recs'])
+        return self.data
+
+
+class InvalidDataRemoverInfcLamedHe:
+    def __init__(self, data):
+        self.data = data
+        self.remove_short_stems(1)
+        self.syllable_recs = self.find_reconstructed_syllables()
+        self.data_complete_syllables = self.select_non_reconstructed_syllables()
+
+    def remove_short_stems(self, stem_length):
+        """Remove verbs with a short stem.
+        Input:
+          stem_length: int
+          Length of the stem.
+        """
+        self.data = self.data[self.data['stem'].str.len().gt(stem_length)]
+
+    def find_reconstructed_syllables(self):
+        """Finds out if a syllable contains reconstructed signs.
+        Output:
+            rec_syllables: list Contains value for every row in dataset, with value 1 (reconstructed letters in syllable)
+                                or 0 (no reconstructed letters in syllable).
+        """
+
+        rec_syllables = []
+        for rec_signs, nme in zip(self.data.rec_signs, self.data.nme):
+            if isinstance(nme, float):
+                vowels = ''
+
+            start_idx, end_idx = -1*(len(nme) + 1), len(rec_signs)
+            syll_rec_signs = rec_signs[start_idx: end_idx]
+            rec_syllables.append(self.contains_reconstructed_sign(syll_rec_signs))
+        return rec_syllables
 
     @staticmethod
     def contains_reconstructed_sign(reconstructed_signs):
