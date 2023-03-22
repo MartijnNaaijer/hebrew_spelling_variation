@@ -113,21 +113,23 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder_lamed_he_infc = MatresColumnAdderInfinitiveConstructLamedHe(lamed_he_infc)
     lamed_he_infc = matres_column_adder_lamed_he_infc.data
+    print(lamed_he_infc.head())
 
     rec_cor_col_adder = RecCorColumnsAdder(lamed_he_infc)
     lamed_he_infc = rec_cor_col_adder.data
 
     invalid_data_remover_lam_he = InvalidDataRemoverInfcLamedHe(lamed_he_infc)
-    lamed_he = invalid_data_remover_lam_he.data_complete_syllables
+    lamed_he_infc = invalid_data_remover_lam_he.data_complete_syllables
 
     infc_other_corrector = InfcOtherCorrector(other_infc)
     other_infc = infc_other_corrector.data
 
-    matres_col_adder_infc_triliteral = MatresColumnAdderInfinitiveTriliteral(other_infc)
-    other_infc = matres_col_adder_infc_triliteral.data
-
     rec_cor_col_adder = RecCorColumnsAdder(other_infc)
     other_infc = rec_cor_col_adder.data
+
+    matres_col_adder_infc_triliteral = MatresColumnAdderInfinitiveTriliteral(other_infc)
+    other_infc = matres_col_adder_infc_triliteral.data
+    print(other_infc.head())
 
     invalid_data_remover = InvalidDataRemover(other_infc)
     other_infc = invalid_data_remover.data_complete_syllables
@@ -338,3 +340,39 @@ def get_particles(corpus, mt, matres_pattern_dataset):
     # Correct in data: 1957484 is lex L, rest is good, remove deviating cases (L, LH, LW, etc in analysis)
 
     return particles_df
+
+
+def get_yiqtol_wayyiqtol_hollow_roots(corpus, mt, matres_pattern_dataset):
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='yiq_wayq_hollow')
+    mt_particles = basic_mt_data_selector.select_data()
+
+    matres_parser_dss = DSSMatresProcessor(corpus,
+                                           relevant_data='yiq_wayq_hollow',
+                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+
+    # particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
+    # particles_df = particles_df.sort_values(by=['tf_id'])
+    #
+    # hebrew_text_adder = HebrewTextAdder(particles_df)
+    # particles_df = hebrew_text_adder.data
+    #
+    # particles_df['other_vowel_ending'] = ''
+    #
+    # mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(particles_df)
+    # particles_df = mt_dss_help_columns_adder.mt_dss_data
+    #
+    # rec_cor_columns_adder = RecCorColumnsAdder(particles_df)
+    # particles_df = rec_cor_columns_adder.data
+    #
+    # # add type, vowel_letter, has_vowel_letter
+    # particles_df['type'] = 'single'
+    # useless_particle_remover = UselessParticleRemover(particles_df)
+    # particles_df = useless_particle_remover.data
+    #
+    # particles_df['vowel_letter'] = particles_df.g_cons.str[1:]
+    # particles_df['has_vowel_letter'] = 1
+    #
+    # invalid_data_remover = InvalidDataRemover(particles_df)
+    # particles_df = invalid_data_remover.data_complete_syllables
+
+    return yiqtol_wayyiqtol_hollow_roots

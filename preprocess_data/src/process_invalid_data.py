@@ -58,8 +58,8 @@ class InvalidDataRemover:
 
     def select_non_reconstructed_syllables(self):
         self.data['syllable_recs'] = self.syllable_recs
-        self.data = self.data[self.data['syllable_recs'] == 0]
-        self.data.drop(columns=['syllable_recs'])
+        self.data = self.data[self.data.syllable_recs == 0]
+        self.data = self.data.drop(columns=['syllable_recs'])
         return self.data
 
 
@@ -103,6 +103,6 @@ class InvalidDataRemoverInfcLamedHe:
 
     def select_non_reconstructed_syllables(self):
         self.data['syllable_recs'] = self.syllable_recs
-        self.data = self.data[self.data['syllable_recs'] == 0]
-        self.data.drop(columns=['syllable_recs'])
+        self.data = self.data[self.data.syllable_recs == 0]
+        self.data = self.data.drop(columns=['syllable_recs'])
         return self.data

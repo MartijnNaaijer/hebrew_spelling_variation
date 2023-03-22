@@ -55,7 +55,7 @@ class MatresColumnAdderInfinitiveConstructLamedHe:
         self.data['vowel_letter'] = np.where(self.data.nme.str.contains('W'), 'W', '')
 
     def add_column_has_vowel_letter(self):
-        self.data['has_vowel_letter'] = np.where(self.data.vowel_letter.str == 'W', 1, 0)
+        self.data['has_vowel_letter'] = np.where(self.data.nme.str.contains('W'), 1, 0)
 
 
 class InfcOtherCorrector:
@@ -136,7 +136,7 @@ class MatresColumnAdderInfinitiveTriliteral:
         self.data['type'] = 'first'
 
     def add_column_vowel_letter(self):
-        self.data['vowel_letter'] = np.where(self.data.stem.str[-1] == 'W', 'W', '')
+        self.data['vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 'W', '')
 
     def add_column_has_vowel_letter(self):
-        self.data['has_vowel_letter'] = np.where(self.data.vowel_letter.str == 'W', 1, 0)
+        self.data['has_vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 1, 0)
