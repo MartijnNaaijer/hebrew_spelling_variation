@@ -12,7 +12,6 @@ class InfcLamedHeCorrector:
         self.remove_final_wt()
         self.remove_final_t()
         self.remove_short_stems()
-        #self.add_column_has_nme()
         self.select_cases_with_t_in_nme()
 
     def remove_final_wt(self):
@@ -33,9 +32,6 @@ class InfcLamedHeCorrector:
 
     def remove_short_stems(self):
         self.data = self.data[self.data.stem.str.len() > 1]
-
-    #def add_column_has_nme(self):
-    #    self.data['has_nme'] = np.where(self.data.nme.str.len() > 0, 1, 0)
 
     def select_cases_with_t_in_nme(self):
         self.data = self.data[self.data.nme.str.contains('T')]
@@ -133,7 +129,7 @@ class MatresColumnAdderInfinitiveTriliteral:
         self.add_column_has_vowel_letter()
 
     def add_type_column(self):
-        self.data['type'] = 'first'
+        self.data['type'] = 'last'
 
     def add_column_vowel_letter(self):
         self.data['vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 'W', '')
