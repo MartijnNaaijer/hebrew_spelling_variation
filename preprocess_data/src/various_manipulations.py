@@ -77,6 +77,7 @@ class OtherVowelEndingsColumnAdder:
     """"""
     def __init__(self, data):
         self.data = data
+        self.vowel_count = None
         self.count_matres_at_end_of_pattern()
         self.add_column_other_vowel_endings()
         self.remove_other_vowel_ending_from_stem()
@@ -98,6 +99,7 @@ class OtherVowelEndingsColumnAdder:
             except:
                 other_vowel_ending.append('')
         self.data['other_vowel_ending'] = other_vowel_ending
+        self.data = self.data.drop(columns=['vowel_count'])
 
     def remove_other_vowel_ending_from_stem(self):
         self.data['stem'] = [str(stem).rstrip(ending) for stem, ending in
@@ -162,14 +164,8 @@ class MTDSSHelpColumnsAdder:
     """"""
     def __init__(self, mt_dss_data):
         self.mt_dss_data = mt_dss_data
-        self.add_col_final_h()
         self.add_line_and_column_in_manuscript()
         self.add_extra_columns()
-
-    def add_col_final_h(self):
-        self.mt_dss_data['final_h'] = np.where(self.mt_dss_data.lex.str.strip('/').str.strip('[').str.strip('=')
-                                               .str[-1] == 'H',
-                                               'H', 'noH')
 
     def add_line_and_column_in_manuscript(self):
         """

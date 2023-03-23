@@ -116,12 +116,11 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(lamed_he_infc)
     lamed_he_infc = mt_dss_help_columns_adder.mt_dss_data
 
-    matres_column_adder_lamed_he_infc = MatresColumnAdderInfinitiveConstructLamedHe(lamed_he_infc)
-    lamed_he_infc = matres_column_adder_lamed_he_infc.data
-    print(lamed_he_infc.head())
-
     rec_cor_col_adder = RecCorColumnsAdder(lamed_he_infc)
     lamed_he_infc = rec_cor_col_adder.data
+
+    matres_column_adder_lamed_he_infc = MatresColumnAdderInfinitiveConstructLamedHe(lamed_he_infc)
+    lamed_he_infc = matres_column_adder_lamed_he_infc.data
 
     invalid_data_remover_lam_he = InvalidDataRemoverInfcLamedHe(lamed_he_infc)
     lamed_he_infc = invalid_data_remover_lam_he.data_complete_syllables
@@ -137,7 +136,6 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     matres_col_adder_infc_triliteral = MatresColumnAdderInfinitiveTriliteral(other_infc)
     other_infc = matres_col_adder_infc_triliteral.data
-    print(other_infc.head())
 
     invalid_data_remover = InvalidDataRemover(other_infc)
     other_infc = invalid_data_remover.data_complete_syllables

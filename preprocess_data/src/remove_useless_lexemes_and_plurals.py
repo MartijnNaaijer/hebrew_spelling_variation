@@ -101,4 +101,4 @@ class SyllablesWithoutVariationRemover:
 
     def make_new_df(self):
         dat_merge = pd.concat(self.lex_type_dict)
-        return dat_merge.sort_values(by='tf_id').drop(columns=['vowel_count'])
+        return dat_merge.sort_values(by='tf_id')
