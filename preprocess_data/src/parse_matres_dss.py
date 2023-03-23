@@ -210,7 +210,6 @@ class DSSMatresProcessor:
             is_sp_relevant = word_obj.sp == 'verb' and word_obj.vs == 'hif' and word_obj.lex[0] != 'J' and word_obj.lex[2] != 'H'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_sp_relevant])
 
-
     @staticmethod
     def parse_prefix_g_cons_dss(tf_id):
         prefix_g_cons = ''
@@ -253,7 +252,7 @@ class DSSMatresProcessor:
                                                                   w_obj.number, w_obj.gender, w_obj.person,
                                                                   w_obj.sp, w_obj.prs_cons, nme_dss, w_obj.hloc,
                                                                   w_obj.prefix_g_cons, w_obj.rec_signs,
-                                                                  w_obj.cor_signs]
+                                                                  w_obj.cor_signs, w_obj.heb_g_cons]
 
     def get_matres_pattern(self, tf_id):
         return self.matres_pattern_dict[tf_id]

@@ -11,66 +11,58 @@ The DSS dataset is based on the text-fabric dataset DSS (see github.com/etcbc/ds
 
 TODO: add processing of SP data.
 """
+from dataclasses import dataclass, field
 
+from add_hebrew_text_column import HebrewTextAdder
 from config import bhsa_version, dss_version, sp_version
 
 from tf.app import use
 DSS = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
 Fdss, Ldss, Tdss = DSS.api.F, DSS.api.L, DSS.api.T
 
-SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
-Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
+#SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
+#Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
 
 MT = use('etcbc/bhsa', version=bhsa_version)
 MT.load(['g_prs', 'g_nme', 'g_pfm', 'g_vbs'])
 F, L, T = MT.api.F, MT.api.L, MT.api.T
 
 
+@dataclass
 class Word:
     """prefix_g_cons are concatenated g_cons of words prefixed to a word, often article or prep"""
-
-    def __init__(self, tf_word_id, bo, ch, ve, g_cons, lex,
-                 sp, person, number, gender, state,
-                 vs, vt, lang, rec_signs, cor_signs,
-                 stem=None, prs_cons=None, nme_cons=None,
-                 hloc='', matres_pattern='', prefix_g_cons=None):
-        self.tf_word_id = tf_word_id
-        self.bo = bo
-        self.ch = ch
-        self.ve = ve
-        self.g_cons = g_cons
-        self.lex = lex
-        self.sp = sp
-        self.person = person
-        self.number = number
-        self.gender = gender
-        self.state = state
-        self.vs = vs
-        self.vt = vt
-        self.lang = lang
-        self.rec_signs = rec_signs
-        self.cor_signs = cor_signs
-        self.stem = stem
-        self.prs_cons = prs_cons
-        self.nme_cons = nme_cons
-        self.hloc = hloc
-        self.matres_pattern = matres_pattern
-        self.prefix_g_cons = prefix_g_cons
+    tf_word_id: int
+    bo: str
+    ch: int
+    ve: int
+    g_cons: str
+    lex: str
+    sp: str
+    person: str
+    number: str
+    gender: str
+    state: str
+    vs: str
+    vt: str
+    lang: str
+    rec_signs: str
+    cor_signs: str
+    stem: str = None
+    prs_cons: str = None
+    nme_cons: str = None
+    hloc: str = ''
+    matres_pattern: str = ''
+    prefix_g_cons: str = None
+    heb_g_cons: str = ''
 
 
+@dataclass
 class Verse:
-    def __init__(self, manuscript, bo, ch, ve):
-        self.manuscript = manuscript
-        self.bo = bo
-        self.ch = ch
-        self.ve = ve
-        self.string_sequence = ''
-        self.characters = []
-        self.words = []
-        self.alignments = {}
-
-    def __str__(self):
-        return f'{self.manuscript} {self.bo} {self.ch} {self.ve}'
+    manuscript: str
+    bo: str
+    ch: int
+    ve: int
+    words: list[Word] = field(default_factory=list)
 
 
 class Scroll:
@@ -85,7 +77,6 @@ class Scroll:
 
 class MTWordProcessor:
     """"""
-
     def __init__(self, tf_id):
 
         self.prs_chars = {'>', 'D', 'H', 'J', 'K', 'M', 'N', 'W'}
@@ -112,6 +103,8 @@ class MTWordProcessor:
         self.stem = self.get_stem()
         self.nme = self.get_nme()
         self.prs = self.get_prs()
+        self.heb_text_adder = HebrewTextAdder(self.glyphs)
+        self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
 
     def create_word(self):
 
@@ -134,7 +127,8 @@ class MTWordProcessor:
                     stem=self.stem,
                     prs_cons=self.prs,
                     nme_cons=self.nme,
-                    hloc=self.hloc)
+                    hloc=self.hloc,
+                    heb_g_cons=self.heb_g_cons)
 
     def get_number(self):
         number = F.nu.v(self.tf_id)
@@ -177,7 +171,6 @@ class MTWordProcessor:
 
 class DSSWordProcessor:
     """"""
-
     def __init__(self, tf_id):
         self.tf_id = tf_id
         self.book = Fdss.book_etcbc.v(tf_id)
@@ -197,11 +190,14 @@ class DSSWordProcessor:
         self.lang = Fdss.lang_etcbc.v(tf_id)
         self.rec_signs = None
         self.cor_signs = None
+        self.heb_g_cons = ''
 
         if Fdss.glyphe.v(tf_id):
             self.glyphs = self.preprocess_text()
             self.rec_signs = self.get_reconstructed_signs()
             self.cor_signs = self.get_corrected_signs()
+            self.heb_text_adder = HebrewTextAdder(self.glyphs)
+            self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
 
     def create_word(self):
 
@@ -222,7 +218,8 @@ class DSSWordProcessor:
                     self.rec_signs,
                     self.cor_signs,
                     prs_cons=self.prs,
-                    hloc=self.hloc
+                    hloc=self.hloc,
+                    heb_g_cons=self.heb_g_cons
                     )
 
     def preprocess_text(self):
@@ -337,7 +334,6 @@ class SPWordProcessor:
     """"""
 
     def __init__(self, tf_id):
-
         self.prs_chars = {'>', 'D', 'H', 'J', 'K', 'M', 'N', 'W'}
         self.consonants = {'<', '>', 'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
                            'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#'}
@@ -424,7 +420,6 @@ class SPWordProcessor:
 
 class Corpus:
     """"""
-
     def __init__(self, corpus_name):
         self.corpus_name = corpus_name
         self.scroll_set = set()
@@ -432,7 +427,7 @@ class Corpus:
 
         self.add_dss()
         self.add_mt()
-        self.add_sp()
+        #self.add_sp()
 
     def add_dss(self):
         """
@@ -451,7 +446,6 @@ class Corpus:
             for wo in words:
                 word_processor = DSSWordProcessor(wo)
                 dss_word_object = word_processor.create_word()
-
                 bo, ch, ve = dss_word_object.bo, dss_word_object.ch, dss_word_object.ve
 
                 if not all([bo, ch, ve]) or ('f' in ch) or (dss_word_object.lex in {None, ''}):
@@ -502,7 +496,3 @@ class Corpus:
                     word_processor = SPWordProcessor(wo)
                     sp_word_object = word_processor.create_word()
                     scroll.verses[(bo, int(ch), ve)].words.append(sp_word_object)
-
-
-
-

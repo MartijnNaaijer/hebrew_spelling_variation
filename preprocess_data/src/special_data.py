@@ -28,7 +28,8 @@ df_columns = ['tf_id', 'scroll',
               'ps', 'sp',
               'prs', 'nme',
               'hloc', 'prefix_g_cons',
-              'rec_signs', 'cor_signs']
+              'rec_signs', 'cor_signs',
+              'heb_g_cons']
 
 POTENTIALLY_FEMININE_WORDS = {'<FR=/', '<FRH=/', '>RB</', '>XD/', 'CB</',
                               'CC/', 'CLC/', 'CMNH/', 'CNJM/', 'TC</', 'XMC/'}
