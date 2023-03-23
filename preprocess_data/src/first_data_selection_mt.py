@@ -40,10 +40,11 @@ class BasicMTDataSelector:
             qal_inf_abs_data = self.data[(self.data.sp == 'verb') &
                                          (self.data.vt == 'infa') &
                                          (self.data.vs == 'qal')]
+            return qal_inf_abs_data
         elif self.relevant_data == 'yiq_wayq_hollow':
-            qal_inf_abs_data = self.data[(self.data.sp == 'verb') &
+            yiq_wayq_hollow = self.data[(self.data.sp == 'verb') &
                                          (self.data.vt.isin(['wayq', 'impf'])) &
                                          (self.data.lex.str[1].isin(['W', 'J'])) &
                                          (self.data.vs == 'qal')]
-            return qal_inf_abs_data
+            return yiq_wayq_hollow
 

@@ -88,7 +88,7 @@ class InvalidDataRemoverInfcLamedHe:
         rec_syllables = []
         for rec_signs, nme in zip(self.data.rec_signs, self.data.nme):
             if isinstance(nme, float):
-                vowels = ''
+                nme = ''
 
             start_idx, end_idx = -1*(len(nme) + 1), len(rec_signs)
             syll_rec_signs = rec_signs[start_idx: end_idx]

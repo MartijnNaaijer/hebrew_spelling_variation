@@ -102,6 +102,8 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
     hebrew_text_adder = HebrewTextAdder(mt_dss_infc_qal_df)
     mt_dss_infc_qal_df = hebrew_text_adder.data
 
+    mt_dss_infc_qal_df['other_vowel_ending'] = ''
+
     final_aleph_converter = FinalAlephConverter(mt_dss_infc_qal_df)
     mt_dss_infc_qal_df = final_aleph_converter.data
 
@@ -110,6 +112,9 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     infc_lamed_he_corrector = InfcLamedHeCorrector(lamed_he_infc)
     lamed_he_infc = infc_lamed_he_corrector.data
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(lamed_he_infc)
+    lamed_he_infc = mt_dss_help_columns_adder.mt_dss_data
 
     matres_column_adder_lamed_he_infc = MatresColumnAdderInfinitiveConstructLamedHe(lamed_he_infc)
     lamed_he_infc = matres_column_adder_lamed_he_infc.data
@@ -123,6 +128,9 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     infc_other_corrector = InfcOtherCorrector(other_infc)
     other_infc = infc_other_corrector.data
+
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(other_infc)
+    other_infc = mt_dss_help_columns_adder.mt_dss_data
 
     rec_cor_col_adder = RecCorColumnsAdder(other_infc)
     other_infc = rec_cor_col_adder.data
@@ -269,6 +277,7 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
 def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='inf_abs_qal')
     mt_qal_inf_abs = basic_mt_data_selector.select_data()
+    print(mt_qal_inf_abs.head())
 
     matres_parser_dss = DSSMatresProcessor(corpus,
                                            relevant_data='inf_abs_qal',
@@ -276,6 +285,8 @@ def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
 
     qal_inf_abs_df = pd.concat([mt_qal_inf_abs, matres_parser_dss.dss_matres_df])
     qal_inf_abs_df = qal_inf_abs_df.sort_values(by=['tf_id'])
+
+    print(qal_inf_abs_df.head())
 
     hebrew_text_adder = HebrewTextAdder(qal_inf_abs_df)
     qal_inf_abs_df = hebrew_text_adder.data
@@ -350,6 +361,8 @@ def get_yiqtol_wayyiqtol_hollow_roots(corpus, mt, matres_pattern_dataset):
                                            relevant_data='yiq_wayq_hollow',
                                            matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
 
+    pass
+
     # particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
     # particles_df = particles_df.sort_values(by=['tf_id'])
     #
@@ -375,4 +388,4 @@ def get_yiqtol_wayyiqtol_hollow_roots(corpus, mt, matres_pattern_dataset):
     # invalid_data_remover = InvalidDataRemover(particles_df)
     # particles_df = invalid_data_remover.data_complete_syllables
 
-    return yiqtol_wayyiqtol_hollow_roots
+    #return yiqtol_wayyiqtol_hollow_roots
