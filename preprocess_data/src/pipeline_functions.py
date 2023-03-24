@@ -1,6 +1,13 @@
+"""
+Each functions runs the data preparation pipeline for a specific feature.
+The function get_nouns_adjectives_data depends on a json file (../data/pattern_data.json), which contains partly
+manually corrected matres patterns.
+
+"""
+import json
+
 import pandas as pd
 
-#from add_hebrew_text_column import HebrewTextAdder
 from first_data_selection_mt import BasicMTDataSelector
 from parse_matres_dss import DSSMatresProcessor
 
@@ -33,7 +40,7 @@ from matres_column_hiphil_triliteral import MatresColumnAdderHifTriliteral
 
 
 def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
-    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
+    basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='subs_adjv')
     mt_nouns_adjectives_data = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv', matres_pattern_dataset.matres_predictions_dict)
@@ -41,13 +48,20 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
 
-    mt_dss.to_csv('../data/mt_dss_before_manual_correction.csv', sep='\t', index=False)
+    with open('../data/pattern_data.json', 'r') as j:
+        pattern_dict = json.loads(j.read())
 
-    # Import manually corrected dataset
-    mt_dss = pd.read_csv('../data/mt_dss_after_manual_correction.csv', sep=';')
+    pattern_integer_dict = {int(k): v for k, v in pattern_dict.items()}
+    pattern_l = []
+    pattern_g_cons_l = []
 
-    #hebrew_text_adder = HebrewTextAdder(mt_dss)
-    #mt_dss = hebrew_text_adder.data
+    for tf_id in mt_dss.tf_id:
+        pat, pat_g_cons = pattern_integer_dict.get(int(tf_id), ['', ''])
+        pattern_l.append(pat)
+        pattern_g_cons_l.append(pat_g_cons)
+
+    mt_dss['pattern'] = pattern_l
+    mt_dss['pattern_g_cons'] = pattern_g_cons_l
 
     final_aleph_converter = FinalAlephConverter(mt_dss)
     mt_dss = final_aleph_converter.data
@@ -66,8 +80,6 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
 
     rec_cor_columns_adder = RecCorColumnsAdder(mt_dss)
     mt_dss = rec_cor_columns_adder.data
-
-    mt_dss.to_csv('../data/mt_dss_before_matres_col_adder.csv', sep='\t', index=False)
 
     matres_column_adder = MatresColumnAdder(mt_dss)
     mt_dss = matres_column_adder.df_with_vowel_letters
@@ -98,9 +110,6 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
 
     mt_dss_infc_qal_df = pd.concat([mt_infc_qal_df, matres_parser_dss.dss_matres_df])
     mt_dss_infc_qal_df = mt_dss_infc_qal_df.sort_values(by=['tf_id'])
-
-    #hebrew_text_adder = HebrewTextAdder(mt_dss_infc_qal_df)
-    #mt_dss_infc_qal_df = hebrew_text_adder.data
 
     mt_dss_infc_qal_df['other_vowel_ending'] = ''
 
@@ -157,9 +166,6 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
     useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = useless_participles_remover.clean_ptc_data
 
-    #hebrew_text_adder = HebrewTextAdder(mt_dss_ptc_qal_df)
-    #mt_dss_ptc_qal_df = hebrew_text_adder.data
-
     final_aleph_converter = FinalAlephConverter(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = final_aleph_converter.data
 
@@ -213,9 +219,6 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
     niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.dss_matres_df])
     niph_hiph_pe_yod_df = niph_hiph_pe_yod_df.sort_values(by=['tf_id'])
 
-    #hebrew_text_adder = HebrewTextAdder(niph_hiph_pe_yod_df)
-    #niph_hiph_pe_yod_df = hebrew_text_adder.data
-
     niph_hiph_pe_yod_df['other_vowel_ending'] = ''
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(niph_hiph_pe_yod_df)
@@ -249,9 +252,6 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
     hiph_triliteral_df = pd.concat([mt_hiph_triliteral_df, matres_parser_dss.dss_matres_df])
     hiph_triliteral_df = hiph_triliteral_df.sort_values(by=['tf_id'])
 
-    #hebrew_text_adder = HebrewTextAdder(hiph_triliteral_df)
-    #hiph_triliteral_df = hebrew_text_adder.data
-
     hiph_triliteral_df['other_vowel_ending'] = ''
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(hiph_triliteral_df)
@@ -283,11 +283,6 @@ def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
 
     qal_inf_abs_df = pd.concat([mt_qal_inf_abs, matres_parser_dss.dss_matres_df])
     qal_inf_abs_df = qal_inf_abs_df.sort_values(by=['tf_id'])
-
-    #print(qal_inf_abs_df.head())
-
-    #hebrew_text_adder = HebrewTextAdder(qal_inf_abs_df)
-    #qal_inf_abs_df = hebrew_text_adder.data
 
     qal_inf_abs_df['other_vowel_ending'] = ''
 
@@ -323,9 +318,6 @@ def get_particles(corpus, mt, matres_pattern_dataset):
 
     particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
     particles_df = particles_df.sort_values(by=['tf_id'])
-
-    #hebrew_text_adder = HebrewTextAdder(particles_df)
-    #particles_df = hebrew_text_adder.data
 
     particles_df['other_vowel_ending'] = ''
 
@@ -363,9 +355,6 @@ def get_yiqtol_wayyiqtol_hollow_roots(corpus, mt, matres_pattern_dataset):
 
     # particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
     # particles_df = particles_df.sort_values(by=['tf_id'])
-    #
-    # hebrew_text_adder = HebrewTextAdder(particles_df)
-    # particles_df = hebrew_text_adder.data
     #
     # particles_df['other_vowel_ending'] = ''
     #
