@@ -108,9 +108,9 @@ class MTWordProcessor:
         self.prs = self.get_prs()
         self.heb_text_adder = HebrewTextAdder(self.glyphs)
         self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
-        self.g_pfm = F.g_pfm.v(tf_id)
-        self.g_vbs = F.g_vbs.v(tf_id)
-        self.g_vbe = F.g_vbe.v(tf_id)
+        self.g_pfm = self.get_pfm()
+        self.g_vbs = self.get_vbs()
+        self.g_vbe = self.get_vbe()
 
     def create_word(self):
 
@@ -171,12 +171,24 @@ class MTWordProcessor:
         return prs_cons
 
     def get_stem(self):
-        return ''.join([ch for ch in F.g_vbs.v(self.tf_id) + F.g_pfm.v(self.tf_id) + F.g_lex.v(self.tf_id)
+        return ''.join([ch for ch in F.g_lex.v(self.tf_id)
                         if ch in self.consonants])
 
     def get_nme(self):
         nme_cons = ''.join([ch for ch in F.g_nme.v(self.tf_id) if ch in self.consonants])
         return nme_cons
+
+    def get_vbs(self):
+        vbs_cons = ''.join([ch for ch in F.g_vbs.v(self.tf_id) if ch in self.consonants])
+        return vbs_cons
+
+    def get_pfm(self):
+        pfm_cons = ''.join([ch for ch in F.g_pfm.v(self.tf_id) if ch in self.consonants])
+        return pfm_cons
+
+    def get_vbe(self):
+        vbe_cons = ''.join([ch for ch in F.g_vbe.v(self.tf_id) if ch in self.consonants])
+        return vbe_cons
 
 
 class DSSWordProcessor:
@@ -201,16 +213,17 @@ class DSSWordProcessor:
         self.rec_signs = None
         self.cor_signs = None
         self.heb_g_cons = ''
-        self.g_pfm = ''
-        self.g_vbs = ''
-        self.g_vbe = ''
-
         if Fdss.glyphe.v(tf_id):
             self.glyphs = self.preprocess_text()
             self.rec_signs = self.get_reconstructed_signs()
             self.cor_signs = self.get_corrected_signs()
             self.heb_text_adder = HebrewTextAdder(self.glyphs)
             self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
+
+        self.stem = self.glyphs
+        self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
+        self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
+        self.g_vbe = ''
 
     def create_word(self):
 
@@ -233,6 +246,7 @@ class DSSWordProcessor:
                     prs_cons=self.prs,
                     hloc=self.hloc,
                     heb_g_cons=self.heb_g_cons,
+                    stem=self.stem,
                     g_pfm=self.g_pfm,
                     g_vbs=self.g_vbs,
                     g_vbe=self.g_vbe
@@ -344,6 +358,43 @@ class DSSWordProcessor:
         if not state:
             return None
         return state
+
+    def get_vbs(self):
+        """So far only implemented for hiphil.
+        Check if relevant tense has valid value and glyphs start with H.
+        Returns H if present and adapts stem accordingly.
+        """
+        if self.vs == 'hif' and self.vt in {'perf', 'impv', 'infa', 'infc'} and self.lexeme and self.glyphs:
+            if self.lexeme[0] != 'H' and self.glyphs[0] == 'H':
+                self.stem = self.glyphs[1:]
+                return 'H'
+            else:
+                return ''
+
+    def get_pfm(self):
+        """Only implemented for hiphil."""
+        if self.vs == 'hif' and self.lexeme and self.glyphs:
+            if self.vt == 'ptca' and self.glyphs[0] == 'M':
+                self.stem = self.stem[1:]
+                return 'M'
+            elif self.vt in {'impf', 'wayq'}:
+                if self.person in {'p2', 'p3'} and self.glyphs[0] == 'T':
+                    self.stem = self.stem[1:]
+                    return 'T'
+                elif self.person == 'p3' and self.glyphs[0] == 'J':
+                    self.stem = self.stem[1:]
+                    return 'J'
+                elif self.person == 'p1' and self.glyphs[0] in {'>', 'N'}:
+                    self.stem = self.stem[1:]
+                    return self.glyphs[0]
+                else:
+                    return ''
+            else:
+                return ''
+
+
+
+
 
 
 # class SPWordProcessor:

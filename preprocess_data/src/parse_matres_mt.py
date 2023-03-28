@@ -216,9 +216,12 @@ class MTMatresProcessor:
 
     @staticmethod
     def get_stem_matres_pattern(g_cons, stem, matres_pattern):
-        stem_start_idx = g_cons.find(stem)
-        matres_pattern_stem = matres_pattern[stem_start_idx:stem_start_idx+len(stem)]
-        return matres_pattern_stem
+        if g_cons and stem and matres_pattern:
+            stem_start_idx = g_cons.find(stem)
+            matres_pattern_stem = matres_pattern[stem_start_idx:stem_start_idx+len(stem)]
+            return matres_pattern_stem
+        else:
+            return ''
 
     def save_mt_dataset(self, file_name):
         """"""

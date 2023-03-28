@@ -233,7 +233,7 @@ class DSSMatresProcessor:
                     word_objects = [word for word in verse_obj.words if self.check_word_conditions(word)]
                     for w_obj in word_objects:
                         w_obj.prefix_g_cons = self.parse_prefix_g_cons_dss(w_obj.tf_word_id)
-                        stem = w_obj.g_cons.removesuffix(w_obj.hloc).removesuffix(w_obj.prs_cons)
+                        stem = w_obj.stem.removesuffix(w_obj.hloc).removesuffix(w_obj.prs_cons)
                         if not stem:
                             continue
                         stem, nme_dss = parse_nme_dss(stem, w_obj.lex, w_obj.state, w_obj.number,
