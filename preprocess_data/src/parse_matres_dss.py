@@ -7,7 +7,7 @@ import pandas as pd
 
 from config import data_path
 from data_classes import F, L, T, Fdss, Ldss, Tdss, Scroll
-from special_data import j_lexemes, df_columns, fem_end_words
+from special_data import df_columns
 
 FILE_NAME = 'matres_dss.csv'
 
@@ -233,29 +233,31 @@ class DSSMatresProcessor:
                     word_objects = [word for word in verse_obj.words if self.check_word_conditions(word)]
                     for w_obj in word_objects:
                         w_obj.prefix_g_cons = self.parse_prefix_g_cons_dss(w_obj.tf_word_id)
-                        stem = w_obj.stem.removesuffix(w_obj.hloc).removesuffix(w_obj.prs_cons)
-                        if not stem:
+                        if not w_obj.stem:
                             continue
-                        stem, nme_dss = parse_nme_dss(stem, w_obj.lex, w_obj.state, w_obj.number,
-                                                      w_obj.gender, w_obj.sp,
-                                                      w_obj.prs_cons)
-                        w_obj.stem, w_obj.nme_cons = stem, nme_dss
                         pattern = self.get_matres_pattern(int(w_obj.tf_word_id))
+                        stem_pattern = self.get_stem_pattern(w_obj.g_cons, w_obj.stem, pattern)
 
                         if len(w_obj.g_cons) != len(pattern):
                             print(w_obj.tf_word_id, w_obj.stem, w_obj.g_cons, stem, pattern)
 
                         self.matres_dss_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,
-                                                                  w_obj.g_cons, stem, pattern[:len(stem)],
+                                                                  w_obj.g_cons, w_obj.stem, stem_pattern,
                                                                   pattern, w_obj.vs, w_obj.vt,
                                                                   w_obj.number, w_obj.gender, w_obj.person,
-                                                                  w_obj.sp, w_obj.prs_cons, nme_dss, w_obj.hloc,
+                                                                  w_obj.sp, w_obj.prs_cons, w_obj.nme_cons, w_obj.hloc,
                                                                   w_obj.prefix_g_cons, w_obj.rec_signs,
                                                                   w_obj.cor_signs, w_obj.heb_g_cons]
 
     def get_matres_pattern(self, tf_id):
         return self.matres_pattern_dict[tf_id]
+
+    @staticmethod
+    def get_stem_pattern(g_cons, stem, pattern):
+        start_idx = g_cons.find(stem)
+        end_idx = start_idx + len(stem)
+        return pattern[start_idx:end_idx]
 
     def save_dss_data(self):
         dss_matres_df = pd.DataFrame(self.matres_dss_dict).T

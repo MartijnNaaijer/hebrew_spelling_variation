@@ -1,5 +1,5 @@
 bhsa_version = '2021'
-dss_version = '1.7.9'
+dss_version = '1.8.3'
 sp_version = '1.3'
 
 data_path = '../data'

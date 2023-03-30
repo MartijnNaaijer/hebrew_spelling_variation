@@ -15,6 +15,7 @@ from dataclasses import dataclass, field
 
 from add_hebrew_text_column import HebrewTextAdder
 from config import bhsa_version, dss_version, sp_version
+from special_data import j_lexemes, fem_end_words
 
 from tf.app import use
 DSS = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
@@ -32,9 +33,9 @@ F, L, T = MT.api.F, MT.api.L, MT.api.T
 class Word:
     """prefix_g_cons are concatenated g_cons of words prefixed to a word, often article or prep"""
     tf_word_id: int
-    bo: str
-    ch: int
-    ve: int
+    book: str
+    chapter_num: int
+    verse_num: int
     g_cons: str
     lex: str
     sp: str
@@ -191,6 +192,161 @@ class MTWordProcessor:
         return vbe_cons
 
 
+def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
+    """
+    :param stem: initial stem (needs further parsing)
+    :param lex: lexeme
+    :param state: state a or c
+    :param nu: number
+    :param gn: gender
+    :param sp: part of speech
+    :param suff: pronominal suffix
+    :return: stem and nme
+    """
+    nme = ''
+    lex_no_special_signs = lex.strip('/').strip('=')
+
+    if lex in j_lexemes:
+        if suff and stem.endswith('JJ') and nu == 'pl':
+            stem = stem.removesuffix('J')
+            nme += 'J'
+    else:
+        if suff and stem.endswith('J') and nu == 'pl':
+            stem = stem.removesuffix('J')
+            nme += 'J'
+
+    if sp == 'adjv' and len(lex) > 1 and stem.endswith('H') and lex_no_special_signs[-1] != 'H':
+        stem = stem.removesuffix('H')
+        nme += 'H'
+    elif sp == 'adjv' and len(lex) > 1 and stem.endswith('T') and lex_no_special_signs[-1] != 'T' and nu == 'sg':
+        stem = stem.removesuffix('T')
+        nme += 'T'
+    elif sp == 'adjv' and len(lex) > 1 and stem.endswith('TJ') and lex_no_special_signs[-2:] != 'TJ' and nu == 'sg':
+        stem = stem.removesuffix('TJ')
+        nme += 'TJ'
+    elif sp == 'adjv' and lex_no_special_signs[-1] == 'J' and len(lex) > 1 and stem.endswith('JM'):
+        stem = stem.removesuffix('JM')
+        nme += 'JM'
+    elif sp == 'adjv' and lex_no_special_signs[-1] == 'J' and len(lex) > 1 and stem.endswith('JN'):
+        stem = stem.removesuffix('JN')
+        nme += 'JN'
+    elif sp == 'adjv' and lex_no_special_signs[-1] == 'J' and len(lex) > 1 and stem.endswith('WT'):
+        stem = stem.removesuffix('WT')
+        nme += 'WT'
+    elif sp == 'adjv' and lex_no_special_signs[-1] == 'J' and len(lex) > 1 and stem.endswith('T'):
+        stem = stem.removesuffix('T')
+        nme += 'T'
+    elif sp == 'adjv' and lex_no_special_signs[-1] == 'J' and len(lex) > 1 and stem.endswith('J'):
+        stem = stem.removesuffix('J')
+        nme = 'J' + nme
+
+    if (stem.endswith('J') and state == 'c' and nu in {'du', 'pl'} and lex not in j_lexemes) or \
+            (stem.endswith('J') and sp == 'prep'):
+        stem = stem.removesuffix('J')
+        nme += 'J'
+    elif stem.endswith('W') and sp == 'prep':
+        stem = stem.removesuffix('W')
+        nme += 'W'
+    elif lex in j_lexemes and stem.endswith('JJM') and len(stem) > 3:
+        stem = stem.removesuffix('JM')
+        nme = 'JM' + nme
+    elif lex in j_lexemes and stem.endswith('JM') and len(stem) > 2:
+        stem = stem.removesuffix('M')
+        nme = 'M' + nme
+    elif lex not in j_lexemes and stem.endswith('JM') and nu in {'du', 'pl'} and len(stem) > 2:
+        stem = stem.removesuffix('JM')
+        nme = 'JM' + nme
+    elif lex not in j_lexemes and stem.endswith('M') and nu in {'du', 'pl'} and len(stem) > 2 and (lex_no_special_signs[-1] != 'M' or lex == '>LHJM/'):
+        stem = stem.removesuffix('M')
+        nme = 'M' + nme
+
+    if stem.endswith('WT') and nu == 'pl':
+        stem = stem.removesuffix('WT')
+        nme = 'WT' + nme
+    if stem.endswith('WTJ') and nu == 'pl':
+        stem = stem.removesuffix('WTJ')
+        nme = 'WTJ' + nme
+    elif stem.endswith('T') and nu == 'pl' and gn == 'f':
+        stem = stem.removesuffix('T')
+        nme = 'T' + nme
+
+    if lex_no_special_signs[-1] == 'H' and nu == 'sg':
+        if stem.endswith('TJ'):
+            stem = stem.removesuffix('TJ')
+            nme = 'TJ' + nme
+        elif stem[-1] == 'T':
+            stem = stem.removesuffix('T')
+            nme = 'T' + nme
+        elif stem[-1] == 'H' and lex != '>LWH/':
+            stem = stem.removesuffix('H')
+            nme = 'H' + nme
+
+    # Ugly ad hoc solution for Jer 17:18 in 4Q70. Better solution?
+    if lex == 'CBRWN/' and stem == 'CBRWNM':
+        stem = 'CBRWN'
+        nme = 'M'
+
+    # Aramaic plural
+    if stem.endswith('JN') and gn == 'm' and nu == 'pl' and not nme:
+        stem = stem[:-2]
+        nme = 'JN'
+
+    # Ugly hardcoded solution for H/> exchange
+    if lex in {'DBWRH/', 'GBWRH/', 'PLJVH/', 'MNWSH/', 'MBWSH/', 'PH/', 'DWD=/'} and stem.endswith('>'):
+        stem = stem[:-1]
+        nme = '>' + nme
+
+    if lex in fem_end_words:
+        if nu == 'pl' and stem.endswith('T'):
+            stem = stem[:-1]
+            nme = 'T' + nme
+        elif nu == 'pl' and stem.endswith('WT'):
+            stem = stem[:-2]
+            nme = 'WT' + nme
+
+    if lex == 'CWCN/' and stem.endswith('H'):
+        stem = stem.rstrip('H')
+        nme += 'H'
+
+    if lex == 'CLC/' and stem.endswith('H'):
+        stem = stem.rstrip('H')
+        nme = 'H' + nme
+
+    if lex == 'GDL/' and stem.endswith('H'):
+        stem = stem.rstrip('H')
+        nme = 'H' + nme
+
+    if lex == 'XV>/' and stem.endswith('H'):
+        stem = stem.rstrip('H')
+        nme = 'H' + nme
+
+    if lex == 'P<LH/' and stem.endswith('T'):
+        stem = stem.rstrip('T')
+        nme = 'T' + nme
+
+    if lex == 'XJH/' and stem.endswith('T'):
+        stem = stem.rstrip('T')
+        nme = 'T' + nme
+
+    if lex == 'TMJM/' and stem.endswith('JMM'):
+        stem = stem.rstrip('M')
+        nme = 'M' + nme
+
+    if lex == 'BMH/' and stem.endswith('T'):
+        stem = stem.rstrip('T')
+        nme = 'T' + nme
+
+    if lex in {'HWH/', 'PLJLJH/', 'LJLJT/', '<W<JM/'} and stem.endswith('J'):
+        stem = stem.rstrip('J')
+        nme = 'J' + nme
+
+    if lex == 'YJH/' and stem.endswith('>'):
+        stem = stem.rstrip('>')
+        nme = '>' + nme
+
+    return stem, nme
+
+
 class DSSWordProcessor:
     """"""
     def __init__(self, tf_id):
@@ -202,6 +358,7 @@ class DSSWordProcessor:
         self.glyphs = None
         self.hloc = self.get_he_locale()
         self.prs = ''
+        self.nme = ''
         self.sp = Fdss.sp_etcbc.v(tf_id)
         self.number = self.get_number()
         self.person = Fdss.ps_etcbc.v(tf_id)
@@ -219,11 +376,14 @@ class DSSWordProcessor:
             self.cor_signs = self.get_corrected_signs()
             self.heb_text_adder = HebrewTextAdder(self.glyphs)
             self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
-
         self.stem = self.glyphs
+        if self.stem:
+            self.stem = self.stem.removesuffix(self.hloc).removesuffix(self.prs)
+            if self.lexeme:
+                self.parse_nme()
         self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
         self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
-        self.g_vbe = ''
+        self.g_vbe = self.get_vbe()
 
     def create_word(self):
 
@@ -244,6 +404,7 @@ class DSSWordProcessor:
                     self.rec_signs,
                     self.cor_signs,
                     prs_cons=self.prs,
+                    nme_cons=self.nme,
                     hloc=self.hloc,
                     heb_g_cons=self.heb_g_cons,
                     stem=self.stem,
@@ -337,6 +498,9 @@ class DSSWordProcessor:
         glyphs = glyphs.replace("'", '')
         return glyphs
 
+    def parse_nme(self):
+        self.stem, self.nme = parse_nme_dss(self.stem, self.lexeme, self.state, self.number, self.gender, self.sp, self.prs)
+
     def get_number(self):
         """
         Number values are {'NA', 'du', 'pl', 'sg', 'unknown'}.
@@ -366,7 +530,7 @@ class DSSWordProcessor:
         """
         if self.vs == 'hif' and self.vt in {'perf', 'impv', 'infa', 'infc'} and self.lexeme and self.glyphs:
             if self.lexeme[0] != 'H' and self.glyphs[0] == 'H':
-                self.stem = self.glyphs[1:]
+                self.stem = self.stem[1:]
                 return 'H'
             else:
                 return ''
@@ -392,9 +556,63 @@ class DSSWordProcessor:
             else:
                 return ''
 
+    def get_vbe(self):
+        """Only implemented for hiphil."""
+        perf_dict = {
+            ('m', 'sg', 'p3'): '',
+            ('m', 'sg', 'p2'): 'T',
+            ('f', 'sg', 'p3'): 'H',
+            ('f', 'sg', 'p2'): 'T',
+            ('unknown', 'sg', 'p1'): 'TJ',
+            ('unknown', 'pl', 'p3'): 'W',
+            ('m', 'pl', 'p3'): 'W',
+            ('m', 'pl', 'p2'): 'TM',
+            ('f', 'pl', 'p2'): 'TN',
+            ('unknown', 'pl', 'p1'): ''
+            }
 
+        impf_dict = {
+            ('m', 'sg', 'p3'): '',
+            ('m', 'sg', 'p2'): '',
+            ('f', 'sg', 'p3'): '',
+            ('f', 'sg', 'p2'): 'J',
+            ('unknown', 'sg', 'p1'): '',
+            ('m', 'pl', 'p3'): 'W',
+            ('m', 'pl', 'p2'): 'W',
+            ('f', 'pl', 'p3'): 'NH',
+            ('f', 'pl', 'p2'): 'NH',
+            ('unknown', 'pl', 'p1'): ''
+        }
 
+        impv_dict = {
+            ('m', 'sg', 'NA'): '',
+            ('f', 'sg', 'NA'): 'J',
+            ('m', 'pl', 'NA'): 'W',
+            ('f', 'pl', 'NA'): 'NH',
+        }
 
+        if self.vs == 'hif' and self.lexeme and self.glyphs:
+            if self.book:
+                gn, nu, ps = self.gender, self.number, self.person
+                if gn in {'', None}:
+                    gn = 'unknown'
+
+                if self.vt == 'perf':
+                    vbe = perf_dict[(gn, nu, ps)]
+                elif self.vt == 'impf':
+                    vbe = impf_dict[(gn, nu, ps)]
+                elif self.vt == 'impv':
+                    vbe = impv_dict[(gn, nu, ps)]
+                else:
+                    vbe = ''
+                if self.stem.endswith(vbe):
+                    self.stem = self.stem.rstrip(vbe)
+                    return vbe
+                else:
+                    return ''
+            else:
+                return ''
+        return ''
 
 
 # class SPWordProcessor:
@@ -513,7 +731,7 @@ class Corpus:
             for wo in words:
                 word_processor = DSSWordProcessor(wo)
                 dss_word_object = word_processor.create_word()
-                bo, ch, ve = dss_word_object.bo, dss_word_object.ch, dss_word_object.ve
+                bo, ch, ve = dss_word_object.book, dss_word_object.chapter_num, dss_word_object.verse_num
 
                 if not all([bo, ch, ve]) or ('f' in ch) or (dss_word_object.lex in {None, ''}):
                     continue
