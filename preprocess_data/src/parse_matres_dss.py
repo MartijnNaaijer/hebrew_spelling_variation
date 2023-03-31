@@ -195,20 +195,33 @@ class DSSMatresProcessor:
     def check_word_conditions(self, word_obj):
         is_hebrew = word_obj.lang == 'Hebrew'
         if self.relevant_data == 'subs_adjv':
-            is_sp_relevant = word_obj.sp in ['subs', 'adjv']
+            is_relevant = word_obj.sp in ['subs', 'adjv']
         elif self.relevant_data == 'ptc_qal':
-            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt in ['ptca', 'ptcp'] and word_obj.vs == 'qal'
+            is_relevant = word_obj.sp == 'verb' and \
+                          word_obj.vt in ['ptca', 'ptcp'] and \
+                          word_obj.vs == 'qal'
         elif self.relevant_data == 'infc_qal':
-            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt == 'infc' and word_obj.vs == 'qal'
+            is_relevant = word_obj.sp == 'verb' and \
+                          word_obj.vt == 'infc' and \
+                          word_obj.vs == 'qal'
         elif self.relevant_data == 'particles':
-            is_sp_relevant = word_obj.lex in {'KJ', 'MJ', 'L>'}
+            is_relevant = word_obj.lex in {'KJ', 'MJ', 'L>'}
         elif self.relevant_data == 'inf_abs_qal':
-            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vt == 'infa' and word_obj.vs == 'qal'
+            is_relevant = word_obj.sp == 'verb' and \
+                          word_obj.vt == 'infa' and \
+                          word_obj.vs == 'qal'
         elif self.relevant_data == 'niph_hiph_pe_yod':
-            is_sp_relevant = word_obj.sp == 'verb' and word_obj.lex[0] == 'J' and word_obj.vs in {'hif', 'nif', 'hof'}
+            is_relevant = word_obj.sp == 'verb' and \
+                          word_obj.lex[0] == 'J' and \
+                          word_obj.vs in {'hif', 'nif', 'hof'}
         elif self.relevant_data == 'hiph_triliteral':
-            is_sp_relevant = word_obj.sp == 'verb' and word_obj.vs == 'hif' and word_obj.lex[0] != 'J' and word_obj.lex[2] != 'H'
-        return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_sp_relevant])
+            is_relevant = word_obj.sp == 'verb' and \
+                          word_obj.vs == 'hif' and \
+                          word_obj.lex[0] != 'J' and \
+                          word_obj.lex[2] != 'H' and \
+                          (word_obj.lex[1] != word_obj.lex[2]) and \
+                          word_obj.vt != 'impf'
+        return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_relevant])
 
     @staticmethod
     def parse_prefix_g_cons_dss(tf_id):
