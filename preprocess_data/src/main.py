@@ -38,9 +38,9 @@ def main():
     # lamed_he_infc.to_csv('../data/infc_qal_lamed_he.csv', sep='\t', index=False)
     # other_infc.to_csv('../data/infc_qal_triliteral.csv', sep='\t', index=False)
     #
-    # niph_hiph_pe_yod = pf.get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
-    # print(niph_hiph_pe_yod.shape)
-    # niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
+    niph_hiph_pe_yod = pf.get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset)
+    print(niph_hiph_pe_yod.shape)
+    niph_hiph_pe_yod.to_csv('../data/niph_hiph_pe_yod.csv', sep='\t', index=False)
 
     hiph_triliteral = pf.get_triliteral_hiphil(corpus, mt, matres_pattern_dataset)
     print(hiph_triliteral.shape)
