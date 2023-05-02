@@ -21,6 +21,7 @@ from tf.app import use
 DSS = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
 Fdss, Ldss, Tdss = DSS.api.F, DSS.api.L, DSS.api.T
 
+
 #SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
 #Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
 
@@ -599,10 +600,14 @@ class DSSWordProcessor:
 
                 if self.vt == 'perf':
                     vbe = perf_dict[(gn, nu, ps)]
+                    if (gn, nu, ps) == ('unknown', 'pl', 'p3') and self.stem.endswith('J'):
+                        vbe = 'J' # single case in 1Qisaa, tf_id = 1899343
                 elif self.vt == 'impf':
                     vbe = impf_dict[(gn, nu, ps)]
                 elif self.vt == 'impv':
                     vbe = impv_dict[(gn, nu, ps)]
+                    if vbe == 'NH' and self.lexeme[-2] == 'N':
+                        vbe = 'H'
                 else:
                     vbe = ''
                 if self.stem.endswith(vbe):

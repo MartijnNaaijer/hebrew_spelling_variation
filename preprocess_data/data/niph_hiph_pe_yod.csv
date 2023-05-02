@@ -1980,7 +1980,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1918149	1Qisaa	Isaiah	65	14	JLL[	TJLJLW	JLJL	MCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תילילו		21	52	0	0	0	0	nnnn	nnnn	first	J	1
 1918569	1Qisaa	Isaiah	66	9	JLD[	>WLJD	WLJD	MCMC	CMCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn	אוליד		22	53	0	0	0	0	nnnn	nnnn	first	W	1
 1918575	1Qisaa	Isaiah	66	9	JLD[	MWLJD	WLJD	MCMC	CMCMC	hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוליד		22	53	0	1	0	0	nnnn	nnnn	first	W	1
-1918662	1Qisaa	Isaiah	66	14	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	f	p3	verb				W	nnnn	nnnn	נודע		1	54	0	1	0	0	nnnn	nnnn	first	W	1
+1918662	1Qisaa	Isaiah	66	14	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע		1	54	0	1	0	0	nnnn	nnnn	first	W	1
 1919940	1Q8	Isaiah	19	21	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע		2	8a_b	0	1	0	0	nnnn	nnnn	first	W	1
 1921637	1Q8	Isaiah	38	18	JDH[	TW<K	W<	MC	CMCC	hif	impf	sg	f	p3	verb	K				nnnn	nnnn	תועך		6	16	1	0	0	0	nn	nn	first	W	1
 1921650	1Q8	Isaiah	38	19	JDH[	JWDK	WD	MC	CMCC	hif	impf	sg	m	p3	verb	K				nnnn	nnnn	יודך		7	16	1	0	0	0	nn	nn	first	W	1
@@ -2187,7 +2187,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2085572	11Q5	Psalms	145	6	JR>[	NWR>WTJKH	NWR>	CMCC	CMCCMCMCM	nif	ptca	pl	f	NA	verb	KH	WTJ			nnnnnnnnn	nnnnnnnnn	נוראותיכה		15	16	1	0	0	1	nnnn	nnnn	first	W	1
 2085757	11Q5	Psalms	145	19	JC<[	JWCJ<M	WCJ<	MCMC	CMCMCC	hif	impf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יושיעם		13	17	1	1	0	0	nnnn	nnnn	first	W	1
 2085873	11Q5	Psalms	139	14	JDH[	>WDKH	WD	MC	CMCCM	hif	impf	sg		p1	verb	KH				nnnnn	nnnnn	אודכה		5	20	1	0	0	0	nn	nn	first	W	1
-2085876	11Q5	Psalms	139	14	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	f	NA	verb					nnnn	nnnn	נורא		5	20	0	0	0	0	nnnn	nnnn	first	W	1
+2085876	11Q5	Psalms	139	14	JR>[	NWR>	NWR>	CMCM	CMCM	nif	ptca	sg	m	NA	verb					nnnn	nnnn	נורא		5	20	0	0	0	0	nnnn	nnnn	first	W	1
 2086017	11Q5	Psalms	138	1	JDH[	>WDKH	WD	MC	CMCCM	hif	impf	sg		p1	verb	KH				nnnnn	nnnnn	אודכה		1	21	1	0	0	0	nn	nn	first	W	1
 2086032	11Q5	Psalms	138	2	JDH[	>WDH	WDH	MCM	CMCM	hif	impf	sg		p1	verb				W	nnnn	nnnn	אודה		3	21	0	1	0	0	nnn	nnn	first	W	1
 2086057	11Q5	Psalms	138	4	JDH[	JWDWK	WD	MC	CMCMC	hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn	יודוך		5	21	1	0	0	0	nn	nn	first	W	1

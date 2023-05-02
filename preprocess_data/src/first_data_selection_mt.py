@@ -28,6 +28,7 @@ class BasicMTDataSelector:
         elif self.relevant_data == 'hiph_triliteral':
             hiphil_triliteral_data = self.data[(self.data.sp == 'verb') &
                                                (self.data.vs == 'hif') &
+                                               ~(self.data.lex.str[1].isin(['W', 'J'])) &
                                                (self.data.lex.str[0] != 'J') &
                                                (self.data.lex.str[2] != 'H') &
                                                (self.data.lex.str[1] != self.data.lex.str[2]) &
