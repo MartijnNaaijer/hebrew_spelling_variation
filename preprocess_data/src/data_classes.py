@@ -21,7 +21,6 @@ from tf.app import use
 DSS = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
 Fdss, Ldss, Tdss = DSS.api.F, DSS.api.L, DSS.api.T
 
-
 #SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
 #Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
 
