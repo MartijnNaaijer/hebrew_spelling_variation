@@ -7,7 +7,7 @@ import pandas as pd
 
 from config import data_path
 from data_classes import F, L, T, Fdss, Ldss, Tdss, Scroll
-from special_data import df_columns
+from special_data import df_columns, fem_end_words, j_lexemes
 
 FILE_NAME = 'matres_dss.csv'
 
