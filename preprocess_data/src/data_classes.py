@@ -381,8 +381,9 @@ class DSSWordProcessor:
             self.stem = self.stem.removesuffix(self.hloc).removesuffix(self.prs)
             if self.lexeme:
                 self.parse_nme()
-            if self.sp == 'verb' and Fdss.morpho.v(self.tf_id)[-1] == 'H':
-                self.stem = self.rstrip('H')
+            if Fdss.morpho.v(self.tf_id):
+                if self.sp == 'verb' and Fdss.morpho.v(self.tf_id)[-1] == 'H':
+                    self.stem = self.rstrip('H')
         self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
         self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
         self.g_vbe = self.get_vbe()
