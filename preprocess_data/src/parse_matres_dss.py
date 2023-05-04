@@ -252,9 +252,6 @@ class DSSMatresProcessor:
                         pattern = self.get_matres_pattern(int(w_obj.tf_word_id))
                         stem_pattern = self.get_stem_pattern(w_obj.g_cons, w_obj.stem, pattern)
 
-                        if len(w_obj.g_cons) != len(pattern):
-                            print(w_obj.tf_word_id, w_obj.stem, w_obj.g_cons, stem, pattern)
-
                         self.matres_dss_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,
                                                                   w_obj.g_cons, w_obj.stem, stem_pattern,
