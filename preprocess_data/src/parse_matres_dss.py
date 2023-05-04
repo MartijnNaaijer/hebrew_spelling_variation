@@ -220,8 +220,8 @@ class DSSMatresProcessor:
                           word_obj.lex[1] not in {'W', 'J'} and \
                           word_obj.lex[0] != 'J' and \
                           word_obj.lex[2] != 'H' and \
-                          (word_obj.lex[1] != word_obj.lex[2]) and \
-                          word_obj.vt != 'impf'
+                          (word_obj.lex[1] != word_obj.lex[2]) #and \
+                          #word_obj.vt != 'impf'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_relevant])
 
     @staticmethod
@@ -251,8 +251,6 @@ class DSSMatresProcessor:
                             continue
                         pattern = self.get_matres_pattern(int(w_obj.tf_word_id))
                         stem_pattern = self.get_stem_pattern(w_obj.g_cons, w_obj.stem, pattern)
-                        if w_obj.tf_word_id == 1906030:
-                            print(w_obj.tf_word_id, w_obj.g_cons, w_obj.stem)
 
                         if len(w_obj.g_cons) != len(pattern):
                             print(w_obj.tf_word_id, w_obj.stem, w_obj.g_cons, stem, pattern)
