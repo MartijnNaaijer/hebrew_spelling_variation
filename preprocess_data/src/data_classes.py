@@ -166,6 +166,7 @@ class MTWordProcessor:
 
     def get_prs(self):
         suff = F.g_prs.v(self.tf_id)
+        # Cases like >DNJ in Genesis 19:2 (masc plural with prs)
         if suff == '+':
             suff = 'J'
         prs_cons = ''.join([ch for ch in suff if ch in self.prs_chars])
@@ -176,7 +177,12 @@ class MTWordProcessor:
                         if ch in self.consonants])
 
     def get_nme(self):
-        nme_cons = ''.join([ch for ch in F.g_nme.v(self.tf_id) if ch in self.consonants])
+        g_nme = F.g_nme.v(self.tf_id)
+        prs = F.g_prs.v(self.tf_id)
+        # Cases like >DNJ in Genesis 19:2 (masc plural with prs), decision: no nme, but prs
+        if prs == '+':
+            g_nme = g_nme.rstrip('J')
+        nme_cons = ''.join([ch for ch in g_nme if ch in self.consonants])
         return nme_cons
 
     def get_vbs(self):
@@ -378,12 +384,16 @@ class DSSWordProcessor:
             self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
         self.stem = self.glyphs
         if self.stem:
+            if self.tf_id == 1910255:
+                print(1910255, self.stem)
             self.stem = self.stem.removesuffix(self.hloc).removesuffix(self.prs)
             if self.lexeme:
                 self.parse_nme()
             if Fdss.morpho.v(self.tf_id):
-                if self.sp == 'verb' and Fdss.morpho.v(self.tf_id)[-1] == 'H':
-                    self.stem = self.rstrip('H')
+                if self.sp == 'verb' and Fdss.morpho.v(self.tf_id)[-1] == 'h':
+                    self.stem = self.stem.rstrip('H')
+        if self.tf_id == 1910255:
+            print(1910255, self.stem)
         self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
         self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
         self.g_vbe = self.get_vbe()

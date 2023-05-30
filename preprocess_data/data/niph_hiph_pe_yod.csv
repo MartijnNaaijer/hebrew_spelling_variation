@@ -1971,7 +1971,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1917097	1Qisaa	Isaiah	61	11	JY>[	TWYJ>	WYJ>	MCMM	CMCMM	hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תוציא		9	50	0	0	0	0	nnnn	nnnn	first	W	1
 1917379	1Qisaa	Isaiah	63	1	JC<[	HWCJ<	WCJ<	MCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הושיע		28	50	0	1	0	0	nnnn	nnnn	first	W	1
 1917428	1Qisaa	Isaiah	63	5	JC<[	TWC<	WC<	CCC	CCCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע		1	51	0	1	0	0	nnn	nnn	first	W	1
-1917446	1Qisaa	Isaiah	63	6	JRD[	>WRJDH	WRJDH	MCMCM	CMCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אורידה		2	51	0	1	0	0	nnnnn	nnnnn	first	W	1
+1917446	1Qisaa	Isaiah	63	6	JRD[	>WRJDH	WRJD	MCMC	CMCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אורידה		2	51	0	1	0	0	nnnn	nnnn	first	W	1
 1917489	1Qisaa	Isaiah	63	8	JC<[	MWCJ<	WCJ<	MCMC	CMCMC	hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מושיע		5	51	0	1	0	0	nnnn	nnnn	first	W	1
 1917499	1Qisaa	Isaiah	63	9	JC<[	HWCJ<MH	WCJ<	MCMC	CMCMCCM	hif	perf	sg	m	p3	verb	MH				nnnnnnn	nnnnnnn	הושיעמה		5	51	1	0	0	0	nnnn	nnnn	first	W	1
 1917695	1Qisaa	Isaiah	64	1	JD<[	HWDJ<	WDJ<	MCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודיע		16	51	0	1	0	0	nnnn	nnnn	first	W	1
@@ -2003,7 +2003,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1925706	1Q8	Isaiah	59	4	JLD[	HWLJDW	WLJD	MCMC	CMCMCM	hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הולידו		31	25	0	1	0	0	nnnn	nnnn	first	W	1
 1926091	1Q8	Isaiah	60	16	JC<[	MWCJ<K	WCJ<	MCMC	CMCMCC	hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך		24	26	1	0	0	0	nnnn	nnnn	first	W	1
 1926551	1Q8	Isaiah	63	5	JC<[	TWC<	WC<	CCC	CCCC	hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע		14	27	0	1	0	0	nnn	nnn	first	W	1
-1926569	1Q8	Isaiah	63	6	JRD[	>RJDH	RJDH	CMCM	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	ארידה		15	27	0	1	0	0	nnnn	nnnn	first		0
+1926569	1Q8	Isaiah	63	6	JRD[	>RJDH	RJD	CMC	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	ארידה		15	27	0	1	0	0	nnn	nnn	first		0
 1926612	1Q8	Isaiah	63	8	JC<[	MWCJ<	WCJ<	MCMC	CMCMC	hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מושיע		17	27	0	1	0	0	nnnn	nnnn	first	W	1
 1928925	1Q13	Deuteronomy	10	21	JR>[	NWR>T	NWR>	CMCC	CMCCC	nif	ptca	pl	f	NA	verb		T		H	nnnnr	nnnnn	נוראת		1	f21_22	0	1	0	1	nnnn	nnnn	first	W	1
 1932455	2Q13	Jeremiah	46	27	JC<[	MWCJ<KH	WCJ<	MCMC	CMCMCCM	hif	ptca	sg	m	NA	verb	KH				nnnnnnn	nnnnnnn	מושיעכה		1	f7_8	1	0	0	0	nnnn	nnnn	first	W	1
@@ -2221,11 +2221,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2094394	Mur88	Jonah	4	4	JVB[	HJVB	JVB	MCC	CMCC	hif	infa	NA		NA	verb				H	nnnn	nnnn	היטב		18	11	0	1	0	0	nnn	nnn	first	J	1
 2094517	Mur88	Jonah	4	9	JVB[	HJVB	JVB	MCC	CMCC	hif	infa	NA		NA	verb				H	nnnn	nnnn	היטב		25	11	0	1	0	0	nnn	nnn	first	J	1
 2094525	Mur88	Jonah	4	9	JVB[	HJVJB	JVJB	MCMC	CMCMC	hif	infa	NA		NA	verb					nnnnn	nnnnn	היטיב		26	11	0	0	0	0	nnnn	nnnn	first	J	1
-2094735	Mur88	Micah	1	8	JLL[	>JLJLH	JLJLH	MCMCM	CMCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אילילה		5	12	0	1	0	0	nnnnn	nnnnn	first	J	1
+2094735	Mur88	Micah	1	8	JLL[	>JLJLH	JLJL	MCMC	CMCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אילילה		5	12	0	1	0	0	nnnn	nnnn	first	J	1
 2095002	Mur88	Micah	2	7	JVB[	JJVJBW	JVJB	MCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	ייטיבו		25	12	0	0	0	0	nnnn	nnnn	first	J	1
 2095332	Mur88	Micah	3	11	JRH[	JWRW	WR	MC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn	יורו		13	13	0	0	0	0	nn	nn	first	W	1
 2096162	Mur88	Micah	7	3	JVB[	HJVJB	JVJB	MCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn	היטיב		18	15	0	1	0	0	nnnn	nnnn	first	J	1
-2096232	Mur88	Micah	7	7	JXL[	>WXJLH	WXJLH	MCMCM	CMCMCM	hif	impf	sg		p1	verb					nnnnrr	nnnnnn	אוחילה		24	15	0	0	0	0	nnnnr	nnnnn	first	W	1
+2096232	Mur88	Micah	7	7	JXL[	>WXJLH	WXJL	MCMC	CMCMCM	hif	impf	sg		p1	verb					nnnnrr	nnnnnn	אוחילה		24	15	0	0	0	0	nnnn	nnnn	first	W	1
 2097032	Mur88	Nahum	3	8	JVB[	TJVBJ	JVB	MCC	CMCCM	hif	impf	sg	f	p2	verb				H	nnnnn	nnnnn	תיטבי		15	17	0	1	0	0	nnn	nnn	first	J	1
 2097192	Mur88	Nahum	3	17	JD<[	NWD<	NWD<	CMCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע		28	17	0	0	0	0	nnnn	nnnn	first	W	1
 2097414	Mur88	Habakkuk	1	12	JKX[	HWKJX	WKJX	MCMC	CMCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוכיח		11	18	0	1	0	0	nnnn	nnnn	first	W	1

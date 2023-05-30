@@ -1750,7 +1750,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 321042	MT	Psalms	66	8	CM<[	HCMJ<W	CMJ<	CCMC	CCCMCM	hif	impv	pl	m	p2	verb				W	nnnnnn	nnnnnn	השמיעו		-	-	0	1	0	0	nnnn	nnnn	last	J	1
 321148	MT	Psalms	66	19	QCB[	HQCJB	QCJB	CCMC	CCCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הקשיב		-	-	0	0	0	0	nnnn	nnnn	last	J	1
 321392	MT	Psalms	68	15	CLG[	TCLG	CLG	CCC	CCCC	hif	impf	sg	f	p3	verb					nnnn	nnnn	תשלג		-	-	0	0	0	0	nnn	nnn	last		0
-321672	MT	Psalms	69	5	YMT[	MYMJTJ	YMJT	CCMC	CCCMCC	hif	ptca	pl	m	unknown	verb	J	J			nnnnnn	nnnnnn	מצמיתי		-	-	1	0	0	1	nnnn	nnnn	last	J	1
+321672	MT	Psalms	69	5	YMT[	MYMJTJ	YMJT	CCMC	CCCMCC	hif	ptca	pl	m	unknown	verb	J				nnnnnn	nnnnnn	מצמיתי		-	-	1	0	0	0	nnnn	nnnn	last	J	1
 321810	MT	Psalms	69	18	STR[	TSTR	STR	CCC	CCCC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תסתר		-	-	0	0	0	0	nnn	nnn	last		0
 321889	MT	Psalms	69	25	NFG[	JFJGM	FJG	CMC	CCMCC	hif	impf	sg	m	p3	verb	M				nnnnn	nnnnn	ישיגם		-	-	1	0	0	0	nnn	nnn	last	J	1
 321950	MT	Psalms	69	32	QRN[	MQRN	QRN	CCC	CCCC	hif	ptca	sg	m	unknown	verb					nnnn	nnnn	מקרן		-	-	0	0	0	0	nnn	nnn	last		0
@@ -2542,7 +2542,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1900472	1Qisaa	Isaiah	15	8	NQP[	HQJPH	QJP	CMC	CCMCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn	הקיפה		15	13	0	0	0	0	nnn	nnn	last	J	1
 1900766	1Qisaa	Isaiah	17	2	XRD[	MXRJD	XRJD	CCMC	CCCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מחריד		4	14	0	0	0	0	nnnn	nnnn	last	J	1
 1900932	1Qisaa	Isaiah	17	11	PRX[	TPRJXJ	PRJX	CCMC	CCCMCM	hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תפריחי		17	14	0	0	0	0	nnnn	nnnn	last	J	1
-1901079	1Qisaa	Isaiah	18	4	NBV[	>BJVH	BJVH	CMCM	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		28	14	0	1	0	0	nnnn	nnnn	last		0
+1901079	1Qisaa	Isaiah	18	4	NBV[	>BJVH	BJV	CMC	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		28	14	0	1	0	0	nnn	nnn	last	J	1
 1901283	1Qisaa	Isaiah	19	6	ZNX=[	HZNJXW	ZNJX	CCMC	CCCMCM	hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הזניחו		10	15	0	1	0	0	nnnn	nnnn	last	J	1
 1901322	1Qisaa	Isaiah	19	8	CLK[	MCLJKJ	CLJK	CCMC	CCCMCM	hif	ptca	pl	m	NA	verb		J			nnnnnn	nnnnnn	משליכי		12	15	0	0	0	1	nnnn	nnnn	last	J	1
 1901376	1Qisaa	Isaiah	19	12	NGD[	JGJDW	GJD	CMC	CCMCM	hif	impf	pl	m	p3	verb				W	nnnnn	nnnnn	יגידו		16	15	0	1	0	0	nnn	nnn	last	J	1
@@ -2614,7 +2614,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1907855	1Qisaa	Isaiah	37	12	NYL[	HYJLW	YJL	CMC	CCMCM	hif	perf	pl		p3	verb				H	nnnnn	nnnnn	הצילו		16	30	0	1	0	0	nnn	nnn	last	J	1
 1907861	1Qisaa	Isaiah	37	12	CXT[	HCXJTW	CXJT	CCMC	CCCMCM	hif	perf	pl		p3	verb					nnnnnn	nnnnnn	השחיתו		17	30	0	0	0	0	nnnn	nnnn	last	J	1
 1907979	1Qisaa	Isaiah	37	18	XRB[	HXRJBW	XRJB	CCMC	CCCMCM	hif	perf	pl		p3	verb					nnnnnn	nnnnnn	החריבו		23	30	0	0	0	0	nnnn	nnnn	last	J	1
-1908124	1Qisaa	Isaiah	37	25	XRB[	>XRJBH	XRJBH	CCMCM	CCCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אחריבה		3	31	0	1	0	0	nnnnn	nnnnn	last		0
+1908124	1Qisaa	Isaiah	37	25	XRB[	>XRJBH	XRJB	CCMC	CCCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אחריבה		3	31	0	1	0	0	nnnn	nnnn	last	J	1
 1908185	1Qisaa	Isaiah	37	28	RGZ[	HRGZKH	RGZ	CCC	CCCCCM	hif	infc	NA		NA	verb	KH				nnnnnn	nnnnnn	הרגזכה		7	31	1	0	0	0	nnn	nnn	last		0
 1908513	1Qisaa	Isaiah	38	6	NYL[	>YJLKH	YJL	CMC	CCMCCM	hif	impf	sg		p1	verb	KH				nnnnnn	nnnnnn	אצילכה		26	31	1	0	0	0	nnn	nnn	last	J	1
 1908617	1Qisaa	Isaiah	38	11	NBV[	>BJV	BJV	CMC	CCMC	hif	impf	sg		p1	verb					nnnn	nnnn	אביט		3	32	0	0	0	0	nnn	nnn	last	J	1
@@ -2638,14 +2638,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1909982	1Qisaa	Isaiah	41	26	CM<[	MCMJ<	CMJ<	CCMC	CCCMC	hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	משמיע		5	35	0	0	0	0	nnnn	nnnn	last	J	1
 1910049	1Qisaa	Isaiah	42	2	CM<[	JCMJ<	CMJ<	CCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ישמיע		11	35	0	0	0	0	nnnn	nnnn	last	J	1
 1910083	1Qisaa	Isaiah	42	4	NXL[	JNXJLW	NXJL	CCMC	CCCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	ינחילו		13	35	0	0	0	0	nnnn	nnnn	last	J	1
-1910118	1Qisaa	Isaiah	42	6	XZQ[	>XZJQH	XZJQH	CCMCM	CCCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אחזיקה		16	35	0	1	0	0	nnnnn	nnnnn	last		0
+1910118	1Qisaa	Isaiah	42	6	XZQ[	>XZJQH	XZJQ	CCMC	CCCMCM	hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אחזיקה		16	35	0	1	0	0	nnnn	nnnn	last	J	1
 1910172	1Qisaa	Isaiah	42	9	NGD[	MGJD	GJD	CMC	CCMC	hif	ptca	sg	m	NA	verb					nnnn	nnnn	מגיד		19	35	0	0	0	0	nnn	nnn	last	J	1
 1910176	1Qisaa	Isaiah	42	9	CM<[	>CMJ<	CMJ<	CCMC	CCCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn	אשמיע		19	35	0	0	0	0	nnnn	nnnn	last	J	1
 1910213	1Qisaa	Isaiah	42	11	YRX[	JYRJXW	YRJX	CCMC	CCCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יצריחו		22	35	0	0	0	0	nnnn	nnnn	last	J	1
 1910223	1Qisaa	Isaiah	42	12	NGD[	JGJDW	GJD	CMC	CCMCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn	יגידו		22	35	0	0	0	0	nnn	nnn	last	J	1
 1910236	1Qisaa	Isaiah	42	13	YRX[	JYRJX	YRJX	CCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יצריח		23	35	0	0	0	0	nnnn	nnnn	last	J	1
 1910245	1Qisaa	Isaiah	42	14	XRC[	>XRJC	XRJC	CCMC	CCCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn	אחריש		24	35	0	0	0	0	nnnn	nnnn	last	J	1
-1910255	1Qisaa	Isaiah	42	15	XRB[	>XRJBH	XRJBH	CCMCM	CCCMCM	hif	impf	sg		p1	verb					nnnnnn	nnnnnn	אחריבה		25	35	0	0	0	0	nnnnn	nnnnn	last		0
+1910255	1Qisaa	Isaiah	42	15	XRB[	>XRJBH	XRJB	CCMC	CCCMCM	hif	impf	sg		p1	verb					nnnnnn	nnnnnn	אחריבה		25	35	0	0	0	0	nnnn	nnnn	last	J	1
 1910284	1Qisaa	Isaiah	42	16	DRK[	>DRJKM	DRJK	CCMC	CCCMCC	hif	impf	sg		p1	verb	M				nnnnnn	nnnnnn	אדריכם		27	35	1	0	0	0	nnnn	nnnn	last	J	1
 1910325	1Qisaa	Isaiah	42	18	NBV[	HBJVW	BJV	CMC	CCMCM	hif	impv	pl	m	NA	verb					nnnnn	nnnnn	הביטו		1	36	0	0	0	0	nnn	nnn	last	J	1
 1910365	1Qisaa	Isaiah	42	21	GDL[	JGDL	GDL	CCC	CCCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn	יגדל		3	36	0	1	0	0	nnn	nnn	last		0
@@ -2693,7 +2693,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1913122	1Qisaa	Isaiah	49	17	XRB[	MXRJBJK	XRJB	CCMC	CCCMCMC	hif	ptca	pl	m	NA	verb	K	J		W	nnnnnnn	nnnnnnn	מחריביך		16	41	1	1	0	1	nnnn	nnnn	last	J	1
 1913366	1Qisaa	Isaiah	50	2	NYL[	HYJL	YJL	CMC	CCMC	hif	infc	NA		NA	verb				L	nnnn	nnnn	הציל		3	42	0	1	0	0	nnn	nnn	last	J	1
 1913370	1Qisaa	Isaiah	50	2	XRB[	>XRJB	XRJB	CCMC	CCCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn	אחריב		3	42	0	0	0	0	nnnn	nnnn	last	J	1
-1913385	1Qisaa	Isaiah	50	3	LBC[	>LBJCH	LBJCH	CCMCM	CCCMCM	hif	impf	sg		p1	verb					nnnnnn	nnnnnn	אלבישה		4	42	0	0	0	0	nnnnn	nnnnn	last		0
+1913385	1Qisaa	Isaiah	50	3	LBC[	>LBJCH	LBJC	CCMC	CCCMCM	hif	impf	sg		p1	verb					nnnnnn	nnnnnn	אלבישה		4	42	0	0	0	0	nnnn	nnnn	last	J	1
 1913472	1Qisaa	Isaiah	50	8	YDQ[	MYDJQJ	YDJQ	CCMC	CCCMCM	hif	ptca	sg	m	NA	verb	J				nnnnnn	nnnnnn	מצדיקי		9	42	1	0	0	0	nnnn	nnnn	last	J	1
 1913491	1Qisaa	Isaiah	50	9	RC<[	JRCJ<NJ	RCJ<	CCMC	CCCMCCM	hif	impf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn	ירשיעני		10	42	1	0	0	0	nnnn	nnnn	last	J	1
 1913553	1Qisaa	Isaiah	51	1	NBV[	HBJVW	BJV	CMC	CCMCM	hif	impv	pl	m	NA	verb					nnnnn	nnnnn	הביטו		14	42	0	0	0	0	nnn	nnn	last	J	1
@@ -2816,7 +2816,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1925667	1Q8	Isaiah	59	2	STR[	HSTJRW	STJR	CCMC	CCCMCM	hif	perf	pl		p3	verb					nnnnnn	nnnnnn	הסתירו		28	25	0	0	0	0	nnnn	nnnn	last	J	1
 1926351	1Q8	Isaiah	62	6	ZKR[	MZKJRJM	ZKJR	CCMC	CCCMCMC	hif	ptca	pl	m	NA	verb		JM		H	nnnnnrr	nnnnnnn	מזכירים		5	27	0	1	0	1	nnnn	nnnn	last	J	1
 1926430	1Q8	Isaiah	62	11	CM<[	HCMJ<	CMJ<	CCMC	CCCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	השמיע		9	27	0	0	0	0	nnnn	nnnn	last	J	1
-1926541	1Q8	Isaiah	63	5	NBV[	>BJVH	BJVH	CMCM	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		14	27	0	1	0	0	nnnn	nnnn	last		0
+1926541	1Q8	Isaiah	63	5	NBV[	>BJVH	BJV	CMC	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		14	27	0	1	0	0	nnn	nnn	last	J	1
 1926565	1Q8	Isaiah	63	6	CKR[	>CKJRM	CKJR	CCMC	CCCMCC	hif	impf	sg		p1	verb	M			W	nnnnnn	nnnnnn	אשכירם		15	27	1	1	0	0	nnnn	nnnn	last	J	1
 1927152	1Q8	Isaiah	65	25	CXT[	JCXJTW	CXJT	CCMC	CCCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	ישחיתו		8	28	0	0	0	0	nnnn	nnnn	last	J	1
 1927198	1Q8	Isaiah	66	2	NBV[	>BJV	BJV	CMC	CCMC	hif	impf	sg		p1	verb					nnnn	nnnn	אביט		11	28	0	0	0	0	nnn	nnn	last	J	1
@@ -3070,8 +3070,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084027	11Q5	Psalms	132	15	FB<[	>FBJ<	FBJ<	CCMC	CCCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn	אשביע		7	6	0	0	0	0	nnnn	nnnn	last	J	1
 2084039	11Q5	Psalms	132	17	YMX[	>YMJX	YMJX	CCMC	CCCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn	אצמיח		8	6	0	0	0	0	nnnn	nnnn	last	J	1
 2084049	11Q5	Psalms	132	18	LBC[	>LBJC	LBJC	CCMC	CCCMC	hif	impf	sg		p1	verb					nnnnn	nnnnn	אלביש		9	6	0	0	0	0	nnnn	nnnn	last	J	1
-2084108	11Q5	Psalms	119	15	NBV[	>BJVH	BJVH	CMCM	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		1	7	0	1	0	0	nnnn	nnnn	last		0
-2084130	11Q5	Psalms	119	18	NBV[	>BJVH	BJVH	CMCM	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		4	7	0	1	0	0	nnnn	nnnn	last		0
+2084108	11Q5	Psalms	119	15	NBV[	>BJVH	BJV	CMC	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		1	7	0	1	0	0	nnn	nnn	last	J	1
+2084130	11Q5	Psalms	119	18	NBV[	>BJVH	BJV	CMC	CCMCM	hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אביטה		4	7	0	1	0	0	nnn	nnn	last	J	1
 2084140	11Q5	Psalms	119	19	STR[	TSTR	STR	CCC	CCCC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תסתר		5	7	0	0	0	0	nnn	nnn	last		0
 2084271	11Q5	Psalms	119	43	NYL[	TYL	YL	CC	CCC	hif	impf	sg	m	p2	verb					nnn	nnn	תצל		7	8	0	0	0	0	nn	nn	last		0
 2084786	11Q5	Psalms	119	133	CLV[	TCLV	CLV	CCC	CCCC	hif	impf	sg	f	p3	verb					nnnn	nnnn	תשלט		6	12	0	0	0	0	nnn	nnn	last		0
@@ -3082,7 +3082,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2085692	11Q5	Psalms	145	16	FB<[	MFBJ<	FBJ<	CCMC	CCCMC	hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	משביע		8	17	0	1	0	0	nnnn	nnnn	last	J	1
 2085778	11Q5	Psalms	145	20	CMD[	JCMJD	CMJD	CCMC	CCCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ישמיד		14	17	0	0	0	0	nnnn	nnnn	last	J	1
 2086052	11Q5	Psalms	138	3	RHB[	TRHJBNJ	RHJB	CCMC	CCCMCCM	hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תרהיבני		5	21	1	0	0	0	nnnn	nnnn	last	J	1
-2086362	11Q5	Psalms	142	5	NBV[	>BJVH	BJVH	CMCM	CCMCM	hif	impf	sg		p1	verb					nnnnn	nnnnn	אביטה		1	25	0	0	0	0	nnnn	nnnn	last		0
+2086362	11Q5	Psalms	142	5	NBV[	>BJVH	BJV	CMC	CCMCM	hif	impf	sg		p1	verb					nnnnn	nnnnn	אביטה		1	25	0	0	0	0	nnn	nnn	last	J	1
 2086369	11Q5	Psalms	142	5	NKR[	MKJR	KJR	CMC	CCMC	hif	ptca	sg	m	NA	verb					nnnn	nnnn	מכיר		1	25	0	0	0	0	nnn	nnn	last	J	1
 2086412	11Q5	Psalms	142	8	KTR[	JKTJRW	KTJR	CCMC	CCCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יכתירו		5	25	0	0	0	0	nnnn	nnnn	last	J	1
 2086504	11Q5	Psalms	143	7	STR[	TSTR	STR	CCC	CCCC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תסתר		13	25	0	0	0	0	nnn	nnn	last		0
@@ -3102,7 +3102,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2093252	Mur88	Obadiah	1	7	NC>=[	HCJ>WK	CJ>	CMC	CCMCMC	hif	perf	pl		p3	verb	K				nnnnnn	nnnnnn	השיאוך		11	9	1	0	0	0	nnn	nnn	last	J	1
 2093393	Mur88	Obadiah	1	14	KRT[	HKRJT	KRJT	CCMC	CCCMC	hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הכרית		22	9	0	1	0	0	nnnn	nnnn	last	J	1
 2093398	Mur88	Obadiah	1	14	SGR[	TSGR	SGR	CCC	CCCC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תסגר		23	9	0	0	0	0	nnn	nnn	last		0
-2093710	Mur88	Jonah	1	7	NPL[	NPJLH	PJLH	CMCM	CCMCM	hif	impf	pl		p1	verb				W	nnnnn	nnnnn	נפילה		11	10	0	1	0	0	nnnn	nnnn	last		0
+2093710	Mur88	Jonah	1	7	NPL[	NPJLH	PJL	CMC	CCMCM	hif	impf	pl		p1	verb				W	nnnnn	nnnnn	נפילה		11	10	0	1	0	0	nnn	nnn	last	J	1
 2093810	Mur88	Jonah	1	10	NGD[	HGJD	GJD	CMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn	הגיד		17	10	0	0	0	0	nnn	nnn	last	J	1
 2094022	Mur88	Jonah	2	5	NBV[	HBJV	BJV	CMC	CCMC	hif	infc	NA		NA	verb				L	nnnn	nnnn	הביט		31	10	0	1	0	0	nnn	nnn	last	J	1
 2094445	Mur88	Jonah	4	6	NYL[	HYJL	YJL	CMC	CCMC	hif	infc	NA		NA	verb				L	nnnn	nnnn	הציל		21	11	0	1	0	0	nnn	nnn	last	J	1

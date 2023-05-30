@@ -978,7 +978,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1974999	4Q27	Numbers	26	64	PQD[	PQWDJ	PQWD	CCMC	CCMCM	qal	ptcp	pl	m	NA	verb		J		M	nnnnn	nnnnn	פקודי		31	f41	0	1	0	1	nnnn	nnnn	last	W	1
 1976299	4Q27	Numbers	31	48	PQD[	PQWDJM	PQWD	CCMC	CCMCMC	qal	ptcp	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	פקודים		3	f60_64	0	1	0	1	nnnn	nnnn	last	W	1
 1976932	4Q27	Numbers	32	29	XLY[	XLWY	XLWY	CCMC	CCMC	qal	ptcp	sg	m	NA	verb					rnnn	nnnn	חלוץ		10	f65_71	0	0	0	0	rnnn	nnnn	last	W	1
-1978775	4Q29	Deuteronomy	30	10	KTB[	KTWBJM	KTWB	CCMC	CCMCMC	qal	ptcp	pl	f	NA	verb		JM		H	nnnnnn	nnnnnn	כתובים		14	f1_2i+3	0	1	0	1	nnnn	nnnn	last	W	1
+1978775	4Q29	Deuteronomy	30	10	KTB[	KTWBJM	KTWB	CCMC	CCMCMC	qal	ptcp	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	כתובים		14	f1_2i+3	0	1	0	1	nnnn	nnnn	last	W	1
 1981057	4Q30	Deuteronomy	27	25	>RR[	>RWR	>RWR	CCMC	CCMC	qal	ptcp	sg	m	NA	verb					nnnn	nnnn	ארור		2	f43_45i	0	0	0	0	nnnn	nnnn	last	W	1
 1981072	4Q30	Deuteronomy	27	26	>RR[	>RWR	>RWR	CCMC	CCMC	qal	ptcp	sg	m	NA	verb					rnnn	nnnn	ארור		3	f43_45i	0	0	0	0	rnnn	nnnn	last	W	1
 1981139	4Q30	Deuteronomy	28	3	BRK[	BRWK	BRWK	CCMC	CCMC	qal	ptcp	sg	m	NA	verb					nnnn	nnnn	ברוך		8	f43_45i	0	0	0	0	nnnn	nnnn	last	W	1
