@@ -23,6 +23,8 @@ def main():
     matres_pattern_dataset = MatresPatternDataSet('dss_predictions_per_word.txt')
 
     mt_dss_nouns_adjvs = pf.get_nouns_adjective_data(corpus, mt, matres_pattern_dataset)
+    # Remove ad hoc words with variation between one/more matres
+    mt_dss_nouns_adjvs = mt_dss_nouns_adjvs[~mt_dss_nouns_adjvs.lex.isin(['FM>L/', 'R>C/', 'N>D/', 'YWN/'])]
     mt_dss_nouns_adjvs.to_csv('../data/nouns_adjectives.csv', sep='\t', index=False)
 
     ptca, ptcp = pf.get_participle_qal_data(corpus, mt, matres_pattern_dataset)
