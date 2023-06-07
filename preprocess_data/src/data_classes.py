@@ -384,16 +384,12 @@ class DSSWordProcessor:
             self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
         self.stem = self.glyphs
         if self.stem:
-            if self.tf_id == 1910255:
-                print(1910255, self.stem)
             self.stem = self.stem.removesuffix(self.hloc).removesuffix(self.prs)
             if self.lexeme:
                 self.parse_nme()
             if Fdss.morpho.v(self.tf_id):
                 if self.sp == 'verb' and Fdss.morpho.v(self.tf_id)[-1] == 'h':
                     self.stem = self.stem.rstrip('H')
-        if self.tf_id == 1910255:
-            print(1910255, self.stem)
         self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
         self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
         self.g_vbe = self.get_vbe()

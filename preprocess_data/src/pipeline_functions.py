@@ -8,6 +8,7 @@ import json
 
 import pandas as pd
 
+from config import entropy
 from first_data_selection_mt import BasicMTDataSelector
 from parse_matres_dss import DSSMatresProcessor
 
@@ -47,7 +48,7 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
 
     mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
-
+    print('PQX pipeline 0', 233047 in set(mt_dss.tf_id))
     with open('../data/pattern_data.json', 'r') as j:
         pattern_dict = json.loads(j.read())
 
@@ -74,7 +75,6 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
 
     final_yod_remover = FinalYodRemover(mt_dss)
     mt_dss = final_yod_remover.data
-
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss)
     mt_dss = mt_dss_help_columns_adder.mt_dss_data
 
@@ -83,17 +83,15 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder = MatresColumnAdder(mt_dss)
     mt_dss = matres_column_adder.df_with_vowel_letters
-
     invalid_data_remover = InvalidDataRemover(mt_dss)
     mt_dss = invalid_data_remover.data_complete_syllables
-
     useless_lexemes_remover = UselessRowsRemover(data=mt_dss,
                                                  useless_plurals=USELESS_PLURALS,
                                                  useless_lexemes=REMOVE_LEXEMES,
                                                  useless_nodes=AD_HOC_REMOVALS)
     mt_dss = useless_lexemes_remover.data
 
-    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=0.12)
+    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=entropy)
     mt_dss = syllables_without_variation_remover.data_variable_syllables
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)

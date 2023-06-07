@@ -21,10 +21,8 @@ class UselessRowsRemover:
         self.useless_plurals = useless_plurals
         self.useless_lexemes = useless_lexemes
         self.useless_nodes = useless_nodes
-
         self.remove_rows_without_pattern()
         self.remove_ad_hoc_removals()
-
         self.remove_plurals_without_mater()
         self.remove_useless_lexemes()
 

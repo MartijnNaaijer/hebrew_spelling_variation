@@ -214,7 +214,9 @@ class RecCorColumnsAdder:
 
 class MatresColumnAdder:
     """
-
+    Add columns type and vowel_letter to df.
+    type: str syllable type (values: first, last, single)
+    vowel_letter: str (what is the vowel letter (W, J, > or a combination))
 
     """
     def __init__(self, data):
