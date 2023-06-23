@@ -48,13 +48,13 @@ def main():
     # print(hiph_triliteral.shape)
     # hiph_triliteral.to_csv('../data/hiphil_triliteral.csv', sep='\t', index=False)
     #
-    # particles = pf.get_particles(corpus, mt, matres_pattern_dataset)
-    # print(particles.shape)
-    # particles.to_csv('../data/particles.csv', sep='\t', index=False)
-    #
-    # qal_inf_abs = pf.get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset)
-    # print(qal_inf_abs.shape)
-    # qal_inf_abs.to_csv('../data/infa_qal.csv', sep='\t', index=False)
+    particles = pf.get_particles(corpus, mt, matres_pattern_dataset)
+    print(particles.shape)
+    particles.to_csv('../data/particles.csv', sep='\t', index=False)
+
+    qal_inf_abs = pf.get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset)
+    print(qal_inf_abs.shape)
+    qal_inf_abs.to_csv('../data/infa_qal.csv', sep='\t', index=False)
 
 
 if __name__ == '__main__':

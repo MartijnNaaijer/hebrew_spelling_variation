@@ -116,6 +116,7 @@ class FinalYodRemover:
     """
     def __init__(self, data):
         self.data = data
+        self.cons_j_lexemes = {'GWJ/', 'DWJ/', 'QWJ/', 'XJJM/'}
         self.j_lexemes_list = self.check_final_j_lexemes_and_stems()
         self.j_aleph_lexemes_list = self.check_final_j_aleph_lexemes_and_stems()
 
@@ -128,8 +129,8 @@ class FinalYodRemover:
         self.remove_final_j_aleph_from_pattern()
 
     def check_final_j_lexemes_and_stems(self):
-        return [(lex[-1] == 'J' and stem[-1] == 'J') for lex, stem in zip(self.data.lex.str.strip('/').str.strip('='),
-                                                                          self.data.stem)]
+        return [(lex[-1] == 'J' and stem[-1] == 'J' and lex_whole not in self.cons_j_lexemes) for lex, stem, lex_whole in zip(self.data.lex.str.strip('/').str.strip('='),
+                                                                          self.data.stem, self.data.lex)]
 
     def add_j_to_other_vowel_endings(self):
         self.data.other_vowel_ending = np.where(self.j_lexemes_list, 'J' + self.data.other_vowel_ending.astype(str),

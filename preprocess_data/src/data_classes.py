@@ -179,10 +179,15 @@ class MTWordProcessor:
     def get_nme(self):
         g_nme = F.g_nme.v(self.tf_id)
         prs = F.g_prs.v(self.tf_id)
+        # According to BHSA H is not nominal ending, but we strip it ad hoc.
+        if self.lexeme == 'NGH/' and self.glyphs == 'NGH':
+            g_nme = 'H'
+            self.stem = 'NG'
         # Cases like >DNJ in Genesis 19:2 (masc plural with prs), decision: no nme, but prs
         if prs == '+':
             g_nme = g_nme.rstrip('J')
         nme_cons = ''.join([ch for ch in g_nme if ch in self.consonants])
+
         return nme_cons
 
     def get_vbs(self):

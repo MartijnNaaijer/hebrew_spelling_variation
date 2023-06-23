@@ -38,7 +38,7 @@ POTENTIALLY_FEMININE_WORDS = {'<FR=/', '<FRH=/', '>RB</', '>XD/', 'CB</',
 USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/', '>XWT/']
 
 # >WN/ is sometimes awen, with suffix onka
-REMOVE_LEXEMES = {'BJT/', '>JN/', 'LJLH/', 'XJL/', 'MJM/', '<JN/', 'PTJ/', 'R>M/', 'R>CWN/', 'TWK/', '>WN=/', 'LJLJT/'}
+REMOVE_LEXEMES = {'BJT/', '>JN/', 'LJLH/', 'XJL/', 'MJM/', '<JN/', 'PTJ/', 'R>M/', 'R>CWN/', 'TWK/', '>WN=/', 'LJLJT/', 'XJH/'}
 # Words with hardly variation in spelling. R>M/ is a special case
 # 'R>CWN/' has special patterns, look later
 
@@ -71,4 +71,5 @@ AD_HOC_REMOVALS = {
     2013028: "4Q53	2_Samuel	14	25	QDQD/	QWQDW	QWQD	CMCC REASON: D is missing",
     2078672: "8Q4	Deuteronomy	11	16	>LHJM/	>LWJM	>LW	CCC	CCCMC REASON H IS MISSING",
     2028922: "4Q64	Isaiah	29	3	MYWRH/	MYWWT	MYW	CCC	CCCMC REASON: R IS MISSING",
+    2054387: "4Q98g Psalms 89 23 <WLH/ <L CC: MISSING CONSONANT W",
     }

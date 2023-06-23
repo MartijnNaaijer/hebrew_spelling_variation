@@ -6,6 +6,7 @@ manually corrected matres patterns.
 """
 import json
 
+import numpy as np
 import pandas as pd
 
 from config import entropy
@@ -48,7 +49,7 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
 
     mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
-    print('PQX pipeline 0', 233047 in set(mt_dss.tf_id))
+
     with open('../data/pattern_data.json', 'r') as j:
         pattern_dict = json.loads(j.read())
 
@@ -83,8 +84,10 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
 
     matres_column_adder = MatresColumnAdder(mt_dss)
     mt_dss = matres_column_adder.df_with_vowel_letters
+
     invalid_data_remover = InvalidDataRemover(mt_dss)
     mt_dss = invalid_data_remover.data_complete_syllables
+
     useless_lexemes_remover = UselessRowsRemover(data=mt_dss,
                                                  useless_plurals=USELESS_PLURALS,
                                                  useless_lexemes=REMOVE_LEXEMES,
@@ -273,7 +276,6 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
 def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='inf_abs_qal')
     mt_qal_inf_abs = basic_mt_data_selector.select_data()
-    print(mt_qal_inf_abs.head())
 
     matres_parser_dss = DSSMatresProcessor(corpus,
                                            relevant_data='inf_abs_qal',
@@ -331,7 +333,7 @@ def get_particles(corpus, mt, matres_pattern_dataset):
     particles_df = useless_particle_remover.data
 
     particles_df['vowel_letter'] = particles_df.g_cons.str[1:]
-    particles_df['has_vowel_letter'] = 1
+    particles_df['has_vowel_letter'] = np.where(particles_df.vowel_letter.str.len() > 1, 1, 0)
 
     invalid_data_remover = InvalidDataRemover(particles_df)
     particles_df = invalid_data_remover.data_complete_syllables
