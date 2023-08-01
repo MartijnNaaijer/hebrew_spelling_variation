@@ -27,7 +27,7 @@ df_columns = ['tf_id', 'scroll',
               'nu', 'gn',
               'ps', 'sp',
               'prs', 'nme',
-              'hloc', 'prefix_g_cons',
+              'hloc', 'prefix',
               'rec_signs', 'cor_signs',
               'heb_g_cons']
 

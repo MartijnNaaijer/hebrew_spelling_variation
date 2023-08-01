@@ -155,12 +155,12 @@ class MTMatresProcessor:
                     tf_id = int(tf_id)
                     tf_indices = [int(idx) for idx in w_ids.split('-')]
                     if len(tf_indices) > 1 and tf_id == tf_indices[-1]:
-                        prefix_g_cons = ''.join([F.g_cons.v(w) for w in tf_indices[:-1]])
+                        prefix = ''.join([F.g_cons.v(w) for w in tf_indices[:-1]])
                     else:
-                        prefix_g_cons = ''
+                        prefix = ''
 
                     word_matres_no_pointing = word_matres.replace('P', '')
-                    self.matres_pattern_dict[tf_id] = (word_matres, word_matres_no_pointing, prefix_g_cons)
+                    self.matres_pattern_dict[tf_id] = (word_matres, word_matres_no_pointing, prefix)
 
     @staticmethod
     def add_dashes(text, structure):
@@ -183,7 +183,7 @@ class MTMatresProcessor:
                 matres_pat_with_pointing, matres_pat_no_pointing, prefixed_g_cons = self.matres_pattern_dict.get(
                     word_obj.tf_word_id, ('', '', ''))
                 word_obj.matres_pattern = matres_pat_no_pointing
-                word_obj.prefix_g_cons = prefixed_g_cons
+                word_obj.prefix = prefixed_g_cons
 
     def export_mt_data(self):
         for verse in Scroll.scrolls['MT'].verses:
@@ -205,7 +205,7 @@ class MTMatresProcessor:
                 export_bhsa_list = [word.tf_word_id, 'MT', bo, ch, ve, word.lex, g_cons, stem,
                                     matres_pattern_stem, word.matres_pattern, word.vs, word.vt,
                                     word.number, word.gender, word.person, word.sp, word.prs_cons, nme, word.hloc,
-                                    word.prefix_g_cons, word.rec_signs, word.cor_signs, word.heb_g_cons]
+                                    word.prefix, word.rec_signs, word.cor_signs, word.heb_g_cons]
 
                 self.bhsa_export_dict[word.tf_word_id] = export_bhsa_list
 

@@ -31,7 +31,7 @@ F, L, T = MT.api.F, MT.api.L, MT.api.T
 
 @dataclass
 class Word:
-    """prefix_g_cons are concatenated g_cons of words prefixed to a word, often article or prep"""
+    """prefix are concatenated g_cons of words prefixed to a word, often article or prep"""
     tf_word_id: int
     book: str
     chapter_num: int
@@ -53,7 +53,7 @@ class Word:
     nme_cons: str = None
     hloc: str = ''
     matres_pattern: str = ''
-    prefix_g_cons: str = None
+    prefix: str = None
     heb_g_cons: str = ''
     g_pfm: str = ''
     g_vbs: str = ''

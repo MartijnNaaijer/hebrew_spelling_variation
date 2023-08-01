@@ -226,15 +226,15 @@ class DSSMatresProcessor:
 
     @staticmethod
     def parse_prefix_g_cons_dss(tf_id):
-        prefix_g_cons = ''
+        prefix = ''
         previous_word_id = tf_id - 1
         while Fdss.after.v(previous_word_id) is None:
             prev_word_g_cons = Fdss.g_cons.v(previous_word_id)
             if prev_word_g_cons is None:
                 prev_word_g_cons = ''
-            prefix_g_cons = prev_word_g_cons + prefix_g_cons
+            prefix = prev_word_g_cons + prefix
             previous_word_id = previous_word_id - 1
-        return prefix_g_cons
+        return prefix
 
     def process_dss_scrolls(self):
         for scroll_name in Scroll.scrolls:
@@ -246,7 +246,7 @@ class DSSMatresProcessor:
                     verse_obj = Scroll.scrolls[scroll_name].verses[section]
                     word_objects = [word for word in verse_obj.words if self.check_word_conditions(word)]
                     for w_obj in word_objects:
-                        w_obj.prefix_g_cons = self.parse_prefix_g_cons_dss(w_obj.tf_word_id)
+                        w_obj.prefix = self.parse_prefix_g_cons_dss(w_obj.tf_word_id)
                         if not w_obj.stem:
                             continue
                         pattern = self.get_matres_pattern(int(w_obj.tf_word_id))
@@ -258,7 +258,7 @@ class DSSMatresProcessor:
                                                                   pattern, w_obj.vs, w_obj.vt,
                                                                   w_obj.number, w_obj.gender, w_obj.person,
                                                                   w_obj.sp, w_obj.prs_cons, w_obj.nme_cons, w_obj.hloc,
-                                                                  w_obj.prefix_g_cons, w_obj.rec_signs,
+                                                                  w_obj.prefix, w_obj.rec_signs,
                                                                   w_obj.cor_signs, w_obj.heb_g_cons]
 
     def get_matres_pattern(self, tf_id):

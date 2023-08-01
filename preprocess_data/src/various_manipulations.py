@@ -182,13 +182,13 @@ class MTDSSHelpColumnsAdder:
         Make column scr_book.
         Make number of binary columns (Values 0 (absent) and 1 (present):
         - has_vowel_letter
-        - has_pronominal_suffix
+        - has_prs
         - has_prefix
         - has_hloc
         - has_nme
         """
-        self.mt_dss_data['has_pronominal_suffix'] = (self.mt_dss_data['prs'].str.len() > 0).astype(int)
-        self.mt_dss_data['has_prefix'] = (self.mt_dss_data['prefix_g_cons'].str.len() > 0).astype(int)
+        self.mt_dss_data['has_prs'] = (self.mt_dss_data['prs'].str.len() > 0).astype(int)
+        self.mt_dss_data['has_prefix'] = (self.mt_dss_data['prefix'].str.len() > 0).astype(int)
         self.mt_dss_data['has_hloc'] = (self.mt_dss_data['hloc'].str.len() > 0).astype(int)
         self.mt_dss_data['has_nme'] = (self.mt_dss_data['nme'].str.len() > 0).astype(int)
 
