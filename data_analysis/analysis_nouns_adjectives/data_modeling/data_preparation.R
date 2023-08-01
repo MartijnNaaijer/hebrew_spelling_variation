@@ -8,7 +8,7 @@ FACTOR_COLUMNS <- c('has_prefix', 'has_prs', 'has_nme', 'lex', 'book',
 prepare_data_pipeline <- function(df) {
   
   df <- df %>% make_lex_type_column %>%
-    make_column_book_second %>%
+    make_second_book_column %>%
     make_law_phase_column %>%
     make_second_book_column %>%
     make_law_phase_column %>%
