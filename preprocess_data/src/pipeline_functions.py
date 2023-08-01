@@ -5,11 +5,12 @@ manually corrected matres patterns.
 
 """
 import json
+import os
 
 import numpy as np
 import pandas as pd
 
-from config import entropy
+from config import data_path, entropy
 from first_data_selection_mt import BasicMTDataSelector
 from parse_matres_dss import DSSMatresProcessor
 
@@ -50,7 +51,7 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
 
-    with open('../data/pattern_data.json', 'r') as j:
+    with open(os.path.join(data_path, 'pattern_data.json')) as j:
         pattern_dict = json.loads(j.read())
 
     pattern_integer_dict = {int(k): v for k, v in pattern_dict.items()}

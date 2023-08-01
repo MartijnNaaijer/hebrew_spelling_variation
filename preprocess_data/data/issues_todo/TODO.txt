@@ -1,8 +1,0 @@
-TODO:
-
-wat is bij MWT/ aan de hand, altijd mawet zonder suff en mot met suff?
-
-Write tests dataset: vt, vs should be empty in first version dataset
-typ/lex should all data have same count of C's
-
-Voor hele dataset dss check sp en sp_etcbc: values moeten matchen
