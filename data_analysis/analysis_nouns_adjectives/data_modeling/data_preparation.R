@@ -5,7 +5,7 @@ source(file.path('./analysis_nouns_adjectives', 'config.R'))
 FACTOR_COLUMNS <- c('has_prefix', 'has_prs', 'has_nme', 'lex', 'book', 
                     'has_vowel_letter', 'lex_type', 'law_phase', 'scroll')
 
-prepare_data_pipeline <- function(df) {
+prepare_data_pipeline <- function(df, col_name, values) {
   
   df <- df %>% make_lex_type_column %>%
     make_second_book_column %>%
@@ -13,6 +13,7 @@ prepare_data_pipeline <- function(df) {
     make_second_book_column %>%
     make_law_phase_column %>%
     split_great_scroll %>%
+    select_data(col_name, values) %>%
     reorder_syllable_type_levels %>%
     select_lex_type_data_with_variation %>%
     make_factor_columns(FACTOR_COLUMNS)
@@ -53,6 +54,13 @@ split_great_scroll <- function(df) {
   df$scroll <- ifelse(df$scroll == '1Qisaa' & df$chapter < 34, '1QisaaI', 
                        ifelse(df$scroll == '1Qisaa' & df$chapter > 33, '1QisaaII', 
                               df$scroll))
+  print(dim(df))
+  return(df)
+}
+
+
+select_data <- function(df, col_name, values) {
+  df <- df %>% filter(!!as.symbol(col_name) %in% values)
   return(df)
 }
 

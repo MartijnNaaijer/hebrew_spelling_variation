@@ -9,9 +9,8 @@ nouns_adjectives_data <- 'nouns_adjectives.csv'
 main <- function() {
   
   dat <- read.csv(file.path('../data', 'nouns_adjectives.csv'), sep = '\t')
-  dat_prepared <- prepare_data_pipeline(dat)
-  
-  mt <- dat_prepared %>% filter(scroll == 'MT')
+  dat_prepared <- prepare_data_pipeline(dat, 'scroll', c('MT'))
+  print(dim(dat_prepared))
 }
 
 main()

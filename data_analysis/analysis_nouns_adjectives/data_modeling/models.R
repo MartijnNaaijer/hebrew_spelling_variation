@@ -1,5 +1,7 @@
 library(brms)
 
+# MT models
+
 formula4 <- has_vowel_letter ~ 
             has_prs*type*law_phase + 
             has_nme*type*law_phase + 
@@ -24,6 +26,11 @@ formula7 <- has_vowel_letter ~
             has_nme*type*law_phase + 
             has_prefix*type*law_phase + 
             (has_pronominal_suffix*type + has_nme*type + has_prefix*type | book2/lex_type)
+
+formula8 <- has_vowel_letter ~ 
+            has_pronominal_suffix*type*law_phase + 
+            has_nme*type*law_phase + 
+            has_prefix*type*law_phase
 
 
 fit_brm_model <- function(df, formula) {
