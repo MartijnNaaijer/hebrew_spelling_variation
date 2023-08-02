@@ -49,3 +49,8 @@ fit_brm_model <- function(df, formula) {
   return(brm_model)
 }
 
+
+save_model <- function(model, model_folder, model_name) {
+  model_path <- file.path(model_folder, model_name)
+  saveRDS(model, file = model_path)
+}
