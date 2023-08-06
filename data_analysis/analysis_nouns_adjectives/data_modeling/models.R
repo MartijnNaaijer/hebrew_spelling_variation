@@ -32,6 +32,12 @@ formula8 <- has_vowel_letter ~
             has_nme*type*law_phase + 
             has_prefix*type*law_phase
 
+formula_dss_mt <- has_vowel_letter ~ 
+                  has_prs*type*qsp + 
+                  has_nme*type*qsp + 
+                  has_prefix*type*qsp + 
+                  (has_prs*type + has_nme*type + has_prefix*type | scroll/lex)
+
 
 fit_brm_model <- function(df, formula) {
   brm_model <- brm(formula = formula,
