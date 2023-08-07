@@ -37,6 +37,13 @@ formula_dss_mt <- has_vowel_letter ~
                   has_nme*type*qsp + 
                   has_prefix*type*qsp + 
                   (has_prs*type + has_nme*type + has_prefix*type | scroll/lex)
+# Warning messages:
+#1: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+#Running the chains for more iterations may help. See
+#https://mc-stan.org/misc/warnings.html#bulk-ess 
+#2: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+#Running the chains for more iterations may help. See
+#https://mc-stan.org/misc/warnings.html#tail-ess
 
 
 fit_brm_model <- function(df, formula) {

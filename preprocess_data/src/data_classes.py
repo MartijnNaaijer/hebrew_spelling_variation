@@ -21,8 +21,8 @@ from tf.app import use
 DSS = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
 Fdss, Ldss, Tdss = DSS.api.F, DSS.api.L, DSS.api.T
 
-#SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
-#Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
+SP = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
+Fsp, Lsp, Tsp = SP.api.F, SP.api.L, SP.api.T
 
 MT = use('etcbc/bhsa', version=bhsa_version)
 MT.load(['g_prs', 'g_nme', 'g_pfm', 'g_vbs', 'g_vbe'])
@@ -633,92 +633,92 @@ class DSSWordProcessor:
         return ''
 
 
-# class SPWordProcessor:
-#     """"""
-#
-#     def __init__(self, tf_id):
-#         self.prs_chars = {'>', 'D', 'H', 'J', 'K', 'M', 'N', 'W'}
-#         self.consonants = {'<', '>', 'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
-#                            'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#'}
-#
-#         self.tf_id = tf_id
-#         self.book = Fsp.book.v(tf_id)
-#         self.chapter_num = Fsp.chapter.v(tf_id)
-#         self.verse_num = Fsp.verse.v(tf_id)
-#         self.lexeme = Fsp.lex.v(tf_id)
-#         self.glyphs = Fsp.g_cons.v(tf_id)
-#         self.hloc = self.get_he_locale()
-#         self.sp = Fsp.sp.v(tf_id)
-#         self.number = self.get_number()
-#         self.person = Fsp.ps.v(tf_id)
-#         self.gender = self.get_gender()
-#         self.state = self.get_state()
-#         self.vs = None # Todo: implement verbals stem
-#         self.vt = Fsp.vt.v(tf_id)
-#         self.lang = Fsp.language.v(tf_id)
-#         self.rec_signs = ''.join(['n' for char in self.glyphs])
-#         self.cor_signs = ''.join(['n' for char in self.glyphs])
-#         self.stem = self.get_stem()
-#         self.nme = self.get_nme()
-#         self.prs = self.get_prs()
-#
-#     def create_word(self):
-#
-#         return Word(self.tf_id,
-#                     self.book,
-#                     self.chapter_num,
-#                     self.verse_num,
-#                     self.glyphs,
-#                     self.lexeme,
-#                     self.sp,
-#                     self.person,
-#                     self.number,
-#                     self.gender,
-#                     self.state,
-#                     self.vs,
-#                     self.vt,
-#                     self.lang,
-#                     self.rec_signs,
-#                     self.cor_signs,
-#                     stem=self.stem,
-#                     prs_cons=self.prs,
-#                     nme_cons=self.nme,
-#                     hloc=self.hloc)
-#
-#     def get_number(self):
-#         number = Fsp.nu.v(self.tf_id)
-#         if number in {'unknown', 'NA'}:
-#             return None
-#         return number
-#
-#     def get_gender(self):
-#         gender = Fsp.gn.v(self.tf_id)
-#         if gender == 'NA':
-#             return None
-#         return gender
-#
-#     def get_state(self):
-#         """Not implemented yet"""
-#         return None
-#
-#     def get_he_locale(self):
-#         """Not implemented yet"""
-#         return None
-#
-#     def get_prs(self):
-#         suff = Fsp.g_prs.v(self.tf_id)
-#         if suff == '+':
-#             suff = 'J'
-#         prs_cons = ''.join([ch for ch in suff if ch in self.prs_chars])
-#         return prs_cons
-#
-#     def get_stem(self):
-#         """Not implemented yet"""
-#         return None
-#
-#     def get_nme(self):
-#         nme_cons = ''.join([ch for ch in Fsp.g_nme.v(self.tf_id) if ch in self.consonants])
-#         return nme_cons
+class SPWordProcessor:
+    """"""
+    def __init__(self, tf_id):
+        self.prs_chars = {'>', 'D', 'H', 'J', 'K', 'M', 'N', 'W'}
+        self.consonants = {'<', '>', 'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
+                           'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#'}
+        self.tf_id = tf_id
+        self.book = Fsp.book.v(tf_id)
+        self.chapter_num = Fsp.chapter.v(tf_id)
+        self.verse_num = Fsp.verse.v(tf_id)
+        self.lexeme = Fsp.lex.v(tf_id)
+        self.glyphs = Fsp.g_cons.v(tf_id)
+        self.hloc = self.get_he_locale()
+        self.sp = Fsp.sp.v(tf_id)
+        self.number = self.get_number()
+        self.person = Fsp.ps.v(tf_id)
+        self.gender = self.get_gender()
+        self.state = self.get_state()
+        self.vs = None # Todo: implement verbals stem
+        self.vt = Fsp.vt.v(tf_id)
+        self.lang = Fsp.language.v(tf_id)
+        self.rec_signs = ''.join(['n' for char in self.glyphs])
+        self.cor_signs = ''.join(['n' for char in self.glyphs])
+        self.stem = Fsp.g_lex.v(tf_id)
+        self.nme = self.get_nme()
+        self.prs = self.get_prs()
+
+    def create_word(self):
+
+        return Word(self.tf_id,
+                    self.book,
+                    self.chapter_num,
+                    self.verse_num,
+                    self.glyphs,
+                    self.lexeme,
+                    self.sp,
+                    self.person,
+                    self.number,
+                    self.gender,
+                    self.state,
+                    self.vs,
+                    self.vt,
+                    self.lang,
+                    self.rec_signs,
+                    self.cor_signs,
+                    stem=self.stem,
+                    prs_cons=self.prs,
+                    nme_cons=self.nme,
+                    hloc=self.hloc)
+
+    def get_number(self):
+        number = Fsp.nu.v(self.tf_id)
+        if number in {'unknown', 'NA'}:
+            return None
+        return number
+
+    def get_gender(self):
+        gender = Fsp.gn.v(self.tf_id)
+        if gender == 'NA':
+            return None
+
+    def get_state(self):
+        """Not implemented yet"""
+        return None
+
+    def get_he_locale(self):
+        """Not implemented yet"""
+        h_loc = ''
+        if Fsp.g_uvf == 'H':
+            h_loc = 'H'
+        return h_loc
+
+    def get_prs(self):
+        suff = Fsp.g_prs.v(self.tf_id)
+        if suff == '+':
+            suff = 'J'
+        prs_cons = ''.join([ch for ch in suff if ch in self.prs_chars])
+        return prs_cons
+
+    def get_stem(self):
+        """Not implemented yet"""
+        return None
+
+    def get_nme(self):
+        nme_cons = ''.join([ch for ch in Fsp.g_nme.v(self.tf_id) if ch in self.consonants])
+        return nme_cons
 
 
 class Corpus:
@@ -730,7 +730,7 @@ class Corpus:
 
         self.add_dss()
         self.add_mt()
-        #self.add_sp()
+        self.add_sp()
 
     def add_dss(self):
         """
@@ -780,22 +780,22 @@ class Corpus:
                     mt_word_object = word_processor.create_word()
                     scroll.verses[(bo, int(ch), int(ve))].words.append(mt_word_object)
 
-    # def add_sp(self):
-    #     """
-    #     Adds the Samaritan Pentateuch to the corpus.
-    #     Note that verses are not converted to integer, because there is a verse '36a' in Genesis.
-    #     This could become nasty somewhere. Todo: find solution for this.
-    #     """
-    #     scroll = Scroll('SP')
-    #
-    #     for b in Fsp.otype.s('book'):
-    #         verses = Lsp.d(b, 'verse')
-    #         for v in verses:
-    #             bo, ch, ve = Tsp.sectionFromNode(v)
-    #             verse = Verse('SP', bo, ch, ve)
-    #             scroll.verses[(bo, int(ch), ve)] = verse
-    #             words = Lsp.d(v, 'word')
-    #             for wo in words:
-    #                 word_processor = SPWordProcessor(wo)
-    #                 sp_word_object = word_processor.create_word()
-    #                 scroll.verses[(bo, int(ch), ve)].words.append(sp_word_object)
+    def add_sp(self):
+        """
+        Adds the Samaritan Pentateuch to the corpus.
+        Note that verses are not converted to integer, because there is a verse '36a' in Genesis.
+        This could become nasty somewhere. Todo: find solution for this.
+        """
+        scroll = Scroll('SP')
+
+        for b in Fsp.otype.s('book'):
+            verses = Lsp.d(b, 'verse')
+            for v in verses:
+                bo, ch, ve = Tsp.sectionFromNode(v)
+                verse = Verse('SP', bo, ch, ve)
+                scroll.verses[(bo, int(ch), ve)] = verse
+                words = Lsp.d(v, 'word')
+                for wo in words:
+                    word_processor = SPWordProcessor(wo)
+                    sp_word_object = word_processor.create_word()
+                    scroll.verses[(bo, int(ch), ve)].words.append(sp_word_object)
