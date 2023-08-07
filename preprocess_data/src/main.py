@@ -22,9 +22,10 @@ def main():
     corpus = Corpus('biblical')
     matres_processor_mt = MTMatresProcessor(corpus)
     mt = matres_processor_mt.mt_matres_df
-    matres_pattern_dataset = MatresPatternDataSet('dss_predictions_per_word.txt')
+    matres_pattern_dataset_dss = MatresPatternDataSet('dss_predictions_per_word.txt')
+    matres_pattern_dataset_sp = MatresPatternDataSet('sp_predictions_per_word.txt')
 
-    # mt_dss_nouns_adjvs = pf.get_nouns_adjective_data(corpus, mt, matres_pattern_dataset)
+    # mt_dss_nouns_adjvs = pf.get_nouns_adjective_data(corpus, mt, matres_pattern_dataset_dss)
     # # Remove ad hoc words with variation between one/more matres
     # mt_dss_nouns_adjvs = mt_dss_nouns_adjvs[~mt_dss_nouns_adjvs.lex.isin(['FM>L/', 'R>C/', 'N>D/', 'YWN/'])]
     # mt_dss_nouns_adjvs.to_csv(os.path.join(data_path, 'nouns_adjectives.csv'), sep='\t', index=False)
