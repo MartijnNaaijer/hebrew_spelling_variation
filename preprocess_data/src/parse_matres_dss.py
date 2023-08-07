@@ -1,8 +1,5 @@
-import collections
 import os
 
-from Bio import pairwise2
-from Bio.Seq import Seq
 import pandas as pd
 
 from config import data_path
