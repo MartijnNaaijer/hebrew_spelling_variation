@@ -13,6 +13,7 @@ import pandas as pd
 from config import data_path, entropy
 from first_data_selection_mt import BasicMTDataSelector
 from parse_matres_dss import DSSMatresProcessor
+from parse_matres_sp import SPMatresProcessor
 
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder, RecCorColumnsAdder
@@ -46,7 +47,9 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='subs_adjv')
     mt_nouns_adjectives_data = basic_mt_data_selector.select_data()
 
+    # TODO: ADD SP TO mt_dss
     matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv', matres_pattern_dataset.matres_predictions_dict)
+    matres_parser_sp = SPMatresProcessor(corpus, 'subs_adjv', "SP_MATRES_DATASET")
 
     mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])

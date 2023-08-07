@@ -9,7 +9,7 @@ from special_data import df_columns
 FILE_NAME = 'matres_sp.csv'
 
 
-class DSSMatresProcessor:
+class SPMatresProcessor:
     """
     Parser for vowel letters in the Biblical DSS. This is done by comparing a stem of a word in the DSS with
     stems of the same lexeme in the MT.
@@ -18,6 +18,8 @@ class DSSMatresProcessor:
         self.corpus = corpus
         self.relevant_data = relevant_data
         self.matres_pattern_dict = matres_pattern_dict
+
+        self.word_nodes = set(Fsp.otype.s('word'))
 
         self.biblical_sections = self.collect_biblical_sections()
         self.matres_sp_dict = {}
@@ -67,19 +69,21 @@ class DSSMatresProcessor:
                           #word_obj.vt != 'impf'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_relevant])
 
-    @staticmethod
-    def parse_prefix_g_cons_sp(tf_id):
+    def parse_prefix_g_cons_sp(self, tf_id):
         prefix = ''
         previous_word_id = tf_id - 1
-        while Fsp.trailer.v(previous_word_id) is None:
+
+        while not Fsp.trailer.v(previous_word_id):
             prev_word_g_cons = Fsp.g_cons.v(previous_word_id)
-            if prev_word_g_cons is None:
+            if not prev_word_g_cons:
                 prev_word_g_cons = ''
             prefix = prev_word_g_cons + prefix
             previous_word_id = previous_word_id - 1
+            if previous_word_id not in self.word_nodes:
+                break
         return prefix
 
-    def process_dss_scrolls(self):
+    def process_sp_scrolls(self):
         for scroll_name in Scroll.scrolls:
             if scroll_name != 'SP':
                 continue
@@ -92,10 +96,10 @@ class DSSMatresProcessor:
                         w_obj.prefix = self.parse_prefix_g_cons_sp(w_obj.tf_word_id)
                         if not w_obj.stem:
                             continue
-                        pattern = self.get_matres_pattern(int(w_obj.tf_word_id))
-                        stem_pattern = self.get_stem_pattern(w_obj.g_cons, w_obj.stem, pattern)
+                        pattern = "X" # self.get_matres_pattern(int(w_obj.tf_word_id))
+                        stem_pattern = "X" #self.get_stem_pattern(w_obj.g_cons, w_obj.stem, pattern)
 
-                        self.matres_dss_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
+                        self.matres_sp_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,
                                                                   w_obj.g_cons, w_obj.stem, stem_pattern,
                                                                   pattern, w_obj.vs, w_obj.vt,
@@ -116,7 +120,7 @@ class DSSMatresProcessor:
     def save_sp_data(self):
         sp_matres_df = pd.DataFrame(self.matres_sp_dict).T
         sp_matres_df.columns = df_columns
-        self.sp_matres_df = sp_matres_df
-        sp_matres_df.to_csv(os.path.join(data_path, FILE_NAME), sep='\t', index=False)
+        self.sp_matres_df = sp_matres_df.sort_values(by='tf_id')
+        self.sp_matres_df.to_csv(os.path.join(data_path, FILE_NAME), sep='\t', index=False)
 
 

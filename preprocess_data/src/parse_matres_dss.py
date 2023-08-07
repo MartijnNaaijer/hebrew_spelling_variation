@@ -235,7 +235,7 @@ class DSSMatresProcessor:
 
     def process_dss_scrolls(self):
         for scroll_name in Scroll.scrolls:
-            if scroll_name == 'MT':
+            if scroll_name in {'MT', 'SP'}:
                 continue
             for section in self.biblical_sections:
                 if section in Scroll.scrolls[scroll_name].verses:

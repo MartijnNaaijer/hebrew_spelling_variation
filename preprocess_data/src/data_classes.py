@@ -701,7 +701,7 @@ class SPWordProcessor:
     def get_he_locale(self):
         """Not implemented yet"""
         h_loc = ''
-        if Fsp.g_uvf == 'H':
+        if Fsp.g_uvf.v(self.tf_id) == '~H':
             h_loc = 'H'
         return h_loc
 
