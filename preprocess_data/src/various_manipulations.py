@@ -173,7 +173,7 @@ class MTDSSHelpColumnsAdder:
         Add columns line and column to dataframe.
         Note, these are not necessarily integers. It can also be an identifier of a fragment.
         """
-        line_ids = [Ldss.u(w, 'line')[0] if scroll != 'MT' else -1 for w, scroll in zip(self.mt_dss_data['tf_id'], self.mt_dss_data['scroll'])]
+        line_ids = [Ldss.u(w, 'line')[0] if scroll not in {'MT', 'SP'} else -1 for w, scroll in zip(self.mt_dss_data['tf_id'], self.mt_dss_data['scroll'])]
         self.mt_dss_data['line'] = [Fdss.line.v(line_id) if line_id != -1 else '-' for line_id in line_ids]
         self.mt_dss_data['column'] = [Fdss.fragment.v(line_id) if line_id != -1 else '-' for line_id in line_ids]
 

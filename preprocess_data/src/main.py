@@ -23,14 +23,17 @@ def main():
     matres_processor_mt = MTMatresProcessor(corpus)
     mt = matres_processor_mt.mt_matres_df
     matres_pattern_dataset_dss = MatresPatternDataSet('dss_predictions_per_word.txt')
-    mt_dss_nouns_adjvs = pf.get_nouns_adjective_data(corpus, mt, matres_pattern_dataset_dss)
+    mt_dss_nouns_adjvs, mt_dss_sp_nouns_adjvs = pf.get_nouns_adjective_data(corpus, mt, matres_pattern_dataset_dss)
 
     # matres_pattern_dataset_sp = MatresPatternDataSet('sp_predictions_per_word.txt')
     #mt_dss_nouns_adjvs = pf.get_nouns_adjective_data(corpus, mt, 'SP_MATRES_DATASET')
     # Remove ad hoc words with variation between one/more matres
     mt_dss_nouns_adjvs = mt_dss_nouns_adjvs[~mt_dss_nouns_adjvs.lex.isin(['FM>L/', 'R>C/', 'N>D/', 'YWN/'])]
     mt_dss_nouns_adjvs.to_csv(os.path.join(data_path, 'nouns_adjectives.csv'), sep='\t', index=False)
-    #
+
+    mt_dss_sp_nouns_adjvs = mt_dss_sp_nouns_adjvs[~mt_dss_sp_nouns_adjvs.lex.isin(['FM>L/', 'R>C/', 'N>D/', 'YWN/'])]
+    mt_dss_sp_nouns_adjvs.to_csv(os.path.join(data_path, 'nouns_adjectives_with_sp.csv'), sep='\t', index=False)
+
     # ptca, ptcp = pf.get_participle_qal_data(corpus, mt, matres_pattern_dataset)
     # ptca = ptca.sort_values(by=['tf_id'])
     # ptcp = ptcp.sort_values(by=['tf_id'])

@@ -51,6 +51,59 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv', matres_pattern_dataset.matres_predictions_dict)
     matres_parser_sp = SPMatresProcessor(corpus, 'subs_adjv', "SP_MATRES_DATASET")
 
+    with open(os.path.join(data_path, 'pattern_data_sp.json')) as j:
+        pattern_dict_sp = json.loads(j.read())
+
+    pattern_integer_dict_sp = {int(k): v for k, v in pattern_dict_sp.items()}
+    pattern_l = []
+    pattern_g_cons_l = []
+
+    sp = matres_parser_sp.sp_matres_df
+    # for tf_id in sp.tf_id:
+    for _, row in sp.iterrows():
+        tf_id = row.tf_id
+        stem = row.stem
+        g_cons = row.g_cons
+        stem_idx = g_cons.find(stem)
+
+        pat_g_cons = pattern_integer_dict_sp.get(tf_id, [''])
+        pattern_stem = pat_g_cons[stem_idx:stem_idx + len(stem)]
+        pattern_g_cons_l.append(pat_g_cons)
+        pattern_l.append(pattern_stem)
+    sp['pattern'] = pattern_l
+    sp['pattern_g_cons'] = pattern_g_cons_l
+
+    final_aleph_converter = FinalAlephConverter(sp)
+    sp = final_aleph_converter.data
+
+    fem_t_stripper = FeminineTStripper(sp)
+    sp = fem_t_stripper.data
+
+    other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(sp)
+    sp = other_vowel_endings_column_adder.data
+
+    final_yod_remover = FinalYodRemover(sp)
+    sp = final_yod_remover.data
+    mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(sp)
+    sp = mt_dss_help_columns_adder.mt_dss_data
+
+    rec_cor_columns_adder = RecCorColumnsAdder(sp)
+    sp = rec_cor_columns_adder.data
+
+    matres_column_adder = MatresColumnAdder(sp)
+    sp = matres_column_adder.df_with_vowel_letters
+
+    invalid_data_remover = InvalidDataRemover(sp)
+    sp = invalid_data_remover.data_complete_syllables
+
+    useless_lexemes_remover = UselessRowsRemover(data=sp,
+                                                 useless_plurals=USELESS_PLURALS,
+                                                 useless_lexemes=REMOVE_LEXEMES,
+                                                 useless_nodes=AD_HOC_REMOVALS)
+    sp = useless_lexemes_remover.data
+
+    sp.to_csv(os.path.join(data_path, 'test_sp.csv'), sep='\t')
+
     mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
 
@@ -101,8 +154,19 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=entropy)
     mt_dss = syllables_without_variation_remover.data_variable_syllables
 
+    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=entropy)
+    mt_dss = syllables_without_variation_remover.data_variable_syllables
+
+    ######################
+    sp['tf_id'] = sp['tf_id'] + 100000
+    mt_dss_sp = pd.concat([mt_dss, sp])
+
+    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss_sp, entropy_threshold=entropy)
+    mt_dss_sp = syllables_without_variation_remover.data_variable_syllables
+    ##########################
+
     # TODO: adapt dtypes in mt_dss(object -> categorical)
-    return mt_dss
+    return mt_dss, mt_dss_sp
 
 
 def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
