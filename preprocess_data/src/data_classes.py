@@ -659,6 +659,8 @@ class SPWordProcessor:
         self.stem = Fsp.g_lex.v(tf_id)
         self.nme = self.get_nme()
         self.prs = self.get_prs()
+        self.heb_text_adder = HebrewTextAdder(self.glyphs)
+        self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
 
     def create_word(self):
 
@@ -681,7 +683,8 @@ class SPWordProcessor:
                     stem=self.stem,
                     prs_cons=self.prs,
                     nme_cons=self.nme,
-                    hloc=self.hloc)
+                    hloc=self.hloc,
+                    heb_g_cons=self.heb_g_cons)
 
     def get_number(self):
         number = Fsp.nu.v(self.tf_id)

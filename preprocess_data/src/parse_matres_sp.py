@@ -96,8 +96,8 @@ class SPMatresProcessor:
                         w_obj.prefix = self.parse_prefix_g_cons_sp(w_obj.tf_word_id)
                         if not w_obj.stem:
                             continue
-                        pattern = "X" # self.get_matres_pattern(int(w_obj.tf_word_id))
-                        stem_pattern = "X" #self.get_stem_pattern(w_obj.g_cons, w_obj.stem, pattern)
+                        pattern = ""
+                        stem_pattern = ""
 
                         self.matres_sp_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,

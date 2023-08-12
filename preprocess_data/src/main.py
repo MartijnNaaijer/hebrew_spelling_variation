@@ -22,6 +22,7 @@ def main():
     corpus = Corpus('biblical')
     matres_processor_mt = MTMatresProcessor(corpus)
     mt = matres_processor_mt.mt_matres_df
+
     matres_pattern_dataset_dss = MatresPatternDataSet('dss_predictions_per_word.txt')
     mt_dss_nouns_adjvs, mt_dss_sp_nouns_adjvs = pf.get_nouns_adjective_data(corpus, mt, matres_pattern_dataset_dss)
 

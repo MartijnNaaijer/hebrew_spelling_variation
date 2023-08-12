@@ -59,7 +59,7 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     pattern_g_cons_l = []
 
     sp = matres_parser_sp.sp_matres_df
-    # for tf_id in sp.tf_id:
+
     for _, row in sp.iterrows():
         tf_id = row.tf_id
         stem = row.stem
@@ -151,12 +151,6 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
                                                  useless_nodes=AD_HOC_REMOVALS)
     mt_dss = useless_lexemes_remover.data
 
-    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=entropy)
-    mt_dss = syllables_without_variation_remover.data_variable_syllables
-
-    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=entropy)
-    mt_dss = syllables_without_variation_remover.data_variable_syllables
-
     ######################
     sp['tf_id'] = sp['tf_id'] + 100000
     mt_dss_sp = pd.concat([mt_dss, sp])
@@ -164,6 +158,9 @@ def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss_sp, entropy_threshold=entropy)
     mt_dss_sp = syllables_without_variation_remover.data_variable_syllables
     ##########################
+
+    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=entropy)
+    mt_dss = syllables_without_variation_remover.data_variable_syllables
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)
     return mt_dss, mt_dss_sp

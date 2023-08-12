@@ -81,6 +81,7 @@ class SyllablesWithoutVariationRemover:
         for lex in lexemes:
             dat_lex = self.data[self.data.lex == lex]
             syll_types = set(dat_lex.type)
+
             for typ in syll_types:
                 dat_lex_type = dat_lex[dat_lex.type == typ]
                 patterns = [self.get_patterns_of_syllable(pattern, vowel_letters, syllable_type)
