@@ -94,5 +94,3 @@ class SPMatresProcessor:
         sp_matres_df.columns = df_columns
         self.sp_matres_df = sp_matres_df.sort_values(by='tf_id')
         self.sp_matres_df.to_csv(os.path.join(data_path, FILE_NAME), sep='\t', index=False)
-
-

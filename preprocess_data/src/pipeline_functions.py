@@ -166,13 +166,12 @@ def get_nouns_adjective_data(corpus, mt):
     return mt_dss, mt_dss_sp
 
 
-def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
+def get_qal_infinitive_construct_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='infc_qal')
     mt_infc_qal_df = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='infc_qal',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+                                           relevant_data='infc_qal')
 
     mt_dss_infc_qal_df = pd.concat([mt_infc_qal_df, matres_parser_dss.dss_matres_df])
     mt_dss_infc_qal_df = mt_dss_infc_qal_df.sort_values(by=['tf_id'])
@@ -218,13 +217,12 @@ def get_qal_infinitive_construct_data(corpus, mt, matres_pattern_dataset):
     return lamed_he_infc, other_infc
 
 
-def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
+def get_participle_qal_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
     mt_ptc_qal_df = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='ptc_qal',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+                                           relevant_data='ptc_qal')
 
     mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, matres_parser_dss.dss_matres_df])
     mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
@@ -274,13 +272,12 @@ def get_participle_qal_data(corpus, mt, matres_pattern_dataset):
     return ptca, ptcp
 
 
-def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
+def get_niphal_hiphil_pe_yod_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='niph_hiph_pe_yod')
     mt_niph_hiph_pe_yod_df = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='niph_hiph_pe_yod',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+                                           relevant_data='niph_hiph_pe_yod')
 
     niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.dss_matres_df])
     niph_hiph_pe_yod_df = niph_hiph_pe_yod_df.sort_values(by=['tf_id'])
@@ -305,15 +302,14 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt, matres_pattern_dataset):
     return niph_hiph_pe_yod_df
 
 
-def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
+def get_triliteral_hiphil(corpus, mt):
     """Problem of impf is that there are two forms: jaqtil en jaqtel, the latter (juss.)
     is difficult to distinguish without vocalization. Both are included in the dataset."""
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='hiph_triliteral')
     mt_hiph_triliteral_df = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='hiph_triliteral',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+                                           relevant_data='hiph_triliteral')
 
     hiph_triliteral_df = pd.concat([mt_hiph_triliteral_df, matres_parser_dss.dss_matres_df])
     hiph_triliteral_df = hiph_triliteral_df.sort_values(by=['tf_id'])
@@ -338,13 +334,12 @@ def get_triliteral_hiphil(corpus, mt, matres_pattern_dataset):
     return hiph_triliteral_df
 
 
-def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
+def get_qal_infinitive_absolute(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='inf_abs_qal')
     mt_qal_inf_abs = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='inf_abs_qal',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+                                           relevant_data='inf_abs_qal')
 
     qal_inf_abs_df = pd.concat([mt_qal_inf_abs, matres_parser_dss.dss_matres_df])
     qal_inf_abs_df = qal_inf_abs_df.sort_values(by=['tf_id'])
@@ -373,13 +368,12 @@ def get_qal_infinitive_absolute(corpus, mt, matres_pattern_dataset):
     return qal_inf_abs_df
 
 
-def get_particles(corpus, mt, matres_pattern_dataset):
+def get_particles(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='particles')
     mt_particles = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='particles',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+                                           relevant_data='particles')
 
     particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
     particles_df = particles_df.sort_values(by=['tf_id'])
@@ -408,13 +402,12 @@ def get_particles(corpus, mt, matres_pattern_dataset):
     return particles_df
 
 
-def get_yiqtol_wayyiqtol_hollow_roots(corpus, mt, matres_pattern_dataset):
+def get_yiqtol_wayyiqtol_hollow_roots(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='yiq_wayq_hollow')
     mt_particles = basic_mt_data_selector.select_data()
 
     matres_parser_dss = DSSMatresProcessor(corpus,
-                                           relevant_data='yiq_wayq_hollow',
-                                           matres_pattern_dict=matres_pattern_dataset.matres_predictions_dict)
+                                           relevant_data='yiq_wayq_hollow')
 
     pass
 

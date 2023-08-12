@@ -1821,356 +1821,358 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 426338	MT	2_Chronicles	36	14	M<L[	M<WL	M<WL			qal	infc		unknown	unknown	verb					nnnn	nnnn	מעול		-	-	0	0	0	0	nnnn	nnnn	last	W	1
 426494	MT	2_Chronicles	36	20	MLK[	MLK	MLK	CCC	CCC	qal	infc		unknown	unknown	verb					nnn	nnn	מלך		-	-	0	0	0	0	nnn	nnn	last		0
 426552	MT	2_Chronicles	36	22	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
-1894019	1Q6	Judges	9	2	MCL[	MCL	MCL	CCC	CCC	qal	infc	NA		NA	verb					rnn	nnn	משל		3	f3_4	0	0	0	0	rnn	nnn	last		0
-1894719	1Q7	2_Samuel	21	17	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	rnn	nnn	אמר		2	f3	0	1	0	0	rnn	nnn	last		0
-1895069	1Qisaa	Isaiah	1	12	RMS[	RMWS	RMWS	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	רמוס		15	1	0	1	0	0	nnnn	nnnn	last	W	1
-1895085	1Qisaa	Isaiah	1	13	QR>[	QR>	QR>	CCC	CCM	qal	infc	NA		NA	verb					nnn	nnn	קרא		16	1	0	0	0	0	nnn	nnn	last		0
-1895103	1Qisaa	Isaiah	1	14	NF>[	NFW>	NFW>	CCMC	CCMM	qal	infc	NA		NA	verb					nnnn	nnnn	נשוא		17	1	0	0	0	0	nnnn	nnnn	last	W	1
-1895667	1Qisaa	Isaiah	2	19	<RY[	<RWY	<RWY	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	ערוץ		26	2	0	1	0	0	nnnn	nnnn	last	W	1
-1895718	1Qisaa	Isaiah	2	21	<RY[	<RWY	<RWY	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	ערוץ		1	3	0	1	0	0	nnnn	nnnn	last	W	1
-1895844	1Qisaa	Isaiah	3	7	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		10	3	0	1	0	0	nnnn	nnnn	last	W	1
-1896143	1Qisaa	Isaiah	4	1	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	4	0	1	0	0	nnnn	nnnn	last	W	1
-1896638	1Qisaa	Isaiah	5	22	MSK[	MSK	MSK	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	מסך		8	5	0	1	0	0	nnn	nnn	last		0
-1896654	1Qisaa	Isaiah	5	24	>KL[	>KL	>KL	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	אכל		10	5	0	1	0	0	nnn	nnn	last		0
-1897129	1Qisaa	Isaiah	7	2	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	6	0	1	0	0	nnnn	nnnn	last	W	1
-1897219	1Qisaa	Isaiah	7	5	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		19	6	0	1	0	0	nnnn	nnnn	last	W	1
-1897291	1Qisaa	Isaiah	7	10	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		25	6	0	1	0	0	nnnn	nnnn	last	W	1
-1897685	1Qisaa	Isaiah	8	5	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		25	7	0	1	0	0	nnnn	nnnn	last	W	1
-1897812	1Qisaa	Isaiah	8	11	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	8	0	1	0	0	nnnn	nnnn	last	W	1
-1898215	1Qisaa	Isaiah	9	8	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		28	8	0	1	0	0	nnnn	nnnn	last	W	1
-1898458	1Qisaa	Isaiah	10	2	GZL[	GZWL	GZWL	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	גזול		15	9	0	1	0	0	nnnn	nnnn	last	W	1
-1898687	1Qisaa	Isaiah	10	14	>SP[	>SWP	>SWP	CCMC	CCMC	qal	infc	NA		NA	verb				WK	nnnn	nnnn	אסוף		29	9	0	1	0	0	nnnn	nnnn	last	W	1
-1898994	1Qisaa	Isaiah	10	32	<MD[	<MWD	<MWD	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	עמוד		17	10	0	1	0	0	nnnn	nnnn	last	W	1
-1900191	1Qisaa	Isaiah	14	24	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		26	12	0	1	0	0	nnnn	nnnn	last	W	1
-1900207	1Qisaa	Isaiah	14	25	CBR[	CBWR	CBWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שבור		27	12	0	1	0	0	nnnn	nnnn	last	W	1
-1900719	1Qisaa	Isaiah	16	14	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	14	0	1	0	0	nnnn	nnnn	last	W	1
-1900806	1Qisaa	Isaiah	17	5	>SP[	>SP	>SP	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	אסף		8	14	0	1	0	0	nnn	nnn	last		0
-1901062	1Qisaa	Isaiah	18	3	NF>[	NF>	NF>	CCC	CCM	qal	infc	NA		NA	verb				K	nnn	nnn	נשא		27	14	0	1	0	0	nnn	nnn	last		0
-1901068	1Qisaa	Isaiah	18	3	TQ<[	TQW<	TQW<	CCMC	CCMC	qal	infc	NA		NA	verb				WK	nnnn	nnnn	תקוע		27	14	0	1	0	0	nnnn	nnnn	last	W	1
-1901646	1Qisaa	Isaiah	19	25	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	16	0	1	0	0	nnnn	nnnn	last	W	1
-1901664	1Qisaa	Isaiah	20	1	CLX[	CLX	CLX	CCC	CCC	qal	infc	NA		NA	verb				B	nnn	nnn	שלח		4	16	0	1	0	0	nnn	nnn	last		0
-1901688	1Qisaa	Isaiah	20	2	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	16	0	1	0	0	nnnn	nnnn	last	W	1
-1901806	1Qisaa	Isaiah	21	1	XLP[	XLP	XLP	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	חלף		14	16	0	1	0	0	nnn	nnn	last		0
-1901846	1Qisaa	Isaiah	21	3	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		17	16	0	1	0	0	nnnn	nnnn	last	W	1
-1902220	1Qisaa	Isaiah	22	10	BYR=[	BYWR	BYWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	בצור		14	17	0	1	0	0	nnnn	nnnn	last	W	1
-1902267	1Qisaa	Isaiah	22	12	XGR[	XGWR	XGWR	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	חגור		18	17	0	1	0	0	nnnn	nnnn	last	W	1
-1902566	1Qisaa	Isaiah	23	4	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		8	18	0	1	0	0	nnnn	nnnn	last	W	1
-1902672	1Qisaa	Isaiah	23	12	<LZ[	<LWZ	<LWZ	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז		17	18	0	1	0	0	nnnn	nnnn	last	W	1
-1902785	1Qisaa	Isaiah	23	18	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		27	18	0	1	0	0	nnnn	nnnn	last	W	1
-1903673	1Qisaa	Isaiah	26	21	PQD[	PQWD	PQWD	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	פקוד		4	21	0	1	0	0	nnnn	nnnn	last	W	1
-1904162	1Qisaa	Isaiah	28	12	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		14	22	0	1	0	0	nnnn	nnnn	last	W	1
-1904355	1Qisaa	Isaiah	28	21	<BD[	<BD	<BD	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	עבד		28	22	0	1	0	0	nnn	nnn	last		0
-1904398	1Qisaa	Isaiah	28	24	ZR<[	ZRW<	ZRW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	זרוע		1	23	0	1	0	0	nnnn	nnnn	last	W	1
-1904717	1Qisaa	Isaiah	29	11	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		20	23	0	1	0	0	nnnn	nnnn	last	W	1
-1904739	1Qisaa	Isaiah	29	12	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		21	23	0	1	0	0	nnnn	nnnn	last	W	1
-1904991	1Qisaa	Isaiah	30	1	NSK[	NSK	NSK	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	נסך		6	24	0	1	0	0	nnn	nnn	last		0
-1905149	1Qisaa	Isaiah	30	9	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		16	24	0	1	0	0	nnnn	nnnn	last	W	1
-1905251	1Qisaa	Isaiah	30	14	XFP[	XSWP	XSWP	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	חסוף		23	24	0	1	0	0	nnnn	nnnn	last	W	1
-1905395	1Qisaa	Isaiah	30	21	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	25	0	1	0	0	nnnn	nnnn	last	W	1
-1905491	1Qisaa	Isaiah	30	25	NPL[	NPL	NPL	CCC	CCC	qal	infc	NA		NA	verb				B	nnn	nnn	נפל		9	25	0	1	0	0	nnn	nnn	last		0
-1905517	1Qisaa	Isaiah	30	26	XBC[	XBWC	XBWC	CCMC	CCMC	qal	infc	NA		NA	verb					nnnn	nnnn	חבוש		11	25	0	0	0	0	nnnn	nnnn	last	W	1
-1905796	1Qisaa	Isaiah	31	4	YB>[	YB>	YB>	CCC	CCM	qal	infc	NA		NA	verb				L	nnn	nnn	צבא		31	25	0	1	0	0	nnn	nnn	last		0
-1906210	1Qisaa	Isaiah	33	1	BGD[	BGWD	BGWD	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	בגוד		1	27	0	1	0	0	nnnn	nnnn	last	W	1
-1906381	1Qisaa	Isaiah	33	15	TMK[	TMK	TMK	CCC	CCC	qal	infc	NA		NA	verb				M	nnn	nnn	תמך		16	27	0	1	0	0	nnn	nnn	last		0
-1906387	1Qisaa	Isaiah	33	15	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		17	27	0	1	0	0	nnnn	nnnn	last	W	1
-1906535	1Qisaa	Isaiah	34	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		1	28	0	1	0	0	nnnn	nnnn	last	W	1
-1907370	1Qisaa	Isaiah	36	12	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		19	29	0	1	0	0	nnnn	nnnn	last	W	1
-1907426	1Qisaa	Isaiah	36	15	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		23	29	0	1	0	0	nnnn	nnnn	last	W	1
-1907496	1Qisaa	Isaiah	36	18	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		27	29	0	1	0	0	nnnn	nnnn	last	W	1
-1907563	1Qisaa	Isaiah	36	21	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	30	0	1	0	0	nnnn	nnnn	last	W	1
-1907601	1Qisaa	Isaiah	37	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				K	nnnn	nnnn	שמוע		4	30	0	1	0	0	nnnn	nnnn	last	W	1
-1907794	1Qisaa	Isaiah	37	9	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	30	0	1	0	0	nnnn	nnnn	last	W	1
-1907809	1Qisaa	Isaiah	37	9	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		14	30	0	1	0	0	nnnn	nnnn	last	W	1
-1907818	1Qisaa	Isaiah	37	10	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		14	30	0	1	0	0	nnnn	nnnn	last	W	1
-1907827	1Qisaa	Isaiah	37	10	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		15	30	0	1	0	0	nnnn	nnnn	last	W	1
-1907924	1Qisaa	Isaiah	37	15	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		20	30	0	1	0	0	nnnn	nnnn	last	W	1
-1908036	1Qisaa	Isaiah	37	21	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		27	30	0	1	0	0	nnnn	nnnn	last	W	1
-1908480	1Qisaa	Isaiah	38	4	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		24	31	0	1	0	0	nnnn	nnnn	last	W	1
-1910133	1Qisaa	Isaiah	42	7	PQX[	PQWX	PQWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	פקוח		17	35	0	1	0	0	nnnn	nnnn	last	W	1
-1910431	1Qisaa	Isaiah	42	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	הלוך		7	36	0	1	0	0	nnnn	nnnn	last	W	1
-1911153	1Qisaa	Isaiah	44	14	KRT[	KRWT	KRWT	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	כרות		19	37	0	1	0	0	nnnn	nnnn	last	W	1
-1911272	1Qisaa	Isaiah	44	19	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		24	37	0	1	0	0	nnnn	nnnn	last	W	1
-1911274	1Qisaa	Isaiah	44	19	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		24	37	0	1	0	0	nnnn	nnnn	last	W	1
-1911447	1Qisaa	Isaiah	44	28	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	אמור		5	38	0	1	0	0	nnnn	nnnn	last	W	1
-1911476	1Qisaa	Isaiah	45	1	PTX[	PTWX	PTWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	פתוח		7	38	0	1	0	0	nnnn	nnnn	last	W	1
-1912995	1Qisaa	Isaiah	49	9	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		8	41	0	1	0	0	nnnn	nnnn	last	W	1
-1913417	1Qisaa	Isaiah	50	4	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		6	42	0	1	0	0	nnnn	nnnn	last	W	1
-1913754	1Qisaa	Isaiah	51	10	<BR[	<BWR	<BWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	עבור		26	42	0	1	0	0	nnnn	nnnn	last	W	1
-1913871	1Qisaa	Isaiah	51	16	NV<[	NVW<	NVW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	נטוע		3	43	0	1	0	0	nnnn	nnnn	last	W	1
-1913879	1Qisaa	Isaiah	51	16	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	אמור		3	43	0	1	0	0	nnnn	nnnn	last	W	1
-1914682	1Qisaa	Isaiah	54	9	<BR[	<BWR	<BWR	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	עבור		6	45	0	1	0	0	nnnn	nnnn	last	W	1
-1914692	1Qisaa	Isaiah	54	9	QYP[	QYWP	QYWP	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	קצוף		7	45	0	1	0	0	nnnn	nnnn	last	W	1
-1914697	1Qisaa	Isaiah	54	9	G<R[	G<WR	G<WR	CCMC	CCMC	qal	infc	NA		NA	verb				WM	nnnn	nnnn	געור		7	45	0	1	0	0	nnnn	nnnn	last	W	1
-1914954	1Qisaa	Isaiah	55	7	SLX[	SLWX	SLWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	סלוח		28	45	0	1	0	0	nnnn	nnnn	last	W	1
-1915018	1Qisaa	Isaiah	55	10	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אכול		4	46	0	1	0	0	nnnn	nnnn	last	W	1
-1915142	1Qisaa	Isaiah	56	3	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	46	0	1	0	0	nnnn	nnnn	last	W	1
-1915280	1Qisaa	Isaiah	56	9	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		22	46	0	1	0	0	nnnn	nnnn	last	W	1
-1915298	1Qisaa	Isaiah	56	10	NBX[	NBWX	NBWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	נבוח		23	46	0	1	0	0	nnnn	nnnn	last	W	1
-1915463	1Qisaa	Isaiah	57	7	ZBX[	ZBWX	ZBWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	זבוח		6	47	0	1	0	0	nnnn	nnnn	last	W	1
-1915929	1Qisaa	Isaiah	58	9	CLX[	CLWX	CLWX	CCMC	CCMC	qal	infc	NA		NA	verb				W	nnnn	nnnn	שלוח		4	48	0	1	0	0	nnnn	nnnn	last	W	1
+1894019	1Q6	Judges	9	2	MCL[	MCL	MCL			qal	infc	NA		NA	verb					rnn	nnn	משל		3	f3_4	0	0	0	0	rnn	nnn	last		0
+1894719	1Q7	2_Samuel	21	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר		2	f3	0	1	0	0	rnn	nnn	last		0
+1895069	1Qisaa	Isaiah	1	12	RMS[	RMWS	RMWS			qal	infc	NA		NA	verb				L	nnnn	nnnn	רמוס		15	1	0	1	0	0	nnnn	nnnn	last	W	1
+1895085	1Qisaa	Isaiah	1	13	QR>[	QR>	QR>	C		qal	infc	NA		NA	verb					nnn	nnn	קרא		16	1	0	0	0	0	nnn	nnn	last		0
+1895103	1Qisaa	Isaiah	1	14	NF>[	NFW>	NFW>	C		qal	infc	NA		NA	verb					nnnn	nnnn	נשוא		17	1	0	0	0	0	nnnn	nnnn	last	W	1
+1895667	1Qisaa	Isaiah	2	19	<RY[	<RWY	<RWY			qal	infc	NA		NA	verb				L	nnnn	nnnn	ערוץ		26	2	0	1	0	0	nnnn	nnnn	last	W	1
+1895718	1Qisaa	Isaiah	2	21	<RY[	<RWY	<RWY			qal	infc	NA		NA	verb				L	nnnn	nnnn	ערוץ		1	3	0	1	0	0	nnnn	nnnn	last	W	1
+1895844	1Qisaa	Isaiah	3	7	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		10	3	0	1	0	0	nnnn	nnnn	last	W	1
+1896143	1Qisaa	Isaiah	4	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	4	0	1	0	0	nnnn	nnnn	last	W	1
+1896638	1Qisaa	Isaiah	5	22	MSK[	MSK	MSK			qal	infc	NA		NA	verb				L	nnn	nnn	מסך		8	5	0	1	0	0	nnn	nnn	last		0
+1896654	1Qisaa	Isaiah	5	24	>KL[	>KL	>KL			qal	infc	NA		NA	verb				K	nnn	nnn	אכל		10	5	0	1	0	0	nnn	nnn	last		0
+1897129	1Qisaa	Isaiah	7	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	6	0	1	0	0	nnnn	nnnn	last	W	1
+1897219	1Qisaa	Isaiah	7	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		19	6	0	1	0	0	nnnn	nnnn	last	W	1
+1897291	1Qisaa	Isaiah	7	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		25	6	0	1	0	0	nnnn	nnnn	last	W	1
+1897661	1Qisaa	Isaiah	8	4	QR>[	QR>W	QR>W			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראו		22	7	0	1	0	0	nnnn	nnnn	last		0
+1897685	1Qisaa	Isaiah	8	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		25	7	0	1	0	0	nnnn	nnnn	last	W	1
+1897812	1Qisaa	Isaiah	8	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	8	0	1	0	0	nnnn	nnnn	last	W	1
+1898215	1Qisaa	Isaiah	9	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		28	8	0	1	0	0	nnnn	nnnn	last	W	1
+1898458	1Qisaa	Isaiah	10	2	GZL[	GZWL	GZWL			qal	infc	NA		NA	verb				WL	nnnn	nnnn	גזול		15	9	0	1	0	0	nnnn	nnnn	last	W	1
+1898687	1Qisaa	Isaiah	10	14	>SP[	>SWP	>SWP			qal	infc	NA		NA	verb				WK	nnnn	nnnn	אסוף		29	9	0	1	0	0	nnnn	nnnn	last	W	1
+1898994	1Qisaa	Isaiah	10	32	<MD[	<MWD	<MWD			qal	infc	NA		NA	verb				L	nnnn	nnnn	עמוד		17	10	0	1	0	0	nnnn	nnnn	last	W	1
+1900191	1Qisaa	Isaiah	14	24	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		26	12	0	1	0	0	nnnn	nnnn	last	W	1
+1900207	1Qisaa	Isaiah	14	25	CBR[	CBWR	CBWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שבור		27	12	0	1	0	0	nnnn	nnnn	last	W	1
+1900719	1Qisaa	Isaiah	16	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	14	0	1	0	0	nnnn	nnnn	last	W	1
+1900806	1Qisaa	Isaiah	17	5	>SP[	>SP	>SP			qal	infc	NA		NA	verb				K	nnn	nnn	אסף		8	14	0	1	0	0	nnn	nnn	last		0
+1901062	1Qisaa	Isaiah	18	3	NF>[	NF>	NF>	C		qal	infc	NA		NA	verb				K	nnn	nnn	נשא		27	14	0	1	0	0	nnn	nnn	last		0
+1901068	1Qisaa	Isaiah	18	3	TQ<[	TQW<	TQW<			qal	infc	NA		NA	verb				WK	nnnn	nnnn	תקוע		27	14	0	1	0	0	nnnn	nnnn	last	W	1
+1901646	1Qisaa	Isaiah	19	25	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	16	0	1	0	0	nnnn	nnnn	last	W	1
+1901664	1Qisaa	Isaiah	20	1	CLX[	CLX	CLX			qal	infc	NA		NA	verb				B	nnn	nnn	שלח		4	16	0	1	0	0	nnn	nnn	last		0
+1901688	1Qisaa	Isaiah	20	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	16	0	1	0	0	nnnn	nnnn	last	W	1
+1901806	1Qisaa	Isaiah	21	1	XLP[	XLP	XLP			qal	infc	NA		NA	verb				L	nnn	nnn	חלף		14	16	0	1	0	0	nnn	nnn	last		0
+1901846	1Qisaa	Isaiah	21	3	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		17	16	0	1	0	0	nnnn	nnnn	last	W	1
+1902220	1Qisaa	Isaiah	22	10	BYR=[	BYWR	BYWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	בצור		14	17	0	1	0	0	nnnn	nnnn	last	W	1
+1902267	1Qisaa	Isaiah	22	12	XGR[	XGWR	XGWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חגור		18	17	0	1	0	0	nnnn	nnnn	last	W	1
+1902566	1Qisaa	Isaiah	23	4	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		8	18	0	1	0	0	nnnn	nnnn	last	W	1
+1902672	1Qisaa	Isaiah	23	12	<LZ[	<LWZ	<LWZ			qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז		17	18	0	1	0	0	nnnn	nnnn	last	W	1
+1902785	1Qisaa	Isaiah	23	18	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		27	18	0	1	0	0	nnnn	nnnn	last	W	1
+1903673	1Qisaa	Isaiah	26	21	PQD[	PQWD	PQWD			qal	infc	NA		NA	verb				L	nnnn	nnnn	פקוד		4	21	0	1	0	0	nnnn	nnnn	last	W	1
+1904162	1Qisaa	Isaiah	28	12	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		14	22	0	1	0	0	nnnn	nnnn	last	W	1
+1904355	1Qisaa	Isaiah	28	21	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד		28	22	0	1	0	0	nnn	nnn	last		0
+1904398	1Qisaa	Isaiah	28	24	ZR<[	ZRW<	ZRW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	זרוע		1	23	0	1	0	0	nnnn	nnnn	last	W	1
+1904717	1Qisaa	Isaiah	29	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		20	23	0	1	0	0	nnnn	nnnn	last	W	1
+1904739	1Qisaa	Isaiah	29	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		21	23	0	1	0	0	nnnn	nnnn	last	W	1
+1904991	1Qisaa	Isaiah	30	1	NSK[	NSK	NSK			qal	infc	NA		NA	verb				WL	nnn	nnn	נסך		6	24	0	1	0	0	nnn	nnn	last		0
+1905149	1Qisaa	Isaiah	30	9	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		16	24	0	1	0	0	nnnn	nnnn	last	W	1
+1905251	1Qisaa	Isaiah	30	14	XFP[	XSWP	XSWP			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חסוף		23	24	0	1	0	0	nnnn	nnnn	last	W	1
+1905395	1Qisaa	Isaiah	30	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	25	0	1	0	0	nnnn	nnnn	last	W	1
+1905491	1Qisaa	Isaiah	30	25	NPL[	NPL	NPL			qal	infc	NA		NA	verb				B	nnn	nnn	נפל		9	25	0	1	0	0	nnn	nnn	last		0
+1905517	1Qisaa	Isaiah	30	26	XBC[	XBWC	XBWC			qal	infc	NA		NA	verb					nnnn	nnnn	חבוש		11	25	0	0	0	0	nnnn	nnnn	last	W	1
+1905796	1Qisaa	Isaiah	31	4	YB>[	YB>	YB>	C		qal	infc	NA		NA	verb				L	nnn	nnn	צבא		31	25	0	1	0	0	nnn	nnn	last		0
+1906210	1Qisaa	Isaiah	33	1	BGD[	BGWD	BGWD			qal	infc	NA		NA	verb				L	nnnn	nnnn	בגוד		1	27	0	1	0	0	nnnn	nnnn	last	W	1
+1906381	1Qisaa	Isaiah	33	15	TMK[	TMK	TMK			qal	infc	NA		NA	verb				M	nnn	nnn	תמך		16	27	0	1	0	0	nnn	nnn	last		0
+1906387	1Qisaa	Isaiah	33	15	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		17	27	0	1	0	0	nnnn	nnnn	last	W	1
+1906535	1Qisaa	Isaiah	34	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		1	28	0	1	0	0	nnnn	nnnn	last	W	1
+1907370	1Qisaa	Isaiah	36	12	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		19	29	0	1	0	0	nnnn	nnnn	last	W	1
+1907426	1Qisaa	Isaiah	36	15	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		23	29	0	1	0	0	nnnn	nnnn	last	W	1
+1907496	1Qisaa	Isaiah	36	18	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		27	29	0	1	0	0	nnnn	nnnn	last	W	1
+1907563	1Qisaa	Isaiah	36	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	30	0	1	0	0	nnnn	nnnn	last	W	1
+1907601	1Qisaa	Isaiah	37	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				K	nnnn	nnnn	שמוע		4	30	0	1	0	0	nnnn	nnnn	last	W	1
+1907794	1Qisaa	Isaiah	37	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	30	0	1	0	0	nnnn	nnnn	last	W	1
+1907809	1Qisaa	Isaiah	37	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		14	30	0	1	0	0	nnnn	nnnn	last	W	1
+1907818	1Qisaa	Isaiah	37	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		14	30	0	1	0	0	nnnn	nnnn	last	W	1
+1907827	1Qisaa	Isaiah	37	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		15	30	0	1	0	0	nnnn	nnnn	last	W	1
+1907924	1Qisaa	Isaiah	37	15	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		20	30	0	1	0	0	nnnn	nnnn	last	W	1
+1908036	1Qisaa	Isaiah	37	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		27	30	0	1	0	0	nnnn	nnnn	last	W	1
+1908480	1Qisaa	Isaiah	38	4	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		24	31	0	1	0	0	nnnn	nnnn	last	W	1
+1910133	1Qisaa	Isaiah	42	7	PQX[	PQWX	PQWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	פקוח		17	35	0	1	0	0	nnnn	nnnn	last	W	1
+1910431	1Qisaa	Isaiah	42	24	HLK[	HLWK	HLWK			qal	infc	NA		NA	verb				L	nnnn	nnnn	הלוך		7	36	0	1	0	0	nnnn	nnnn	last	W	1
+1911153	1Qisaa	Isaiah	44	14	KRT[	KRWT	KRWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	כרות		19	37	0	1	0	0	nnnn	nnnn	last	W	1
+1911272	1Qisaa	Isaiah	44	19	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		24	37	0	1	0	0	nnnn	nnnn	last	W	1
+1911274	1Qisaa	Isaiah	44	19	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		24	37	0	1	0	0	nnnn	nnnn	last	W	1
+1911447	1Qisaa	Isaiah	44	28	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	אמור		5	38	0	1	0	0	nnnn	nnnn	last	W	1
+1911476	1Qisaa	Isaiah	45	1	PTX[	PTWX	PTWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	פתוח		7	38	0	1	0	0	nnnn	nnnn	last	W	1
+1912995	1Qisaa	Isaiah	49	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		8	41	0	1	0	0	nnnn	nnnn	last	W	1
+1913417	1Qisaa	Isaiah	50	4	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		6	42	0	1	0	0	nnnn	nnnn	last	W	1
+1913754	1Qisaa	Isaiah	51	10	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	עבור		26	42	0	1	0	0	nnnn	nnnn	last	W	1
+1913871	1Qisaa	Isaiah	51	16	NV<[	NVW<	NVW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	נטוע		3	43	0	1	0	0	nnnn	nnnn	last	W	1
+1913879	1Qisaa	Isaiah	51	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	אמור		3	43	0	1	0	0	nnnn	nnnn	last	W	1
+1914682	1Qisaa	Isaiah	54	9	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				M	nnnn	nnnn	עבור		6	45	0	1	0	0	nnnn	nnnn	last	W	1
+1914692	1Qisaa	Isaiah	54	9	QYP[	QYWP	QYWP			qal	infc	NA		NA	verb				M	nnnn	nnnn	קצוף		7	45	0	1	0	0	nnnn	nnnn	last	W	1
+1914697	1Qisaa	Isaiah	54	9	G<R[	G<WR	G<WR			qal	infc	NA		NA	verb				WM	nnnn	nnnn	געור		7	45	0	1	0	0	nnnn	nnnn	last	W	1
+1914954	1Qisaa	Isaiah	55	7	SLX[	SLWX	SLWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	סלוח		28	45	0	1	0	0	nnnn	nnnn	last	W	1
+1915018	1Qisaa	Isaiah	55	10	>KL[	>KWL	>KWL			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אכול		4	46	0	1	0	0	nnnn	nnnn	last	W	1
+1915142	1Qisaa	Isaiah	56	3	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	46	0	1	0	0	nnnn	nnnn	last	W	1
+1915280	1Qisaa	Isaiah	56	9	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		22	46	0	1	0	0	nnnn	nnnn	last	W	1
+1915298	1Qisaa	Isaiah	56	10	NBX[	NBWX	NBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	נבוח		23	46	0	1	0	0	nnnn	nnnn	last	W	1
+1915463	1Qisaa	Isaiah	57	7	ZBX[	ZBWX	ZBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	זבוח		6	47	0	1	0	0	nnnn	nnnn	last	W	1
+1915929	1Qisaa	Isaiah	58	9	CLX[	CLWX	CLWX			qal	infc	NA		NA	verb				W	nnnn	nnnn	שלוח		4	48	0	1	0	0	nnnn	nnnn	last	W	1
 1916028	1Qisaa	Isaiah	58	13	MY>[	MYW>	MYW>	CCMC	CCMC	qal	infc	NA		NA	verb				WM	nnnn	nnnn	מצוא		10	48	0	1	0	0	nnnn	nnnn	last	W	1
-1916065	1Qisaa	Isaiah	59	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		12	48	0	1	0	0	nnnn	nnnn	last	W	1
-1916082	1Qisaa	Isaiah	59	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		13	48	0	1	0	0	nnnn	nnnn	last	W	1
-1916162	1Qisaa	Isaiah	59	7	CPK[	CPWK	CPWK	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שפוך		18	48	0	1	0	0	nnnn	nnnn	last	W	1
-1916901	1Qisaa	Isaiah	61	1	XBC[	XBWC	XBWC	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	חבוש		26	49	0	1	0	0	nnnn	nnnn	last	W	1
-1916906	1Qisaa	Isaiah	61	1	QR>[	QRW>	QRW>	CCMC	CCMM	qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		26	49	0	1	0	0	nnnn	nnnn	last	W	1
-1916916	1Qisaa	Isaiah	61	2	QR>[	QRW>	QRW>	CCMC	CCMM	qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		27	49	0	1	0	0	nnnn	nnnn	last	W	1
-1917201	1Qisaa	Isaiah	62	5	B<L[	B<WL	B<WL	CCMC	CCMC	qal	infc	NA	m	NA	verb				K	nnnn	nnnn	בעול		15	50	0	1	0	0	nnnn	nnnn	last	W	1
-1917686	1Qisaa	Isaiah	64	1	QDX[	QDWX	QDWX	CCMC	CCMC	qal	infc	NA		NA	verb				K	nnnn	nnnn	קדוח		16	51	0	1	0	0	nnnn	nnnn	last	W	1
-1918700	1Qisaa	Isaiah	66	16	CPV[	CPWV	CPWV	CCMC	CCMC	qal	infc	NA	m	NA	verb				L	nnnn	nnnn	שפוט		3	54	0	1	0	0	nnnn	nnnn	last	W	1
-1921465	1Q8	Isaiah	37	10	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	15	0	1	0	0	nnn	nnn	last		0
-1922838	1Q8	Isaiah	44	28	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				WL	nnn	nnn	אמר		10	19	0	1	0	0	nnn	nnn	last		0
-1922867	1Q8	Isaiah	45	1	PTX[	PTX	PTX	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	פתח		12	19	0	1	0	0	nnn	nnn	last		0
-1923821	1Q8	Isaiah	49	9	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		21	21	0	1	0	0	nnn	nnn	last		0
-1924818	1Q8	Isaiah	55	7	SLX[	SLWX	SLWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	סלוח		7	24	0	1	0	0	nnnn	nnnn	last	W	1
-1925139	1Q8	Isaiah	56	9	>KL[	>KL	>KL	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	אכל		27	24	0	1	0	0	nnn	nnn	last		0
-1925156	1Q8	Isaiah	56	10	NBX[	NBX	NBX	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	נבח		28	24	0	1	0	0	nnn	nnn	last		0
-1925521	1Q8	Isaiah	58	9	CLX[	CLX	CLX	CCC	CCC	qal	infc	NA		NA	verb					nnn	nnn	שלח		18	25	0	0	0	0	nnn	nnn	last		0
+1916065	1Qisaa	Isaiah	59	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		12	48	0	1	0	0	nnnn	nnnn	last	W	1
+1916082	1Qisaa	Isaiah	59	2	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		13	48	0	1	0	0	nnnn	nnnn	last	W	1
+1916162	1Qisaa	Isaiah	59	7	CPK[	CPWK	CPWK			qal	infc	NA		NA	verb				L	nnnn	nnnn	שפוך		18	48	0	1	0	0	nnnn	nnnn	last	W	1
+1916901	1Qisaa	Isaiah	61	1	XBC[	XBWC	XBWC			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חבוש		26	49	0	1	0	0	nnnn	nnnn	last	W	1
+1916906	1Qisaa	Isaiah	61	1	QR>[	QRW>	QRW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		26	49	0	1	0	0	nnnn	nnnn	last	W	1
+1916916	1Qisaa	Isaiah	61	2	QR>[	QRW>	QRW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		27	49	0	1	0	0	nnnn	nnnn	last	W	1
+1917201	1Qisaa	Isaiah	62	5	B<L[	B<WL	B<WL			qal	infc	NA	m	NA	verb				K	nnnn	nnnn	בעול		15	50	0	1	0	0	nnnn	nnnn	last	W	1
+1917686	1Qisaa	Isaiah	64	1	QDX[	QDWX	QDWX			qal	infc	NA		NA	verb				K	nnnn	nnnn	קדוח		16	51	0	1	0	0	nnnn	nnnn	last	W	1
+1918700	1Qisaa	Isaiah	66	16	CPV[	CPWV	CPWV			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	שפוט		3	54	0	1	0	0	nnnn	nnnn	last	W	1
+1921465	1Q8	Isaiah	37	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	15	0	1	0	0	nnn	nnn	last		0
+1922838	1Q8	Isaiah	44	28	>MR[	>MR	>MR			qal	infc	NA		NA	verb				WL	nnn	nnn	אמר		10	19	0	1	0	0	nnn	nnn	last		0
+1922867	1Q8	Isaiah	45	1	PTX[	PTX	PTX			qal	infc	NA		NA	verb				L	nnn	nnn	פתח		12	19	0	1	0	0	nnn	nnn	last		0
+1923821	1Q8	Isaiah	49	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		21	21	0	1	0	0	nnn	nnn	last		0
+1924818	1Q8	Isaiah	55	7	SLX[	SLWX	SLWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	סלוח		7	24	0	1	0	0	nnnn	nnnn	last	W	1
+1925139	1Q8	Isaiah	56	9	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	nnn	nnn	אכל		27	24	0	1	0	0	nnn	nnn	last		0
+1925156	1Q8	Isaiah	56	10	NBX[	NBX	NBX			qal	infc	NA		NA	verb				L	nnn	nnn	נבח		28	24	0	1	0	0	nnn	nnn	last		0
+1925521	1Q8	Isaiah	58	9	CLX[	CLX	CLX			qal	infc	NA		NA	verb					nnn	nnn	שלח		18	25	0	0	0	0	nnn	nnn	last		0
 1925618	1Q8	Isaiah	58	13	MY>[	MYW>	MYW>	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	מצוא		24	25	0	1	0	0	nnnn	nnnn	last	W	1
-1925655	1Q8	Isaiah	59	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		27	25	0	1	0	0	nnnn	nnnn	last	W	1
-1925671	1Q8	Isaiah	59	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		28	25	0	1	0	0	nnnn	nnnn	last	W	1
-1925753	1Q8	Isaiah	59	7	CPK[	CPK	CPK	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שפך		34	25	0	1	0	0	nnn	nnn	last		0
-1926224	1Q8	Isaiah	61	1	QR>[	QR>	QR>	CCC	CCM	qal	infc	NA		NA	verb				L	nnn	nnn	קרא		34	26	0	1	0	0	nnn	nnn	last		0
-1928472	1Q13	Deuteronomy	5	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f1_18	0	1	0	0	nnn	nnn	last		0
-1933291	2Q15	Job	33	28	<BR[	<BR	<BR	CCC	CCC	qal	infc	NA		NA	verb				M	nnn	nnn	עבר		1	f1	0	1	0	0	nnn	nnn	last		0
-1933579	2Q16	Ruth	2	23	LQV[	LQWV	LQWV	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	לקוט		2	f5ii_6i	0	1	0	0	nnnn	nnnn	last	W	1
-1934257	4Q1	Genesis	34	20	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f4	0	1	0	0	nnn	nnn	last		0
-1935006	4Q1	Genesis	39	12	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f9	0	1	0	0	nnn	nnn	last		0
-1935056	4Q1	Genesis	39	14	CKB[	CKB	CKB	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שכב		4	f9	0	1	0	0	nnn	nnn	last		0
-1935135	4Q1	Genesis	39	19	CM<[	CM<	CM<	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	שמע		8	f9	0	1	0	0	nnn	nnn	last		0
-1936606	4Q1	Exodus	5	7	LBN=[	LBN	LBN	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	לבן		6	f22ii+26	0	1	0	0	nnn	nnn	last		0
-1937217	4Q1	Exodus	7	8	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f33	0	1	0	0	nnn	nnn	last		0
-1937340	4Q1	Exodus	7	16	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f34_35	0	1	0	0	nnn	nnn	last		0
-1938075	4Q2	Genesis	1	18	MCL[	MCL	MCL	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	משל		21	f1i	0	1	0	0	nnn	nnn	last		0
-1938953	4Q3	Genesis	41	9	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		17	f1ii	0	1	0	0	nnn	nnn	last		0
-1939077	4Q4	Genesis	1	22	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f1	0	1	0	0	nnn	nnn	last		0
-1940573	4Q7	Genesis	1	18	MCL[	MCWL	MCWL	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	משול		7	f2	0	1	0	0	nnnn	nnnn	last	W	1
-1942933	4Q11	Exodus	12	3	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		16	f7ii	0	1	0	0	nnn	nnn	last		0
-1944108	4Q11	Exodus	17	7	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f19	0	1	0	0	nnn	nnn	last		0
-1944360	4Q11	Exodus	18	23	<MD[	<MD	<MD	CCC	CCC	qal	infc	NA		NA	verb					nnn	nnn	עמד		12	f20	0	0	0	0	nnn	nnn	last		0
-1944504	4Q11	Exodus	23	5	<ZB[	<ZB	<ZB	CCC	CCC	qal	infc	NA		NA	verb				M	nnn	nnn	עזב		3	f23	0	1	0	0	nnn	nnn	last		0
-1946018	4Q13	Exodus	2	5	RXY[	RXWY	RXWY	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	רחוץ		3	f3i_4	0	1	0	0	nnnn	nnnn	last	W	1
-1946284	4Q13	Exodus	2	15	HRG[	HRWG	HRWG	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	הרוג		17	f3i_4	0	1	0	0	nnnn	nnnn	last	W	1
-1946456	4Q13	Exodus	3	16	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	f3ii+5_6i	0	1	0	0	nnnn	nnnn	last	W	1
-1946837	4Q13	Exodus	5	6	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
-1946847	4Q13	Exodus	5	7	LBN=[	LBWN	LBWN	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	לבון		5	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
-1946886	4Q13	Exodus	5	8	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
-1946922	4Q13	Exodus	5	10	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		9	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
-1952415	4Q22	Exodus	6	29	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	1	0	1	0	0	nnnn	nnnn	last	W	1
-1952582	4Q22	Exodus	7	8	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		20	1	0	1	0	0	nnnn	nnnn	last	W	1
-1953102	4Q22	Exodus	8	16	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		29	3	0	1	0	0	nnnn	nnnn	last	W	1
-1953460	4Q22	Exodus	9	8	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	5	0	1	0	0	nnnn	nnnn	last	W	1
-1956184	4Q22	Exodus	18	12	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		19	18	0	1	0	0	nnnn	nnnn	last	W	1
-1956770	4Q22	Exodus	19	12	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		9	20	0	1	0	0	nnnn	nnnn	last	W	1
-1959959	4Q22	Exodus	30	17	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		31	35	0	1	0	0	nnnn	nnnn	last	W	1
-1960420	4Q22	Exodus	32	7	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	rnnn	nnnn	אמור		27	37	0	1	0	0	rnnn	nnnn	last	W	1
-1961870	4Q23	Leviticus	14	33	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	f2_3	0	1	0	0	nnn	nnn	last		0
-1963741	4Q23	Numbers	3	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	f31_32i+33	0	1	0	0	nnn	nnn	last		0
-1963905	4Q23	Numbers	3	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		16	f31_32i+33	0	1	0	0	nnn	nnn	last		0
-1963998	4Q23	Numbers	4	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f32ii+34i_43	0	1	0	0	nnn	nnn	last		0
-1964054	4Q23	Numbers	4	5	NS<[	NS<	NS<	CCC	CCC	qal	infc	NA		NA	verb				B	nnn	nnn	נסע		9	f32ii+34i_43	0	1	0	0	nnn	nnn	last		0
-1964404	4Q23	Numbers	5	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	rnn	nnn	אמר		16	f34ii+44_50	0	1	0	0	rnn	nnn	last		0
-1964664	4Q23	Numbers	8	11	<BD[	<BD	<BD	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	עבד		5	f51	0	1	0	0	nnn	nnn	last		0
-1965246	4Q23	Numbers	11	20	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f58_59	0	1	0	0	nnn	nnn	last		0
-1965709	4Q23	Numbers	32	10	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	f68i	0	1	0	0	nnn	nnn	last		0
-1967816	4Q24	Leviticus	22	17	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		25	f9i+10_17	0	1	0	0	nnn	nnn	last		0
-1968828	4Q24	Leviticus	24	13	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		18	f20ii+22_25	0	1	0	0	nnn	nnn	last		0
-1969242	4Q25	Leviticus	1	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1i	0	1	0	0	nnn	nnn	last		0
-1969399	4Q25	Leviticus	4	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f2	0	1	0	0	nnn	nnn	last		0
-1969901	4Q26	Leviticus	14	33	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	f2	0	1	0	0	nnnn	nnnn	last	W	1
-1971033	4Q26a	Leviticus	22	17	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f9	0	1	0	0	nnn	nnn	last		0
-1971138	4Q26b	Leviticus	7	23	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f1	0	1	0	0	nnnn	nnnn	last	W	1
-1972577	4Q27	Numbers	19	1	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f12	0	1	0	0	nnnn	nnnn	last	W	1
-1972587	4Q27	Numbers	19	2	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		12	f12	0	1	0	0	nnnn	nnnn	last	W	1
-1973399	4Q27	Numbers	22	10	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	f20_22	0	1	0	0	nnnn	nnnn	last	W	1
-1973489	4Q27	Numbers	22	14	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infc	NA		NA	verb					nnnn	nnnn	הלוך		8	f20_22	0	0	0	0	nnnn	nnnn	last	W	1
-1973522	4Q27	Numbers	22	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	הלוך		10	f20_22	0	1	0	0	nnnn	nnnn	last	W	1
-1973616	4Q27	Numbers	22	20	QR>[	QRW>	QRW>	CCMC	CCMM	qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		14	f20_22	0	1	0	0	nnnn	nnnn	last	W	1
-1975735	4Q27	Numbers	30	3	>SR[	>SWR	>SWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אסור		24	f51_54	0	1	0	0	nnnn	nnnn	last	W	1
-1975912	4Q27	Numbers	31	3	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	f55i_56	0	1	0	0	nnnn	nnnn	last	W	1
-1976847	4Q27	Numbers	32	25	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f65_71	0	1	0	0	nnnn	nnnn	last	W	1
-1978053	4Q27	Numbers	36	5	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		17	f81ii	0	1	0	0	nnnn	nnnn	last	W	1
-1978518	4Q28	Deuteronomy	24	8	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שמר		12	f1	0	1	0	0	nnn	nnn	last		0
-1978843	4Q29	Deuteronomy	30	13	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		17	f1_2i+3	0	1	0	0	nnn	nnn	last		0
-1979129	4Q29	Deuteronomy	31	24	KTB[	KTB	KTB	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	כתב		1	f5_8	0	1	0	0	nnn	nnn	last		0
-1979152	4Q29	Deuteronomy	31	25	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f5_8	0	1	0	0	nnn	nnn	last		0
-1980550	4Q30	Deuteronomy	16	9	SPR[	SPR	SPR	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	ספר		7	f32i+33	0	1	0	0	nnn	nnn	last		0
-1980917	4Q30	Deuteronomy	17	19	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb				L	rnn	nnn	שמר		9	f36_41	0	1	0	0	rnn	nnn	last		0
-1981691	4Q30	Deuteronomy	31	17	>KL[	>KL	>KL	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	אכל		4	f54_55i	0	1	0	0	nnn	nnn	last		0
-1982269	4Q31	Deuteronomy	3	21	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		10	2	0	1	0	0	nnn	nnn	last		0
-1982316	4Q31	Deuteronomy	3	23	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	2	0	1	0	0	nnn	nnn	last		0
-1983339	4Q33	Deuteronomy	8	11	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb					nnn	nnn	שמר		13	f4_6	0	0	0	0	nnn	nnn	last		0
-1984281	4Q33	Deuteronomy	22	17	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	f20_23	0	1	0	0	nnn	nnn	last		0
-1984378	4Q33	Deuteronomy	23	23	NDR[	NDR	NDR	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	נדר		5	f24_25	0	1	0	0	nnn	nnn	last		0
-1984705	4Q33	Deuteronomy	26	18	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		1	f32_35	0	1	0	0	nnn	nnn	last		0
-1984749	4Q33	Deuteronomy	27	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	f32_35	0	1	0	0	nnn	nnn	last		0
-1985015	4Q34	Deuteronomy	9	13	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	rnn	nnn	אמר		2	f1	0	1	0	0	rnn	nnn	last		0
-1985792	4Q35	Deuteronomy	1	6	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f1	0	1	0	0	nnn	nnn	last		0
-1985884	4Q35	Deuteronomy	1	9	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f1	0	1	0	0	nnn	nnn	last		0
-1986476	4Q35	Deuteronomy	2	2	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f5_6	0	1	0	0	nnn	nnn	last		0
-1987714	4Q37	Deuteronomy	5	5	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	1	0	1	0	0	nnnn	nnnn	last	W	1
-1989083	4Q38	Deuteronomy	5	29	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				WL	rnnn	nnnn	שמור		2	f1	0	1	0	0	rnnn	nnnn	last	W	1
-1990742	4Q40	Deuteronomy	3	18	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
-1990989	4Q40	Deuteronomy	7	20	>BD[	>BWD	>BWD	CCMC	CCMC	qal	infc	NA		NA	verb					nnnn	nnnn	אבוד		4	f5	0	0	0	0	nnnn	nnnn	last	W	1
-1991251	4Q41	Deuteronomy	5	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	2	0	1	0	0	nnn	nnn	last		0
-1991446	4Q41	Deuteronomy	5	15	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		4	4	0	1	0	0	nnnn	nnnn	last	W	1
-1991664	4Q41	Deuteronomy	5	25	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		8	5	0	1	0	0	nnnn	nnnn	last	W	1
-1994866	4Q47	Joshua	5	2	>MR[	>MR	>MR	CCC	CCC	qal	infc	NA	m	NA	verb					nnn	nnn	אמר		4	f1_2	0	0	0	0	nnn	nnn	last		0
-1995079	4Q47	Joshua	6	8	>MR[	>MR	>MR	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	אמר		5	f3_8	0	1	0	0	nnn	nnn	last		0
-1995609	4Q47	Joshua	10	3	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	f17_18	0	1	0	0	nnn	nnn	last		0
-1996186	4Q48	Joshua	17	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f5	0	1	0	0	nnn	nnn	last		0
-1996411	4Q49	Judges	6	13	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	f1	0	1	0	0	nnn	nnn	last		0
-1997452	4Q51	1_Samuel	2	19	ZBX[	ZBWX	ZBWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	זבוח		9	3a_e	0	1	0	0	nnnn	nnnn	last	W	1
-1997467	4Q51	1_Samuel	2	20	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA	m	NA	verb				L	nnn	nnn	אמר		10	3a_e	0	1	0	0	nnn	nnn	last		0
-1997863	4Q51	1_Samuel	2	36	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אמור		38	3a_e	0	1	0	0	nnnn	nnnn	last	W	1
-1998309	4Q51	1_Samuel	6	2	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		8	6a_b	0	1	0	0	nnnn	nnnn	last	W	1
-1998680	4Q51	1_Samuel	6	21	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	7a	0	1	0	0	nnnn	nnnn	last	W	1
-1998734	4Q51	1_Samuel	8	7	MLK[	MLK	MLK	CCC	CCC	qal	infc	NA		NA	verb				M	rnn	nnn	מלך		2	7b	0	1	0	0	rnn	nnn	last		0
-2000464	4Q51	1_Samuel	14	33	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		8	f3_5	0	1	0	0	nnnn	nnnn	last	W	1
-2001034	4Q51	1_Samuel	22	11	QR>[	QRW>	QRW>	CCMC	CCMM	qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		2	f20	0	1	0	0	nnnn	nnnn	last	W	1
-2001821	4Q51	1_Samuel	26	11	CLX[	CLX	CLX	CCC	CCC	qal	infc	NA		NA	verb				M	nnn	nnn	שלח		3	f40_41	0	1	0	0	nnn	nnn	last		0
-2002068	4Q51	1_Samuel	27	11	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f43	0	1	0	0	nnn	nnn	last		0
-2002096	4Q51	1_Samuel	27	12	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	f43	0	1	0	0	nnnn	nnnn	last	W	1
-2003734	4Q51	2_Samuel	3	34	NPL[	NPL	NPL	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	נפל		18	f61i+62	0	1	0	0	nnn	nnn	last		0
-2004088	4Q51	2_Samuel	5	1	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		9	f61ii+63_64a_b+65_67	0	1	0	0	nnnn	nnnn	last	W	1
-2004618	4Q51	2_Samuel	6	9	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אמור		11	f68_76	0	1	0	0	nnnn	nnnn	last	W	1
-2005742	4Q51	2_Samuel	11	11	CKB[	CKWB	CKWB	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	שכוב		15	f89_92	0	1	0	0	nnnn	nnnn	last	W	1
-2006810	4Q51	2_Samuel	13	28	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		22	f102ii+103_106i+107_109a_b	0	1	0	0	nnnn	nnnn	last	W	1
-2008233	4Q51	2_Samuel	18	3	<ZR[	<ZR	<ZR	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	עזר		10	f128_132	0	1	0	0	nnn	nnn	last		0
-2008503	4Q51	2_Samuel	18	29	CLX[	CLX	CLX	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שלח		3	f133	0	1	0	0	nnn	nnn	last		0
-2008656	4Q51	2_Samuel	19	10	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	rnnn	nnnn	אמור		8	f134_139	0	1	0	0	rnnn	nnnn	last	W	1
-2011431	4Q52	1_Samuel	19	15	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f5	0	1	0	0	nnn	nnn	last		0
-2011844	4Q52	1_Samuel	20	42	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		13	f6_7	0	1	0	0	nnn	nnn	last		0
-2012404	4Q52	1_Samuel	23	19	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		10	f10_23	0	1	0	0	nnn	nnn	last		0
-2012614	4Q53	2_Samuel	14	10	NG<[	NGW<	NGW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	נגוע		5	f2_5i	0	1	0	0	nnnn	nnnn	last	W	1
-2013214	4Q53	2_Samuel	14	32	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		18	f5ii_7i	0	1	0	0	nnnn	nnnn	last	W	1
-2015324	4Q55	Isaiah	21	1	XLP[	XLP	XLP	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	חלף		23	f10_11i+12_14	0	1	0	0	nnn	nnn	last		0
-2015873	4Q55	Isaiah	23	4	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		29	f11ii+15	0	1	0	0	nnn	nnn	last		0
-2015976	4Q55	Isaiah	23	12	<LZ[	<LWZ	<LWZ	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז		35	f11ii+15	0	1	0	0	nnnn	nnnn	last	W	1
-2016604	4Q56	Isaiah	5	22	MSK[	MSK	MSK	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	מסך		8	f3ii	0	1	0	0	nnn	nnn	last		0
-2016620	4Q56	Isaiah	5	24	>KL[	>KL	>KL	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	אכל		9	f3ii	0	1	0	0	nnn	nnn	last		0
-2017773	4Q56	Isaiah	19	25	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		36	f10_13	0	1	0	0	nnn	nnn	last		0
-2017791	4Q56	Isaiah	20	1	CLX[	CLX	CLX	CCC	CCC	qal	infc	NA		NA	verb				B	nnn	nnn	שלח		38	f10_13	0	1	0	0	nnn	nnn	last		0
-2017815	4Q56	Isaiah	20	2	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		39	f10_13	0	1	0	0	nnn	nnn	last		0
-2019395	4Q56	Isaiah	44	28	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				WL	nnn	nnn	אמר		13	f31ii	0	1	0	0	nnn	nnn	last		0
-2019911	4Q56	Isaiah	61	1	XBC[	XBC	XBC	CCC	CCC	qal	infc	NA		NA	verb				L	rnn	nnn	חבש		2	f40	0	1	0	0	rnn	nnn	last		0
-2020931	4Q57	Isaiah	22	12	XGR[	XGWR	XGWR	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	חגור		26	f9i	0	1	0	0	nnnn	nnnn	last	W	1
-2021052	4Q57	Isaiah	23	12	<LZ[	<LWZ	<LWZ	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז		16	f9ii+11+12i+52	0	1	0	0	nnnn	nnnn	last	W	1
-2023262	4Q57	Isaiah	54	9	G<R[	G<WR	G<WR	CCMC	CCMC	qal	infc	NA		NA	verb				WM	nnnn	nnnn	געור		1	f44_47	0	1	0	0	nnnn	nnnn	last	W	1
-2024939	4Q58	Isaiah	54	9	G<R[	G<R	G<R	CCC	CCC	qal	infc	NA		NA	verb				WM	nnn	nnn	גער		9	9	0	1	0	0	nnn	nnn	last		0
-2026586	4Q60	Isaiah	1	12	RMS[	RMS	RMS	CCC	CCC	qal	infc	NA		NA	verb					nnn	nnn	רמס		4	f1_2	0	0	0	0	nnn	nnn	last		0
-2027324	4Q60	Isaiah	8	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	rnn	nnn	אמר		18	f12ii+14+15	0	1	0	0	rnn	nnn	last		0
-2029208	4Q66	Isaiah	61	1	QR>[	QRW>	QRW>	CCMC	CCMM	qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		5	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
-2031100	4Q70	Jeremiah	13	3	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f21_22i	0	1	0	0	nnn	nnn	last		0
-2034229	4Q72	Jeremiah	27	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f31	0	1	0	0	nnn	nnn	last		0
-2035319	4Q72a	Jeremiah	43	8	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f1	0	1	0	0	nnn	nnn	last		0
-2043121	4Q82	Hosea	12	3	PQD[	PQWD	PQWD	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	פקוד		10	f19b+27_32	0	1	0	0	nnnn	nnnn	last	W	1
-2043192	4Q82	Hosea	12	8	<CQ[	<CQ	<CQ	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	עשק		14	f19b+27_32	0	1	0	0	nnn	nnn	last		0
-2045258	4Q82	Amos	8	11	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		1	f65_68	0	1	0	0	nnnn	nnnn	last	W	1
+1925655	1Q8	Isaiah	59	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		27	25	0	1	0	0	nnnn	nnnn	last	W	1
+1925671	1Q8	Isaiah	59	2	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		28	25	0	1	0	0	nnnn	nnnn	last	W	1
+1925753	1Q8	Isaiah	59	7	CPK[	CPK	CPK			qal	infc	NA		NA	verb				L	nnn	nnn	שפך		34	25	0	1	0	0	nnn	nnn	last		0
+1926224	1Q8	Isaiah	61	1	QR>[	QR>	QR>	C		qal	infc	NA		NA	verb				L	nnn	nnn	קרא		34	26	0	1	0	0	nnn	nnn	last		0
+1928472	1Q13	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f1_18	0	1	0	0	nnn	nnn	last		0
+1933291	2Q15	Job	33	28	<BR[	<BR	<BR			qal	infc	NA		NA	verb				M	nnn	nnn	עבר		1	f1	0	1	0	0	nnn	nnn	last		0
+1933579	2Q16	Ruth	2	23	LQV[	LQWV	LQWV			qal	infc	NA		NA	verb				L	nnnn	nnnn	לקוט		2	f5ii_6i	0	1	0	0	nnnn	nnnn	last	W	1
+1934257	4Q1	Genesis	34	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f4	0	1	0	0	nnn	nnn	last		0
+1935006	4Q1	Genesis	39	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f9	0	1	0	0	nnn	nnn	last		0
+1935056	4Q1	Genesis	39	14	CKB[	CKB	CKB			qal	infc	NA		NA	verb				L	nnn	nnn	שכב		4	f9	0	1	0	0	nnn	nnn	last		0
+1935135	4Q1	Genesis	39	19	CM<[	CM<	CM<			qal	infc	NA		NA	verb				K	nnn	nnn	שמע		8	f9	0	1	0	0	nnn	nnn	last		0
+1936606	4Q1	Exodus	5	7	LBN=[	LBN	LBN			qal	infc	NA		NA	verb				L	nnn	nnn	לבן		6	f22ii+26	0	1	0	0	nnn	nnn	last		0
+1937217	4Q1	Exodus	7	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f33	0	1	0	0	nnn	nnn	last		0
+1937340	4Q1	Exodus	7	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f34_35	0	1	0	0	nnn	nnn	last		0
+1938075	4Q2	Genesis	1	18	MCL[	MCL	MCL			qal	infc	NA		NA	verb				WL	nnn	nnn	משל		21	f1i	0	1	0	0	nnn	nnn	last		0
+1938953	4Q3	Genesis	41	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		17	f1ii	0	1	0	0	nnn	nnn	last		0
+1939077	4Q4	Genesis	1	22	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f1	0	1	0	0	nnn	nnn	last		0
+1940573	4Q7	Genesis	1	18	MCL[	MCWL	MCWL			qal	infc	NA		NA	verb				WL	nnnn	nnnn	משול		7	f2	0	1	0	0	nnnn	nnnn	last	W	1
+1942933	4Q11	Exodus	12	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		16	f7ii	0	1	0	0	nnn	nnn	last		0
+1944108	4Q11	Exodus	17	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f19	0	1	0	0	nnn	nnn	last		0
+1944360	4Q11	Exodus	18	23	<MD[	<MD	<MD			qal	infc	NA		NA	verb					nnn	nnn	עמד		12	f20	0	0	0	0	nnn	nnn	last		0
+1944504	4Q11	Exodus	23	5	<ZB[	<ZB	<ZB			qal	infc	NA		NA	verb				M	nnn	nnn	עזב		3	f23	0	1	0	0	nnn	nnn	last		0
+1946018	4Q13	Exodus	2	5	RXY[	RXWY	RXWY			qal	infc	NA		NA	verb				L	nnnn	nnnn	רחוץ		3	f3i_4	0	1	0	0	nnnn	nnnn	last	W	1
+1946284	4Q13	Exodus	2	15	HRG[	HRWG	HRWG			qal	infc	NA		NA	verb				L	nnnn	nnnn	הרוג		17	f3i_4	0	1	0	0	nnnn	nnnn	last	W	1
+1946456	4Q13	Exodus	3	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	f3ii+5_6i	0	1	0	0	nnnn	nnnn	last	W	1
+1946837	4Q13	Exodus	5	6	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
+1946847	4Q13	Exodus	5	7	LBN=[	LBWN	LBWN			qal	infc	NA		NA	verb				L	nnnn	nnnn	לבון		5	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
+1946886	4Q13	Exodus	5	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
+1946922	4Q13	Exodus	5	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		9	f6ii	0	1	0	0	nnnn	nnnn	last	W	1
+1952415	4Q22	Exodus	6	29	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	1	0	1	0	0	nnnn	nnnn	last	W	1
+1952582	4Q22	Exodus	7	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		20	1	0	1	0	0	nnnn	nnnn	last	W	1
+1953102	4Q22	Exodus	8	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		29	3	0	1	0	0	nnnn	nnnn	last	W	1
+1953460	4Q22	Exodus	9	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	5	0	1	0	0	nnnn	nnnn	last	W	1
+1956184	4Q22	Exodus	18	12	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		19	18	0	1	0	0	nnnn	nnnn	last	W	1
+1956770	4Q22	Exodus	19	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		9	20	0	1	0	0	nnnn	nnnn	last	W	1
+1959959	4Q22	Exodus	30	17	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		31	35	0	1	0	0	nnnn	nnnn	last	W	1
+1960420	4Q22	Exodus	32	7	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rnnn	nnnn	אמור		27	37	0	1	0	0	rnnn	nnnn	last	W	1
+1961870	4Q23	Leviticus	14	33	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	f2_3	0	1	0	0	nnn	nnn	last		0
+1963741	4Q23	Numbers	3	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	f31_32i+33	0	1	0	0	nnn	nnn	last		0
+1963905	4Q23	Numbers	3	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		16	f31_32i+33	0	1	0	0	nnn	nnn	last		0
+1963998	4Q23	Numbers	4	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f32ii+34i_43	0	1	0	0	nnn	nnn	last		0
+1964054	4Q23	Numbers	4	5	NS<[	NS<	NS<			qal	infc	NA		NA	verb				B	nnn	nnn	נסע		9	f32ii+34i_43	0	1	0	0	nnn	nnn	last		0
+1964404	4Q23	Numbers	5	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר		16	f34ii+44_50	0	1	0	0	rnn	nnn	last		0
+1964664	4Q23	Numbers	8	11	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	nnn	nnn	עבד		5	f51	0	1	0	0	nnn	nnn	last		0
+1965246	4Q23	Numbers	11	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f58_59	0	1	0	0	nnn	nnn	last		0
+1965709	4Q23	Numbers	32	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	f68i	0	1	0	0	nnn	nnn	last		0
+1967816	4Q24	Leviticus	22	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		25	f9i+10_17	0	1	0	0	nnn	nnn	last		0
+1968828	4Q24	Leviticus	24	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		18	f20ii+22_25	0	1	0	0	nnn	nnn	last		0
+1969242	4Q25	Leviticus	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1i	0	1	0	0	nnn	nnn	last		0
+1969399	4Q25	Leviticus	4	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f2	0	1	0	0	nnn	nnn	last		0
+1969901	4Q26	Leviticus	14	33	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	f2	0	1	0	0	nnnn	nnnn	last	W	1
+1971033	4Q26a	Leviticus	22	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f9	0	1	0	0	nnn	nnn	last		0
+1971138	4Q26b	Leviticus	7	23	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f1	0	1	0	0	nnnn	nnnn	last	W	1
+1972577	4Q27	Numbers	19	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f12	0	1	0	0	nnnn	nnnn	last	W	1
+1972587	4Q27	Numbers	19	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		12	f12	0	1	0	0	nnnn	nnnn	last	W	1
+1973399	4Q27	Numbers	22	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	f20_22	0	1	0	0	nnnn	nnnn	last	W	1
+1973489	4Q27	Numbers	22	14	HLK[	HLWK	HLWK			qal	infc	NA		NA	verb					nnnn	nnnn	הלוך		8	f20_22	0	0	0	0	nnnn	nnnn	last	W	1
+1973522	4Q27	Numbers	22	16	HLK[	HLWK	HLWK			qal	infc	NA		NA	verb				M	nnnn	nnnn	הלוך		10	f20_22	0	1	0	0	nnnn	nnnn	last	W	1
+1973616	4Q27	Numbers	22	20	QR>[	QRW>	QRW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		14	f20_22	0	1	0	0	nnnn	nnnn	last	W	1
+1975735	4Q27	Numbers	30	3	>SR[	>SWR	>SWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אסור		24	f51_54	0	1	0	0	nnnn	nnnn	last	W	1
+1975912	4Q27	Numbers	31	3	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	f55i_56	0	1	0	0	nnnn	nnnn	last	W	1
+1976847	4Q27	Numbers	32	25	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f65_71	0	1	0	0	nnnn	nnnn	last	W	1
+1978053	4Q27	Numbers	36	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		17	f81ii	0	1	0	0	nnnn	nnnn	last	W	1
+1978518	4Q28	Deuteronomy	24	8	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	nnn	nnn	שמר		12	f1	0	1	0	0	nnn	nnn	last		0
+1978843	4Q29	Deuteronomy	30	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		17	f1_2i+3	0	1	0	0	nnn	nnn	last		0
+1979129	4Q29	Deuteronomy	31	24	KTB[	KTB	KTB			qal	infc	NA		NA	verb				L	nnn	nnn	כתב		1	f5_8	0	1	0	0	nnn	nnn	last		0
+1979152	4Q29	Deuteronomy	31	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f5_8	0	1	0	0	nnn	nnn	last		0
+1980550	4Q30	Deuteronomy	16	9	SPR[	SPR	SPR			qal	infc	NA		NA	verb				L	nnn	nnn	ספר		7	f32i+33	0	1	0	0	nnn	nnn	last		0
+1980917	4Q30	Deuteronomy	17	19	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rnn	nnn	שמר		9	f36_41	0	1	0	0	rnn	nnn	last		0
+1981691	4Q30	Deuteronomy	31	17	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	nnn	nnn	אכל		4	f54_55i	0	1	0	0	nnn	nnn	last		0
+1982269	4Q31	Deuteronomy	3	21	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		10	2	0	1	0	0	nnn	nnn	last		0
+1982316	4Q31	Deuteronomy	3	23	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	2	0	1	0	0	nnn	nnn	last		0
+1983339	4Q33	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					nnn	nnn	שמר		13	f4_6	0	0	0	0	nnn	nnn	last		0
+1984281	4Q33	Deuteronomy	22	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	f20_23	0	1	0	0	nnn	nnn	last		0
+1984378	4Q33	Deuteronomy	23	23	NDR[	NDR	NDR			qal	infc	NA		NA	verb				L	nnn	nnn	נדר		5	f24_25	0	1	0	0	nnn	nnn	last		0
+1984705	4Q33	Deuteronomy	26	18	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		1	f32_35	0	1	0	0	nnn	nnn	last		0
+1984749	4Q33	Deuteronomy	27	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	f32_35	0	1	0	0	nnn	nnn	last		0
+1985015	4Q34	Deuteronomy	9	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר		2	f1	0	1	0	0	rnn	nnn	last		0
+1985792	4Q35	Deuteronomy	1	6	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f1	0	1	0	0	nnn	nnn	last		0
+1985884	4Q35	Deuteronomy	1	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f1	0	1	0	0	nnn	nnn	last		0
+1986476	4Q35	Deuteronomy	2	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f5_6	0	1	0	0	nnn	nnn	last		0
+1987714	4Q37	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	1	0	1	0	0	nnnn	nnnn	last	W	1
+1989083	4Q38	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	rnnn	nnnn	שמור		2	f1	0	1	0	0	rnnn	nnnn	last	W	1
+1990742	4Q40	Deuteronomy	3	18	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
+1990989	4Q40	Deuteronomy	7	20	>BD[	>BWD	>BWD			qal	infc	NA		NA	verb					nnnn	nnnn	אבוד		4	f5	0	0	0	0	nnnn	nnnn	last	W	1
+1991251	4Q41	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	2	0	1	0	0	nnn	nnn	last		0
+1991446	4Q41	Deuteronomy	5	15	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		4	4	0	1	0	0	nnnn	nnnn	last	W	1
+1991664	4Q41	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		8	5	0	1	0	0	nnnn	nnnn	last	W	1
+1994866	4Q47	Joshua	5	2	>MR[	>MR	>MR			qal	infc	NA	m	NA	verb					nnn	nnn	אמר		4	f1_2	0	0	0	0	nnn	nnn	last		0
+1995079	4Q47	Joshua	6	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				K	nnn	nnn	אמר		5	f3_8	0	1	0	0	nnn	nnn	last		0
+1995609	4Q47	Joshua	10	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	f17_18	0	1	0	0	nnn	nnn	last		0
+1996186	4Q48	Joshua	17	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f5	0	1	0	0	nnn	nnn	last		0
+1996411	4Q49	Judges	6	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	f1	0	1	0	0	nnn	nnn	last		0
+1997452	4Q51	1_Samuel	2	19	ZBX[	ZBWX	ZBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	זבוח		9	3a_e	0	1	0	0	nnnn	nnnn	last	W	1
+1997467	4Q51	1_Samuel	2	20	>MR[	>MR	>MR			qal	infc	NA	m	NA	verb				L	nnn	nnn	אמר		10	3a_e	0	1	0	0	nnn	nnn	last		0
+1997863	4Q51	1_Samuel	2	36	>MR[	>MWR	>MWR			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אמור		38	3a_e	0	1	0	0	nnnn	nnnn	last	W	1
+1998309	4Q51	1_Samuel	6	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		8	6a_b	0	1	0	0	nnnn	nnnn	last	W	1
+1998680	4Q51	1_Samuel	6	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		2	7a	0	1	0	0	nnnn	nnnn	last	W	1
+1998734	4Q51	1_Samuel	8	7	MLK[	MLK	MLK			qal	infc	NA		NA	verb				M	rnn	nnn	מלך		2	7b	0	1	0	0	rnn	nnn	last		0
+2000464	4Q51	1_Samuel	14	33	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		8	f3_5	0	1	0	0	nnnn	nnnn	last	W	1
+2001034	4Q51	1_Samuel	22	11	QR>[	QRW>	QRW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		2	f20	0	1	0	0	nnnn	nnnn	last	W	1
+2001821	4Q51	1_Samuel	26	11	CLX[	CLX	CLX			qal	infc	NA		NA	verb				M	nnn	nnn	שלח		3	f40_41	0	1	0	0	nnn	nnn	last		0
+2002068	4Q51	1_Samuel	27	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f43	0	1	0	0	nnn	nnn	last		0
+2002096	4Q51	1_Samuel	27	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	f43	0	1	0	0	nnnn	nnnn	last	W	1
+2003734	4Q51	2_Samuel	3	34	NPL[	NPL	NPL			qal	infc	NA		NA	verb				K	nnn	nnn	נפל		18	f61i+62	0	1	0	0	nnn	nnn	last		0
+2004088	4Q51	2_Samuel	5	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		9	f61ii+63_64a_b+65_67	0	1	0	0	nnnn	nnnn	last	W	1
+2004618	4Q51	2_Samuel	6	9	>MR[	>MWR	>MWR			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אמור		11	f68_76	0	1	0	0	nnnn	nnnn	last	W	1
+2005742	4Q51	2_Samuel	11	11	CKB[	CKWB	CKWB			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שכוב		15	f89_92	0	1	0	0	nnnn	nnnn	last	W	1
+2006810	4Q51	2_Samuel	13	28	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		22	f102ii+103_106i+107_109a_b	0	1	0	0	nnnn	nnnn	last	W	1
+2008233	4Q51	2_Samuel	18	3	<ZR[	<ZR	<ZR			qal	infc	NA		NA	verb				L	nnn	nnn	עזר		10	f128_132	0	1	0	0	nnn	nnn	last		0
+2008503	4Q51	2_Samuel	18	29	CLX[	CLX	CLX			qal	infc	NA		NA	verb				L	nnn	nnn	שלח		3	f133	0	1	0	0	nnn	nnn	last		0
+2008656	4Q51	2_Samuel	19	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rnnn	nnnn	אמור		8	f134_139	0	1	0	0	rnnn	nnnn	last	W	1
+2011431	4Q52	1_Samuel	19	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f5	0	1	0	0	nnn	nnn	last		0
+2011844	4Q52	1_Samuel	20	42	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		13	f6_7	0	1	0	0	nnn	nnn	last		0
+2012404	4Q52	1_Samuel	23	19	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		10	f10_23	0	1	0	0	nnn	nnn	last		0
+2012614	4Q53	2_Samuel	14	10	NG<[	NGW<	NGW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	נגוע		5	f2_5i	0	1	0	0	nnnn	nnnn	last	W	1
+2013214	4Q53	2_Samuel	14	32	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		18	f5ii_7i	0	1	0	0	nnnn	nnnn	last	W	1
+2015324	4Q55	Isaiah	21	1	XLP[	XLP	XLP			qal	infc	NA		NA	verb				L	nnn	nnn	חלף		23	f10_11i+12_14	0	1	0	0	nnn	nnn	last		0
+2015873	4Q55	Isaiah	23	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		29	f11ii+15	0	1	0	0	nnn	nnn	last		0
+2015976	4Q55	Isaiah	23	12	<LZ[	<LWZ	<LWZ			qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז		35	f11ii+15	0	1	0	0	nnnn	nnnn	last	W	1
+2016604	4Q56	Isaiah	5	22	MSK[	MSK	MSK			qal	infc	NA		NA	verb				L	nnn	nnn	מסך		8	f3ii	0	1	0	0	nnn	nnn	last		0
+2016620	4Q56	Isaiah	5	24	>KL[	>KL	>KL			qal	infc	NA		NA	verb				K	nnn	nnn	אכל		9	f3ii	0	1	0	0	nnn	nnn	last		0
+2017773	4Q56	Isaiah	19	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		36	f10_13	0	1	0	0	nnn	nnn	last		0
+2017791	4Q56	Isaiah	20	1	CLX[	CLX	CLX			qal	infc	NA		NA	verb				B	nnn	nnn	שלח		38	f10_13	0	1	0	0	nnn	nnn	last		0
+2017815	4Q56	Isaiah	20	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		39	f10_13	0	1	0	0	nnn	nnn	last		0
+2019395	4Q56	Isaiah	44	28	>MR[	>MR	>MR			qal	infc	NA		NA	verb				WL	nnn	nnn	אמר		13	f31ii	0	1	0	0	nnn	nnn	last		0
+2019911	4Q56	Isaiah	61	1	XBC[	XBC	XBC			qal	infc	NA		NA	verb				L	rnn	nnn	חבש		2	f40	0	1	0	0	rnn	nnn	last		0
+2020931	4Q57	Isaiah	22	12	XGR[	XGWR	XGWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חגור		26	f9i	0	1	0	0	nnnn	nnnn	last	W	1
+2021052	4Q57	Isaiah	23	12	<LZ[	<LWZ	<LWZ			qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז		16	f9ii+11+12i+52	0	1	0	0	nnnn	nnnn	last	W	1
+2023262	4Q57	Isaiah	54	9	G<R[	G<WR	G<WR			qal	infc	NA		NA	verb				WM	nnnn	nnnn	געור		1	f44_47	0	1	0	0	nnnn	nnnn	last	W	1
+2024939	4Q58	Isaiah	54	9	G<R[	G<R	G<R			qal	infc	NA		NA	verb				WM	nnn	nnn	גער		9	9	0	1	0	0	nnn	nnn	last		0
+2026586	4Q60	Isaiah	1	12	RMS[	RMS	RMS			qal	infc	NA		NA	verb					nnn	nnn	רמס		4	f1_2	0	0	0	0	nnn	nnn	last		0
+2027324	4Q60	Isaiah	8	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר		18	f12ii+14+15	0	1	0	0	rnn	nnn	last		0
+2029208	4Q66	Isaiah	61	1	QR>[	QRW>	QRW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		5	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
+2029339	4Q67	Isaiah	58	13	MY>[	MY	MY			qal	infc	NA		NA	verb				ML	nn	nn	מץ		4	f1	0	1	0	0	nn	nn	last		0
+2031100	4Q70	Jeremiah	13	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f21_22i	0	1	0	0	nnn	nnn	last		0
+2034229	4Q72	Jeremiah	27	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f31	0	1	0	0	nnn	nnn	last		0
+2035319	4Q72a	Jeremiah	43	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f1	0	1	0	0	nnn	nnn	last		0
+2043121	4Q82	Hosea	12	3	PQD[	PQWD	PQWD			qal	infc	NA		NA	verb				WL	nnnn	nnnn	פקוד		10	f19b+27_32	0	1	0	0	nnnn	nnnn	last	W	1
+2043192	4Q82	Hosea	12	8	<CQ[	<CQ	<CQ			qal	infc	NA		NA	verb				L	nnn	nnn	עשק		14	f19b+27_32	0	1	0	0	nnn	nnn	last		0
+2045258	4Q82	Amos	8	11	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		1	f65_68	0	1	0	0	nnnn	nnnn	last	W	1
 2047430	4Q83	Psalms	36	3	MY>[	MYW>	MYW>	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	מצוא		4	f4ii	0	1	0	0	nnnn	nnnn	last	W	1
-2047799	4Q83	Psalms	71	11	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f9ii	0	1	0	0	nnnn	nnnn	last	W	1
-2048549	4Q84	Psalms	92	8	PRX[	PRX	PRX	CCC	CCC	qal	infc	NA		NA	verb				B	nnn	nnn	פרח		16	f1iii+5i	0	1	0	0	nnn	nnn	last		0
-2048982	4Q84	Psalms	102	21	CM<[	CM<	CM<	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שמע		7	f15ii+18ii+19	0	1	0	0	nnn	nnn	last		0
-2049008	4Q84	Psalms	102	23	<BD[	<BD	<BD	CCC	CCC	qal	infc	NA		NA	verb				L	rnn	nnn	עבד		12	f15ii+18ii+19	0	1	0	0	rnn	nnn	last		0
-2049173	4Q84	Psalms	103	12	RXQ[	RXQ	RXQ	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	רחק		1	f15v+25i	0	1	0	0	nnn	nnn	last		0
-2049206	4Q84	Psalms	103	20	CM<[	CM<	CM<	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שמע		3	f25ii	0	1	0	0	nnn	nnn	last		0
-2049357	4Q84	Psalms	118	8	BVX[	BVX	BVX	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	בטח		14	f28ii_30i+31	0	1	0	0	nnn	nnn	last		0
-2049361	4Q84	Psalms	118	8	BVX[	BVX	BVX	CCC	CCC	qal	infc	NA		NA	verb				M	nnn	nnn	בטח		14	f28ii_30i+31	0	1	0	0	nnn	nnn	last		0
-2049371	4Q84	Psalms	118	9	BVX[	BVX	BVX	CCC	CCC	qal	infc	NA		NA	verb				M	nnn	nnn	בטח		15	f28ii_30i+31	0	1	0	0	nnn	nnn	last		0
-2055682	4Q104	Ruth	1	1	CPV[	CPV	CPV	CCC	CCC	qal	infc	NA		NA	verb					nnn	nnn	שפט		1	f1	0	0	0	0	nnn	nnn	last		0
-2057159	4Q109	Ecclesiastes	7	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		18	f1ii+3_6i	0	1	0	0	nnnn	nnnn	last	W	1
-2057164	4Q109	Ecclesiastes	7	5	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA	m	NA	verb				ML	nnnn	nnnn	שמוע		19	f1ii+3_6i	0	1	0	0	nnnn	nnnn	last	W	1
-2057287	4Q110	Ecclesiastes	1	8	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		2	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
-2057362	4Q110	Ecclesiastes	1	13	DRC[	DRWC	DRWC	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	דרוש		7	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
-2057574	4Q111	Lamentations	1	7	NPL[	NPL	NPL	CCC	CCC	qal	infc	NA		NA	verb				B	nnn	nnn	נפל		3	2	0	1	0	0	nnn	nnn	last		0
-2057737	4Q111	Lamentations	1	15	CBR[	CBWR	CBWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שבור		7	3	0	1	0	0	nnnn	nnnn	last	W	1
-2057770	4Q111	Lamentations	1	17	NDX[	NDWX	NDWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	נדוח		9	3	0	1	0	0	nnnn	nnnn	last	W	1
-2059651	4Q112	Daniel	11	15	<MD[	<MD	<MD	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	עמד		18	f16	0	1	0	0	nnn	nnn	last		0
-2061366	4Q114	Daniel	11	15	<MD[	<MD	<MD	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	עמד		14	3	0	1	0	0	nnn	nnn	last		0
-2064738	4Q129	Deuteronomy	5	29	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור		16	f1R	0	1	0	0	nnnn	nnnn	last	W	1
-2065015	4Q129	Exodus	13	14	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		5	f1Va	0	1	0	0	nnnn	nnnn	last	W	1
-2065230	4Q130	Exodus	13	8	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2065351	4Q130	Exodus	13	14	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2065976	4Q133	Exodus	13	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f1	0	1	0	0	nnn	nnn	last		0
-2066179	4Q134	Deuteronomy	5	5	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2066585	4Q135	Deuteronomy	5	25	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		4	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2066675	4Q135	Deuteronomy	5	29	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		7	f1	0	1	0	0	nnn	nnn	last		0
-2067622	4Q137	Deuteronomy	5	5	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2067999	4Q137	Deuteronomy	5	25	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		31	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2068105	4Q137	Deuteronomy	5	29	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור		54	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2068251	4Q138	Deuteronomy	10	12	<BD[	<BWD	<BWD	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	עבוד		1	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2069393	4Q140	Exodus	13	8	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		16	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2069504	4Q140	Deuteronomy	6	2	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור		25	f1	0	1	0	0	nnnn	nnnn	last	W	1
-2070554	4Q145	Exodus	13	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1R	0	1	0	0	nnn	nnn	last		0
-2070704	4Q145	Exodus	13	8	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f1V	0	1	0	0	nnnn	nnnn	last	W	1
-2071834	4Q155	Exodus	13	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f1	0	1	0	0	nnn	nnn	last		0
-2072354	5Q1	Deuteronomy	8	11	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb					nnn	nnn	שמר		5	2	0	0	0	0	nnn	nnn	last		0
-2074560	6Q4	2_Kings	8	4	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f15	0	1	0	0	nnnn	nnnn	last	W	1
-2076225	8Q3	Exodus	13	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1_11i	0	1	0	0	nnn	nnn	last		0
-2076921	8Q3	Deuteronomy	6	2	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		11	f12_16	0	1	0	0	nnnn	nnnn	last	W	1
-2077055	8Q3	Deuteronomy	10	12	<BD[	<BD	<BD	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	עבד		4	f17_25	0	1	0	0	nnn	nnn	last		0
-2077068	8Q3	Deuteronomy	10	13	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		5	f17_25	0	1	0	0	nnnn	nnnn	last	W	1
-2077384	8Q3	Deuteronomy	5	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		19	f17_25	0	1	0	0	nnn	nnn	last		0
-2079859	11Q1	Leviticus	17	2	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	rnn	nnn	אמר		4	fH	0	1	0	0	rnn	nnn	last		0
-2080051	11Q1	Leviticus	19	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	fI	0	1	0	0	nnn	nnn	last		0
-2080091	11Q1	Leviticus	20	1	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	fJ	0	1	0	0	nnnn	nnnn	last	W	1
-2080326	11Q1	Leviticus	21	10	LBC[	LBC	LBC	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	לבש		8	fK_Li	0	1	0	0	nnn	nnn	last		0
-2080487	11Q1	Leviticus	22	26	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	1+Lii	0	1	0	0	nnn	nnn	last		0
-2080524	11Q1	Leviticus	23	23	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	2	0	1	0	0	nnn	nnn	last		0
-2080531	11Q1	Leviticus	23	24	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	2	0	1	0	0	nnn	nnn	last		0
-2080567	11Q1	Leviticus	23	26	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	2	0	1	0	0	nnn	nnn	last		0
-2080721	11Q1	Leviticus	24	12	PRC[	PRC	PRC	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	פרש		8	3	0	1	0	0	nnn	nnn	last		0
-2080733	11Q1	Leviticus	24	13	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	3	0	1	0	0	nnn	nnn	last		0
-2080989	11Q1	Leviticus	26	21	CM<[	CM<	CM<	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שמע		4	5	0	1	0	0	nnn	nnn	last		0
-2082994	11Q5	Psalms	105	11	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		16	fEiii	0	1	0	0	nnnn	nnnn	last	W	1
-2083012	11Q5	Psalms	105	25	FN>[	FNW>	FNW>	CCMC	CCMM	qal	infc	NA		NA	verb				L	nnnn	nnnn	שנוא		1	1	0	1	0	0	nnnn	nnnn	last	W	1
-2084348	11Q5	Psalms	119	60	CMR[	CMWR	CMWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		2	9	0	1	0	0	nnnn	nnnn	last	W	1
-2084473	11Q5	Psalms	119	82	>MR[	>MWR	>MWR	MCMC	MCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	10	0	1	0	0	nnnn	nnnn	last	W	1
-2085430	11Q5	Psalms	118	8	BVX[	BVWX	BVWX	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	בטוח		3	16	0	1	0	0	nnnn	nnnn	last	W	1
-2085434	11Q5	Psalms	118	8	BVX[	BVWX	BVWX	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	בטוח		4	16	0	1	0	0	nnnn	nnnn	last	W	1
-2085454	11Q5	Psalms	118	9	BVX[	BVWX	BVWX	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	בטוח		5	16	0	1	0	0	nnnn	nnnn	last	W	1
-2086539	11Q5	Psalms	149	8	>SR[	>SWR	>SWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אסור		1	26	0	1	0	0	nnnn	nnnn	last	W	1
-2087371	11Q7	Psalms	17	12	VRP[	VRWP	VRWP	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	טרוף		3	f8	0	1	0	0	nnnn	nnnn	last	W	1
-2088654	Xq1	Exodus	13	1	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	1	0	1	0	0	nnnn	nnnn	last	W	1
-2088803	Xq1	Exodus	13	8	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		15	1	0	1	0	0	nnn	nnn	last		0
-2088882	Xq1	Deuteronomy	10	12	<BD[	<BD	<BD	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	עבד		19	1	0	1	0	0	nnn	nnn	last		0
-2088897	Xq1	Deuteronomy	10	13	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		20	1	0	1	0	0	nnn	nnn	last		0
-2089130	Xq2	Deuteronomy	5	25	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		6	1	0	1	0	0	nnnn	nnnn	last	W	1
-2089224	Xq2	Deuteronomy	5	29	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		12	1	0	1	0	0	nnn	nnn	last		0
-2089352	Xq2	Deuteronomy	6	2	CMR[	CMR	CMR	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שמר		19	1	0	1	0	0	nnn	nnn	last		0
-2089593	Xq3	Deuteronomy	5	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	rnn	nnn	אמר		13	1	0	1	0	0	rnn	nnn	last		0
-2089924	Xq3	Exodus	13	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		33	1	0	1	0	0	nnn	nnn	last		0
-2090018	Mur1	Genesis	32	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f1i	0	1	0	0	nnn	nnn	last		0
-2090155	Mur1	Genesis	34	7	CKB[	CKB	CKB	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שכב		7	f2ii	0	1	0	0	nnn	nnn	last		0
-2090974	Mur4	Exodus	13	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f1	0	1	0	0	nnn	nnn	last		0
-2091123	Mur4	Exodus	13	8	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		31	f1	0	1	0	0	nnn	nnn	last		0
-2091243	Mur4	Exodus	13	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		55	f1	0	1	0	0	nnn	nnn	last		0
-2092006	Mur88	Joel	4	12	CPV[	CPV	CPV	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שפט		35	2	0	1	0	0	nnn	nnn	last		0
-2092639	Mur88	Amos	8	5	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		30	7	0	1	0	0	nnn	nnn	last		0
-2092715	Mur88	Amos	8	11	CM<[	CM<	CM<	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שמע		1	8	0	1	0	0	nnn	nnn	last		0
-2093549	Mur88	Obadiah	1	21	CPV[	CPV	CPV	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	שפט		34	9	0	1	0	0	nnn	nnn	last		0
-2093569	Mur88	Jonah	1	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	10	0	1	0	0	nnn	nnn	last		0
-2093952	Mur88	Jonah	2	1	BL<[	BL<	BL<	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	בלע		26	10	0	1	0	0	nnn	nnn	last		0
-2094112	Mur88	Jonah	3	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		39	10	0	1	0	0	nnn	nnn	last		0
-2094231	Mur88	Jonah	3	7	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	11	0	1	0	0	nnn	nnn	last		0
-2094355	Mur88	Jonah	4	2	BRX[	BRX	BRX	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	ברח		14	11	0	1	0	0	nnn	nnn	last		0
-2094480	Mur88	Jonah	4	8	ZRX[	ZRX	ZRX	CCC	CCC	qal	infc	NA		NA	verb				K	nnn	nnn	זרח		23	11	0	1	0	0	nnn	nnn	last		0
-2095241	Mur88	Micah	3	6	QSM[	QSM	QSM	CCC	CCC	qal	infc	NA		NA	verb				M	nnn	nnn	קסם		5	13	0	1	0	0	nnn	nnn	last		0
-2096132	Mur88	Micah	7	1	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		16	15	0	1	0	0	nnnn	nnnn	last	W	1
-2097350	Mur88	Habakkuk	1	8	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		7	18	0	1	0	0	nnnn	nnnn	last	W	1
-2098599	Mur88	Zephaniah	3	8	>SP[	>SP	>SP	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	אסף		1	21	0	1	0	0	nnn	nnn	last		0
-2098629	Mur88	Zephaniah	3	9	QR>[	QR>	QR>	CCC	CCM	qal	infc	NA		NA	verb				L	nnn	nnn	קרא		3	21	0	1	0	0	nnn	nnn	last		0
-2098893	Mur88	Haggai	1	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		25	21	0	1	0	0	nnn	nnn	last		0
-2099135	Mur88	Haggai	1	13	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	22	0	1	0	0	nnn	nnn	last		0
-2099212	Mur88	Haggai	2	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		16	22	0	1	0	0	nnn	nnn	last		0
-2099615	Mur88	Haggai	2	21	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		24	23	0	1	0	0	nnn	nnn	last		0
-2099697	Mur88	Zechariah	1	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		36	23	0	1	0	0	nnn	nnn	last		0
-2100300	5/6hev1a	Numbers	20	7	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f3	0	1	0	0	nnn	nnn	last		0
-2100657	5/6hev1b	Psalms	10	9	XVP[	XVP	XVP	CCC	CCC	qal	infc	NA		NA	verb				L	nnn	nnn	חטף		4	f1iii+2	0	1	0	0	nnn	nnn	last		0
-2102013	Xhev/se2	Numbers	27	8	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		33	1	0	1	0	0	nnn	nnn	last		0
-2102318	Xhev/se5	Exodus	13	1	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1	0	1	0	0	nnn	nnn	last		0
-2102584	Xhev/se5	Exodus	13	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	f1	0	1	0	0	nnn	nnn	last		0
-2103079	34Se1	Exodus	13	8	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f1	0	1	0	0	nnn	nnn	last		0
-2103199	34Se1	Exodus	13	14	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f2	0	1	0	0	nnn	nnn	last		0
-2103647	Mas1b	Leviticus	9	3	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	1	0	1	0	0	nnn	nnn	last		0
-2104230	Mas1b	Leviticus	10	16	>MR[	>MR	>MR	MCC	MCC	qal	infc	NA		NA	verb				L	nnn	nnn	אמר		20	3	0	1	0	0	nnn	nnn	last		0
+2047799	4Q83	Psalms	71	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f9ii	0	1	0	0	nnnn	nnnn	last	W	1
+2048549	4Q84	Psalms	92	8	PRX[	PRX	PRX			qal	infc	NA		NA	verb				B	nnn	nnn	פרח		16	f1iii+5i	0	1	0	0	nnn	nnn	last		0
+2048982	4Q84	Psalms	102	21	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע		7	f15ii+18ii+19	0	1	0	0	nnn	nnn	last		0
+2049008	4Q84	Psalms	102	23	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rnn	nnn	עבד		12	f15ii+18ii+19	0	1	0	0	rnn	nnn	last		0
+2049173	4Q84	Psalms	103	12	RXQ[	RXQ	RXQ			qal	infc	NA		NA	verb				K	nnn	nnn	רחק		1	f15v+25i	0	1	0	0	nnn	nnn	last		0
+2049206	4Q84	Psalms	103	20	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע		3	f25ii	0	1	0	0	nnn	nnn	last		0
+2049357	4Q84	Psalms	118	8	BVX[	BVX	BVX			qal	infc	NA		NA	verb				L	nnn	nnn	בטח		14	f28ii_30i+31	0	1	0	0	nnn	nnn	last		0
+2049361	4Q84	Psalms	118	8	BVX[	BVX	BVX			qal	infc	NA		NA	verb				M	nnn	nnn	בטח		14	f28ii_30i+31	0	1	0	0	nnn	nnn	last		0
+2049371	4Q84	Psalms	118	9	BVX[	BVX	BVX			qal	infc	NA		NA	verb				M	nnn	nnn	בטח		15	f28ii_30i+31	0	1	0	0	nnn	nnn	last		0
+2055682	4Q104	Ruth	1	1	CPV[	CPV	CPV			qal	infc	NA		NA	verb					nnn	nnn	שפט		1	f1	0	0	0	0	nnn	nnn	last		0
+2057159	4Q109	Ecclesiastes	7	5	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		18	f1ii+3_6i	0	1	0	0	nnnn	nnnn	last	W	1
+2057164	4Q109	Ecclesiastes	7	5	CM<[	CMW<	CMW<			qal	infc	NA	m	NA	verb				ML	nnnn	nnnn	שמוע		19	f1ii+3_6i	0	1	0	0	nnnn	nnnn	last	W	1
+2057287	4Q110	Ecclesiastes	1	8	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		2	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
+2057362	4Q110	Ecclesiastes	1	13	DRC[	DRWC	DRWC			qal	infc	NA		NA	verb				L	nnnn	nnnn	דרוש		7	f1_3	0	1	0	0	nnnn	nnnn	last	W	1
+2057574	4Q111	Lamentations	1	7	NPL[	NPL	NPL			qal	infc	NA		NA	verb				B	nnn	nnn	נפל		3	2	0	1	0	0	nnn	nnn	last		0
+2057737	4Q111	Lamentations	1	15	CBR[	CBWR	CBWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שבור		7	3	0	1	0	0	nnnn	nnnn	last	W	1
+2057770	4Q111	Lamentations	1	17	NDX[	NDWX	NDWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	נדוח		9	3	0	1	0	0	nnnn	nnnn	last	W	1
+2059651	4Q112	Daniel	11	15	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	nnn	nnn	עמד		18	f16	0	1	0	0	nnn	nnn	last		0
+2061366	4Q114	Daniel	11	15	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	nnn	nnn	עמד		14	3	0	1	0	0	nnn	nnn	last		0
+2064738	4Q129	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור		16	f1R	0	1	0	0	nnnn	nnnn	last	W	1
+2065015	4Q129	Exodus	13	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		5	f1Va	0	1	0	0	nnnn	nnnn	last	W	1
+2065230	4Q130	Exodus	13	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2065351	4Q130	Exodus	13	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2065976	4Q133	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f1	0	1	0	0	nnn	nnn	last		0
+2066179	4Q134	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2066585	4Q135	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		4	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2066675	4Q135	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		7	f1	0	1	0	0	nnn	nnn	last		0
+2067622	4Q137	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		13	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2067999	4Q137	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		31	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2068105	4Q137	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור		54	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2068251	4Q138	Deuteronomy	10	12	<BD[	<BWD	<BWD			qal	infc	NA		NA	verb				WL	nnnn	nnnn	עבוד		1	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2069393	4Q140	Exodus	13	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		16	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2069504	4Q140	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור		25	f1	0	1	0	0	nnnn	nnnn	last	W	1
+2070554	4Q145	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1R	0	1	0	0	nnn	nnn	last		0
+2070704	4Q145	Exodus	13	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f1V	0	1	0	0	nnnn	nnnn	last	W	1
+2071834	4Q155	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f1	0	1	0	0	nnn	nnn	last		0
+2072354	5Q1	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					nnn	nnn	שמר		5	2	0	0	0	0	nnn	nnn	last		0
+2074560	6Q4	2_Kings	8	4	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		6	f15	0	1	0	0	nnnn	nnnn	last	W	1
+2076225	8Q3	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1_11i	0	1	0	0	nnn	nnn	last		0
+2076921	8Q3	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		11	f12_16	0	1	0	0	nnnn	nnnn	last	W	1
+2077055	8Q3	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד		4	f17_25	0	1	0	0	nnn	nnn	last		0
+2077068	8Q3	Deuteronomy	10	13	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		5	f17_25	0	1	0	0	nnnn	nnnn	last	W	1
+2077384	8Q3	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		19	f17_25	0	1	0	0	nnn	nnn	last		0
+2079859	11Q1	Leviticus	17	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר		4	fH	0	1	0	0	rnn	nnn	last		0
+2080051	11Q1	Leviticus	19	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	fI	0	1	0	0	nnn	nnn	last		0
+2080091	11Q1	Leviticus	20	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	fJ	0	1	0	0	nnnn	nnnn	last	W	1
+2080326	11Q1	Leviticus	21	10	LBC[	LBC	LBC			qal	infc	NA		NA	verb				L	nnn	nnn	לבש		8	fK_Li	0	1	0	0	nnn	nnn	last		0
+2080487	11Q1	Leviticus	22	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	1+Lii	0	1	0	0	nnn	nnn	last		0
+2080524	11Q1	Leviticus	23	23	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	2	0	1	0	0	nnn	nnn	last		0
+2080531	11Q1	Leviticus	23	24	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		3	2	0	1	0	0	nnn	nnn	last		0
+2080567	11Q1	Leviticus	23	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	2	0	1	0	0	nnn	nnn	last		0
+2080721	11Q1	Leviticus	24	12	PRC[	PRC	PRC			qal	infc	NA		NA	verb				L	nnn	nnn	פרש		8	3	0	1	0	0	nnn	nnn	last		0
+2080733	11Q1	Leviticus	24	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		9	3	0	1	0	0	nnn	nnn	last		0
+2080989	11Q1	Leviticus	26	21	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע		4	5	0	1	0	0	nnn	nnn	last		0
+2082994	11Q5	Psalms	105	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		16	fEiii	0	1	0	0	nnnn	nnnn	last	W	1
+2083012	11Q5	Psalms	105	25	FN>[	FNW>	FNW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	שנוא		1	1	0	1	0	0	nnnn	nnnn	last	W	1
+2084348	11Q5	Psalms	119	60	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור		2	9	0	1	0	0	nnnn	nnnn	last	W	1
+2084473	11Q5	Psalms	119	82	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		1	10	0	1	0	0	nnnn	nnnn	last	W	1
+2085430	11Q5	Psalms	118	8	BVX[	BVWX	BVWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	בטוח		3	16	0	1	0	0	nnnn	nnnn	last	W	1
+2085434	11Q5	Psalms	118	8	BVX[	BVWX	BVWX			qal	infc	NA		NA	verb				M	nnnn	nnnn	בטוח		4	16	0	1	0	0	nnnn	nnnn	last	W	1
+2085454	11Q5	Psalms	118	9	BVX[	BVWX	BVWX			qal	infc	NA		NA	verb				M	nnnn	nnnn	בטוח		5	16	0	1	0	0	nnnn	nnnn	last	W	1
+2086539	11Q5	Psalms	149	8	>SR[	>SWR	>SWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אסור		1	26	0	1	0	0	nnnn	nnnn	last	W	1
+2087371	11Q7	Psalms	17	12	VRP[	VRWP	VRWP			qal	infc	NA		NA	verb				L	nnnn	nnnn	טרוף		3	f8	0	1	0	0	nnnn	nnnn	last	W	1
+2088654	Xq1	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		7	1	0	1	0	0	nnnn	nnnn	last	W	1
+2088803	Xq1	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		15	1	0	1	0	0	nnn	nnn	last		0
+2088882	Xq1	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד		19	1	0	1	0	0	nnn	nnn	last		0
+2088897	Xq1	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		20	1	0	1	0	0	nnn	nnn	last		0
+2089130	Xq2	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		6	1	0	1	0	0	nnnn	nnnn	last	W	1
+2089224	Xq2	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר		12	1	0	1	0	0	nnn	nnn	last		0
+2089352	Xq2	Deuteronomy	6	2	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	nnn	nnn	שמר		19	1	0	1	0	0	nnn	nnn	last		0
+2089593	Xq3	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר		13	1	0	1	0	0	rnn	nnn	last		0
+2089924	Xq3	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		33	1	0	1	0	0	nnn	nnn	last		0
+2090018	Mur1	Genesis	32	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	f1i	0	1	0	0	nnn	nnn	last		0
+2090155	Mur1	Genesis	34	7	CKB[	CKB	CKB			qal	infc	NA		NA	verb				L	nnn	nnn	שכב		7	f2ii	0	1	0	0	nnn	nnn	last		0
+2090974	Mur4	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		4	f1	0	1	0	0	nnn	nnn	last		0
+2091123	Mur4	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		31	f1	0	1	0	0	nnn	nnn	last		0
+2091243	Mur4	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		55	f1	0	1	0	0	nnn	nnn	last		0
+2092006	Mur88	Joel	4	12	CPV[	CPV	CPV			qal	infc	NA		NA	verb				L	nnn	nnn	שפט		35	2	0	1	0	0	nnn	nnn	last		0
+2092639	Mur88	Amos	8	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		30	7	0	1	0	0	nnn	nnn	last		0
+2092715	Mur88	Amos	8	11	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע		1	8	0	1	0	0	nnn	nnn	last		0
+2093549	Mur88	Obadiah	1	21	CPV[	CPV	CPV			qal	infc	NA		NA	verb				L	nnn	nnn	שפט		34	9	0	1	0	0	nnn	nnn	last		0
+2093569	Mur88	Jonah	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		2	10	0	1	0	0	nnn	nnn	last		0
+2093952	Mur88	Jonah	2	1	BL<[	BL<	BL<			qal	infc	NA		NA	verb				L	nnn	nnn	בלע		26	10	0	1	0	0	nnn	nnn	last		0
+2094112	Mur88	Jonah	3	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		39	10	0	1	0	0	nnn	nnn	last		0
+2094231	Mur88	Jonah	3	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	11	0	1	0	0	nnn	nnn	last		0
+2094355	Mur88	Jonah	4	2	BRX[	BRX	BRX			qal	infc	NA		NA	verb				L	nnn	nnn	ברח		14	11	0	1	0	0	nnn	nnn	last		0
+2094480	Mur88	Jonah	4	8	ZRX[	ZRX	ZRX			qal	infc	NA		NA	verb				K	nnn	nnn	זרח		23	11	0	1	0	0	nnn	nnn	last		0
+2095241	Mur88	Micah	3	6	QSM[	QSM	QSM			qal	infc	NA		NA	verb				M	nnn	nnn	קסם		5	13	0	1	0	0	nnn	nnn	last		0
+2096132	Mur88	Micah	7	1	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		16	15	0	1	0	0	nnnn	nnnn	last	W	1
+2097350	Mur88	Habakkuk	1	8	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול		7	18	0	1	0	0	nnnn	nnnn	last	W	1
+2098599	Mur88	Zephaniah	3	8	>SP[	>SP	>SP			qal	infc	NA		NA	verb				L	nnn	nnn	אסף		1	21	0	1	0	0	nnn	nnn	last		0
+2098629	Mur88	Zephaniah	3	9	QR>[	QR>	QR>	C		qal	infc	NA		NA	verb				L	nnn	nnn	קרא		3	21	0	1	0	0	nnn	nnn	last		0
+2098893	Mur88	Haggai	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		25	21	0	1	0	0	nnn	nnn	last		0
+2099135	Mur88	Haggai	1	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	22	0	1	0	0	nnn	nnn	last		0
+2099212	Mur88	Haggai	2	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		16	22	0	1	0	0	nnn	nnn	last		0
+2099615	Mur88	Haggai	2	21	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		24	23	0	1	0	0	nnn	nnn	last		0
+2099697	Mur88	Zechariah	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		36	23	0	1	0	0	nnn	nnn	last		0
+2100300	5/6hev1a	Numbers	20	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f3	0	1	0	0	nnn	nnn	last		0
+2100657	5/6hev1b	Psalms	10	9	XVP[	XVP	XVP			qal	infc	NA		NA	verb				L	nnn	nnn	חטף		4	f1iii+2	0	1	0	0	nnn	nnn	last		0
+2102013	Xhev/se2	Numbers	27	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		33	1	0	1	0	0	nnn	nnn	last		0
+2102318	Xhev/se5	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		1	f1	0	1	0	0	nnn	nnn	last		0
+2102584	Xhev/se5	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		6	f1	0	1	0	0	nnn	nnn	last		0
+2103079	34Se1	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		8	f1	0	1	0	0	nnn	nnn	last		0
+2103199	34Se1	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		5	f2	0	1	0	0	nnn	nnn	last		0
+2103647	Mas1b	Leviticus	9	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		12	1	0	1	0	0	nnn	nnn	last		0
+2104230	Mas1b	Leviticus	10	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		20	3	0	1	0	0	nnn	nnn	last		0

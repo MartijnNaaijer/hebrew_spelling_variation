@@ -824,143 +824,143 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 426388	MT	2_Chronicles	36	16	<LH[	<LWT	<L	CC	CCMC	qal	infc		unknown	unknown	verb		WT			nnnn	nnnn	עלות		-	-	0	0	0	1	nn	nn	nme	W	1
 426528	MT	2_Chronicles	36	22	KLH[	KLWT	KL	CC	CCMC	qal	infc		unknown	unknown	verb		WT		L	nnnn	nnnn	כלות		-	-	0	1	0	1	nn	nn	nme	W	1
 426573	MT	2_Chronicles	36	23	BNH[	BNWT	BN	CC	CCMC	qal	infc		unknown	unknown	verb		WT		L	nnnn	nnnn	בנות		-	-	0	1	0	1	nn	nn	nme	W	1
-1891532	1Q4	Deuteronomy	13	1	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f7_8	0	1	0	1	nn	nn	nme	W	1
-1893348	1Q5	Deuteronomy	31	12	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		2	f15	0	1	0	1	nn	nn	nme	W	1
-1896291	1Qisaa	Isaiah	5	2	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		14	4	0	1	0	1	nn	nn	nme	W	1
-1896313	1Qisaa	Isaiah	5	4	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		15	4	0	1	0	1	nn	nn	nme	W	1
-1896324	1Qisaa	Isaiah	5	4	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		16	4	0	1	0	1	nn	nn	nme	W	1
-1896632	1Qisaa	Isaiah	5	22	CTH[	CTWT	CT	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שתות		8	5	0	1	0	1	nn	nn	nme	W	1
-1897516	1Qisaa	Isaiah	7	22	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		11	7	0	0	0	1	nn	nn	nme	W	1
-1898463	1Qisaa	Isaiah	10	2	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		15	9	0	1	0	1	nn	nn	nme	W	1
-1899229	1Qisaa	Isaiah	11	11	QNH[	QNWT	QN	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	קנות		29	10	0	1	0	1	nn	nn	nme	W	1
-1899364	1Qisaa	Isaiah	11	16	<LH[	<LWT	<L	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	עלות		6	11	0	0	0	1	nn	nn	nme	W	1
-1900947	1Qisaa	Isaiah	17	12	HMH[	HMWT	HM	CC	CCMC	qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	המות		19	14	0	1	0	1	nn	nn	nme	W	1
-1901849	1Qisaa	Isaiah	21	3	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		18	16	0	1	0	1	nn	nn	nme	W	1
-1903377	1Qisaa	Isaiah	25	11	FXH[	FXWT	FX	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שחות		10	20	0	1	0	1	nn	nn	nme	W	1
-1904349	1Qisaa	Isaiah	28	21	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		28	22	0	1	0	1	nn	nn	nme	W	1
-1904949	1Qisaa	Isaiah	29	23	R>H[	R>WTW	R>	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	ראותו		3	24	1	1	0	1	nn	nn	nme	W	1
-1904984	1Qisaa	Isaiah	30	1	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		6	24	0	1	0	1	nn	nn	nme	W	1
-1904997	1Qisaa	Isaiah	30	1	SPH[	SPWT	SP	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	ספות		7	24	0	0	0	1	nn	nn	nme	W	1
-1905018	1Qisaa	Isaiah	30	2	XSH[	XSWT	XS	CC	CCMC	qal	infc	NA		NA	verb		WT		WL	nnnn	nnnn	חסות		8	24	0	1	0	1	nn	nn	nme	W	1
-1905245	1Qisaa	Isaiah	30	14	XTH[	XTWT	XT	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	חתות		23	24	0	1	0	1	nn	nn	nme	W	1
-1905976	1Qisaa	Isaiah	32	6	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		14	26	0	1	0	1	nn	nn	nme	W	1
-1906208	1Qisaa	Isaiah	33	1	KLH[	KLWTK	KL	CC	CCMCC	qal	infc	NA		NA	verb	K	WT		K	nnnnn	nnnnn	כלותך		1	27	1	1	0	1	nn	nn	nme	W	1
-1906392	1Qisaa	Isaiah	33	15	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		17	27	0	1	0	1	nn	nn	nme	W	1
-1907375	1Qisaa	Isaiah	36	12	CTH[	CTWT	CT	CC	CCMC	qal	infc	NA		NA	verb		WT		WL	nnnn	nnnn	שתות		19	29	0	1	0	1	nn	nn	nme	W	1
-1910327	1Qisaa	Isaiah	42	18	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ראות		1	36	0	1	0	1	nn	nn	nme	W	1
-1911254	1Qisaa	Isaiah	44	18	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		24	37	0	1	0	1	nn	nn	nme	W	1
-1912691	1Qisaa	Isaiah	48	16	HJH[	HJWTH	HJ	CC	CCMCM	qal	infc	NA		NA	verb	H	WT			nnnnn	nnnnn	היותה		21	40	1	0	0	1	nn	nn	nme	W	1
-1912910	1Qisaa	Isaiah	49	6	HJH[	HJWTKH	HJ	CC	CCMCCC	qal	infc	NA		NA	verb	KH	WT		M	nnnnnn	nnnnnn	היותכה		2	41	1	1	0	1	nn	nn	nme	W	1
-1912929	1Qisaa	Isaiah	49	6	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		3	41	0	1	0	1	nn	nn	nme	W	1
-1913993	1Qisaa	Isaiah	51	22	CTH[	CTWTW	CT	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	שתותו		12	43	1	1	0	1	nn	nn	nme	W	1
-1914932	1Qisaa	Isaiah	55	6	HJH[	HJWTW	HJ	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	היותו		26	45	1	1	0	1	nn	nn	nme	W	1
-1915128	1Qisaa	Isaiah	56	2	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		12	46	0	1	0	1	nn	nn	nme	W	1
-1915213	1Qisaa	Isaiah	56	6	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		18	46	0	1	0	1	nn	nn	nme	W	1
-1916006	1Qisaa	Isaiah	58	13	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		9	48	0	1	0	1	nn	nn	nme	W	1
-1916024	1Qisaa	Isaiah	58	13	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		10	48	0	1	0	1	nn	nn	nme	W	1
-1916719	1Qisaa	Isaiah	60	15	HJH[	HJJWTK	HJJ	CCC	CCCMCC	qal	infc	NA		NA	verb	K	WT			nnnnnn	nnnnnn	הייותך		18	49	1	0	0	1	nnn	nnn	nme	W	1
-1917568	1Qisaa	Isaiah	63	12	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		9	51	0	1	0	1	nn	nn	nme	W	1
-1917594	1Qisaa	Isaiah	63	14	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		10	51	0	1	0	1	nn	nn	nme	W	1
-1917706	1Qisaa	Isaiah	64	2	<FH[	<FWTKH	<F	CC	CCMCCC	qal	infc	NA		NA	verb	KH	WT		B	nnnnnn	nnnnnn	עשותכה		17	51	1	1	0	1	nn	nn	nme	W	1
-1924795	1Q8	Isaiah	55	6	HJH[	HJWTW	HJ	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	היותו		5	24	1	1	0	1	nn	nn	nme	W	1
-1924988	1Q8	Isaiah	56	2	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		17	24	0	1	0	1	nn	nn	nme	W	1
-1925082	1Q8	Isaiah	56	6	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		23	24	0	1	0	1	nn	nn	nme	W	1
-1925597	1Q8	Isaiah	58	13	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		23	25	0	0	0	1	nn	nn	nme	W	1
-1925615	1Q8	Isaiah	58	13	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		24	25	0	1	0	1	nn	nn	nme	W	1
-1926061	1Q8	Isaiah	60	15	HJH[	HJWTK	HJ	CC	CCMCC	qal	infc	NA		NA	verb	K	WT			nnnnn	nnnnn	היותך		22	26	1	0	0	1	nn	nn	nme	W	1
-1934988	4Q1	Genesis	39	11	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f9	0	1	0	1	nn	nn	nme	W	1
-1936731	4Q1	Exodus	5	13	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		B	nnnn	nnnn	היות		14	f22ii+26	0	1	0	1	nn	nn	nme	W	1
-1937398	4Q1	Exodus	7	18	CTH[	CTWT	CT	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שתות		5	f34_35	0	1	0	1	nn	nn	nme	W	1
-1938559	4Q2	Genesis	4	8	HJH[	HJWTM	HJ	CC	CCMCC	qal	infc	NA		NA	verb	M	WT		B	nnnnn	nnnnn	היותם		8	f3i	1	1	0	1	nn	nn	nme	W	1
-1940261	4Q6	Genesis	48	10	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ראות		16	f1	0	1	0	1	nn	nn	nme	W	1
-1942958	4Q11	Exodus	12	4	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	היות		17	f7ii	0	1	0	1	nn	nn	nme	W	1
-1945479	4Q11	Exodus	40	15	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		2	f41	0	1	0	1	nn	nn	nme	W	1
-1949016	4Q14	Exodus	11	9	RBH[	RBWT	RB	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	רבות		1	4	0	0	0	1	nn	nn	nme	W	1
-1952530	4Q22	Exodus	7	5	NVH[	NVTJ	NV	CC	CCCM	qal	infc	NA		NA	verb	J	T		B	nnnn	nnnn	נטתי		16	1	1	1	0	1	nn	nn	nme		0
-1954379	4Q22	Exodus	11	9	RBH[	RBWT	RB	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	רבות		29	8	0	0	0	1	nn	nn	nme	W	1
-1956773	4Q22	Exodus	19	12	<LH[	<LWT	<L	CC	CCMC	qal	infc	NA		NA	verb		WT			rnnn	nnnn	עלות		10	20	0	0	0	1	rn	nn	nme	W	1
-1964031	4Q23	Numbers	4	3	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		8	f32ii+34i_43	0	1	0	1	rn	nn	nme	W	1
-1964808	4Q23	Numbers	9	6	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		4	f53_54	0	1	0	1	nn	nn	nme	W	1
-1970734	4Q26a	Leviticus	21	9	ZNH[	ZNWT	ZN	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	זנות		2	f6	0	1	0	1	nn	nn	nme	W	1
-1977788	4Q27	Numbers	35	23	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	ראות		15	f80_84	0	0	0	1	nn	nn	nme	W	1
-1978420	4Q28	Deuteronomy	24	4	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		6	f1	0	1	0	1	nn	nn	nme	W	1
-1979447	4Q30	Deuteronomy	4	1	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		1	f63	0	1	0	1	rn	nn	nme	W	1
-1979466	4Q30	Deuteronomy	4	13	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		1	f2_3i	0	1	0	1	rn	nn	nme	W	1
-1979492	4Q30	Deuteronomy	4	14	<FH[	<FWTKM	<F	CC	CCMCCC	qal	infc	NA		NA	verb	KM	WT		L	nnnnnn	nnnnnn	עשותכם		3	f2_3i	1	1	0	1	nn	nn	nme	W	1
-1981102	4Q30	Deuteronomy	28	1	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		5	f43_45i	0	1	0	1	nn	nn	nme	W	1
-1983771	4Q33	Deuteronomy	19	20	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		4	f13_16	0	1	0	1	rn	nn	nme	W	1
-1985138	4Q34	Deuteronomy	24	18	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		3	f3	0	1	0	1	nn	nn	nme	W	1
-1985960	4Q35	Deuteronomy	1	14	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		11	f1	0	1	0	1	nn	nn	nme	W	1
-1991174	4Q41	Deuteronomy	5	1	<FH[	<FWTM	<F	CC	CCMCC	qal	infc	NA		NA	verb	M	WT		L	nnnnn	nnnnn	עשותם		4	2	1	1	0	1	nn	nn	nme	W	1
-1993477	4Q45	Deuteronomy	11	32	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		4	f13_14	0	1	0	1	nn	nn	nme	W	1
-1994984	4Q47	Joshua	5	6	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	ראות		10	f1_2	0	0	0	1	nn	nn	nme	W	1
-1995172	4Q47	Joshua	7	12	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		1	f9i_12	0	1	0	1	nn	nn	nme	W	1
-1995537	4Q47	Joshua	8	14	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	ראות		12	f9ii+13_16	0	1	0	1	nn	nn	nme	W	1
-1997918	4Q51	1_Samuel	3	2	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	ראות		42	3a_e	0	1	0	1	rn	nn	nme	W	1
-2003206	4Q51	2_Samuel	3	6	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		B	nnnn	nnnn	היות		12	f55_57a_b+58	0	1	0	1	nn	nn	nme	W	1
-2004929	4Q51	2_Samuel	7	23	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		WL	rnnn	nnnn	עשות		2	f78_79	0	1	0	1	rn	nn	nme	W	1
-2005247	4Q51	2_Samuel	8	7	<LH[	<LWTW	<L	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	עלותו		12	f80_83	1	1	0	1	nn	nn	nme	W	1
-2006398	4Q51	2_Samuel	13	5	R>H[	R>WTK	R>	CC	CCMCC	qal	infc	NA		NA	verb	K	WT		L	nnnnn	nnnnn	ראותך		12	f102i	1	1	0	1	nn	nn	nme	W	1
-2014333	4Q54	1_Kings	8	16	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		1	f7	0	1	0	1	nn	nn	nme	W	1
-2014351	4Q54	1_Kings	8	16	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		2	f7	0	1	0	1	nn	nn	nme	W	1
-2015367	4Q55	Isaiah	21	3	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		25	f10_11i+12_14	0	1	0	1	nn	nn	nme	W	1
-2021586	4Q57	Isaiah	25	11	FXH[	FXWT	FX	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שחות		25	f12ii+14_15+53	0	1	0	1	nn	nn	nme	W	1
-2024192	4Q58	Isaiah	48	16	HJH[	HJWTH	HJ	CC	CCMCM	qal	infc	NA		NA	verb	H	WT			nnnnn	nnnnn	היותה		24	3	1	0	0	1	nn	nn	nme	W	1
-2024406	4Q58	Isaiah	49	6	HJH[	HJWTK	HJ	CC	CCMCC	qal	infc	NA		NA	verb	K	WT		M	rnnnn	nnnnn	היותך		12	4	1	1	0	1	rn	nn	nme	W	1
-2024425	4Q58	Isaiah	49	6	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		13	4	0	1	0	1	nn	nn	nme	W	1
-2028160	4Q61	Isaiah	42	18	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ראות		6	f1_8	0	1	0	1	nn	nn	nme	W	1
-2031602	4Q70	Jeremiah	17	24	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		15	f26_28	0	0	0	1	nn	nn	nme	W	1
-2033739	4Q72	Jeremiah	22	17	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f19_21	0	1	0	1	nn	nn	nme	W	1
-2034547	4Q72	Jeremiah	30	24	<FH[	<FWTW	<F	CC	CCMCM	qal	infc	NA		NA	verb	W	WT			nnnnn	nnnnn	עשותו		12	f34ii+36_43	1	0	0	1	nn	nn	nme	W	1
-2036629	4Q76	Malachi	2	13	PNH[	PNWT	PN	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	פנות		18	1	0	0	0	1	nn	nn	nme	W	1
-2041086	4Q80	Zechariah	5	11	BNH[	BNWT	BN	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	בנות		5	f14_15	0	1	0	1	nn	nn	nme	W	1
-2046164	4Q82	Jonah	4	7	<LH[	<LWT	<L	CC	CCMC	qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	עלות		5	f88_91i	0	1	0	1	nn	nn	nme	W	1
-2047783	4Q83	Psalms	71	9	KLH[	KLWT	KL	CC	CCMC	qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	כלות		10	f9ii	0	1	0	1	nn	nn	nme	W	1
-2049367	4Q84	Psalms	118	9	XSH[	XSWT	XS	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	חסות		15	f28ii_30i+31	0	1	0	1	nn	nn	nme	W	1
-2050378	4Q85	Psalms	50	21	HJH[	>JWT	>J	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	איות		26	f15ii_16	0	0	0	1	nn	nn	nme	W	1
-2051688	4Q87	Psalms	126	2	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		8	f26i	0	1	0	1	nn	nn	nme	W	1
-2052257	4Q89	Psalms	119	37	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		1	f1i	0	1	0	1	nn	nn	nme	W	1
-2053246	4Q95	Psalms	135	6	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f1	0	1	0	1	nn	nn	nme	W	1
-2055600	4Q103	Proverbs	15	28	<NH[	<NWT	<N	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ענות		10	f7ii+11_14	0	1	0	1	nn	nn	nme	W	1
-2059381	4Q112	Daniel	8	2	R>H[	R>TJ	R>	CM	CMCM	qal	infc	NA		NA	verb	J	T		B	nnnn	nnnn	ראתי		12	f14	1	1	0	1	nn	nn	nme		0
-2060909	4Q113	Daniel	8	15	R>H[	R>WTJ	R>	CC	CCMCM	qal	infc	NA		NA	verb	J	WT		B	rnnnn	nnnnn	ראותי		4	f18ii	1	1	0	1	rn	nn	nme	W	1
-2063943	4Q128	Exodus	12	48	<FH[	<FWTW	<F	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	עשותו		49	f1	1	1	0	1	nn	nn	nme	W	1
-2064172	4Q129	Deuteronomy	5	1	<FH[	<FWTMH	<F	CC	CCMCCM	qal	infc	NA		NA	verb	MH	WT		L	nnnnnn	nnnnnn	עשותמה		1	f1R	1	1	0	1	nn	nn	nme	W	1
-2064440	4Q129	Deuteronomy	5	15	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		8	f1R	0	1	0	1	nn	nn	nme	W	1
-2066088	4Q134	Deuteronomy	5	1	<FH[	<FWTM	<F	CC	CCMCC	qal	infc	NA		NA	verb	M	WT		L	nnnnn	nnnnn	עשותם		5	f1	1	1	0	1	nn	nn	nme	W	1
-2066797	4Q135	Deuteronomy	6	1	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		10	f1	0	1	0	1	rn	nn	nme	W	1
-2066838	4Q135	Deuteronomy	6	3	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		11	f1	0	1	0	1	nn	nn	nme	W	1
-2069167	4Q140	Exodus	12	48	<FH[	<FWTW	<F	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	עשותו		4	f1	1	1	0	1	nn	nn	nme	W	1
-2069535	4Q140	Deuteronomy	6	3	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		28	f1	0	1	0	1	nn	nn	nme	W	1
-2069743	4Q142	Deuteronomy	5	1	<FH[	<FWTMH	<F	CC	CCMCCM	qal	infc	NA		NA	verb	MH	WT		L	nnnnnn	nnnnnn	עשותמה		2	f1	1	1	0	1	nn	nn	nme	W	1
-2076020	8Q1	Genesis	18	25	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		5	f2_3	0	1	0	1	nn	nn	nme	W	1
-2076949	8Q3	Deuteronomy	6	3	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		12	f12_16	0	1	0	1	nn	nn	nme	W	1
-2077319	8Q3	Deuteronomy	5	1	<FH[	<FTM	<F	CC	CCCC	qal	infc	NA		NA	verb	M	T		L	nnnn	nnnn	עשתם		17	f17_25	1	1	0	1	nn	nn	nme		0
-2080027	11Q1	Leviticus	18	30	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		6	fI	0	0	0	1	nn	nn	nme	W	1
-2080209	11Q1	Leviticus	20	5	ZNH[	ZNWT	ZN	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	זנות		7	fJ	0	1	0	1	nn	nn	nme	W	1
-2080296	11Q1	Leviticus	21	9	ZNH[	ZNWT	ZN	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	זנות		5	fK_Li	0	1	0	1	nn	nn	nme	W	1
-2083688	11Q5	Psalms	126	2	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		11	4	0	1	0	1	nn	nn	nme	W	1
-2083695	11Q5	Psalms	126	3	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		12	4	0	1	0	1	nn	nn	nme	W	1
-2084222	11Q5	Psalms	119	37	R>H[	R>WT	R>	CC	CCMC	qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		1	8	0	1	0	1	nn	nn	nme	W	1
-2084613	11Q5	Psalms	119	106	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		2	11	0	1	0	1	nn	nn	nme	W	1
-2084662	11Q5	Psalms	119	112	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		8	11	0	1	0	1	nn	nn	nme	W	1
-2085106	11Q5	Psalms	135	6	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		13	14	0	1	0	1	nn	nn	nme	W	1
-2085440	11Q5	Psalms	118	9	XSH[	XSWT	XS	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	חסות		4	16	0	1	0	1	nn	nn	nme	W	1
-2086530	11Q5	Psalms	149	7	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	26	0	1	0	1	nn	nn	nme	W	1
-2086550	11Q5	Psalms	149	9	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		2	26	0	1	0	1	nn	nn	nme	W	1
-2088585	Xq1	Exodus	12	48	<FH[	<FWTW	<F	CC	CCMCM	qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	עשותו		4	1	1	1	0	1	nn	nn	nme	W	1
-2089280	Xq2	Deuteronomy	5	32	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		15	1	0	1	0	1	nn	nn	nme	W	1
-2089335	Xq2	Deuteronomy	6	1	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		18	1	0	1	0	1	nn	nn	nme	W	1
-2089383	Xq2	Deuteronomy	6	3	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		21	1	0	1	0	1	nn	nn	nme	W	1
-2089521	Xq3	Deuteronomy	5	1	<FH[	<FWTM	<F	CC	CCMCC	qal	infc	NA		NA	verb	M	WT		L	nnnnn	nnnnn	עשותם		9	1	1	1	0	1	nn	nn	nme	W	1
-2089787	Xq3	Deuteronomy	5	15	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		25	1	0	1	0	1	nn	nn	nme	W	1
-2092667	Mur88	Amos	8	6	QNH[	QNWT	QN	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	קנות		32	7	0	1	0	1	nn	nn	nme	W	1
-2093315	Mur88	Obadiah	1	11	CBH[	CBWT	CB	CC	CCMC	qal	infc	NA		NA	verb		WT			nnnn	nnnn	שבות		16	9	0	0	0	1	nn	nn	nme	W	1
-2094319	Mur88	Jonah	3	10	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		12	11	0	1	0	1	nn	nn	nme	W	1
-2094348	Mur88	Jonah	4	2	HJH[	HJWTJ	HJ	CC	CCMCM	qal	infc	NA		NA	verb	J	WT			nnnnn	nnnnn	היותי		13	11	1	0	0	1	nn	nn	nme	W	1
-2094440	Mur88	Jonah	4	6	HJH[	HJWT	HJ	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		20	11	0	1	0	1	nn	nn	nme	W	1
-2094464	Mur88	Jonah	4	7	<LH[	<LWT	<L	CC	CCMC	qal	infc	NA		NA	verb		WT		B	nnnn	nnnn	עלות		22	11	0	1	0	1	nn	nn	nme	W	1
-2096299	Mur88	Micah	7	11	BNH[	BNWT	BN	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	בנות		30	15	0	1	0	1	nn	nn	nme	W	1
-2097675	Mur88	Habakkuk	2	18	<FH[	<FWT	<F	CC	CCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	19	0	1	0	1	nn	nn	nme	W	1
-2100715	5/6hev1b	Psalms	11	2	JRH=[	JRWT	JR	MC	MCMC	qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ירות		20	f1iii+2	0	1	0	1	nn	nn	nme	W	1
-2103927	Mas1b	Leviticus	9	22	<FH[	<FT	<F	CC	CCC	qal	infc	NA		NA	verb		T		M	rnn	nnn	עשת		13	2	0	1	0	1	rn	nn	nme		0
+1891532	1Q4	Deuteronomy	13	1	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f7_8	0	1	0	1	nn	nn	nme	W	1
+1893348	1Q5	Deuteronomy	31	12	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		2	f15	0	1	0	1	nn	nn	nme	W	1
+1896291	1Qisaa	Isaiah	5	2	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		14	4	0	1	0	1	nn	nn	nme	W	1
+1896313	1Qisaa	Isaiah	5	4	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		15	4	0	1	0	1	nn	nn	nme	W	1
+1896324	1Qisaa	Isaiah	5	4	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		16	4	0	1	0	1	nn	nn	nme	W	1
+1896632	1Qisaa	Isaiah	5	22	CTH[	CTWT	CT			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שתות		8	5	0	1	0	1	nn	nn	nme	W	1
+1897516	1Qisaa	Isaiah	7	22	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		11	7	0	0	0	1	nn	nn	nme	W	1
+1898463	1Qisaa	Isaiah	10	2	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		15	9	0	1	0	1	nn	nn	nme	W	1
+1899229	1Qisaa	Isaiah	11	11	QNH[	QNWT	QN			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	קנות		29	10	0	1	0	1	nn	nn	nme	W	1
+1899364	1Qisaa	Isaiah	11	16	<LH[	<LWT	<L			qal	infc	NA		NA	verb		WT			nnnn	nnnn	עלות		6	11	0	0	0	1	nn	nn	nme	W	1
+1900947	1Qisaa	Isaiah	17	12	HMH[	HMWT	HM			qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	המות		19	14	0	1	0	1	nn	nn	nme	W	1
+1901849	1Qisaa	Isaiah	21	3	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		18	16	0	1	0	1	nn	nn	nme	W	1
+1903377	1Qisaa	Isaiah	25	11	FXH[	FXWT	FX			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שחות		10	20	0	1	0	1	nn	nn	nme	W	1
+1904349	1Qisaa	Isaiah	28	21	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		28	22	0	1	0	1	nn	nn	nme	W	1
+1904949	1Qisaa	Isaiah	29	23	R>H[	R>WTW	R>			qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	ראותו		3	24	1	1	0	1	nn	nn	nme	W	1
+1904984	1Qisaa	Isaiah	30	1	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		6	24	0	1	0	1	nn	nn	nme	W	1
+1904997	1Qisaa	Isaiah	30	1	SPH[	SPWT	SP			qal	infc	NA		NA	verb		WT			nnnn	nnnn	ספות		7	24	0	0	0	1	nn	nn	nme	W	1
+1905018	1Qisaa	Isaiah	30	2	XSH[	XSWT	XS			qal	infc	NA		NA	verb		WT		WL	nnnn	nnnn	חסות		8	24	0	1	0	1	nn	nn	nme	W	1
+1905245	1Qisaa	Isaiah	30	14	XTH[	XTWT	XT			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	חתות		23	24	0	1	0	1	nn	nn	nme	W	1
+1905976	1Qisaa	Isaiah	32	6	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		14	26	0	1	0	1	nn	nn	nme	W	1
+1906208	1Qisaa	Isaiah	33	1	KLH[	KLWTK	KL			qal	infc	NA		NA	verb	K	WT		K	nnnnn	nnnnn	כלותך		1	27	1	1	0	1	nn	nn	nme	W	1
+1906392	1Qisaa	Isaiah	33	15	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		17	27	0	1	0	1	nn	nn	nme	W	1
+1907375	1Qisaa	Isaiah	36	12	CTH[	CTWT	CT			qal	infc	NA		NA	verb		WT		WL	nnnn	nnnn	שתות		19	29	0	1	0	1	nn	nn	nme	W	1
+1910327	1Qisaa	Isaiah	42	18	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ראות		1	36	0	1	0	1	nn	nn	nme	W	1
+1911254	1Qisaa	Isaiah	44	18	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		24	37	0	1	0	1	nn	nn	nme	W	1
+1912691	1Qisaa	Isaiah	48	16	HJH[	HJWTH	HJ			qal	infc	NA		NA	verb	H	WT			nnnnn	nnnnn	היותה		21	40	1	0	0	1	nn	nn	nme	W	1
+1912910	1Qisaa	Isaiah	49	6	HJH[	HJWTKH	HJ			qal	infc	NA		NA	verb	KH	WT		M	nnnnnn	nnnnnn	היותכה		2	41	1	1	0	1	nn	nn	nme	W	1
+1912929	1Qisaa	Isaiah	49	6	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		3	41	0	1	0	1	nn	nn	nme	W	1
+1913993	1Qisaa	Isaiah	51	22	CTH[	CTWTW	CT			qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	שתותו		12	43	1	1	0	1	nn	nn	nme	W	1
+1914932	1Qisaa	Isaiah	55	6	HJH[	HJWTW	HJ			qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	היותו		26	45	1	1	0	1	nn	nn	nme	W	1
+1915128	1Qisaa	Isaiah	56	2	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		12	46	0	1	0	1	nn	nn	nme	W	1
+1915213	1Qisaa	Isaiah	56	6	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		18	46	0	1	0	1	nn	nn	nme	W	1
+1916006	1Qisaa	Isaiah	58	13	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		9	48	0	1	0	1	nn	nn	nme	W	1
+1916024	1Qisaa	Isaiah	58	13	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		10	48	0	1	0	1	nn	nn	nme	W	1
+1916719	1Qisaa	Isaiah	60	15	HJH[	HJJWTK	HJJ			qal	infc	NA		NA	verb	K	WT			nnnnnn	nnnnnn	הייותך		18	49	1	0	0	1	nnn	nnn	nme	W	1
+1917568	1Qisaa	Isaiah	63	12	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		9	51	0	1	0	1	nn	nn	nme	W	1
+1917594	1Qisaa	Isaiah	63	14	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		10	51	0	1	0	1	nn	nn	nme	W	1
+1917706	1Qisaa	Isaiah	64	2	<FH[	<FWTKH	<F			qal	infc	NA		NA	verb	KH	WT		B	nnnnnn	nnnnnn	עשותכה		17	51	1	1	0	1	nn	nn	nme	W	1
+1924795	1Q8	Isaiah	55	6	HJH[	HJWTW	HJ			qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	היותו		5	24	1	1	0	1	nn	nn	nme	W	1
+1924988	1Q8	Isaiah	56	2	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		17	24	0	1	0	1	nn	nn	nme	W	1
+1925082	1Q8	Isaiah	56	6	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		23	24	0	1	0	1	nn	nn	nme	W	1
+1925597	1Q8	Isaiah	58	13	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		23	25	0	0	0	1	nn	nn	nme	W	1
+1925615	1Q8	Isaiah	58	13	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		24	25	0	1	0	1	nn	nn	nme	W	1
+1926061	1Q8	Isaiah	60	15	HJH[	HJWTK	HJ			qal	infc	NA		NA	verb	K	WT			nnnnn	nnnnn	היותך		22	26	1	0	0	1	nn	nn	nme	W	1
+1934988	4Q1	Genesis	39	11	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f9	0	1	0	1	nn	nn	nme	W	1
+1936731	4Q1	Exodus	5	13	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		B	nnnn	nnnn	היות		14	f22ii+26	0	1	0	1	nn	nn	nme	W	1
+1937398	4Q1	Exodus	7	18	CTH[	CTWT	CT			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שתות		5	f34_35	0	1	0	1	nn	nn	nme	W	1
+1938559	4Q2	Genesis	4	8	HJH[	HJWTM	HJ			qal	infc	NA		NA	verb	M	WT		B	nnnnn	nnnnn	היותם		8	f3i	1	1	0	1	nn	nn	nme	W	1
+1940261	4Q6	Genesis	48	10	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ראות		16	f1	0	1	0	1	nn	nn	nme	W	1
+1942958	4Q11	Exodus	12	4	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	היות		17	f7ii	0	1	0	1	nn	nn	nme	W	1
+1945479	4Q11	Exodus	40	15	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		2	f41	0	1	0	1	nn	nn	nme	W	1
+1949016	4Q14	Exodus	11	9	RBH[	RBWT	RB			qal	infc	NA		NA	verb		WT			nnnn	nnnn	רבות		1	4	0	0	0	1	nn	nn	nme	W	1
+1952530	4Q22	Exodus	7	5	NVH[	NVTJ	NV			qal	infc	NA		NA	verb	J	T		B	nnnn	nnnn	נטתי		16	1	1	1	0	1	nn	nn	nme		0
+1954379	4Q22	Exodus	11	9	RBH[	RBWT	RB			qal	infc	NA		NA	verb		WT			nnnn	nnnn	רבות		29	8	0	0	0	1	nn	nn	nme	W	1
+1956773	4Q22	Exodus	19	12	<LH[	<LWT	<L			qal	infc	NA		NA	verb		WT			rnnn	nnnn	עלות		10	20	0	0	0	1	rn	nn	nme	W	1
+1964031	4Q23	Numbers	4	3	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		8	f32ii+34i_43	0	1	0	1	rn	nn	nme	W	1
+1964808	4Q23	Numbers	9	6	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		4	f53_54	0	1	0	1	nn	nn	nme	W	1
+1970734	4Q26a	Leviticus	21	9	ZNH[	ZNWT	ZN			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	זנות		2	f6	0	1	0	1	nn	nn	nme	W	1
+1977788	4Q27	Numbers	35	23	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT			nnnn	nnnn	ראות		15	f80_84	0	0	0	1	nn	nn	nme	W	1
+1978420	4Q28	Deuteronomy	24	4	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		6	f1	0	1	0	1	nn	nn	nme	W	1
+1979447	4Q30	Deuteronomy	4	1	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		1	f63	0	1	0	1	rn	nn	nme	W	1
+1979466	4Q30	Deuteronomy	4	13	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		1	f2_3i	0	1	0	1	rn	nn	nme	W	1
+1979492	4Q30	Deuteronomy	4	14	<FH[	<FWTKM	<F			qal	infc	NA		NA	verb	KM	WT		L	nnnnnn	nnnnnn	עשותכם		3	f2_3i	1	1	0	1	nn	nn	nme	W	1
+1981102	4Q30	Deuteronomy	28	1	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		5	f43_45i	0	1	0	1	nn	nn	nme	W	1
+1983771	4Q33	Deuteronomy	19	20	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		4	f13_16	0	1	0	1	rn	nn	nme	W	1
+1985138	4Q34	Deuteronomy	24	18	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		3	f3	0	1	0	1	nn	nn	nme	W	1
+1985960	4Q35	Deuteronomy	1	14	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		11	f1	0	1	0	1	nn	nn	nme	W	1
+1991174	4Q41	Deuteronomy	5	1	<FH[	<FWTM	<F			qal	infc	NA		NA	verb	M	WT		L	nnnnn	nnnnn	עשותם		4	2	1	1	0	1	nn	nn	nme	W	1
+1993477	4Q45	Deuteronomy	11	32	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		4	f13_14	0	1	0	1	nn	nn	nme	W	1
+1994984	4Q47	Joshua	5	6	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT			nnnn	nnnn	ראות		10	f1_2	0	0	0	1	nn	nn	nme	W	1
+1995172	4Q47	Joshua	7	12	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		1	f9i_12	0	1	0	1	nn	nn	nme	W	1
+1995537	4Q47	Joshua	8	14	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	ראות		12	f9ii+13_16	0	1	0	1	nn	nn	nme	W	1
+1997918	4Q51	1_Samuel	3	2	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	ראות		42	3a_e	0	1	0	1	rn	nn	nme	W	1
+2003206	4Q51	2_Samuel	3	6	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		B	nnnn	nnnn	היות		12	f55_57a_b+58	0	1	0	1	nn	nn	nme	W	1
+2004929	4Q51	2_Samuel	7	23	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		WL	rnnn	nnnn	עשות		2	f78_79	0	1	0	1	rn	nn	nme	W	1
+2005247	4Q51	2_Samuel	8	7	<LH[	<LWTW	<L			qal	infc	NA		NA	verb	W	WT		B	nnnnn	nnnnn	עלותו		12	f80_83	1	1	0	1	nn	nn	nme	W	1
+2006398	4Q51	2_Samuel	13	5	R>H[	R>WTK	R>			qal	infc	NA		NA	verb	K	WT		L	nnnnn	nnnnn	ראותך		12	f102i	1	1	0	1	nn	nn	nme	W	1
+2014333	4Q54	1_Kings	8	16	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		1	f7	0	1	0	1	nn	nn	nme	W	1
+2014351	4Q54	1_Kings	8	16	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		2	f7	0	1	0	1	nn	nn	nme	W	1
+2015367	4Q55	Isaiah	21	3	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		25	f10_11i+12_14	0	1	0	1	nn	nn	nme	W	1
+2021586	4Q57	Isaiah	25	11	FXH[	FXWT	FX			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	שחות		25	f12ii+14_15+53	0	1	0	1	nn	nn	nme	W	1
+2024192	4Q58	Isaiah	48	16	HJH[	HJWTH	HJ			qal	infc	NA		NA	verb	H	WT			nnnnn	nnnnn	היותה		24	3	1	0	0	1	nn	nn	nme	W	1
+2024406	4Q58	Isaiah	49	6	HJH[	HJWTK	HJ			qal	infc	NA		NA	verb	K	WT		M	rnnnn	nnnnn	היותך		12	4	1	1	0	1	rn	nn	nme	W	1
+2024425	4Q58	Isaiah	49	6	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		13	4	0	1	0	1	nn	nn	nme	W	1
+2028160	4Q61	Isaiah	42	18	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ראות		6	f1_8	0	1	0	1	nn	nn	nme	W	1
+2031602	4Q70	Jeremiah	17	24	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		15	f26_28	0	0	0	1	nn	nn	nme	W	1
+2033739	4Q72	Jeremiah	22	17	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f19_21	0	1	0	1	nn	nn	nme	W	1
+2034547	4Q72	Jeremiah	30	24	<FH[	<FWTW	<F			qal	infc	NA		NA	verb	W	WT			nnnnn	nnnnn	עשותו		12	f34ii+36_43	1	0	0	1	nn	nn	nme	W	1
+2036629	4Q76	Malachi	2	13	PNH[	PNWT	PN			qal	infc	NA		NA	verb		WT			nnnn	nnnn	פנות		18	1	0	0	0	1	nn	nn	nme	W	1
+2041086	4Q80	Zechariah	5	11	BNH[	BNWT	BN			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	בנות		5	f14_15	0	1	0	1	nn	nn	nme	W	1
+2046164	4Q82	Jonah	4	7	<LH[	<LWT	<L			qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	עלות		5	f88_91i	0	1	0	1	nn	nn	nme	W	1
+2047783	4Q83	Psalms	71	9	KLH[	KLWT	KL			qal	infc	NA		NA	verb		WT		K	nnnn	nnnn	כלות		10	f9ii	0	1	0	1	nn	nn	nme	W	1
+2049367	4Q84	Psalms	118	9	XSH[	XSWT	XS			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	חסות		15	f28ii_30i+31	0	1	0	1	nn	nn	nme	W	1
+2050378	4Q85	Psalms	50	21	HJH[	>JWT	>J			qal	infc	NA		NA	verb		WT			nnnn	nnnn	איות		26	f15ii_16	0	0	0	1	nn	nn	nme	W	1
+2051688	4Q87	Psalms	126	2	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		8	f26i	0	1	0	1	nn	nn	nme	W	1
+2052257	4Q89	Psalms	119	37	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		1	f1i	0	1	0	1	nn	nn	nme	W	1
+2053246	4Q95	Psalms	135	6	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	f1	0	1	0	1	nn	nn	nme	W	1
+2055600	4Q103	Proverbs	15	28	<NH[	<NWT	<N			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ענות		10	f7ii+11_14	0	1	0	1	nn	nn	nme	W	1
+2059381	4Q112	Daniel	8	2	R>H[	R>TJ	R>			qal	infc	NA		NA	verb	J	T		B	nnnn	nnnn	ראתי		12	f14	1	1	0	1	nn	nn	nme		0
+2060909	4Q113	Daniel	8	15	R>H[	R>WTJ	R>			qal	infc	NA		NA	verb	J	WT		B	rnnnn	nnnnn	ראותי		4	f18ii	1	1	0	1	rn	nn	nme	W	1
+2063943	4Q128	Exodus	12	48	<FH[	<FWTW	<F			qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	עשותו		49	f1	1	1	0	1	nn	nn	nme	W	1
+2064172	4Q129	Deuteronomy	5	1	<FH[	<FWTMH	<F			qal	infc	NA		NA	verb	MH	WT		L	nnnnnn	nnnnnn	עשותמה		1	f1R	1	1	0	1	nn	nn	nme	W	1
+2064440	4Q129	Deuteronomy	5	15	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		8	f1R	0	1	0	1	nn	nn	nme	W	1
+2066088	4Q134	Deuteronomy	5	1	<FH[	<FWTM	<F			qal	infc	NA		NA	verb	M	WT		L	nnnnn	nnnnn	עשותם		5	f1	1	1	0	1	nn	nn	nme	W	1
+2066797	4Q135	Deuteronomy	6	1	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	rnnn	nnnn	עשות		10	f1	0	1	0	1	rn	nn	nme	W	1
+2066838	4Q135	Deuteronomy	6	3	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		11	f1	0	1	0	1	nn	nn	nme	W	1
+2069167	4Q140	Exodus	12	48	<FH[	<FWTW	<F			qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	עשותו		4	f1	1	1	0	1	nn	nn	nme	W	1
+2069535	4Q140	Deuteronomy	6	3	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		28	f1	0	1	0	1	nn	nn	nme	W	1
+2069743	4Q142	Deuteronomy	5	1	<FH[	<FWTMH	<F			qal	infc	NA		NA	verb	MH	WT		L	nnnnnn	nnnnnn	עשותמה		2	f1	1	1	0	1	nn	nn	nme	W	1
+2076020	8Q1	Genesis	18	25	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	עשות		5	f2_3	0	1	0	1	nn	nn	nme	W	1
+2076949	8Q3	Deuteronomy	6	3	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		12	f12_16	0	1	0	1	nn	nn	nme	W	1
+2077319	8Q3	Deuteronomy	5	1	<FH[	<FTM	<F			qal	infc	NA		NA	verb	M	T		L	nnnn	nnnn	עשתם		17	f17_25	1	1	0	1	nn	nn	nme		0
+2080027	11Q1	Leviticus	18	30	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT			nnnn	nnnn	עשות		6	fI	0	0	0	1	nn	nn	nme	W	1
+2080209	11Q1	Leviticus	20	5	ZNH[	ZNWT	ZN			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	זנות		7	fJ	0	1	0	1	nn	nn	nme	W	1
+2080296	11Q1	Leviticus	21	9	ZNH[	ZNWT	ZN			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	זנות		5	fK_Li	0	1	0	1	nn	nn	nme	W	1
+2083688	11Q5	Psalms	126	2	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		11	4	0	1	0	1	nn	nn	nme	W	1
+2083695	11Q5	Psalms	126	3	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		12	4	0	1	0	1	nn	nn	nme	W	1
+2084222	11Q5	Psalms	119	37	R>H[	R>WT	R>			qal	infc	NA		NA	verb		WT		M	nnnn	nnnn	ראות		1	8	0	1	0	1	nn	nn	nme	W	1
+2084613	11Q5	Psalms	119	106	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		2	11	0	1	0	1	nn	nn	nme	W	1
+2084662	11Q5	Psalms	119	112	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		8	11	0	1	0	1	nn	nn	nme	W	1
+2085106	11Q5	Psalms	135	6	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		13	14	0	1	0	1	nn	nn	nme	W	1
+2085440	11Q5	Psalms	118	9	XSH[	XSWT	XS			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	חסות		4	16	0	1	0	1	nn	nn	nme	W	1
+2086530	11Q5	Psalms	149	7	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	26	0	1	0	1	nn	nn	nme	W	1
+2086550	11Q5	Psalms	149	9	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		2	26	0	1	0	1	nn	nn	nme	W	1
+2088585	Xq1	Exodus	12	48	<FH[	<FWTW	<F			qal	infc	NA		NA	verb	W	WT		L	nnnnn	nnnnn	עשותו		4	1	1	1	0	1	nn	nn	nme	W	1
+2089280	Xq2	Deuteronomy	5	32	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		15	1	0	1	0	1	nn	nn	nme	W	1
+2089335	Xq2	Deuteronomy	6	1	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		18	1	0	1	0	1	nn	nn	nme	W	1
+2089383	Xq2	Deuteronomy	6	3	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		21	1	0	1	0	1	nn	nn	nme	W	1
+2089521	Xq3	Deuteronomy	5	1	<FH[	<FWTM	<F			qal	infc	NA		NA	verb	M	WT		L	nnnnn	nnnnn	עשותם		9	1	1	1	0	1	nn	nn	nme	W	1
+2089787	Xq3	Deuteronomy	5	15	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		25	1	0	1	0	1	nn	nn	nme	W	1
+2092667	Mur88	Amos	8	6	QNH[	QNWT	QN			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	קנות		32	7	0	1	0	1	nn	nn	nme	W	1
+2093315	Mur88	Obadiah	1	11	CBH[	CBWT	CB			qal	infc	NA		NA	verb		WT			nnnn	nnnn	שבות		16	9	0	0	0	1	nn	nn	nme	W	1
+2094319	Mur88	Jonah	3	10	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		12	11	0	1	0	1	nn	nn	nme	W	1
+2094348	Mur88	Jonah	4	2	HJH[	HJWTJ	HJ			qal	infc	NA		NA	verb	J	WT			nnnnn	nnnnn	היותי		13	11	1	0	0	1	nn	nn	nme	W	1
+2094440	Mur88	Jonah	4	6	HJH[	HJWT	HJ			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	היות		20	11	0	1	0	1	nn	nn	nme	W	1
+2094464	Mur88	Jonah	4	7	<LH[	<LWT	<L			qal	infc	NA		NA	verb		WT		B	nnnn	nnnn	עלות		22	11	0	1	0	1	nn	nn	nme	W	1
+2096299	Mur88	Micah	7	11	BNH[	BNWT	BN			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	בנות		30	15	0	1	0	1	nn	nn	nme	W	1
+2097675	Mur88	Habakkuk	2	18	<FH[	<FWT	<F			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	עשות		1	19	0	1	0	1	nn	nn	nme	W	1
+2100715	5/6hev1b	Psalms	11	2	JRH=[	JRWT	JR			qal	infc	NA		NA	verb		WT		L	nnnn	nnnn	ירות		20	f1iii+2	0	1	0	1	nn	nn	nme	W	1
+2103927	Mas1b	Leviticus	9	22	<FH[	<FT	<F			qal	infc	NA		NA	verb		T		M	rnn	nnn	עשת		13	2	0	1	0	1	rn	nn	nme		0
