@@ -49,7 +49,7 @@ def get_nouns_adjective_data(corpus, mt):
 
     # TODO: ADD SP TO mt_dss
     matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv')
-    matres_parser_sp = SPMatresProcessor(corpus, 'subs_adjv', "SP_MATRES_DATASET")
+    matres_parser_sp = SPMatresProcessor(corpus, 'subs_adjv')
 
     with open(os.path.join(data_path, 'pattern_data_sp.json')) as j:
         pattern_dict_sp = json.loads(j.read())

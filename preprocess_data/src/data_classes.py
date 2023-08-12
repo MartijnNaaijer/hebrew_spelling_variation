@@ -53,7 +53,7 @@ class Word:
     nme_cons: str = None
     hloc: str = ''
     matres_pattern: str = ''
-    prefix: str = None
+    prefix: str = ''
     heb_g_cons: str = ''
     g_pfm: str = ''
     g_vbs: str = ''
@@ -398,6 +398,7 @@ class DSSWordProcessor:
         self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
         self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
         self.g_vbe = self.get_vbe()
+        self.prefix = self.parse_prefix_g_cons_dss()
 
     def create_word(self):
 
@@ -421,6 +422,7 @@ class DSSWordProcessor:
                     nme_cons=self.nme,
                     hloc=self.hloc,
                     heb_g_cons=self.heb_g_cons,
+                    prefix=self.prefix,
                     stem=self.stem,
                     g_pfm=self.g_pfm,
                     g_vbs=self.g_vbs,
@@ -632,14 +634,25 @@ class DSSWordProcessor:
                 return ''
         return ''
 
+    def parse_prefix_g_cons_dss(self):
+        prefix = ''
+        previous_word_id = self.tf_id - 1
+        while Fdss.after.v(previous_word_id) is None:
+            prev_word_g_cons = Fdss.g_cons.v(previous_word_id)
+            if prev_word_g_cons is None:
+                prev_word_g_cons = ''
+            prefix = prev_word_g_cons + prefix
+            previous_word_id = previous_word_id - 1
+        return prefix
 
 class SPWordProcessor:
     """"""
-    def __init__(self, tf_id):
+    def __init__(self, tf_id, sp_word_nodes):
         self.prs_chars = {'>', 'D', 'H', 'J', 'K', 'M', 'N', 'W'}
         self.consonants = {'<', '>', 'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
                            'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '#'}
         self.tf_id = tf_id
+        self.sp_word_nodes = sp_word_nodes
         self.book = Fsp.book.v(tf_id)
         self.chapter_num = Fsp.chapter.v(tf_id)
         self.verse_num = Fsp.verse.v(tf_id)
@@ -661,6 +674,7 @@ class SPWordProcessor:
         self.prs = self.get_prs()
         self.heb_text_adder = HebrewTextAdder(self.glyphs)
         self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
+        self.prefix = self.parse_prefix_g_cons_sp()
 
     def create_word(self):
 
@@ -684,6 +698,7 @@ class SPWordProcessor:
                     prs_cons=self.prs,
                     nme_cons=self.nme,
                     hloc=self.hloc,
+                    prefix=self.prefix,
                     heb_g_cons=self.heb_g_cons)
 
     def get_number(self):
@@ -722,6 +737,20 @@ class SPWordProcessor:
     def get_nme(self):
         nme_cons = ''.join([ch for ch in Fsp.g_nme.v(self.tf_id) if ch in self.consonants])
         return nme_cons
+
+    def parse_prefix_g_cons_sp(self):
+        prefix = ''
+        previous_word_id = self.tf_id - 1
+
+        while not Fsp.trailer.v(previous_word_id):
+            prev_word_g_cons = Fsp.g_cons.v(previous_word_id)
+            if not prev_word_g_cons:
+                prev_word_g_cons = ''
+            prefix = prev_word_g_cons + prefix
+            previous_word_id = previous_word_id - 1
+            if previous_word_id not in self.sp_word_nodes:
+                break
+        return prefix
 
 
 class Corpus:
@@ -790,6 +819,7 @@ class Corpus:
         This could become nasty somewhere. Todo: find solution for this.
         """
         scroll = Scroll('SP')
+        sp_word_nodes = set(Fsp.otype.s('word'))
 
         for b in Fsp.otype.s('book'):
             verses = Lsp.d(b, 'verse')
@@ -799,6 +829,6 @@ class Corpus:
                 scroll.verses[(bo, int(ch), ve)] = verse
                 words = Lsp.d(v, 'word')
                 for wo in words:
-                    word_processor = SPWordProcessor(wo)
+                    word_processor = SPWordProcessor(wo, sp_word_nodes)
                     sp_word_object = word_processor.create_word()
                     scroll.verses[(bo, int(ch), ve)].words.append(sp_word_object)

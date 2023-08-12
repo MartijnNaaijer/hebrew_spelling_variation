@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 from config import data_path
-from data_classes import Fsp, Lsp, Tsp, Scroll
+from data_classes import Scroll
 from special_data import df_columns
 
 FILE_NAME = 'matres_sp.csv'
@@ -14,12 +14,9 @@ class SPMatresProcessor:
     Parser for vowel letters in the Biblical DSS. This is done by comparing a stem of a word in the DSS with
     stems of the same lexeme in the MT.
     """
-    def __init__(self, corpus, relevant_data, matres_pattern_dict):
+    def __init__(self, corpus, relevant_data):
         self.corpus = corpus
         self.relevant_data = relevant_data
-        self.matres_pattern_dict = matres_pattern_dict
-
-        self.word_nodes = set(Fsp.otype.s('word'))
 
         self.biblical_sections = self.collect_biblical_sections()
         self.matres_sp_dict = {}
@@ -69,20 +66,6 @@ class SPMatresProcessor:
                           #word_obj.vt != 'impf'
         return all([is_hebrew, word_obj.lex, word_obj.g_cons, is_relevant])
 
-    def parse_prefix_g_cons_sp(self, tf_id):
-        prefix = ''
-        previous_word_id = tf_id - 1
-
-        while not Fsp.trailer.v(previous_word_id):
-            prev_word_g_cons = Fsp.g_cons.v(previous_word_id)
-            if not prev_word_g_cons:
-                prev_word_g_cons = ''
-            prefix = prev_word_g_cons + prefix
-            previous_word_id = previous_word_id - 1
-            if previous_word_id not in self.word_nodes:
-                break
-        return prefix
-
     def process_sp_scrolls(self):
         for scroll_name in Scroll.scrolls:
             if scroll_name != 'SP':
@@ -93,11 +76,9 @@ class SPMatresProcessor:
                     verse_obj = Scroll.scrolls[scroll_name].verses[section]
                     word_objects = [word for word in verse_obj.words if self.check_word_conditions(word)]
                     for w_obj in word_objects:
-                        w_obj.prefix = self.parse_prefix_g_cons_sp(w_obj.tf_word_id)
                         if not w_obj.stem:
                             continue
-                        pattern = ""
-                        stem_pattern = ""
+                        pattern, stem_pattern = '', ''
 
                         self.matres_sp_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,
@@ -107,15 +88,6 @@ class SPMatresProcessor:
                                                                   w_obj.sp, w_obj.prs_cons, w_obj.nme_cons, w_obj.hloc,
                                                                   w_obj.prefix, w_obj.rec_signs,
                                                                   w_obj.cor_signs, w_obj.heb_g_cons]
-
-    def get_matres_pattern(self, tf_id):
-        return self.matres_pattern_dict[tf_id]
-
-    @staticmethod
-    def get_stem_pattern(g_cons, stem, pattern):
-        start_idx = g_cons.find(stem)
-        end_idx = start_idx + len(stem)
-        return pattern[start_idx:end_idx]
 
     def save_sp_data(self):
         sp_matres_df = pd.DataFrame(self.matres_sp_dict).T
