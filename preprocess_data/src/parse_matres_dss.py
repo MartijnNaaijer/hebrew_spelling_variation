@@ -169,10 +169,9 @@ class DSSMatresProcessor:
     Parser for vowel letters in the Biblical DSS. This is done by comparing a stem of a word in the DSS with
     stems of the same lexeme in the MT.
     """
-    def __init__(self, corpus, relevant_data, matres_pattern_dict):
+    def __init__(self, corpus, relevant_data):
         self.corpus = corpus
         self.relevant_data = relevant_data
-        self.matres_pattern_dict = matres_pattern_dict
 
         self.biblical_sections = self.collect_biblical_sections()
         self.matres_dss_dict = {}
@@ -246,8 +245,7 @@ class DSSMatresProcessor:
                         w_obj.prefix = self.parse_prefix_g_cons_dss(w_obj.tf_word_id)
                         if not w_obj.stem:
                             continue
-                        pattern = self.get_matres_pattern(int(w_obj.tf_word_id))
-                        stem_pattern = self.get_stem_pattern(w_obj.g_cons, w_obj.stem, pattern)
+                        pattern, stem_pattern = '', ''
 
                         self.matres_dss_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,
@@ -257,9 +255,6 @@ class DSSMatresProcessor:
                                                                   w_obj.sp, w_obj.prs_cons, w_obj.nme_cons, w_obj.hloc,
                                                                   w_obj.prefix, w_obj.rec_signs,
                                                                   w_obj.cor_signs, w_obj.heb_g_cons]
-
-    def get_matres_pattern(self, tf_id):
-        return self.matres_pattern_dict[tf_id]
 
     @staticmethod
     def get_stem_pattern(g_cons, stem, pattern):
@@ -272,20 +267,3 @@ class DSSMatresProcessor:
         dss_matres_df.columns = df_columns
         self.dss_matres_df = dss_matres_df
         dss_matres_df.to_csv(os.path.join(data_path, FILE_NAME), sep='\t', index=False)
-
-
-class MatresPatternDataSet:
-    """
-    Create dictionary (matres_predictions_dict) with matres_pattern for each word in biblical DSS.
-    keys: int are text fabric ids of words.
-    values : str are matres patterns.
-    """
-    def __init__(self, matres_predictions_file_name: str):
-        self.matres_predictions_file_name = matres_predictions_file_name
-        self.matres_predictions_dict = self.matres_predictions_dict()
-
-    def matres_predictions_dict(self):
-        df = pd.read_csv(os.path.join(data_path, self.matres_predictions_file_name), sep='\t', header=None)
-        df.columns = ['tf_id', 'g_cons', 'matres_pattern']
-        matres_dict = {int(tf_id): matres_pattern for tf_id, matres_pattern in zip(df.tf_id, df.matres_pattern)}
-        return matres_dict

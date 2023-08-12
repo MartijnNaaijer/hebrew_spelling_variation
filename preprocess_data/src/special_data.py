@@ -38,7 +38,11 @@ POTENTIALLY_FEMININE_WORDS = {'<FR=/', '<FRH=/', '>RB</', '>XD/', 'CB</',
 USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/', '>XWT/']
 
 # >WN/ is sometimes awen, with suffix onka
-REMOVE_LEXEMES = {'BJT/', '>JN/', 'LJLH/', 'XJL/', 'MJM/', '<JN/', 'PTJ/', 'R>M/', 'R>CWN/', 'TWK/', '>WN=/', 'LJLJT/', 'XJH/'}
+REMOVE_LEXEMES = {'BJT/', '>JN/', 'LJLH/', 'XJL/', 'MJM/', '<JN/', 'PTJ/',
+                  'R>M/', 'R>CWN/', 'TWK/', '>WN=/', 'LJLJT/', 'XJH/',
+                  'FM>L/', 'R>C/', 'N>D/', 'YWN/'}
+# 'FM>L/', 'R>C/', 'N>D/' and 'YWN/' vary between one vowel letter
+# and two vowel letters, which is not studied.
 # Words with hardly variation in spelling. R>M/ is a special case
 # 'R>CWN/' has special patterns, look later
 

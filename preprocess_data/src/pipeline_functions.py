@@ -43,12 +43,12 @@ from remove_useless_hiphil_triliteral import UselessHiphilTriliteral
 from matres_column_hiphil_triliteral import MatresColumnAdderHifTriliteral
 
 
-def get_nouns_adjective_data(corpus, mt, matres_pattern_dataset):
+def get_nouns_adjective_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='subs_adjv')
     mt_nouns_adjectives_data = basic_mt_data_selector.select_data()
 
     # TODO: ADD SP TO mt_dss
-    matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv', matres_pattern_dataset.matres_predictions_dict)
+    matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv')
     matres_parser_sp = SPMatresProcessor(corpus, 'subs_adjv', "SP_MATRES_DATASET")
 
     with open(os.path.join(data_path, 'pattern_data_sp.json')) as j:
