@@ -205,7 +205,7 @@ class MTWordProcessor:
         return vbe_cons
 
 
-def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
+def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
     """
     :param stem: initial stem (needs further parsing)
     :param lex: lexeme
@@ -213,18 +213,18 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
     :param nu: number
     :param gn: gender
     :param sp: part of speech
-    :param suff: pronominal suffix
+    :param prs: pronominal suffix
     :return: stem and nme
     """
     nme = ''
     lex_no_special_signs = lex.strip('/').strip('=')
 
     if lex in j_lexemes:
-        if suff and stem.endswith('JJ') and nu == 'pl':
+        if prs and stem.endswith('JJ') and nu == 'pl':
             stem = stem.removesuffix('J')
             nme += 'J'
     else:
-        if suff and stem.endswith('J') and nu == 'pl':
+        if prs and stem.endswith('J') and nu == 'pl':
             stem = stem.removesuffix('J')
             nme += 'J'
 
@@ -249,9 +249,6 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, suff):
     elif sp == 'adjv' and lex_no_special_signs[-1] == 'J' and len(lex) > 1 and stem.endswith('T'):
         stem = stem.removesuffix('T')
         nme += 'T'
-    elif sp == 'adjv' and lex_no_special_signs[-1] == 'J' and len(lex) > 1 and stem.endswith('J'):
-        stem = stem.removesuffix('J')
-        nme = 'J' + nme
 
     if (stem.endswith('J') and state == 'c' and nu in {'du', 'pl'} and lex not in j_lexemes) or \
             (stem.endswith('J') and sp == 'prep'):

@@ -12,8 +12,7 @@ import pandas as pd
 
 from config import data_path, entropy
 from first_data_selection_mt import BasicMTDataSelector
-from parse_matres_dss import DSSMatresProcessor
-from parse_matres_sp import SPMatresProcessor
+from parse_matres_dss import SpDssDataProcessor
 
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder, RecCorColumnsAdder
@@ -48,8 +47,8 @@ def get_nouns_adjective_data(corpus, mt):
     mt_nouns_adjectives_data = basic_mt_data_selector.select_data()
 
     # TODO: ADD SP TO mt_dss
-    matres_parser_dss = DSSMatresProcessor(corpus, 'subs_adjv')
-    matres_parser_sp = SPMatresProcessor(corpus, 'subs_adjv')
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss', 'subs_adjv')
+    matres_parser_sp = SpDssDataProcessor(corpus, 'sp', 'subs_adjv')
 
     with open(os.path.join(data_path, 'pattern_data_sp.json')) as j:
         pattern_dict_sp = json.loads(j.read())
@@ -58,7 +57,7 @@ def get_nouns_adjective_data(corpus, mt):
     pattern_l = []
     pattern_g_cons_l = []
 
-    sp = matres_parser_sp.sp_matres_df
+    sp = matres_parser_sp.matres_df
 
     for _, row in sp.iterrows():
         tf_id = row.tf_id
@@ -104,7 +103,7 @@ def get_nouns_adjective_data(corpus, mt):
 
     sp.to_csv(os.path.join(data_path, 'test_sp.csv'), sep='\t')
 
-    mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.dss_matres_df])
+    mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
 
     with open(os.path.join(data_path, 'pattern_data.json')) as j:
@@ -170,10 +169,10 @@ def get_qal_infinitive_construct_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='infc_qal')
     mt_infc_qal_df = basic_mt_data_selector.select_data()
 
-    matres_parser_dss = DSSMatresProcessor(corpus,
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='infc_qal')
 
-    mt_dss_infc_qal_df = pd.concat([mt_infc_qal_df, matres_parser_dss.dss_matres_df])
+    mt_dss_infc_qal_df = pd.concat([mt_infc_qal_df, matres_parser_dss.matres_df])
     mt_dss_infc_qal_df = mt_dss_infc_qal_df.sort_values(by=['tf_id'])
 
     mt_dss_infc_qal_df['other_vowel_ending'] = ''
@@ -221,10 +220,10 @@ def get_participle_qal_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
     mt_ptc_qal_df = basic_mt_data_selector.select_data()
 
-    matres_parser_dss = DSSMatresProcessor(corpus,
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='ptc_qal')
 
-    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, matres_parser_dss.dss_matres_df])
+    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, matres_parser_dss.matres_df])
     mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
 
     useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
@@ -276,10 +275,10 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='niph_hiph_pe_yod')
     mt_niph_hiph_pe_yod_df = basic_mt_data_selector.select_data()
 
-    matres_parser_dss = DSSMatresProcessor(corpus,
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='niph_hiph_pe_yod')
 
-    niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.dss_matres_df])
+    niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.matres_df])
     niph_hiph_pe_yod_df = niph_hiph_pe_yod_df.sort_values(by=['tf_id'])
 
     niph_hiph_pe_yod_df['other_vowel_ending'] = ''
@@ -308,10 +307,10 @@ def get_triliteral_hiphil(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='hiph_triliteral')
     mt_hiph_triliteral_df = basic_mt_data_selector.select_data()
 
-    matres_parser_dss = DSSMatresProcessor(corpus,
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='hiph_triliteral')
 
-    hiph_triliteral_df = pd.concat([mt_hiph_triliteral_df, matres_parser_dss.dss_matres_df])
+    hiph_triliteral_df = pd.concat([mt_hiph_triliteral_df, matres_parser_dss.matres_df])
     hiph_triliteral_df = hiph_triliteral_df.sort_values(by=['tf_id'])
 
     hiph_triliteral_df['other_vowel_ending'] = ''
@@ -338,10 +337,10 @@ def get_qal_infinitive_absolute(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='inf_abs_qal')
     mt_qal_inf_abs = basic_mt_data_selector.select_data()
 
-    matres_parser_dss = DSSMatresProcessor(corpus,
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='inf_abs_qal')
 
-    qal_inf_abs_df = pd.concat([mt_qal_inf_abs, matres_parser_dss.dss_matres_df])
+    qal_inf_abs_df = pd.concat([mt_qal_inf_abs, matres_parser_dss.matres_df])
     qal_inf_abs_df = qal_inf_abs_df.sort_values(by=['tf_id'])
 
     qal_inf_abs_df['other_vowel_ending'] = ''
@@ -372,10 +371,10 @@ def get_particles(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='particles')
     mt_particles = basic_mt_data_selector.select_data()
 
-    matres_parser_dss = DSSMatresProcessor(corpus,
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='particles')
 
-    particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
+    particles_df = pd.concat([mt_particles, matres_parser_dss.matres_df])
     particles_df = particles_df.sort_values(by=['tf_id'])
 
     particles_df['other_vowel_ending'] = ''
@@ -406,12 +405,12 @@ def get_yiqtol_wayyiqtol_hollow_roots(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='yiq_wayq_hollow')
     mt_particles = basic_mt_data_selector.select_data()
 
-    matres_parser_dss = DSSMatresProcessor(corpus,
+    matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='yiq_wayq_hollow')
 
     pass
 
-    # particles_df = pd.concat([mt_particles, matres_parser_dss.dss_matres_df])
+    # particles_df = pd.concat([mt_particles, matres_parser_dss.matres_df])
     # particles_df = particles_df.sort_values(by=['tf_id'])
     #
     # particles_df['other_vowel_ending'] = ''
