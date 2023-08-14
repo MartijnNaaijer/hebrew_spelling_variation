@@ -58,6 +58,8 @@ class Word:
     g_pfm: str = ''
     g_vbs: str = ''
     g_vbe: str = ''
+    stem_pattern = ''
+    pattern = ''
 
 
 @dataclass

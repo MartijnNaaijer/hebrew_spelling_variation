@@ -74,16 +74,13 @@ class SPMatresProcessor:
                 if section in Scroll.scrolls[scroll_name].verses:
                     bo, ch, ve = section
                     verse_obj = Scroll.scrolls[scroll_name].verses[section]
-                    word_objects = [word for word in verse_obj.words if self.check_word_conditions(word)]
+                    word_objects = [word for word in verse_obj.words if (self.check_word_conditions(word) and word.stem)]
                     for w_obj in word_objects:
-                        if not w_obj.stem:
-                            continue
-                        pattern, stem_pattern = '', ''
 
                         self.matres_sp_dict[w_obj.tf_word_id] = [w_obj.tf_word_id, scroll_name,
                                                                   bo, ch, ve, w_obj.lex,
-                                                                  w_obj.g_cons, w_obj.stem, stem_pattern,
-                                                                  pattern, w_obj.vs, w_obj.vt,
+                                                                  w_obj.g_cons, w_obj.stem, w_obj.stem_pattern,
+                                                                  w_obj.pattern, w_obj.vs, w_obj.vt,
                                                                   w_obj.number, w_obj.gender, w_obj.person,
                                                                   w_obj.sp, w_obj.prs_cons, w_obj.nme_cons, w_obj.hloc,
                                                                   w_obj.prefix, w_obj.rec_signs,
