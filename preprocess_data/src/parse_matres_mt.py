@@ -195,9 +195,10 @@ class MTMatresProcessor:
                 g_cons = word.g_cons
                 stem = word.stem
                 # TODO: lines below in distinct function. MOVE TO PARSING OF NME
-                if word.gender == 'f' and word.lex.rstrip('/').rstrip('=').endswith('WT') and word.sp == 'subs' and not stem.endswith('T') and word.lex not in no_ut_lexemes:
-                    nme = word.nme_cons.strip('T')
+                if word.gender == 'f' and word.lex.rstrip('/').rstrip('=').endswith('WT') and word.sp == 'subs' and word.number == 'sg' and not stem.endswith('T') and word.lex not in no_ut_lexemes:
+                    nme = word.nme_cons.lstrip('T')
                     stem += 'T'
+
                 else:
                     nme = word.nme_cons
 

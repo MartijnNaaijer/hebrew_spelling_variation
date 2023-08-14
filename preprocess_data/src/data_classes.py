@@ -644,6 +644,7 @@ class DSSWordProcessor:
             previous_word_id = previous_word_id - 1
         return prefix
 
+
 class SPWordProcessor:
     """"""
     def __init__(self, tf_id, sp_word_nodes):
@@ -668,9 +669,9 @@ class SPWordProcessor:
         self.lang = Fsp.language.v(tf_id)
         self.rec_signs = ''.join(['n' for char in self.glyphs])
         self.cor_signs = ''.join(['n' for char in self.glyphs])
-        self.stem = Fsp.g_lex.v(tf_id)
         self.nme = self.get_nme()
         self.prs = self.get_prs()
+        self.stem = self.get_stem()
         self.heb_text_adder = HebrewTextAdder(self.glyphs)
         self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
         self.prefix = self.parse_prefix_g_cons_sp()
@@ -731,7 +732,12 @@ class SPWordProcessor:
 
     def get_stem(self):
         """Not implemented yet"""
-        return None
+        stem = Fsp.g_lex.v(self.tf_id)
+        if self.lexeme in {'>XWT/', 'MLKWT/', 'XMWT/', '<DWT/'} and self.number == 'sg' \
+                and not stem.endswith('T') and self.nme.startswith('T'):
+            stem += 'T'
+            self.nme = self.nme.lstrip('T')
+        return stem
 
     def get_nme(self):
         nme_cons = ''.join([ch for ch in Fsp.g_nme.v(self.tf_id) if ch in self.consonants])

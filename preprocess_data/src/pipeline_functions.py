@@ -12,7 +12,7 @@ import pandas as pd
 
 from config import data_path, entropy
 from first_data_selection_mt import BasicMTDataSelector
-from parse_matres_dss import SpDssDataProcessor
+from process_data_sp_dss import SpDssDataProcessor
 
 from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherVowelEndingsColumnAdder, \
     FinalYodRemover, MTDSSHelpColumnsAdder, MatresColumnAdder, RecCorColumnsAdder
