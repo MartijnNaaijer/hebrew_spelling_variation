@@ -15,7 +15,7 @@ from dataclasses import dataclass, field
 
 from add_hebrew_text_column import HebrewTextAdder
 from config import bhsa_version, dss_version, sp_version
-from special_data import j_lexemes, fem_end_words
+from special_data import j_lexemes, fem_end_words, fem_ending_numbers, relevant_wt_words
 
 from tf.app import use
 DSS = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
@@ -48,9 +48,9 @@ class Word:
     lang: str
     rec_signs: str
     cor_signs: str
-    stem: str = None
-    prs_cons: str = None
-    nme_cons: str = None
+    stem: str = ''
+    prs_cons: str = ''
+    nme_cons: str = ''
     hloc: str = ''
     matres_pattern: str = ''
     prefix: str = ''
@@ -106,9 +106,9 @@ class MTWordProcessor:
         self.lang = F.language.v(tf_id)
         self.rec_signs = ''.join(['n' for char in self.glyphs])
         self.cor_signs = ''.join(['n' for char in self.glyphs])
-        self.stem = self.get_stem()
         self.nme = self.get_nme()
         self.prs = self.get_prs()
+        self.stem = self.get_stem()
         self.heb_text_adder = HebrewTextAdder(self.glyphs)
         self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
         self.g_pfm = self.get_pfm()
@@ -175,8 +175,16 @@ class MTWordProcessor:
         return prs_cons
 
     def get_stem(self):
-        return ''.join([ch for ch in F.g_lex.v(self.tf_id)
+        stem = ''.join([ch for ch in F.g_lex.v(self.tf_id)
                         if ch in self.consonants])
+        if self.lexeme in relevant_wt_words and self.number == 'sg' \
+                and not stem.endswith('T') and self.nme.startswith('T'):
+            stem += 'T'
+            self.nme = self.nme.lstrip('T')
+        elif self.lexeme in fem_ending_numbers:
+            stem = stem[:-1]
+            self.nme = 'T' + self.nme
+        return stem
 
     def get_nme(self):
         g_nme = F.g_nme.v(self.tf_id)
@@ -305,6 +313,11 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
     if lex in {'DBWRH/', 'GBWRH/', 'PLJVH/', 'MNWSH/', 'MBWSH/', 'PH/', 'DWD=/'} and stem.endswith('>'):
         stem = stem[:-1]
         nme = '>' + nme
+
+    if lex in fem_ending_numbers:
+        if stem.endswith('T'):
+            stem = stem[:-1]
+            nme = 'T' + nme
 
     if lex in fem_end_words:
         if nu == 'pl' and stem.endswith('T'):
@@ -733,10 +746,13 @@ class SPWordProcessor:
     def get_stem(self):
         """Not implemented yet"""
         stem = Fsp.g_lex.v(self.tf_id)
-        if self.lexeme in {'>XWT/', 'MLKWT/', 'XMWT/', '<DWT/'} and self.number == 'sg' \
+        if self.lexeme in relevant_wt_words and self.number == 'sg' \
                 and not stem.endswith('T') and self.nme.startswith('T'):
             stem += 'T'
             self.nme = self.nme.lstrip('T')
+        elif self.lexeme in fem_ending_numbers:
+            stem = stem[:-1]
+            self.nme = 'T' + self.nme
         return stem
 
     def get_nme(self):

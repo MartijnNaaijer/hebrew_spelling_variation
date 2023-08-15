@@ -192,20 +192,11 @@ class MTMatresProcessor:
             for word in verse_obj.words:
                 if word.lang != 'Hebrew':
                     continue
-                g_cons = word.g_cons
-                stem = word.stem
-                # TODO: lines below in distinct function. MOVE TO PARSING OF NME
-                if word.gender == 'f' and word.lex.rstrip('/').rstrip('=').endswith('WT') and word.sp == 'subs' and word.number == 'sg' and not stem.endswith('T') and word.lex not in no_ut_lexemes:
-                    nme = word.nme_cons.lstrip('T')
-                    stem += 'T'
 
-                else:
-                    nme = word.nme_cons
-
-                matres_pattern_stem = self.get_stem_matres_pattern(g_cons, stem, word.matres_pattern)
-                export_bhsa_list = [word.tf_word_id, 'MT', bo, ch, ve, word.lex, g_cons, stem,
+                matres_pattern_stem = self.get_stem_matres_pattern(word.g_cons, word.stem, word.matres_pattern)
+                export_bhsa_list = [word.tf_word_id, 'MT', bo, ch, ve, word.lex, word.g_cons, word.stem,
                                     matres_pattern_stem, word.matres_pattern, word.vs, word.vt,
-                                    word.number, word.gender, word.person, word.sp, word.prs_cons, nme, word.hloc,
+                                    word.number, word.gender, word.person, word.sp, word.prs_cons, word.nme_cons, word.hloc,
                                     word.prefix, word.rec_signs, word.cor_signs, word.heb_g_cons]
 
                 self.bhsa_export_dict[word.tf_word_id] = export_bhsa_list

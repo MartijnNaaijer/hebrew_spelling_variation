@@ -9,14 +9,19 @@ no_ut_lexemes = {'TWY>WT/', 'NVJCWT/', 'TWLDWT/', 'BXWRWT/', '<LLWT/', 'XMDWT/'}
 # Solution for masculine words with feminine plural endings.
 fem_end_words = {'DWR/', 'MQWM/', '>RMWN/', '>WYR/', 'M>WR/', 'M<WN/', 'LWX/', '>RX/', 'ZMJR/', '<WN/'}
 
+# words from which nme T should be stripped
+fem_ending_numbers = {'CLJCJT/', 'XMJCJT/'}
+
+# We want to keep these in the analysis.
+relevant_wt_words = {'>XWT/', 'MLKWT/', 'XMWT/', '<DWT/', 'KBDT/'}
+
 j_lexemes = ['<BJ/', '<CTJ/', '<DJ/', '<J/', '<LJ/', '<NJ=/', '<PJ/', '>BWJ/', '>J=/', '>JTJ/', '>NJ/', '>PRSJ/',
              '>PRSKJ/', '>PRSTKJ/', '>RJ/', 'BKJ/', 'BLJ/', 'BLWJ/', 'CBJ/', 'CJ/', 'CLJ/', 'CMJM/', 'CNJ/', 'CPJ/',
              'CTJ/', 'CTJ=/', 'DJ/', 'DLJ/', 'DMJ/', 'DMJ=/', 'DPJ/', 'DWJ/', 'DXJ', 'FDJ/', 'GBJ/', 'GDJ/', 'GWJ/',
              'HBHBJ/', 'HJ/', 'JPJ/', 'KJ/', 'KJLJ', 'KSWJ/', 'LJLJ/', 'LWJ/', 'M<J/', 'MJM/', 'MC<J/', 'MCJ/', 'MRJ/',
-             'MXJ/',
-             'NCJ/', 'NDJ/', 'NHJ/', 'NJ/', 'NQJ/', 'PLMNJ/', 'PRJ/', 'PTJ/', 'PWYJ/', 'QCJ/', 'QLJ/', 'QRJ/', 'QWJ/',
-             'R<J/', 'R>J=/', 'RJ/', 'RZJ/', 'SKJ/', 'TPTJ/', 'TXNTJ', 'TXTJ/', 'VRPLJ/', 'XFWPJ/', 'XJJM/', 'XLJ/',
-             'XRJ=/', 'XWRJ/', 'XYJ/', 'XYJ=/', 'YBJ/', 'YJ/', 'YLJ/', 'YPWJ/', 'YRJ/', 'YRPJ/']
+             'MXJ/', 'NCJ/', 'NDJ/', 'NHJ/', 'NJ/', 'NQJ/', 'PLMNJ/', 'PRJ/', 'PTJ/', 'PWYJ/', 'QCJ/', 'QLJ/', 'QRJ/',
+             'QWJ/', 'R<J/', 'R>J=/', 'RJ/', 'RZJ/', 'SKJ/', 'TPTJ/', 'TXNTJ', 'TXTJ/', 'VRPLJ/', 'XFWPJ/', 'XJJM/',
+             'XLJ/', 'XRJ=/', 'XWRJ/', 'XYJ/', 'XYJ=/', 'YBJ/', 'YJ/', 'YLJ/', 'YPWJ/', 'YRJ/', 'YRPJ/']
 
 df_columns = ['tf_id', 'scroll',
               'book', 'chapter',
@@ -76,4 +81,7 @@ AD_HOC_REMOVALS = {
     2078672: "8Q4	Deuteronomy	11	16	>LHJM/	>LWJM	>LW	CCC	CCCMC REASON H IS MISSING",
     2028922: "4Q64	Isaiah	29	3	MYWRH/	MYWWT	MYW	CCC	CCCMC REASON: R IS MISSING",
     2054387: "4Q98g Psalms 89 23 <WLH/ <L CC: MISSING CONSONANT W",
+    464998: "SP	Leviticus	11	19	DWKJPT/	DGJPT	DGJPT: CONSONANT G IPV K",
+    509232:	"SP	Deuteronomy	14	18	DWKJPT/	DGJPT	DGJPT: CONSONANT G IPV K",
+    409974:	"SP	Genesis	10	4	DDNJ=/	RWDNJM	RWDN: CONSONANT R IPV D",
     }
