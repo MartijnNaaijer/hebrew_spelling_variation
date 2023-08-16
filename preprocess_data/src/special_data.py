@@ -3,9 +3,6 @@
 
 """
 
-# Plural as lexeme, occurring only as plural.
-no_ut_lexemes = {'TWY>WT/', 'NVJCWT/', 'TWLDWT/', 'BXWRWT/', '<LLWT/', 'XMDWT/'}
-
 # Solution for masculine words with feminine plural endings.
 fem_end_words = {'DWR/', 'MQWM/', '>RMWN/', '>WYR/', 'M>WR/', 'M<WN/', 'LWX/', '>RX/', 'ZMJR/', '<WN/'}
 
@@ -77,6 +74,7 @@ AD_HOC_REMOVALS = {
     2066698: "4Q135	Deuteronomy	5	30	>HL/	>HLJLJKM	>HLJL	CCCMC REASON: ADDITION OF JL",
     1993941: "4Q45 Deuteronomy 15 9 >BJWN/ JWN JWN CCC CCC, REASON: >B IS MISSING",
     1944264: "4Q11 Exodus 18 20 XQ/ JM JM CC CC REASON: XQ SI MISSING",
+    1974715:	"4Q27	Numbers	26	17	>R>LJ/	>RJ>LJ	>RJ>L",
     2013028: "4Q53	2_Samuel	14	25	QDQD/	QWQDW	QWQD	CMCC REASON: D is missing",
     2078672: "8Q4	Deuteronomy	11	16	>LHJM/	>LWJM	>LW	CCC	CCCMC REASON H IS MISSING",
     2028922: "4Q64	Isaiah	29	3	MYWRH/	MYWWT	MYW	CCC	CCCMC REASON: R IS MISSING",
@@ -84,4 +82,8 @@ AD_HOC_REMOVALS = {
     464998: "SP	Leviticus	11	19	DWKJPT/	DGJPT	DGJPT: CONSONANT G IPV K",
     509232:	"SP	Deuteronomy	14	18	DWKJPT/	DGJPT	DGJPT: CONSONANT G IPV K",
     409974:	"SP	Genesis	10	4	DDNJ=/	RWDNJM	RWDN: CONSONANT R IPV D",
+    492388:	"SP	Numbers	23	24	LBJ>/	LBJH	LBJ	CCC: > has dropped",
+    492643:	"SP	Numbers	24	9	LBJ>/	LBJH	LBJH: > has dropped",
+    519943:	"SP	Deuteronomy	33	20	LBJ>/	LBJH	LBJ",
+    493495:	"SP	Numbers	26	17	>R>LJ/	>RWLJ	>RWL: consonantal > has dropped",
     }

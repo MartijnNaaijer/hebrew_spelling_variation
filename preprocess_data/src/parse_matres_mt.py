@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 from config import data_path
-from data_classes import F, L, T, Fdss, Ldss, Tdss, Scroll
-from special_data import df_columns, no_ut_lexemes
+from data_classes import F, L, Scroll
+from special_data import df_columns
 
 FILE_NAME = 'matres_mt.csv'
 
