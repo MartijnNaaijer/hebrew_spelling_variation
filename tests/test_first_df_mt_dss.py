@@ -28,9 +28,17 @@ def input_df():
 
 
 @pytest.fixture(scope="module")
-def input_df_list():
-    df_list = [pd.read_csv(os.path.join(ROOT_DIR, DATA_FOLDER, data_file), sep='\t') for data_file in ALL_DATASETS]
-    return df_list
+def input_num():
+    return 5
+
+
+def test_num(input_num):
+    assert input_num == 5
+
+#@pytest.fixture(scope="module")
+#def input_df_list():
+#    df_list = [pd.read_csv(os.path.join(ROOT_DIR, DATA_FOLDER, data_file), sep='\t') for data_file in ALL_DATASETS]
+#    return df_list
 
 
 #def test_all_lex_type_have_same_consonant_counts(input_df):
@@ -67,4 +75,5 @@ def test_all_stems_should_have_same_length_as_stem_patterns(input_df):
 # TODO: check that MT in scrolls, together with other scrolls
 # Check that all datasets have same column names.
 
-
+if __name__ == '__main__':
+    test_all_stems_should_have_same_length_as_stem_patterns(input_df)
