@@ -64,7 +64,6 @@ def get_nouns_adjective_data(corpus, mt):
         stem = row.stem
         g_cons = row.g_cons
         stem_idx = g_cons.find(stem)
-
         pat_g_cons = pattern_integer_dict_sp.get(tf_id, [''])
         pattern_stem = pat_g_cons[stem_idx:stem_idx + len(stem)]
         pattern_g_cons_l.append(pat_g_cons)
@@ -113,9 +112,14 @@ def get_nouns_adjective_data(corpus, mt):
     pattern_l = []
     pattern_g_cons_l = []
 
-    for tf_id in mt_dss.tf_id:
-        pat, pat_g_cons = pattern_integer_dict.get(int(tf_id), ['', ''])
-        pattern_l.append(pat)
+    for tf_id, g_cons, stem in zip(mt_dss.tf_id, mt_dss.g_cons, mt_dss.stem):
+        stem_idx = g_cons.find(stem)
+        _, pat_g_cons = pattern_integer_dict.get(int(tf_id), ['', ''])
+        if not isinstance(pat_g_cons, str):
+            pattern_stem = ''
+        else:
+            pattern_stem = pat_g_cons[stem_idx:stem_idx + len(stem)]
+        pattern_l.append(pattern_stem)
         pattern_g_cons_l.append(pat_g_cons)
 
     mt_dss['pattern'] = pattern_l
