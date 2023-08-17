@@ -28,17 +28,9 @@ def input_df():
 
 
 @pytest.fixture(scope="module")
-def input_num():
-    return 5
-
-
-def test_num(input_num):
-    assert input_num == 5
-
-#@pytest.fixture(scope="module")
-#def input_df_list():
-#    df_list = [pd.read_csv(os.path.join(ROOT_DIR, DATA_FOLDER, data_file), sep='\t') for data_file in ALL_DATASETS]
-#    return df_list
+def input_df_list():
+    df_list = [pd.read_csv(os.path.join(ROOT_DIR, DATA_FOLDER, data_file), sep='\t') for data_file in ALL_DATASETS]
+    return df_list
 
 
 #def test_all_lex_type_have_same_consonant_counts(input_df):
@@ -58,22 +50,19 @@ def test_all_stems_should_have_same_length_as_stem_patterns(input_df):
     assert all([len(stem) == len(stem_pattern) for stem, stem_pattern in zip(input_df.stem, input_df.pattern)])
 
 
-# def test_that_all_datasets_have_same_columns(input_df_list):
-#     columns_set = {tuple(df.columns) for df in input_df_list}
-#     assert len(columns_set) == 1
-#
-#
-# def test_scrolls_col_mt_great_scroll_and_others_should_be_there(input_df_list):
-#     """Check if MT and 1QIsaa occur in each dataset,
-#     and check if more than 3 different scrolls are found in each dataset."""
-#     scrolls_per_df_set = {tuple(set(df.scroll)) for df in input_df_list}
-#     assert all(['MT' in all_scrolls for all_scrolls in scrolls_per_df_set])
-#     assert all(['1Qisaa' in all_scrolls for all_scrolls in scrolls_per_df_set])
-#     assert all([len(all_scrolls) > 3 for all_scrolls in scrolls_per_df_set])
+def test_that_all_datasets_have_same_columns(input_df_list):
+    columns_set = {tuple(df.columns) for df in input_df_list}
+    assert len(columns_set) == 1
+
+
+def test_scrolls_col_mt_great_scroll_and_others_should_be_there(input_df_list):
+    """Check if MT and 1QIsaa occur in each dataset,
+    and check if more than 3 different scrolls are found in each dataset."""
+    scrolls_per_df_set = {tuple(set(df.scroll)) for df in input_df_list}
+    assert all(['MT' in all_scrolls for all_scrolls in scrolls_per_df_set])
+    assert all(['1Qisaa' in all_scrolls for all_scrolls in scrolls_per_df_set])
+    assert all([len(all_scrolls) > 3 for all_scrolls in scrolls_per_df_set])
 
 
 # TODO: check that MT in scrolls, together with other scrolls
 # Check that all datasets have same column names.
-
-if __name__ == '__main__':
-    test_all_stems_should_have_same_length_as_stem_patterns(input_df)
