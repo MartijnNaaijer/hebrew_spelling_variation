@@ -50,6 +50,10 @@ def test_all_stems_should_have_same_length_as_stem_patterns(input_df):
     assert all([len(stem) == len(stem_pattern) for stem, stem_pattern in zip(input_df.stem, input_df.pattern)])
 
 
+def test_all_g_cons_should_have_same_length_as_g_cons_patterns(input_df):
+    assert all([len(g_cons) == len(g_cons_pattern) for g_cons, g_cons_pattern in zip(input_df.g_cons, input_df.pattern_g_cons)])
+
+
 def test_that_all_datasets_have_same_columns(input_df_list):
     columns_set = {tuple(df.columns) for df in input_df_list}
     assert len(columns_set) == 1
