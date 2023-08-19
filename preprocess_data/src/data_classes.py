@@ -407,9 +407,12 @@ class DSSWordProcessor:
             if Fdss.morpho.v(self.tf_id):
                 if self.sp == 'verb' and Fdss.morpho.v(self.tf_id)[-1] == 'h':
                     self.stem = self.stem.rstrip('H')
-        self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
-        self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
-        self.g_vbe = self.get_vbe()
+        if self.sp == 'verb':
+            self.g_pfm = self.get_pfm()  # So far only for hifil triliteral!!
+            self.g_vbs = self.get_vbs()  # So far only for hifil triliteral!!
+            self.g_vbe = self.get_vbe()
+        else:
+            self.g_pfm, self.g_vbs, self.g_vbe = '', '', ''
         self.prefix = self.parse_prefix_g_cons_dss()
 
     def create_word(self):
