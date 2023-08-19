@@ -12,13 +12,15 @@ fem_ending_numbers = {'CLJCJT/', 'XMJCJT/'}
 # We want to keep these in the analysis.
 relevant_wt_words = {'>XWT/', 'MLKWT/', 'XMWT/', '<DWT/', 'KBDT/'}
 
+CONSONANTAL_J_LEXEMES = {'GWJ/', 'DWJ/', 'QWJ/', 'XJJM/', 'GWJ/', 'XJJM/', 'YPWJ/', 'KJLJ/', 'PWYJ/'}
+
 j_lexemes = ['<BJ/', '<CTJ/', '<DJ/', '<J/', '<LJ/', '<NJ=/', '<PJ/', '>BWJ/', '>J=/', '>JTJ/', '>NJ/', '>PRSJ/',
              '>PRSKJ/', '>PRSTKJ/', '>RJ/', 'BKJ/', 'BLJ/', 'BLWJ/', 'CBJ/', 'CJ/', 'CLJ/', 'CMJM/', 'CNJ/', 'CPJ/',
-             'CTJ/', 'CTJ=/', 'DJ/', 'DLJ/', 'DMJ/', 'DMJ=/', 'DPJ/', 'DWJ/', 'DXJ', 'FDJ/', 'GBJ/', 'GDJ/', 'GWJ/',
-             'HBHBJ/', 'HJ/', 'JPJ/', 'KJ/', 'KJLJ', 'KSWJ/', 'LJLJ/', 'LWJ/', 'M<J/', 'MJM/', 'MC<J/', 'MCJ/', 'MRJ/',
-             'MXJ/', 'NCJ/', 'NDJ/', 'NHJ/', 'NJ/', 'NQJ/', 'PLMNJ/', 'PRJ/', 'PTJ/', 'PWYJ/', 'QCJ/', 'QLJ/', 'QRJ/',
-             'QWJ/', 'R<J/', 'R>J=/', 'RJ/', 'RZJ/', 'SKJ/', 'TPTJ/', 'TXNTJ', 'TXTJ/', 'VRPLJ/', 'XFWPJ/', 'XJJM/',
-             'XLJ/', 'XRJ=/', 'XWRJ/', 'XYJ/', 'XYJ=/', 'YBJ/', 'YJ/', 'YLJ/', 'YPWJ/', 'YRJ/', 'YRPJ/']
+             'CTJ/', 'CTJ=/', 'DJ/', 'DLJ/', 'DMJ/', 'DMJ=/', 'DPJ/', 'DWJ/', 'DXJ', 'FDJ/', 'GBJ/', 'GDJ/',
+             'HBHBJ/', 'HJ/', 'JPJ/', 'KJ/', 'KSWJ/', 'LJLJ/', 'LWJ/', 'M<J/', 'MJM/', 'MC<J/', 'MCJ/', 'MRJ/',
+             'MXJ/', 'NCJ/', 'NDJ/', 'NHJ/', 'NJ/', 'NQJ/', 'PLMNJ/', 'PRJ/', 'PTJ/', 'QCJ/', 'QLJ/', 'QRJ/',
+             'R<J/', 'R>J=/', 'RJ/', 'RZJ/', 'SKJ/', 'TPTJ/', 'TXNTJ', 'TXTJ/', 'VRPLJ/', 'XFWPJ/', 'XJJM/',
+             'XLJ/', 'XRJ=/', 'XWRJ/', 'XYJ/', 'XYJ=/', 'YBJ/', 'YJ/', 'YLJ/', 'YRJ/', 'YRPJ/']
 
 df_columns = ['tf_id', 'scroll',
               'book', 'chapter',

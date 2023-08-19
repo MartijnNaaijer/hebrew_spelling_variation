@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 from data_classes import F, Fdss, Ldss
-from special_data import POTENTIALLY_FEMININE_WORDS
+from special_data import POTENTIALLY_FEMININE_WORDS, CONSONANTAL_J_LEXEMES
 
 
 class FinalAlephConverter:
@@ -116,7 +116,7 @@ class FinalYodRemover:
     """
     def __init__(self, data):
         self.data = data
-        self.cons_j_lexemes = {'GWJ/', 'DWJ/', 'QWJ/', 'XJJM/'}
+        self.cons_j_lexemes = CONSONANTAL_J_LEXEMES
         self.j_lexemes_list = self.check_final_j_lexemes_and_stems()
         self.j_aleph_lexemes_list = self.check_final_j_aleph_lexemes_and_stems()
 
