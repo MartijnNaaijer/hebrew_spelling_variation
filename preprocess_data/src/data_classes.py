@@ -380,6 +380,7 @@ class DSSWordProcessor:
         self.lexeme = Fdss.lex_etcbc.v(tf_id)
         self.glyphs = None
         self.hloc = self.get_he_locale()
+        self.uvf_n = ''
         self.prs = ''
         self.nme = ''
         self.sp = Fdss.sp_etcbc.v(tf_id)
@@ -401,7 +402,7 @@ class DSSWordProcessor:
             self.heb_g_cons = self.heb_text_adder.get_hebrew_g_cons()
         self.stem = self.glyphs
         if self.stem:
-            self.stem = self.stem.removesuffix(self.hloc).removesuffix(self.prs)
+            self.stem = self.stem.removesuffix(self.hloc).removesuffix(self.prs).removesuffix(self.uvf_n)
             if self.lexeme:
                 self.parse_nme()
             if Fdss.morpho.v(self.tf_id):
@@ -524,8 +525,11 @@ class DSSWordProcessor:
         If not, then it is a pronominal suffix.
         """
         if "'" in glyphs and not self.hloc:
-            self.prs = glyphs.split("'")[1]
-
+            if self.lexeme == '<WD/' and "'N" in glyphs:
+                self.prs = glyphs.split("'N")[1]
+                self.uvf_n = 'N'
+            else:
+                self.prs = glyphs.split("'")[1]
         glyphs = glyphs.replace("'", '')
         return glyphs
 
