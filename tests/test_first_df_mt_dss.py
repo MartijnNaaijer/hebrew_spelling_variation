@@ -33,16 +33,28 @@ def input_df_list():
     return df_list
 
 
-#def test_all_lex_type_have_same_consonant_counts(input_df):
+def test_all_lex_type_have_same_consonant_counts(input_df):
     """Check that the count of C in every stem is equal for a lexeme/type combination.
     """
-#    for lex, typ in set(zip(input_df.lex, input_df.type)):
-#        lex_typ_dat = input_df[(input_df.lex == lex) & (input_df.type == typ)]
-#        cons_counts = len({pat[1:].count('C') for pat in set(lex_typ_dat.pattern)})
-#        assert cons_counts == 1
+    for lex, typ in set(zip(input_df.lex, input_df.type)):
+        lex_typ_dat = input_df[(input_df.lex == lex) & (input_df.type == typ)]
+        cons_counts = len({pat[1:].count('C') for pat in set(lex_typ_dat.pattern)})
+        assert cons_counts == 1
 
-# def test_absence_of_verbal_elements(input_df):
- #   assert 'qal' not in list(input_df.vs)
+
+def test_all_lex_type_have_same_consonants_in_mt_and_sp(input_df):
+    """Potential vowel letters are removed, the other characters should be identical
+    DSS are excluded here, there are some allowed cases there of weakening of <, X, etc"""
+    mt_sp = input_df[input_df.scroll.isin(['MT', 'SP'])]
+    for lex, typ in set(zip(mt_sp.lex, mt_sp.type)):
+        lex_typ_dat = mt_sp[(mt_sp.lex == lex) & (mt_sp.type == typ)]
+        stem_char_set = {tuple(sorted(list(set(stem.replace('J', '').replace('W', '').replace('>', ''))))) for stem in
+                     set(lex_typ_dat.stem)}
+        assert len(stem_char_set) == 1
+
+
+def test_absence_of_verbal_elements(input_df):
+    assert len({val for val in input_df.vs if isinstance(val, str)}.intersection({'qal', 'nif', 'hif', 'piel', 'pual', 'hit'})) == 0
     # assert len(set(input_df.vt)) == 1
 
 
@@ -59,10 +71,28 @@ def test_all_g_cons_should_start_with_stem(input_df):
 
 
 def test_stem_pattern_should_not_end_with_mater(input_df):
-    assert all([pattern[-1] != 'M' for pattern in input_df.pattern])
+    assert all([pattern[-1] == 'C' for pattern in input_df.pattern])
 
 
-def test_that_all_datasets_have_same_columns(input_df_list):
+def test_vowel_letters_should_only_be_aleph_he_waw(input_df):
+    vowel_letters_allowed = {'>', 'W', 'J'}
+    vowel_letters_observed = set()
+    for stem, pattern in zip(input_df.stem, input_df.pattern):
+        for stem_char, pattern_char in zip(stem, pattern):
+            if pattern_char == 'M':
+                vowel_letters_observed.add(stem_char)
+    assert vowel_letters_allowed == vowel_letters_observed
+
+
+def test_part_of_speech_has_only_allowed_values(input_df):
+    assert set(input_df.sp) == {'subs', 'adjv'}
+
+
+def test_lexemes_end_with_slash(input_df):
+    assert {lex[-1] for lex in input_df.lex} == {'/'}
+
+
+def test_all_datasets_have_same_columns(input_df_list):
     columns_set = {tuple(df.columns) for df in input_df_list}
     assert len(columns_set) == 1
 

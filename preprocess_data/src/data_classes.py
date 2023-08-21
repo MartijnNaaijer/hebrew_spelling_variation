@@ -278,13 +278,13 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
         stem = stem.removesuffix('M')
         nme = 'M' + nme
 
-    if stem.endswith('WT') and nu == 'pl':
+    if stem.endswith('WT') and nu == 'pl' and lex != '>LMNWT/':
         stem = stem.removesuffix('WT')
         nme = 'WT' + nme
-    if stem.endswith('WTJ') and nu == 'pl':
+    if stem.endswith('WTJ') and nu == 'pl' and lex != '>LMNWT/':
         stem = stem.removesuffix('WTJ')
         nme = 'WTJ' + nme
-    elif stem.endswith('T') and nu == 'pl' and gn == 'f':
+    elif stem.endswith('T') and nu == 'pl' and gn == 'f' and lex != '>LMNWT/':
         stem = stem.removesuffix('T')
         nme = 'T' + nme
 
@@ -327,27 +327,11 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
             stem = stem[:-2]
             nme = 'WT' + nme
 
-    if lex == 'CWCN/' and stem.endswith('H'):
-        stem = stem.rstrip('H')
-        nme += 'H'
-
-    if lex == 'CLC/' and stem.endswith('H'):
+    if lex in {'GDL/', 'XV>/', 'CLC/', 'CWCN/'} and stem.endswith('H'):
         stem = stem.rstrip('H')
         nme = 'H' + nme
 
-    if lex == 'GDL/' and stem.endswith('H'):
-        stem = stem.rstrip('H')
-        nme = 'H' + nme
-
-    if lex == 'XV>/' and stem.endswith('H'):
-        stem = stem.rstrip('H')
-        nme = 'H' + nme
-
-    if lex == 'P<LH/' and stem.endswith('T'):
-        stem = stem.rstrip('T')
-        nme = 'T' + nme
-
-    if lex == 'XJH/' and stem.endswith('T'):
+    if lex in {'P<LH/', 'XJH/', 'BMH/'} and stem.endswith('T'):
         stem = stem.rstrip('T')
         nme = 'T' + nme
 
@@ -355,11 +339,8 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
         stem = stem.rstrip('M')
         nme = 'M' + nme
 
-    if lex == 'BMH/' and stem.endswith('T'):
-        stem = stem.rstrip('T')
-        nme = 'T' + nme
+    if lex in {'HWH/', 'LJLJT/', '<W<JM/', '>LMNWT/'} and stem.endswith('J'):
 
-    if lex in {'HWH/', 'PLJLJH/', 'LJLJT/', '<W<JM/'} and stem.endswith('J'):
         stem = stem.rstrip('J')
         nme = 'J' + nme
 
@@ -751,19 +732,28 @@ class SPWordProcessor:
         return prs_cons
 
     def get_stem(self):
-        """Not implemented yet"""
+        """"""
         stem = Fsp.g_lex.v(self.tf_id)
         if self.lexeme in relevant_wt_words and self.number == 'sg' \
-                and not stem.endswith('T') and self.nme.startswith('T'):
-            stem += 'T'
-            self.nme = self.nme.lstrip('T')
+                and not stem.endswith('T'):
+            if self.nme.startswith('T'):
+                stem += 'T'
+                self.nme = self.nme.lstrip('T')
+            elif self.nme.startswith('WT'):
+                stem += 'WT'
+                self.nme = self.nme.lstrip('WT')
         elif self.lexeme in fem_ending_numbers:
             stem = stem[:-1]
             self.nme = 'T' + self.nme
+
+        if self.tf_id in {420224, 420382}: # ad hoc action to make stem identical to MT.
+            stem = 'MR>C'
         return stem
 
     def get_nme(self):
         nme_cons = ''.join([ch for ch in Fsp.g_nme.v(self.tf_id) if ch in self.consonants])
+        if self.tf_id in {420224, 420382}: # ad hoc action to make stem identical to MT.
+            nme_cons = 'JT'
         return nme_cons
 
     def parse_prefix_g_cons_sp(self):

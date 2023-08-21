@@ -10,9 +10,9 @@ fem_end_words = {'DWR/', 'MQWM/', '>RMWN/', '>WYR/', 'M>WR/', 'M<WN/', 'LWX/', '
 fem_ending_numbers = {'CLJCJT/', 'XMJCJT/'}
 
 # We want to keep these in the analysis.
-relevant_wt_words = {'>XWT/', 'MLKWT/', 'XMWT/', '<DWT/', 'KBDT/'}
+relevant_wt_words = {'>XWT/', 'MLKWT/', 'XMWT/', '<DWT/', 'KBDT/', '>LMNWT/'}
 
-CONSONANTAL_J_LEXEMES = {'GWJ/', 'DWJ/', 'QWJ/', 'XJJM/', 'GWJ/', 'XJJM/', 'YPWJ/', 'KJLJ/', 'PWYJ/'}
+CONSONANTAL_J_LEXEMES = {'GWJ/', 'DWJ/', 'QWJ/', 'XJJM/', 'GWJ/', 'XJJM/', 'YPWJ/', 'KJLJ/', 'PWYJ/', 'PLJLJH/'}
 
 j_lexemes = ['<BJ/', '<CTJ/', '<DJ/', '<J/', '<LJ/', '<NJ=/', '<PJ/', '>BWJ/', '>J=/', '>JTJ/', '>NJ/', '>PRSJ/',
              '>PRSKJ/', '>PRSTKJ/', '>RJ/', 'BKJ/', 'BLJ/', 'BLWJ/', 'CBJ/', 'CJ/', 'CLJ/', 'CMJM/', 'CNJ/', 'CPJ/',
@@ -61,6 +61,7 @@ AD_HOC_REMOVALS = {
     2025173: "4Q58	Isaiah	57	19	QRWB/	RQRWB	RQRWB	CCCMC REASON: extra R",
     1910344: "1Qisaa	Isaiah	42	19	<WR/	><W>R	><W>R	MCCMC REASON: extra >",
     384518: "MT	Nehemiah	3	13	>CPT/	CPWT	CPWT	CCMC REASON: first > dropped",
+    375652:	"MT	Daniel	8	22	MLKWT/	MLKJWT	MLKJ	CCCC REASON, useless plural",
     1996997: "4Q51	1_Samuel	1	24	CLC/	MCLC	MCLC	CCCC REASON: extra M",
     1909165: "1Qisaa	Isaiah	40	9	>LHJM/	>LWHHKMH	>LWHH	CCMCC	 REASON: extra H",
     1905212: "1Qisaa	Isaiah	30	13	<WN/	<HWWN	<HWWN	CCCMC REASON: extra H",
