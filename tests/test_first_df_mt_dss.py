@@ -54,8 +54,10 @@ def test_all_lex_type_have_same_consonants_in_mt_and_sp(input_df):
 
 
 def test_absence_of_verbal_elements(input_df):
-    assert len({val for val in input_df.vs if isinstance(val, str)}.intersection({'qal', 'nif', 'hif', 'piel', 'pual', 'hit'})) == 0
-    # assert len(set(input_df.vt)) == 1
+    assert len({val for val in input_df.vs if isinstance(val, str)}.intersection(
+        {'qal', 'nif', 'hif', 'piel', 'pual', 'hit'})) == 0
+    assert len({val for val in input_df.vt if isinstance(val, str)}.intersection(
+        {'perf', 'impv', 'impf', 'wayq', 'infa', 'infc', 'ptcp', 'ptca'})) == 0
 
 
 def test_all_stems_should_have_same_length_as_stem_patterns(input_df):
