@@ -10,7 +10,7 @@ import os
 import numpy as np
 import pandas as pd
 
-from config import data_path, entropy
+from config import data_path, matres_patterns_mt_dss_file, matres_patterns_sp_file, entropy
 from first_data_selection_mt import BasicMTDataSelector
 from process_data_sp_dss import SpDssDataProcessor
 
@@ -50,7 +50,7 @@ def get_nouns_adjective_data(corpus, mt):
     matres_parser_dss = SpDssDataProcessor(corpus, 'dss', 'subs_adjv')
     matres_parser_sp = SpDssDataProcessor(corpus, 'sp', 'subs_adjv')
 
-    with open(os.path.join(data_path, 'pattern_data_sp.json')) as j:
+    with open(os.path.join(data_path, matres_patterns_sp_file)) as j:
         pattern_dict_sp = json.loads(j.read())
 
     pattern_integer_dict_sp = {int(k): v for k, v in pattern_dict_sp.items()}
@@ -100,21 +100,19 @@ def get_nouns_adjective_data(corpus, mt):
                                                  useless_nodes=AD_HOC_REMOVALS)
     sp = useless_lexemes_remover.data
 
-    sp.to_csv(os.path.join(data_path, 'test_sp.csv'), sep='\t')
-
     mt_dss = pd.concat([mt_nouns_adjectives_data, matres_parser_dss.matres_df])
     mt_dss = mt_dss.sort_values(by=['tf_id'])
 
-    with open(os.path.join(data_path, 'pattern_data.json')) as j:
+    with open(os.path.join(data_path, matres_patterns_mt_dss_file)) as j:
         pattern_dict = json.loads(j.read())
-
     pattern_integer_dict = {int(k): v for k, v in pattern_dict.items()}
+
     pattern_l = []
     pattern_g_cons_l = []
 
     for tf_id, g_cons, stem in zip(mt_dss.tf_id, mt_dss.g_cons, mt_dss.stem):
         stem_idx = g_cons.find(stem)
-        _, pat_g_cons = pattern_integer_dict.get(int(tf_id), ['', ''])
+        pat_g_cons = pattern_integer_dict.get(int(tf_id), ['', ''])
         if not isinstance(pat_g_cons, str):
             pattern_stem = ''
         else:

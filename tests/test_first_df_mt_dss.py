@@ -9,8 +9,8 @@ import pytest
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FOLDER = 'data'
-NOUNS_ADJECTIVES = 'nouns_adjectives_with_sp.csv'
-ALL_DATASETS = ['nouns_adjectives_with_sp.csv',
+NOUNS_ADJECTIVES = 'nouns_adjectives.csv'
+ALL_DATASETS = ['nouns_adjectives.csv',
                 'hiphil_triliteral.csv',
                 'infa_qal.csv',
                 'infc_qal_lamed_he.csv',
