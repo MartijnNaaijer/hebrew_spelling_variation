@@ -238,8 +238,8 @@ class MatresColumnAdder:
 
             if pattern.startswith('M'):
                 pattern = 'C' + pattern.lstrip('M')
-                if pattern.count('C') < 2:
-                    continue
+            if pattern.count('C') < 2:
+                continue
 
             c_count = pattern.count('C')
 
