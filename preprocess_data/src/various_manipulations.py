@@ -236,10 +236,11 @@ class MatresColumnAdder:
             if isinstance(pattern, float):
                 pattern = ''
 
-            if pattern.count('C') == 1:
-                continue
             if pattern.startswith('M'):
                 pattern = 'C' + pattern.lstrip('M')
+                if pattern.count('C') < 2:
+                    continue
+
             c_count = pattern.count('C')
 
             idcs = self.get_vowel_indices_first_and_last_syllables(pattern, c_count)

@@ -152,19 +152,15 @@ def get_nouns_adjective_data(corpus, mt):
                                                  useless_nodes=AD_HOC_REMOVALS)
     mt_dss = useless_lexemes_remover.data
 
-    ######################
     sp['tf_id'] = sp['tf_id'] + 100000
     mt_dss_sp = pd.concat([mt_dss, sp])
 
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss_sp, entropy_threshold=entropy)
     mt_dss_sp = syllables_without_variation_remover.data_variable_syllables
-    ##########################
 
-    syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss, entropy_threshold=entropy)
-    mt_dss = syllables_without_variation_remover.data_variable_syllables
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)
-    return mt_dss, mt_dss_sp
+    return mt_dss_sp
 
 
 def get_qal_infinitive_construct_data(corpus, mt):
