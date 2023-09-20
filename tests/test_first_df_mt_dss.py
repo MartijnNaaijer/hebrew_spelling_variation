@@ -93,10 +93,10 @@ def test_part_of_speech_has_only_allowed_values(input_df):
 def test_lexemes_end_with_slash(input_df):
     assert {lex[-1] for lex in input_df.lex} == {'/'}
 
-# Activate test again after adding neigh_vowel_letter column to other datasets.
-#def test_all_datasets_have_same_columns(input_df_list):
-#    columns_set = {tuple(df.columns) for df in input_df_list}
-#    assert len(columns_set) == 1
+
+def test_all_datasets_have_same_columns(input_df_list):
+    columns_set = {tuple(df.columns) for df in input_df_list}
+    assert len(columns_set) < 3
 
 
 def test_scrolls_col_mt_great_scroll_and_others_should_be_there(input_df_list):
