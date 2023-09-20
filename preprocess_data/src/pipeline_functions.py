@@ -156,12 +156,11 @@ def get_nouns_adjective_data(corpus, mt):
     sp['tf_id'] = sp['tf_id'] + 100000
     mt_dss_sp = pd.concat([mt_dss, sp])
 
-    vowel_letter_in_subsequent_syll_adder = VowelLetterInSubsequentSyllableAdder(mt_dss_sp)
-    mt_dss_sp = vowel_letter_in_subsequent_syll_adder.data
-
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss_sp, entropy_threshold=entropy)
     mt_dss_sp = syllables_without_variation_remover.data_variable_syllables
 
+    vowel_letter_in_subsequent_syll_adder = VowelLetterInSubsequentSyllableAdder(mt_dss_sp)
+    mt_dss_sp = vowel_letter_in_subsequent_syll_adder.data
 
     # TODO: adapt dtypes in mt_dss(object -> categorical)
     return mt_dss_sp
