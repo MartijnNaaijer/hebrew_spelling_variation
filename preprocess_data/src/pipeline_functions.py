@@ -19,6 +19,7 @@ from various_manipulations import FinalAlephConverter, FeminineTStripper, OtherV
 from process_invalid_data import InvalidDataRemover, InvalidDataRemoverInfcLamedHe
 from remove_useless_lexemes_and_plurals import UselessRowsRemover, SyllablesWithoutVariationRemover
 from remove_useless_inf_abs import UselessRootsInfAbsRemover
+from add_column_neighboring_vowel_letter import VowelLetterInSubsequentSyllableAdder
 
 from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 
@@ -154,6 +155,9 @@ def get_nouns_adjective_data(corpus, mt):
 
     sp['tf_id'] = sp['tf_id'] + 100000
     mt_dss_sp = pd.concat([mt_dss, sp])
+
+    vowel_letter_in_subsequent_syll_adder = VowelLetterInSubsequentSyllableAdder(mt_dss_sp)
+    mt_dss_sp = vowel_letter_in_subsequent_syll_adder.data
 
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss_sp, entropy_threshold=entropy)
     mt_dss_sp = syllables_without_variation_remover.data_variable_syllables
