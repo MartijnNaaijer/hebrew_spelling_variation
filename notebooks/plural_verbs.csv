@@ -66,7 +66,6 @@
 13314	13314	Genesis	26	18	XPR=[	חפר	XPRW	XPRW		perf	qal	unknown	pl	p3	1	0	0
 13583	13583	Genesis	26	32	XPR=[	חפר	XPRW	XPRW		perf	qal	unknown	pl	p3	1	0	0
 14109	14109	Genesis	27	29	<BD[	עבד	J<BDWK	J<BDW	K	impf	qal	m	pl	p3	1	1	0
-14112	14112	Genesis	27	29	XWH[	חוה	JCTXW	JCTXW		impf	hsht	m	pl	p3	1	0	0
 14120	14120	Genesis	27	29	XWH[	חוה	JCTXWW	JCTXWW		impf	hsht	m	pl	p3	1	0	0
 14387	14387	Genesis	27	41	QRB[	קרב	JQRBW	JQRBW		impf	qal	m	pl	p3	1	0	0
 14770	14770	Genesis	28	14	BRK[	ברך	NBRKW	NBRKW		perf	nif	unknown	pl	p3	1	0	0
@@ -831,7 +830,6 @@
 90082	90082	Numbers	32	11	R>H[	ראה	JR>W	JR>W		impf	qal	m	pl	p3	1	0	0
 90109	90109	Numbers	32	11	ML>[	מלא	ML>W	ML>W		perf	piel	unknown	pl	p3	1	0	0
 90122	90122	Numbers	32	12	ML>[	מלא	ML>W	ML>W		perf	piel	unknown	pl	p3	1	0	0
-90168	90168	Numbers	32	15	CWB[	שׁוב	TCWBN	TCWBN		impf	qal	m	pl	p2	0	0	0
 90303	90303	Numbers	32	22	CWB[	שׁוב	TCBW	TCBW		impf	qal	m	pl	p2	1	0	0
 90334	90334	Numbers	32	23	JD<[	ידע	D<W	D<W		impv	qal	m	pl	p2	1	0	0
 90339	90339	Numbers	32	24	BNH[	בנה	BNW	BNW		impv	qal	m	pl	p2	1	0	0
@@ -1268,7 +1266,6 @@
 130448	130448	Judges	6	2	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
 130481	130481	Judges	6	3	<LH[	עלה	<LW	<LW		perf	qal	unknown	pl	p3	1	0	0
 130511	130511	Judges	6	5	<LH[	עלה	J<LW	J<LW		impf	qal	m	pl	p3	1	0	0
-130515	130515	Judges	6	5	BW>[	בוא	B>W	B>W		perf	qal	unknown	pl	p3	1	0	0
 130614	130614	Judges	6	10	JR>[	ירא	TJR>W	TJR>W		impf	qal	m	pl	p2	1	0	0
 131875	131875	Judges	7	17	R>H[	ראה	TR>W	TR>W		impf	qal	m	pl	p2	1	0	0
 131878	131878	Judges	7	17	<FH[	עשׂה	T<FW	T<FW		impf	qal	m	pl	p2	1	0	0
@@ -1427,7 +1424,6 @@
 147924	147924	1_Samuel	13	6	R>H[	ראה	R>W	R>W		perf	qal	unknown	pl	p3	1	0	0
 147957	147957	1_Samuel	13	7	<BR[	עבר	<BRW	<BRW		perf	qal	unknown	pl	p3	1	0	0
 148062	148062	1_Samuel	13	12	JRD[	ירד	JRDW	JRDW		impf	qal	m	pl	p3	1	0	0
-148221	148221	1_Samuel	13	19	>MR[	אמר	>MR	>MR		perf	qal	unknown	pl	p3	0	0	0
 148224	148224	1_Samuel	13	19	<FH[	עשׂה	J<FW	J<FW		impf	qal	m	pl	p3	1	0	0
 148506	148506	1_Samuel	14	9	>MR[	אמר	J>MRW	J>MRW		impf	qal	m	pl	p3	1	0	0
 148522	148522	1_Samuel	14	10	>MR[	אמר	J>MRW	J>MRW		impf	qal	m	pl	p3	1	0	0
@@ -1546,7 +1542,6 @@
 168268	168268	2_Samuel	14	11	CMD[	שׁמד	JCMJDW	JCMJDW		impf	hif	m	pl	p3	1	0	0
 168368	168368	2_Samuel	14	15	JR>[	ירא	JR>NJ	JR>	NJ	perf	piel	unknown	pl	p3	0	1	0
 168756	168756	2_Samuel	14	30	R>H[	ראה	R>W	R>W		impv	qal	m	pl	p2	1	0	0
-168767	168767	2_Samuel	14	30	JYT[	יצת	HWYTJH	HWYTJ	H	impv	hif	m	pl	p2	0	1	0
 168794	168794	2_Samuel	14	31	JYT[	יצת	HYJTW	HYJTW		perf	hif	unknown	pl	p3	1	0	0
 169012	169012	2_Samuel	15	6	BW>[	בוא	JB>W	JB>W		impf	qal	m	pl	p3	1	0	0
 169121	169121	2_Samuel	15	11	JD<[	ידע	JD<W	JD<W		perf	qal	unknown	pl	p3	1	0	0
@@ -1571,7 +1566,6 @@
 171200	171200	2_Samuel	18	5	CM<[	שׁמע	CM<W	CM<W		perf	qal	unknown	pl	p3	1	0	0
 171817	171817	2_Samuel	18	28	NF>[	נשׂא	NF>W	NF>W		perf	qal	unknown	pl	p3	1	0	0
 172297	172297	2_Samuel	19	14	>MR[	אמר	TMRW	TMRW		impf	qal	m	pl	p2	1	0	0
-172967	172967	2_Samuel	19	41	<BR[	עבר	WJ<BRW	WJ<BRW		perf	hif	unknown	pl	p3	1	0	0
 172991	172991	2_Samuel	19	42	GNB[	גנב	GNBWK	GNBW	K	perf	qal	unknown	pl	p3	1	1	0
 173137	173137	2_Samuel	20	2	DBQ[	דבק	DBQW	DBQW		perf	qal	unknown	pl	p3	1	0	0
 173498	173498	2_Samuel	20	16	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
@@ -1582,7 +1576,6 @@
 173800	173800	2_Samuel	21	3	BRK[	ברך	BRKW	BRKW		impv	piel	m	pl	p2	1	0	0
 173951	173951	2_Samuel	21	9	MWT[	מות	HMTW	HMTW		perf	hof	unknown	pl	p3	1	0	0
 174033	174033	2_Samuel	21	12	GNB[	גנב	GNBW	GNBW		perf	qal	unknown	pl	p3	1	0	0
-174039	174039	2_Samuel	21	12	TL>[	תלא	TLWM	TLW	M	perf	qal	unknown	pl	p3	1	1	0
 174350	174350	2_Samuel	22	5	>PP[	אפף	>PPNJ	>PP	NJ	perf	qal	unknown	pl	p3	0	1	0
 174355	174355	2_Samuel	22	5	B<T[	בעת	JB<TNJ	JB<T	NJ	impf	piel	m	pl	p3	0	1	0
 174358	174358	2_Samuel	22	6	SBB[	סבב	SBNJ	SB	NJ	perf	qal	unknown	pl	p3	0	1	0
@@ -1720,7 +1713,6 @@
 194234	194234	1_Kings	22	27	>KL[	אכל	H>KJLHW	H>KJL	HW	impv	hif	m	pl	p2	0	1	1
 194258	194258	1_Kings	22	28	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 194336	194336	1_Kings	22	32	>MR[	אמר	>MRW	>MRW		perf	qal	unknown	pl	p3	1	0	0
-194661	194661	1_Kings	22	49	CBR[	שׁבר	NCBRH	NCBRH		perf	nif	unknown	pl	p3	0	0	0
 194794	194794	2_Kings	1	2	DRC[	דרשׁ	DRCW	DRCW		impv	qal	m	pl	p2	1	0	0
 194880	194880	2_Kings	1	6	CWB[	שׁוב	CWBW	CWBW		impv	qal	m	pl	p2	1	0	0
 195642	195642	2_Kings	2	16	BQC[	בקשׁ	JBQCW	JBQCW		impf	piel	m	pl	p3	1	0	0
@@ -1770,7 +1762,6 @@
 200446	200446	2_Kings	9	10	>KL[	אכל	J>KLW	J>KLW		impf	qal	m	pl	p3	1	0	0
 200575	200575	2_Kings	9	15	NKH[	נכה	JKHW	JK	HW	impf	hif	m	pl	p3	0	1	1
 200918	200918	2_Kings	9	27	NKH[	נכה	HKHW	HK	HW	impv	hif	m	pl	p2	0	1	1
-201016	201016	2_Kings	9	33	CMV[	שׁמט	CMVHW	CMV	HW	impv	qal	m	pl	p2	0	1	1
 201040	201040	2_Kings	9	34	PQD[	פקד	PQDW	PQDW		impv	qal	m	pl	p2	1	0	0
 201048	201048	2_Kings	9	34	QBR[	קבר	QBRWH	QBRW	H	impv	qal	m	pl	p2	1	1	0
 201059	201059	2_Kings	9	35	MY>[	מצא	MY>W	MY>W		perf	qal	unknown	pl	p3	1	0	0
@@ -1871,12 +1862,10 @@
 208544	208544	2_Kings	20	15	R>H[	ראה	R>W	R>W		perf	qal	unknown	pl	p3	1	0	0
 208555	208555	2_Kings	20	15	R>H[	ראה	R>W	R>W		perf	qal	unknown	pl	p3	1	0	0
 208600	208600	2_Kings	20	18	JY>[	יצא	JY>W	JY>W		impf	qal	m	pl	p3	1	0	0
-208604	208604	2_Kings	20	18	LQX[	לקח	JQX	JQX		impf	qal	m	pl	p3	0	0	0
 208879	208879	2_Kings	21	9	CM<[	שׁמע	CM<W	CM<W		perf	qal	unknown	pl	p3	1	0	0
 208922	208922	2_Kings	21	11	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
 209003	209003	2_Kings	21	15	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
 209017	209017	2_Kings	21	15	JY>[	יצא	JY>W	JY>W		perf	qal	unknown	pl	p3	1	0	0
-209324	209324	2_Kings	22	5	NTN[	נתן	JTNH	JTN	H	impf	qal	m	pl	p3	0	1	0
 209335	209335	2_Kings	22	5	NTN[	נתן	JTNW	JTNW		impf	qal	m	pl	p3	1	0	0
 209523	209523	2_Kings	22	13	DRC[	דרשׁ	DRCW	DRCW		impv	qal	m	pl	p2	1	0	0
 209554	209554	2_Kings	22	13	CM<[	שׁמע	CM<W	CM<W		perf	qal	unknown	pl	p3	1	0	0
@@ -1895,7 +1884,6 @@
 210540	210540	2_Kings	23	24	R>H[	ראה	NR>W	NR>W		perf	nif	unknown	pl	p3	1	0	0
 210763	210763	2_Kings	23	32	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
 210892	210892	2_Kings	23	37	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
-211080	211080	2_Kings	24	10	<LH[	עלה	<LH	<LH		perf	qal	unknown	pl	p3	0	0	0
 211442	211442	2_Kings	25	5	PWY[	פוץ	NPYW	NPYW		perf	nif	unknown	pl	p3	1	0	0
 211562	211562	2_Kings	25	11	NPL[	נפל	NPLW	NPLW		perf	qal	unknown	pl	p3	1	0	0
 211610	211610	2_Kings	25	13	CBR[	שׁבר	CBRW	CBRW		perf	piel	unknown	pl	p3	1	0	0
@@ -2124,7 +2112,6 @@
 224488	224488	Isaiah	37	12	NYL[	נצל	HYJLW	HYJLW		perf	hif	unknown	pl	p3	1	0	0
 224643	224643	Isaiah	37	20	JD<[	ידע	JD<W	JD<W		impf	qal	m	pl	p3	1	0	0
 224854	224854	Isaiah	37	30	QYR=[	קצר	QYRW	QYRW		impv	qal	m	pl	p2	1	0	0
-224859	224859	Isaiah	37	30	>KL[	אכל	>KWL	>KWL		impv	qal	m	pl	p2	0	0	0
 225000	225000	Isaiah	37	38	NKH[	נכה	HKHW	HK	HW	perf	hif	unknown	pl	p3	0	1	1
 225006	225006	Isaiah	37	38	MLV[	מלט	NMLVW	NMLVW		perf	nif	unknown	pl	p3	1	0	0
 225291	225291	Isaiah	38	16	XJH[	חיה	JXJW	JXJW		impf	qal	m	pl	p3	1	0	0
@@ -2368,7 +2355,6 @@
 235589	235589	Jeremiah	2	13	<ZB[	עזב	<ZBW	<ZBW		perf	qal	unknown	pl	p3	1	0	0
 235601	235601	Jeremiah	2	13	KWL[	כול	JKLW	JKLW		impf	hif	m	pl	p3	1	0	0
 235618	235618	Jeremiah	2	15	NTN[	נתן	NTNW	NTNW		perf	qal	unknown	pl	p3	1	0	0
-235626	235626	Jeremiah	2	15	JYT[	יצת	NYTH	NYTH		perf	nif	unknown	pl	p3	0	0	0
 235635	235635	Jeremiah	2	16	R<H[	רעה	JR<WK	JR<W	K	impf	qal	m	pl	p3	1	1	0
 235850	235850	Jeremiah	2	27	>MR[	אמר	J>MRW	J>MRW		impf	qal	m	pl	p3	1	0	0
 235862	235862	Jeremiah	2	28	JC<[	ישׁע	JWCJ<WK	JWCJ<W	K	impf	hif	m	pl	p3	1	1	0
@@ -2423,7 +2409,6 @@
 237496	237496	Jeremiah	5	21	R>H[	ראה	JR>W	JR>W		impf	qal	m	pl	p3	1	0	0
 237501	237501	Jeremiah	5	21	CM<[	שׁמע	JCM<W	JCM<W		impf	qal	m	pl	p3	1	0	0
 237505	237505	Jeremiah	5	22	JR>[	ירא	TJR>W	TJR>W		impf	qal	m	pl	p2	1	0	0
-237535	237535	Jeremiah	5	22	<BR[	עבר	J<BRNHW	J<BRN	HW	impf	qal	m	pl	p3	0	1	1
 237552	237552	Jeremiah	5	24	>MR[	אמר	>MRW	>MRW		perf	qal	unknown	pl	p3	1	0	0
 237583	237583	Jeremiah	5	26	MY>[	מצא	NMY>W	NMY>W		perf	nif	unknown	pl	p3	1	0	0
 237594	237594	Jeremiah	5	26	LKD[	לכד	JLKDW	JLKDW		impf	qal	m	pl	p3	1	0	0
@@ -2449,7 +2434,6 @@
 238079	238079	Jeremiah	6	23	XZQ[	חזק	JXZJQW	JXZJQW		impf	hif	m	pl	p3	1	0	0
 238084	238084	Jeremiah	6	23	RXM[	רחם	JRXMW	JRXMW		impf	piel	m	pl	p3	1	0	0
 238093	238093	Jeremiah	6	23	RKB[	רכב	JRKBW	JRKBW		impf	qal	m	pl	p3	1	0	0
-238115	238115	Jeremiah	6	25	JY>[	יצא	TY>J	TY>J		impf	qal	m	pl	p2	0	0	0
 238191	238191	Jeremiah	6	30	QR>[	קרא	QR>W	QR>W		perf	qal	unknown	pl	p3	1	0	0
 238223	238223	Jeremiah	7	2	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 238284	238284	Jeremiah	7	5	<FH[	עשׂה	T<FW	T<FW		impf	qal	m	pl	p2	1	0	0
@@ -2468,7 +2452,6 @@
 238839	238839	Jeremiah	7	30	FJM[	שׂים	FMW	FMW		perf	qal	unknown	pl	p3	1	0	0
 238851	238851	Jeremiah	7	31	BNH[	בנה	BNW	BNW		perf	qal	unknown	pl	p3	1	0	0
 238898	238898	Jeremiah	7	32	QBR[	קבר	QBRW	QBRW		perf	qal	unknown	pl	p3	1	0	0
-238957	238957	Jeremiah	8	1	JY>[	יצא	WJYJ>W	WJYJ>W		impf	hif	m	pl	p3	1	0	0
 238984	238984	Jeremiah	8	2	CVX[	שׁטח	CVXWM	CVXW	M	perf	qal	unknown	pl	p3	1	1	0
 238999	238999	Jeremiah	8	2	>HB[	אהב	>HBWM	>HBW	M	perf	qal	unknown	pl	p3	1	1	0
 239002	239002	Jeremiah	8	2	<BD[	עבד	<BDWM	<BDW	M	perf	qal	unknown	pl	p3	1	1	0
@@ -2499,7 +2482,6 @@
 239905	239905	Jeremiah	10	1	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 239923	239923	Jeremiah	10	2	LMD[	למד	TLMDW	TLMDW		impf	qal	m	pl	p2	1	0	0
 239965	239965	Jeremiah	10	4	XZQ[	חזק	JXZQWM	JXZQW	M	impf	piel	m	pl	p3	1	1	0
-239977	239977	Jeremiah	10	5	NF>[	נשׂא	JNFW>	JNFW>		impf	nif	m	pl	p3	0	0	0
 239982	239982	Jeremiah	10	5	JR>[	ירא	TJR>W	TJR>W		impf	qal	m	pl	p2	1	0	0
 240073	240073	Jeremiah	10	10	KWL[	כול	JKLW	JKLW		impf	hif	m	pl	p3	1	0	0
 240086	240086	Jeremiah	10	11	<BD[	עבד	<BDW	<BDW		perf	peal	m	pl	p3	1	0	0
@@ -2539,8 +2521,6 @@
 241497	241497	Jeremiah	13	16	NTN[	נתן	TNW	TNW		impv	qal	m	pl	p2	1	0	0
 241528	241528	Jeremiah	13	17	CM<[	שׁמע	TCM<WH	TCM<W	H	impf	qal	m	pl	p2	1	1	0
 241565	241565	Jeremiah	13	19	SGR[	סגר	SGRW	SGRW		perf	pual	unknown	pl	p3	1	0	0
-241574	241574	Jeremiah	13	20	NF>[	נשׂא	F>J	F>J		impv	qal	m	pl	p2	0	0	0
-241577	241577	Jeremiah	13	20	R>H[	ראה	R>J	R>J		impv	qal	m	pl	p2	0	0	0
 241605	241605	Jeremiah	13	21	>XZ[	אחז	J>XZWK	J>XZW	K	impf	qal	m	pl	p3	1	1	0
 241615	241615	Jeremiah	13	22	QR>=[	קרא	QR>NJ	QR>	NJ	perf	qal	unknown	pl	p3	0	1	0
 241717	241717	Jeremiah	14	3	CLX[	שׁלח	CLXW	CLXW		perf	qal	unknown	pl	p3	1	0	0
@@ -2606,7 +2586,6 @@
 244673	244673	Jeremiah	20	5	LQX[	לקח	LQXWM	LQXW	M	perf	qal	unknown	pl	p3	1	1	0
 244675	244675	Jeremiah	20	5	BW>[	בוא	HBJ>WM	HBJ>W	M	perf	hif	unknown	pl	p3	1	1	0
 244837	244837	Jeremiah	20	13	HLL[	הלל	HLLW	HLLW		impv	piel	m	pl	p2	1	0	0
-244986	244986	Jeremiah	21	3	>MR[	אמר	T>MRN	T>MRN		impf	qal	m	pl	p2	0	0	0
 245071	245071	Jeremiah	21	6	MWT[	מות	JMTW	JMTW		impf	qal	m	pl	p3	1	0	0
 245228	245228	Jeremiah	21	11	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 245242	245242	Jeremiah	21	12	NYL[	נצל	HYJLW	HYJLW		impv	hif	m	pl	p2	1	0	0
@@ -2875,13 +2854,10 @@
 261966	261966	Jeremiah	50	5	C>L[	שׁאל	JC>LW	JC>LW		impf	qal	m	pl	p3	1	0	0
 261970	261970	Jeremiah	50	5	BW>[	בוא	B>W	B>W		impv	qal	m	pl	p2	1	0	0
 261984	261984	Jeremiah	50	6	T<H[	תעה	HT<WM	HT<W	M	perf	hif	unknown	pl	p3	1	1	0
-261986	261986	Jeremiah	50	6	CWB[	שׁוב	CWBBJM	CWBBJ	M	perf	piel	unknown	pl	p3	0	1	0
 261992	261992	Jeremiah	50	6	CKX[	שׁכח	CKXW	CKXW		perf	qal	unknown	pl	p3	1	0	0
 261996	261996	Jeremiah	50	7	>KL[	אכל	>KLWM	>KLW	M	perf	qal	unknown	pl	p3	1	1	0
 261999	261999	Jeremiah	50	7	>MR[	אמר	>MRW	>MRW		perf	qal	unknown	pl	p3	1	0	0
-262021	262021	Jeremiah	50	8	JY>[	יצא	JY>W	JY>W		impv	qal	m	pl	p2	1	0	0
 262044	262044	Jeremiah	50	9	<RK[	ערך	<RKW	<RKW		perf	qal	unknown	pl	p3	1	0	0
-262067	262067	Jeremiah	50	11	FMX[	שׂמח	TFMXJ	TFMXJ		impf	qal	m	pl	p2	0	0	0
 262113	262113	Jeremiah	50	14	<RK[	ערך	<RKW	<RKW		impv	qal	m	pl	p2	1	0	0
 262135	262135	Jeremiah	50	15	NPL[	נפל	NPLW	NPLW		perf	qal	unknown	pl	p3	1	0	0
 262148	262148	Jeremiah	50	15	<FH[	עשׂה	<FW	<FW		impv	qal	m	pl	p2	1	0	0
@@ -2980,7 +2956,6 @@
 267461	267461	Ezekiel	7	19	CLK[	שׁלך	JCLJKW	JCLJKW		impf	hif	m	pl	p3	1	0	0
 267484	267484	Ezekiel	7	19	ML>[	מלא	JML>W	JML>W		impf	piel	m	pl	p3	1	0	0
 267499	267499	Ezekiel	7	20	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
-267523	267523	Ezekiel	7	21	XLL[	חלל	XLLH	XLL	H	perf	piel	unknown	pl	p3	0	1	0
 267529	267529	Ezekiel	7	22	XLL[	חלל	XLLW	XLLW		perf	piel	unknown	pl	p3	1	0	0
 267533	267533	Ezekiel	7	22	BW>[	בוא	B>W	B>W		perf	qal	unknown	pl	p3	1	0	0
 267537	267537	Ezekiel	7	22	XLL[	חלל	XLLWH	XLLW	H	perf	piel	unknown	pl	p3	1	1	0
@@ -2989,7 +2964,6 @@
 267570	267570	Ezekiel	7	25	BQC[	בקשׁ	BQCW	BQCW		perf	piel	unknown	pl	p3	1	0	0
 267584	267584	Ezekiel	7	26	BQC[	בקשׁ	BQCW	BQCW		perf	piel	unknown	pl	p3	1	0	0
 267619	267619	Ezekiel	7	27	JD<[	ידע	JD<W	JD<W		perf	qal	unknown	pl	p3	1	0	0
-268013	268013	Ezekiel	8	16	XWH[	חוה	MCTXWJTM	MCTXWJTM		impf	hsht	m	pl	p2	0	0	0
 268036	268036	Ezekiel	8	17	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
 268039	268039	Ezekiel	8	17	ML>[	מלא	ML>W	ML>W		perf	qal	unknown	pl	p3	1	0	0
 268069	268069	Ezekiel	8	18	QR>[	קרא	QR>W	QR>W		perf	qal	unknown	pl	p3	1	0	0
@@ -3360,7 +3334,6 @@
 288263	288263	Ezekiel	44	22	LQX[	לקח	JQXW	JQXW		impf	qal	m	pl	p3	1	0	0
 288267	288267	Ezekiel	44	23	JRH[	ירה	JWRW	JWRW		impf	hif	m	pl	p3	1	0	0
 288277	288277	Ezekiel	44	23	JD<[	ידע	JWD<M	JWD<	M	impf	hif	m	pl	p3	0	1	0
-288287	288287	Ezekiel	44	24	CPV[	שׁפט	WCPVHW	WCPV	HW	impf	qal	m	pl	p3	0	1	1
 288301	288301	Ezekiel	44	24	QDC[	קדשׁ	JQDCW	JQDCW		impf	piel	m	pl	p3	1	0	0
 288333	288333	Ezekiel	44	25	VM>[	טמא	JVM>W	JVM>W		impf	hit	m	pl	p3	1	0	0
 288373	288373	Ezekiel	44	28	NTN[	נתן	TTNW	TTNW		impf	qal	m	pl	p2	1	0	0
@@ -3376,7 +3349,6 @@
 289116	289116	Ezekiel	46	2	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
 289141	289141	Ezekiel	46	3	XWH[	חוה	HCTXWW	HCTXWW		perf	hsht	unknown	pl	p3	1	0	0
 289309	289309	Ezekiel	46	10	JY>[	יצא	JY>W	JY>W		impf	qal	m	pl	p3	1	0	0
-289435	289435	Ezekiel	46	15	<FH[	עשׂה	W<FW	W<FW		impf	qal	m	pl	p3	1	0	0
 289525	289525	Ezekiel	46	18	PWY[	פוץ	JPYW	JPYW		impf	qal	m	pl	p3	1	0	0
 289836	289836	Ezekiel	47	8	JRD[	ירד	JRDW	JRDW		perf	qal	unknown	pl	p3	1	0	0
 289841	289841	Ezekiel	47	8	BW>[	בוא	B>W	B>W		perf	qal	unknown	pl	p3	1	0	0
@@ -3419,7 +3391,6 @@
 292056	292056	Hosea	5	4	JD<[	ידע	JD<W	JD<W		perf	qal	unknown	pl	p3	1	0	0
 292086	292086	Hosea	5	6	MY>[	מצא	JMY>W	JMY>W		impf	qal	m	pl	p3	1	0	0
 292223	292223	Hosea	5	15	BQC[	בקשׁ	BQCW	BQCW		perf	piel	unknown	pl	p3	1	0	0
-292229	292229	Hosea	5	15	CXR[	שׁחר	JCXRNNJ	JCXR	NJ	impf	piel	m	pl	p3	0	1	0
 292325	292325	Hosea	6	7	<BR[	עבר	<BRW	<BRW		perf	qal	unknown	pl	p3	1	0	0
 292349	292349	Hosea	6	9	<FH[	עשׂה	<FW	<FW		perf	qal	unknown	pl	p3	1	0	0
 292394	292394	Hosea	7	2	>MR[	אמר	J>MRW	J>MRW		impf	qal	m	pl	p3	1	0	0
@@ -3712,7 +3683,6 @@
 307967	307967	Zechariah	10	9	XJH[	חיה	XJW	XJW		perf	qal	unknown	pl	p3	1	0	0
 307971	307971	Zechariah	10	9	CWB[	שׁוב	CBW	CBW		perf	qal	unknown	pl	p3	1	0	0
 308042	308042	Zechariah	11	2	CDD[	שׁדד	CDDW	CDDW		perf	pual	unknown	pl	p3	1	0	0
-308077	308077	Zechariah	11	5	HRG[	הרג	JHRGN	JHRGN		impf	qal	m	pl	p3	0	0	0
 308467	308467	Zechariah	12	5	>MR[	אמר	>MRW	>MRW		perf	qal	unknown	pl	p3	1	0	0
 308501	308501	Zechariah	12	6	>KL[	אכל	>KLW	>KLW		perf	qal	unknown	pl	p3	1	0	0
 308608	308608	Zechariah	12	10	DQR[	דקר	DQRW	DQRW		perf	qal	unknown	pl	p3	1	0	0
@@ -3773,7 +3743,6 @@
 312571	312571	Psalms	17	9	CDD[	שׁדד	CDWNJ	CDW	NJ	perf	qal	unknown	pl	p3	1	1	0
 312575	312575	Psalms	17	9	NQP[	נקף	JQJPW	JQJPW		impf	hif	m	pl	p3	1	0	0
 312578	312578	Psalms	17	10	SGR[	סגר	SGRW	SGRW		perf	qal	unknown	pl	p3	1	0	0
-312585	312585	Psalms	17	11	SBB[	סבב	SBBWNJ	SBBW	NJ	perf	qal	unknown	pl	p3	1	1	0
 312587	312587	Psalms	17	11	CJT[	שׁית	JCJTW	JCJTW		impf	qal	m	pl	p3	1	0	0
 312634	312634	Psalms	17	14	NWX[	נוח	HNJXW	HNJXW		perf	hif	unknown	pl	p3	1	0	0
 312705	312705	Psalms	18	5	>PP[	אפף	>PPWNJ	>PPW	NJ	perf	qal	unknown	pl	p3	1	1	0
@@ -3842,7 +3811,6 @@
 316053	316053	Psalms	35	25	>MR[	אמר	J>MRW	J>MRW		impf	qal	m	pl	p3	1	0	0
 316070	316070	Psalms	35	27	FMX[	שׂמח	JFMXW	JFMXW		impf	qal	m	pl	p3	1	0	0
 316074	316074	Psalms	35	27	>MR[	אמר	J>MRW	J>MRW		impf	qal	m	pl	p3	1	0	0
-316175	316175	Psalms	36	9	RWH[	רוה	JRWJN	JRWJN		impf	qal	m	pl	p3	0	0	0
 316210	316210	Psalms	36	13	NPL[	נפל	NPLW	NPLW		perf	qal	unknown	pl	p3	1	0	0
 316315	316315	Psalms	37	9	JRC[	ירשׁ	JJRCW	JJRCW		impf	qal	m	pl	p3	1	0	0
 316331	316331	Psalms	37	11	JRC[	ירשׁ	JJRCW	JJRCW		impf	qal	m	pl	p3	1	0	0
@@ -3942,7 +3910,6 @@
 320992	320992	Psalms	66	4	XWH[	חוה	JCTXWW	JCTXWW		impf	hsht	m	pl	p3	1	0	0
 321002	321002	Psalms	66	5	R>H[	ראה	R>W	R>W		impv	qal	m	pl	p2	1	0	0
 321017	321017	Psalms	66	6	<BR[	עבר	J<BRW	J<BRW		impf	qal	m	pl	p3	1	0	0
-321035	321035	Psalms	66	7	RWM[	רום	JRJMW	JRJMW		impf	qal	m	pl	p3	1	0	0
 321038	321038	Psalms	66	8	BRK[	ברך	BRKW	BRKW		impv	piel	m	pl	p2	1	0	0
 321042	321042	Psalms	66	8	CM<[	שׁמע	HCMJ<W	HCMJ<W		impv	hif	m	pl	p2	1	0	0
 321120	321120	Psalms	66	16	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
@@ -4348,7 +4315,6 @@
 337788	337788	Job	6	24	JRH[	ירה	HWRWNJ	HWRW	NJ	impv	hif	m	pl	p2	1	1	0
 337819	337819	Job	6	27	NPL[	נפל	TPJLW	TPJLW		impf	hif	m	pl	p2	1	0	0
 337834	337834	Job	6	29	CWB[	שׁוב	CBW	CBW		impv	qal	m	pl	p2	1	0	0
-337840	337840	Job	6	29	CWB[	שׁוב	CBJ	CBJ		impv	qal	m	pl	p2	0	0	0
 338161	338161	Job	8	10	JRH[	ירה	JWRWK	JWRW	K	impf	hif	m	pl	p3	1	1	0
 338162	338162	Job	8	10	>MR[	אמר	J>MRW	J>MRW		impf	qal	m	pl	p3	1	0	0
 338167	338167	Job	8	10	JY>[	יצא	JWY>W	JWY>W		impf	hif	m	pl	p3	1	0	0
@@ -4373,7 +4339,6 @@
 340599	340599	Job	18	18	HDP[	הדף	JHDPHW	JHDP	HW	impf	qal	m	pl	p3	0	1	1
 340607	340607	Job	18	18	NDD[	נדד	JNDHW	JND	HW	impf	hif	m	pl	p3	0	1	1
 340627	340627	Job	18	20	>XZ[	אחז	>XZW	>XZW		perf	qal	unknown	pl	p3	1	0	0
-340649	340649	Job	19	2	DK>[	דכא	TDK>WNNJ	TDK>W	NJ	impf	piel	m	pl	p2	1	1	0
 340655	340655	Job	19	3	KLM[	כלם	TKLJMWNJ	TKLJMW	NJ	impf	hif	m	pl	p2	1	1	0
 340670	340670	Job	19	5	GDL[	גדל	TGDJLW	TGDJLW		impf	hif	m	pl	p2	1	0	0
 340675	340675	Job	19	6	JD<[	ידע	D<W	D<W		impv	qal	m	pl	p2	1	0	0
@@ -4397,7 +4362,6 @@
 341264	341264	Job	21	11	CLX[	שׁלח	JCLXW	JCLXW		impf	piel	m	pl	p3	1	0	0
 341272	341272	Job	21	12	NF>[	נשׂא	JF>W	JF>W		impf	qal	m	pl	p3	1	0	0
 341278	341278	Job	21	12	FMX[	שׂמח	JFMXW	JFMXW		impf	qal	m	pl	p3	1	0	0
-341282	341282	Job	21	13	KLH[	כלה	JBLW	JBLW		impf	piel	m	pl	p3	1	0	0
 341356	341356	Job	21	20	R>H[	ראה	JR>W	JR>W		impf	qal	m	pl	p3	1	0	0
 341393	341393	Job	21	24	ML>[	מלא	ML>W	ML>W		perf	qal	unknown	pl	p3	1	0	0
 341427	341427	Job	21	28	>MR[	אמר	T>MRW	T>MRW		impf	qal	m	pl	p2	1	0	0
@@ -4410,7 +4374,6 @@
 341665	341665	Job	22	19	FMX[	שׂמח	JFMXW	JFMXW		impf	qal	m	pl	p3	1	0	0
 341944	341944	Job	24	3	XBL[	חבל	JXBLW	JXBLW		impf	qal	m	pl	p3	1	0	0
 341960	341960	Job	24	5	JY>[	יצא	JY>W	JY>W		perf	qal	unknown	pl	p3	1	0	0
-341977	341977	Job	24	6	QYR=[	קצר	JQYJRW	JQYJRW		impf	qal	m	pl	p3	1	0	0
 342010	342010	Job	24	9	XBL[	חבל	JXBLW	JXBLW		impf	qal	m	pl	p3	1	0	0
 342017	342017	Job	24	10	NF>[	נשׂא	NF>W	NF>W		perf	qal	unknown	pl	p3	1	0	0
 342023	342023	Job	24	11	DRK[	דרך	DRKW	DRKW		perf	qal	unknown	pl	p3	1	0	0
@@ -4475,9 +4438,6 @@
 347132	347132	Proverbs	1	22	>HB[	אהב	T>HBW	T>HBW		impf	qal	m	pl	p2	1	0	0
 347141	347141	Proverbs	1	22	FN>[	שׂנא	JFN>W	JFN>W		impf	qal	m	pl	p3	1	0	0
 347143	347143	Proverbs	1	23	CWB[	שׁוב	TCWBW	TCWBW		impf	qal	m	pl	p2	1	0	0
-347196	347196	Proverbs	1	28	QR>[	קרא	JQR>NNJ	JQR>	NJ	impf	qal	m	pl	p3	0	1	0
-347200	347200	Proverbs	1	28	CXR[	שׁחר	JCXRNNJ	JCXR	NJ	impf	piel	m	pl	p3	0	1	0
-347203	347203	Proverbs	1	28	MY>[	מצא	JMY>NNJ	JMY>	NJ	impf	qal	m	pl	p3	0	1	0
 347206	347206	Proverbs	1	29	FN>[	שׂנא	FN>W	FN>W		perf	qal	unknown	pl	p3	1	0	0
 347217	347217	Proverbs	1	30	N>Y[	נאץ	N>YW	N>YW		perf	qal	unknown	pl	p3	1	0	0
 347221	347221	Proverbs	1	31	>KL[	אכל	J>KLW	J>KLW		impf	qal	m	pl	p3	1	0	0
@@ -4493,11 +4453,9 @@
 348085	348085	Proverbs	5	7	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 348171	348171	Proverbs	5	16	PWY[	פוץ	JPWYW	JPWYW		impf	qal	m	pl	p3	1	0	0
 348202	348202	Proverbs	5	19	RWH[	רוה	JRWK	JRW	K	impf	piel	m	pl	p3	1	1	0
-348231	348231	Proverbs	5	22	LKD[	לכד	JLKDNW	JLKDN	W	impf	qal	m	pl	p3	0	1	1
 348818	348818	Proverbs	7	24	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 348889	348889	Proverbs	8	6	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 348925	348925	Proverbs	8	10	LQX[	לקח	QXW	QXW		impv	qal	m	pl	p2	1	0	0
-348996	348996	Proverbs	8	17	MY>[	מצא	JMY>NNJ	JMY>	NJ	impf	qal	m	pl	p3	0	1	0
 349104	349104	Proverbs	8	29	<BR[	עבר	J<BRW	J<BRW		impf	qal	m	pl	p3	1	0	0
 349137	349137	Proverbs	8	32	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
 349143	349143	Proverbs	8	33	CM<[	שׁמע	CM<W	CM<W		impv	qal	m	pl	p2	1	0	0
@@ -4677,42 +4635,22 @@
 369905	369905	Esther	9	28	<BR[	עבר	J<BRW	J<BRW		impf	qal	m	pl	p3	1	0	0
 370353	370353	Daniel	1	12	NTN[	נתן	JTNW	JTNW		impf	qal	m	pl	p3	1	0	0
 370365	370365	Daniel	1	13	R>H[	ראה	JR>W	JR>W		impf	nif	m	pl	p3	1	0	0
-370632	370632	Daniel	2	5	JD<[	ידע	THWD<WNNJ	THWD<W	NJ	impf	haf	m	pl	p2	1	1	0
-370661	370661	Daniel	2	6	XWH[	חוה	HXWNJ	HXW	NJ	impv	haf	m	pl	p2	1	1	0
-370662	370662	Daniel	2	7	<NH[	ענה	<NW	<NW		perf	peal	m	pl	p3	1	0	0
-370699	370699	Daniel	2	9	JD<[	ידע	THWD<NNJ	THWD<	NJ	impf	haf	m	pl	p2	0	1	0
-370718	370718	Daniel	2	9	>MR[	אמר	>MRW	>MRW		impv	peal	m	pl	p2	1	0	0
-370724	370724	Daniel	2	9	XWH[	חוה	THXWNNJ	THXW	NJ	impf	haf	m	pl	p2	1	1	0
-370725	370725	Daniel	2	10	<NH[	ענה	<NW	<NW		perf	peal	m	pl	p3	1	0	0
 371781	371781	Daniel	3	8	QRB[	קרב	QRBW	QRBW		perf	peal	m	pl	p3	1	0	0
 371785	371785	Daniel	3	8	>KL[	אכל	>KLW	>KLW		perf	peal	m	pl	p3	1	0	0
-371789	371789	Daniel	3	9	<NH[	ענה	<NW	<NW		perf	peal	m	pl	p3	1	0	0
 371856	371856	Daniel	3	12	FJM[	שׂים	FMW	FMW		perf	peal	m	pl	p3	1	0	0
-371966	371966	Daniel	3	16	<NH[	ענה	<NW	<NW		perf	peal	m	pl	p3	1	0	0
 372127	372127	Daniel	3	23	NPL[	נפל	NPLW	NPLW		perf	peal	m	pl	p3	1	0	0
-372249	372249	Daniel	3	27	CNH[	שׁנה	CNW	CNW		perf	peal	m	pl	p3	1	0	0
 372280	372280	Daniel	3	28	CNH[	שׁנה	CNJW	CNJW		perf	pael	m	pl	p3	1	0	0
-372414	372414	Daniel	4	2	BHL[	בהל	JBHLNNJ	JBHL	NJ	impf	pael	m	pl	p3	0	1	0
-372429	372429	Daniel	4	3	JD<[	ידע	JHWD<NNJ	JHWD<	NJ	impf	haf	m	pl	p3	0	1	0
-372704	372704	Daniel	4	16	BHL[	בהל	JBHLNH	JBHLN	H	impf	pael	m	pl	p3	0	1	0
-372799	372799	Daniel	4	20	XBL[	חבל	XBLWHJ	XBLW	HJ	impv	pael	m	pl	p2	1	1	0
 372890	372890	Daniel	4	23	>MR[	אמר	>MRW	>MRW		perf	peal	m	pl	p3	1	0	0
 373227	373227	Daniel	5	3	CTH[	שׁתה	>CTJW	>CTJW		perf	peal	m	pl	p3	1	0	0
 373235	373235	Daniel	5	4	CTH[	שׁתה	>CTJW	>CTJW		perf	peal	m	pl	p3	1	0	0
 373238	373238	Daniel	5	4	CBX[	שׁבח	CBXW	CBXW		perf	pael	m	pl	p3	1	0	0
-373278	373278	Daniel	5	6	CNH[	שׁנה	CNWHJ	CNW	HJ	perf	peal	m	pl	p3	1	1	0
 373382	373382	Daniel	5	10	BHL[	בהל	JBHLWK	JBHLW	K	impf	pael	m	pl	p3	1	1	0
-373387	373387	Daniel	5	10	CNH[	שׁנה	JCTNW	JCTNW		impf	etpa	m	pl	p3	1	0	0
 374102	374102	Daniel	6	12	CKX[	שׁכח	HCKXW	HCKXW		perf	haf	m	pl	p3	1	0	0
 374112	374112	Daniel	6	13	QRB[	קרב	QRJBW	QRJBW		perf	peal	m	pl	p3	1	0	0
-374160	374160	Daniel	6	14	<NH[	ענה	<NW	<NW		perf	peal	m	pl	p3	1	0	0
 374382	374382	Daniel	6	23	XBL[	חבל	XBLWNJ	XBLW	NJ	perf	pael	m	pl	p3	1	1	0
 374435	374435	Daniel	6	25	>KL[	אכל	>KLW	>KLW		perf	peal	m	pl	p3	1	0	0
 374805	374805	Daniel	7	10	PTX[	פתח	PTJXW	PTJXW		perf	peil	m	pl	p3	1	0	0
 374868	374868	Daniel	7	13	QRB[	קרב	HQRBWHJ	HQRBW	HJ	perf	haf	m	pl	p3	1	1	0
-374906	374906	Daniel	7	15	BHL[	בהל	JBHLNNJ	JBHL	NJ	impf	pael	m	pl	p3	0	1	0
-374991	374991	Daniel	7	20	NPL[	נפל	NPLW	NPLW		perf	peal	f	pl	p3	1	0	0
-375160	375160	Daniel	7	28	BHL[	בהל	JBHLNNJ	JBHL	NJ	impf	pael	m	pl	p3	0	1	0
 375984	375984	Daniel	9	11	<BR[	עבר	<BRW	<BRW		perf	qal	unknown	pl	p3	1	0	0
 376024	376024	Daniel	9	12	CPV[	שׁפט	CPVWNW	CPV	NW	perf	qal	unknown	pl	p3	0	1	1
 376591	376591	Daniel	10	7	R>H[	ראה	R>W	R>W		perf	qal	unknown	pl	p3	1	0	0
@@ -4745,11 +4683,9 @@
 379458	379458	Ezra	3	12	R>H[	ראה	R>W	R>W		perf	qal	unknown	pl	p3	1	0	0
 379729	379729	Ezra	4	11	CLX[	שׁלח	CLXW	CLXW		perf	peal	m	pl	p3	1	0	0
 379908	379908	Ezra	4	19	CKX[	שׁכח	HCKXW	HCKXW		perf	haf	m	pl	p3	1	0	0
-379944	379944	Ezra	4	21	FJM[	שׂים	FJMW	FJMW		impv	peal	m	pl	p2	1	0	0
 380156	380156	Ezra	5	7	CLX[	שׁלח	CLXW	CLXW		perf	peal	m	pl	p3	1	0	0
 380239	380239	Ezra	5	11	TWB[	תוב	HTJBWN>	HTJBWN>	N	perf	haf	m	pl	p3	0	1	0
 380740	380740	Ezra	6	13	<BD[	עבד	<BDW	<BDW		perf	peal	m	pl	p3	1	0	0
-380756	380756	Ezra	6	14	BNH[	בנה	BNW	BNW		perf	peal	m	pl	p3	1	0	0
 380792	380792	Ezra	6	16	<BD[	עבד	<BDW	<BDW		perf	peal	m	pl	p3	1	0	0
 380809	380809	Ezra	6	17	QRB[	קרב	HQRBW	HQRBW		perf	haf	m	pl	p3	1	0	0
 381991	381991	Ezra	8	25	RWM[	רום	HRJMW	HRJMW		perf	hif	unknown	pl	p3	1	0	0
@@ -4764,7 +4700,6 @@
 382973	382973	Ezra	10	11	NTN[	נתן	TNW	TNW		impv	qal	m	pl	p2	1	0	0
 382980	382980	Ezra	10	11	<FH[	עשׂה	<FW	<FW		impv	qal	m	pl	p2	1	0	0
 383104	383104	Ezra	10	15	<ZR[	עזר	<ZRM	<ZR	M	perf	qal	unknown	pl	p3	0	1	0
-383409	383409	Ezra	10	44	NF>[	נשׂא	NF>W	NF>W		perf	qal	unknown	pl	p3	1	0	0
 383489	383489	Nehemiah	1	3	JYT[	יצת	NYTW	NYTW		perf	nif	unknown	pl	p3	1	0	0
 383791	383791	Nehemiah	2	3	>KL[	אכל	>KLW	>KLW		perf	pual	unknown	pl	p3	1	0	0
 383877	383877	Nehemiah	2	7	NTN[	נתן	JTNW	JTNW		impf	qal	m	pl	p3	1	0	0
