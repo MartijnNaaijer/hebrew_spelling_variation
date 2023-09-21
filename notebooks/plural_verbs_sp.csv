@@ -1,754 +1,766 @@
-	tf_id	book	chapter	verse	lex	lex_hebrew	g_cons	g_cons_no_suff	suff	vt	vs	gn	nu	ps	verb_ends_on_w	has_suffix	w_in_suffix
-405847	405847	Genesis	1	22	ML>[	מלא[	ML>W	ML>W		impv	-	m	pl	p2	1	0	0
-405986	405986	Genesis	1	28	ML>[	מלא[	ML>W	ML>W		impv	-	m	pl	p2	1	0	0
-405991	405991	Genesis	1	28	KBC[	כבשׁ[	KBCWH	KBCW	H	perf	-	unknown	pl	p3	1	1	0
-406098	406098	Genesis	2	1	KLH[	כלה[	JKLW	JKLW		impf	-	m	pl	p3	1	0	0
-406616	406616	Genesis	3	1	>KL[	אכל[	T>KLW	T>KLW		impf	-	m	pl	p2	1	0	0
-406650	406650	Genesis	3	3	>KL[	אכל[	T>KLW	T>KLW		impf	-	m	pl	p2	1	0	0
-406722	406722	Genesis	3	6	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-406728	406728	Genesis	3	7	JD<[	ידע[	JD<W	JD<W		impf	-	m	pl	p3	1	0	0
-406737	406737	Genesis	3	7	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0
-406741	406741	Genesis	3	8	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0
-407174	407174	Genesis	4	5	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0
-407186	407186	Genesis	4	6	NPL[	נפל[	NPLW	NPLW		perf	-	unknown	pl	p3	1	0	0
-408029	408029	Genesis	6	2	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-408041	408041	Genesis	6	2	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-408085	408085	Genesis	6	4	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-408415	408415	Genesis	6	20	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-408614	408614	Genesis	7	9	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-408675	408675	Genesis	7	11	PTX[	פתח[	NPTXW	NPTXW		perf	-	unknown	pl	p3	1	0	0
-408748	408748	Genesis	7	15	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-408775	408775	Genesis	7	16	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-408799	408799	Genesis	7	17	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0
-408837	408837	Genesis	7	19	KSH[	כסה[	JKSW	JKSW		impf	-	m	pl	p3	1	0	0
-408858	408858	Genesis	7	20	KSH[	כסה[	JKSW	JKSW		impf	-	m	pl	p3	1	0	0
-408904	408904	Genesis	7	22	MWT[	מות[	MTW	MTW		perf	-	unknown	pl	p3	1	0	0
-408997	408997	Genesis	8	3	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0
-409006	409006	Genesis	8	3	CWB[	שׁוב[	CBW	CBW		perf	-	unknown	pl	p3	1	0	0
-409051	409051	Genesis	8	5	R>H[	ראה[	NR>W	NR>W		perf	-	unknown	pl	p3	1	0	0
-409337	409337	Genesis	8	19	JY>[	יצא[	JY>W	JY>W		perf	-	unknown	pl	p3	1	0	0
-409445	409445	Genesis	9	1	ML>[	מלא[	ML>W	ML>W		impv	-	m	pl	p2	1	0	0
-409504	409504	Genesis	9	4	>KL[	אכל[	T>KLW	T>KLW		impf	-	m	pl	p2	1	0	0
-409839	409839	Genesis	9	23	FJM[	שׂימ[	JFMW	JFMW		impf	-	m	pl	p3	1	0	0
-409847	409847	Genesis	9	23	KSH[	כסה[	JKSW	JKSW		impf	-	m	pl	p3	1	0	0
-409858	409858	Genesis	9	23	R>H[	ראה[	R>W	R>W		perf	-	unknown	pl	p3	1	0	0
-410110	410110	Genesis	10	14	JY>[	יצא[	JY>W	JY>W		perf	-	unknown	pl	p3	1	0	0
-410367	410367	Genesis	11	2	MY>[	מצא[	JMY>W	JMY>W		impf	-	m	pl	p3	1	0	0
-410376	410376	Genesis	11	3	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-410403	410403	Genesis	11	4	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-410438	410438	Genesis	11	5	BNH[	בנה[	BNW	BNW		perf	-	unknown	pl	p3	1	0	0
-410977	410977	Genesis	11	31	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-411040	411040	Genesis	12	3	BRK[	ברכ[	NBRKW	NBRKW		perf	-	unknown	pl	p3	1	0	0
-411092	411092	Genesis	12	5	<FH[	עשׂה[	<FW	<FW		perf	-	unknown	pl	p3	1	0	0
-411096	411096	Genesis	12	5	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0
-411102	411102	Genesis	12	5	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-411230	411230	Genesis	12	12	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-411235	411235	Genesis	12	12	>MR[	אמר[	>MRW	>MRW		perf	-	unknown	pl	p3	1	0	0
-411239	411239	Genesis	12	12	HRG[	הרג[	HRGW	HRGW		perf	-	unknown	pl	p3	1	0	0
-411243	411243	Genesis	12	12	XJH[	חיה[	JXJW	JXJW		impf	-	m	pl	p3	1	0	0
-411265	411265	Genesis	12	14	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-411276	411276	Genesis	12	15	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-411281	411281	Genesis	12	15	HLL[	הלל[	JHLLW	JHLLW		impf	-	m	pl	p3	1	0	0
-411373	411373	Genesis	12	20	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0
-411745	411745	Genesis	14	2	<FH[	עשׂה[	<FW	<FW		perf	-	unknown	pl	p3	1	0	0
-411783	411783	Genesis	14	4	<BD[	עבד[	<BDW	<BDW		perf	-	unknown	pl	p3	1	0	0
-411805	411805	Genesis	14	5	NKH[	נכה[	JKW	JKW		impf	-	m	pl	p3	1	0	0
-411838	411838	Genesis	14	7	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0
-411840	411840	Genesis	14	7	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-411846	411846	Genesis	14	7	NKH[	נכה[	JKW	JKW		impf	-	m	pl	p3	1	0	0
-411880	411880	Genesis	14	8	<RK[	ערכ[	J<RKW	J<RKW		impf	-	m	pl	p3	1	0	0
-411922	411922	Genesis	14	10	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0
-411931	411931	Genesis	14	11	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-411945	411945	Genesis	14	12	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-412178	412178	Genesis	14	24	>KL[	אכל[	>KLW	>KLW		perf	-	unknown	pl	p3	1	0	0
-412194	412194	Genesis	14	24	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-412420	412420	Genesis	15	13	<BD[	עבד[	<BDWM	<BDW	M	perf	-	unknown	pl	p3	1	1	0
-412433	412433	Genesis	15	14	<BD[	עבד[	J<BDW	J<BDW		impf	-	m	pl	p3	1	0	0
-412439	412439	Genesis	15	14	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0
-412940	412940	Genesis	17	6	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0
-413386	413386	Genesis	18	3	<BR[	עבר[	T<BRW	T<BRW		impf	-	m	pl	p2	1	0	0
-413411	413411	Genesis	18	5	<BR[	עבר[	T<BRW	T<BRW		impf	-	m	pl	p2	1	0	0
-413419	413419	Genesis	18	5	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-413489	413489	Genesis	18	8	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-413491	413491	Genesis	18	9	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-413642	413642	Genesis	18	18	BRK[	ברכ[	NBRKW	NBRKW		perf	-	unknown	pl	p3	1	0	0
-413702	413702	Genesis	18	21	<FH[	עשׂה[	<FW	<FW		perf	-	unknown	pl	p3	1	0	0
-413952	413952	Genesis	19	1	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-413998	413998	Genesis	19	2	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-414012	414012	Genesis	19	3	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-414023	414023	Genesis	19	3	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-414031	414031	Genesis	19	4	SBB[	סבב[	NSBW	NSBW		perf	-	unknown	pl	p3	1	0	0
-414046	414046	Genesis	19	5	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0
-414050	414050	Genesis	19	5	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-414056	414056	Genesis	19	5	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-414074	414074	Genesis	19	6	SGR[	סגר[	SGRW	SGRW		perf	-	unknown	pl	p3	1	0	0
-414089	414089	Genesis	19	8	JD<[	ידע[	JD<W	JD<W		perf	-	unknown	pl	p3	1	0	0
-414096	414096	Genesis	19	8	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0
-414108	414108	Genesis	19	8	<FH[	עשׂה[	T<FW	T<FW		impf	-	m	pl	p2	1	0	0
-414113	414113	Genesis	19	8	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-414118	414118	Genesis	19	9	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-414122	414122	Genesis	19	9	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-414149	414149	Genesis	19	10	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0
-414155	414155	Genesis	19	10	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0
-414165	414165	Genesis	19	10	SGR[	סגר[	SGRW	SGRW		perf	-	unknown	pl	p3	1	0	0
-414174	414174	Genesis	19	11	NKH[	נכה[	HKW	HKW		perf	-	unknown	pl	p3	1	0	0
-414189	414189	Genesis	19	12	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-414245	414245	Genesis	19	14	JY>[	יצא[	Y>W	Y>W		impv	-	m	pl	p2	1	0	0
-414296	414296	Genesis	19	16	XZQ[	חזק[	JXZQW	JXZQW		impf	-	m	pl	p3	1	0	0
-414937	414937	Genesis	20	8	JR>[	ירא[	JJR>W	JJR>W		impf	-	m	pl	p3	1	0	0
-415001	415001	Genesis	20	11	HRG[	הרג[	HRGWNJ	HRGW	NJ	perf	-	unknown	pl	p3	1	1	0
-415391	415391	Genesis	21	15	KLH[	כלה[	JKLW	JKLW		impf	-	m	pl	p3	1	0	0
-415727	415727	Genesis	21	32	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0
-415949	415949	Genesis	22	9	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-416150	416150	Genesis	22	18	BRK[	ברכ[	HTBRKW	HTBRKW		perf	-	unknown	pl	p3	1	0	0
-416320	416320	Genesis	23	4	NTN[	נתנ[	TNW	TNW		impv	-	m	pl	p2	1	0	0
-416333	416333	Genesis	23	5	<NH[	ענה[	J<NW	J<NW		impf	-	m	pl	p3	1	0	0
-416391	416391	Genesis	23	8	CM<[	שׁמע[	CM<WNJ	CM<W	NJ	impv	-	m	pl	p2	1	1	0
-417032	417032	Genesis	24	19	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0
-417075	417075	Genesis	24	22	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0
-417310	417310	Genesis	24	33	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-417437	417437	Genesis	24	41	NTN[	נתנ[	JTNW	JTNW		impf	-	m	pl	p3	1	0	0
-417647	417647	Genesis	24	50	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-417715	417715	Genesis	24	54	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-417717	417717	Genesis	24	54	CTH[	שׁתה[	JCTW	JCTW		impf	-	m	pl	p3	1	0	0
-417732	417732	Genesis	24	54	CLX[	שׁלח[	CLXWNJ	CLXW	NJ	impv	-	m	pl	p2	1	1	0
-417736	417736	Genesis	24	55	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-417761	417761	Genesis	24	56	CLX[	שׁלח[	CLXWNJ	CLXW	NJ	impv	-	m	pl	p2	1	1	0
-417767	417767	Genesis	24	57	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-417776	417776	Genesis	24	58	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0
-417780	417780	Genesis	24	58	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-417793	417793	Genesis	24	59	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0
-417808	417808	Genesis	24	60	BRK[	ברכ[	JBRKW	JBRKW		impf	-	m	pl	p3	1	0	0
-417812	417812	Genesis	24	60	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-418089	418089	Genesis	25	9	QBR[	קבר[	JQBRW	JQBRW		impf	-	m	pl	p3	1	0	0
-418341	418341	Genesis	25	24	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0
-418360	418360	Genesis	25	25	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0
-418375	418375	Genesis	25	26	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0
-418387	418387	Genesis	25	27	GDL[	גדל[	JGDLW	JGDLW		impf	-	m	pl	p3	1	0	0
-418606	418606	Genesis	26	4	BRK[	ברכ[	HTBRKW	HTBRKW		perf	-	unknown	pl	p3	1	0	0
-418633	418633	Genesis	26	7	C>L[	שׁאל[	JC>LW	JC>LW		impf	-	m	pl	p3	1	0	0
-418650	418650	Genesis	26	7	HRG[	הרג[	JHRGWNJ	JHRGW	NJ	impf	-	m	pl	p3	1	1	0
-418792	418792	Genesis	26	14	QN>[	קנא[	JQN>W	JQN>W		impf	-	m	pl	p3	1	0	0
-418800	418800	Genesis	26	15	XPR=[	חפר=[	XPRW	XPRW		perf	-	unknown	pl	p3	1	0	0
-418807	418807	Genesis	26	15	STM[	סתמ[	STMWM	STMW	M	perf	-	unknown	pl	p3	1	1	0
-418810	418810	Genesis	26	15	ML>[	מלא[	JML>WM	JML>W	M	impf	-	m	pl	p3	1	1	0
-418847	418847	Genesis	26	18	XPR=[	חפר=[	XPRW	XPRW		perf	-	unknown	pl	p3	1	0	0
-418852	418852	Genesis	26	18	STM[	סתמ[	JSTMWM	JSTMW	M	impf	-	m	pl	p3	1	1	0
-418868	418868	Genesis	26	19	XPR=[	חפר=[	JXPRW	JXPRW		impf	-	m	pl	p3	1	0	0
-418874	418874	Genesis	26	19	MY>[	מצא[	JMY>W	JMY>W		impf	-	m	pl	p3	1	0	0
-418901	418901	Genesis	26	21	XPR=[	חפר=[	JXPRW	JXPRW		impf	-	m	pl	p3	1	0	0
-418917	418917	Genesis	26	22	XPR=[	חפר=[	JXPRW	JXPRW		impf	-	m	pl	p3	1	0	0
-418988	418988	Genesis	26	25	KRH[	כרה[	JKRW	JKRW		impf	-	m	pl	p3	1	0	0
-419018	419018	Genesis	26	27	CLX[	שׁלח[	TCLXWNJ	TCLXW	NJ	impf	-	m	pl	p2	1	1	0
-419022	419022	Genesis	26	28	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-419070	419070	Genesis	26	30	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-419072	419072	Genesis	26	30	CTH[	שׁתה[	JCTW	JCTW		impf	-	m	pl	p3	1	0	0
-419098	419098	Genesis	26	32	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-419109	419109	Genesis	26	32	XPR=[	חפר=[	XPRW	XPRW		perf	-	unknown	pl	p3	1	0	0
-419111	419111	Genesis	26	32	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-419606	419606	Genesis	27	27	R>H[	ראה[	R>W	R>W		impv	-	m	pl	p2	1	0	0
-419635	419635	Genesis	27	29	<BD[	עבד[	J<BDWK	J<BDW	K	impf	-	m	pl	p3	1	1	0
-419638	419638	Genesis	27	29	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-419646	419646	Genesis	27	29	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-419914	419914	Genesis	27	41	QRB[	קרב[	JQRBW	JQRBW		impf	-	m	pl	p3	1	0	0
-420145	420145	Genesis	28	6	YWH[	צוה[	JYWW	JYWW		impf	-	m	pl	p3	1	0	0
-420294	420294	Genesis	28	14	BRK[	ברכ[	NBRKW	NBRKW		perf	-	unknown	pl	p3	1	0	0
-420500	420500	Genesis	29	2	CQH[	שׁקה[	JCQW	JCQW		impf	-	m	pl	p3	1	0	0
-420527	420527	Genesis	29	3	CQH[	שׁקה[	HCQW	HCQW		perf	-	unknown	pl	p3	1	0	0
-420532	420532	Genesis	29	3	CWB[	שׁוב[	HCJBW	HCJBW		perf	-	unknown	pl	p3	1	0	0
-420551	420551	Genesis	29	4	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-420565	420565	Genesis	29	5	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-420574	420574	Genesis	29	6	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-420597	420597	Genesis	29	7	CQH[	שׁקה[	HCQW	HCQW		impv	-	m	pl	p2	1	0	0
-420602	420602	Genesis	29	7	R<H[	רעה[	R<W	R<W		impv	-	m	pl	p2	1	0	0
-420604	420604	Genesis	29	8	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-420858	420858	Genesis	29	21	ML>[	מלא[	ML>W	ML>W		perf	-	unknown	pl	p3	1	0	0
-421292	421292	Genesis	30	13	>CR=[	אשׁר=[	>CRWNJ	>CRW	NJ	perf	-	unknown	pl	p3	1	1	0
-422702	422702	Genesis	31	38	CKL[	שׁכל[	CKLW	CKLW		perf	-	unknown	pl	p3	1	0	0
-422850	422850	Genesis	31	46	LQV[	לקט[	LQVW	LQVW		impv	-	m	pl	p2	1	0	0
-422853	422853	Genesis	31	46	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-422856	422856	Genesis	31	46	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0
-422859	422859	Genesis	31	46	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-423014	423014	Genesis	31	54	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-423128	423128	Genesis	32	7	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0
-423345	423345	Genesis	32	17	<BR[	עבר[	<BRW	<BRW		impv	-	m	pl	p2	1	0	0
-423350	423350	Genesis	32	17	FJM[	שׂימ[	TFJMW	TFJMW		impf	-	m	pl	p2	1	0	0
-423639	423639	Genesis	32	33	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-423789	423789	Genesis	33	7	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-423797	423797	Genesis	33	7	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-423907	423907	Genesis	33	13	MWT[	מות[	MTW	MTW		perf	-	unknown	pl	p3	1	0	0
-424141	424141	Genesis	34	7	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-424148	424148	Genesis	34	7	<YB[	עצב[	JT<YBW	JT<YBW		impf	-	m	pl	p3	1	0	0
-424181	424181	Genesis	34	8	NTN[	נתנ[	TNW	TNW		impv	-	m	pl	p2	1	0	0
-424191	424191	Genesis	34	9	NTN[	נתנ[	TTNW	TTNW		impf	-	m	pl	p2	1	0	0
-424196	424196	Genesis	34	9	LQX[	לקח[	TQXW	TQXW		impf	-	m	pl	p2	1	0	0
-424208	424208	Genesis	34	10	SXR[	סחר[	SXRW	SXRW		impv	-	m	pl	p2	1	0	0
-424210	424210	Genesis	34	10	>XZ[	אחז[	>XZW	>XZW		impv	-	m	pl	p2	1	0	0
-424226	424226	Genesis	34	11	>MR[	אמר[	T>MRW	T>MRW		impf	-	m	pl	p2	1	0	0
-424239	424239	Genesis	34	12	>MR[	אמר[	T>MRW	T>MRW		impf	-	m	pl	p2	1	0	0
-424242	424242	Genesis	34	12	NTN[	נתנ[	TNW	TNW		impv	-	m	pl	p2	1	0	0
-424250	424250	Genesis	34	13	<NH[	ענה[	J<NW	J<NW		impf	-	m	pl	p3	1	0	0
-424264	424264	Genesis	34	13	VM>[	טמא[	VM>W	VM>W		perf	-	unknown	pl	p3	1	0	0
-424269	424269	Genesis	34	14	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-424327	424327	Genesis	34	17	CM<[	שׁמע[	TCM<W	TCM<W		impf	-	m	pl	p2	1	0	0
-424396	424396	Genesis	34	21	SXR[	סחר[	JSXRW	JSXRW		impf	-	m	pl	p3	1	0	0
-424458	424458	Genesis	34	24	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0
-424487	424487	Genesis	34	25	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-424499	424499	Genesis	34	25	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-424505	424505	Genesis	34	25	HRG[	הרג[	JHRGW	JHRGW		impf	-	m	pl	p3	1	0	0
-424515	424515	Genesis	34	26	HRG[	הרג[	HRGW	HRGW		perf	-	unknown	pl	p3	1	0	0
-424520	424520	Genesis	34	26	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-424527	424527	Genesis	34	26	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0
-424531	424531	Genesis	34	27	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-424536	424536	Genesis	34	27	BZZ[	בזז[	JBZW	JBZW		impf	-	m	pl	p3	1	0	0
-424540	424540	Genesis	34	27	VM>[	טמא[	VM>W	VM>W		perf	-	unknown	pl	p3	1	0	0
-424560	424560	Genesis	34	28	LQX[	לקח[	LQXW	LQXW		perf	-	unknown	pl	p3	1	0	0
-424571	424571	Genesis	34	29	CBH[	שׁבה[	CBW	CBW		perf	-	unknown	pl	p3	1	0	0
-424573	424573	Genesis	34	29	BZZ[	בזז[	JBZW	JBZW		impf	-	m	pl	p3	1	0	0
-424608	424608	Genesis	34	30	NKH[	נכה[	HKWNJ	HKW	NJ	perf	-	unknown	pl	p3	1	1	0
-424615	424615	Genesis	34	31	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-424619	424619	Genesis	34	31	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0
-424696	424696	Genesis	35	4	NTN[	נתנ[	JTNW	JTNW		impf	-	m	pl	p3	1	0	0
-424737	424737	Genesis	35	5	RDP[	רדפ[	RDPW	RDPW		perf	-	unknown	pl	p3	1	0	0
-424856	424856	Genesis	35	11	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0
-425123	425123	Genesis	35	29	QBR[	קבר[	JQBRW	JQBRW		impf	-	m	pl	p3	1	0	0
-425807	425807	Genesis	37	4	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-425817	425817	Genesis	37	4	FN>[	שׂנא[	JFN>W	JFN>W		impf	-	m	pl	p3	1	0	0
-425841	425841	Genesis	37	6	CM<[	שׁמע[	CM<W	CM<W		impv	-	m	pl	p2	1	0	0
-425874	425874	Genesis	37	8	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-425958	425958	Genesis	37	11	QN>[	קנא[	JQN>W	JQN>W		impf	-	m	pl	p3	1	0	0
-426073	426073	Genesis	37	18	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-426087	426087	Genesis	37	19	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-426122	426122	Genesis	37	21	NYL[	נצל[	JYLW	JYL	W	impf	-	m	pl	p3	0	1	1
-426137	426137	Genesis	37	22	CLK[	שׁלכ[	HCLJKW	HCLJKW		impv	-	m	pl	p2	1	0	0
-426150	426150	Genesis	37	22	CLX[	שׁלח[	TCLXW	TCLXW		impf	-	m	pl	p2	1	0	0
-426170	426170	Genesis	37	23	PCV[	פשׁט[	JPCVW	JPCVW		impf	-	m	pl	p3	1	0	0
-426182	426182	Genesis	37	24	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-426184	426184	Genesis	37	24	CLK[	שׁלכ[	JCLKW	JCLKW		impf	-	m	pl	p3	1	0	0
-426201	426201	Genesis	37	25	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0
-426204	426204	Genesis	37	25	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-426254	426254	Genesis	37	27	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0
-426257	426257	Genesis	37	28	<BR[	עבר[	J<BRW	J<BRW		impf	-	m	pl	p3	1	0	0
-426264	426264	Genesis	37	28	<LH[	עלה[	J<LW	J<LW		impf	-	m	pl	p3	1	0	0
-426271	426271	Genesis	37	28	MKR[	מכר[	JMKRW	JMKRW		impf	-	m	pl	p3	1	0	0
-426280	426280	Genesis	37	28	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0
-426315	426315	Genesis	37	31	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-426331	426331	Genesis	37	32	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0
-426337	426337	Genesis	37	32	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0
-426341	426341	Genesis	37	32	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-426408	426408	Genesis	37	36	MKR[	מכר[	MKRW	MKRW		perf	-	unknown	pl	p3	1	0	0
-426805	426805	Genesis	38	21	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-426824	426824	Genesis	38	22	>MR[	אמר[	>MRW	>MRW		perf	-	unknown	pl	p3	1	0	0
-427297	427297	Genesis	39	14	R>H[	ראה[	R>W	R>W		impv	-	m	pl	p2	1	0	0
-427621	427621	Genesis	40	8	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-427773	427773	Genesis	40	15	FJM[	שׂימ[	FMW	FMW		perf	-	m	pl	p3	1	0	0
-428310	428310	Genesis	41	21	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-428998	428998	Genesis	41	57	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-429026	429026	Genesis	42	1	JR>[	ירא[	TTJR>W	TTJR>W		impf	-	m	pl	p2	1	0	0
-429036	429036	Genesis	42	2	JRD[	ירד[	RDW	RDW		impv	-	m	pl	p2	1	0	0
-429049	429049	Genesis	42	3	JRD[	ירד[	JRDW	JRDW		impf	-	m	pl	p3	1	0	0
-429074	429074	Genesis	42	5	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-429108	429108	Genesis	42	6	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-429112	429112	Genesis	42	6	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-429137	429137	Genesis	42	7	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-429152	429152	Genesis	42	8	NKR[	נכר[	HKRHW	HKR	HW	perf	-	unknown	pl	p3	0	1	1
-429175	429175	Genesis	42	10	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-429181	429181	Genesis	42	10	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-429208	429208	Genesis	42	13	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-429246	429246	Genesis	42	15	BXN[	בחנ[	TBXNW	TBXNW		impf	-	m	pl	p2	1	0	0
-429250	429250	Genesis	42	15	JY>[	יצא[	TY>W	TY>W		impf	-	m	pl	p2	1	0	0
-429261	429261	Genesis	42	16	CLX[	שׁלח[	CLXW	CLXW		impv	-	m	pl	p2	1	0	0
-429270	429270	Genesis	42	16	>SR[	אסר[	H>SRW	H>SRW		impv	-	m	pl	p2	1	0	0
-429272	429272	Genesis	42	16	BXN[	בחנ[	JBXNW	JBXNW		impf	-	m	pl	p3	1	0	0
-429286	429286	Genesis	42	16	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-429317	429317	Genesis	42	18	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0
-429319	429319	Genesis	42	18	XJH[	חיה[	XJW	XJW		impv	-	m	pl	p2	1	0	0
-429339	429339	Genesis	42	19	BW>[	בוא[	HBJ>W	HBJ>W		impv	-	m	pl	p2	1	0	0
-429358	429358	Genesis	42	20	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0
-429361	429361	Genesis	42	21	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-429417	429417	Genesis	42	23	JD<[	ידע[	JD<W	JD<W		perf	-	unknown	pl	p3	1	0	0
-429452	429452	Genesis	42	25	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0
-429476	429476	Genesis	42	26	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0
-429535	429535	Genesis	42	29	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-429612	429612	Genesis	42	33	NWX[	נוח[	HNJXW	HNJXW		impv	-	m	pl	p2	1	0	0
-429618	429618	Genesis	42	33	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0
-429622	429622	Genesis	42	34	BW>[	בוא[	HBJ>W	HBJ>W		impv	-	m	pl	p2	1	0	0
-429645	429645	Genesis	42	34	SXR[	סחר[	TSXRW	TSXRW		impf	-	m	pl	p2	1	0	0
-429659	429659	Genesis	42	35	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-429667	429667	Genesis	42	35	JR>[	ירא[	JJR>W	JJR>W		impf	-	m	pl	p3	1	0	0
-429683	429683	Genesis	42	36	LQX[	לקח[	TQXW	TQXW		impf	-	m	pl	p2	1	0	0
-429749	429749	Genesis	43	2	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0
-429756	429756	Genesis	43	2	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	unknown	pl	p3	1	0	0
-429763	429763	Genesis	43	2	CWB[	שׁוב[	CWBW	CWBW		impv	-	m	pl	p2	1	0	0
-429783	429783	Genesis	43	3	R>H[	ראה[	TR>W	TR>W		impf	-	m	pl	p2	1	0	0
-429811	429811	Genesis	43	5	R>H[	ראה[	TR>W	TR>W		impf	-	m	pl	p2	1	0	0
-429831	429831	Genesis	43	7	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-429864	429864	Genesis	43	7	JRD[	ירד[	HWRJDW	HWRJDW		impv	-	m	pl	p2	1	0	0
-429929	429929	Genesis	43	11	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0
-429930	429930	Genesis	43	11	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0
-429938	429938	Genesis	43	11	JRD[	ירד[	HWRJDW	HWRJDW		impv	-	m	pl	p2	1	0	0
-429956	429956	Genesis	43	12	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0
-429968	429968	Genesis	43	12	CWB[	שׁוב[	TCJBW	TCJBW		impf	-	m	pl	p2	1	0	0
-429977	429977	Genesis	43	13	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0
-429981	429981	Genesis	43	13	CWB[	שׁוב[	CWBW	CWBW		impv	-	m	pl	p2	1	0	0
-430012	430012	Genesis	43	15	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-430023	430023	Genesis	43	15	LQX[	לקח[	LQXW	LQXW		perf	-	unknown	pl	p3	1	0	0
-430032	430032	Genesis	43	15	JRD[	ירד[	JRDW	JRDW		impf	-	m	pl	p3	1	0	0
-430065	430065	Genesis	43	16	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-430088	430088	Genesis	43	18	JR>[	ירא[	JJR>W	JJR>W		impf	-	m	pl	p3	1	0	0
-430092	430092	Genesis	43	18	BW>[	בוא[	HWB>W	HWB>W		perf	-	unknown	pl	p3	1	0	0
-430096	430096	Genesis	43	18	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-430140	430140	Genesis	43	20	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-430197	430197	Genesis	43	23	JR>[	ירא[	TJR>W	TJR>W		impf	-	m	pl	p2	1	0	0
-430246	430246	Genesis	43	25	CM<[	שׁמע[	CM<W	CM<W		perf	-	unknown	pl	p3	1	0	0
-430249	430249	Genesis	43	25	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0
-430257	430257	Genesis	43	26	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0
-430268	430268	Genesis	43	26	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-430288	430288	Genesis	43	28	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-430308	430308	Genesis	43	28	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-430362	430362	Genesis	43	31	FJM[	שׂימ[	FJMW	FJMW		impv	-	m	pl	p2	1	0	0
-430365	430365	Genesis	43	32	FJM[	שׂימ[	JFMW	JFMW		impf	-	m	pl	p3	1	0	0
-430434	430434	Genesis	43	34	CTH[	שׁתה[	JCTW	JCTW		impf	-	m	pl	p3	1	0	0
-430436	430436	Genesis	43	34	CKR[	שׁכר[	JCKRW	JCKRW		impf	-	m	pl	p3	1	0	0
-430492	430492	Genesis	44	3	CLX[	שׁלח[	CLXW	CLXW		perf	-	unknown	pl	p3	1	0	0
-430497	430497	Genesis	44	4	JY>[	יצא[	JY>W	JY>W		perf	-	unknown	pl	p3	1	0	0
-430551	430551	Genesis	44	7	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-430625	430625	Genesis	44	11	JRD[	ירד[	JWRJDW	JWRJDW		impf	-	m	pl	p3	1	0	0
-430630	430630	Genesis	44	11	PTX[	פתח[	JPTXW	JPTXW		impf	-	m	pl	p3	1	0	0
-430658	430658	Genesis	44	13	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0
-430673	430673	Genesis	44	14	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0
-430751	430751	Genesis	44	17	<LH[	עלה[	<LW	<LW		impv	-	m	pl	p2	1	0	0
-430877	430877	Genesis	44	25	CWB[	שׁוב[	CWBW	CWBW		impv	-	m	pl	p2	1	0	0
-430987	430987	Genesis	44	31	JRD[	ירד[	HWRJDW	HWRJDW		perf	-	unknown	pl	p3	1	0	0
-431067	431067	Genesis	45	1	JY>[	יצא[	HWYJ>W	HWYJ>W		impv	-	m	pl	p2	1	0	0
-431089	431089	Genesis	45	2	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0
-431092	431092	Genesis	45	2	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0
-431114	431114	Genesis	45	3	BHL[	בהל[	NBHLW	NBHLW		perf	-	unknown	pl	p3	1	0	0
-431139	431139	Genesis	45	5	<YB[	עצב[	T<YBW	T<YBW		impf	-	m	pl	p2	1	0	0
-431220	431220	Genesis	45	9	<LH[	עלה[	<LW	<LW		impv	-	m	pl	p2	1	0	0
-431351	431351	Genesis	45	16	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-431372	431372	Genesis	45	17	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0
-431379	431379	Genesis	45	17	BW>[	בוא[	B>W	B>W		impv	-	m	pl	p2	1	0	0
-431383	431383	Genesis	45	18	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0
-431390	431390	Genesis	45	18	BW>[	בוא[	B>W	B>W		impv	-	m	pl	p2	1	0	0
-431400	431400	Genesis	45	18	>KL[	אכל[	>KLW	>KLW		impv	-	m	pl	p2	1	0	0
-431409	431409	Genesis	45	19	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0
-431410	431410	Genesis	45	19	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0
-431441	431441	Genesis	45	21	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0
-431517	431517	Genesis	45	25	<LH[	עלה[	J<LW	J<LW		impf	-	m	pl	p3	1	0	0
-431521	431521	Genesis	45	25	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-431664	431664	Genesis	46	5	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0
-431685	431685	Genesis	46	6	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0
-431697	431697	Genesis	46	6	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-432089	432089	Genesis	46	31	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-432108	432108	Genesis	46	32	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	unknown	pl	p3	1	0	0
-432167	432167	Genesis	47	1	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-432198	432198	Genesis	47	3	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-432209	432209	Genesis	47	4	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-432250	432250	Genesis	47	5	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0
-432333	432333	Genesis	47	9	NFG[	נשׂג[	HFJGW	HFJGW		perf	-	unknown	pl	p3	1	0	0
-432461	432461	Genesis	47	15	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-432495	432495	Genesis	47	17	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0
-432538	432538	Genesis	47	18	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-432545	432545	Genesis	47	18	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-432618	432618	Genesis	47	20	MKR[	מכר[	MKRW	MKRW		perf	-	unknown	pl	p3	1	0	0
-432661	432661	Genesis	47	22	>KL[	אכל[	>KLW	>KLW		perf	-	unknown	pl	p3	1	0	0
-432671	432671	Genesis	47	22	MKR[	מכר[	MKRW	MKRW		perf	-	unknown	pl	p3	1	0	0
-432731	432731	Genesis	47	25	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-432781	432781	Genesis	47	27	>XZ[	אחז[	J>XZW	J>XZW		impf	-	m	pl	p3	1	0	0
-432811	432811	Genesis	47	29	QRB[	קרב[	JQRBW	JQRBW		impf	-	m	pl	p3	1	0	0
-433000	433000	Genesis	48	6	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0
-433110	433110	Genesis	48	12	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-433386	433386	Genesis	49	2	CM<[	שׁמע[	CM<W	CM<W		impv	-	m	pl	p2	1	0	0
-433390	433390	Genesis	49	2	CM<[	שׁמע[	CM<W	CM<W		impv	-	m	pl	p2	1	0	0
-433423	433423	Genesis	49	5	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0
-433440	433440	Genesis	49	6	HRG[	הרג[	HRGW	HRGW		perf	-	unknown	pl	p3	1	0	0
-433470	433470	Genesis	49	8	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0
-433644	433644	Genesis	49	23	FVM[	שׂטמ[	JFVMHW	JFVM	HW	impf	-	m	pl	p3	0	1	1
-433749	433749	Genesis	49	29	QBR[	קבר[	QBRW	QBRW		impv	-	m	pl	p2	1	0	0
-433791	433791	Genesis	49	31	QBR[	קבר[	QBRW	QBRW		perf	-	unknown	pl	p3	1	0	0
-433800	433800	Genesis	49	31	QBR[	קבר[	QBRW	QBRW		perf	-	unknown	pl	p3	1	0	0
-433874	433874	Genesis	50	3	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0
-433880	433880	Genesis	50	3	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0
-433891	433891	Genesis	50	4	<BR[	עבר[	J<BRW	J<BRW		impf	-	m	pl	p3	1	0	0
-433967	433967	Genesis	50	7	<LH[	עלה[	J<LW	J<LW		impf	-	m	pl	p3	1	0	0
-433993	433993	Genesis	50	8	<ZB[	עזב[	<ZBW	<ZBW		perf	-	unknown	pl	p3	1	0	0
-434011	434011	Genesis	50	10	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0
-434051	434051	Genesis	50	11	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-434068	434068	Genesis	50	12	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0
-434076	434076	Genesis	50	13	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0
-434082	434082	Genesis	50	13	QBR[	קבר[	JQBRW	JQBRW		impf	-	m	pl	p3	1	0	0
-434127	434127	Genesis	50	15	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0
-434134	434134	Genesis	50	15	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-434149	434149	Genesis	50	16	YWH[	צוה[	JYWW	JYWW		impf	-	m	pl	p3	1	0	0
-434174	434174	Genesis	50	17	GML[	גמל[	GMLWK	GMLW	K	perf	-	unknown	pl	p3	1	1	0
-434195	434195	Genesis	50	18	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0
-434199	434199	Genesis	50	18	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0
-434209	434209	Genesis	50	19	JR>[	ירא[	TJR>W	TJR>W		impf	-	m	pl	p2	1	0	0
-434237	434237	Genesis	50	21	JR>[	ירא[	TJR>W	TJR>W		impf	-	m	pl	p2	1	0	0
-434365	434365	Exodus	1	1	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-434542	434542	Exodus	1	14	<BD[	עבד[	<BDW	<BDW		perf	-	?	pl	p3	1	0	0
-434597	434597	Exodus	1	17	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-434669	434669	Exodus	1	21	JR>[	ירא[	JR>W	JR>W		perf	-	?	pl	p3	1	0	0
-435522	435522	Exodus	3	13	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-435650	435650	Exodus	3	18	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-436175	436175	Exodus	4	19	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-436408	436408	Exodus	5	1	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-436665	436665	Exodus	5	14	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0
-437022	437022	Exodus	6	9	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-437085	437085	Exodus	6	12	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-437484	437484	Exodus	7	5	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-437515	437515	Exodus	7	6	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-438054	438054	Exodus	7	28	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0
-438056	438056	Exodus	7	28	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-438129	438129	Exodus	7	29	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0
-438131	438131	Exodus	7	29	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-438572	438572	Exodus	8	17	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0
-438667	438667	Exodus	8	19	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0
-439406	439406	Exodus	9	19	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-439557	439557	Exodus	9	19	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-439810	439810	Exodus	9	31	NKH[	נכה[	NKW	NKW		perf	-	?	pl	p3	1	0	0
-439826	439826	Exodus	9	32	NKH[	נכה[	NKW	NKW		perf	-	?	pl	p3	1	0	0
-440028	440028	Exodus	10	2	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0
-440040	440040	Exodus	10	2	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-440144	440144	Exodus	10	6	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0
-440156	440156	Exodus	10	6	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-440558	440558	Exodus	10	23	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-440751	440751	Exodus	11	3	C>L[	שׁאל[	HC>LWM	HC>LW	M	perf	-	?	pl	p3	1	1	0
-440962	440962	Exodus	11	8	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0
-441012	441012	Exodus	11	10	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-441158	441158	Exodus	12	7	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-441163	441163	Exodus	12	7	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-441180	441180	Exodus	12	8	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0
-441678	441678	Exodus	12	28	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-441793	441793	Exodus	12	33	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-441813	441813	Exodus	12	35	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-441881	441881	Exodus	12	39	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0
-441901	441901	Exodus	12	39	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-441942	441942	Exodus	12	41	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-442091	442091	Exodus	12	50	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-442485	442485	Exodus	13	17	CWB[	שׁוב[	CBW	CBW		perf	-	?	pl	p3	1	0	0
-442499	442499	Exodus	13	18	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0
-442647	442647	Exodus	14	4	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-442931	442931	Exodus	14	18	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-443334	443334	Exodus	15	5	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0
-443428	443428	Exodus	15	14	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-443437	443437	Exodus	15	15	BHL[	בהל[	NBHLW	NBHLW		perf	-	?	pl	p3	1	0	0
-443579	443579	Exodus	15	22	MY>[	מצא[	MY>W	MY>W		perf	-	?	pl	p3	1	0	0
-443798	443798	Exodus	16	4	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0
-444033	444033	Exodus	16	15	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-444102	444102	Exodus	16	18	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0
-444115	444115	Exodus	16	20	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-444156	444156	Exodus	16	22	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0
-444261	444261	Exodus	16	27	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-444269	444269	Exodus	16	27	MY>[	מצא[	MY>W	MY>W		perf	-	?	pl	p3	1	0	0
-444417	444417	Exodus	16	35	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0
-444431	444431	Exodus	16	35	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0
-444541	444541	Exodus	17	4	SQL[	סקל[	SQLWNJ	SQLW	NJ	perf	-	?	pl	p3	1	1	0
-444680	444680	Exodus	17	10	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0
-445253	445253	Exodus	18	22	CPV[	שׁפט[	CPVW	CPVW		perf	-	?	pl	p3	1	0	0
-445282	445282	Exodus	18	22	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0
-445532	445532	Exodus	19	1	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-446789	446789	Exodus	20	21	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-447124	447124	Exodus	21	18	NKH[	נכה[	HKW	HKW		perf	-	?	pl	p3	1	0	0
-447418	447418	Exodus	21	35	MKR[	מכר[	MKRW	MKRW		perf	-	?	pl	p3	1	0	0
-447423	447423	Exodus	21	35	XYH[	חצה[	XYW	XYW		perf	-	?	pl	p3	1	0	0
-448078	448078	Exodus	23	11	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0
-448980	448980	Exodus	25	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-449325	449325	Exodus	25	28	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0
-450833	450833	Exodus	28	3	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-450859	450859	Exodus	28	4	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-450896	450896	Exodus	28	6	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-451614	451614	Exodus	28	43	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-452542	452542	Exodus	29	43	QDC[	קדשׁ[	NQDCW	NQDCW		perf	-	?	pl	p3	1	0	0
-452576	452576	Exodus	29	46	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-452610	452610	Exodus	30	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-453142	453142	Exodus	31	6	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-453488	453488	Exodus	32	4	<LH[	עלה[	H<LWK	H<LW	K	perf	-	?	pl	p3	1	1	0
-453526	453526	Exodus	32	6	CTH[	שׁתה[	CTW	CTW		perf	-	?	pl	p3	1	0	0
-453555	453555	Exodus	32	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-453571	453571	Exodus	32	8	<LH[	עלה[	H<LWK	H<LW	K	perf	-	?	pl	p3	1	1	0
-453715	453715	Exodus	32	13	NXL[	נחל[	NXLWH	NXLW	H	perf	-	?	pl	p3	1	1	0
-453846	453846	Exodus	32	20	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-454158	454158	Exodus	32	35	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-454265	454265	Exodus	33	4	CJT[	שׁית[	CTW	CTW		perf	-	?	pl	p3	1	0	0
-454336	454336	Exodus	33	7	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-454409	454409	Exodus	33	10	XWH[	חוה[	HCTXWW	HCTXWW		perf	-	?	pl	p3	1	0	0
-454995	454995	Exodus	34	15	ZBX[	זבח[	ZBXW	ZBXW		perf	-	?	pl	p3	1	0	0
-455366	455366	Exodus	34	35	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-455729	455729	Exodus	35	21	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-455798	455798	Exodus	35	23	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-455806	455806	Exodus	35	24	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-455821	455821	Exodus	35	24	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-455867	455867	Exodus	35	27	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-455923	455923	Exodus	35	29	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-456038	456038	Exodus	35	35	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-456120	456120	Exodus	36	3	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-456133	456133	Exodus	36	3	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-456235	456235	Exodus	36	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-457904	457904	Exodus	39	1	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-458198	458198	Exodus	39	18	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-458496	458496	Exodus	39	32	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-458688	458688	Exodus	39	42	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-458704	458704	Exodus	39	43	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-458711	458711	Exodus	39	43	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-459451	459451	Leviticus	1	5	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0
-459473	459473	Leviticus	1	6	PCV[	פשׁט[	HPCJVW	HPCJVW		perf	-	?	pl	p3	1	0	0
-459478	459478	Leviticus	1	6	NTX[	נתח[	NTXW	NTXW		perf	-	?	pl	p3	1	0	0
-459483	459483	Leviticus	1	7	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-459493	459493	Leviticus	1	7	<RK[	ערכ[	<RKW	<RKW		perf	-	?	pl	p3	1	0	0
-459499	459499	Leviticus	1	8	<RK[	ערכ[	<RKW	<RKW		perf	-	?	pl	p3	1	0	0
-459597	459597	Leviticus	1	12	NTX[	נתח[	NTXW	NTXW		perf	-	?	pl	p3	1	0	0
-460627	460627	Leviticus	4	12	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0
-460645	460645	Leviticus	4	12	FRP[	שׂרפ[	FRPW	FRPW		perf	-	?	pl	p3	1	0	0
-460671	460671	Leviticus	4	13	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-460690	460690	Leviticus	4	14	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0
-460700	460700	Leviticus	4	14	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-460707	460707	Leviticus	4	15	SMK[	סמכ[	SMKW	SMKW		perf	-	?	pl	p3	1	0	0
-463990	463990	Leviticus	9	13	MY>[	מצא[	HMYJ>W	HMYJ>W		perf	-	?	pl	p3	1	0	0
-464540	464540	Leviticus	10	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-464659	464659	Leviticus	10	19	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0
-467054	467054	Leviticus	14	4	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-467918	467918	Leviticus	14	40	CLK[	שׁלכ[	HCLJKW	HCLJKW		perf	-	?	pl	p3	1	0	0
-467952	467952	Leviticus	14	42	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-467956	467956	Leviticus	14	42	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-468029	468029	Leviticus	14	45	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0
-468099	468099	Leviticus	14	49	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-468618	468618	Leviticus	15	18	VM>[	טמא[	VM>W	VM>W		perf	-	?	pl	p3	1	0	0
-469857	469857	Leviticus	17	5	BW>[	בוא[	HB>WM	HB>W	M	perf	-	?	pl	p3	1	1	0
-469868	469868	Leviticus	17	5	ZBX[	זבח[	ZBXW	ZBXW		perf	-	?	pl	p3	1	0	0
-470438	470438	Leviticus	18	24	VM>[	טמא[	NVM>W	NVM>W		perf	-	?	pl	p3	1	0	0
-470492	470492	Leviticus	18	27	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-470552	470552	Leviticus	18	30	<FH[	עשׂה[	N<FW	N<FW		perf	-	?	pl	p3	1	0	0
-471362	471362	Leviticus	20	12	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-471374	471374	Leviticus	20	13	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-471585	471585	Leviticus	20	23	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-472244	472244	Leviticus	22	9	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-472355	472355	Leviticus	22	16	NF>[	נשׂא[	HFJ>W	HFJ>W		perf	-	?	pl	p3	1	0	0
-473606	473606	Leviticus	24	9	>KL[	אכל[	>KLWH	>KLW	H	perf	-	?	pl	p3	1	1	0
-473697	473697	Leviticus	24	14	SMK[	סמכ[	SMKW	SMKW		perf	-	?	pl	p3	1	0	0
-473706	473706	Leviticus	24	14	RGM[	רגמ[	RGMW	RGMW		perf	-	?	pl	p3	1	0	0
-473839	473839	Leviticus	24	23	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-474926	474926	Leviticus	26	7	NPL[	נפל[	NPLW	NPLW		perf	-	?	pl	p3	1	0	0
-474932	474932	Leviticus	26	8	RDP[	רדפ[	RDPW	RDPW		perf	-	?	pl	p3	1	0	0
-474942	474942	Leviticus	26	8	NPL[	נפל[	NPLW	NPLW		perf	-	?	pl	p3	1	0	0
-475079	475079	Leviticus	26	16	>KL[	אכל[	>KLHW	>KL	HW	perf	-	?	pl	p3	0	1	1
-475412	475412	Leviticus	26	36	NPL[	נפל[	NPLW	NPLW		perf	-	?	pl	p3	1	0	0
-475463	475463	Leviticus	26	40	JDH[	ידה[	HTWDW	HTWDW		perf	-	?	pl	p3	1	0	0
-476941	476941	Numbers	1	47	PQD[	פקד[	HTPQDW	HTPQDW		perf	-	?	pl	p3	1	0	0
-477078	477078	Numbers	1	54	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-477532	477532	Numbers	2	33	PQD[	פקד[	HTPQDW	HTPQDW		perf	-	?	pl	p3	1	0	0
-477657	477657	Numbers	3	6	CRT[	שׁרת[	CRTW	CRTW		perf	-	?	pl	p3	1	0	0
-478493	478493	Numbers	4	5	JRD[	ירד[	HWRJDW	HWRJDW		perf	-	?	pl	p3	1	0	0
-478499	478499	Numbers	4	5	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0
-478506	478506	Numbers	4	6	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478521	478521	Numbers	4	6	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0
-478532	478532	Numbers	4	7	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478564	478564	Numbers	4	8	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0
-478571	478571	Numbers	4	8	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0
-478575	478575	Numbers	4	9	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-478579	478579	Numbers	4	9	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0
-478603	478603	Numbers	4	10	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478614	478614	Numbers	4	10	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478627	478627	Numbers	4	11	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0
-478634	478634	Numbers	4	11	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0
-478638	478638	Numbers	4	12	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-478650	478650	Numbers	4	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478655	478655	Numbers	4	12	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0
-478662	478662	Numbers	4	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478677	478677	Numbers	4	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478712	478712	Numbers	4	14	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0
-478715	478715	Numbers	4	14	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-478719	478719	Numbers	4	14	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0
-478727	478727	Numbers	4	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478734	478734	Numbers	4	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-478773	478773	Numbers	4	15	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-478841	478841	Numbers	4	19	XJH[	חיה[	XJW	XJW		perf	-	?	pl	p3	1	0	0
-478856	478856	Numbers	4	19	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0
-478875	478875	Numbers	4	20	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-478931	478931	Numbers	4	25	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0
-478992	478992	Numbers	4	26	<BD[	עבד[	<BDW	<BDW		perf	-	?	pl	p3	1	0	0
-479468	479468	Numbers	5	4	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-479506	479506	Numbers	5	7	JDH[	ידה[	HTWDW	HTWDW		perf	-	?	pl	p3	1	0	0
-479510	479510	Numbers	5	7	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-479856	479856	Numbers	5	22	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-479907	479907	Numbers	5	24	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-479979	479979	Numbers	5	27	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-480546	480546	Numbers	6	27	FJM[	שׂימ[	FJMW	FJMW		perf	-	?	pl	p3	1	0	0
-482010	482010	Numbers	8	7	<BR[	עבר[	H<BJRW	H<BJRW		perf	-	?	pl	p3	1	0	0
-482021	482021	Numbers	8	8	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-482064	482064	Numbers	8	10	SMK[	סמכ[	SMKW	SMKW		perf	-	?	pl	p3	1	0	0
-482292	482292	Numbers	8	20	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-482320	482320	Numbers	8	22	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-482347	482347	Numbers	8	22	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-482503	482503	Numbers	9	5	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-483654	483654	Numbers	11	8	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0
-483668	483668	Numbers	11	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-483880	483880	Numbers	11	17	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0
-483996	483996	Numbers	11	21	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0
-484121	484121	Numbers	11	26	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-484292	484292	Numbers	11	34	QBR[	קבר[	QBRW	QBRW		perf	-	?	pl	p3	1	0	0
-484977	484977	Numbers	13	24	QR>[	קרא[	QR>W	QR>W		perf	-	?	pl	p3	1	0	0
-485135	485135	Numbers	13	31	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0
-485137	485137	Numbers	13	31	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-485603	485603	Numbers	14	13	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-485617	485617	Numbers	14	14	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-485624	485624	Numbers	14	14	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-485670	485670	Numbers	14	15	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-485674	485674	Numbers	14	15	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-485807	485807	Numbers	14	22	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0
-485970	485970	Numbers	14	31	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-485994	485994	Numbers	14	33	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0
-486102	486102	Numbers	14	38	XJH[	חיה[	XJW	XJW		perf	-	?	pl	p3	1	0	0
-486644	486644	Numbers	15	24	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-486688	486688	Numbers	15	25	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0
-486926	486926	Numbers	15	38	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-486935	486935	Numbers	15	38	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-487505	487505	Numbers	16	27	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-487574	487574	Numbers	16	30	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0
-487580	487580	Numbers	16	30	N>Y[	נאצ[	N>YW	N>YW		perf	-	?	pl	p3	1	0	0
-487659	487659	Numbers	16	34	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-487711	487711	Numbers	17	2	QDC[	קדשׁ[	QDCW	QDCW		perf	-	?	pl	p3	1	0	0
-487721	487721	Numbers	17	3	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-487729	487729	Numbers	17	3	QRB[	קרב[	HQRJBWM	HQRJBW	M	perf	-	?	pl	p3	1	1	0
-487754	487754	Numbers	17	4	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0
-489289	489289	Numbers	19	17	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-489298	489298	Numbers	19	17	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-490664	490664	Numbers	21	18	XPR=[	חפר=[	XPRWH	XPRW	H	perf	-	?	pl	p3	1	1	0
-490815	490815	Numbers	21	22	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-491518	491518	Numbers	22	20	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-493415	493415	Numbers	26	11	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-494120	494120	Numbers	26	62	PQD[	פקד[	HTPQDW	HTPQDW		perf	-	?	pl	p3	1	0	0
-494142	494142	Numbers	26	63	PQD[	פקד[	PQDW	PQDW		perf	-	?	pl	p3	1	0	0
-494166	494166	Numbers	26	64	PQD[	פקד[	PQDW	PQDW		perf	-	?	pl	p3	1	0	0
-496298	496298	Numbers	31	8	HRG[	הרג[	HRGW	HRGW		perf	-	?	pl	p3	1	0	0
-496323	496323	Numbers	31	8	HRG[	הרג[	HRGW	HRGW		perf	-	?	pl	p3	1	0	0
-496348	496348	Numbers	31	9	BZZ[	בזז[	BZZW	BZZW		perf	-	?	pl	p3	1	0	0
-496359	496359	Numbers	31	10	FRP[	שׂרפ[	FRPW	FRPW		perf	-	?	pl	p3	1	0	0
-496510	496510	Numbers	31	18	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-496513	496513	Numbers	31	18	XJH[	חיה[	XJW	XJW		perf	-	?	pl	p3	1	0	0
-496895	496895	Numbers	31	32	BZZ[	בזז[	BZZW	BZZW		perf	-	?	pl	p3	1	0	0
-496929	496929	Numbers	31	35	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-497145	497145	Numbers	31	49	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0
-497204	497204	Numbers	31	52	RWM[	רומ[	HRJMW	HRJMW		perf	-	?	pl	p3	1	0	0
-497230	497230	Numbers	31	53	BZZ[	בזז[	BZZW	BZZW		perf	-	?	pl	p3	1	0	0
-497424	497424	Numbers	32	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-497502	497502	Numbers	32	11	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0
-497515	497515	Numbers	32	12	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0
-497624	497624	Numbers	32	18	NXL[	נחל[	HTNXLW	HTNXLW		perf	-	?	pl	p3	1	0	0
-497867	497867	Numbers	32	30	>XZ[	אחז[	N>XZW	N>XZW		perf	-	?	pl	p3	1	0	0
-497986	497986	Numbers	32	37	BNH[	בנה[	BNW	BNW		perf	-	?	pl	p3	1	0	0
-498015	498015	Numbers	32	38	BNH[	בנה[	BNW	BNW		perf	-	?	pl	p3	1	0	0
-498080	498080	Numbers	33	1	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-498126	498126	Numbers	33	3	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-498775	498775	Numbers	33	55	YRR=[	צרר=[	YRRW	YRRW		perf	-	?	pl	p3	1	0	0
-499029	499029	Numbers	34	14	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-499049	499049	Numbers	34	14	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-499058	499058	Numbers	34	15	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-499222	499222	Numbers	35	2	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-499651	499651	Numbers	35	24	CPV[	שׁפט[	CPVW	CPVW		perf	-	?	pl	p3	1	0	0
-499668	499668	Numbers	35	25	NYL[	נצל[	HYJLW	HYJLW		perf	-	?	pl	p3	1	0	0
-499680	499680	Numbers	35	25	CWB[	שׁוב[	HCJBW	HCJBW		perf	-	?	pl	p3	1	0	0
-500121	500121	Numbers	36	10	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-500337	500337	Deuteronomy	1	8	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-501568	501568	Deuteronomy	2	23	CMD[	שׁמד[	HCMJDM	HCMJD	M	perf	-	?	pl	p3	0	1	0
-501672	501672	Deuteronomy	2	29	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-502660	502660	Deuteronomy	4	6	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-502724	502724	Deuteronomy	4	9	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-503197	503197	Deuteronomy	4	30	MY>[	מצא[	MY>WK	MY>W	K	perf	-	?	pl	p3	1	1	0
-504374	504374	Deuteronomy	5	31	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-505288	505288	Deuteronomy	7	19	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-505520	505520	Deuteronomy	8	3	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-505748	505748	Deuteronomy	8	16	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-506172	506172	Deuteronomy	9	12	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-507051	507051	Deuteronomy	10	21	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-507056	507056	Deuteronomy	10	22	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0
-507096	507096	Deuteronomy	11	2	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-507100	507100	Deuteronomy	11	2	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-507823	507823	Deuteronomy	12	2	<BD[	עבד[	<BDW	<BDW		perf	-	?	pl	p3	1	0	0
-508484	508484	Deuteronomy	12	31	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-508809	508809	Deuteronomy	13	14	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-509470	509470	Deuteronomy	14	29	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0
-510357	510357	Deuteronomy	16	18	CPV[	שׁפט[	CPVW	CPVW		perf	-	?	pl	p3	1	0	0
-510527	510527	Deuteronomy	17	5	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-510549	510549	Deuteronomy	17	5	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-510643	510643	Deuteronomy	17	9	DRC[	דרשׁ[	DRCW	DRCW		perf	-	?	pl	p3	1	0	0
-511629	511629	Deuteronomy	19	12	CLX[	שׁלח[	CLXW	CLXW		perf	-	?	pl	p3	1	0	0
-511633	511633	Deuteronomy	19	12	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-511638	511638	Deuteronomy	19	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-511748	511748	Deuteronomy	19	18	DRC[	דרשׁ[	DRCW	DRCW		perf	-	?	pl	p3	1	0	0
-511989	511989	Deuteronomy	20	8	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-512024	512024	Deuteronomy	20	9	PQD[	פקד[	PQDW	PQDW		perf	-	?	pl	p3	1	0	0
-512064	512064	Deuteronomy	20	11	<BD[	עבד[	<BDWK	<BDW	K	perf	-	?	pl	p3	1	1	0
-512195	512195	Deuteronomy	20	18	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-512287	512287	Deuteronomy	21	2	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0
-512310	512310	Deuteronomy	21	3	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-512328	512328	Deuteronomy	21	4	JRD[	ירד[	HWRJDW	HWRJDW		perf	-	?	pl	p3	1	0	0
-512404	512404	Deuteronomy	21	7	<NH[	ענה[	<NW	<NW		perf	-	?	pl	p3	1	0	0
-512406	512406	Deuteronomy	21	7	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-512418	512418	Deuteronomy	21	7	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-512652	512652	Deuteronomy	21	18	JSR[	יסר[	JSRW	JSRW		perf	-	?	pl	p3	1	0	0
-512665	512665	Deuteronomy	21	19	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0
-512674	512674	Deuteronomy	21	20	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-512691	512691	Deuteronomy	21	21	RGM[	רגמ[	RGMHW	RGM	HW	perf	-	?	pl	p3	0	1	1
-513022	513022	Deuteronomy	22	15	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0
-513080	513080	Deuteronomy	22	18	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0
-513092	513092	Deuteronomy	22	18	JSR[	יסר[	JSRW	JSRW		perf	-	?	pl	p3	1	0	0
-513100	513100	Deuteronomy	22	19	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0
-513129	513129	Deuteronomy	22	20	MY>[	מצא[	NMY>W	NMY>W		perf	-	?	pl	p3	1	0	0
-513134	513134	Deuteronomy	22	21	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0
-513143	513143	Deuteronomy	22	21	SQL[	סקל[	SQLWH	SQLW	H	perf	-	?	pl	p3	1	1	0
-513175	513175	Deuteronomy	22	22	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-513225	513225	Deuteronomy	22	24	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0
-513335	513335	Deuteronomy	22	28	MY>[	מצא[	NMY>W	NMY>W		perf	-	?	pl	p3	1	0	0
-513421	513421	Deuteronomy	23	5	QDM[	קדמ[	QDMW	QDMW		perf	-	?	pl	p3	1	0	0
-514255	514255	Deuteronomy	25	1	CPV[	שׁפט[	CPVWM	CPVW	M	perf	-	?	pl	p3	1	1	0
-514393	514393	Deuteronomy	25	8	QR>[	קרא[	QR>W	QR>W		perf	-	?	pl	p3	1	0	0
-514882	514882	Deuteronomy	26	12	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0
-515347	515347	Deuteronomy	27	14	<NH[	ענה[	<NW	<NW		perf	-	?	pl	p3	1	0	0
-515351	515351	Deuteronomy	27	14	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515376	515376	Deuteronomy	27	15	<NH[	ענה[	<NW	<NW		perf	-	?	pl	p3	1	0	0
-515381	515381	Deuteronomy	27	15	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515389	515389	Deuteronomy	27	16	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515399	515399	Deuteronomy	27	17	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515410	515410	Deuteronomy	27	18	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515423	515423	Deuteronomy	27	19	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515438	515438	Deuteronomy	27	20	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515449	515449	Deuteronomy	27	21	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515464	515464	Deuteronomy	27	22	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515474	515474	Deuteronomy	27	23	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515485	515485	Deuteronomy	27	24	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515499	515499	Deuteronomy	27	25	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515518	515518	Deuteronomy	27	26	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-515555	515555	Deuteronomy	28	2	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-515563	515563	Deuteronomy	28	2	NFG[	נשׂג[	HFJGWK	HFJGW	K	perf	-	?	pl	p3	1	1	0
-515671	515671	Deuteronomy	28	10	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-515819	515819	Deuteronomy	28	15	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-515827	515827	Deuteronomy	28	15	NFG[	נשׂג[	HFJGWK	HFJGW	K	perf	-	?	pl	p3	1	1	0
-516317	516317	Deuteronomy	28	45	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-516325	516325	Deuteronomy	28	45	RDP[	רדפ[	RDPWK	RDPW	K	perf	-	?	pl	p3	1	1	0
-516327	516327	Deuteronomy	28	45	NFG[	נשׂג[	HFJGWK	HFJGW	K	perf	-	?	pl	p3	1	1	0
-516329	516329	Deuteronomy	28	45	CMD[	שׁמד[	HCMJDWK	HCMJDW	K	perf	-	?	pl	p3	1	1	0
-516960	516960	Deuteronomy	29	2	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0
-517435	517435	Deuteronomy	29	23	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-517458	517458	Deuteronomy	29	24	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-517461	517461	Deuteronomy	29	24	<ZB[	עזב[	<ZBW	<ZBW		perf	-	?	pl	p3	1	0	0
-517488	517488	Deuteronomy	29	25	JD<[	ידע[	JD<WM	JD<W	M	perf	-	?	pl	p3	1	1	0
-517664	517664	Deuteronomy	30	5	JRC[	ירשׁ[	JRCW	JRCW		perf	-	?	pl	p3	1	0	0
-517712	517712	Deuteronomy	30	7	RDP[	רדפ[	RDPWK	RDPW	K	perf	-	?	pl	p3	1	1	0
-518345	518345	Deuteronomy	31	13	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0
-518348	518348	Deuteronomy	31	13	LMD[	למד[	LMDW	LMDW		perf	-	?	pl	p3	1	0	0
-518378	518378	Deuteronomy	31	14	QRB[	קרב[	QRBW	QRBW		perf	-	?	pl	p3	1	0	0
-518448	518448	Deuteronomy	31	16	<ZB[	עזב[	<ZBWNJ	<ZBW	NJ	perf	-	?	pl	p3	1	1	0
-518475	518475	Deuteronomy	31	17	MY>[	מצא[	MY>HW	MY>	HW	perf	-	?	pl	p3	0	1	1
-518494	518494	Deuteronomy	31	17	MY>[	מצא[	MY>WNJ	MY>W	NJ	perf	-	?	pl	p3	1	1	0
-518515	518515	Deuteronomy	31	18	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0
-518578	518578	Deuteronomy	31	20	<BD[	עבד[	<BDWM	<BDW	M	perf	-	?	pl	p3	1	1	0
-518580	518580	Deuteronomy	31	20	N>Y[	נאצ[	N>YWNJ	N>YW	NJ	perf	-	?	pl	p3	1	1	0
-519066	519066	Deuteronomy	32	17	JD<[	ידע[	JD<WM	JD<W	M	perf	-	?	pl	p3	1	1	0
-519070	519070	Deuteronomy	32	17	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0
-519073	519073	Deuteronomy	32	17	F<R==[	שׂער==[	F<RWM	F<RW	M	perf	-	?	pl	p3	1	1	0
-519112	519112	Deuteronomy	32	21	QN>[	קנא[	QN>WNJ	QN>W	NJ	perf	-	?	pl	p3	1	1	0
-519116	519116	Deuteronomy	32	21	K<S[	כעס[	K<SWNJ	K<SW	NJ	perf	-	?	pl	p3	1	1	0
-519318	519318	Deuteronomy	32	37	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0
-519681	519681	Deuteronomy	33	3	NF>[	נשׂא[	F>W	F>W		perf	-	?	pl	p3	1	0	0
+	tf_id	book	chapter	verse	lex	lex_hebrew	g_cons	g_cons_no_suff	suff	vt	vs	gn	nu	ps	verb_ends_on_w	has_suffix	w_in_suffix	has_final_nun
+405847	405847	Genesis	1	22	ML>[	מלא[	ML>W	ML>W		impv	-	m	pl	p2	1	0	0	0
+405986	405986	Genesis	1	28	ML>[	מלא[	ML>W	ML>W		impv	-	m	pl	p2	1	0	0	0
+405991	405991	Genesis	1	28	KBC[	כבשׁ[	KBCWH	KBCW	H	perf	-	unknown	pl	p3	1	1	0	0
+406098	406098	Genesis	2	1	KLH[	כלה[	JKLW	JKLW		impf	-	m	pl	p3	1	0	0	0
+406616	406616	Genesis	3	1	>KL[	אכל[	T>KLW	T>KLW		impf	-	m	pl	p2	1	0	0	0
+406650	406650	Genesis	3	3	>KL[	אכל[	T>KLW	T>KLW		impf	-	m	pl	p2	1	0	0	0
+406657	406657	Genesis	3	3	MWT[	מות[	TMWTWN	TMWTW		impf	-	m	pl	p2	1	0	0	1
+406667	406667	Genesis	3	4	MWT[	מות[	TMWTWN	TMWTW		impf	-	m	pl	p2	1	0	0	1
+406722	406722	Genesis	3	6	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+406728	406728	Genesis	3	7	JD<[	ידע[	JD<W	JD<W		impf	-	m	pl	p3	1	0	0	0
+406737	406737	Genesis	3	7	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0	0
+406741	406741	Genesis	3	8	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0	0
+407174	407174	Genesis	4	5	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0	0
+407186	407186	Genesis	4	6	NPL[	נפל[	NPLW	NPLW		perf	-	unknown	pl	p3	1	0	0	0
+408029	408029	Genesis	6	2	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+408041	408041	Genesis	6	2	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+408085	408085	Genesis	6	4	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+408415	408415	Genesis	6	20	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+408614	408614	Genesis	7	9	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+408675	408675	Genesis	7	11	PTX[	פתח[	NPTXW	NPTXW		perf	-	unknown	pl	p3	1	0	0	0
+408748	408748	Genesis	7	15	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+408775	408775	Genesis	7	16	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+408799	408799	Genesis	7	17	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0	0
+408837	408837	Genesis	7	19	KSH[	כסה[	JKSW	JKSW		impf	-	m	pl	p3	1	0	0	0
+408858	408858	Genesis	7	20	KSH[	כסה[	JKSW	JKSW		impf	-	m	pl	p3	1	0	0	0
+408904	408904	Genesis	7	22	MWT[	מות[	MTW	MTW		perf	-	unknown	pl	p3	1	0	0	0
+408997	408997	Genesis	8	3	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0	0
+409006	409006	Genesis	8	3	CWB[	שׁוב[	CBW	CBW		perf	-	unknown	pl	p3	1	0	0	0
+409051	409051	Genesis	8	5	R>H[	ראה[	NR>W	NR>W		perf	-	unknown	pl	p3	1	0	0	0
+409337	409337	Genesis	8	19	JY>[	יצא[	JY>W	JY>W		perf	-	unknown	pl	p3	1	0	0	0
+409445	409445	Genesis	9	1	ML>[	מלא[	ML>W	ML>W		impv	-	m	pl	p2	1	0	0	0
+409504	409504	Genesis	9	4	>KL[	אכל[	T>KLW	T>KLW		impf	-	m	pl	p2	1	0	0	0
+409839	409839	Genesis	9	23	FJM[	שׂימ[	JFMW	JFMW		impf	-	m	pl	p3	1	0	0	0
+409847	409847	Genesis	9	23	KSH[	כסה[	JKSW	JKSW		impf	-	m	pl	p3	1	0	0	0
+409858	409858	Genesis	9	23	R>H[	ראה[	R>W	R>W		perf	-	unknown	pl	p3	1	0	0	0
+410110	410110	Genesis	10	14	JY>[	יצא[	JY>W	JY>W		perf	-	unknown	pl	p3	1	0	0	0
+410367	410367	Genesis	11	2	MY>[	מצא[	JMY>W	JMY>W		impf	-	m	pl	p3	1	0	0	0
+410376	410376	Genesis	11	3	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+410403	410403	Genesis	11	4	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+410438	410438	Genesis	11	5	BNH[	בנה[	BNW	BNW		perf	-	unknown	pl	p3	1	0	0	0
+410977	410977	Genesis	11	31	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+411040	411040	Genesis	12	3	BRK[	ברכ[	NBRKW	NBRKW		perf	-	unknown	pl	p3	1	0	0	0
+411092	411092	Genesis	12	5	<FH[	עשׂה[	<FW	<FW		perf	-	unknown	pl	p3	1	0	0	0
+411096	411096	Genesis	12	5	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0	0
+411102	411102	Genesis	12	5	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+411230	411230	Genesis	12	12	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+411235	411235	Genesis	12	12	>MR[	אמר[	>MRW	>MRW		perf	-	unknown	pl	p3	1	0	0	0
+411239	411239	Genesis	12	12	HRG[	הרג[	HRGW	HRGW		perf	-	unknown	pl	p3	1	0	0	0
+411243	411243	Genesis	12	12	XJH[	חיה[	JXJW	JXJW		impf	-	m	pl	p3	1	0	0	0
+411265	411265	Genesis	12	14	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+411276	411276	Genesis	12	15	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+411281	411281	Genesis	12	15	HLL[	הלל[	JHLLW	JHLLW		impf	-	m	pl	p3	1	0	0	0
+411373	411373	Genesis	12	20	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0	0
+411745	411745	Genesis	14	2	<FH[	עשׂה[	<FW	<FW		perf	-	unknown	pl	p3	1	0	0	0
+411783	411783	Genesis	14	4	<BD[	עבד[	<BDW	<BDW		perf	-	unknown	pl	p3	1	0	0	0
+411805	411805	Genesis	14	5	NKH[	נכה[	JKW	JKW		impf	-	m	pl	p3	1	0	0	0
+411838	411838	Genesis	14	7	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0	0
+411840	411840	Genesis	14	7	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+411846	411846	Genesis	14	7	NKH[	נכה[	JKW	JKW		impf	-	m	pl	p3	1	0	0	0
+411880	411880	Genesis	14	8	<RK[	ערכ[	J<RKW	J<RKW		impf	-	m	pl	p3	1	0	0	0
+411922	411922	Genesis	14	10	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0	0
+411931	411931	Genesis	14	11	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+411945	411945	Genesis	14	12	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+412178	412178	Genesis	14	24	>KL[	אכל[	>KLW	>KLW		perf	-	unknown	pl	p3	1	0	0	0
+412194	412194	Genesis	14	24	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+412420	412420	Genesis	15	13	<BD[	עבד[	<BDWM	<BDW	M	perf	-	unknown	pl	p3	1	1	0	0
+412433	412433	Genesis	15	14	<BD[	עבד[	J<BDW	J<BDW		impf	-	m	pl	p3	1	0	0	0
+412439	412439	Genesis	15	14	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0	0
+412940	412940	Genesis	17	6	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0	0
+413386	413386	Genesis	18	3	<BR[	עבר[	T<BRW	T<BRW		impf	-	m	pl	p2	1	0	0	0
+413411	413411	Genesis	18	5	<BR[	עבר[	T<BRW	T<BRW		impf	-	m	pl	p2	1	0	0	0
+413419	413419	Genesis	18	5	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+413489	413489	Genesis	18	8	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+413491	413491	Genesis	18	9	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+413642	413642	Genesis	18	18	BRK[	ברכ[	NBRKW	NBRKW		perf	-	unknown	pl	p3	1	0	0	0
+413702	413702	Genesis	18	21	<FH[	עשׂה[	<FW	<FW		perf	-	unknown	pl	p3	1	0	0	0
+413859	413859	Genesis	18	29	MY>[	מצא[	JMY>WN	JMY>W		impf	-	m	pl	p3	1	0	0	1
+413880	413880	Genesis	18	30	MY>[	מצא[	JMY>WN	JMY>W		impf	-	m	pl	p3	1	0	0	1
+413901	413901	Genesis	18	31	MY>[	מצא[	JMY>WN	JMY>W		impf	-	m	pl	p3	1	0	0	1
+413925	413925	Genesis	18	32	MY>[	מצא[	JMY>WN	JMY>W		impf	-	m	pl	p3	1	0	0	1
+413952	413952	Genesis	19	1	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+413998	413998	Genesis	19	2	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+414012	414012	Genesis	19	3	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+414023	414023	Genesis	19	3	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+414031	414031	Genesis	19	4	SBB[	סבב[	NSBW	NSBW		perf	-	unknown	pl	p3	1	0	0	0
+414046	414046	Genesis	19	5	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0	0
+414050	414050	Genesis	19	5	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+414056	414056	Genesis	19	5	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+414074	414074	Genesis	19	6	SGR[	סגר[	SGRW	SGRW		perf	-	unknown	pl	p3	1	0	0	0
+414089	414089	Genesis	19	8	JD<[	ידע[	JD<W	JD<W		perf	-	unknown	pl	p3	1	0	0	0
+414096	414096	Genesis	19	8	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0	0
+414108	414108	Genesis	19	8	<FH[	עשׂה[	T<FW	T<FW		impf	-	m	pl	p2	1	0	0	0
+414113	414113	Genesis	19	8	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+414118	414118	Genesis	19	9	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+414122	414122	Genesis	19	9	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+414149	414149	Genesis	19	10	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0	0
+414155	414155	Genesis	19	10	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0	0
+414165	414165	Genesis	19	10	SGR[	סגר[	SGRW	SGRW		perf	-	unknown	pl	p3	1	0	0	0
+414174	414174	Genesis	19	11	NKH[	נכה[	HKW	HKW		perf	-	unknown	pl	p3	1	0	0	0
+414189	414189	Genesis	19	12	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+414245	414245	Genesis	19	14	JY>[	יצא[	Y>W	Y>W		impv	-	m	pl	p2	1	0	0	0
+414296	414296	Genesis	19	16	XZQ[	חזק[	JXZQW	JXZQW		impf	-	m	pl	p3	1	0	0	0
+414937	414937	Genesis	20	8	JR>[	ירא[	JJR>W	JJR>W		impf	-	m	pl	p3	1	0	0	0
+414968	414968	Genesis	20	9	<FH[	עשׂה[	J<FWN	J<FW		impf	-	m	pl	p3	1	0	0	1
+415001	415001	Genesis	20	11	HRG[	הרג[	HRGWNJ	HRGW	NJ	perf	-	unknown	pl	p3	1	1	0	0
+415391	415391	Genesis	21	15	KLH[	כלה[	JKLW	JKLW		impf	-	m	pl	p3	1	0	0	0
+415727	415727	Genesis	21	32	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0	0
+415949	415949	Genesis	22	9	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+416150	416150	Genesis	22	18	BRK[	ברכ[	HTBRKW	HTBRKW		perf	-	unknown	pl	p3	1	0	0	0
+416320	416320	Genesis	23	4	NTN[	נתנ[	TNW	TNW		impv	-	m	pl	p2	1	0	0	0
+416333	416333	Genesis	23	5	<NH[	ענה[	J<NW	J<NW		impf	-	m	pl	p3	1	0	0	0
+416391	416391	Genesis	23	8	CM<[	שׁמע[	CM<WNJ	CM<W	NJ	impv	-	m	pl	p2	1	1	0	0
+417032	417032	Genesis	24	19	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0	0
+417075	417075	Genesis	24	22	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0	0
+417310	417310	Genesis	24	33	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+417437	417437	Genesis	24	41	NTN[	נתנ[	JTNW	JTNW		impf	-	m	pl	p3	1	0	0	0
+417647	417647	Genesis	24	50	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+417715	417715	Genesis	24	54	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+417717	417717	Genesis	24	54	CTH[	שׁתה[	JCTW	JCTW		impf	-	m	pl	p3	1	0	0	0
+417732	417732	Genesis	24	54	CLX[	שׁלח[	CLXWNJ	CLXW	NJ	impv	-	m	pl	p2	1	1	0	0
+417736	417736	Genesis	24	55	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+417761	417761	Genesis	24	56	CLX[	שׁלח[	CLXWNJ	CLXW	NJ	impv	-	m	pl	p2	1	1	0	0
+417767	417767	Genesis	24	57	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+417776	417776	Genesis	24	58	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0	0
+417780	417780	Genesis	24	58	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+417793	417793	Genesis	24	59	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0	0
+417808	417808	Genesis	24	60	BRK[	ברכ[	JBRKW	JBRKW		impf	-	m	pl	p3	1	0	0	0
+417812	417812	Genesis	24	60	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+418089	418089	Genesis	25	9	QBR[	קבר[	JQBRW	JQBRW		impf	-	m	pl	p3	1	0	0	0
+418341	418341	Genesis	25	24	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0	0
+418360	418360	Genesis	25	25	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0	0
+418375	418375	Genesis	25	26	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0	0
+418387	418387	Genesis	25	27	GDL[	גדל[	JGDLW	JGDLW		impf	-	m	pl	p3	1	0	0	0
+418606	418606	Genesis	26	4	BRK[	ברכ[	HTBRKW	HTBRKW		perf	-	unknown	pl	p3	1	0	0	0
+418633	418633	Genesis	26	7	C>L[	שׁאל[	JC>LW	JC>LW		impf	-	m	pl	p3	1	0	0	0
+418650	418650	Genesis	26	7	HRG[	הרג[	JHRGWNJ	JHRGW	NJ	impf	-	m	pl	p3	1	1	0	0
+418792	418792	Genesis	26	14	QN>[	קנא[	JQN>W	JQN>W		impf	-	m	pl	p3	1	0	0	0
+418800	418800	Genesis	26	15	XPR=[	חפר=[	XPRW	XPRW		perf	-	unknown	pl	p3	1	0	0	0
+418807	418807	Genesis	26	15	STM[	סתמ[	STMWM	STMW	M	perf	-	unknown	pl	p3	1	1	0	0
+418810	418810	Genesis	26	15	ML>[	מלא[	JML>WM	JML>W	M	impf	-	m	pl	p3	1	1	0	0
+418847	418847	Genesis	26	18	XPR=[	חפר=[	XPRW	XPRW		perf	-	unknown	pl	p3	1	0	0	0
+418852	418852	Genesis	26	18	STM[	סתמ[	JSTMWM	JSTMW	M	impf	-	m	pl	p3	1	1	0	0
+418868	418868	Genesis	26	19	XPR=[	חפר=[	JXPRW	JXPRW		impf	-	m	pl	p3	1	0	0	0
+418874	418874	Genesis	26	19	MY>[	מצא[	JMY>W	JMY>W		impf	-	m	pl	p3	1	0	0	0
+418901	418901	Genesis	26	21	XPR=[	חפר=[	JXPRW	JXPRW		impf	-	m	pl	p3	1	0	0	0
+418917	418917	Genesis	26	22	XPR=[	חפר=[	JXPRW	JXPRW		impf	-	m	pl	p3	1	0	0	0
+418988	418988	Genesis	26	25	KRH[	כרה[	JKRW	JKRW		impf	-	m	pl	p3	1	0	0	0
+419018	419018	Genesis	26	27	CLX[	שׁלח[	TCLXWNJ	TCLXW	NJ	impf	-	m	pl	p2	1	1	0	0
+419022	419022	Genesis	26	28	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+419070	419070	Genesis	26	30	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+419072	419072	Genesis	26	30	CTH[	שׁתה[	JCTW	JCTW		impf	-	m	pl	p3	1	0	0	0
+419098	419098	Genesis	26	32	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+419109	419109	Genesis	26	32	XPR=[	חפר=[	XPRW	XPRW		perf	-	unknown	pl	p3	1	0	0	0
+419111	419111	Genesis	26	32	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+419606	419606	Genesis	27	27	R>H[	ראה[	R>W	R>W		impv	-	m	pl	p2	1	0	0	0
+419635	419635	Genesis	27	29	<BD[	עבד[	J<BDWK	J<BDW	K	impf	-	m	pl	p3	1	1	0	0
+419638	419638	Genesis	27	29	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+419646	419646	Genesis	27	29	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+419914	419914	Genesis	27	41	QRB[	קרב[	JQRBW	JQRBW		impf	-	m	pl	p3	1	0	0	0
+420145	420145	Genesis	28	6	YWH[	צוה[	JYWW	JYWW		impf	-	m	pl	p3	1	0	0	0
+420294	420294	Genesis	28	14	BRK[	ברכ[	NBRKW	NBRKW		perf	-	unknown	pl	p3	1	0	0	0
+420500	420500	Genesis	29	2	CQH[	שׁקה[	JCQW	JCQW		impf	-	m	pl	p3	1	0	0	0
+420527	420527	Genesis	29	3	CQH[	שׁקה[	HCQW	HCQW		perf	-	unknown	pl	p3	1	0	0	0
+420532	420532	Genesis	29	3	CWB[	שׁוב[	HCJBW	HCJBW		perf	-	unknown	pl	p3	1	0	0	0
+420551	420551	Genesis	29	4	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+420565	420565	Genesis	29	5	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+420574	420574	Genesis	29	6	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+420597	420597	Genesis	29	7	CQH[	שׁקה[	HCQW	HCQW		impv	-	m	pl	p2	1	0	0	0
+420602	420602	Genesis	29	7	R<H[	רעה[	R<W	R<W		impv	-	m	pl	p2	1	0	0	0
+420604	420604	Genesis	29	8	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+420858	420858	Genesis	29	21	ML>[	מלא[	ML>W	ML>W		perf	-	unknown	pl	p3	1	0	0	0
+421292	421292	Genesis	30	13	>CR=[	אשׁר=[	>CRWNJ	>CRW	NJ	perf	-	unknown	pl	p3	1	1	0	0
+422702	422702	Genesis	31	38	CKL[	שׁכל[	CKLW	CKLW		perf	-	unknown	pl	p3	1	0	0	0
+422850	422850	Genesis	31	46	LQV[	לקט[	LQVW	LQVW		impv	-	m	pl	p2	1	0	0	0
+422853	422853	Genesis	31	46	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+422856	422856	Genesis	31	46	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0	0
+422859	422859	Genesis	31	46	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+423014	423014	Genesis	31	54	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+423088	423088	Genesis	32	5	>MR[	אמר[	T>MRWN	T>MRW		impf	-	m	pl	p2	1	0	0	1
+423128	423128	Genesis	32	7	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0	0
+423345	423345	Genesis	32	17	<BR[	עבר[	<BRW	<BRW		impv	-	m	pl	p2	1	0	0	0
+423350	423350	Genesis	32	17	FJM[	שׂימ[	TFJMW	TFJMW		impf	-	m	pl	p2	1	0	0	0
+423639	423639	Genesis	32	33	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+423789	423789	Genesis	33	7	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+423797	423797	Genesis	33	7	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+423907	423907	Genesis	33	13	MWT[	מות[	MTW	MTW		perf	-	unknown	pl	p3	1	0	0	0
+424141	424141	Genesis	34	7	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+424148	424148	Genesis	34	7	<YB[	עצב[	JT<YBW	JT<YBW		impf	-	m	pl	p3	1	0	0	0
+424181	424181	Genesis	34	8	NTN[	נתנ[	TNW	TNW		impv	-	m	pl	p2	1	0	0	0
+424191	424191	Genesis	34	9	NTN[	נתנ[	TTNW	TTNW		impf	-	m	pl	p2	1	0	0	0
+424196	424196	Genesis	34	9	LQX[	לקח[	TQXW	TQXW		impf	-	m	pl	p2	1	0	0	0
+424208	424208	Genesis	34	10	SXR[	סחר[	SXRW	SXRW		impv	-	m	pl	p2	1	0	0	0
+424210	424210	Genesis	34	10	>XZ[	אחז[	>XZW	>XZW		impv	-	m	pl	p2	1	0	0	0
+424226	424226	Genesis	34	11	>MR[	אמר[	T>MRW	T>MRW		impf	-	m	pl	p2	1	0	0	0
+424239	424239	Genesis	34	12	>MR[	אמר[	T>MRW	T>MRW		impf	-	m	pl	p2	1	0	0	0
+424242	424242	Genesis	34	12	NTN[	נתנ[	TNW	TNW		impv	-	m	pl	p2	1	0	0	0
+424250	424250	Genesis	34	13	<NH[	ענה[	J<NW	J<NW		impf	-	m	pl	p3	1	0	0	0
+424264	424264	Genesis	34	13	VM>[	טמא[	VM>W	VM>W		perf	-	unknown	pl	p3	1	0	0	0
+424269	424269	Genesis	34	14	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+424327	424327	Genesis	34	17	CM<[	שׁמע[	TCM<W	TCM<W		impf	-	m	pl	p2	1	0	0	0
+424396	424396	Genesis	34	21	SXR[	סחר[	JSXRW	JSXRW		impf	-	m	pl	p3	1	0	0	0
+424458	424458	Genesis	34	24	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0	0
+424487	424487	Genesis	34	25	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+424499	424499	Genesis	34	25	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+424505	424505	Genesis	34	25	HRG[	הרג[	JHRGW	JHRGW		impf	-	m	pl	p3	1	0	0	0
+424515	424515	Genesis	34	26	HRG[	הרג[	HRGW	HRGW		perf	-	unknown	pl	p3	1	0	0	0
+424520	424520	Genesis	34	26	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+424527	424527	Genesis	34	26	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0	0
+424531	424531	Genesis	34	27	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+424536	424536	Genesis	34	27	BZZ[	בזז[	JBZW	JBZW		impf	-	m	pl	p3	1	0	0	0
+424540	424540	Genesis	34	27	VM>[	טמא[	VM>W	VM>W		perf	-	unknown	pl	p3	1	0	0	0
+424560	424560	Genesis	34	28	LQX[	לקח[	LQXW	LQXW		perf	-	unknown	pl	p3	1	0	0	0
+424571	424571	Genesis	34	29	CBH[	שׁבה[	CBW	CBW		perf	-	unknown	pl	p3	1	0	0	0
+424573	424573	Genesis	34	29	BZZ[	בזז[	JBZW	JBZW		impf	-	m	pl	p3	1	0	0	0
+424608	424608	Genesis	34	30	NKH[	נכה[	HKWNJ	HKW	NJ	perf	-	unknown	pl	p3	1	1	0	0
+424615	424615	Genesis	34	31	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+424619	424619	Genesis	34	31	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0	0
+424696	424696	Genesis	35	4	NTN[	נתנ[	JTNW	JTNW		impf	-	m	pl	p3	1	0	0	0
+424737	424737	Genesis	35	5	RDP[	רדפ[	RDPW	RDPW		perf	-	unknown	pl	p3	1	0	0	0
+424856	424856	Genesis	35	11	JY>[	יצא[	JY>W	JY>W		impf	-	m	pl	p3	1	0	0	0
+425123	425123	Genesis	35	29	QBR[	קבר[	JQBRW	JQBRW		impf	-	m	pl	p3	1	0	0	0
+425807	425807	Genesis	37	4	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+425817	425817	Genesis	37	4	FN>[	שׂנא[	JFN>W	JFN>W		impf	-	m	pl	p3	1	0	0	0
+425841	425841	Genesis	37	6	CM<[	שׁמע[	CM<W	CM<W		impv	-	m	pl	p2	1	0	0	0
+425874	425874	Genesis	37	8	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+425958	425958	Genesis	37	11	QN>[	קנא[	JQN>W	JQN>W		impf	-	m	pl	p3	1	0	0	0
+426073	426073	Genesis	37	18	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+426087	426087	Genesis	37	19	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+426122	426122	Genesis	37	21	NYL[	נצל[	JYLW	JYL	W	impf	-	m	pl	p3	0	1	1	0
+426137	426137	Genesis	37	22	CLK[	שׁלכ[	HCLJKW	HCLJKW		impv	-	m	pl	p2	1	0	0	0
+426150	426150	Genesis	37	22	CLX[	שׁלח[	TCLXW	TCLXW		impf	-	m	pl	p2	1	0	0	0
+426170	426170	Genesis	37	23	PCV[	פשׁט[	JPCVW	JPCVW		impf	-	m	pl	p3	1	0	0	0
+426182	426182	Genesis	37	24	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+426184	426184	Genesis	37	24	CLK[	שׁלכ[	JCLKW	JCLKW		impf	-	m	pl	p3	1	0	0	0
+426201	426201	Genesis	37	25	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0	0
+426204	426204	Genesis	37	25	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+426254	426254	Genesis	37	27	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0	0
+426257	426257	Genesis	37	28	<BR[	עבר[	J<BRW	J<BRW		impf	-	m	pl	p3	1	0	0	0
+426264	426264	Genesis	37	28	<LH[	עלה[	J<LW	J<LW		impf	-	m	pl	p3	1	0	0	0
+426271	426271	Genesis	37	28	MKR[	מכר[	JMKRW	JMKRW		impf	-	m	pl	p3	1	0	0	0
+426280	426280	Genesis	37	28	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0	0
+426315	426315	Genesis	37	31	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+426331	426331	Genesis	37	32	CLX[	שׁלח[	JCLXW	JCLXW		impf	-	m	pl	p3	1	0	0	0
+426337	426337	Genesis	37	32	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0	0
+426341	426341	Genesis	37	32	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+426408	426408	Genesis	37	36	MKR[	מכר[	MKRW	MKRW		perf	-	unknown	pl	p3	1	0	0	0
+426805	426805	Genesis	38	21	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+426824	426824	Genesis	38	22	>MR[	אמר[	>MRW	>MRW		perf	-	unknown	pl	p3	1	0	0	0
+427297	427297	Genesis	39	14	R>H[	ראה[	R>W	R>W		impv	-	m	pl	p2	1	0	0	0
+427621	427621	Genesis	40	8	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+427773	427773	Genesis	40	15	FJM[	שׂימ[	FMW	FMW		perf	-	m	pl	p3	1	0	0	0
+428310	428310	Genesis	41	21	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+428965	428965	Genesis	41	55	<FH[	עשׂה[	T<FWN	T<FW		impf	-	m	pl	p2	1	0	0	1
+428998	428998	Genesis	41	57	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+429026	429026	Genesis	42	1	JR>[	ירא[	TTJR>W	TTJR>W		impf	-	m	pl	p2	1	0	0	0
+429036	429036	Genesis	42	2	JRD[	ירד[	RDW	RDW		impv	-	m	pl	p2	1	0	0	0
+429049	429049	Genesis	42	3	JRD[	ירד[	JRDW	JRDW		impf	-	m	pl	p3	1	0	0	0
+429074	429074	Genesis	42	5	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+429108	429108	Genesis	42	6	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+429112	429112	Genesis	42	6	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+429137	429137	Genesis	42	7	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+429152	429152	Genesis	42	8	NKR[	נכר[	HKRHW	HKR	HW	perf	-	unknown	pl	p3	0	1	1	0
+429175	429175	Genesis	42	10	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+429181	429181	Genesis	42	10	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+429208	429208	Genesis	42	13	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+429246	429246	Genesis	42	15	BXN[	בחנ[	TBXNW	TBXNW		impf	-	m	pl	p2	1	0	0	0
+429250	429250	Genesis	42	15	JY>[	יצא[	TY>W	TY>W		impf	-	m	pl	p2	1	0	0	0
+429261	429261	Genesis	42	16	CLX[	שׁלח[	CLXW	CLXW		impv	-	m	pl	p2	1	0	0	0
+429270	429270	Genesis	42	16	>SR[	אסר[	H>SRW	H>SRW		impv	-	m	pl	p2	1	0	0	0
+429272	429272	Genesis	42	16	BXN[	בחנ[	JBXNW	JBXNW		impf	-	m	pl	p3	1	0	0	0
+429286	429286	Genesis	42	16	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+429317	429317	Genesis	42	18	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0	0
+429319	429319	Genesis	42	18	XJH[	חיה[	XJW	XJW		impv	-	m	pl	p2	1	0	0	0
+429339	429339	Genesis	42	19	BW>[	בוא[	HBJ>W	HBJ>W		impv	-	m	pl	p2	1	0	0	0
+429349	429349	Genesis	42	20	BW>[	בוא[	TBJ>WN	TBJ>W		impf	-	m	pl	p2	1	0	0	1
+429356	429356	Genesis	42	20	MWT[	מות[	TMWTWN	TMWTW		impf	-	m	pl	p2	1	0	0	1
+429358	429358	Genesis	42	20	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0	0
+429361	429361	Genesis	42	21	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+429417	429417	Genesis	42	23	JD<[	ידע[	JD<W	JD<W		perf	-	unknown	pl	p3	1	0	0	0
+429452	429452	Genesis	42	25	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0	0
+429476	429476	Genesis	42	26	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0	0
+429535	429535	Genesis	42	29	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+429612	429612	Genesis	42	33	NWX[	נוח[	HNJXW	HNJXW		impv	-	m	pl	p2	1	0	0	0
+429618	429618	Genesis	42	33	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0	0
+429622	429622	Genesis	42	34	BW>[	בוא[	HBJ>W	HBJ>W		impv	-	m	pl	p2	1	0	0	0
+429645	429645	Genesis	42	34	SXR[	סחר[	TSXRW	TSXRW		impf	-	m	pl	p2	1	0	0	0
+429659	429659	Genesis	42	35	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+429667	429667	Genesis	42	35	JR>[	ירא[	JJR>W	JJR>W		impf	-	m	pl	p3	1	0	0	0
+429683	429683	Genesis	42	36	LQX[	לקח[	TQXW	TQXW		impf	-	m	pl	p2	1	0	0	0
+429749	429749	Genesis	43	2	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0	0
+429756	429756	Genesis	43	2	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	unknown	pl	p3	1	0	0	0
+429763	429763	Genesis	43	2	CWB[	שׁוב[	CWBW	CWBW		impv	-	m	pl	p2	1	0	0	0
+429783	429783	Genesis	43	3	R>H[	ראה[	TR>W	TR>W		impf	-	m	pl	p2	1	0	0	0
+429811	429811	Genesis	43	5	R>H[	ראה[	TR>W	TR>W		impf	-	m	pl	p2	1	0	0	0
+429831	429831	Genesis	43	7	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+429864	429864	Genesis	43	7	JRD[	ירד[	HWRJDW	HWRJDW		impv	-	m	pl	p2	1	0	0	0
+429929	429929	Genesis	43	11	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0	0
+429930	429930	Genesis	43	11	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0	0
+429938	429938	Genesis	43	11	JRD[	ירד[	HWRJDW	HWRJDW		impv	-	m	pl	p2	1	0	0	0
+429956	429956	Genesis	43	12	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0	0
+429968	429968	Genesis	43	12	CWB[	שׁוב[	TCJBW	TCJBW		impf	-	m	pl	p2	1	0	0	0
+429977	429977	Genesis	43	13	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0	0
+429981	429981	Genesis	43	13	CWB[	שׁוב[	CWBW	CWBW		impv	-	m	pl	p2	1	0	0	0
+430012	430012	Genesis	43	15	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+430023	430023	Genesis	43	15	LQX[	לקח[	LQXW	LQXW		perf	-	unknown	pl	p3	1	0	0	0
+430032	430032	Genesis	43	15	JRD[	ירד[	JRDW	JRDW		impf	-	m	pl	p3	1	0	0	0
+430065	430065	Genesis	43	16	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+430088	430088	Genesis	43	18	JR>[	ירא[	JJR>W	JJR>W		impf	-	m	pl	p3	1	0	0	0
+430092	430092	Genesis	43	18	BW>[	בוא[	HWB>W	HWB>W		perf	-	unknown	pl	p3	1	0	0	0
+430096	430096	Genesis	43	18	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+430140	430140	Genesis	43	20	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+430197	430197	Genesis	43	23	JR>[	ירא[	TJR>W	TJR>W		impf	-	m	pl	p2	1	0	0	0
+430246	430246	Genesis	43	25	CM<[	שׁמע[	CM<W	CM<W		perf	-	unknown	pl	p3	1	0	0	0
+430249	430249	Genesis	43	25	>KL[	אכל[	J>KLW	J>KLW		impf	-	m	pl	p3	1	0	0	0
+430257	430257	Genesis	43	26	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0	0
+430268	430268	Genesis	43	26	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+430288	430288	Genesis	43	28	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+430308	430308	Genesis	43	28	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+430362	430362	Genesis	43	31	FJM[	שׂימ[	FJMW	FJMW		impv	-	m	pl	p2	1	0	0	0
+430365	430365	Genesis	43	32	FJM[	שׂימ[	JFMW	JFMW		impf	-	m	pl	p3	1	0	0	0
+430434	430434	Genesis	43	34	CTH[	שׁתה[	JCTW	JCTW		impf	-	m	pl	p3	1	0	0	0
+430436	430436	Genesis	43	34	CKR[	שׁכר[	JCKRW	JCKRW		impf	-	m	pl	p3	1	0	0	0
+430492	430492	Genesis	44	3	CLX[	שׁלח[	CLXW	CLXW		perf	-	unknown	pl	p3	1	0	0	0
+430497	430497	Genesis	44	4	JY>[	יצא[	JY>W	JY>W		perf	-	unknown	pl	p3	1	0	0	0
+430551	430551	Genesis	44	7	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+430625	430625	Genesis	44	11	JRD[	ירד[	JWRJDW	JWRJDW		impf	-	m	pl	p3	1	0	0	0
+430630	430630	Genesis	44	11	PTX[	פתח[	JPTXW	JPTXW		impf	-	m	pl	p3	1	0	0	0
+430658	430658	Genesis	44	13	CWB[	שׁוב[	JCBW	JCBW		impf	-	m	pl	p3	1	0	0	0
+430673	430673	Genesis	44	14	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0	0
+430751	430751	Genesis	44	17	<LH[	עלה[	<LW	<LW		impv	-	m	pl	p2	1	0	0	0
+430877	430877	Genesis	44	25	CWB[	שׁוב[	CWBW	CWBW		impv	-	m	pl	p2	1	0	0	0
+430987	430987	Genesis	44	31	JRD[	ירד[	HWRJDW	HWRJDW		perf	-	unknown	pl	p3	1	0	0	0
+431067	431067	Genesis	45	1	JY>[	יצא[	HWYJ>W	HWYJ>W		impv	-	m	pl	p2	1	0	0	0
+431089	431089	Genesis	45	2	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0	0
+431092	431092	Genesis	45	2	CM<[	שׁמע[	JCM<W	JCM<W		impf	-	m	pl	p3	1	0	0	0
+431114	431114	Genesis	45	3	BHL[	בהל[	NBHLW	NBHLW		perf	-	unknown	pl	p3	1	0	0	0
+431139	431139	Genesis	45	5	<YB[	עצב[	T<YBW	T<YBW		impf	-	m	pl	p2	1	0	0	0
+431220	431220	Genesis	45	9	<LH[	עלה[	<LW	<LW		impv	-	m	pl	p2	1	0	0	0
+431351	431351	Genesis	45	16	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+431372	431372	Genesis	45	17	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0	0
+431379	431379	Genesis	45	17	BW>[	בוא[	B>W	B>W		impv	-	m	pl	p2	1	0	0	0
+431383	431383	Genesis	45	18	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0	0
+431390	431390	Genesis	45	18	BW>[	בוא[	B>W	B>W		impv	-	m	pl	p2	1	0	0	0
+431400	431400	Genesis	45	18	>KL[	אכל[	>KLW	>KLW		impv	-	m	pl	p2	1	0	0	0
+431409	431409	Genesis	45	19	<FH[	עשׂה[	<FW	<FW		impv	-	m	pl	p2	1	0	0	0
+431410	431410	Genesis	45	19	LQX[	לקח[	QXW	QXW		impv	-	m	pl	p2	1	0	0	0
+431441	431441	Genesis	45	21	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0	0
+431517	431517	Genesis	45	25	<LH[	עלה[	J<LW	J<LW		impf	-	m	pl	p3	1	0	0	0
+431521	431521	Genesis	45	25	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+431664	431664	Genesis	46	5	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0	0
+431685	431685	Genesis	46	6	LQX[	לקח[	JQXW	JQXW		impf	-	m	pl	p3	1	0	0	0
+431697	431697	Genesis	46	6	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+432089	432089	Genesis	46	31	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+432108	432108	Genesis	46	32	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	unknown	pl	p3	1	0	0	0
+432167	432167	Genesis	47	1	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+432198	432198	Genesis	47	3	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+432209	432209	Genesis	47	4	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+432250	432250	Genesis	47	5	BW>[	בוא[	B>W	B>W		perf	-	unknown	pl	p3	1	0	0	0
+432333	432333	Genesis	47	9	NFG[	נשׂג[	HFJGW	HFJGW		perf	-	unknown	pl	p3	1	0	0	0
+432461	432461	Genesis	47	15	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+432495	432495	Genesis	47	17	BW>[	בוא[	JBJ>W	JBJ>W		impf	-	m	pl	p3	1	0	0	0
+432538	432538	Genesis	47	18	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+432545	432545	Genesis	47	18	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+432618	432618	Genesis	47	20	MKR[	מכר[	MKRW	MKRW		perf	-	unknown	pl	p3	1	0	0	0
+432661	432661	Genesis	47	22	>KL[	אכל[	>KLW	>KLW		perf	-	unknown	pl	p3	1	0	0	0
+432671	432671	Genesis	47	22	MKR[	מכר[	MKRW	MKRW		perf	-	unknown	pl	p3	1	0	0	0
+432731	432731	Genesis	47	25	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+432781	432781	Genesis	47	27	>XZ[	אחז[	J>XZW	J>XZW		impf	-	m	pl	p3	1	0	0	0
+432811	432811	Genesis	47	29	QRB[	קרב[	JQRBW	JQRBW		impf	-	m	pl	p3	1	0	0	0
+433000	433000	Genesis	48	6	QR>[	קרא[	JQR>W	JQR>W		impf	-	m	pl	p3	1	0	0	0
+433110	433110	Genesis	48	12	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+433386	433386	Genesis	49	2	CM<[	שׁמע[	CM<W	CM<W		impv	-	m	pl	p2	1	0	0	0
+433390	433390	Genesis	49	2	CM<[	שׁמע[	CM<W	CM<W		impv	-	m	pl	p2	1	0	0	0
+433423	433423	Genesis	49	5	KLH[	כלה[	KLW	KLW		perf	-	unknown	pl	p3	1	0	0	0
+433440	433440	Genesis	49	6	HRG[	הרג[	HRGW	HRGW		perf	-	unknown	pl	p3	1	0	0	0
+433470	433470	Genesis	49	8	XWH[	חוה[	JCTXWW	JCTXWW		impf	-	m	pl	p3	1	0	0	0
+433644	433644	Genesis	49	23	FVM[	שׂטמ[	JFVMHW	JFVM	HW	impf	-	m	pl	p3	0	1	1	0
+433749	433749	Genesis	49	29	QBR[	קבר[	QBRW	QBRW		impv	-	m	pl	p2	1	0	0	0
+433791	433791	Genesis	49	31	QBR[	קבר[	QBRW	QBRW		perf	-	unknown	pl	p3	1	0	0	0
+433800	433800	Genesis	49	31	QBR[	קבר[	QBRW	QBRW		perf	-	unknown	pl	p3	1	0	0	0
+433874	433874	Genesis	50	3	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0	0
+433880	433880	Genesis	50	3	ML>[	מלא[	JML>W	JML>W		impf	-	m	pl	p3	1	0	0	0
+433891	433891	Genesis	50	4	<BR[	עבר[	J<BRW	J<BRW		impf	-	m	pl	p3	1	0	0	0
+433967	433967	Genesis	50	7	<LH[	עלה[	J<LW	J<LW		impf	-	m	pl	p3	1	0	0	0
+433993	433993	Genesis	50	8	<ZB[	עזב[	<ZBW	<ZBW		perf	-	unknown	pl	p3	1	0	0	0
+434011	434011	Genesis	50	10	BW>[	בוא[	JB>W	JB>W		impf	-	m	pl	p3	1	0	0	0
+434051	434051	Genesis	50	11	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+434068	434068	Genesis	50	12	<FH[	עשׂה[	J<FW	J<FW		impf	-	m	pl	p3	1	0	0	0
+434076	434076	Genesis	50	13	NF>[	נשׂא[	JF>W	JF>W		impf	-	m	pl	p3	1	0	0	0
+434082	434082	Genesis	50	13	QBR[	קבר[	JQBRW	JQBRW		impf	-	m	pl	p3	1	0	0	0
+434127	434127	Genesis	50	15	R>H[	ראה[	JR>W	JR>W		impf	-	m	pl	p3	1	0	0	0
+434134	434134	Genesis	50	15	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+434149	434149	Genesis	50	16	YWH[	צוה[	JYWW	JYWW		impf	-	m	pl	p3	1	0	0	0
+434162	434162	Genesis	50	17	>MR[	אמר[	T>MRWN	T>MRW		impf	-	m	pl	p2	1	0	0	1
+434174	434174	Genesis	50	17	GML[	גמל[	GMLWK	GMLW	K	perf	-	unknown	pl	p3	1	1	0	0
+434195	434195	Genesis	50	18	NPL[	נפל[	JPLW	JPLW		impf	-	m	pl	p3	1	0	0	0
+434199	434199	Genesis	50	18	>MR[	אמר[	J>MRW	J>MRW		impf	-	m	pl	p3	1	0	0	0
+434209	434209	Genesis	50	19	JR>[	ירא[	TJR>W	TJR>W		impf	-	m	pl	p2	1	0	0	0
+434237	434237	Genesis	50	21	JR>[	ירא[	TJR>W	TJR>W		impf	-	m	pl	p2	1	0	0	0
+434365	434365	Exodus	1	1	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+434542	434542	Exodus	1	14	<BD[	עבד[	<BDW	<BDW		perf	-	?	pl	p3	1	0	0	0
+434597	434597	Exodus	1	17	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+434669	434669	Exodus	1	21	JR>[	ירא[	JR>W	JR>W		perf	-	?	pl	p3	1	0	0	0
+435522	435522	Exodus	3	13	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+435650	435650	Exodus	3	18	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+436175	436175	Exodus	4	19	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+436408	436408	Exodus	5	1	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+436665	436665	Exodus	5	14	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0	0
+437022	437022	Exodus	6	9	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+437085	437085	Exodus	6	12	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+437484	437484	Exodus	7	5	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+437515	437515	Exodus	7	6	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+438054	438054	Exodus	7	28	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0	0
+438056	438056	Exodus	7	28	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+438129	438129	Exodus	7	29	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0	0
+438131	438131	Exodus	7	29	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+438572	438572	Exodus	8	17	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0	0
+438667	438667	Exodus	8	19	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0	0
+439406	439406	Exodus	9	19	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+439557	439557	Exodus	9	19	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+439810	439810	Exodus	9	31	NKH[	נכה[	NKW	NKW		perf	-	?	pl	p3	1	0	0	0
+439826	439826	Exodus	9	32	NKH[	נכה[	NKW	NKW		perf	-	?	pl	p3	1	0	0	0
+440028	440028	Exodus	10	2	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0	0
+440040	440040	Exodus	10	2	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+440144	440144	Exodus	10	6	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0	0
+440156	440156	Exodus	10	6	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+440558	440558	Exodus	10	23	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+440751	440751	Exodus	11	3	C>L[	שׁאל[	HC>LWM	HC>LW	M	perf	-	?	pl	p3	1	1	0	0
+440962	440962	Exodus	11	8	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0	0
+441012	441012	Exodus	11	10	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+441158	441158	Exodus	12	7	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+441163	441163	Exodus	12	7	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+441180	441180	Exodus	12	8	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0	0
+441678	441678	Exodus	12	28	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+441793	441793	Exodus	12	33	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+441813	441813	Exodus	12	35	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+441881	441881	Exodus	12	39	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0	0
+441901	441901	Exodus	12	39	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+441942	441942	Exodus	12	41	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+442091	442091	Exodus	12	50	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+442485	442485	Exodus	13	17	CWB[	שׁוב[	CBW	CBW		perf	-	?	pl	p3	1	0	0	0
+442499	442499	Exodus	13	18	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0	0
+442647	442647	Exodus	14	4	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+442931	442931	Exodus	14	18	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+443334	443334	Exodus	15	5	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0	0
+443428	443428	Exodus	15	14	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+443437	443437	Exodus	15	15	BHL[	בהל[	NBHLW	NBHLW		perf	-	?	pl	p3	1	0	0	0
+443579	443579	Exodus	15	22	MY>[	מצא[	MY>W	MY>W		perf	-	?	pl	p3	1	0	0	0
+443798	443798	Exodus	16	4	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0	0
+444033	444033	Exodus	16	15	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+444102	444102	Exodus	16	18	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0	0
+444115	444115	Exodus	16	20	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+444156	444156	Exodus	16	22	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0	0
+444261	444261	Exodus	16	27	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+444269	444269	Exodus	16	27	MY>[	מצא[	MY>W	MY>W		perf	-	?	pl	p3	1	0	0	0
+444417	444417	Exodus	16	35	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0	0
+444431	444431	Exodus	16	35	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0	0
+444541	444541	Exodus	17	4	SQL[	סקל[	SQLWNJ	SQLW	NJ	perf	-	?	pl	p3	1	1	0	0
+444680	444680	Exodus	17	10	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0	0
+445253	445253	Exodus	18	22	CPV[	שׁפט[	CPVW	CPVW		perf	-	?	pl	p3	1	0	0	0
+445282	445282	Exodus	18	22	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0	0
+445532	445532	Exodus	19	1	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+446789	446789	Exodus	20	21	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+447124	447124	Exodus	21	18	NKH[	נכה[	HKW	HKW		perf	-	?	pl	p3	1	0	0	0
+447418	447418	Exodus	21	35	MKR[	מכר[	MKRW	MKRW		perf	-	?	pl	p3	1	0	0	0
+447423	447423	Exodus	21	35	XYH[	חצה[	XYW	XYW		perf	-	?	pl	p3	1	0	0	0
+448078	448078	Exodus	23	11	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0	0
+448980	448980	Exodus	25	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+449325	449325	Exodus	25	28	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0	0
+450833	450833	Exodus	28	3	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+450859	450859	Exodus	28	4	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+450896	450896	Exodus	28	6	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+451614	451614	Exodus	28	43	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+452542	452542	Exodus	29	43	QDC[	קדשׁ[	NQDCW	NQDCW		perf	-	?	pl	p3	1	0	0	0
+452576	452576	Exodus	29	46	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+452610	452610	Exodus	30	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+453142	453142	Exodus	31	6	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+453488	453488	Exodus	32	4	<LH[	עלה[	H<LWK	H<LW	K	perf	-	?	pl	p3	1	1	0	0
+453526	453526	Exodus	32	6	CTH[	שׁתה[	CTW	CTW		perf	-	?	pl	p3	1	0	0	0
+453555	453555	Exodus	32	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+453571	453571	Exodus	32	8	<LH[	עלה[	H<LWK	H<LW	K	perf	-	?	pl	p3	1	1	0	0
+453715	453715	Exodus	32	13	NXL[	נחל[	NXLWH	NXLW	H	perf	-	?	pl	p3	1	1	0	0
+453846	453846	Exodus	32	20	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+454158	454158	Exodus	32	35	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+454265	454265	Exodus	33	4	CJT[	שׁית[	CTW	CTW		perf	-	?	pl	p3	1	0	0	0
+454336	454336	Exodus	33	7	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+454409	454409	Exodus	33	10	XWH[	חוה[	HCTXWW	HCTXWW		perf	-	?	pl	p3	1	0	0	0
+454995	454995	Exodus	34	15	ZBX[	זבח[	ZBXW	ZBXW		perf	-	?	pl	p3	1	0	0	0
+455366	455366	Exodus	34	35	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+455729	455729	Exodus	35	21	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+455798	455798	Exodus	35	23	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+455806	455806	Exodus	35	24	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+455821	455821	Exodus	35	24	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+455867	455867	Exodus	35	27	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+455923	455923	Exodus	35	29	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+456038	456038	Exodus	35	35	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+456120	456120	Exodus	36	3	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+456133	456133	Exodus	36	3	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+456235	456235	Exodus	36	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+457904	457904	Exodus	39	1	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+458198	458198	Exodus	39	18	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+458496	458496	Exodus	39	32	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+458688	458688	Exodus	39	42	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+458704	458704	Exodus	39	43	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+458711	458711	Exodus	39	43	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+459451	459451	Leviticus	1	5	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0	0
+459473	459473	Leviticus	1	6	PCV[	פשׁט[	HPCJVW	HPCJVW		perf	-	?	pl	p3	1	0	0	0
+459478	459478	Leviticus	1	6	NTX[	נתח[	NTXW	NTXW		perf	-	?	pl	p3	1	0	0	0
+459483	459483	Leviticus	1	7	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+459493	459493	Leviticus	1	7	<RK[	ערכ[	<RKW	<RKW		perf	-	?	pl	p3	1	0	0	0
+459499	459499	Leviticus	1	8	<RK[	ערכ[	<RKW	<RKW		perf	-	?	pl	p3	1	0	0	0
+459597	459597	Leviticus	1	12	NTX[	נתח[	NTXW	NTXW		perf	-	?	pl	p3	1	0	0	0
+460627	460627	Leviticus	4	12	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0	0
+460645	460645	Leviticus	4	12	FRP[	שׂרפ[	FRPW	FRPW		perf	-	?	pl	p3	1	0	0	0
+460671	460671	Leviticus	4	13	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+460690	460690	Leviticus	4	14	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0	0
+460700	460700	Leviticus	4	14	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+460707	460707	Leviticus	4	15	SMK[	סמכ[	SMKW	SMKW		perf	-	?	pl	p3	1	0	0	0
+463990	463990	Leviticus	9	13	MY>[	מצא[	HMYJ>W	HMYJ>W		perf	-	?	pl	p3	1	0	0	0
+464540	464540	Leviticus	10	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+464659	464659	Leviticus	10	19	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0	0
+467054	467054	Leviticus	14	4	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+467918	467918	Leviticus	14	40	CLK[	שׁלכ[	HCLJKW	HCLJKW		perf	-	?	pl	p3	1	0	0	0
+467952	467952	Leviticus	14	42	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+467956	467956	Leviticus	14	42	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+468029	468029	Leviticus	14	45	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0	0
+468099	468099	Leviticus	14	49	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+468618	468618	Leviticus	15	18	VM>[	טמא[	VM>W	VM>W		perf	-	?	pl	p3	1	0	0	0
+469857	469857	Leviticus	17	5	BW>[	בוא[	HB>WM	HB>W	M	perf	-	?	pl	p3	1	1	0	0
+469868	469868	Leviticus	17	5	ZBX[	זבח[	ZBXW	ZBXW		perf	-	?	pl	p3	1	0	0	0
+470438	470438	Leviticus	18	24	VM>[	טמא[	NVM>W	NVM>W		perf	-	?	pl	p3	1	0	0	0
+470492	470492	Leviticus	18	27	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+470552	470552	Leviticus	18	30	<FH[	עשׂה[	N<FW	N<FW		perf	-	?	pl	p3	1	0	0	0
+471362	471362	Leviticus	20	12	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+471374	471374	Leviticus	20	13	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+471585	471585	Leviticus	20	23	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+472244	472244	Leviticus	22	9	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+472355	472355	Leviticus	22	16	NF>[	נשׂא[	HFJ>W	HFJ>W		perf	-	?	pl	p3	1	0	0	0
+473606	473606	Leviticus	24	9	>KL[	אכל[	>KLWH	>KLW	H	perf	-	?	pl	p3	1	1	0	0
+473697	473697	Leviticus	24	14	SMK[	סמכ[	SMKW	SMKW		perf	-	?	pl	p3	1	0	0	0
+473706	473706	Leviticus	24	14	RGM[	רגמ[	RGMW	RGMW		perf	-	?	pl	p3	1	0	0	0
+473839	473839	Leviticus	24	23	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+474926	474926	Leviticus	26	7	NPL[	נפל[	NPLW	NPLW		perf	-	?	pl	p3	1	0	0	0
+474932	474932	Leviticus	26	8	RDP[	רדפ[	RDPW	RDPW		perf	-	?	pl	p3	1	0	0	0
+474942	474942	Leviticus	26	8	NPL[	נפל[	NPLW	NPLW		perf	-	?	pl	p3	1	0	0	0
+475079	475079	Leviticus	26	16	>KL[	אכל[	>KLHW	>KL	HW	perf	-	?	pl	p3	0	1	1	0
+475412	475412	Leviticus	26	36	NPL[	נפל[	NPLW	NPLW		perf	-	?	pl	p3	1	0	0	0
+475463	475463	Leviticus	26	40	JDH[	ידה[	HTWDW	HTWDW		perf	-	?	pl	p3	1	0	0	0
+476941	476941	Numbers	1	47	PQD[	פקד[	HTPQDW	HTPQDW		perf	-	?	pl	p3	1	0	0	0
+477078	477078	Numbers	1	54	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+477532	477532	Numbers	2	33	PQD[	פקד[	HTPQDW	HTPQDW		perf	-	?	pl	p3	1	0	0	0
+477657	477657	Numbers	3	6	CRT[	שׁרת[	CRTW	CRTW		perf	-	?	pl	p3	1	0	0	0
+478493	478493	Numbers	4	5	JRD[	ירד[	HWRJDW	HWRJDW		perf	-	?	pl	p3	1	0	0	0
+478499	478499	Numbers	4	5	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0	0
+478506	478506	Numbers	4	6	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478521	478521	Numbers	4	6	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0	0
+478532	478532	Numbers	4	7	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478564	478564	Numbers	4	8	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0	0
+478571	478571	Numbers	4	8	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0	0
+478575	478575	Numbers	4	9	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+478579	478579	Numbers	4	9	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0	0
+478603	478603	Numbers	4	10	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478614	478614	Numbers	4	10	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478627	478627	Numbers	4	11	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0	0
+478634	478634	Numbers	4	11	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0	0
+478638	478638	Numbers	4	12	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+478650	478650	Numbers	4	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478655	478655	Numbers	4	12	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0	0
+478662	478662	Numbers	4	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478677	478677	Numbers	4	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478712	478712	Numbers	4	14	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0	0
+478715	478715	Numbers	4	14	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+478719	478719	Numbers	4	14	KSH[	כסה[	KSW	KSW		perf	-	?	pl	p3	1	0	0	0
+478727	478727	Numbers	4	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478734	478734	Numbers	4	14	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+478773	478773	Numbers	4	15	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+478841	478841	Numbers	4	19	XJH[	חיה[	XJW	XJW		perf	-	?	pl	p3	1	0	0	0
+478856	478856	Numbers	4	19	FJM[	שׂימ[	FMW	FMW		perf	-	?	pl	p3	1	0	0	0
+478875	478875	Numbers	4	20	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+478931	478931	Numbers	4	25	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0	0
+478992	478992	Numbers	4	26	<BD[	עבד[	<BDW	<BDW		perf	-	?	pl	p3	1	0	0	0
+479468	479468	Numbers	5	4	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+479506	479506	Numbers	5	7	JDH[	ידה[	HTWDW	HTWDW		perf	-	?	pl	p3	1	0	0	0
+479510	479510	Numbers	5	7	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+479856	479856	Numbers	5	22	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+479907	479907	Numbers	5	24	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+479979	479979	Numbers	5	27	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+480546	480546	Numbers	6	27	FJM[	שׂימ[	FJMW	FJMW		perf	-	?	pl	p3	1	0	0	0
+482010	482010	Numbers	8	7	<BR[	עבר[	H<BJRW	H<BJRW		perf	-	?	pl	p3	1	0	0	0
+482021	482021	Numbers	8	8	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+482064	482064	Numbers	8	10	SMK[	סמכ[	SMKW	SMKW		perf	-	?	pl	p3	1	0	0	0
+482292	482292	Numbers	8	20	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+482320	482320	Numbers	8	22	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+482347	482347	Numbers	8	22	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+482503	482503	Numbers	9	5	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+483654	483654	Numbers	11	8	LQV[	לקט[	LQVW	LQVW		perf	-	?	pl	p3	1	0	0	0
+483668	483668	Numbers	11	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+483880	483880	Numbers	11	17	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0	0
+483996	483996	Numbers	11	21	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0	0
+484121	484121	Numbers	11	26	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+484292	484292	Numbers	11	34	QBR[	קבר[	QBRW	QBRW		perf	-	?	pl	p3	1	0	0	0
+484977	484977	Numbers	13	24	QR>[	קרא[	QR>W	QR>W		perf	-	?	pl	p3	1	0	0	0
+485135	485135	Numbers	13	31	<LH[	עלה[	<LW	<LW		perf	-	?	pl	p3	1	0	0	0
+485137	485137	Numbers	13	31	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+485603	485603	Numbers	14	13	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+485617	485617	Numbers	14	14	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+485624	485624	Numbers	14	14	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+485670	485670	Numbers	14	15	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+485674	485674	Numbers	14	15	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+485807	485807	Numbers	14	22	CM<[	שׁמע[	CM<W	CM<W		perf	-	?	pl	p3	1	0	0	0
+485970	485970	Numbers	14	31	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+485994	485994	Numbers	14	33	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0	0
+486102	486102	Numbers	14	38	XJH[	חיה[	XJW	XJW		perf	-	?	pl	p3	1	0	0	0
+486644	486644	Numbers	15	24	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+486688	486688	Numbers	15	25	BW>[	בוא[	HBJ>W	HBJ>W		perf	-	?	pl	p3	1	0	0	0
+486926	486926	Numbers	15	38	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+486935	486935	Numbers	15	38	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+487505	487505	Numbers	16	27	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+487574	487574	Numbers	16	30	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0	0
+487580	487580	Numbers	16	30	N>Y[	נאצ[	N>YW	N>YW		perf	-	?	pl	p3	1	0	0	0
+487659	487659	Numbers	16	34	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+487711	487711	Numbers	17	2	QDC[	קדשׁ[	QDCW	QDCW		perf	-	?	pl	p3	1	0	0	0
+487721	487721	Numbers	17	3	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+487729	487729	Numbers	17	3	QRB[	קרב[	HQRJBWM	HQRJBW	M	perf	-	?	pl	p3	1	1	0	0
+487754	487754	Numbers	17	4	QRB[	קרב[	HQRJBW	HQRJBW		perf	-	?	pl	p3	1	0	0	0
+489289	489289	Numbers	19	17	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+489298	489298	Numbers	19	17	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+490664	490664	Numbers	21	18	XPR=[	חפר=[	XPRWH	XPRW	H	perf	-	?	pl	p3	1	1	0	0
+490815	490815	Numbers	21	22	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+491518	491518	Numbers	22	20	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+493415	493415	Numbers	26	11	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+494120	494120	Numbers	26	62	PQD[	פקד[	HTPQDW	HTPQDW		perf	-	?	pl	p3	1	0	0	0
+494142	494142	Numbers	26	63	PQD[	פקד[	PQDW	PQDW		perf	-	?	pl	p3	1	0	0	0
+494166	494166	Numbers	26	64	PQD[	פקד[	PQDW	PQDW		perf	-	?	pl	p3	1	0	0	0
+496298	496298	Numbers	31	8	HRG[	הרג[	HRGW	HRGW		perf	-	?	pl	p3	1	0	0	0
+496323	496323	Numbers	31	8	HRG[	הרג[	HRGW	HRGW		perf	-	?	pl	p3	1	0	0	0
+496348	496348	Numbers	31	9	BZZ[	בזז[	BZZW	BZZW		perf	-	?	pl	p3	1	0	0	0
+496359	496359	Numbers	31	10	FRP[	שׂרפ[	FRPW	FRPW		perf	-	?	pl	p3	1	0	0	0
+496510	496510	Numbers	31	18	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+496513	496513	Numbers	31	18	XJH[	חיה[	XJW	XJW		perf	-	?	pl	p3	1	0	0	0
+496895	496895	Numbers	31	32	BZZ[	בזז[	BZZW	BZZW		perf	-	?	pl	p3	1	0	0	0
+496929	496929	Numbers	31	35	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+497145	497145	Numbers	31	49	NF>[	נשׂא[	NF>W	NF>W		perf	-	?	pl	p3	1	0	0	0
+497204	497204	Numbers	31	52	RWM[	רומ[	HRJMW	HRJMW		perf	-	?	pl	p3	1	0	0	0
+497230	497230	Numbers	31	53	BZZ[	בזז[	BZZW	BZZW		perf	-	?	pl	p3	1	0	0	0
+497424	497424	Numbers	32	8	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+497502	497502	Numbers	32	11	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0	0
+497515	497515	Numbers	32	12	ML>[	מלא[	ML>W	ML>W		perf	-	?	pl	p3	1	0	0	0
+497624	497624	Numbers	32	18	NXL[	נחל[	HTNXLW	HTNXLW		perf	-	?	pl	p3	1	0	0	0
+497867	497867	Numbers	32	30	>XZ[	אחז[	N>XZW	N>XZW		perf	-	?	pl	p3	1	0	0	0
+497986	497986	Numbers	32	37	BNH[	בנה[	BNW	BNW		perf	-	?	pl	p3	1	0	0	0
+498015	498015	Numbers	32	38	BNH[	בנה[	BNW	BNW		perf	-	?	pl	p3	1	0	0	0
+498080	498080	Numbers	33	1	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+498126	498126	Numbers	33	3	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+498775	498775	Numbers	33	55	YRR=[	צרר=[	YRRW	YRRW		perf	-	?	pl	p3	1	0	0	0
+499029	499029	Numbers	34	14	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+499049	499049	Numbers	34	14	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+499058	499058	Numbers	34	15	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+499222	499222	Numbers	35	2	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+499651	499651	Numbers	35	24	CPV[	שׁפט[	CPVW	CPVW		perf	-	?	pl	p3	1	0	0	0
+499668	499668	Numbers	35	25	NYL[	נצל[	HYJLW	HYJLW		perf	-	?	pl	p3	1	0	0	0
+499680	499680	Numbers	35	25	CWB[	שׁוב[	HCJBW	HCJBW		perf	-	?	pl	p3	1	0	0	0
+500121	500121	Numbers	36	10	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+500337	500337	Deuteronomy	1	8	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+501568	501568	Deuteronomy	2	23	CMD[	שׁמד[	HCMJDM	HCMJD	M	perf	-	?	pl	p3	0	1	0	0
+501672	501672	Deuteronomy	2	29	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+502660	502660	Deuteronomy	4	6	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+502724	502724	Deuteronomy	4	9	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+503197	503197	Deuteronomy	4	30	MY>[	מצא[	MY>WK	MY>W	K	perf	-	?	pl	p3	1	1	0	0
+504374	504374	Deuteronomy	5	31	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+505288	505288	Deuteronomy	7	19	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+505520	505520	Deuteronomy	8	3	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+505748	505748	Deuteronomy	8	16	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+506172	506172	Deuteronomy	9	12	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+507051	507051	Deuteronomy	10	21	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+507056	507056	Deuteronomy	10	22	JRD[	ירד[	JRDW	JRDW		perf	-	?	pl	p3	1	0	0	0
+507096	507096	Deuteronomy	11	2	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+507100	507100	Deuteronomy	11	2	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+507823	507823	Deuteronomy	12	2	<BD[	עבד[	<BDW	<BDW		perf	-	?	pl	p3	1	0	0	0
+508484	508484	Deuteronomy	12	31	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+508809	508809	Deuteronomy	13	14	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+509470	509470	Deuteronomy	14	29	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0	0
+510357	510357	Deuteronomy	16	18	CPV[	שׁפט[	CPVW	CPVW		perf	-	?	pl	p3	1	0	0	0
+510527	510527	Deuteronomy	17	5	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+510549	510549	Deuteronomy	17	5	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+510643	510643	Deuteronomy	17	9	DRC[	דרשׁ[	DRCW	DRCW		perf	-	?	pl	p3	1	0	0	0
+511629	511629	Deuteronomy	19	12	CLX[	שׁלח[	CLXW	CLXW		perf	-	?	pl	p3	1	0	0	0
+511633	511633	Deuteronomy	19	12	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+511638	511638	Deuteronomy	19	12	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+511748	511748	Deuteronomy	19	18	DRC[	דרשׁ[	DRCW	DRCW		perf	-	?	pl	p3	1	0	0	0
+511989	511989	Deuteronomy	20	8	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+512024	512024	Deuteronomy	20	9	PQD[	פקד[	PQDW	PQDW		perf	-	?	pl	p3	1	0	0	0
+512064	512064	Deuteronomy	20	11	<BD[	עבד[	<BDWK	<BDW	K	perf	-	?	pl	p3	1	1	0	0
+512195	512195	Deuteronomy	20	18	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+512287	512287	Deuteronomy	21	2	JY>[	יצא[	JY>W	JY>W		perf	-	?	pl	p3	1	0	0	0
+512310	512310	Deuteronomy	21	3	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+512328	512328	Deuteronomy	21	4	JRD[	ירד[	HWRJDW	HWRJDW		perf	-	?	pl	p3	1	0	0	0
+512404	512404	Deuteronomy	21	7	<NH[	ענה[	<NW	<NW		perf	-	?	pl	p3	1	0	0	0
+512406	512406	Deuteronomy	21	7	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+512418	512418	Deuteronomy	21	7	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+512652	512652	Deuteronomy	21	18	JSR[	יסר[	JSRW	JSRW		perf	-	?	pl	p3	1	0	0	0
+512665	512665	Deuteronomy	21	19	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0	0
+512674	512674	Deuteronomy	21	20	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+512691	512691	Deuteronomy	21	21	RGM[	רגמ[	RGMHW	RGM	HW	perf	-	?	pl	p3	0	1	1	0
+513022	513022	Deuteronomy	22	15	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0	0
+513080	513080	Deuteronomy	22	18	LQX[	לקח[	LQXW	LQXW		perf	-	?	pl	p3	1	0	0	0
+513092	513092	Deuteronomy	22	18	JSR[	יסר[	JSRW	JSRW		perf	-	?	pl	p3	1	0	0	0
+513100	513100	Deuteronomy	22	19	NTN[	נתנ[	NTNW	NTNW		perf	-	?	pl	p3	1	0	0	0
+513129	513129	Deuteronomy	22	20	MY>[	מצא[	NMY>W	NMY>W		perf	-	?	pl	p3	1	0	0	0
+513134	513134	Deuteronomy	22	21	JY>[	יצא[	HWYJ>W	HWYJ>W		perf	-	?	pl	p3	1	0	0	0
+513143	513143	Deuteronomy	22	21	SQL[	סקל[	SQLWH	SQLW	H	perf	-	?	pl	p3	1	1	0	0
+513175	513175	Deuteronomy	22	22	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+513225	513225	Deuteronomy	22	24	MWT[	מות[	MTW	MTW		perf	-	?	pl	p3	1	0	0	0
+513335	513335	Deuteronomy	22	28	MY>[	מצא[	NMY>W	NMY>W		perf	-	?	pl	p3	1	0	0	0
+513421	513421	Deuteronomy	23	5	QDM[	קדמ[	QDMW	QDMW		perf	-	?	pl	p3	1	0	0	0
+514255	514255	Deuteronomy	25	1	CPV[	שׁפט[	CPVWM	CPVW	M	perf	-	?	pl	p3	1	1	0	0
+514393	514393	Deuteronomy	25	8	QR>[	קרא[	QR>W	QR>W		perf	-	?	pl	p3	1	0	0	0
+514882	514882	Deuteronomy	26	12	>KL[	אכל[	>KLW	>KLW		perf	-	?	pl	p3	1	0	0	0
+515347	515347	Deuteronomy	27	14	<NH[	ענה[	<NW	<NW		perf	-	?	pl	p3	1	0	0	0
+515351	515351	Deuteronomy	27	14	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515376	515376	Deuteronomy	27	15	<NH[	ענה[	<NW	<NW		perf	-	?	pl	p3	1	0	0	0
+515381	515381	Deuteronomy	27	15	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515389	515389	Deuteronomy	27	16	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515399	515399	Deuteronomy	27	17	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515410	515410	Deuteronomy	27	18	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515423	515423	Deuteronomy	27	19	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515438	515438	Deuteronomy	27	20	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515449	515449	Deuteronomy	27	21	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515464	515464	Deuteronomy	27	22	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515474	515474	Deuteronomy	27	23	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515485	515485	Deuteronomy	27	24	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515499	515499	Deuteronomy	27	25	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515518	515518	Deuteronomy	27	26	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+515555	515555	Deuteronomy	28	2	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+515563	515563	Deuteronomy	28	2	NFG[	נשׂג[	HFJGWK	HFJGW	K	perf	-	?	pl	p3	1	1	0	0
+515671	515671	Deuteronomy	28	10	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+515819	515819	Deuteronomy	28	15	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+515827	515827	Deuteronomy	28	15	NFG[	נשׂג[	HFJGWK	HFJGW	K	perf	-	?	pl	p3	1	1	0	0
+516317	516317	Deuteronomy	28	45	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+516325	516325	Deuteronomy	28	45	RDP[	רדפ[	RDPWK	RDPW	K	perf	-	?	pl	p3	1	1	0	0
+516327	516327	Deuteronomy	28	45	NFG[	נשׂג[	HFJGWK	HFJGW	K	perf	-	?	pl	p3	1	1	0	0
+516329	516329	Deuteronomy	28	45	CMD[	שׁמד[	HCMJDWK	HCMJDW	K	perf	-	?	pl	p3	1	1	0	0
+516960	516960	Deuteronomy	29	2	R>H[	ראה[	R>W	R>W		perf	-	?	pl	p3	1	0	0	0
+517435	517435	Deuteronomy	29	23	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+517458	517458	Deuteronomy	29	24	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+517461	517461	Deuteronomy	29	24	<ZB[	עזב[	<ZBW	<ZBW		perf	-	?	pl	p3	1	0	0	0
+517488	517488	Deuteronomy	29	25	JD<[	ידע[	JD<WM	JD<W	M	perf	-	?	pl	p3	1	1	0	0
+517664	517664	Deuteronomy	30	5	JRC[	ירשׁ[	JRCW	JRCW		perf	-	?	pl	p3	1	0	0	0
+517712	517712	Deuteronomy	30	7	RDP[	רדפ[	RDPWK	RDPW	K	perf	-	?	pl	p3	1	1	0	0
+518345	518345	Deuteronomy	31	13	JD<[	ידע[	JD<W	JD<W		perf	-	?	pl	p3	1	0	0	0
+518348	518348	Deuteronomy	31	13	LMD[	למד[	LMDW	LMDW		perf	-	?	pl	p3	1	0	0	0
+518378	518378	Deuteronomy	31	14	QRB[	קרב[	QRBW	QRBW		perf	-	?	pl	p3	1	0	0	0
+518448	518448	Deuteronomy	31	16	<ZB[	עזב[	<ZBWNJ	<ZBW	NJ	perf	-	?	pl	p3	1	1	0	0
+518475	518475	Deuteronomy	31	17	MY>[	מצא[	MY>HW	MY>	HW	perf	-	?	pl	p3	0	1	1	0
+518494	518494	Deuteronomy	31	17	MY>[	מצא[	MY>WNJ	MY>W	NJ	perf	-	?	pl	p3	1	1	0	0
+518515	518515	Deuteronomy	31	18	<FH[	עשׂה[	<FW	<FW		perf	-	?	pl	p3	1	0	0	0
+518578	518578	Deuteronomy	31	20	<BD[	עבד[	<BDWM	<BDW	M	perf	-	?	pl	p3	1	1	0	0
+518580	518580	Deuteronomy	31	20	N>Y[	נאצ[	N>YWNJ	N>YW	NJ	perf	-	?	pl	p3	1	1	0	0
+519066	519066	Deuteronomy	32	17	JD<[	ידע[	JD<WM	JD<W	M	perf	-	?	pl	p3	1	1	0	0
+519070	519070	Deuteronomy	32	17	BW>[	בוא[	B>W	B>W		perf	-	?	pl	p3	1	0	0	0
+519073	519073	Deuteronomy	32	17	F<R==[	שׂער==[	F<RWM	F<RW	M	perf	-	?	pl	p3	1	1	0	0
+519112	519112	Deuteronomy	32	21	QN>[	קנא[	QN>WNJ	QN>W	NJ	perf	-	?	pl	p3	1	1	0	0
+519116	519116	Deuteronomy	32	21	K<S[	כעס[	K<SWNJ	K<SW	NJ	perf	-	?	pl	p3	1	1	0	0
+519318	519318	Deuteronomy	32	37	>MR[	אמר[	>MRW	>MRW		perf	-	?	pl	p3	1	0	0	0
+519681	519681	Deuteronomy	33	3	NF>[	נשׂא[	F>W	F>W		perf	-	?	pl	p3	1	0	0	0
