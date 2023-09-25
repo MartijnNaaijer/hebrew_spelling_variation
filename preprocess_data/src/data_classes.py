@@ -168,9 +168,9 @@ class MTWordProcessor:
 
     def get_prs(self):
         suff = F.g_prs.v(self.tf_id)
-        # Cases like >DNJ in Genesis 19:2 (masc plural with prs)
+        # Cases like >DNJ in Genesis 19:2 (masc plural with 1ps sg prs)
         if suff == '+':
-            suff = 'J'
+            suff = ''
         prs_cons = ''.join([ch for ch in suff if ch in self.prs_chars])
         return prs_cons
 
@@ -193,9 +193,6 @@ class MTWordProcessor:
         if self.lexeme == 'NGH/' and self.glyphs == 'NGH':
             g_nme = 'H'
             self.stem = 'NG'
-        # Cases like >DNJ in Genesis 19:2 (masc plural with prs), decision: no nme, but prs
-        if prs == '+':
-            g_nme = g_nme.rstrip('J')
         nme_cons = ''.join([ch for ch in g_nme if ch in self.consonants])
 
         return nme_cons
@@ -386,6 +383,7 @@ class DSSWordProcessor:
             self.stem = self.stem.removesuffix(self.hloc).removesuffix(self.prs).removesuffix(self.uvf_n)
             if self.lexeme:
                 self.parse_nme()
+                self.correct_nme_prs()
             if Fdss.morpho.v(self.tf_id):
                 if self.sp == 'verb' and Fdss.morpho.v(self.tf_id)[-1] == 'h':
                     self.stem = self.stem.rstrip('H')
@@ -516,6 +514,15 @@ class DSSWordProcessor:
 
     def parse_nme(self):
         self.stem, self.nme = parse_nme_dss(self.stem, self.lexeme, self.state, self.number, self.gender, self.sp, self.prs)
+
+    def correct_nme_prs(self):
+        """
+        Cases like elohaj (masc plural + 1 ps sg prs) are considered to have a nme J and prs ''.
+        The prs has been assimilated completely to the nme. That is corrected here.
+        """
+        if self.gender == 'm' and self.number == 'pl' and self.prs == 'J' and self.nme == '':
+            self.nme = 'J'
+            self.prs = ''
 
     def get_number(self):
         """
@@ -727,7 +734,7 @@ class SPWordProcessor:
     def get_prs(self):
         suff = Fsp.g_prs.v(self.tf_id)
         if suff == '+':
-            suff = 'J'
+            suff = ''
         prs_cons = ''.join([ch for ch in suff if ch in self.prs_chars])
         return prs_cons
 
