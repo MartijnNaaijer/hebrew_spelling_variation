@@ -8,8 +8,6 @@ The scrolls include the biblical Dead Sea Scrolls and the Codex Leningradensis, 
 The MT dataset is based on the text-fabric dataset Biblia Hebraica Stuttgartensia Amstelodamensis
 (see github.com/etcbc/bhsa).
 The DSS dataset is based on the text-fabric dataset DSS (see github.com/etcbc/dss).
-
-TODO: add processing of SP data.
 """
 from dataclasses import dataclass, field
 
@@ -753,13 +751,13 @@ class SPWordProcessor:
             stem = stem[:-1]
             self.nme = 'T' + self.nme
 
-        if self.tf_id in {420224, 420382}: # ad hoc action to make stem identical to MT.
+        if Fsp.lex.v(self.tf_id) == 'MR>CWT/':  # ad hoc action to make stem identical to MT.
             stem = 'MR>C'
         return stem
 
     def get_nme(self):
         nme_cons = ''.join([ch for ch in Fsp.g_nme.v(self.tf_id) if ch in self.consonants])
-        if self.tf_id in {420224, 420382}: # ad hoc action to make stem identical to MT.
+        if Fsp.lex.v(self.tf_id) == 'MR>CWT/':  # ad hoc action to make stem identical to MT.
             nme_cons = 'JT'
         return nme_cons
 

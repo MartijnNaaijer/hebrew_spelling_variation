@@ -23,8 +23,7 @@ class VowelLetterInSubsequentSyllableAdder:
         for idx, row in self.data.iterrows():
             stem_pattern, word_pattern = row.pattern, row.pattern_g_cons
             syll_type, vowel_letter = row.type, row.vowel_letter
-            stem, g_cons = row.stem, row.g_cons
-            lex = row.lex
+            stem, g_cons, lex = row.stem, row.g_cons, row.lex
 
             if not vowel_letter:
                 vowel_letter = self.most_frequent_vowel_letter_for_lex_types_dict[(lex, syll_type)]
