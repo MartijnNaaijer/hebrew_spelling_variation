@@ -13,12 +13,15 @@ class UselessParticiplesRemover:
         self.clean_ptc_data = self.remove_irregular_patterns()
 
     def remove_rows_without_pattern(self):
+        """MT cases have to have a pattern."""
         data_copy = self.data.copy()
-        return data_copy[[pat.count('C') > 0 for pat in data_copy.pattern]]
+        copy_cleaned = data_copy[[pat.count('C') > 0 for pat in data_copy.pattern]]
+        return copy_cleaned
 
     def remove_short_pattern(self):
         data_copy = self.data_with_pattern.copy()
-        return data_copy[data_copy.pattern.str.len() > 2]
+        copy_cleaned = data_copy[data_copy.pattern.str.len() > 2]
+        return copy_cleaned
 
     def remove_hollow_roots(self):
         data_copy = self.data_longer_pattern.copy()

@@ -7,18 +7,10 @@ class ParticiplesCorrector:
 
     def __init__(self, data):
         self.data = data
-        self.remove_empty_patterns()
-        self.remove_short_patterns()
         self.give_mater_vowel_value()
         self.remove_feminine_t()
         self.make_first_letter_consonantal()
         self.select_triconsonantal_stems()
-
-    def remove_empty_patterns(self):
-        self.data = self.data.dropna(subset=['pattern'])
-
-    def remove_short_patterns(self):
-        self.data = self.data[self.data.pattern.str.len() > 2]
 
     def give_mater_vowel_value(self):
         """
@@ -47,7 +39,7 @@ class ParticiplesCorrector:
         self.data['pattern'] = 'C' + self.data.pattern.str[1:]
 
     def select_triconsonantal_stems(self):
-        self.data = self.data[self.data.pattern.str.count('C') == 3]
+        self.data = self.data[(self.data.pattern.str.count('C') == 3)]
 
 
 class MatresColumnAdderParticiples:

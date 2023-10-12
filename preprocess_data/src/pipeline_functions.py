@@ -26,6 +26,7 @@ from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
 # For participles
 from remove_useless_participle_roots import UselessParticiplesRemover, PassiveParticipleNMECleaner
 from matres_column_participles import ParticiplesCorrector, MatresColumnAdderParticiples
+from make_dss_ptc_patterns import PtcPatternMaker
 
 # For infc
 from matres_column_infc import InfcLamedHeCorrector, MatresColumnAdderInfinitiveConstructLamedHe, InfcOtherCorrector, \
@@ -175,7 +176,6 @@ def get_qal_infinitive_construct_data(corpus, mt):
 
     mt_dss_infc_qal_df = pd.concat([mt_infc_qal_df, matres_parser_dss.matres_df])
     mt_dss_infc_qal_df = mt_dss_infc_qal_df.sort_values(by=['tf_id'])
-
     mt_dss_infc_qal_df['other_vowel_ending'] = ''
 
     final_aleph_converter = FinalAlephConverter(mt_dss_infc_qal_df)
@@ -223,8 +223,16 @@ def get_participle_qal_data(corpus, mt):
 
     matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='ptc_qal')
-
-    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, matres_parser_dss.matres_df])
+    #matres_parser_dss.matres_df.to_csv(
+    #    'C:/Users/geitb/Kopenhagen/KopenhagenResearch/scripts_research/hebrew_spelling_variation/data/test_ptc_qal_dss.csv',
+    #    sep='\t', index=False)
+    dss_ptc_df = matres_parser_dss.matres_df
+    ptc_pattern_maker = PtcPatternMaker(dss_ptc_df)
+    dss_ptc_qal_df = ptc_pattern_maker.data
+    #dss_ptc_qal_df.to_csv(
+    #    'C:/Users/geitb/Kopenhagen/KopenhagenResearch/scripts_research/hebrew_spelling_variation/data/test_ptc_qal_dss2.csv',
+    #    sep='\t', index=False)
+    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, dss_ptc_qal_df])
     mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
 
     useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
