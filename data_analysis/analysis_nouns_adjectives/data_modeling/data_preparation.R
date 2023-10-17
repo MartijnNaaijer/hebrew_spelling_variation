@@ -2,22 +2,39 @@ library(tidyverse)
 list.files()
 source(file.path('./analysis_nouns_adjectives', 'config.R'))
 
-FACTOR_COLUMNS <- c('has_prefix', 'has_prs', 'has_nme', 'lex', 'book', 
-                    'has_vowel_letter', 'lex_type', 'law_phase', 'scroll')
+FACTOR_COLUMNS <- c('has_prefix', 'has_prs', 'has_nme', 'has_hloc', 
+                    'has_suffix', 'neigh_vowel_letter','lex', 'book', 
+                    'has_vowel_letter', 'lex_type', 'law_phase', 'scroll',
+                    'scr_book2', 'qsp')
+
 
 prepare_data_pipeline <- function(df, col_name, values) {
   
   df <- df %>% make_lex_type_column %>%
+    make_has_suffix_column %>%
+    make_type2_column %>%
     make_second_book_column %>%
     make_law_phase_column %>%
     make_second_book_column %>%
-    make_law_phase_column %>%
+    make_scroll_book2_column %>%
+    make_qsp_scroll %>%
     split_great_scroll %>%
     select_data(col_name, values) %>%
     reorder_syllable_type_levels %>%
     select_lex_type_data_with_variation %>%
     make_factor_columns(FACTOR_COLUMNS)
   
+  return(df)
+}
+
+make_type2_column <- function(df) {
+  df$type2 <- ifelse(df$type %in% c('single', 'last'), 'last', 'first')
+  df$type2 <- factor(df$type2, levels = c('last', 'first'))
+  return(df)
+}
+
+make_has_suffix_column <- function(df) {
+  df$has_suffix <- as.factor(as.numeric(df$has_prs | df$has_nme | df$has_hloc))
   return(df)
 }
 
@@ -41,11 +58,23 @@ make_second_book_column <- function(df) {
 }
 
 
+make_scroll_book2_column <- function() {
+  df$scr_book2 <- paste(df$scroll, df$book2, sep='_')
+  return(df)
+}
+  
+
 make_law_phase_column <- function(df) {
   
   df$law_phase <- ifelse(df$book %in% LAW_BOOKS, 0, 
                           ifelse(df$book %in% EBH_BOOKS, 1, 
                           ifelse(df$book %in% LBH_BOOKS, 2, 3)))
+  return(df)
+}
+
+
+make_qsp_column <- function() {
+  df$qsp <- ifelse(df$scroll %in% QSP_SCROLLS, 1, 0)
   return(df)
 }
 
