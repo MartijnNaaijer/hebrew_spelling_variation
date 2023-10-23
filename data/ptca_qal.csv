@@ -3544,6 +3544,726 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 425245	MT	2_Chronicles	34	30	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	ישבי		-	-	0	1	0	1	nnn	nnn	first		0
 425335	MT	2_Chronicles	34	32	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 425865	MT	2_Chronicles	35	18	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnnn	nnnnn	יושבי		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+505819	SP	Genesis	1	21	RMF[	RMFT	RMF	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	רמשת		-	-	0	1	0	1	nnn	nnn	first		0
+505953	SP	Genesis	1	26	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רמש		-	-	0	1	0	0	nnn	nnn	first		0
+506010	SP	Genesis	1	28	RMF[	RMFT	RMF	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	רמשת		-	-	0	1	0	1	nnn	nnn	first		0
+506023	SP	Genesis	1	29	ZR<[	ZR<	ZR<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	זרע		-	-	0	0	0	0	nnn	nnn	first		0
+506039	SP	Genesis	1	29	ZR<[	ZR<	ZR<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	זרע		-	-	0	0	0	0	nnn	nnn	first		0
+506286	SP	Genesis	2	10	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+506309	SP	Genesis	2	11	SBB[	SWBB	SWBB	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	סובב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+506343	SP	Genesis	2	13	SBB[	SWBB	SWBB	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	סובב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+506357	SP	Genesis	2	14	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+506670	SP	Genesis	3	5	JD<[	JD<	JD<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	first		0
+506684	SP	Genesis	3	5	JD<[	JD<J	JD<	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ידעי		-	-	0	0	0	1	nnn	nnn	first		0
+507125	SP	Genesis	4	2	<BD[	<BD	<BD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבד		-	-	0	0	0	0	nnn	nnn	first		0
+507201	SP	Genesis	4	7	RBY[	RBY	RBY	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רבץ		-	-	0	0	0	0	nnn	nnn	first		0
+507245	SP	Genesis	4	9	CMR[	CMR	CMR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שמר		-	-	0	1	0	0	nnn	nnn	first		0
+507255	SP	Genesis	4	10	Y<Q[	Y<Q	Y<Q	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	צעק		-	-	0	0	0	0	nnn	nnn	first		0
+507327	SP	Genesis	4	14	MY>[	MY>J	MY>	CCC	CCCM		ptca	sg		unknown	verb	J				nnnn	nnnn	מצאי		-	-	1	0	0	0	nnn	nnn	first		0
+507335	SP	Genesis	4	15	HRG[	HRG	HRG	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הרג		-	-	0	0	0	0	nnn	nnn	first		0
+507350	SP	Genesis	4	15	MY>[	MY>W	MY>	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	מצאו		-	-	1	0	0	0	nnn	nnn	first		0
+507434	SP	Genesis	4	20	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+507446	SP	Genesis	4	21	TPF[	TPF	TPF	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	תפש		-	-	0	0	0	0	nnn	nnn	first		0
+507457	SP	Genesis	4	22	LVC[	LVC	LVC	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	לטש		-	-	0	0	0	0	nnn	nnn	first		0
+507459	SP	Genesis	4	22	XRC=[	XRC	XRC	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חרש		-	-	0	0	0	0	nnn	nnn	first		0
+508609	SP	Genesis	7	8	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רמש		-	-	0	0	0	0	nnn	nnn	first		0
+508732	SP	Genesis	7	14	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רמש		-	-	0	1	0	0	nnn	nnn	first		0
+508867	SP	Genesis	7	21	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רמש		-	-	0	1	0	0	nnn	nnn	first		0
+508885	SP	Genesis	7	21	CRY[	CRY	CRY	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שרץ		-	-	0	1	0	0	nnn	nnn	first		0
+509291	SP	Genesis	8	17	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רמש		-	-	0	1	0	0	nnn	nnn	first		0
+509332	SP	Genesis	8	19	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רמש		-	-	0	1	0	0	nnn	nnn	first		0
+509531	SP	Genesis	9	6	CPK[	CPK	CPK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שפך		-	-	0	0	0	0	nnn	nnn	first		0
+509603	SP	Genesis	9	10	JY>[	JY>J	JY>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	יצאי		-	-	0	0	0	1	nnn	nnn	first		0
+509645	SP	Genesis	9	12	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+509772	SP	Genesis	9	18	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+511461	SP	Genesis	13	5	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+511508	SP	Genesis	13	7	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	ישבים		-	-	0	0	0	1	nnn	nnn	first		0
+511860	SP	Genesis	14	7	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+511961	SP	Genesis	14	12	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+511976	SP	Genesis	14	13	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
+512405	SP	Genesis	15	12	NPL[	NPLT	NPL	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	נפלת		-	-	0	0	0	1	nnn	nnn	first		0
+512728	SP	Genesis	16	8	BRX[	BRXT	BRX	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	ברחת		-	-	0	0	0	1	nnn	nnn	first		0
+512763	SP	Genesis	16	11	JLD[	JLDT	JLD	CCC	CCCC		ptca	sg		unknown	verb		T		W	nnnn	nnnn	ילדת		-	-	0	1	0	1	nnn	nnn	first		0
+512798	SP	Genesis	16	13	DBR[	DBR	DBR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	דבר		-	-	0	1	0	0	nnn	nnn	first		0
+513175	SP	Genesis	17	19	JLD[	JLDT	JLD	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	ילדת		-	-	0	0	0	1	nnn	nnn	first		0
+513345	SP	Genesis	18	1	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+513485	SP	Genesis	18	8	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+513519	SP	Genesis	18	10	CM<[	CM<T	CM<	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	שמעת		-	-	0	0	0	1	nnn	nnn	first		0
+513618	SP	Genesis	18	16	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+513722	SP	Genesis	18	22	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+513782	SP	Genesis	18	25	CPV[	CPV	CPV	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שפט		-	-	0	1	0	0	nnn	nnn	first		0
+513963	SP	Genesis	19	1	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+514242	SP	Genesis	19	14	LQX[	LQXJ	LQX	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	לקחי		-	-	0	0	0	1	nnn	nnn	first		0
+514492	SP	Genesis	19	25	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+515231	SP	Genesis	21	6	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שמע		-	-	0	1	0	0	nnn	nnn	first		0
+516428	SP	Genesis	23	10	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+516555	SP	Genesis	23	16	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+516557	SP	Genesis	23	16	SXR[	SXR	SXR	CCC	CCC		ptca	sg		unknown	verb				L	nnn	nnn	סחר		-	-	0	1	0	0	nnn	nnn	first		0
+516661	SP	Genesis	24	2	MCL[	MCL	MCL	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	משל		-	-	0	1	0	0	nnn	nnn	first		0
+516880	SP	Genesis	24	11	C>B[	C>BWT	C>B	CCC	CCCMC		ptca	pl		unknown	verb		WT		H	nnnnn	nnnnn	שאבות		-	-	0	1	0	1	nnn	nnn	first		0
+516911	SP	Genesis	24	13	JY>[	JY>T	JY>	CCC	CCCC		ptca	pl		unknown	verb		T			nnnn	nnnn	יצאת		-	-	0	0	0	1	nnn	nnn	first		0
+516960	SP	Genesis	24	15	JY>[	JY>T	JY>	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	יצאת		-	-	0	0	0	1	nnn	nnn	first		0
+517244	SP	Genesis	24	30	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+517376	SP	Genesis	24	37	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+517466	SP	Genesis	24	42	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+517480	SP	Genesis	24	43	JY>[	JY>T	JY>	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	יצאת		-	-	0	1	0	1	nnn	nnn	first		0
+517521	SP	Genesis	24	45	JY>[	JY>T	JY>	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	יצאת		-	-	0	0	0	1	nnn	nnn	first		0
+517860	SP	Genesis	24	62	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+517910	SP	Genesis	24	65	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+518371	SP	Genesis	25	26	>XZ[	>XZT	>XZ	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	אחזת		-	-	0	0	0	1	nnn	nnn	first		0
+518395	SP	Genesis	25	27	JD<[	JD<	JD<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	first		0
+518403	SP	Genesis	25	27	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+518416	SP	Genesis	25	28	>HB[	>HBT	>HB	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	אהבת		-	-	0	0	0	1	nnn	nnn	first		0
+518468	SP	Genesis	25	32	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+518740	SP	Genesis	26	11	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+519234	SP	Genesis	27	5	CM<[	CM<T	CM<	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	שמעת		-	-	0	0	0	1	nnn	nnn	first		0
+519652	SP	Genesis	27	29	>RR[	>RRJK	>RR	CCC	CCCMC		ptca	pl		unknown	verb	K	J			nnnnn	nnnnn	ארריך		-	-	1	0	0	1	nnn	nnn	first		0
+520014	SP	Genesis	27	46	LQX[	LQX	LQX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	לקח		-	-	0	0	0	0	nnn	nnn	first		0
+520251	SP	Genesis	28	12	JRD[	JRDJM	JRD	CCC	CCCMC		ptca	pl		unknown	verb		JM		W	nnnnn	nnnnn	ירדים		-	-	0	1	0	1	nnn	nnn	first		0
+520272	SP	Genesis	28	13	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+520429	SP	Genesis	28	20	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+520494	SP	Genesis	29	2	RBY[	RBYJM	RBY	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	רבצים		-	-	0	0	0	1	nnn	nnn	first		0
+522334	SP	Genesis	31	20	BRX[	BRX	BRX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ברח		-	-	0	0	0	0	nnn	nnn	first		0
+523143	SP	Genesis	32	7	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+523259	SP	Genesis	32	12	JR>[	JR>	JR>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ירא		-	-	0	0	0	0	nnn	nnn	first		0
+523418	SP	Genesis	32	20	HLK[	HLKJM	HLK	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	הלכים		-	-	0	1	0	1	nnn	nnn	first		0
+523449	SP	Genesis	32	21	HLK[	HLKT	HLK	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	הלכת		-	-	0	1	0	1	nnn	nnn	first		0
+523890	SP	Genesis	33	13	JD<[	JD<	JD<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	first		0
+524467	SP	Genesis	34	24	JY>[	JY>J	JY>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	יצאי		-	-	0	0	0	1	nnn	nnn	first		0
+524475	SP	Genesis	34	24	JY>[	JY>J	JY>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	יצאי		-	-	0	0	0	1	nnn	nnn	first		0
+524486	SP	Genesis	34	25	K>B[	K>BJM	K>B	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	כאבים		-	-	0	0	0	1	nnn	nnn	first		0
+524593	SP	Genesis	34	30	JCB[	JWCB	JWCB	CMCC	CMCC		ptca	sg		unknown	verb				B	nnnn	nnnn	יושב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+525448	SP	Genesis	36	20	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+526061	SP	Genesis	37	17	>MR[	>MRJM	>MR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
+526215	SP	Genesis	37	25	NF>[	NF>JM	NF>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נשאים		-	-	0	0	0	1	nnn	nnn	first		0
+526221	SP	Genesis	37	25	HLK[	HLKJM	HLK	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	הלכים		-	-	0	0	0	1	nnn	nnn	first		0
+526261	SP	Genesis	37	28	SXR[	SXRJM	SXR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	סחרים		-	-	0	0	0	1	nnn	nnn	first		0
+526615	SP	Genesis	38	12	GZZ[	GZZJ	GZZ	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	גזזי		-	-	0	0	0	1	nnn	nnn	first		0
+527602	SP	Genesis	40	6	Z<P[	Z<PJM	Z<P	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	זעפים		-	-	0	0	0	1	nnn	nnn	first		0
+527627	SP	Genesis	40	8	PTR[	PTR	PTR	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	פתר		-	-	0	1	0	0	nnn	nnn	first		0
+527815	SP	Genesis	40	17	>KL[	>KL	>KL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אכל		-	-	0	0	0	0	nnn	nnn	first		0
+527938	SP	Genesis	41	1	XLM[	XLM	XLM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חלם		-	-	0	0	0	0	nnn	nnn	first		0
+527941	SP	Genesis	41	1	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+528034	SP	Genesis	41	6	YMX[	YMXWT	YMX	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	צמחות		-	-	0	0	0	1	nnn	nnn	first		0
+528084	SP	Genesis	41	8	PTR[	PTR	PTR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	פתר		-	-	0	0	0	0	nnn	nnn	first		0
+528202	SP	Genesis	41	15	PTR[	PTR	PTR	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	פתר		-	-	0	1	0	0	nnn	nnn	first		0
+528239	SP	Genesis	41	17	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+528347	SP	Genesis	41	23	YMX[	YMXWT	YMX	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	צמחות		-	-	0	0	0	1	nnn	nnn	first		0
+529325	SP	Genesis	42	18	JR>[	JR>	JR>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ירא		-	-	0	0	0	0	nnn	nnn	first		0
+529420	SP	Genesis	42	23	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+530378	SP	Genesis	43	32	>KL[	>KLJM	>KL	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	אכלים		-	-	0	1	0	1	nnn	nnn	first		0
+531214	SP	Genesis	45	8	MCL[	MCL	MCL	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	משל		-	-	0	1	0	0	nnn	nnn	first		0
+531486	SP	Genesis	45	23	NF>[	NF>JM	NF>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נשאים		-	-	0	0	0	1	nnn	nnn	first		0
+531494	SP	Genesis	45	23	NF>[	NF>WT	NF>	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	נשאות		-	-	0	0	0	1	nnn	nnn	first		0
+531539	SP	Genesis	45	26	MCL[	MCL	MCL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	משל		-	-	0	0	0	0	nnn	nnn	first		0
+531978	SP	Genesis	46	26	JY>[	JY>J	JY>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	יצאי		-	-	0	0	0	1	nnn	nnn	first		0
+532441	SP	Genesis	47	14	CBR=[	CBRJM	CBR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	שברים		-	-	0	0	0	1	nnn	nnn	first		0
+533197	SP	Genesis	48	16	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	גאל		-	-	0	1	0	0	nnn	nnn	first		0
+533554	SP	Genesis	49	14	RBY[	RBY	RBY	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רבץ		-	-	0	0	0	0	nnn	nnn	first		0
+533578	SP	Genesis	49	15	<BD[	<BD	<BD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבד		-	-	0	0	0	0	nnn	nnn	first		0
+533595	SP	Genesis	49	17	NCK[	NCK	NCK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נשך		-	-	0	1	0	0	nnn	nnn	first		0
+533600	SP	Genesis	49	17	RKB[	RKBW	RKB	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	רכבו		-	-	1	0	0	0	nnn	nnn	first		0
+533626	SP	Genesis	49	21	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נתן		-	-	0	1	0	0	nnn	nnn	first		0
+533681	SP	Genesis	49	25	RBY[	RBYT	RBY	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	רבצת		-	-	0	0	0	1	nnn	nnn	first		0
+533863	SP	Genesis	50	2	RP>[	RP>JM	RP>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	רפאים		-	-	0	1	0	1	nnn	nnn	first		0
+533871	SP	Genesis	50	2	RP>[	RP>JM	RP>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	רפאים		-	-	0	1	0	1	nnn	nnn	first		0
+534039	SP	Genesis	50	11	JCB[	JWCB	JWCB	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+534390	SP	Exodus	1	5	JY>[	JY>J	JY>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	יצאי		-	-	0	0	0	1	nnn	nnn	first		0
+534468	SP	Exodus	1	10	FN>[	FN>JNW	FN>	CCC	CCCMCM		ptca	pl		unknown	verb	NW	J			nnnnnn	nnnnnn	שנאינו		-	-	1	0	0	1	nnn	nnn	first		0
+534784	SP	Exodus	2	5	HLK[	HLKT	HLK	CCC	CCCC		ptca	pl		unknown	verb		T			nnnn	nnnn	הלכת		-	-	0	0	0	1	nnn	nnn	first		0
+534998	SP	Exodus	2	14	>MR[	>MR	>MR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	first		0
+535223	SP	Exodus	3	1	XTN[	XTNW	XTN	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	חתנו		-	-	1	0	0	0	nnn	nnn	first		0
+535259	SP	Exodus	3	2	B<R[	B<R	B<R	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	בער		-	-	0	0	0	0	nnn	nnn	first		0
+535323	SP	Exodus	3	5	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+535369	SP	Exodus	3	7	NGF[	NGFJW	NGF	CCC	CCCMM		ptca	pl		unknown	verb	W	J			nnnnn	nnnnn	נגשיו		-	-	1	0	0	1	nnn	nnn	first		0
+535437	SP	Exodus	3	9	LXY[	LXYJM	LXY	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	לחצים		-	-	0	0	0	1	nnn	nnn	first		0
+536064	SP	Exodus	4	14	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+536139	SP	Exodus	4	18	XTN[	XTNW	XTN	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	חתנו		-	-	1	0	0	0	nnn	nnn	first		0
+536269	SP	Exodus	4	23	HRG[	HRG	HRG	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הרג		-	-	0	0	0	0	nnn	nnn	first		0
+536521	SP	Exodus	5	6	NGF[	NGFJM	NGF	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	נגשים		-	-	0	1	0	1	nnn	nnn	first		0
+536526	SP	Exodus	5	6	CVR[	CWVRJW	CWVR	CMCC	CMCCMM		ptca	pl		unknown	verb	W	J			nnnnnn	nnnnnn	שוטריו		-	-	1	0	0	1	nnnn	nnnn	first	W	1
+536568	SP	Exodus	5	8	Y<Q[	Y<QJM	Y<Q	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	צעקים		-	-	0	0	0	1	nnn	nnn	first		0
+536592	SP	Exodus	5	10	NGF[	NGFJ	NGF	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	נגשי		-	-	0	0	0	1	nnn	nnn	first		0
+536596	SP	Exodus	5	10	CVR[	CWVRJW	CWVR	CMCC	CMCCMM		ptca	pl		unknown	verb	W	J		W	nnnnnn	nnnnnn	שוטריו		-	-	1	1	0	1	nnnn	nnnn	first	W	1
+536608	SP	Exodus	5	10	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+536640	SP	Exodus	5	13	NGF[	NGFJM	NGF	CCC	CCCMC		ptca	pl		unknown	verb		JM		WH	nnnnn	nnnnn	נגשים		-	-	0	1	0	1	nnn	nnn	first		0
+536662	SP	Exodus	5	14	CVR[	CWVRJ	CWVR	CMCC	CMCCM		ptca	pl		unknown	verb		J			nnnnn	nnnnn	שוטרי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+536668	SP	Exodus	5	14	NGF[	NGFJ	NGF	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	נגשי		-	-	0	0	0	1	nnn	nnn	first		0
+536688	SP	Exodus	5	15	CVR[	CWVRJ	CWVR	CMCC	CMCCM		ptca	pl		unknown	verb		J			nnnnn	nnnnn	שוטרי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+536709	SP	Exodus	5	16	>MR[	>MRJM	>MR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
+536727	SP	Exodus	5	17	>MR[	>MRJM	>MR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
+536748	SP	Exodus	5	19	CVR[	CWVRJ	CWVR	CMCC	CMCCM		ptca	pl		unknown	verb		J			nnnnn	nnnnn	שוטרי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+537393	SP	Exodus	6	29	DBR[	DBR	DBR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	דבר		-	-	0	0	0	0	nnn	nnn	first		0
+537666	SP	Exodus	7	15	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+538037	SP	Exodus	7	27	M>N[	M>N	M>N	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	מאן		-	-	0	0	0	0	nnn	nnn	first		0
+538043	SP	Exodus	7	27	NGP[	NGP	NGP	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נגף		-	-	0	0	0	0	nnn	nnn	first		0
+538118	SP	Exodus	7	29	NGP[	NGP	NGP	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נגף		-	-	0	0	0	0	nnn	nnn	first		0
+538537	SP	Exodus	8	16	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+538597	SP	Exodus	8	18	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+538692	SP	Exodus	8	19	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+538832	SP	Exodus	8	25	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+538938	SP	Exodus	9	2	M>N[	M>N	M>N	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	מאן		-	-	0	0	0	0	nnn	nnn	first		0
+539180	SP	Exodus	9	9	PRX[	PRX	PRX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	פרח		-	-	0	0	0	0	nnn	nnn	first		0
+539207	SP	Exodus	9	10	PRX[	PRX	PRX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	פרח		-	-	0	0	0	0	nnn	nnn	first		0
+539286	SP	Exodus	9	14	CLX[	CLX	CLX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
+539435	SP	Exodus	9	19	CLX[	CLX	CLX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
+539560	SP	Exodus	9	20	JR>[	JR>	JR>	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ירא		-	-	0	1	0	0	nnn	nnn	first		0
+540023	SP	Exodus	10	2	YMX[	YMX	YMX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	צמח		-	-	0	1	0	0	nnn	nnn	first		0
+540087	SP	Exodus	10	4	M>N[	M>N	M>N	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	מאן		-	-	0	0	0	0	nnn	nnn	first		0
+540139	SP	Exodus	10	5	YMX[	YMX	YMX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	צמח		-	-	0	1	0	0	nnn	nnn	first		0
+540228	SP	Exodus	10	8	HLK[	HLKJM	HLK	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	הלכים		-	-	0	1	0	1	nnn	nnn	first		0
+540759	SP	Exodus	11	3	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+540775	SP	Exodus	11	3	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+540875	SP	Exodus	11	3	HRG[	HRG	HRG	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הרג		-	-	0	0	0	0	nnn	nnn	first		0
+540890	SP	Exodus	11	4	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+540906	SP	Exodus	11	5	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+541349	SP	Exodus	12	15	>KL[	>KL	>KL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אכל		-	-	0	0	0	0	nnn	nnn	first		0
+541461	SP	Exodus	12	19	>KL[	>KL	>KL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אכל		-	-	0	0	0	0	nnn	nnn	first		0
+541698	SP	Exodus	12	29	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+542173	SP	Exodus	13	4	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM			nnnnnn	nnnnnn	יוצאים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+542422	SP	Exodus	13	15	ZBX[	ZBX	ZBX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	זבח		-	-	0	0	0	0	nnn	nnn	first		0
+542549	SP	Exodus	13	21	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+542724	SP	Exodus	14	8	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM			nnnnnn	nnnnnn	יוצאים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+542766	SP	Exodus	14	10	NS<[	NS<JM	NS<	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נסעים		-	-	0	0	0	1	nnn	nnn	first		0
+542957	SP	Exodus	14	19	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+543161	SP	Exodus	14	27	NS<[	NS<JM	NS<	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נסעים		-	-	0	0	0	1	nnn	nnn	first		0
+543293	SP	Exodus	15	1	RKB[	RKBW	RKB	CCC	CCCM		ptca	sg		unknown	verb	W			W	nnnn	nnnn	רכבו		-	-	1	1	0	0	nnn	nnn	first		0
+543369	SP	Exodus	15	8	NZL[	NZLJM	NZL	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נזלים		-	-	0	0	0	1	nnn	nnn	first		0
+543435	SP	Exodus	15	14	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+543447	SP	Exodus	15	15	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+543555	SP	Exodus	15	21	RKB[	RKBW	RKB	CCC	CCCM		ptca	sg		unknown	verb	W			W	nnnn	nnnn	רכבו		-	-	1	1	0	0	nnn	nnn	first		0
+543674	SP	Exodus	15	26	RP>[	RP>K	RP>	CCC	CCCC		ptca	sg		unknown	verb	K				nnnn	nnnn	רפאך		-	-	1	0	0	0	nnn	nnn	first		0
+544017	SP	Exodus	16	14	KPR[	KWPR	KWPR	CMCC	CMCC		ptca	sg		unknown	verb				K	nnnn	nnnn	כופר		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+544201	SP	Exodus	16	23	<DP[	<DP	<DP	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עדף		-	-	0	1	0	0	nnn	nnn	first		0
+544295	SP	Exodus	16	29	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+544573	SP	Exodus	17	6	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+544806	SP	Exodus	18	1	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+544829	SP	Exodus	18	2	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+544871	SP	Exodus	18	5	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+544894	SP	Exodus	18	6	XTN[	XTNK	XTN	CCC	CCCC		ptca	sg		unknown	verb	K				nnnn	nnnn	חתנך		-	-	1	0	0	0	nnn	nnn	first		0
+544909	SP	Exodus	18	7	XTN[	XTNW	XTN	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	חתנו		-	-	1	0	0	0	nnn	nnn	first		0
+544932	SP	Exodus	18	8	XTN[	XTNW	XTN	CCC	CCCM		ptca	sg		unknown	verb	W			L	nnnn	nnnn	חתנו		-	-	1	1	0	0	nnn	nnn	first		0
+545016	SP	Exodus	18	12	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+545034	SP	Exodus	18	12	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+545067	SP	Exodus	18	14	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+545090	SP	Exodus	18	14	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+545110	SP	Exodus	18	15	XTN[	XTNW	XTN	CCC	CCCM		ptca	sg		unknown	verb	W			L	nnnn	nnnn	חתנו		-	-	1	1	0	0	nnn	nnn	first		0
+545143	SP	Exodus	18	17	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+545238	SP	Exodus	18	21	FN>[	FN>J	FN>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שנאי		-	-	0	0	0	1	nnn	nnn	first		0
+545315	SP	Exodus	18	24	XTN[	XTNW	XTN	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	חתנו		-	-	1	0	0	0	nnn	nnn	first		0
+545421	SP	Exodus	18	25	CVR[	CVRJM	CVR	CCC	CCCMC		ptca	pl		unknown	verb		JM		W	nnnnn	nnnnn	שטרים		-	-	0	1	0	1	nnn	nnn	first		0
+545427	SP	Exodus	18	25	CPV[	CPVJHM	CPV	CCC	CCCMCC		ptca	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	שפטיהם		-	-	1	0	0	1	nnn	nnn	first		0
+545512	SP	Exodus	18	27	XTN[	XTNW	XTN	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	חתנו		-	-	1	0	0	0	nnn	nnn	first		0
+545781	SP	Exodus	19	12	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+545927	SP	Exodus	19	19	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+546126	SP	Exodus	20	5	PQD[	PQD	PQD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	פקד		-	-	0	0	0	0	nnn	nnn	first		0
+546137	SP	Exodus	20	5	FN>[	FN>J	FN>	CCC	CCCM		ptca	pl		unknown	verb		J		L	nnnn	nnnn	שנאי		-	-	0	1	0	1	nnn	nnn	first		0
+546144	SP	Exodus	20	6	>HB[	>HBJ	>HB	CCC	CCCM		ptca	pl		unknown	verb		J		L	nnnn	nnnn	אהבי		-	-	0	1	0	1	nnn	nnn	first		0
+546147	SP	Exodus	20	6	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J		WL	nnnn	nnnn	שמרי		-	-	0	1	0	1	nnn	nnn	first		0
+546260	SP	Exodus	20	12	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+546411	SP	Exodus	20	17	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+546503	SP	Exodus	20	19	JSP[	JSPJM	JSP	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	יספים		-	-	0	0	0	1	nnn	nnn	first		0
+546795	SP	Exodus	20	21	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+547103	SP	Exodus	21	16	GNB[	GNB	GNB	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	גנב		-	-	0	1	0	0	nnn	nnn	first		0
+547787	SP	Exodus	22	18	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+547792	SP	Exodus	22	19	ZBX[	ZBX	ZBX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	זבח		-	-	0	0	0	0	nnn	nnn	first		0
+547856	SP	Exodus	22	24	NC>[	NC>	NC>	CCC	CCC		ptca	sg		unknown	verb				K	nnn	nnn	נשא		-	-	0	1	0	0	nnn	nnn	first		0
+547999	SP	Exodus	23	5	FN>[	FN>K	FN>	CCC	CCCC		ptca	sg		unknown	verb	K				nnnn	nnnn	שנאך		-	-	1	0	0	0	nnn	nnn	first		0
+548000	SP	Exodus	23	5	RBY[	RBY	RBY	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רבץ		-	-	0	0	0	0	nnn	nnn	first		0
+548235	SP	Exodus	23	19	CKX[	CKX	CKX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכח		-	-	0	0	0	0	nnn	nnn	first		0
+548244	SP	Exodus	23	20	CLX[	CLX	CLX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
+548298	SP	Exodus	23	22	YRR=[	YRRJK	YRR	CCC	CCCMC		ptca	pl		unknown	verb	K	J			nnnnn	nnnnn	צרריך		-	-	1	0	0	1	nnn	nnn	first		0
+548490	SP	Exodus	23	31	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+548865	SP	Exodus	24	17	>KL[	>KLT	>KL	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	אכלת		-	-	0	0	0	1	nnn	nnn	first		0
+549175	SP	Exodus	25	20	SKK[	SKKJM	SKK	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	סככים		-	-	0	0	0	1	nnn	nnn	first		0
+549379	SP	Exodus	25	32	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM			nnnnnn	nnnnnn	יוצאים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+549423	SP	Exodus	25	33	JY>[	JY>JM	JY>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
+549462	SP	Exodus	25	35	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+549536	SP	Exodus	26	1	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+549569	SP	Exodus	26	3	XBR[	XBRWT	XBR	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	חברות		-	-	0	0	0	1	nnn	nnn	first		0
+549578	SP	Exodus	26	3	XBR[	XBRWT	XBR	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	חברות		-	-	0	0	0	1	nnn	nnn	first		0
+549768	SP	Exodus	26	12	<DP[	<DP	<DP	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עדף		-	-	0	1	0	0	nnn	nnn	first		0
+549777	SP	Exodus	26	12	<DP[	<DPT	<DP	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	עדפת		-	-	0	1	0	1	nnn	nnn	first		0
+549794	SP	Exodus	26	13	<DP[	<DP	<DP	CCC	CCC		ptca	sg		unknown	verb				B	nnn	nnn	עדף		-	-	0	1	0	0	nnn	nnn	first		0
+549837	SP	Exodus	26	15	<MD[	<MDJM	<MD	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עמדים		-	-	0	0	0	1	nnn	nnn	first		0
+550103	SP	Exodus	26	31	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+550381	SP	Exodus	26	36	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
+550660	SP	Exodus	27	16	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
+550913	SP	Exodus	28	6	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+550916	SP	Exodus	28	7	XBR[	XBRWT	XBR	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	חברות		-	-	0	0	0	1	nnn	nnn	first		0
+551054	SP	Exodus	28	15	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+551388	SP	Exodus	28	32	>RG[	>RG	>RG	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ארג		-	-	0	0	0	0	nnn	nnn	first		0
+551530	SP	Exodus	28	39	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
+552436	SP	Exodus	29	37	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+552632	SP	Exodus	30	13	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבר		-	-	0	1	0	0	nnn	nnn	first		0
+552657	SP	Exodus	30	14	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבר		-	-	0	1	0	0	nnn	nnn	first		0
+552856	SP	Exodus	30	25	RQX[	RQX	RQX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקח		-	-	0	0	0	0	nnn	nnn	first		0
+552914	SP	Exodus	30	29	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+553805	SP	Exodus	32	18	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+554400	SP	Exodus	33	10	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+554452	SP	Exodus	33	12	>MR[	>MR	>MR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	first		0
+554520	SP	Exodus	33	15	HLK[	HLKJM	HLK	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	הלכים		-	-	0	0	0	1	nnn	nnn	first		0
+554803	SP	Exodus	34	7	NYR[	NYR	NYR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נצר		-	-	0	0	0	0	nnn	nnn	first		0
+554807	SP	Exodus	34	7	NF>[	NF>	NF>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נשא		-	-	0	0	0	0	nnn	nnn	first		0
+554817	SP	Exodus	34	7	PQD[	PQD	PQD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	פקד		-	-	0	0	0	0	nnn	nnn	first		0
+554871	SP	Exodus	34	10	KRT[	KRT	KRT	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	כרת		-	-	0	0	0	0	nnn	nnn	first		0
+554918	SP	Exodus	34	11	GRC[	GRC	GRC	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גרש		-	-	0	0	0	0	nnn	nnn	first		0
+554948	SP	Exodus	34	12	JCB[	JWCB	JWCB	CMCC	CMCC		ptca	sg		unknown	verb				L	nnnn	nnnn	יושב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+554988	SP	Exodus	34	15	JCB[	JWCB	JWCB	CMCC	CMCC		ptca	sg		unknown	verb				L	nnnn	nnnn	יושב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+556021	SP	Exodus	35	35	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	חשב		-	-	0	1	0	0	nnn	nnn	first		0
+556023	SP	Exodus	35	35	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	רקם		-	-	0	1	0	0	nnn	nnn	first		0
+556038	SP	Exodus	35	35	>RG[	>RG	>RG	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	ארג		-	-	0	1	0	0	nnn	nnn	first		0
+556044	SP	Exodus	35	35	XCB[	XCBJ	XCB	CCC	CCCM		ptca	pl		unknown	verb		J		W	nnnn	nnnn	חשבי		-	-	0	1	0	1	nnn	nnn	first		0
+556249	SP	Exodus	36	8	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+556482	SP	Exodus	36	20	<MD[	<MDJM	<MD	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עמדים		-	-	0	0	0	1	nnn	nnn	first		0
+556740	SP	Exodus	36	35	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+556778	SP	Exodus	36	37	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
+556940	SP	Exodus	37	9	SKK[	SKKJM	SKK	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	סככים		-	-	0	0	0	1	nnn	nnn	first		0
+557097	SP	Exodus	37	18	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM			nnnnnn	nnnnnn	יוצאים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+557140	SP	Exodus	37	19	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+557179	SP	Exodus	37	21	JY>[	JY>JM	JY>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
+557300	SP	Exodus	37	29	RQX[	RQX	RQX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקח		-	-	0	0	0	0	nnn	nnn	first		0
+557436	SP	Exodus	38	8	YB>[	YB>WT	YB>	CCC	CCCMC		ptca	pl		unknown	verb		WT		H	nnnnn	nnnnn	צבאות		-	-	0	1	0	1	nnn	nnn	first		0
+557584	SP	Exodus	38	18	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
+557682	SP	Exodus	38	23	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	חשב		-	-	0	1	0	0	nnn	nnn	first		0
+557684	SP	Exodus	38	23	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	רקם		-	-	0	1	0	0	nnn	nnn	first		0
+557758	SP	Exodus	38	26	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבר		-	-	0	1	0	0	nnn	nnn	first		0
+557975	SP	Exodus	39	3	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+557979	SP	Exodus	39	4	XBR[	XBRWT	XBR	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	חברות		-	-	0	0	0	1	nnn	nnn	first		0
+558049	SP	Exodus	39	8	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
+558316	SP	Exodus	39	22	>RG[	>RG	>RG	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ארג		-	-	0	0	0	0	nnn	nnn	first		0
+558397	SP	Exodus	39	27	>RG[	>RG	>RG	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ארג		-	-	0	0	0	0	nnn	nnn	first		0
+558434	SP	Exodus	39	29	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
+562432	SP	Leviticus	7	14	ZRQ[	ZRQ	ZRQ	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	זרק		-	-	0	1	0	0	nnn	nnn	first		0
+562514	SP	Leviticus	7	18	>KL[	>KLT	>KL	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	אכלת		-	-	0	1	0	1	nnn	nnn	first		0
+562636	SP	Leviticus	7	25	>KL[	>KL	>KL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אכל		-	-	0	0	0	0	nnn	nnn	first		0
+562652	SP	Leviticus	7	25	>KL[	>KLT	>KL	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	אכלת		-	-	0	1	0	1	nnn	nnn	first		0
+564725	SP	Leviticus	11	3	CS<[	CS<T	CS<	CCC	CCCC		ptca	sg		unknown	verb		T		W	nnnn	nnnn	שסעת		-	-	0	1	0	1	nnn	nnn	first		0
+564802	SP	Leviticus	11	7	CS<[	CS<	CS<	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	שסע		-	-	0	1	0	0	nnn	nnn	first		0
+565009	SP	Leviticus	11	20	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+565025	SP	Leviticus	11	21	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+565086	SP	Leviticus	11	24	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+565096	SP	Leviticus	11	25	NF>[	NF>	NF>	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נשא		-	-	0	1	0	0	nnn	nnn	first		0
+565131	SP	Leviticus	11	26	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+565137	SP	Leviticus	11	27	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+565145	SP	Leviticus	11	27	HLK[	HLKT	HLK	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	הלכת		-	-	0	1	0	1	nnn	nnn	first		0
+565153	SP	Leviticus	11	27	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+565162	SP	Leviticus	11	28	NF>[	NF>	NF>	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	נשא		-	-	0	1	0	0	nnn	nnn	first		0
+565183	SP	Leviticus	11	29	CRY[	CRY	CRY	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שרץ		-	-	0	1	0	0	nnn	nnn	first		0
+565222	SP	Leviticus	11	31	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+565330	SP	Leviticus	11	36	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+565373	SP	Leviticus	11	39	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+565382	SP	Leviticus	11	40	>KL[	>KL	>KL	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	אכל		-	-	0	1	0	0	nnn	nnn	first		0
+565394	SP	Leviticus	11	40	NF>[	NF>	NF>	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	נשא		-	-	0	1	0	0	nnn	nnn	first		0
+565409	SP	Leviticus	11	41	CRY[	CRY	CRY	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שרץ		-	-	0	1	0	0	nnn	nnn	first		0
+565419	SP	Leviticus	11	42	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+565425	SP	Leviticus	11	42	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+565437	SP	Leviticus	11	42	CRY[	CRY	CRY	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שרץ		-	-	0	1	0	0	nnn	nnn	first		0
+565455	SP	Leviticus	11	43	CRY[	CRY	CRY	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שרץ		-	-	0	1	0	0	nnn	nnn	first		0
+565485	SP	Leviticus	11	44	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רמש		-	-	0	1	0	0	nnn	nnn	first		0
+565524	SP	Leviticus	11	46	RMF[	RMFT	RMF	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	רמשת		-	-	0	1	0	1	nnn	nnn	first		0
+565532	SP	Leviticus	11	46	CRY[	CRYT	CRY	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	שרצת		-	-	0	1	0	1	nnn	nnn	first		0
+565687	SP	Leviticus	12	7	JLD[	JLDT	JLD	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	ילדת		-	-	0	1	0	1	nnn	nnn	first		0
+566591	SP	Leviticus	13	42	PRX[	PRXT	PRX	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	פרחת		-	-	0	0	0	1	nnn	nnn	first		0
+566945	SP	Leviticus	13	57	PRX[	PRXT	PRX	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	פרחת		-	-	0	0	0	1	nnn	nnn	first		0
+567776	SP	Leviticus	14	34	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+568055	SP	Leviticus	14	47	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	שכב		-	-	0	1	0	0	nnn	nnn	first		0
+568062	SP	Leviticus	14	47	>KL[	>KL	>KL	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	אכל		-	-	0	1	0	0	nnn	nnn	first		0
+568360	SP	Leviticus	15	6	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+568382	SP	Leviticus	15	7	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+568429	SP	Leviticus	15	10	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+568441	SP	Leviticus	15	10	NF>[	NWF>	NWF>	CMCC	CMCC		ptca	sg		unknown	verb				WH	nnnn	nnnn	נושא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+568640	SP	Leviticus	15	19	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+568663	SP	Leviticus	15	21	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+568680	SP	Leviticus	15	22	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+568711	SP	Leviticus	15	23	JCB[	JCBT	JCB	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	ישבת		-	-	0	0	0	1	nnn	nnn	first		0
+568796	SP	Leviticus	15	27	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+569303	SP	Leviticus	16	16	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שכן		-	-	0	1	0	0	nnn	nnn	first		0
+569586	SP	Leviticus	16	28	FRP[	FRP	FRP	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	שרף		-	-	0	1	0	0	nnn	nnn	first		0
+569852	SP	Leviticus	17	5	ZBX[	ZBXJM	ZBX	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	זבחים		-	-	0	0	0	1	nnn	nnn	first		0
+569983	SP	Leviticus	17	10	>KL[	>KLT	>KL	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	אכלת		-	-	0	1	0	1	nnn	nnn	first		0
+570460	SP	Leviticus	18	25	JCB[	JCBJH	JCB	CCC	CCCMC		ptca	pl		unknown	verb	H	J			nnnnn	nnnnn	ישביה		-	-	1	0	0	1	nnn	nnn	first		0
+571334	SP	Leviticus	20	10	N>P[	N>P	N>P	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נאף		-	-	0	1	0	0	nnn	nnn	first		0
+571337	SP	Leviticus	20	10	N>P[	N>PT	N>P	CCC	CCCC		ptca	sg		unknown	verb		T		WH	nnnn	nnnn	נאפת		-	-	0	1	0	1	nnn	nnn	first		0
+572158	SP	Leviticus	22	4	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+572799	SP	Leviticus	23	10	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+573702	SP	Leviticus	24	14	CM<[	CM<JM	CM<	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	שמעים		-	-	0	1	0	1	nnn	nnn	first		0
+573729	SP	Leviticus	24	16	NQB[	NQB	NQB	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	נקב		-	-	0	1	0	0	nnn	nnn	first		0
+573872	SP	Leviticus	25	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+574026	SP	Leviticus	25	10	JCB[	JCBJH	JCB	CCC	CCCMC		ptca	pl		unknown	verb	H	J			nnnnn	nnnnn	ישביה		-	-	1	0	0	1	nnn	nnn	first		0
+574134	SP	Leviticus	25	16	MKR[	MKR	MKR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	מכר		-	-	0	0	0	0	nnn	nnn	first		0
+574275	SP	Leviticus	25	25	G>L[	G>LW	G>L	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	גאלו		-	-	1	0	0	0	nnn	nnn	first		0
+574290	SP	Leviticus	25	26	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+574308	SP	Leviticus	25	27	<DP[	<DP	<DP	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עדף		-	-	0	1	0	0	nnn	nnn	first		0
+575094	SP	Leviticus	26	17	FN>[	FN>JKM	FN>	CCC	CCCMCC		ptca	pl		unknown	verb	KM	J			nnnnnn	nnnnnn	שנאיכם		-	-	1	0	0	1	nnn	nnn	first		0
+575099	SP	Leviticus	26	17	RDP[	RDP	RDP	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רדף		-	-	0	0	0	0	nnn	nnn	first		0
+575219	SP	Leviticus	26	25	NQM[	NQMT	NQM	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	נקמת		-	-	0	0	0	1	nnn	nnn	first		0
+575336	SP	Leviticus	26	32	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+575416	SP	Leviticus	26	36	RDP[	RDP	RDP	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רדף		-	-	0	0	0	0	nnn	nnn	first		0
+575427	SP	Leviticus	26	37	RDP[	RDP	RDP	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	רדף		-	-	0	1	0	0	nnn	nnn	first		0
+575485	SP	Leviticus	26	41	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+575771	SP	Leviticus	27	8	NDR[	NDR	NDR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נדר		-	-	0	1	0	0	nnn	nnn	first		0
+576317	SP	Numbers	1	3	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576504	SP	Numbers	1	20	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576541	SP	Numbers	1	22	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576573	SP	Numbers	1	24	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576607	SP	Numbers	1	26	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576639	SP	Numbers	1	28	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576671	SP	Numbers	1	30	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576706	SP	Numbers	1	32	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576736	SP	Numbers	1	34	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576767	SP	Numbers	1	36	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576799	SP	Numbers	1	38	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576831	SP	Numbers	1	40	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576863	SP	Numbers	1	42	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+576915	SP	Numbers	1	45	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+578006	SP	Numbers	3	28	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שמרי		-	-	0	0	0	1	nnn	nnn	first		0
+578072	SP	Numbers	3	32	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שמרי		-	-	0	0	0	1	nnn	nnn	first		0
+578168	SP	Numbers	3	38	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שמרי		-	-	0	0	0	1	nnn	nnn	first		0
+578334	SP	Numbers	3	46	<DP[	<DPJM	<DP	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	עדפים		-	-	0	1	0	1	nnn	nnn	first		0
+578369	SP	Numbers	3	48	<DP[	<DPJM	<DP	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	עדפים		-	-	0	1	0	1	nnn	nnn	first		0
+578381	SP	Numbers	3	49	<DP[	<DPJM	<DP	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	עדפים		-	-	0	1	0	1	nnn	nnn	first		0
+579191	SP	Numbers	4	37	<BD[	<BD	<BD	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבד		-	-	0	1	0	0	nnn	nnn	first		0
+579257	SP	Numbers	4	41	<BD[	<BD	<BD	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבד		-	-	0	1	0	0	nnn	nnn	first		0
+579446	SP	Numbers	5	3	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
+579533	SP	Numbers	5	8	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+579851	SP	Numbers	5	21	NPL[	NPLT	NPL	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	נפלת		-	-	0	0	0	1	nnn	nnn	first		0
+580603	SP	Numbers	7	2	<MD[	<MDJM	<MD	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	עמדים		-	-	0	1	0	1	nnn	nnn	first		0
+580812	SP	Numbers	7	13	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+580823	SP	Numbers	7	14	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+580893	SP	Numbers	7	19	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+580904	SP	Numbers	7	20	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+580974	SP	Numbers	7	25	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+580985	SP	Numbers	7	26	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581055	SP	Numbers	7	31	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581066	SP	Numbers	7	32	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581136	SP	Numbers	7	37	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581147	SP	Numbers	7	38	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581217	SP	Numbers	7	43	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581228	SP	Numbers	7	44	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581298	SP	Numbers	7	49	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581309	SP	Numbers	7	50	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581379	SP	Numbers	7	55	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581390	SP	Numbers	7	56	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581460	SP	Numbers	7	61	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581471	SP	Numbers	7	62	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581541	SP	Numbers	7	67	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581552	SP	Numbers	7	68	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581623	SP	Numbers	7	73	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581634	SP	Numbers	7	74	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581705	SP	Numbers	7	79	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+581716	SP	Numbers	7	80	ML>[	ML>H	ML>	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
+581811	SP	Numbers	7	86	ML>[	ML>WT	ML>	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	מלאות		-	-	0	0	0	1	nnn	nnn	first		0
+583031	SP	Numbers	10	9	YRR=[	YRR	YRR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	צרר		-	-	0	1	0	0	nnn	nnn	first		0
+583256	SP	Numbers	10	17	NF>[	NF>J	NF>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
+583295	SP	Numbers	10	21	NF>[	NF>J	NF>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
+583391	SP	Numbers	10	29	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
+583393	SP	Numbers	10	29	NS<[	NS<JM	NS<	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נסעים		-	-	0	0	0	1	nnn	nnn	first		0
+583476	SP	Numbers	10	33	NS<[	NS<	NS<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נסע		-	-	0	0	0	0	nnn	nnn	first		0
+583764	SP	Numbers	11	12	>MN[	>MN	>MN	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	אמן		-	-	0	1	0	0	nnn	nnn	first		0
+583767	SP	Numbers	11	12	JNQ[	JNQ	JNQ	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ינק		-	-	0	1	0	0	nnn	nnn	first		0
+583853	SP	Numbers	11	16	CVR[	CWVRJW	CWVR	CMCC	CMCCMM		ptca	pl		unknown	verb	W	J		W	nnnnnn	nnnnnn	שוטריו		-	-	1	1	0	1	nnnn	nnnn	first	W	1
+584595	SP	Numbers	12	16	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+584677	SP	Numbers	13	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+584838	SP	Numbers	13	18	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+584856	SP	Numbers	13	19	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+584869	SP	Numbers	13	19	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+585063	SP	Numbers	13	28	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+585080	SP	Numbers	13	29	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+585097	SP	Numbers	13	29	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+585103	SP	Numbers	13	29	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+585172	SP	Numbers	13	32	>KL[	>KLT	>KL	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	אכלת		-	-	0	0	0	1	nnn	nnn	first		0
+585173	SP	Numbers	13	32	JCB[	JCBJH	JCB	CCC	CCCMC		ptca	pl		unknown	verb	H	J			nnnnn	nnnnn	ישביה		-	-	1	0	0	1	nnn	nnn	first		0
+585274	SP	Numbers	13	33	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+585328	SP	Numbers	13	33	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+585620	SP	Numbers	14	14	JCB[	JWCB	JWCB	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+585644	SP	Numbers	14	14	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+585651	SP	Numbers	14	14	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+585720	SP	Numbers	14	18	NF>[	NF>	NF>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נשא		-	-	0	0	0	0	nnn	nnn	first		0
+585730	SP	Numbers	14	18	PQD[	PQD	PQD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	פקד		-	-	0	0	0	0	nnn	nnn	first		0
+585856	SP	Numbers	14	25	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+586110	SP	Numbers	14	38	HLK[	HLKJM	HLK	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	הלכים		-	-	0	1	0	1	nnn	nnn	first		0
+586184	SP	Numbers	14	41	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+586258	SP	Numbers	14	45	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+586305	SP	Numbers	15	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+586745	SP	Numbers	15	28	CGG[	CGGT	CGG	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	שגגת		-	-	0	1	0	1	nnn	nnn	first		0
+586843	SP	Numbers	15	33	MY>[	MY>JM	MY>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	מצאים		-	-	0	1	0	1	nnn	nnn	first		0
+588712	SP	Numbers	18	21	<BD[	<BDJM	<BD	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עבדים		-	-	0	0	0	1	nnn	nnn	first		0
+589076	SP	Numbers	19	8	FRP[	FRP	FRP	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	שרף		-	-	0	1	0	0	nnn	nnn	first		0
+589126	SP	Numbers	19	10	>SP[	>SP	>SP	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	אסף		-	-	0	1	0	0	nnn	nnn	first		0
+589154	SP	Numbers	19	11	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+589196	SP	Numbers	19	13	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+589333	SP	Numbers	19	18	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+589424	SP	Numbers	19	21	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				WH	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+589445	SP	Numbers	19	22	NG<[	NG<T	NG<	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	נגעת		-	-	0	1	0	1	nnn	nnn	first		0
+589880	SP	Numbers	20	13	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+589887	SP	Numbers	20	13	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+590250	SP	Numbers	21	1	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+590537	SP	Numbers	21	12	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+590586	SP	Numbers	21	13	JY>[	JWY>	JWY>	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	יוצא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+590820	SP	Numbers	21	22	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+590827	SP	Numbers	21	22	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+590962	SP	Numbers	21	27	MCL=[	MCLJM	MCL	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	משלים		-	-	0	1	0	1	nnn	nnn	first		0
+590993	SP	Numbers	21	29	PLV[	PLVJM	PLV	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	פלטים		-	-	0	0	0	1	nnn	nnn	first		0
+591226	SP	Numbers	22	5	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+591335	SP	Numbers	22	11	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+591553	SP	Numbers	22	22	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+591566	SP	Numbers	22	22	RKB[	RKB	RKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רכב		-	-	0	0	0	0	nnn	nnn	first		0
+592549	SP	Numbers	24	2	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
+592577	SP	Numbers	24	4	NPL[	NPL	NPL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
+592649	SP	Numbers	24	9	>RR[	>RRJK	>RR	CCC	CCCMC		ptca	pl		unknown	verb	K	J		W	nnnnn	nnnnn	ארריך		-	-	1	1	0	1	nnn	nnn	first		0
+592741	SP	Numbers	24	14	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+592777	SP	Numbers	24	16	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+592781	SP	Numbers	24	16	JD<[	JD<	JD<	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	ידע		-	-	0	1	0	0	nnn	nnn	first		0
+592787	SP	Numbers	24	16	NPL[	NPL	NPL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
+592989	SP	Numbers	25	5	CPV[	CPVJ	CPV	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שפטי		-	-	0	0	0	1	nnn	nnn	first		0
+593126	SP	Numbers	25	12	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+593204	SP	Numbers	25	18	YRR=[	YRRJM	YRR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	צררים		-	-	0	0	0	1	nnn	nnn	first		0
+593268	SP	Numbers	26	2	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+593304	SP	Numbers	26	4	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+594314	SP	Numbers	27	7	DBR[	DBRWT	DBR	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	דברות		-	-	0	0	0	1	nnn	nnn	first		0
+594664	SP	Numbers	27	23	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+595888	SP	Numbers	30	3	CB<[	CB<	CB<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שבע		-	-	0	1	0	0	nnn	nnn	first		0
+595901	SP	Numbers	30	3	JY>[	JWY>	JWY>	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	יוצא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+596496	SP	Numbers	31	17	JD<[	JD<T	JD<	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	ידעת		-	-	0	0	0	1	nnn	nnn	first		0
+596526	SP	Numbers	31	19	HRG[	HRG	HRG	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הרג		-	-	0	0	0	0	nnn	nnn	first		0
+596531	SP	Numbers	31	19	NG<[	NG<	NG<	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
+596773	SP	Numbers	31	27	TPF[	TPFJ	TPF	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	תפשי		-	-	0	0	0	1	nnn	nnn	first		0
+596777	SP	Numbers	31	27	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+596796	SP	Numbers	31	28	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+596870	SP	Numbers	31	30	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שמרי		-	-	0	0	0	1	nnn	nnn	first		0
+596944	SP	Numbers	31	36	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+597045	SP	Numbers	31	42	YB>[	YB>JM	YB>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	צבאים		-	-	0	1	0	1	nnn	nnn	first		0
+597112	SP	Numbers	31	47	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שמרי		-	-	0	0	0	1	nnn	nnn	first		0
+597616	SP	Numbers	32	17	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+597741	SP	Numbers	32	24	JY>[	JWY>	JWY>	CMCC	CMCC		ptca	sg		unknown	verb				WH	nnnn	nnnn	יוצא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+597795	SP	Numbers	32	27	DBR[	DBR	DBR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	דבר		-	-	0	0	0	0	nnn	nnn	first		0
+598542	SP	Numbers	33	40	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+598668	SP	Numbers	33	51	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+598679	SP	Numbers	33	52	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+598755	SP	Numbers	33	55	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+598782	SP	Numbers	33	55	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	ישבים		-	-	0	0	0	1	nnn	nnn	first		0
+599338	SP	Numbers	35	6	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599408	SP	Numbers	35	10	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+599427	SP	Numbers	35	11	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599440	SP	Numbers	35	12	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb				M	nnn	nnn	גאל		-	-	0	1	0	0	nnn	nnn	first		0
+599445	SP	Numbers	35	12	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599520	SP	Numbers	35	16	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רצח		-	-	0	0	0	0	nnn	nnn	first		0
+599525	SP	Numbers	35	16	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599537	SP	Numbers	35	17	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רצח		-	-	0	0	0	0	nnn	nnn	first		0
+599542	SP	Numbers	35	17	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599555	SP	Numbers	35	18	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רצח		-	-	0	0	0	0	nnn	nnn	first		0
+599560	SP	Numbers	35	18	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599561	SP	Numbers	35	19	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+599568	SP	Numbers	35	19	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599598	SP	Numbers	35	21	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רצח		-	-	0	0	0	0	nnn	nnn	first		0
+599600	SP	Numbers	35	21	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+599606	SP	Numbers	35	21	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599659	SP	Numbers	35	24	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+599676	SP	Numbers	35	25	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+599711	SP	Numbers	35	26	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599722	SP	Numbers	35	27	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+599733	SP	Numbers	35	27	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+599738	SP	Numbers	35	27	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599762	SP	Numbers	35	28	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599787	SP	Numbers	35	30	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+599803	SP	Numbers	35	31	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רצח		-	-	0	0	0	0	nnn	nnn	first		0
+599841	SP	Numbers	35	33	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	ישבים		-	-	0	0	0	1	nnn	nnn	first		0
+599865	SP	Numbers	35	33	CPK[	CPKW	CPK	CCC	CCCM		ptca	sg		unknown	verb	W				nnnn	nnnn	שפכו		-	-	1	0	0	0	nnn	nnn	first		0
+599874	SP	Numbers	35	34	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	ישבים		-	-	0	0	0	1	nnn	nnn	first		0
+599878	SP	Numbers	35	34	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
+599884	SP	Numbers	35	34	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
+600024	SP	Numbers	36	5	DBR[	DBRJM	DBR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	דברים		-	-	0	0	0	1	nnn	nnn	first		0
+600074	SP	Numbers	36	8	JRC[	JRCT	JRC	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	ירשת		-	-	0	0	0	1	nnn	nnn	first		0
+600469	SP	Deuteronomy	1	15	CVR[	CVRJM	CVR	CCC	CCCMC		ptca	pl		unknown	verb		JM		W	nnnnn	nnnnn	שטרים		-	-	0	1	0	1	nnn	nnn	first		0
+600475	SP	Deuteronomy	1	16	CPV[	CPVJKM	CPV	CCC	CCCMCC		ptca	pl		unknown	verb	KM	J			nnnnnn	nnnnnn	שפטיכם		-	-	1	0	0	1	nnn	nnn	first		0
+600584	SP	Deuteronomy	1	20	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+600695	SP	Deuteronomy	1	25	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+600770	SP	Deuteronomy	1	30	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+600824	SP	Deuteronomy	1	33	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+600923	SP	Deuteronomy	1	38	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עמד		-	-	0	1	0	0	nnn	nnn	first		0
+601043	SP	Deuteronomy	1	44	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+601138	SP	Deuteronomy	2	4	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+601145	SP	Deuteronomy	2	4	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+601275	SP	Deuteronomy	2	8	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+601459	SP	Deuteronomy	2	18	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+601534	SP	Deuteronomy	2	22	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+601558	SP	Deuteronomy	2	23	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+601565	SP	Deuteronomy	2	23	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+601677	SP	Deuteronomy	2	29	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+601684	SP	Deuteronomy	2	29	JCB[	JCBJM	JCB	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+601698	SP	Deuteronomy	2	29	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+602321	SP	Deuteronomy	3	20	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+602367	SP	Deuteronomy	3	21	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+602554	SP	Deuteronomy	4	1	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+602706	SP	Deuteronomy	4	8	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+602792	SP	Deuteronomy	4	11	B<R[	B<R	B<R	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	בער		-	-	0	0	0	0	nnn	nnn	first		0
+602814	SP	Deuteronomy	4	12	CM<[	CM<JM	CM<	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	שמעים		-	-	0	0	0	1	nnn	nnn	first		0
+602861	SP	Deuteronomy	4	14	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+602915	SP	Deuteronomy	4	18	RMF[	RMF	RMF	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רמש		-	-	0	0	0	0	nnn	nnn	first		0
+603018	SP	Deuteronomy	4	21	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+603029	SP	Deuteronomy	4	22	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+603035	SP	Deuteronomy	4	22	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+603070	SP	Deuteronomy	4	24	>KL[	>KLH	>KL	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	אכלה		-	-	0	0	0	1	nnn	nnn	first		0
+603122	SP	Deuteronomy	4	26	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+603479	SP	Deuteronomy	4	40	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+603500	SP	Deuteronomy	4	42	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+603511	SP	Deuteronomy	4	42	FN>[	FN>	FN>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שנא		-	-	0	0	0	0	nnn	nnn	first		0
+603684	SP	Deuteronomy	5	1	DBR[	DBR	DBR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	דבר		-	-	0	0	0	0	nnn	nnn	first		0
+603736	SP	Deuteronomy	5	5	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+603820	SP	Deuteronomy	5	9	PQD[	PQD	PQD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	פקד		-	-	0	0	0	0	nnn	nnn	first		0
+603831	SP	Deuteronomy	5	9	FN>[	FN>J	FN>	CCC	CCCM		ptca	pl		unknown	verb		J		L	nnnn	nnnn	שנאי		-	-	0	1	0	1	nnn	nnn	first		0
+603838	SP	Deuteronomy	5	10	>HB[	>HBJ	>HB	CCC	CCCM		ptca	pl		unknown	verb		J		L	nnnn	nnnn	אהבי		-	-	0	1	0	1	nnn	nnn	first		0
+603841	SP	Deuteronomy	5	10	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J		WL	nnnn	nnnn	שמרי		-	-	0	1	0	1	nnn	nnn	first		0
+603975	SP	Deuteronomy	5	16	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+604126	SP	Deuteronomy	5	21	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+604185	SP	Deuteronomy	5	23	B<R[	B<R	B<R	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	בער		-	-	0	0	0	0	nnn	nnn	first		0
+604240	SP	Deuteronomy	5	25	JSP[	JSPJM	JSP	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	יספים		-	-	0	0	0	1	nnn	nnn	first		0
+604379	SP	Deuteronomy	5	31	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+604442	SP	Deuteronomy	6	1	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+604608	SP	Deuteronomy	6	11	ML>[	ML>JM	ML>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+605079	SP	Deuteronomy	7	9	CMR[	CMR	CMR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
+605086	SP	Deuteronomy	7	9	>HB[	>HBJW	>HB	CCC	CCCMM		ptca	pl		unknown	verb	W	J		L	nnnnn	nnnnn	אהביו		-	-	1	1	0	1	nnn	nnn	first		0
+605089	SP	Deuteronomy	7	9	CMR[	CMRJ	CMR	CCC	CCCM		ptca	pl		unknown	verb		J		WL	nnnn	nnnn	שמרי		-	-	0	1	0	1	nnn	nnn	first		0
+605097	SP	Deuteronomy	7	10	FN>[	FN>JW	FN>	CCC	CCCMM		ptca	pl		unknown	verb	W	J		L	nnnnn	nnnnn	שנאיו		-	-	1	1	0	1	nnn	nnn	first		0
+605105	SP	Deuteronomy	7	10	FN>[	FN>JW	FN>	CCC	CCCMM		ptca	pl		unknown	verb	W	J		L	nnnnn	nnnnn	שנאיו		-	-	1	1	0	1	nnn	nnn	first		0
+605228	SP	Deuteronomy	7	15	FN>[	FN>JK	FN>	CCC	CCCMC		ptca	pl		unknown	verb	K	J			nnnnn	nnnnn	שנאיך		-	-	1	0	0	1	nnn	nnn	first		0
+605238	SP	Deuteronomy	7	16	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+605597	SP	Deuteronomy	8	7	JY>[	JY>JM	JY>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	יצאים		-	-	0	0	0	1	nnn	nnn	first		0
+605782	SP	Deuteronomy	8	18	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נתן		-	-	0	1	0	0	nnn	nnn	first		0
+605852	SP	Deuteronomy	9	1	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+605900	SP	Deuteronomy	9	3	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבר		-	-	0	1	0	0	nnn	nnn	first		0
+605904	SP	Deuteronomy	9	3	>KL[	>KLH	>KL	CCC	CCCC		ptca	sg		unknown	verb		H			nnnn	nnnn	אכלה		-	-	0	0	0	1	nnn	nnn	first		0
+606006	SP	Deuteronomy	9	6	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+606225	SP	Deuteronomy	9	15	B<R[	B<R	B<R	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	בער		-	-	0	0	0	0	nnn	nnn	first		0
+606381	SP	Deuteronomy	9	21	JRD[	JWRD	JWRD	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	יורד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+606867	SP	Deuteronomy	10	12	C>L[	C>L	C>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שאל		-	-	0	0	0	0	nnn	nnn	first		0
+607000	SP	Deuteronomy	10	18	>HB[	>HB	>HB	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	אהב		-	-	0	1	0	0	nnn	nnn	first		0
+607317	SP	Deuteronomy	11	11	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+607335	SP	Deuteronomy	11	12	DRC[	DRC	DRC	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	דרש		-	-	0	0	0	0	nnn	nnn	first		0
+607450	SP	Deuteronomy	11	17	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+607634	SP	Deuteronomy	11	26	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+607732	SP	Deuteronomy	11	30	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
+607745	SP	Deuteronomy	11	31	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+607759	SP	Deuteronomy	11	31	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+607782	SP	Deuteronomy	11	32	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+607829	SP	Deuteronomy	12	2	JRC[	JRCJM	JRC	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	ירשים		-	-	0	0	0	1	nnn	nnn	first		0
+607974	SP	Deuteronomy	12	9	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+608525	SP	Deuteronomy	13	2	XLM[	XLM	XLM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חלם		-	-	0	0	0	0	nnn	nnn	first		0
+608579	SP	Deuteronomy	13	4	>HB[	>HBJM	>HB	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	אהבים		-	-	0	0	0	1	nnn	nnn	first		0
+608618	SP	Deuteronomy	13	6	XLM[	XLM	XLM	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	חלם		-	-	0	1	0	0	nnn	nnn	first		0
+608802	SP	Deuteronomy	13	13	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+608818	SP	Deuteronomy	13	14	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+608853	SP	Deuteronomy	13	16	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+609036	SP	Deuteronomy	14	6	CS<[	CS<T	CS<	CCC	CCCC		ptca	sg		unknown	verb		T		W	nnnn	nnnn	שסעת		-	-	0	1	0	1	nnn	nnn	first		0
+609286	SP	Deuteronomy	14	22	JY>[	JWY>	JWY>	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	יוצא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+609542	SP	Deuteronomy	15	4	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+609610	SP	Deuteronomy	15	7	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+610066	SP	Deuteronomy	16	5	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+610341	SP	Deuteronomy	16	18	CPV[	CPVJM	CPV	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	שפטים		-	-	0	0	0	1	nnn	nnn	first		0
+610343	SP	Deuteronomy	16	18	CVR[	CVRJM	CVR	CCC	CCCMC		ptca	pl		unknown	verb		JM		W	nnnnn	nnnnn	שטרים		-	-	0	1	0	1	nnn	nnn	first		0
+610352	SP	Deuteronomy	16	18	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+610397	SP	Deuteronomy	16	20	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+610451	SP	Deuteronomy	17	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+610635	SP	Deuteronomy	17	9	CPV[	CWPV	CWPV	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	שופט		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+610718	SP	Deuteronomy	17	12	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עמד		-	-	0	1	0	0	nnn	nnn	first		0
+610728	SP	Deuteronomy	17	12	CPV[	CWPV	CWPV	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	שופט		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+610760	SP	Deuteronomy	17	14	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+610982	SP	Deuteronomy	18	3	ZBX[	ZBXJ	ZBX	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	זבחי		-	-	0	0	0	1	nnn	nnn	first		0
+611078	SP	Deuteronomy	18	7	<MD[	<MDJM	<MD	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	עמדים		-	-	0	1	0	1	nnn	nnn	first		0
+611103	SP	Deuteronomy	18	9	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+611124	SP	Deuteronomy	18	10	QSM[	QSM	QSM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	קסם		-	-	0	0	0	0	nnn	nnn	first		0
+611130	SP	Deuteronomy	18	11	XBR[	XBR	XBR	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חבר		-	-	0	0	0	0	nnn	nnn	first		0
+611132	SP	Deuteronomy	18	11	C>L[	C>L	C>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שאל		-	-	0	0	0	0	nnn	nnn	first		0
+611137	SP	Deuteronomy	18	11	DRC[	DRC	DRC	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	דרש		-	-	0	1	0	0	nnn	nnn	first		0
+611172	SP	Deuteronomy	18	14	JRC[	JRCJM	JRC	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	ירשים		-	-	0	0	0	1	nnn	nnn	first		0
+611180	SP	Deuteronomy	18	14	QSM[	QSMJM	QSM	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	קסמים		-	-	0	1	0	1	nnn	nnn	first		0
+611363	SP	Deuteronomy	19	1	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+611386	SP	Deuteronomy	19	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+611409	SP	Deuteronomy	19	3	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רצח		-	-	0	0	0	0	nnn	nnn	first		0
+611414	SP	Deuteronomy	19	4	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+611430	SP	Deuteronomy	19	4	FN>[	FN>	FN>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שנא		-	-	0	0	0	0	nnn	nnn	first		0
+611480	SP	Deuteronomy	19	6	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+611485	SP	Deuteronomy	19	6	RYX[	RYX	RYX	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	רצח		-	-	0	1	0	0	nnn	nnn	first		0
+611505	SP	Deuteronomy	19	6	FN>[	FN>	FN>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שנא		-	-	0	0	0	0	nnn	nnn	first		0
+611595	SP	Deuteronomy	19	10	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+611605	SP	Deuteronomy	19	11	FN>[	FN>	FN>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שנא		-	-	0	0	0	0	nnn	nnn	first		0
+611642	SP	Deuteronomy	19	12	G>L[	G>L	G>L	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
+611678	SP	Deuteronomy	19	14	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+611740	SP	Deuteronomy	19	17	CPV[	CPVJM	CPV	CCC	CCCMC		ptca	pl		unknown	verb		JM		WH	nnnnn	nnnnn	שפטים		-	-	0	1	0	1	nnn	nnn	first		0
+611750	SP	Deuteronomy	19	18	CPV[	CPVJM	CPV	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	שפטים		-	-	0	1	0	1	nnn	nnn	first		0
+611890	SP	Deuteronomy	20	4	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+611904	SP	Deuteronomy	20	5	CVR[	CVRJM	CVR	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	שטרים		-	-	0	1	0	1	nnn	nnn	first		0
+611982	SP	Deuteronomy	20	8	CVR[	CVRJM	CVR	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	שטרים		-	-	0	1	0	1	nnn	nnn	first		0
+612017	SP	Deuteronomy	20	9	CVR[	CVRJM	CVR	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	שטרים		-	-	0	1	0	1	nnn	nnn	first		0
+612149	SP	Deuteronomy	20	16	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+612275	SP	Deuteronomy	21	1	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+612279	SP	Deuteronomy	21	1	NPL[	NPL	NPL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
+612290	SP	Deuteronomy	21	2	CVR[	CVRJK	CVR	CCC	CCCMC		ptca	pl		unknown	verb	K	J		W	nnnnn	nnnnn	שטריך		-	-	1	1	0	1	nnn	nnn	first		0
+612640	SP	Deuteronomy	21	18	SRR[	SWRR	SWRR	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+612644	SP	Deuteronomy	21	18	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+612681	SP	Deuteronomy	21	20	SRR[	SWRR	SWRR	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+612685	SP	Deuteronomy	21	20	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+612688	SP	Deuteronomy	21	20	ZLL[	ZWLL	ZWLL	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	זולל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+612752	SP	Deuteronomy	21	23	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+612838	SP	Deuteronomy	22	4	NPL[	NPLJM	NPL	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נפלים		-	-	0	0	0	1	nnn	nnn	first		0
+612887	SP	Deuteronomy	22	6	RBY[	RBYT	RBY	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	רבצת		-	-	0	0	0	1	nnn	nnn	first		0
+612937	SP	Deuteronomy	22	8	NPL[	NPL	NPL	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	נפל		-	-	0	1	0	0	nnn	nnn	first		0
+613170	SP	Deuteronomy	22	22	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+613182	SP	Deuteronomy	22	22	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שכב		-	-	0	1	0	0	nnn	nnn	first		0
+613342	SP	Deuteronomy	22	29	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	שכב		-	-	0	1	0	0	nnn	nnn	first		0
+613905	SP	Deuteronomy	24	4	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+613944	SP	Deuteronomy	24	6	XBL[	XBL	XBL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חבל		-	-	0	0	0	0	nnn	nnn	first		0
+613948	SP	Deuteronomy	24	7	GNB[	GNB	GNB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	גנב		-	-	0	0	0	0	nnn	nnn	first		0
+614034	SP	Deuteronomy	24	11	NC>[	NC>	NC>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נשא		-	-	0	0	0	0	nnn	nnn	first		0
+614109	SP	Deuteronomy	24	15	NF>[	NF>	NF>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נשא		-	-	0	0	0	0	nnn	nnn	first		0
+614277	SP	Deuteronomy	25	2	CPV[	CWPV	CWPV	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	שופט		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+614526	SP	Deuteronomy	25	15	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+614587	SP	Deuteronomy	25	19	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+614612	SP	Deuteronomy	26	1	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+614634	SP	Deuteronomy	26	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+614711	SP	Deuteronomy	26	5	>BD[	>BD	>BD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אבד		-	-	0	0	0	0	nnn	nnn	first		0
+615123	SP	Deuteronomy	27	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+615156	SP	Deuteronomy	27	3	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+615430	SP	Deuteronomy	27	20	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+615445	SP	Deuteronomy	27	21	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+615456	SP	Deuteronomy	27	22	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+615471	SP	Deuteronomy	27	23	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+615473	SP	Deuteronomy	27	23	XTN[	XTNTW	XTN	CCC	CCCCM		ptca	sg		unknown	verb	W	T			nnnnn	nnnnn	חתנתו		-	-	1	0	0	1	nnn	nnn	first		0
+615492	SP	Deuteronomy	27	25	LQX[	LQX	LQX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	לקח		-	-	0	0	0	0	nnn	nnn	first		0
+615649	SP	Deuteronomy	28	8	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+616478	SP	Deuteronomy	28	52	BVX[	BVX	BVX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	בטח		-	-	0	0	0	0	nnn	nnn	first		0
+616601	SP	Deuteronomy	28	57	JY>[	JY>T	JY>	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	יצאת		-	-	0	1	0	1	nnn	nnn	first		0
+617098	SP	Deuteronomy	29	9	CVR[	CVRJKM	CVR	CCC	CCCMCC		ptca	pl		unknown	verb	KM	J		W	nnnnnn	nnnnnn	שטריכם		-	-	1	1	0	1	nnn	nnn	first		0
+617112	SP	Deuteronomy	29	10	XVB[	XVB	XVB	CCC	CCC		ptca	sg		unknown	verb				M	nnn	nnn	חטב		-	-	0	1	0	0	nnn	nnn	first		0
+617116	SP	Deuteronomy	29	10	C>B[	C>B	C>B	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שאב		-	-	0	0	0	0	nnn	nnn	first		0
+617130	SP	Deuteronomy	29	11	KRT[	KRT	KRT	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	כרת		-	-	0	0	0	0	nnn	nnn	first		0
+617172	SP	Deuteronomy	29	13	KRT[	KRT	KRT	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	כרת		-	-	0	0	0	0	nnn	nnn	first		0
+617190	SP	Deuteronomy	29	14	<MD[	<MD	<MD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+617711	SP	Deuteronomy	30	7	FN>[	FN>JK	FN>	CCC	CCCMC		ptca	pl		unknown	verb	K	J			nnnnn	nnnnn	שנאיך		-	-	1	0	0	1	nnn	nnn	first		0
+617961	SP	Deuteronomy	30	18	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+618091	SP	Deuteronomy	31	3	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבר		-	-	0	1	0	0	nnn	nnn	first		0
+618110	SP	Deuteronomy	31	3	<BR[	<BR	<BR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	עבר		-	-	0	1	0	0	nnn	nnn	first		0
+618168	SP	Deuteronomy	31	6	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+618217	SP	Deuteronomy	31	8	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
+618249	SP	Deuteronomy	31	9	NF>[	NF>JM	NF>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	נשאים		-	-	0	1	0	1	nnn	nnn	first		0
+618366	SP	Deuteronomy	31	13	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+618426	SP	Deuteronomy	31	16	CKB[	CKB	CKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+618697	SP	Deuteronomy	31	25	NF>[	NF>J	NF>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
+618758	SP	Deuteronomy	31	28	CVR[	CVRJKM	CVR	CCC	CCCMCC		ptca	pl		unknown	verb	KM	J		W	nnnnnn	nnnnnn	שטריכם		-	-	1	1	0	1	nnn	nnn	first		0
+619167	SP	Deuteronomy	32	24	ZXL[	ZXLJ	ZXL	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	זחלי		-	-	0	0	0	1	nnn	nnn	first		0
+619212	SP	Deuteronomy	32	28	>BD[	>BD	>BD	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	אבד		-	-	0	0	0	0	nnn	nnn	first		0
+619510	SP	Deuteronomy	32	47	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
+619554	SP	Deuteronomy	32	49	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+619624	SP	Deuteronomy	32	52	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+619669	SP	Deuteronomy	33	3	XBB[	XWBB	XWBB	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	חובב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+619756	SP	Deuteronomy	33	9	>MR[	>MR	>MR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	first		0
+619821	SP	Deuteronomy	33	12	XPP[	XWPP	XWPP	CMCC	CMCC		ptca	sg		unknown	verb				W	nnnn	nnnn	חופף		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+619845	SP	Deuteronomy	33	13	RBY[	RBYT	RBY	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	רבצת		-	-	0	0	0	1	nnn	nnn	first		0
+619875	SP	Deuteronomy	33	16	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
+619992	SP	Deuteronomy	33	23	ML>[	ML>	ML>	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	מלא		-	-	0	1	0	0	nnn	nnn	first		0
+620012	SP	Deuteronomy	33	24	VBL[	VBL	VBL	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	טבל		-	-	0	1	0	0	nnn	nnn	first		0
+620028	SP	Deuteronomy	33	26	RKB[	RKB	RKB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רכב		-	-	0	0	0	0	nnn	nnn	first		0
 1892841	1Q5	Deuteronomy	29	13	KRT[	KRT	KRT	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	כרת		1	f12_13i	0	0	0	0	nnn	nnn	first		0
 1893141	1Q5	Deuteronomy	31	3	<BR[	<WBR	<WBR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר		6	f13ii	0	0	0	0	nnnn	nnnn	first	W	1
 1893286	1Q5	Deuteronomy	31	9	NF>[	NF>JM	NF>	CCC	CCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnrrr	nnnnn	נשאים		3	f14	0	1	0	1	nnr	nnn	first		0

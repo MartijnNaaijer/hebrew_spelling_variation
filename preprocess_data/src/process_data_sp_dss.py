@@ -39,9 +39,13 @@ class SpDssDataProcessor:
         if self.relevant_data == 'subs_adjv':
             is_relevant = word_obj.sp in ['subs', 'adjv']
         elif self.relevant_data == 'ptc_qal':
-            is_relevant = word_obj.sp == 'verb' and \
-                          word_obj.vt in ['ptca', 'ptcp'] and \
-                          word_obj.vs == 'qal'
+            if self.sub_corpus == 'dss':
+                is_relevant = word_obj.sp == 'verb' and \
+                              word_obj.vt in ['ptca', 'ptcp'] and \
+                              word_obj.vs == 'qal'
+            elif self.sub_corpus == 'sp': # differs from dss because sp does not have vs yet.
+                is_relevant = word_obj.sp == 'verb' and \
+                              word_obj.vt in ['ptca', 'ptcp']
         elif self.relevant_data == 'infc_qal':
             is_relevant = word_obj.sp == 'verb' and \
                           word_obj.vt == 'infc' and \

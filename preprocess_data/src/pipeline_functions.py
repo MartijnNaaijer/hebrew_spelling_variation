@@ -221,18 +221,30 @@ def get_participle_qal_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
     mt_ptc_qal_df = basic_mt_data_selector.select_data()
 
+    ###################################################################################################
     matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='ptc_qal')
-    #matres_parser_dss.matres_df.to_csv(
-    #    'C:/Users/geitb/Kopenhagen/KopenhagenResearch/scripts_research/hebrew_spelling_variation/data/test_ptc_qal_dss.csv',
-    #    sep='\t', index=False)
+
     dss_ptc_df = matres_parser_dss.matres_df
     ptc_pattern_maker = PtcPatternMaker(dss_ptc_df)
     dss_ptc_qal_df = ptc_pattern_maker.data
-    #dss_ptc_qal_df.to_csv(
-    #    'C:/Users/geitb/Kopenhagen/KopenhagenResearch/scripts_research/hebrew_spelling_variation/data/test_ptc_qal_dss2.csv',
-    #    sep='\t', index=False)
-    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, dss_ptc_qal_df])
+
+    ########################################################################################
+
+    matres_parser_sp = SpDssDataProcessor(corpus, 'sp',
+                                           relevant_data='ptc_qal')
+
+    sp_ptc_df = matres_parser_sp.matres_df
+    ptc_pattern_maker = PtcPatternMaker(sp_ptc_df)
+    sp_ptc_qal_df = ptc_pattern_maker.data
+    sp_ptc_qal_df['tf_id'] = sp_ptc_qal_df['tf_id'] + 100000
+
+    # Select qal cases
+    qal_cases = [stem == g_cons[:len(stem)] for stem, g_cons in zip(sp_ptc_qal_df.stem, sp_ptc_qal_df.g_cons)]
+    sp_ptc_qal_df = sp_ptc_qal_df[qal_cases]
+
+    ########################################################################################
+    mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, dss_ptc_qal_df, sp_ptc_qal_df])
     mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
 
     useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
