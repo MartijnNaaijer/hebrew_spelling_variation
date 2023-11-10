@@ -93,4 +93,5 @@ AD_HOC_REMOVALS = {
     519944:	"SP	Deuteronomy	33	20	LBJ>/	LBJH	LBJ",
     493495:	"SP	Numbers	26	17	>R>LJ/	>RWLJ	>RWL: consonantal > has dropped",
     491737:	"SP	Numbers	22	30	<WD/	HWDK	HWD: g_cons has no <",
+    246733: "MT Jeremiah 24 1 DWD=/ DWD>J DWD>: exceptional case with > at end",
     }
