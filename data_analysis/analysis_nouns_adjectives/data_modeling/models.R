@@ -47,20 +47,21 @@ formula_dss_mt <- has_vowel_letter ~
 #https://mc-stan.org/misc/warnings.html#tail-ess
 
 
-fit_brm_model <- function(df, formula) {
-  brm_model <- brm(formula = formula,
-                             prior = set_prior("normal(0, 1)", class = "Intercept") +
-                               set_prior("normal(0,1)", class = "b"),
-                             data = df, 
-                             family = bernoulli(link = "logit"),
-                             warmup = 4000, 
-                             iter = 8000, 
-                             chains = 4, 
-                             cores=4,
-                             control = list(adapt_delta = 0.95),
-                             seed = 123)
+fit_brm_model <- function(data, formula, warmup, iter, adapt_delta) {
   
-  return(brm_model)
+  trace <- brm(formula = formula,
+               prior = set_prior("normal(0, 5)", class = "Intercept") +
+                 set_prior("normal(0, 5)", class = "b"),
+               data = data, 
+               family = bernoulli(link = "logit"),
+               warmup = warmup, 
+               iter = iter, 
+               chains = 4, 
+               cores=4,
+               control = list(adapt_delta = adapt_delta),
+               seed = 123)
+  
+  return(trace)
 }
 
 
