@@ -139,6 +139,7 @@ select_lex_type_data_with_variation <- function(df) {
   }
   
   df_var <- do.call('rbind', variation_lex_type_list)
+  dat_var <- droplevels(mt_var)
   
   return(df_var)
 }

@@ -8,12 +8,8 @@ MODEL_NAME <- 'bayes_model_mt_sp_dss_affix_effect.rds'
 
 
 main_preparation <- function() {
-  
   dat <- read.csv(file.path('../data', DATASET), sep = '\t')
-  print(table(dat$scroll))
   dat_prepared <- prepare_data_pipeline(dat, 'scroll', 'NO')
-  
-  
   return(dat_prepared)
 }
 
