@@ -37,6 +37,13 @@ formula_dss_mt <- has_vowel_letter ~
                   has_nme*type*qsp + 
                   has_prefix*type*qsp + 
                   (has_prs*type + has_nme*type + has_prefix*type | scroll/lex)
+
+formula_mt_sp_dss <- has_vowel_letter ~ 
+  has_suffix*type2*qsp_sp +
+  has_prefix*type2*qsp_sp + 
+  (has_suffix + has_prefix | scr_book2) + 
+  (has_suffix + has_prefix | lex_type)
+
 # Warning messages:
 #f
 # 1: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.

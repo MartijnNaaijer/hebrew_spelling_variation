@@ -1,24 +1,36 @@
 source(file.path('./analysis_nouns_adjectives/data_modeling', 'data_preparation.R'))
-#source(file.path(scripts_folder, 'models.R'))
+source(file.path('./analysis_nouns_adjectives/data_modeling', 'models.R'))
 
 
 DATASET<- 'nouns_adjectives.csv'
 MODEL_FOLDER <- './analysis_nouns_adjectives/output/models'
-MODEL_NAME <- 'bayes_model_mt_var7.rds'
+MODEL_NAME <- 'bayes_model_mt_sp_dss_affix_effect.rds'
 
-main <- function() {
+
+main_preparation <- function() {
   
   dat <- read.csv(file.path('../data', DATASET), sep = '\t')
   print(table(dat$scroll))
   dat_prepared <- prepare_data_pipeline(dat, 'scroll', 'NO')
-  #brm_model <- fit_brm_model(dat_prepared, formula7)
-  #save_model(brm_model, MODEL_FOLDER, model_name)
-  print(dim(dat_prepared))
+  
   
   return(dat_prepared)
 }
 
-dat <- main()
-dim(dat)
-str(dat)
-table(dat$scr_book2)
+
+model_data <- function(df_prepared, formula, warmup, iter, adapt_delta) {
+  
+  brm_model <- fit_brm_model(df_prepared, 
+                             formula, 
+                             warmup, iter, adapt_delta)
+  save_model(brm_model, MODEL_FOLDER, model_name)
+}
+
+
+dat <- main_preparation()
+print(dim(dat))
+print(table(dat$qsp, dat$qsp_sp))
+model_data(dat, 
+           formula_mt_sp_dss, 
+           6000, 12000, 0.95)
+
