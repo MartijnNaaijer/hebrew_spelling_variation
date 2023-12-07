@@ -19,14 +19,14 @@ model_data <- function(df_prepared, formula, warmup, iter, adapt_delta) {
   brm_model <- fit_brm_model(df_prepared, 
                              formula, 
                              warmup, iter, adapt_delta)
-  save_model(brm_model, MODEL_FOLDER, model_name)
+  save_model(brm_model, MODEL_FOLDER, MODEL_NAME)
 }
 
 
 dat <- main_preparation()
 print(dim(dat))
-print(table(dat$qsp, dat$qsp_sp))
+
 model_data(dat, 
            formula_mt_sp_dss, 
            6000, 12000, 0.95)
-
+summary(brm_model)
