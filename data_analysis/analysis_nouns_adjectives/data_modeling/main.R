@@ -29,4 +29,4 @@ print(dim(dat))
 model_data(dat, 
            formula_mt_sp_dss, 
            6000, 12000, 0.95)
-summary(brm_model)
+
