@@ -395,7 +395,12 @@ def get_particles(corpus, mt):
     matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='particles')
 
-    particles_df = pd.concat([mt_particles, matres_parser_dss.matres_df])
+    matres_parser_sp = SpDssDataProcessor(corpus, 'sp',
+                                          relevant_data='particles')
+
+    particles_df = pd.concat([mt_particles,
+                              matres_parser_sp.matres_df,
+                              matres_parser_dss.matres_df])
     particles_df = particles_df.sort_values(by=['tf_id'])
 
     particles_df['other_vowel_ending'] = ''
@@ -416,8 +421,6 @@ def get_particles(corpus, mt):
 
     invalid_data_remover = InvalidDataRemover(particles_df)
     particles_df = invalid_data_remover.data_complete_syllables
-
-    # Correct in data: 1957484 is lex L, rest is good, remove deviating cases (L, LH, LW, etc in analysis)
 
     return particles_df
 

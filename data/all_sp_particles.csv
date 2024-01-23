@@ -1,0 +1,2508 @@
+tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix	rec_signs	cor_signs	heb_g_cons
+472241	SP	Leviticus	22	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472248	SP	Leviticus	22	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505895	SP	Deuteronomy	9	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494254	SP	Numbers	27	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494267	SP	Numbers	27	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494274	SP	Numbers	27	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514077	SP	Deuteronomy	24	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471706	SP	Leviticus	21	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+423801	SP	Genesis	33	8	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+470656	SP	Leviticus	19	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+520205	SP	Deuteronomy	34	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+520209	SP	Deuteronomy	34	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513449	SP	Deuteronomy	23	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513467	SP	Deuteronomy	23	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439028	SP	Exodus	9	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439075	SP	Exodus	9	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+496509	SP	Numbers	31	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516056	SP	Deuteronomy	28	29	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+414660	SP	Genesis	19	33	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+511115	SP	Deuteronomy	18	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454853	SP	Exodus	34	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490970	SP	Numbers	21	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465816	SP	Leviticus	13	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426128	SP	Genesis	37	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473029	SP	Leviticus	23	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509662	SP	Deuteronomy	15	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+434437	SP	Exodus	1	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438820	SP	Exodus	8	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+408246	SP	Genesis	6	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416683	SP	Genesis	24	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492338	SP	Numbers	23	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492344	SP	Numbers	23	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+499798	SP	Numbers	35	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+499809	SP	Numbers	35	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472301	SP	Leviticus	22	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472324	SP	Leviticus	22	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508964	SP	Deuteronomy	14	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508967	SP	Deuteronomy	14	1	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+432062	SP	Genesis	46	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428603	SP	Genesis	41	36	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510441	SP	Deuteronomy	17	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507943	SP	Deuteronomy	12	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491387	SP	Numbers	22	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443398	SP	Exodus	15	11	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+443403	SP	Exodus	15	11	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+514150	SP	Deuteronomy	24	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433450	SP	Genesis	49	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433454	SP	Genesis	49	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+441887	SP	Exodus	12	39	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+441888	SP	Exodus	12	39	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441890	SP	Exodus	12	39	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+441894	SP	Exodus	12	39	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+441901	SP	Exodus	12	39	L>	L>	L>				NA			NA	nega					nn	nn	לא
+497862	SP	Numbers	32	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470717	SP	Leviticus	19	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+444232	SP	Exodus	16	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+444240	SP	Exodus	16	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465362	SP	Leviticus	11	39	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+429804	SP	Genesis	43	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429806	SP	Genesis	43	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429811	SP	Genesis	43	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502484	SP	Deuteronomy	3	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+502485	SP	Deuteronomy	3	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489181	SP	Numbers	19	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489192	SP	Numbers	19	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512608	SP	Deuteronomy	21	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512626	SP	Deuteronomy	21	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420349	SP	Genesis	28	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516143	SP	Deuteronomy	28	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454961	SP	Exodus	34	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+451453	SP	Exodus	28	35	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+423613	SP	Genesis	32	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473096	SP	Leviticus	23	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509753	SP	Deuteronomy	15	13	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+509758	SP	Deuteronomy	15	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474665	SP	Leviticus	25	47	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+507013	SP	Deuteronomy	10	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513358	SP	Deuteronomy	22	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438909	SP	Exodus	8	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+432548	SP	Genesis	47	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+432552	SP	Genesis	47	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432563	SP	Genesis	47	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492410	SP	Numbers	23	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492415	SP	Numbers	23	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+488906	SP	Numbers	18	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+419049	SP	Genesis	26	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464388	SP	Leviticus	10	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464392	SP	Leviticus	10	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+407490	SP	Genesis	4	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+510562	SP	Deuteronomy	17	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+483003	SP	Numbers	10	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+435318	SP	Exodus	3	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508060	SP	Deuteronomy	12	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491438	SP	Numbers	22	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+441989	SP	Exodus	12	43	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490131	SP	Numbers	20	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490132	SP	Numbers	20	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470779	SP	Leviticus	19	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470785	SP	Leviticus	19	16	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+512847	SP	Deuteronomy	22	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512854	SP	Deuteronomy	22	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+512859	SP	Deuteronomy	22	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+411534	SP	Genesis	13	9	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+436175	SP	Exodus	4	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429899	SP	Genesis	43	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412751	SP	Genesis	16	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+421939	SP	Genesis	30	42	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447610	SP	Exodus	22	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447623	SP	Exodus	22	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+437085	SP	Exodus	6	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+459389	SP	Leviticus	1	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507743	SP	Deuteronomy	11	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473157	SP	Leviticus	23	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473162	SP	Leviticus	23	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+432652	SP	Genesis	47	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+432654	SP	Genesis	47	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432671	SP	Genesis	47	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+483926	SP	Numbers	11	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+483931	SP	Numbers	11	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+483934	SP	Numbers	11	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+483938	SP	Numbers	11	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+483942	SP	Numbers	11	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+422457	SP	Genesis	31	27	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+461585	SP	Leviticus	5	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+461588	SP	Leviticus	5	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+421085	SP	Genesis	29	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428734	SP	Genesis	41	44	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446572	SP	Exodus	20	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508132	SP	Deuteronomy	12	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505367	SP	Deuteronomy	7	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+433561	SP	Genesis	49	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433567	SP	Genesis	49	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470843	SP	Leviticus	19	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470857	SP	Leviticus	19	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470861	SP	Leviticus	19	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470867	SP	Leviticus	19	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470869	SP	Leviticus	19	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470870	SP	Leviticus	19	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512939	SP	Deuteronomy	22	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489384	SP	Numbers	19	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+489396	SP	Numbers	19	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+489403	SP	Numbers	19	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+437997	SP	Exodus	7	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437998	SP	Exodus	7	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473768	SP	Leviticus	24	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439906	SP	Exodus	10	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518517	SP	Deuteronomy	31	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431157	SP	Genesis	45	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443921	SP	Exodus	16	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+502077	SP	Deuteronomy	3	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+502093	SP	Deuteronomy	3	11	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+512267	SP	Deuteronomy	21	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512282	SP	Deuteronomy	21	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512284	SP	Deuteronomy	21	1	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+474800	SP	Leviticus	25	55	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519808	SP	Deuteronomy	33	11	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+484036	SP	Numbers	11	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508554	SP	Deuteronomy	13	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508570	SP	Deuteronomy	13	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461639	SP	Leviticus	5	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508215	SP	Deuteronomy	12	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508229	SP	Deuteronomy	12	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505433	SP	Deuteronomy	7	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+505447	SP	Deuteronomy	7	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512980	SP	Deuteronomy	22	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+408015	SP	Genesis	6	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492135	SP	Numbers	23	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492152	SP	Numbers	23	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422079	SP	Genesis	31	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+514494	SP	Deuteronomy	25	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426849	SP	Genesis	38	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519237	SP	Deuteronomy	32	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+469899	SP	Leviticus	17	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513936	SP	Deuteronomy	24	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513941	SP	Deuteronomy	24	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440106	SP	Exodus	10	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+497619	SP	Numbers	32	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512362	SP	Deuteronomy	21	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437460	SP	Exodus	7	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+442998	SP	Exodus	14	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+421526	SP	Genesis	30	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447435	SP	Exodus	21	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447443	SP	Exodus	21	36	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+425984	SP	Genesis	37	13	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+501830	SP	Deuteronomy	2	36	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448437	SP	Exodus	23	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470366	SP	Leviticus	18	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474467	SP	Leviticus	25	35	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+513062	SP	Deuteronomy	22	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492222	SP	Numbers	23	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514567	SP	Deuteronomy	25	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+519276	SP	Deuteronomy	32	34	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+469993	SP	Leviticus	17	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470011	SP	Leviticus	17	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+407278	SP	Genesis	4	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+407283	SP	Genesis	4	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503184	SP	Deuteronomy	4	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+476157	SP	Leviticus	27	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476160	SP	Leviticus	27	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+487907	SP	Numbers	17	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440249	SP	Exodus	10	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511712	SP	Deuteronomy	19	16	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+406666	SP	Genesis	3	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430527	SP	Genesis	44	5	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+489692	SP	Numbers	20	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489702	SP	Numbers	20	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470607	SP	Leviticus	19	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+475139	SP	Leviticus	26	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+475148	SP	Leviticus	26	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466830	SP	Leviticus	13	53	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512450	SP	Deuteronomy	21	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420172	SP	Genesis	28	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+510277	SP	Deuteronomy	16	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416515	SP	Genesis	23	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+421570	SP	Genesis	30	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+469634	SP	Leviticus	16	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518067	SP	Deuteronomy	31	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518080	SP	Deuteronomy	31	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442449	SP	Exodus	13	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482684	SP	Numbers	9	14	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+413054	SP	Genesis	17	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490904	SP	Numbers	21	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487580	SP	Numbers	16	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406558	SP	Genesis	2	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448504	SP	Exodus	23	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448512	SP	Exodus	23	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448516	SP	Exodus	23	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464797	SP	Leviticus	11	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464808	SP	Leviticus	11	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470413	SP	Leviticus	18	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470421	SP	Leviticus	18	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474533	SP	Leviticus	25	39	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+474540	SP	Leviticus	25	39	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503977	SP	Deuteronomy	5	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429280	SP	Genesis	42	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429283	SP	Genesis	42	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429288	SP	Genesis	42	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+488753	SP	Numbers	18	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+461284	SP	Leviticus	5	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428510	SP	Genesis	41	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507873	SP	Deuteronomy	12	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505102	SP	Deuteronomy	7	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511786	SP	Deuteronomy	19	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+436756	SP	Exodus	5	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436001	SP	Exodus	4	11	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+436007	SP	Exodus	4	11	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+436017	SP	Exodus	4	11	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+510363	SP	Deuteronomy	16	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510367	SP	Deuteronomy	16	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510371	SP	Deuteronomy	16	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510374	SP	Deuteronomy	16	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443194	SP	Exodus	14	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+413749	SP	Genesis	18	24	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+439861	SP	Exodus	9	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421681	SP	Genesis	30	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476941	SP	Numbers	1	47	L>	L>	L>				NA			NA	nega					nn	nn	לא
+495203	SP	Numbers	29	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518163	SP	Deuteronomy	31	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518170	SP	Deuteronomy	31	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518173	SP	Deuteronomy	31	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+514856	SP	Deuteronomy	26	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487659	SP	Numbers	16	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423549	SP	Genesis	32	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423555	SP	Genesis	32	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+423557	SP	Genesis	32	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+434173	SP	Genesis	50	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+419730	SP	Genesis	27	33	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+464887	SP	Leviticus	11	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470486	SP	Leviticus	18	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+466429	SP	Leviticus	13	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474586	SP	Leviticus	25	43	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503989	SP	Deuteronomy	5	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503994	SP	Deuteronomy	5	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+504012	SP	Deuteronomy	5	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504078	SP	Deuteronomy	5	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447155	SP	Exodus	21	20	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+429356	SP	Genesis	42	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+483727	SP	Numbers	11	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+485265	SP	Numbers	13	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+485268	SP	Numbers	13	33	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+503383	SP	Deuteronomy	4	37	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420932	SP	Genesis	29	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+498280	SP	Numbers	33	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+505198	SP	Deuteronomy	7	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+406139	SP	Genesis	2	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436842	SP	Exodus	5	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448127	SP	Exodus	23	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448130	SP	Exodus	23	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+490067	SP	Numbers	20	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486716	SP	Numbers	15	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512755	SP	Deuteronomy	22	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+496097	SP	Numbers	30	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426584	SP	Genesis	38	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437707	SP	Exodus	7	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435152	SP	Exodus	2	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413843	SP	Genesis	18	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+453897	SP	Exodus	32	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516728	SP	Deuteronomy	28	62	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516729	SP	Deuteronomy	28	62	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441347	SP	Exodus	12	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482891	SP	Numbers	9	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471862	SP	Leviticus	21	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471866	SP	Leviticus	21	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+515661	SP	Deuteronomy	28	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504231	SP	Deuteronomy	5	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513591	SP	Deuteronomy	23	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513611	SP	Deuteronomy	23	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+414216	SP	Genesis	19	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414224	SP	Genesis	19	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422958	SP	Genesis	31	52	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422969	SP	Genesis	31	52	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446268	SP	Exodus	20	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487245	SP	Numbers	16	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487267	SP	Numbers	16	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511269	SP	Deuteronomy	18	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+479631	SP	Numbers	5	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505267	SP	Deuteronomy	7	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+409858	SP	Genesis	9	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470225	SP	Leviticus	18	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470229	SP	Leviticus	18	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474242	SP	Leviticus	25	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474246	SP	Leviticus	25	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474250	SP	Leviticus	25	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+459945	SP	Leviticus	2	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514356	SP	Deuteronomy	25	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+512067	SP	Deuteronomy	20	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426678	SP	Genesis	38	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519130	SP	Deuteronomy	32	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473722	SP	Leviticus	24	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428225	SP	Genesis	41	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+413932	SP	Genesis	18	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+453970	SP	Exodus	32	26	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+511429	SP	Deuteronomy	19	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509135	SP	Deuteronomy	14	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516841	SP	Deuteronomy	28	66	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+455432	SP	Exodus	35	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441455	SP	Exodus	12	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441459	SP	Exodus	12	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501021	SP	Deuteronomy	1	43	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471917	SP	Leviticus	21	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471919	SP	Leviticus	21	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509996	SP	Deuteronomy	16	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510007	SP	Deuteronomy	16	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+515749	SP	Deuteronomy	28	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+515758	SP	Deuteronomy	28	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+515762	SP	Deuteronomy	28	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504321	SP	Deuteronomy	5	29	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+442802	SP	Exodus	14	12	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+442820	SP	Exodus	14	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513660	SP	Deuteronomy	23	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513673	SP	Deuteronomy	23	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439361	SP	Exodus	9	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447271	SP	Exodus	21	28	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+447289	SP	Exodus	21	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+507222	SP	Deuteronomy	11	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490556	SP	Numbers	21	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490557	SP	Numbers	21	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490565	SP	Numbers	21	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423235	SP	Genesis	32	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448270	SP	Exodus	23	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448271	SP	Exodus	23	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448275	SP	Exodus	23	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453038	SP	Exodus	30	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470275	SP	Leviticus	18	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486862	SP	Numbers	15	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486863	SP	Numbers	15	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+498666	SP	Numbers	33	51	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503751	SP	Deuteronomy	5	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503758	SP	Deuteronomy	5	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+429064	SP	Genesis	42	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429069	SP	Genesis	42	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+418707	SP	Genesis	26	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512152	SP	Deuteronomy	20	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+475990	SP	Leviticus	27	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476004	SP	Leviticus	27	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517754	SP	Deuteronomy	30	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487729	SP	Numbers	17	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436529	SP	Exodus	5	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494173	SP	Numbers	26	65	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494182	SP	Numbers	26	65	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+494186	SP	Numbers	26	65	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+441572	SP	Exodus	12	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510793	SP	Deuteronomy	17	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510801	SP	Deuteronomy	17	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517488	SP	Deuteronomy	29	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517491	SP	Deuteronomy	29	25	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471963	SP	Leviticus	21	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471970	SP	Leviticus	21	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+416360	SP	Genesis	23	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513739	SP	Deuteronomy	23	23	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+513743	SP	Deuteronomy	23	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+496928	SP	Numbers	31	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+482517	SP	Numbers	9	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+455180	SP	Exodus	34	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414838	SP	Genesis	20	5	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+419517	SP	Genesis	27	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+461878	SP	Leviticus	6	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470308	SP	Leviticus	18	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470313	SP	Leviticus	18	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+498752	SP	Numbers	33	55	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503808	SP	Deuteronomy	5	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503812	SP	Deuteronomy	5	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+503814	SP	Deuteronomy	5	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447008	SP	Exodus	21	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447015	SP	Exodus	21	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429152	SP	Genesis	42	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480147	SP	Numbers	6	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+418778	SP	Genesis	26	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512245	SP	Deuteronomy	20	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512246	SP	Deuteronomy	20	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503074	SP	Deuteronomy	4	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+462526	SP	Leviticus	7	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422669	SP	Genesis	31	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517836	SP	Deuteronomy	30	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+517844	SP	Deuteronomy	30	13	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+472611	SP	Leviticus	22	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504930	SP	Deuteronomy	7	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504935	SP	Deuteronomy	7	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+436619	SP	Exodus	5	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447947	SP	Exodus	23	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486485	SP	Numbers	15	14	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+491730	SP	Numbers	22	30	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+491751	SP	Numbers	22	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518904	SP	Deuteronomy	32	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+518907	SP	Deuteronomy	32	6	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+471004	SP	Leviticus	19	29	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+434914	SP	Exodus	2	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439716	SP	Exodus	9	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492887	SP	Numbers	24	23	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+415460	SP	Genesis	21	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516427	SP	Deuteronomy	28	50	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516434	SP	Deuteronomy	28	50	L>	L>	L>				NA			NA	nega					nn	nn	לא
+482592	SP	Numbers	9	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517013	SP	Deuteronomy	29	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517019	SP	Deuteronomy	29	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517023	SP	Deuteronomy	29	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447799	SP	Exodus	22	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447802	SP	Exodus	22	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+447804	SP	Exodus	22	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414959	SP	Genesis	20	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414969	SP	Genesis	20	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513384	SP	Deuteronomy	23	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513393	SP	Deuteronomy	23	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429200	SP	Genesis	42	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429201	SP	Genesis	42	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483574	SP	Numbers	11	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+480203	SP	Numbers	6	9	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+468973	SP	Leviticus	16	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+468975	SP	Leviticus	16	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+500098	SP	Numbers	36	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+500106	SP	Numbers	36	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461179	SP	Leviticus	5	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461193	SP	Leviticus	5	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+462617	SP	Leviticus	7	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446088	SP	Exodus	20	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517935	SP	Deuteronomy	30	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+504988	SP	Deuteronomy	7	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+409617	SP	Genesis	9	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+409627	SP	Genesis	9	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+447996	SP	Exodus	23	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445000	SP	Exodus	18	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445007	SP	Exodus	18	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429005	SP	Genesis	41	57	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452793	SP	Exodus	30	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+424327	SP	Genesis	34	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474049	SP	Leviticus	25	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474052	SP	Leviticus	25	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+474057	SP	Leviticus	25	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508419	SP	Deuteronomy	12	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491831	SP	Numbers	22	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491832	SP	Numbers	22	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491834	SP	Numbers	22	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+459348	SP	Exodus	40	38	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+493116	SP	Numbers	25	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471053	SP	Leviticus	19	33	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+471059	SP	Leviticus	19	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+434985	SP	Exodus	2	14	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+413687	SP	Genesis	18	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413691	SP	Genesis	18	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439798	SP	Exodus	9	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+499742	SP	Numbers	35	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472256	SP	Leviticus	22	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472263	SP	Leviticus	22	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494284	SP	Numbers	27	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+478866	SP	Numbers	4	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+504857	SP	Deuteronomy	6	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447852	SP	Exodus	22	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447857	SP	Exodus	22	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471710	SP	Leviticus	21	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+466317	SP	Leviticus	13	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+463712	SP	Leviticus	8	35	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+463714	SP	Leviticus	8	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513471	SP	Deuteronomy	23	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439113	SP	Exodus	9	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505779	SP	Deuteronomy	8	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+502404	SP	Deuteronomy	3	24	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+427921	SP	Genesis	40	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+454879	SP	Exodus	34	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454902	SP	Exodus	34	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+409709	SP	Genesis	9	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+448047	SP	Exodus	23	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448056	SP	Exodus	23	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445111	SP	Exodus	18	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+427320	SP	Genesis	39	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465843	SP	Leviticus	13	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486598	SP	Numbers	15	22	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+486601	SP	Numbers	15	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+459810	SP	Leviticus	2	4	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+451394	SP	Exodus	28	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511886	SP	Deuteronomy	20	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509678	SP	Deuteronomy	15	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+509685	SP	Deuteronomy	15	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+515434	SP	Deuteronomy	27	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513286	SP	Deuteronomy	22	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513294	SP	Deuteronomy	22	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+499813	SP	Numbers	35	32	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+430338	SP	Genesis	43	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472329	SP	Leviticus	22	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519411	SP	Deuteronomy	32	43	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508974	SP	Deuteronomy	14	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516629	SP	Deuteronomy	28	58	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510490	SP	Deuteronomy	17	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494338	SP	Numbers	27	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517167	SP	Deuteronomy	29	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+514170	SP	Deuteronomy	24	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514180	SP	Deuteronomy	24	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447907	SP	Exodus	22	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471773	SP	Leviticus	21	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471778	SP	Leviticus	21	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423891	SP	Genesis	33	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486190	SP	Numbers	14	41	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442650	SP	Exodus	14	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513517	SP	Deuteronomy	23	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513522	SP	Deuteronomy	23	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513534	SP	Deuteronomy	23	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+444253	SP	Exodus	16	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502500	SP	Deuteronomy	3	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+496716	SP	Numbers	31	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+420363	SP	Genesis	28	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454971	SP	Exodus	34	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454972	SP	Exodus	34	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454977	SP	Exodus	34	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440800	SP	Exodus	11	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440804	SP	Exodus	11	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440811	SP	Exodus	11	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470158	SP	Leviticus	18	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470170	SP	Leviticus	18	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470175	SP	Leviticus	18	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465929	SP	Leviticus	13	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483448	SP	Numbers	10	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471636	SP	Leviticus	20	25	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+426232	SP	Genesis	37	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488305	SP	Numbers	18	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+488308	SP	Numbers	18	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+511990	SP	Deuteronomy	20	8	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+512005	SP	Deuteronomy	20	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+453258	SP	Exodus	31	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453268	SP	Exodus	31	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420496	SP	Genesis	29	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432602	SP	Genesis	47	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+432607	SP	Genesis	47	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+416798	SP	Genesis	24	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+416813	SP	Genesis	24	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492425	SP	Numbers	23	26	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+468288	SP	Leviticus	15	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517564	SP	Deuteronomy	30	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519489	SP	Deuteronomy	32	47	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519490	SP	Deuteronomy	32	47	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519495	SP	Deuteronomy	32	47	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+484325	SP	Numbers	12	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506158	SP	Deuteronomy	9	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486298	SP	Numbers	15	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435345	SP	Exodus	3	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491475	SP	Numbers	22	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+409175	SP	Genesis	8	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406925	SP	Genesis	3	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406939	SP	Genesis	3	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470792	SP	Leviticus	19	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470803	SP	Leviticus	19	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+439280	SP	Exodus	9	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439301	SP	Exodus	9	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+411569	SP	Genesis	13	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465463	SP	Leviticus	11	44	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465472	SP	Leviticus	11	44	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465476	SP	Leviticus	11	44	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+429912	SP	Genesis	43	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429914	SP	Genesis	43	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429916	SP	Genesis	43	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512712	SP	Deuteronomy	21	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+493689	SP	Numbers	26	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+493693	SP	Numbers	26	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516236	SP	Deuteronomy	28	38	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447647	SP	Exodus	22	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+455045	SP	Exodus	34	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440942	SP	Exodus	11	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412246	SP	Genesis	15	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+431108	SP	Genesis	45	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+431114	SP	Genesis	45	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443844	SP	Exodus	16	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505505	SP	Deuteronomy	8	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509844	SP	Deuteronomy	15	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+509854	SP	Deuteronomy	15	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482258	SP	Numbers	8	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+434597	SP	Exodus	1	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+453348	SP	Exodus	31	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422472	SP	Genesis	31	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+464494	SP	Leviticus	10	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472482	SP	Leviticus	22	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472489	SP	Leviticus	22	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519601	SP	Deuteronomy	32	51	L>	L>	L>				NA			NA	nega					nn	nn	לא
+424112	SP	Genesis	34	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+449102	SP	Exodus	25	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510693	SP	Deuteronomy	17	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508140	SP	Deuteronomy	12	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491552	SP	Numbers	22	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440624	SP	Exodus	10	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440627	SP	Exodus	10	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440637	SP	Exodus	10	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+463807	SP	Leviticus	9	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442035	SP	Exodus	12	48	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+442062	SP	Exodus	12	48	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490232	SP	Numbers	20	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475430	SP	Leviticus	26	37	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+434724	SP	Exodus	2	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433044	SP	Genesis	48	8	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+513861	SP	Deuteronomy	24	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447723	SP	Exodus	22	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+452207	SP	Exodus	29	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+434669	SP	Exodus	1	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445744	SP	Exodus	19	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+462448	SP	Leviticus	7	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+416984	SP	Genesis	24	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429607	SP	Genesis	42	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414434	SP	Genesis	19	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414435	SP	Genesis	19	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422546	SP	Genesis	31	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422558	SP	Genesis	31	32	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+422561	SP	Genesis	31	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+444846	SP	Exodus	18	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+427035	SP	Genesis	39	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428846	SP	Genesis	41	49	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428850	SP	Genesis	41	49	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446864	SP	Exodus	20	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446868	SP	Exodus	20	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508241	SP	Deuteronomy	12	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471301	SP	Leviticus	20	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430886	SP	Genesis	44	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430898	SP	Genesis	44	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430899	SP	Genesis	44	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472792	SP	Leviticus	23	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513011	SP	Deuteronomy	22	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+408038	SP	Genesis	6	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430092	SP	Genesis	43	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472094	SP	Leviticus	22	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+519243	SP	Deuteronomy	32	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519244	SP	Deuteronomy	32	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+415357	SP	Genesis	21	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513945	SP	Deuteronomy	24	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440156	SP	Exodus	10	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518658	SP	Deuteronomy	31	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406613	SP	Genesis	3	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406616	SP	Genesis	3	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+431268	SP	Genesis	45	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+497630	SP	Numbers	32	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+497631	SP	Numbers	32	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+497640	SP	Numbers	32	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+418410	SP	Genesis	25	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+427760	SP	Genesis	40	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+427770	SP	Genesis	40	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+427773	SP	Genesis	40	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+411202	SP	Genesis	12	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429700	SP	Genesis	42	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508716	SP	Deuteronomy	13	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508720	SP	Deuteronomy	13	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508724	SP	Deuteronomy	13	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508729	SP	Deuteronomy	13	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508732	SP	Deuteronomy	13	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+442364	SP	Exodus	13	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+477626	SP	Numbers	3	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508327	SP	Deuteronomy	12	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508336	SP	Deuteronomy	12	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472873	SP	Leviticus	23	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509503	SP	Deuteronomy	15	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509509	SP	Deuteronomy	15	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+438551	SP	Exodus	8	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+408129	SP	Genesis	6	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+405646	SP	Genesis	1	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422178	SP	Genesis	31	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514600	SP	Deuteronomy	25	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430186	SP	Genesis	43	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430188	SP	Genesis	43	22	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+472200	SP	Leviticus	22	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472205	SP	Leviticus	22	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519292	SP	Deuteronomy	32	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470027	SP	Leviticus	17	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470037	SP	Leviticus	17	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476176	SP	Leviticus	27	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491240	SP	Numbers	22	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491253	SP	Numbers	22	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440268	SP	Exodus	10	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518725	SP	Deuteronomy	31	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518748	SP	Deuteronomy	31	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406669	SP	Genesis	3	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406672	SP	Genesis	3	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423762	SP	Genesis	33	5	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+497717	SP	Numbers	32	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470614	SP	Leviticus	19	5	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+520161	SP	Deuteronomy	34	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+475157	SP	Leviticus	26	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+438936	SP	Exodus	9	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435906	SP	Exodus	4	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435910	SP	Exodus	4	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+444090	SP	Exodus	16	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+444097	SP	Exodus	16	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512457	SP	Deuteronomy	21	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443112	SP	Exodus	14	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+450325	SP	Exodus	26	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+450336	SP	Exodus	26	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+411273	SP	Genesis	12	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421603	SP	Genesis	30	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414592	SP	Genesis	19	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508794	SP	Deuteronomy	13	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436858	SP	Exodus	6	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+419165	SP	Genesis	27	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485521	SP	Numbers	14	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442466	SP	Exodus	13	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+442472	SP	Exodus	13	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442475	SP	Exodus	13	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+451291	SP	Exodus	28	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+431036	SP	Genesis	44	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470435	SP	Leviticus	18	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509570	SP	Deuteronomy	15	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509584	SP	Deuteronomy	15	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509593	SP	Deuteronomy	15	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+506870	SP	Deuteronomy	10	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513167	SP	Deuteronomy	22	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422245	SP	Genesis	31	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+418922	SP	Genesis	26	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+418931	SP	Genesis	26	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519341	SP	Deuteronomy	32	39	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470125	SP	Leviticus	17	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470129	SP	Leviticus	17	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476228	SP	Leviticus	27	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476235	SP	Leviticus	27	33	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+476248	SP	Leviticus	27	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+507879	SP	Deuteronomy	12	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514098	SP	Deuteronomy	24	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+514103	SP	Deuteronomy	24	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514113	SP	Deuteronomy	24	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+440380	SP	Exodus	10	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440387	SP	Exodus	10	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511799	SP	Deuteronomy	19	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+433412	SP	Genesis	49	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+410256	SP	Genesis	10	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490002	SP	Numbers	20	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490010	SP	Numbers	20	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+490018	SP	Numbers	20	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470675	SP	Leviticus	19	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470684	SP	Leviticus	19	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512535	SP	Deuteronomy	21	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512544	SP	Deuteronomy	21	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512548	SP	Deuteronomy	21	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+437638	SP	Exodus	7	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+445999	SP	Exodus	19	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446008	SP	Exodus	19	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431637	SP	Genesis	46	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516081	SP	Deuteronomy	28	30	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+516087	SP	Deuteronomy	28	30	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+411345	SP	Genesis	12	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+411348	SP	Genesis	12	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508901	SP	Deuteronomy	13	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518190	SP	Deuteronomy	31	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485606	SP	Numbers	14	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482820	SP	Numbers	9	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+460375	SP	Leviticus	3	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473044	SP	Leviticus	23	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473053	SP	Leviticus	23	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470505	SP	Leviticus	18	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+506962	SP	Deuteronomy	10	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+424737	SP	Genesis	35	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+432476	SP	Genesis	47	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416697	SP	Genesis	24	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429380	SP	Genesis	42	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+483754	SP	Numbers	11	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422333	SP	Genesis	31	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446262	SP	Exodus	20	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+507959	SP	Deuteronomy	12	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507960	SP	Deuteronomy	12	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505221	SP	Deuteronomy	7	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+411995	SP	Genesis	14	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470730	SP	Leviticus	19	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470735	SP	Leviticus	19	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470737	SP	Leviticus	19	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512777	SP	Deuteronomy	22	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512782	SP	Deuteronomy	22	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+411471	SP	Genesis	13	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+411479	SP	Genesis	13	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+411484	SP	Genesis	13	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+489205	SP	Numbers	19	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+489219	SP	Numbers	19	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+489222	SP	Numbers	19	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512635	SP	Deuteronomy	21	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512656	SP	Deuteronomy	21	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+437717	SP	Exodus	7	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453910	SP	Exodus	32	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453920	SP	Exodus	32	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447529	SP	Exodus	22	4	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+437022	SP	Exodus	6	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+437044	SP	Exodus	6	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507661	SP	Deuteronomy	11	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+507684	SP	Deuteronomy	11	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501954	SP	Deuteronomy	3	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501958	SP	Deuteronomy	3	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466532	SP	Leviticus	13	38	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+515677	SP	Deuteronomy	28	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504251	SP	Deuteronomy	5	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504252	SP	Deuteronomy	5	26	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+483847	SP	Numbers	11	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414253	SP	Genesis	19	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488916	SP	Numbers	18	32	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+488930	SP	Numbers	18	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+488933	SP	Numbers	18	32	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+407513	SP	Genesis	4	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+407521	SP	Genesis	4	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503510	SP	Deuteronomy	4	42	L>	L>	L>				NA			NA	nega					nn	nn	לא
+421014	SP	Genesis	29	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446274	SP	Exodus	20	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446279	SP	Exodus	20	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+446297	SP	Exodus	20	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446363	SP	Exodus	20	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+468879	SP	Leviticus	15	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+479656	SP	Numbers	5	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448204	SP	Exodus	23	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448211	SP	Exodus	23	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+430778	SP	Genesis	44	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486807	SP	Numbers	15	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+459958	SP	Leviticus	2	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+512866	SP	Deuteronomy	22	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512895	SP	Deuteronomy	22	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514363	SP	Deuteronomy	25	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514390	SP	Deuteronomy	25	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+499442	SP	Numbers	35	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+426694	SP	Genesis	38	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426695	SP	Genesis	38	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426697	SP	Genesis	38	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426705	SP	Genesis	38	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+412770	SP	Genesis	16	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437937	SP	Exodus	7	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+444767	SP	Exodus	17	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494118	SP	Numbers	26	62	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494119	SP	Numbers	26	62	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494125	SP	Numbers	26	62	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494126	SP	Numbers	26	62	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516848	SP	Deuteronomy	28	67	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+516855	SP	Deuteronomy	28	67	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+441481	SP	Exodus	12	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+417905	SP	Genesis	24	65	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+497500	SP	Numbers	32	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+497501	SP	Numbers	32	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517408	SP	Deuteronomy	29	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517411	SP	Deuteronomy	29	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+517414	SP	Deuteronomy	29	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+466580	SP	Leviticus	13	42	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+515779	SP	Deuteronomy	28	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+442849	SP	Exodus	14	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442857	SP	Exodus	14	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447311	SP	Exodus	21	29	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+483959	SP	Numbers	11	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508512	SP	Deuteronomy	13	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508516	SP	Deuteronomy	13	1	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+461620	SP	Leviticus	5	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+417432	SP	Genesis	24	41	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417438	SP	Genesis	24	41	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442180	SP	Exodus	13	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490591	SP	Numbers	21	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446629	SP	Exodus	20	21	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+446679	SP	Exodus	20	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446703	SP	Exodus	20	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446721	SP	Exodus	20	21	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+446731	SP	Exodus	20	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446741	SP	Exodus	20	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446746	SP	Exodus	20	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+446752	SP	Exodus	20	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446760	SP	Exodus	20	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+423258	SP	Genesis	32	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448279	SP	Exodus	23	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430832	SP	Genesis	44	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470281	SP	Leviticus	18	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474320	SP	Leviticus	25	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512955	SP	Deuteronomy	22	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+405471	SP	Genesis	1	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514450	SP	Deuteronomy	25	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512156	SP	Deuteronomy	20	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426785	SP	Genesis	38	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+519205	SP	Deuteronomy	32	27	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+469791	SP	Leviticus	17	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+469815	SP	Leviticus	17	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+407167	SP	Genesis	4	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503021	SP	Deuteronomy	4	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428308	SP	Genesis	41	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+428310	SP	Genesis	41	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439943	SP	Exodus	10	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439969	SP	Exodus	10	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439990	SP	Exodus	10	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+440040	SP	Exodus	10	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511546	SP	Deuteronomy	19	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436559	SP	Exodus	5	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436562	SP	Exodus	5	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+489540	SP	Numbers	20	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+497559	SP	Numbers	32	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420042	SP	Genesis	28	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510128	SP	Deuteronomy	16	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+424956	SP	Genesis	35	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447367	SP	Exodus	21	33	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+447372	SP	Exodus	21	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447377	SP	Exodus	21	33	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+442296	SP	Exodus	13	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+412915	SP	Genesis	17	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+412924	SP	Genesis	17	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+455198	SP	Exodus	34	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448366	SP	Exodus	23	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470319	SP	Leviticus	18	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486961	SP	Numbers	15	39	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+492154	SP	Numbers	23	10	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+492159	SP	Numbers	23	10	MJ	MJ	MJ				NA			NA	prin				W	nn	nn	מי
+407242	SP	Genesis	4	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503112	SP	Deuteronomy	4	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503129	SP	Deuteronomy	4	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503133	SP	Deuteronomy	4	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420768	SP	Genesis	29	15	KJ	KJ	KJ				NA			NA	conj				H	nn	nn	כי
+517859	SP	Deuteronomy	30	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504938	SP	Deuteronomy	7	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+504942	SP	Deuteronomy	7	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504948	SP	Deuteronomy	7	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511647	SP	Deuteronomy	19	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+484538	SP	Numbers	12	14	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+509244	SP	Deuteronomy	14	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472041	SP	Leviticus	21	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472047	SP	Leviticus	21	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472049	SP	Leviticus	21	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472053	SP	Leviticus	21	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472057	SP	Leviticus	21	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437488	SP	Exodus	7	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+510209	SP	Deuteronomy	16	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416451	SP	Genesis	23	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447457	SP	Exodus	21	37	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+433229	SP	Genesis	48	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417631	SP	Genesis	24	49	L>	L>	L>				NA			NA	nega					nn	nn	לא
+406497	SP	Genesis	2	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414980	SP	Genesis	20	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501849	SP	Deuteronomy	2	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464738	SP	Leviticus	11	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464752	SP	Leviticus	11	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461973	SP	Leviticus	6	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470375	SP	Leviticus	18	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503889	SP	Deuteronomy	5	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447064	SP	Exodus	21	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454662	SP	Exodus	33	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+483596	SP	Numbers	11	4	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+414001	SP	Genesis	19	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414002	SP	Genesis	19	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473444	SP	Leviticus	23	43	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488679	SP	Numbers	18	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+488683	SP	Numbers	18	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+461200	SP	Leviticus	5	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+462632	SP	Leviticus	7	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446114	SP	Exodus	20	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446118	SP	Exodus	20	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+446120	SP	Exodus	20	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+468625	SP	Leviticus	15	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517950	SP	Deuteronomy	30	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517953	SP	Deuteronomy	30	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505015	SP	Deuteronomy	7	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505028	SP	Deuteronomy	7	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448011	SP	Exodus	23	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489818	SP	Numbers	20	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+489819	SP	Numbers	20	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489836	SP	Numbers	20	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+489899	SP	Numbers	20	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+489900	SP	Numbers	20	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489911	SP	Numbers	20	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474061	SP	Leviticus	25	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+459741	SP	Leviticus	2	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+495963	SP	Numbers	30	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+495969	SP	Numbers	30	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471076	SP	Leviticus	19	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437543	SP	Exodus	7	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+510324	SP	Deuteronomy	16	16	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+413708	SP	Genesis	18	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439812	SP	Exodus	9	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471738	SP	Leviticus	21	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+455373	SP	Exodus	34	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464815	SP	Leviticus	11	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464820	SP	Leviticus	11	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+515565	SP	Deuteronomy	28	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503979	SP	Deuteronomy	5	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505830	SP	Deuteronomy	8	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488756	SP	Numbers	18	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488779	SP	Numbers	18	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+485128	SP	Numbers	13	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490253	SP	Numbers	21	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511141	SP	Deuteronomy	18	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+479488	SP	Numbers	5	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509420	SP	Deuteronomy	14	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509422	SP	Deuteronomy	14	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474130	SP	Leviticus	25	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483409	SP	Numbers	10	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454237	SP	Exodus	33	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454238	SP	Exodus	33	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454242	SP	Exodus	33	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511910	SP	Deuteronomy	20	5	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+511918	SP	Deuteronomy	20	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+410509	SP	Genesis	11	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413786	SP	Genesis	18	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439886	SP	Exodus	9	35	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+499834	SP	Numbers	35	33	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+499843	SP	Numbers	35	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+499854	SP	Numbers	35	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+499861	SP	Numbers	35	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+415616	SP	Genesis	21	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+415618	SP	Genesis	21	26	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+415628	SP	Genesis	21	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+415634	SP	Genesis	21	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509001	SP	Deuteronomy	14	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514917	SP	Deuteronomy	26	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514922	SP	Deuteronomy	26	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+517184	SP	Deuteronomy	29	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474816	SP	Leviticus	26	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474824	SP	Leviticus	26	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474830	SP	Leviticus	26	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474837	SP	Leviticus	26	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471793	SP	Leviticus	21	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471800	SP	Leviticus	21	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471802	SP	Leviticus	21	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+415136	SP	Genesis	20	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486194	SP	Numbers	14	42	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486200	SP	Numbers	14	42	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+466454	SP	Leviticus	13	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504160	SP	Deuteronomy	5	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+442661	SP	Exodus	14	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442679	SP	Exodus	14	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513540	SP	Deuteronomy	23	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447175	SP	Exodus	21	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447177	SP	Exodus	21	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+444269	SP	Exodus	16	27	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+465415	SP	Leviticus	11	41	L>	L>	L>				NA			NA	nega					nn	nn	לא
+520071	SP	Deuteronomy	33	29	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+417305	SP	Genesis	24	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490352	SP	Numbers	21	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422904	SP	Genesis	31	49	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487206	SP	Numbers	16	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511217	SP	Deuteronomy	18	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511232	SP	Deuteronomy	18	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511236	SP	Deuteronomy	18	16	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+474183	SP	Leviticus	25	20	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+474192	SP	Leviticus	25	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474195	SP	Leviticus	25	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471661	SP	Leviticus	20	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514289	SP	Deuteronomy	25	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+488330	SP	Numbers	18	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465572	SP	Leviticus	12	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+468077	SP	Leviticus	14	48	L>	L>	L>				NA			NA	nega					nn	nn	לא
+468095	SP	Leviticus	14	48	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413866	SP	Genesis	18	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+415680	SP	Genesis	21	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+415694	SP	Genesis	21	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511353	SP	Deuteronomy	19	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+484339	SP	Numbers	12	2	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+509049	SP	Deuteronomy	14	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509071	SP	Deuteronomy	14	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509077	SP	Deuteronomy	14	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441386	SP	Exodus	12	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510590	SP	Deuteronomy	17	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517295	SP	Deuteronomy	29	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+495776	SP	Numbers	29	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471873	SP	Leviticus	21	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471880	SP	Leviticus	21	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+409195	SP	Genesis	8	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513620	SP	Deuteronomy	23	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+413414	SP	Genesis	18	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439308	SP	Exodus	9	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+408520	SP	Genesis	7	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465489	SP	Leviticus	11	45	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465507	SP	Leviticus	11	45	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492699	SP	Numbers	24	12	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+417365	SP	Genesis	24	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487282	SP	Numbers	16	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487288	SP	Numbers	16	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+511293	SP	Deuteronomy	18	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+445327	SP	Exodus	18	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470235	SP	Leviticus	18	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429016	SP	Genesis	42	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454439	SP	Exodus	33	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473201	SP	Leviticus	23	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505516	SP	Deuteronomy	8	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505519	SP	Deuteronomy	8	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+505524	SP	Deuteronomy	8	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505525	SP	Deuteronomy	8	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505534	SP	Deuteronomy	8	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509885	SP	Deuteronomy	15	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509891	SP	Deuteronomy	15	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+420594	SP	Genesis	29	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+495089	SP	Numbers	28	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472510	SP	Leviticus	22	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519608	SP	Deuteronomy	32	52	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519617	SP	Deuteronomy	32	52	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494504	SP	Numbers	27	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+435460	SP	Exodus	3	11	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+435462	SP	Exodus	3	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435467	SP	Exodus	3	11	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+443550	SP	Exodus	15	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440653	SP	Exodus	10	27	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471927	SP	Leviticus	21	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471932	SP	Leviticus	21	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+515205	SP	Deuteronomy	27	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510026	SP	Deuteronomy	16	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510036	SP	Deuteronomy	16	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+434732	SP	Exodus	2	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513679	SP	Deuteronomy	23	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439397	SP	Exodus	9	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+439429	SP	Exodus	9	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439450	SP	Exodus	9	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439457	SP	Exodus	9	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439510	SP	Exodus	9	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439548	SP	Exodus	9	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+436300	SP	Exodus	4	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+415293	SP	Genesis	21	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+415294	SP	Genesis	21	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504655	SP	Deuteronomy	6	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447726	SP	Exodus	22	13	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+412334	SP	Genesis	15	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+419455	SP	Genesis	27	18	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+431193	SP	Genesis	45	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+431198	SP	Genesis	45	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+466088	SP	Leviticus	13	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426396	SP	Genesis	37	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446958	SP	Exodus	21	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429084	SP	Genesis	42	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473269	SP	Leviticus	23	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480089	SP	Numbers	6	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505583	SP	Deuteronomy	8	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509946	SP	Deuteronomy	15	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422583	SP	Genesis	31	33	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+468463	SP	Leviticus	15	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464606	SP	Leviticus	10	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464615	SP	Leviticus	10	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517767	SP	Deuteronomy	30	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517786	SP	Deuteronomy	30	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472562	SP	Leviticus	22	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501157	SP	Deuteronomy	2	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501158	SP	Deuteronomy	2	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501168	SP	Deuteronomy	2	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+409504	SP	Genesis	9	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+444858	SP	Exodus	18	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+510805	SP	Deuteronomy	17	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510810	SP	Deuteronomy	17	16	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510824	SP	Deuteronomy	17	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473908	SP	Leviticus	25	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473912	SP	Leviticus	25	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518860	SP	Deuteronomy	32	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470958	SP	Leviticus	19	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470964	SP	Leviticus	19	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470967	SP	Leviticus	19	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+408052	SP	Genesis	6	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+453541	SP	Exodus	32	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+458332	SP	Exodus	39	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+460679	SP	Leviticus	4	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514604	SP	Deuteronomy	26	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516360	SP	Deuteronomy	28	47	L>	L>	L>				NA			NA	nega					nn	nn	לא
+443288	SP	Exodus	15	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447784	SP	Exodus	22	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414869	SP	Genesis	20	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414885	SP	Genesis	20	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+452349	SP	Exodus	29	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+452351	SP	Exodus	29	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431290	SP	Genesis	45	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485951	SP	Numbers	14	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461906	SP	Leviticus	6	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+444032	SP	Exodus	16	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+444033	SP	Exodus	16	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480173	SP	Numbers	6	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+427783	SP	Genesis	40	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417072	SP	Genesis	24	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429713	SP	Genesis	42	38	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429717	SP	Genesis	42	38	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422673	SP	Genesis	31	37	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+454715	SP	Exodus	34	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501306	SP	Deuteronomy	2	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501307	SP	Deuteronomy	2	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501313	SP	Deuteronomy	2	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447960	SP	Exodus	23	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447967	SP	Exodus	23	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+506455	SP	Deuteronomy	9	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+427163	SP	Genesis	39	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+424272	SP	Genesis	34	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+424290	SP	Genesis	34	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435687	SP	Exodus	3	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435688	SP	Exodus	3	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435696	SP	Exodus	3	19	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+471399	SP	Leviticus	20	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+459302	SP	Exodus	40	35	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+459310	SP	Exodus	40	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430980	SP	Genesis	44	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+502556	SP	Deuteronomy	4	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502568	SP	Deuteronomy	4	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513106	SP	Deuteronomy	22	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513118	SP	Deuteronomy	22	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+467826	SP	Leviticus	14	36	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+408164	SP	Genesis	6	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+408166	SP	Genesis	6	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+425238	SP	Genesis	36	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+425246	SP	Genesis	36	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472223	SP	Leviticus	22	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+415481	SP	Genesis	21	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516446	SP	Deuteronomy	28	51	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514049	SP	Deuteronomy	24	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447814	SP	Exodus	22	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412462	SP	Genesis	15	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+412463	SP	Genesis	15	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513399	SP	Deuteronomy	23	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513410	SP	Deuteronomy	23	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466874	SP	Leviticus	13	55	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466883	SP	Leviticus	13	55	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448816	SP	Exodus	24	14	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+519954	SP	Deuteronomy	33	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487053	SP	Numbers	16	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508828	SP	Deuteronomy	13	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+419193	SP	Genesis	27	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465733	SP	Leviticus	13	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511817	SP	Deuteronomy	20	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511832	SP	Deuteronomy	20	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511835	SP	Deuteronomy	20	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509595	SP	Deuteronomy	15	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509612	SP	Deuteronomy	15	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509617	SP	Deuteronomy	15	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+502642	SP	Deuteronomy	4	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513195	SP	Deuteronomy	22	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+438768	SP	Exodus	8	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438773	SP	Exodus	8	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+438788	SP	Exodus	8	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+492310	SP	Numbers	23	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492324	SP	Numbers	23	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+492328	SP	Numbers	23	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472268	SP	Leviticus	22	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519362	SP	Deuteronomy	32	40	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505957	SP	Deuteronomy	9	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505970	SP	Deuteronomy	9	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514122	SP	Deuteronomy	24	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514129	SP	Deuteronomy	24	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440419	SP	Exodus	10	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+406788	SP	Genesis	3	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423846	SP	Genesis	33	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431434	SP	Genesis	45	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470688	SP	Leviticus	19	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470693	SP	Leviticus	19	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+520236	SP	Deuteronomy	34	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475257	SP	Leviticus	26	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513480	SP	Deuteronomy	23	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513483	SP	Deuteronomy	23	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513487	SP	Deuteronomy	23	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513490	SP	Deuteronomy	23	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439121	SP	Exodus	9	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439134	SP	Exodus	9	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+465335	SP	Leviticus	11	37	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+512554	SP	Deuteronomy	21	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+496629	SP	Numbers	31	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516094	SP	Deuteronomy	28	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+516103	SP	Deuteronomy	28	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+414715	SP	Genesis	19	35	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508905	SP	Deuteronomy	13	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+445119	SP	Exodus	18	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485626	SP	Numbers	14	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416029	SP	Genesis	22	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416032	SP	Genesis	22	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416037	SP	Genesis	22	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+442571	SP	Exodus	13	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+477766	SP	Numbers	3	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465870	SP	Leviticus	13	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471557	SP	Leviticus	20	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+423570	SP	Genesis	32	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+423575	SP	Genesis	32	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423578	SP	Genesis	32	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509703	SP	Deuteronomy	15	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509704	SP	Deuteronomy	15	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+434460	SP	Exodus	1	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506965	SP	Deuteronomy	10	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506987	SP	Deuteronomy	10	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+506991	SP	Deuteronomy	10	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513309	SP	Deuteronomy	22	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416718	SP	Genesis	24	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+405836	SP	Genesis	1	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492364	SP	Numbers	23	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492365	SP	Numbers	23	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492370	SP	Numbers	23	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472346	SP	Leviticus	22	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+503433	SP	Deuteronomy	4	39	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432097	SP	Genesis	46	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506093	SP	Deuteronomy	9	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+506097	SP	Deuteronomy	9	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435282	SP	Exodus	3	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514200	SP	Deuteronomy	24	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514203	SP	Deuteronomy	24	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500902	SP	Deuteronomy	1	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440499	SP	Exodus	10	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+433489	SP	Genesis	49	9	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+406854	SP	Genesis	3	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470744	SP	Leviticus	19	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470751	SP	Leviticus	19	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439214	SP	Exodus	9	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+439227	SP	Exodus	9	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429863	SP	Genesis	43	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+489235	SP	Numbers	19	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437786	SP	Exodus	7	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+437796	SP	Exodus	7	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516175	SP	Deuteronomy	28	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+421905	SP	Genesis	30	40	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+495307	SP	Numbers	29	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447562	SP	Exodus	22	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416108	SP	Genesis	22	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416118	SP	Genesis	22	16	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+491071	SP	Numbers	21	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426249	SP	Genesis	37	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423639	SP	Genesis	32	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+423657	SP	Genesis	32	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443744	SP	Exodus	16	3	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+443764	SP	Exodus	16	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509781	SP	Deuteronomy	15	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482173	SP	Numbers	8	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453277	SP	Exodus	31	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453284	SP	Exodus	31	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432618	SP	Genesis	47	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432623	SP	Genesis	47	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+405916	SP	Genesis	1	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483888	SP	Numbers	11	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+464424	SP	Leviticus	10	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+461511	SP	Leviticus	5	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483022	SP	Numbers	10	9	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+435370	SP	Exodus	3	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508078	SP	Deuteronomy	12	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488198	SP	Numbers	17	25	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+440558	SP	Exodus	10	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440564	SP	Exodus	10	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+425797	SP	Genesis	37	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442007	SP	Exodus	12	45	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470807	SP	Leviticus	19	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470810	SP	Leviticus	19	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+436240	SP	Exodus	4	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+512727	SP	Deuteronomy	21	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512733	SP	Deuteronomy	21	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512740	SP	Deuteronomy	21	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512745	SP	Deuteronomy	21	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+437966	SP	Exodus	7	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+473751	SP	Leviticus	24	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516246	SP	Deuteronomy	28	39	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516249	SP	Deuteronomy	28	39	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+516251	SP	Deuteronomy	28	39	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504579	SP	Deuteronomy	6	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504605	SP	Deuteronomy	6	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447665	SP	Exodus	22	9	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+412262	SP	Genesis	15	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412265	SP	Genesis	15	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485782	SP	Numbers	14	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485807	SP	Numbers	14	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+497514	SP	Numbers	32	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+418288	SP	Genesis	25	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443867	SP	Exodus	16	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474778	SP	Leviticus	25	53	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448555	SP	Exodus	24	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448560	SP	Exodus	24	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519762	SP	Deuteronomy	33	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519767	SP	Deuteronomy	33	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519772	SP	Deuteronomy	33	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519774	SP	Deuteronomy	33	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+427635	SP	Genesis	40	8	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+515803	SP	Deuteronomy	28	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414377	SP	Genesis	19	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464504	SP	Leviticus	10	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464513	SP	Leviticus	10	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508519	SP	Deuteronomy	13	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446812	SP	Exodus	20	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508166	SP	Deuteronomy	12	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+479780	SP	Numbers	5	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+479786	SP	Numbers	5	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505402	SP	Deuteronomy	7	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412171	SP	Genesis	14	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+430851	SP	Genesis	44	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430857	SP	Genesis	44	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472757	SP	Leviticus	23	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512963	SP	Deuteronomy	22	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+411662	SP	Genesis	13	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422047	SP	Genesis	31	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514480	SP	Deuteronomy	25	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426807	SP	Genesis	38	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519210	SP	Deuteronomy	32	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+476032	SP	Leviticus	27	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513871	SP	Deuteronomy	24	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513890	SP	Deuteronomy	24	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513897	SP	Deuteronomy	24	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+487769	SP	Numbers	17	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487774	SP	Numbers	17	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487786	SP	Numbers	17	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+511585	SP	Deuteronomy	19	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+518551	SP	Deuteronomy	31	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475021	SP	Leviticus	26	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+475025	SP	Leviticus	26	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+435778	SP	Exodus	4	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435782	SP	Exodus	4	1	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+435786	SP	Exodus	4	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435788	SP	Exodus	4	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466673	SP	Leviticus	13	47	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512319	SP	Deuteronomy	21	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512324	SP	Deuteronomy	21	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442935	SP	Exodus	14	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+424966	SP	Genesis	35	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429631	SP	Genesis	42	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429632	SP	Genesis	42	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429635	SP	Genesis	42	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+484094	SP	Numbers	11	25	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508624	SP	Deuteronomy	13	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461687	SP	Leviticus	5	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446875	SP	Exodus	20	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+446882	SP	Exodus	20	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+406408	SP	Genesis	2	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+406411	SP	Genesis	2	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501799	SP	Deuteronomy	2	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430920	SP	Genesis	44	27	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470328	SP	Leviticus	18	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470337	SP	Leviticus	18	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474444	SP	Leviticus	25	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+467754	SP	Leviticus	14	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438490	SP	Exodus	8	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+432218	SP	Genesis	47	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432226	SP	Genesis	47	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454613	SP	Exodus	33	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454618	SP	Exodus	33	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454619	SP	Exodus	33	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514528	SP	Deuteronomy	25	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426899	SP	Genesis	38	25	MJ	MJ	MJ				NA			NA	prin				L	nn	nn	מי
+519251	SP	Deuteronomy	32	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+469943	SP	Leviticus	17	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476104	SP	Leviticus	27	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491148	SP	Numbers	22	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440204	SP	Exodus	10	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511662	SP	Deuteronomy	19	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+407887	SP	Genesis	5	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470582	SP	Leviticus	19	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475105	SP	Leviticus	26	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435844	SP	Exodus	4	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488970	SP	Numbers	19	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466758	SP	Leviticus	13	51	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512409	SP	Deuteronomy	21	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512418	SP	Deuteronomy	21	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+420127	SP	Genesis	28	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420151	SP	Genesis	28	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+411224	SP	Genesis	12	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+484168	SP	Numbers	11	29	MJ	MJ	MJ				NA			NA	prin				W	nn	nn	מי
+484174	SP	Numbers	11	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508735	SP	Deuteronomy	13	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417655	SP	Genesis	24	50	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442377	SP	Exodus	13	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507429	SP	Deuteronomy	11	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+507435	SP	Deuteronomy	11	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490783	SP	Numbers	21	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490788	SP	Numbers	21	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487522	SP	Numbers	16	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487533	SP	Numbers	16	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487534	SP	Numbers	16	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+423442	SP	Genesis	32	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448485	SP	Exodus	23	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464767	SP	Leviticus	11	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464773	SP	Leviticus	11	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470386	SP	Leviticus	18	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470393	SP	Leviticus	18	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+474501	SP	Leviticus	25	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474509	SP	Leviticus	25	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+506787	SP	Deuteronomy	10	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438606	SP	Exodus	8	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519300	SP	Deuteronomy	32	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519308	SP	Deuteronomy	32	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519310	SP	Deuteronomy	32	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461230	SP	Leviticus	5	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503216	SP	Deuteronomy	4	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503221	SP	Deuteronomy	4	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503224	SP	Deuteronomy	4	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+503227	SP	Deuteronomy	4	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+505036	SP	Deuteronomy	7	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440281	SP	Exodus	10	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509330	SP	Deuteronomy	14	24	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+509335	SP	Deuteronomy	14	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509336	SP	Deuteronomy	14	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509339	SP	Deuteronomy	14	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509353	SP	Deuteronomy	14	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406692	SP	Genesis	3	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406699	SP	Genesis	3	6	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+441793	SP	Exodus	12	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435929	SP	Exodus	4	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435939	SP	Exodus	4	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+516028	SP	Deuteronomy	28	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439826	SP	Exodus	9	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439828	SP	Exodus	9	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413077	SP	Genesis	17	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490932	SP	Numbers	21	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406591	SP	Genesis	2	25	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+434131	SP	Genesis	50	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+434136	SP	Genesis	50	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466360	SP	Leviticus	13	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503981	SP	Deuteronomy	5	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464256	SP	Leviticus	10	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+485139	SP	Numbers	13	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+485146	SP	Numbers	13	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461330	SP	Leviticus	5	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503347	SP	Deuteronomy	4	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446190	SP	Exodus	20	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490031	SP	Numbers	20	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429783	SP	Genesis	43	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426536	SP	Genesis	38	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426537	SP	Genesis	38	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412639	SP	Genesis	16	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+510399	SP	Deuteronomy	16	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473612	SP	Leviticus	24	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421774	SP	Genesis	30	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475792	SP	Leviticus	27	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+475795	SP	Leviticus	27	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+476957	SP	Numbers	1	49	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476962	SP	Numbers	1	49	L>	L>	L>				NA			NA	nega					nn	nn	לא
+497155	SP	Numbers	31	49	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+518223	SP	Deuteronomy	31	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518226	SP	Deuteronomy	31	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+518228	SP	Deuteronomy	31	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518231	SP	Deuteronomy	31	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+514924	SP	Deuteronomy	26	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514930	SP	Deuteronomy	26	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+514936	SP	Deuteronomy	26	14	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+441303	SP	Exodus	12	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+507609	SP	Deuteronomy	11	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464913	SP	Leviticus	11	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470522	SP	Leviticus	18	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447181	SP	Exodus	21	22	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+447193	SP	Exodus	21	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+429398	SP	Genesis	42	22	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+429408	SP	Genesis	42	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+408463	SP	Genesis	7	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483787	SP	Numbers	11	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461425	SP	Leviticus	5	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+461448	SP	Leviticus	5	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+461453	SP	Leviticus	5	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+461457	SP	Leviticus	5	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446264	SP	Exodus	20	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505240	SP	Deuteronomy	7	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505245	SP	Deuteronomy	7	16	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+505249	SP	Deuteronomy	7	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406183	SP	Genesis	2	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406184	SP	Genesis	2	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448157	SP	Exodus	23	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448163	SP	Exodus	23	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+430690	SP	Genesis	44	15	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+430692	SP	Genesis	44	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512822	SP	Deuteronomy	22	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514304	SP	Deuteronomy	25	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+418566	SP	Genesis	26	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512031	SP	Deuteronomy	20	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+496142	SP	Numbers	30	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519102	SP	Deuteronomy	32	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519108	SP	Deuteronomy	32	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+515507	SP	Deuteronomy	27	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502870	SP	Deuteronomy	4	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+502871	SP	Deuteronomy	4	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+413887	SP	Genesis	18	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+453929	SP	Exodus	32	24	MJ	MJ	MJ				NA			NA	prin				L	nn	nn	מי
+475867	SP	Leviticus	27	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+477051	SP	Numbers	1	53	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+415710	SP	Genesis	21	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516794	SP	Deuteronomy	28	64	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441405	SP	Exodus	12	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507688	SP	Deuteronomy	11	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517307	SP	Deuteronomy	29	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517313	SP	Deuteronomy	29	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474918	SP	Leviticus	26	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471886	SP	Leviticus	21	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471889	SP	Leviticus	21	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471894	SP	Leviticus	21	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+462192	SP	Leviticus	6	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509965	SP	Deuteronomy	16	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+424822	SP	Genesis	35	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+424827	SP	Genesis	35	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513645	SP	Deuteronomy	23	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+421374	SP	Genesis	30	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447240	SP	Exodus	21	26	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+421035	SP	Genesis	29	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421037	SP	Genesis	29	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421042	SP	Genesis	29	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417379	SP	Genesis	24	38	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511311	SP	Deuteronomy	18	21	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+511321	SP	Deuteronomy	18	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+479677	SP	Numbers	5	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+479682	SP	Numbers	5	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+479686	SP	Numbers	5	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448224	SP	Exodus	23	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448230	SP	Exodus	23	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445444	SP	Exodus	18	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+445454	SP	Exodus	18	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+445459	SP	Exodus	18	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472692	SP	Leviticus	23	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470252	SP	Leviticus	18	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474266	SP	Leviticus	25	25	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+438322	SP	Exodus	8	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429032	SP	Genesis	42	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429047	SP	Genesis	42	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+454462	SP	Exodus	33	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514405	SP	Deuteronomy	25	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+418644	SP	Genesis	26	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+418657	SP	Genesis	26	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420607	SP	Genesis	29	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+495110	SP	Numbers	28	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+468399	SP	Leviticus	15	8	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+472520	SP	Leviticus	22	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472527	SP	Leviticus	22	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511486	SP	Deuteronomy	19	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511491	SP	Deuteronomy	19	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511503	SP	Deuteronomy	19	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511504	SP	Deuteronomy	19	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+484419	SP	Numbers	12	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509147	SP	Deuteronomy	14	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516880	SP	Deuteronomy	28	68	L>	L>	L>				NA			NA	nega					nn	nn	לא
+489477	SP	Numbers	20	2	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+443579	SP	Exodus	15	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+501073	SP	Deuteronomy	1	45	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+501079	SP	Deuteronomy	1	45	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510053	SP	Deuteronomy	16	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513698	SP	Deuteronomy	23	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+421438	SP	Genesis	30	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433072	SP	Genesis	48	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492793	SP	Numbers	24	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+492797	SP	Numbers	24	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+455130	SP	Exodus	34	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+455141	SP	Exodus	34	24	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+501701	SP	Deuteronomy	2	30	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+501708	SP	Deuteronomy	2	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423286	SP	Genesis	32	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448299	SP	Exodus	23	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433879	SP	Genesis	50	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470289	SP	Leviticus	18	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+498708	SP	Numbers	33	53	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474349	SP	Leviticus	25	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503775	SP	Deuteronomy	5	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454530	SP	Exodus	33	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454539	SP	Exodus	33	16	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+473297	SP	Leviticus	23	36	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512186	SP	Deuteronomy	20	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+420699	SP	Genesis	29	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420704	SP	Genesis	29	12	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+517798	SP	Deuteronomy	30	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517808	SP	Deuteronomy	30	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517813	SP	Deuteronomy	30	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472591	SP	Leviticus	22	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436585	SP	Exodus	5	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+441599	SP	Exodus	12	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452673	SP	Exodus	30	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+452678	SP	Exodus	30	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510834	SP	Deuteronomy	17	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510839	SP	Deuteronomy	17	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510846	SP	Deuteronomy	17	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473918	SP	Leviticus	25	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473924	SP	Leviticus	25	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491702	SP	Numbers	22	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443668	SP	Exodus	15	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+443671	SP	Exodus	15	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+409380	SP	Genesis	8	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+409392	SP	Genesis	8	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+409401	SP	Genesis	8	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+518874	SP	Deuteronomy	32	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470970	SP	Leviticus	19	27	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470976	SP	Leviticus	19	27	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513762	SP	Deuteronomy	23	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513776	SP	Deuteronomy	23	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439666	SP	Exodus	9	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+433162	SP	Genesis	48	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516973	SP	Deuteronomy	29	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+499028	SP	Numbers	34	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+455223	SP	Exodus	34	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+455227	SP	Exodus	34	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414897	SP	Genesis	20	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414910	SP	Genesis	20	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452374	SP	Exodus	29	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+452376	SP	Exodus	29	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+419538	SP	Genesis	27	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+419540	SP	Genesis	27	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+466180	SP	Leviticus	13	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503843	SP	Deuteronomy	5	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503851	SP	Deuteronomy	5	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503852	SP	Deuteronomy	5	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447042	SP	Exodus	21	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429178	SP	Genesis	42	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480185	SP	Numbers	6	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480190	SP	Numbers	6	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488604	SP	Numbers	18	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500052	SP	Numbers	36	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+500062	SP	Numbers	36	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448745	SP	Exodus	24	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+462562	SP	Leviticus	7	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422702	SP	Genesis	31	38	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422706	SP	Genesis	31	38	L>	L>	L>				NA			NA	nega					nn	nn	לא
+468569	SP	Leviticus	15	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472626	SP	Leviticus	22	32	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+504952	SP	Deuteronomy	7	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+484564	SP	Numbers	12	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447979	SP	Exodus	23	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+427185	SP	Genesis	39	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+427189	SP	Genesis	39	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491795	SP	Numbers	22	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+495881	SP	Numbers	30	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+495895	SP	Numbers	30	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502590	SP	Deuteronomy	4	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+434952	SP	Exodus	2	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439759	SP	Exodus	9	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+433261	SP	Genesis	48	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+433264	SP	Genesis	48	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475638	SP	Leviticus	27	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482628	SP	Numbers	9	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+482635	SP	Numbers	9	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447816	SP	Exodus	22	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447821	SP	Exodus	22	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414990	SP	Genesis	20	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414992	SP	Genesis	20	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486033	SP	Numbers	14	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+459716	SP	Leviticus	1	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+463667	SP	Leviticus	8	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+463676	SP	Leviticus	8	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503921	SP	Deuteronomy	5	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513421	SP	Deuteronomy	23	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447080	SP	Exodus	21	14	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+444115	SP	Exodus	16	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+505747	SP	Deuteronomy	8	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502369	SP	Deuteronomy	3	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502371	SP	Deuteronomy	3	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+462634	SP	Leviticus	7	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422760	SP	Genesis	31	42	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422770	SP	Genesis	31	42	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511094	SP	Deuteronomy	18	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511105	SP	Deuteronomy	18	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+479440	SP	Numbers	5	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+448027	SP	Exodus	23	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448028	SP	Exodus	23	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+427277	SP	Genesis	39	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+424350	SP	Genesis	34	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+424358	SP	Genesis	34	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508471	SP	Deuteronomy	12	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508477	SP	Deuteronomy	12	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508487	SP	Deuteronomy	12	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471507	SP	Leviticus	20	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471509	SP	Leviticus	20	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491880	SP	Numbers	22	36	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471085	SP	Leviticus	19	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502672	SP	Deuteronomy	4	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+502673	SP	Deuteronomy	4	7	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+513233	SP	Deuteronomy	22	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+410461	SP	Genesis	11	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+408226	SP	Genesis	6	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+499791	SP	Numbers	35	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+460872	SP	Leviticus	4	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472286	SP	Leviticus	22	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472296	SP	Leviticus	22	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516574	SP	Deuteronomy	28	56	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441205	SP	Exodus	12	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491362	SP	Numbers	22	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491366	SP	Numbers	22	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+491371	SP	Numbers	22	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514138	SP	Deuteronomy	24	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514144	SP	Deuteronomy	24	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+447873	SP	Exodus	22	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447887	SP	Exodus	22	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447892	SP	Exodus	22	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471744	SP	Leviticus	21	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447121	SP	Exodus	21	18	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+447130	SP	Exodus	21	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+444219	SP	Exodus	16	24	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+444223	SP	Exodus	16	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465347	SP	Leviticus	11	38	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+505843	SP	Deuteronomy	8	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502447	SP	Deuteronomy	3	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+508932	SP	Deuteronomy	13	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445146	SP	Exodus	18	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+424449	SP	Genesis	34	23	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+474137	SP	Leviticus	25	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+474146	SP	Leviticus	25	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483418	SP	Numbers	10	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+483420	SP	Numbers	10	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471571	SP	Leviticus	20	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471582	SP	Leviticus	20	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454265	SP	Exodus	33	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+511934	SP	Deuteronomy	20	6	MJ	MJ	MJ				NA			NA	prin				W	nn	nn	מי
+511941	SP	Deuteronomy	20	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+509730	SP	Deuteronomy	15	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513322	SP	Deuteronomy	22	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513328	SP	Deuteronomy	22	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438895	SP	Exodus	8	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494982	SP	Numbers	28	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422365	SP	Genesis	31	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+499867	SP	Numbers	35	34	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+499881	SP	Numbers	35	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430382	SP	Genesis	43	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430383	SP	Genesis	43	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430393	SP	Genesis	43	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472365	SP	Leviticus	22	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432112	SP	Genesis	46	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+517205	SP	Deuteronomy	29	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435289	SP	Exodus	3	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514214	SP	Deuteronomy	24	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514217	SP	Deuteronomy	24	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500916	SP	Deuteronomy	1	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440514	SP	Exodus	10	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+447942	SP	Exodus	22	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471809	SP	Leviticus	21	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471818	SP	Leviticus	21	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+409108	SP	Genesis	8	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+409122	SP	Genesis	8	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452578	SP	Exodus	29	46	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+477532	SP	Numbers	2	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486205	SP	Numbers	14	43	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486218	SP	Numbers	14	43	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486226	SP	Numbers	14	43	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470760	SP	Leviticus	19	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470765	SP	Leviticus	19	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470770	SP	Leviticus	19	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+475321	SP	Leviticus	26	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+439244	SP	Exodus	9	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+465441	SP	Leviticus	11	42	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465443	SP	Leviticus	11	42	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+460391	SP	Leviticus	4	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+460400	SP	Leviticus	4	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492644	SP	Numbers	24	9	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+516197	SP	Deuteronomy	28	36	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487223	SP	Numbers	16	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+498809	SP	Numbers	34	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452077	SP	Exodus	29	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416125	SP	Genesis	22	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465969	SP	Leviticus	13	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465971	SP	Leviticus	13	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473138	SP	Leviticus	23	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+473146	SP	Leviticus	23	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488345	SP	Numbers	18	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+509804	SP	Deuteronomy	15	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509807	SP	Deuteronomy	15	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509811	SP	Deuteronomy	15	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509816	SP	Deuteronomy	15	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472435	SP	Leviticus	22	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472437	SP	Leviticus	22	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472438	SP	Leviticus	22	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509086	SP	Deuteronomy	14	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509097	SP	Deuteronomy	14	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509104	SP	Deuteronomy	14	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509109	SP	Deuteronomy	14	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+406975	SP	Genesis	3	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406978	SP	Genesis	3	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442014	SP	Exodus	12	46	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442026	SP	Exodus	12	46	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470826	SP	Leviticus	19	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470831	SP	Leviticus	19	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470838	SP	Leviticus	19	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+475383	SP	Leviticus	26	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492718	SP	Numbers	24	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+415236	SP	Genesis	21	7	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+415244	SP	Genesis	21	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+437981	SP	Exodus	7	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+516263	SP	Deuteronomy	28	40	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516265	SP	Deuteronomy	28	40	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+504612	SP	Deuteronomy	6	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504617	SP	Deuteronomy	6	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504623	SP	Deuteronomy	6	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500496	SP	Deuteronomy	1	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500506	SP	Deuteronomy	1	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500511	SP	Deuteronomy	1	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447694	SP	Exodus	22	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447704	SP	Exodus	22	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+518488	SP	Deuteronomy	31	17	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+518490	SP	Deuteronomy	31	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+455070	SP	Exodus	34	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+455082	SP	Exodus	34	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+440999	SP	Exodus	11	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+431146	SP	Genesis	45	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431150	SP	Genesis	45	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485826	SP	Numbers	14	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503703	SP	Deuteronomy	5	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503713	SP	Deuteronomy	5	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426352	SP	Genesis	37	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446893	SP	Exodus	21	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443900	SP	Exodus	16	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+443903	SP	Exodus	16	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505544	SP	Deuteronomy	8	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505550	SP	Deuteronomy	8	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474786	SP	Leviticus	25	54	L>	L>	L>				NA			NA	nega					nn	nn	לא
+434636	SP	Exodus	1	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+434637	SP	Exodus	1	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+434644	SP	Exodus	1	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+416942	SP	Genesis	24	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422514	SP	Genesis	31	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464536	SP	Leviticus	10	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506286	SP	Deuteronomy	9	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+506290	SP	Deuteronomy	9	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+444819	SP	Exodus	18	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+424156	SP	Genesis	34	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+424168	SP	Genesis	34	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486398	SP	Numbers	15	8	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+510749	SP	Deuteronomy	17	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+435476	SP	Exodus	3	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435484	SP	Exodus	3	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471285	SP	Leviticus	20	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440671	SP	Exodus	10	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430864	SP	Genesis	44	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470908	SP	Leviticus	19	23	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+470929	SP	Leviticus	19	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430064	SP	Genesis	43	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516306	SP	Deuteronomy	28	44	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504666	SP	Deuteronomy	6	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513908	SP	Deuteronomy	24	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513913	SP	Deuteronomy	24	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513918	SP	Deuteronomy	24	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+447744	SP	Exodus	22	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518588	SP	Deuteronomy	31	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518605	SP	Deuteronomy	31	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518606	SP	Deuteronomy	31	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518611	SP	Deuteronomy	31	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443975	SP	Exodus	16	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+480109	SP	Numbers	6	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480115	SP	Numbers	6	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480122	SP	Numbers	6	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+482388	SP	Numbers	8	25	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+445786	SP	Exodus	19	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+445790	SP	Exodus	19	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445800	SP	Exodus	19	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+484121	SP	Numbers	11	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+422618	SP	Genesis	31	34	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510936	SP	Deuteronomy	18	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464636	SP	Leviticus	10	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508659	SP	Deuteronomy	13	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508689	SP	Deuteronomy	13	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+428879	SP	Genesis	41	51	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442318	SP	Exodus	13	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508305	SP	Deuteronomy	12	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508312	SP	Deuteronomy	12	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+430937	SP	Genesis	44	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+438515	SP	Exodus	8	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+405596	SP	Genesis	1	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492193	SP	Numbers	23	12	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+499615	SP	Numbers	35	22	L>	L>	L>				NA			NA	nega				B	nn	nn	לא
+499624	SP	Numbers	35	22	L>	L>	L>				NA			NA	nega				B	nn	nn	לא
+426917	SP	Genesis	38	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426920	SP	Genesis	38	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426926	SP	Genesis	38	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472151	SP	Leviticus	22	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440224	SP	Exodus	10	8	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+440226	SP	Exodus	10	8	MJ	MJ	MJ				NA			NA	prin				W	nn	nn	מי
+406650	SP	Genesis	3	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+406654	SP	Genesis	3	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+412413	SP	Genesis	15	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+412419	SP	Genesis	15	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+418446	SP	Genesis	25	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513363	SP	Deuteronomy	23	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513370	SP	Deuteronomy	23	1	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+466816	SP	Leviticus	13	52	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+411231	SP	Genesis	12	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511012	SP	Deuteronomy	18	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508758	SP	Deuteronomy	13	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442400	SP	Exodus	13	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490831	SP	Numbers	21	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+480005	SP	Numbers	5	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448497	SP	Exodus	23	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+430997	SP	Genesis	44	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431009	SP	Genesis	44	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509527	SP	Deuteronomy	15	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509528	SP	Deuteronomy	15	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509532	SP	Deuteronomy	15	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506829	SP	Deuteronomy	10	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513129	SP	Deuteronomy	22	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438646	SP	Exodus	8	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+438701	SP	Exodus	8	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432333	SP	Genesis	47	9	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+472229	SP	Leviticus	22	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470070	SP	Leviticus	17	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470086	SP	Leviticus	17	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470088	SP	Leviticus	17	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503235	SP	Deuteronomy	4	32	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505885	SP	Deuteronomy	9	2	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+428483	SP	Genesis	41	31	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+428498	SP	Genesis	41	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+500761	SP	Deuteronomy	1	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500764	SP	Deuteronomy	1	29	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+518778	SP	Deuteronomy	31	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518782	SP	Deuteronomy	31	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518802	SP	Deuteronomy	31	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406730	SP	Genesis	3	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470650	SP	Leviticus	19	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+520186	SP	Deuteronomy	34	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+475193	SP	Leviticus	26	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438983	SP	Exodus	9	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+435974	SP	Exodus	4	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+435990	SP	Exodus	4	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492514	SP	Numbers	24	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492524	SP	Numbers	24	1	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+420214	SP	Genesis	28	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421655	SP	Genesis	30	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+484291	SP	Numbers	11	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436896	SP	Exodus	6	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+485569	SP	Numbers	14	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442513	SP	Exodus	13	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423529	SP	Genesis	32	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423530	SP	Genesis	32	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470469	SP	Leviticus	18	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+509625	SP	Deuteronomy	15	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474574	SP	Leviticus	25	42	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474582	SP	Leviticus	25	42	L>	L>	L>				NA			NA	nega					nn	nn	לא
+432405	SP	Genesis	47	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+405774	SP	Genesis	1	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414090	SP	Genesis	19	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414112	SP	Genesis	19	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492336	SP	Numbers	23	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+488797	SP	Numbers	18	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+418962	SP	Genesis	26	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506000	SP	Deuteronomy	9	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506001	SP	Deuteronomy	9	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+506017	SP	Deuteronomy	9	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+510421	SP	Deuteronomy	17	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510436	SP	Deuteronomy	17	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488038	SP	Numbers	17	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433438	SP	Genesis	49	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509450	SP	Deuteronomy	14	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+406795	SP	Genesis	3	11	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+406798	SP	Genesis	3	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423864	SP	Genesis	33	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423868	SP	Genesis	33	11	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+470705	SP	Leviticus	19	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470708	SP	Leviticus	19	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470711	SP	Leviticus	19	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+520256	SP	Deuteronomy	34	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+475263	SP	Leviticus	26	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436050	SP	Exodus	4	14	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+436056	SP	Exodus	4	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512593	SP	Deuteronomy	21	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412660	SP	Genesis	16	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420322	SP	Genesis	28	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+420323	SP	Genesis	28	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510413	SP	Deuteronomy	16	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+500375	SP	Deuteronomy	1	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436976	SP	Exodus	6	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+419806	SP	Genesis	27	36	L>	L>	L>				NA			NA	nega				H	nn	nn	לא
+470557	SP	Leviticus	18	30	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470560	SP	Leviticus	18	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501895	SP	Deuteronomy	3	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+466497	SP	Leviticus	13	36	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474659	SP	Leviticus	25	46	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504219	SP	Deuteronomy	5	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+424770	SP	Genesis	35	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429417	SP	Genesis	42	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+429419	SP	Genesis	42	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429422	SP	Genesis	42	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483797	SP	Numbers	11	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+483810	SP	Numbers	11	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+414197	SP	Genesis	19	12	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+492394	SP	Numbers	23	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+419026	SP	Genesis	26	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464356	SP	Leviticus	10	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464360	SP	Leviticus	10	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464363	SP	Leviticus	10	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+407481	SP	Genesis	4	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490395	SP	Numbers	21	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446266	SP	Exodus	20	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+479601	SP	Numbers	5	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505253	SP	Deuteronomy	7	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433491	SP	Genesis	49	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+433502	SP	Genesis	49	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452948	SP	Exodus	30	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+452953	SP	Exodus	30	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512826	SP	Deuteronomy	22	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+411529	SP	Genesis	13	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514309	SP	Deuteronomy	25	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514321	SP	Deuteronomy	25	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+499406	SP	Numbers	35	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429885	SP	Genesis	43	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+426659	SP	Genesis	38	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426661	SP	Genesis	38	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426666	SP	Genesis	38	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519115	SP	Deuteronomy	32	21	L>	L>	L>				NA			NA	nega				B	nn	nn	לא
+519124	SP	Deuteronomy	32	21	L>	L>	L>				NA			NA	nega				B	nn	nn	לא
+413908	SP	Genesis	18	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+453951	SP	Exodus	32	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453954	SP	Exodus	32	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447584	SP	Exodus	22	6	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+518345	SP	Deuteronomy	31	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+431055	SP	Genesis	45	1	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+431074	SP	Genesis	45	1	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+507716	SP	Deuteronomy	11	30	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+443811	SP	Exodus	16	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466561	SP	Leviticus	13	40	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482193	SP	Numbers	8	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445617	SP	Exodus	19	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+515741	SP	Deuteronomy	28	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+483904	SP	Numbers	11	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483911	SP	Numbers	11	18	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+483914	SP	Numbers	11	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421054	SP	Genesis	29	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421057	SP	Genesis	29	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442156	SP	Exodus	13	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+442166	SP	Exodus	13	3	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+490506	SP	Numbers	21	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+490507	SP	Numbers	21	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+490513	SP	Numbers	21	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446482	SP	Exodus	20	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446494	SP	Exodus	20	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446514	SP	Exodus	20	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446515	SP	Exodus	20	19	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+471185	SP	Leviticus	20	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505340	SP	Deuteronomy	7	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505344	SP	Deuteronomy	7	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+425810	SP	Genesis	37	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+425821	SP	Genesis	37	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470261	SP	Leviticus	18	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470264	SP	Leviticus	18	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474286	SP	Leviticus	25	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474287	SP	Leviticus	25	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512919	SP	Deuteronomy	22	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512929	SP	Deuteronomy	22	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+512934	SP	Deuteronomy	22	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514436	SP	Deuteronomy	25	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480725	SP	Numbers	7	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480727	SP	Numbers	7	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+412803	SP	Genesis	16	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428276	SP	Genesis	41	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+454045	SP	Exodus	32	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513795	SP	Deuteronomy	24	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513807	SP	Deuteronomy	24	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513812	SP	Deuteronomy	24	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487711	SP	Numbers	17	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+495395	SP	Numbers	29	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+444788	SP	Exodus	17	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494155	SP	Numbers	26	64	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474979	SP	Leviticus	26	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471957	SP	Leviticus	21	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+493414	SP	Numbers	26	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+416342	SP	Genesis	23	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504393	SP	Deuteronomy	5	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513717	SP	Deuteronomy	23	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513723	SP	Deuteronomy	23	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513727	SP	Deuteronomy	23	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429573	SP	Genesis	42	31	L>	L>	L>				NA			NA	nega					nn	nn	לא
+414406	SP	Genesis	19	20	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+508550	SP	Deuteronomy	13	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442246	SP	Exodus	13	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+442251	SP	Exodus	13	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+446818	SP	Exodus	20	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446826	SP	Exodus	20	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+479802	SP	Numbers	5	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+479807	SP	Numbers	5	20	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+505415	SP	Deuteronomy	7	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505427	SP	Deuteronomy	7	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+448329	SP	Exodus	23	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448334	SP	Exodus	23	24	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+448337	SP	Exodus	23	24	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+448341	SP	Exodus	23	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472776	SP	Leviticus	23	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470297	SP	Leviticus	18	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470302	SP	Leviticus	18	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474367	SP	Leviticus	25	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474391	SP	Leviticus	25	30	L>	L>	L>				NA			NA	nega					nn	nn	לא
+438399	SP	Exodus	8	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+438408	SP	Exodus	8	11	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+454571	SP	Exodus	33	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+492126	SP	Numbers	23	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+492132	SP	Numbers	23	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422061	SP	Genesis	31	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514483	SP	Deuteronomy	25	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512203	SP	Deuteronomy	20	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512214	SP	Deuteronomy	20	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512222	SP	Deuteronomy	20	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512227	SP	Deuteronomy	20	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512229	SP	Deuteronomy	20	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426818	SP	Genesis	38	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+426826	SP	Genesis	38	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519219	SP	Deuteronomy	32	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+407190	SP	Genesis	4	7	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+407196	SP	Genesis	4	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503066	SP	Deuteronomy	4	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473814	SP	Leviticus	24	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+454120	SP	Exodus	32	33	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+472597	SP	Leviticus	22	29	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+440085	SP	Exodus	10	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511602	SP	Deuteronomy	19	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+441624	SP	Exodus	12	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+494666	SP	Numbers	27	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+494668	SP	Numbers	27	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472015	SP	Leviticus	21	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472022	SP	Leviticus	21	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+409429	SP	Genesis	8	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518888	SP	Deuteronomy	32	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512342	SP	Deuteronomy	21	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+512346	SP	Deuteronomy	21	4	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513778	SP	Deuteronomy	23	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513790	SP	Deuteronomy	23	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447402	SP	Exodus	21	35	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+492871	SP	Numbers	24	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485419	SP	Numbers	14	3	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+417568	SP	Genesis	24	47	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+406422	SP	Genesis	2	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+455263	SP	Exodus	34	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+455265	SP	Exodus	34	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423364	SP	Genesis	32	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+423373	SP	Genesis	32	18	MJ	MJ	MJ				NA			NA	prin				L	nn	nn	מי
+423380	SP	Genesis	32	18	MJ	MJ	MJ				NA			NA	prin				WL	nn	nn	מי
+470350	SP	Leviticus	18	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466192	SP	Leviticus	13	24	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474459	SP	Leviticus	25	34	L>	L>	L>				NA			NA	nega					nn	nn	לא
+474461	SP	Leviticus	25	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429193	SP	Genesis	42	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+418821	SP	Genesis	26	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+503164	SP	Deuteronomy	4	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503167	SP	Deuteronomy	4	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+503170	SP	Deuteronomy	4	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+503173	SP	Deuteronomy	4	28	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+446081	SP	Exodus	20	3	L>	L>	L>				NA			NA	nega					nn	nn	לא
+476131	SP	Leviticus	27	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504970	SP	Deuteronomy	7	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511682	SP	Deuteronomy	19	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436673	SP	Exodus	5	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509251	SP	Deuteronomy	14	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509267	SP	Deuteronomy	14	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+509274	SP	Deuteronomy	14	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447983	SP	Exodus	23	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430502	SP	Genesis	44	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441732	SP	Exodus	12	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452773	SP	Exodus	30	20	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+491816	SP	Numbers	22	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+495907	SP	Numbers	30	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+518946	SP	Deuteronomy	32	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413650	SP	Genesis	18	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439783	SP	Exodus	9	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439788	SP	Exodus	9	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+469623	SP	Leviticus	16	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+482654	SP	Numbers	9	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+482670	SP	Numbers	9	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+482673	SP	Numbers	9	13	L>	L>	L>				NA			NA	nega					nn	nn	לא
+478844	SP	Numbers	4	19	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+487552	SP	Numbers	16	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+415016	SP	Genesis	20	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+464782	SP	Leviticus	11	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+464788	SP	Leviticus	11	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470403	SP	Leviticus	18	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466293	SP	Leviticus	13	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466308	SP	Leviticus	13	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+429254	SP	Genesis	42	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+480292	SP	Numbers	6	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+488718	SP	Numbers	18	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+418898	SP	Genesis	26	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485058	SP	Numbers	13	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461251	SP	Leviticus	5	4	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+462658	SP	Leviticus	7	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+420859	SP	Genesis	29	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417161	SP	Genesis	24	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446149	SP	Exodus	20	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446157	SP	Exodus	20	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+446158	SP	Exodus	20	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+518017	SP	Deuteronomy	30	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505069	SP	Deuteronomy	7	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436738	SP	Exodus	5	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+448035	SP	Exodus	23	8	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+474084	SP	Leviticus	25	14	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+491905	SP	Numbers	22	37	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+491913	SP	Numbers	22	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491918	SP	Numbers	22	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+467312	SP	Leviticus	14	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+412568	SP	Genesis	16	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502689	SP	Deuteronomy	4	8	MJ	MJ	MJ				NA			NA	prin				W	nn	nn	מי
+410476	SP	Genesis	11	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+439855	SP	Exodus	9	33	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516610	SP	Deuteronomy	28	57	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+441216	SP	Exodus	12	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+413104	SP	Genesis	17	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+413109	SP	Genesis	17	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507528	SP	Deuteronomy	11	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+447896	SP	Exodus	22	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447902	SP	Exodus	22	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471752	SP	Leviticus	21	5	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+471760	SP	Leviticus	21	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+471765	SP	Leviticus	21	5	L>	L>	L>				NA			NA	nega					nn	nn	לא
+419713	SP	Genesis	27	32	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+486154	SP	Numbers	14	40	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486163	SP	Numbers	14	40	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486166	SP	Numbers	14	40	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+486168	SP	Numbers	14	40	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+486173	SP	Numbers	14	40	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+462079	SP	Leviticus	6	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466404	SP	Leviticus	13	32	L>	L>	L>				NA			NA	nega					nn	nn	לא
+466409	SP	Leviticus	13	32	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+503983	SP	Deuteronomy	5	20	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513506	SP	Deuteronomy	23	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421246	SP	Genesis	30	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+461379	SP	Leviticus	5	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+420921	SP	Genesis	29	25	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+446209	SP	Exodus	20	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+468743	SP	Leviticus	15	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+468750	SP	Leviticus	15	25	L>	L>	L>				NA			NA	nega				B	nn	nn	לא
+468754	SP	Leviticus	15	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487153	SP	Numbers	16	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511165	SP	Deuteronomy	18	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511184	SP	Deuteronomy	18	14	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501478	SP	Deuteronomy	2	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501479	SP	Deuteronomy	2	19	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501487	SP	Deuteronomy	2	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445164	SP	Exodus	18	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+445169	SP	Exodus	18	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486684	SP	Numbers	15	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+483434	SP	Numbers	10	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514245	SP	Deuteronomy	25	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+511957	SP	Deuteronomy	20	7	MJ	MJ	MJ				NA			NA	prin				W	nn	nn	מי
+511964	SP	Deuteronomy	20	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+496064	SP	Numbers	30	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519063	SP	Deuteronomy	32	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519066	SP	Deuteronomy	32	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+519073	SP	Deuteronomy	32	17	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+493203	SP	Numbers	25	18	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453880	SP	Exodus	32	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475825	SP	Leviticus	27	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+460983	SP	Leviticus	4	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+432141	SP	Genesis	46	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516701	SP	Deuteronomy	28	61	L>	L>	L>				NA			NA	nega					nn	nn	לא
+514230	SP	Deuteronomy	24	22	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+500931	SP	Deuteronomy	1	38	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+471827	SP	Leviticus	21	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431537	SP	Genesis	45	26	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+431547	SP	Genesis	45	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+431548	SP	Genesis	45	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+486244	SP	Numbers	14	44	L>	L>	L>				NA			NA	nega					nn	nn	לא
+421293	SP	Genesis	30	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+408491	SP	Genesis	7	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+444285	SP	Exodus	16	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+465457	SP	Leviticus	11	43	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+469211	SP	Leviticus	16	13	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+462784	SP	Leviticus	7	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507090	SP	Deuteronomy	11	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507091	SP	Deuteronomy	11	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+507095	SP	Deuteronomy	11	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+507099	SP	Deuteronomy	11	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+487227	SP	Numbers	16	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+487239	SP	Numbers	16	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+455025	SP	Exodus	34	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440931	SP	Exodus	11	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+440935	SP	Exodus	11	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+419362	SP	Genesis	27	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+470213	SP	Leviticus	18	6	L>	L>	L>				NA			NA	nega					nn	nn	לא
+459920	SP	Leviticus	2	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+459923	SP	Leviticus	2	11	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+459929	SP	Leviticus	2	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465608	SP	Leviticus	12	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465614	SP	Leviticus	12	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472445	SP	Leviticus	22	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472468	SP	Leviticus	22	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436433	SP	Exodus	5	2	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+436443	SP	Exodus	5	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+436451	SP	Exodus	5	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516807	SP	Deuteronomy	28	65	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516810	SP	Deuteronomy	28	65	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+443491	SP	Exodus	15	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501002	SP	Deuteronomy	1	42	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501005	SP	Deuteronomy	1	42	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+501007	SP	Deuteronomy	1	42	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501012	SP	Deuteronomy	1	42	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+406992	SP	Genesis	3	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+513647	SP	Deuteronomy	23	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513654	SP	Deuteronomy	23	18	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+453395	SP	Exodus	32	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453420	SP	Exodus	32	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+453430	SP	Exodus	32	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465556	SP	Leviticus	11	47	L>	L>	L>				NA			NA	nega					nn	nn	לא
+469311	SP	Leviticus	16	17	L>	L>	L>				NA			NA	nega					nn	nn	לא
+516273	SP	Deuteronomy	28	41	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+516276	SP	Deuteronomy	28	41	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417398	SP	Genesis	24	39	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511331	SP	Deuteronomy	18	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511336	SP	Deuteronomy	18	22	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+511342	SP	Deuteronomy	18	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511350	SP	Deuteronomy	18	22	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501647	SP	Deuteronomy	2	27	L>	L>	L>				NA			NA	nega					nn	nn	לא
+441030	SP	Exodus	11	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+466051	SP	Leviticus	13	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+451612	SP	Exodus	28	43	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+454501	SP	Exodus	33	13	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+505559	SP	Deuteronomy	8	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+512131	SP	Deuteronomy	20	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+509913	SP	Deuteronomy	15	21	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+509924	SP	Deuteronomy	15	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+465695	SP	Leviticus	12	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+420642	SP	Genesis	29	9	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+432768	SP	Genesis	47	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422531	SP	Genesis	31	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422533	SP	Genesis	31	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472534	SP	Leviticus	22	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+472542	SP	Leviticus	22	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+472547	SP	Leviticus	22	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+484436	SP	Numbers	12	8	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+484445	SP	Numbers	12	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+506306	SP	Deuteronomy	9	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452602	SP	Exodus	30	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+452621	SP	Exodus	30	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+510752	SP	Deuteronomy	17	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+473865	SP	Leviticus	25	2	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+443586	SP	Exodus	15	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+443593	SP	Exodus	15	23	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+440682	SP	Exodus	10	29	L>	L>	L>				NA			NA	nega					nn	nn	לא
+510068	SP	Deuteronomy	16	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+439578	SP	Exodus	9	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+411707	SP	Genesis	13	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+433093	SP	Genesis	48	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+458281	SP	Exodus	39	21	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+415339	SP	Genesis	21	12	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516331	SP	Deuteronomy	28	45	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516332	SP	Deuteronomy	28	45	L>	L>	L>				NA			NA	nega					nn	nn	לא
+507282	SP	Deuteronomy	11	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+507291	SP	Deuteronomy	11	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504686	SP	Deuteronomy	6	16	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447754	SP	Exodus	22	15	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+447759	SP	Exodus	22	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+455158	SP	Exodus	34	25	L>	L>	L>				NA			NA	nega					nn	nn	לא
+455165	SP	Exodus	34	25	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+414826	SP	Genesis	20	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+412376	SP	Genesis	15	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+419495	SP	Genesis	27	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+485907	SP	Numbers	14	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+503782	SP	Deuteronomy	5	8	L>	L>	L>				NA			NA	nega					nn	nn	לא
+446988	SP	Exodus	21	7	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+446995	SP	Exodus	21	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+480140	SP	Numbers	6	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505618	SP	Deuteronomy	8	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+505624	SP	Deuteronomy	8	9	L>	L>	L>				NA			NA	nega					nn	nn	לא
+482403	SP	Numbers	8	26	L>	L>	L>				NA			NA	nega					nn	nn	לא
+427736	SP	Genesis	40	14	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+462500	SP	Leviticus	7	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+462505	SP	Leviticus	7	18	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422629	SP	Genesis	31	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422630	SP	Genesis	31	35	L>	L>	L>				NA			NA	nega					nn	nn	לא
+422636	SP	Genesis	31	35	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422644	SP	Genesis	31	35	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+468495	SP	Leviticus	15	13	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+510957	SP	Deuteronomy	18	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517816	SP	Deuteronomy	30	12	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517822	SP	Deuteronomy	30	12	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+504874	SP	Deuteronomy	7	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501194	SP	Deuteronomy	2	7	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+501217	SP	Deuteronomy	2	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501231	SP	Deuteronomy	2	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501239	SP	Deuteronomy	2	7	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+501247	SP	Deuteronomy	2	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+501258	SP	Deuteronomy	2	7	L>	L>	L>				NA			NA	nega					nn	nn	לא
+409539	SP	Genesis	9	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+506423	SP	Deuteronomy	9	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+506427	SP	Deuteronomy	9	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+427116	SP	Genesis	39	6	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+427120	SP	Genesis	39	6	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+428896	SP	Genesis	41	52	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+508319	SP	Deuteronomy	12	24	L>	L>	L>				NA			NA	nega					nn	nn	לא
+491712	SP	Numbers	22	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+491720	SP	Numbers	22	29	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+470985	SP	Leviticus	19	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+470992	SP	Leviticus	19	28	L>	L>	L>				NA			NA	nega					nn	nn	לא
+467769	SP	Leviticus	14	34	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+475563	SP	Leviticus	26	44	L>	L>	L>				NA			NA	nega					nn	nn	לא
+475566	SP	Leviticus	26	44	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+475574	SP	Leviticus	26	44	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+408109	SP	Genesis	6	5	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413596	SP	Genesis	18	15	L>	L>	L>				NA			NA	nega					nn	nn	לא
+413598	SP	Genesis	18	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+413603	SP	Genesis	18	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436392	SP	Exodus	4	31	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+436399	SP	Exodus	4	31	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+499634	SP	Numbers	35	23	L>	L>	L>				NA			NA	nega				B	nn	nn	לא
+499643	SP	Numbers	35	23	L>	L>	L>				NA			NA	nega					nn	nn	לא
+499647	SP	Numbers	35	23	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+430153	SP	Genesis	43	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+415419	SP	Genesis	21	16	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514674	SP	Deuteronomy	26	3	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+516420	SP	Deuteronomy	28	49	L>	L>	L>				NA			NA	nega					nn	nn	לא
+478768	SP	Numbers	4	15	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+517000	SP	Deuteronomy	29	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+517007	SP	Deuteronomy	29	4	L>	L>	L>				NA			NA	nega					nn	nn	לא
+504749	SP	Deuteronomy	6	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514013	SP	Deuteronomy	24	10	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+514019	SP	Deuteronomy	24	10	L>	L>	L>				NA			NA	nega					nn	nn	לא
+500698	SP	Deuteronomy	1	26	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+513374	SP	Deuteronomy	23	2	L>	L>	L>				NA			NA	nega					nn	nn	לא
+421120	SP	Genesis	30	1	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+421121	SP	Genesis	30	1	L>	L>	L>				NA			NA	nega					nn	nn	לא
+447048	SP	Exodus	21	11	L>	L>	L>				NA			NA	nega					nn	nn	לא
+502294	SP	Deuteronomy	3	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+519928	SP	Deuteronomy	33	19	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+417105	SP	Genesis	24	23	MJ	MJ	MJ				NA			NA	prin					nn	nn	מי
+422709	SP	Genesis	31	39	L>	L>	L>				NA			NA	nega					nn	nn	לא
+511040	SP	Deuteronomy	18	6	KJ	KJ	KJ				NA			NA	conj				W	nn	nn	כי
+508781	SP	Deuteronomy	13	12	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+427219	SP	Genesis	39	10	L>	L>	L>				NA			NA	nega				W	nn	nn	לא
+435733	SP	Exodus	3	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+435735	SP	Exodus	3	21	L>	L>	L>				NA			NA	nega					nn	nn	לא
+508408	SP	Deuteronomy	12	28	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+426059	SP	Genesis	37	17	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+459339	SP	Exodus	40	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+459343	SP	Exodus	40	37	L>	L>	L>				NA			NA	nega					nn	nn	לא
+513151	SP	Deuteronomy	22	21	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+422232	SP	Genesis	31	15	L>	LW>	LW>				NA			NA	nega				H	nnn	nnn	לוא
+422237	SP	Genesis	31	15	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430246	SP	Genesis	43	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
+430248	SP	Genesis	43	25	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי
