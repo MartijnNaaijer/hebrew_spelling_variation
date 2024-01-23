@@ -27,11 +27,11 @@ def main():
     # Remove ad hoc words with variation between one/more matres
     #mt_dss_sp_nouns_adjvs.to_csv(os.path.join(data_path, 'nouns_adjectives.csv'), sep='\t', index=False)
 
-    ptca, ptcp = pf.get_participle_qal_data(corpus, mt)
-    ptca = ptca.sort_values(by=['tf_id'])
-    ptcp = ptcp.sort_values(by=['tf_id'])
-    ptca.to_csv(os.path.join(data_path, 'ptca_qal.csv'), sep='\t', index=False)
-    ptcp.to_csv(os.path.join(data_path, 'ptcp_qal.csv'), sep='\t', index=False)
+    #ptca, ptcp = pf.get_participle_qal_data(corpus, mt)
+    #ptca = ptca.sort_values(by=['tf_id'])
+    #ptcp = ptcp.sort_values(by=['tf_id'])
+    #ptca.to_csv(os.path.join(data_path, 'ptca_qal.csv'), sep='\t', index=False)
+    #ptcp.to_csv(os.path.join(data_path, 'ptcp_qal.csv'), sep='\t', index=False)
     # # # TODO: patterns "CCMC" are strange, "CMCC" is expected.
     #
     # lamed_he_infc, other_infc = pf.get_qal_infinitive_construct_data(corpus, mt)
@@ -48,9 +48,9 @@ def main():
     # print(hiph_triliteral.shape)
     # hiph_triliteral.to_csv(os.path.join(data_path, 'hiphil_triliteral.csv'), sep='\t', index=False)
     #
-    # particles = pf.get_particles(corpus, mt)
-    # print(particles.shape)
-    # particles.to_csv(os.path.join(data_path, 'particles.csv'), sep='\t', index=False)
+    particles = pf.get_particles(corpus, mt)
+    print(particles.shape)
+    particles.to_csv(os.path.join(data_path, 'particles.csv'), sep='\t', index=False)
     #
     # qal_inf_abs = pf.get_qal_infinitive_absolute(corpus, mt)
     # print(qal_inf_abs.shape)
