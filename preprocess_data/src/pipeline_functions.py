@@ -311,7 +311,7 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt):
     niph_hiph_pe_yod_df = rec_cor_columns_adder.data
 
     useless_hif_nif_pe_yod = UselessHiphNiphPeYod(niph_hiph_pe_yod_df)
-    niph_hiph_pe_yod_df = useless_hif_nif_pe_yod.data_no_second_h
+    niph_hiph_pe_yod_df = useless_hif_nif_pe_yod.no_cons_waw_yod
 
     matres_column_adder_hif_nif_pe_yod = MatresColumnAdderHifNifPeYod(niph_hiph_pe_yod_df)
     niph_hiph_pe_yod_df = matres_column_adder_hif_nif_pe_yod.data

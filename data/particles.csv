@@ -10255,8 +10255,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 421438	SP	Genesis	30	20	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי		-	-	0	0	0	0	nn	nn	single	J	0
 421526	SP	Genesis	30	26	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי		-	-	0	0	0	0	nn	nn	single	J	0
 421532	MT	2_Chronicles	29	24	KJ	KJ	KJ	CM	CM	NA	NA			NA	conj					nn	nn	כי		-	-	0	0	0	0	nn	nn	single	J	0
-421570	SP	Genesis	30	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי		-	-	0	0	0	0	nn	nn	single	J	0
 421570	MT	2_Chronicles	29	25	KJ	KJ	KJ	CM	CM	NA	NA			NA	conj					nn	nn	כי		-	-	0	0	0	0	nn	nn	single	J	0
+421570	SP	Genesis	30	30	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי		-	-	0	0	0	0	nn	nn	single	J	0
 421603	SP	Genesis	30	31	L>	L>	L>				NA			NA	nega					nn	nn	לא		-	-	0	0	0	0	nn	nn	single	>	0
 421655	SP	Genesis	30	33	KJ	KJ	KJ				NA			NA	conj					nn	nn	כי		-	-	0	0	0	0	nn	nn	single	J	0
 421681	SP	Genesis	30	34	L>	L>	L>				NA			NA	nega					nn	nn	לא		-	-	0	0	0	0	nn	nn	single	>	0
