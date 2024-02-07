@@ -39,7 +39,7 @@ class ParticiplesCorrector:
         self.data['pattern'] = 'C' + self.data.pattern.str[1:]
 
     def select_triconsonantal_stems(self):
-        self.data = self.data[(self.data.pattern.str.count('C') == 3)]
+        self.data = self.data[(self.data.pattern.str.count('C') > 1)] # We keep cases like PNH[
 
 
 class MatresColumnAdderParticiples:

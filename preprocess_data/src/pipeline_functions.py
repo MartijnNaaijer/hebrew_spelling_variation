@@ -220,6 +220,7 @@ def get_qal_infinitive_construct_data(corpus, mt):
 def get_participle_qal_data(corpus, mt):
     basic_mt_data_selector = BasicMTDataSelector(data=mt, relevant_data='ptc_qal')
     mt_ptc_qal_df = basic_mt_data_selector.select_data()
+    print(0, 'PNH[' in list(mt_ptc_qal_df.lex))
 
     ###################################################################################################
     matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
@@ -247,8 +248,14 @@ def get_participle_qal_data(corpus, mt):
     mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, dss_ptc_qal_df, sp_ptc_qal_df])
     mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
 
+    mt = mt_dss_ptc_qal_df[(mt_dss_ptc_qal_df.scroll == 'MT') & (mt_dss_ptc_qal_df.vt == 'ptca')]
+    print(4, 'PNH[' in list(mt.lex))
+
     useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = useless_participles_remover.clean_ptc_data
+
+    mt = mt_dss_ptc_qal_df[(mt_dss_ptc_qal_df.scroll == 'MT') & (mt_dss_ptc_qal_df.vt == 'ptca')]
+    print(5, 'PNH[' in list(mt.lex))
 
     final_aleph_converter = FinalAlephConverter(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = final_aleph_converter.data
@@ -259,14 +266,23 @@ def get_participle_qal_data(corpus, mt):
     other_vowel_endings_column_adder = OtherVowelEndingsColumnAdder(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = other_vowel_endings_column_adder.data
 
+    mt = mt_dss_ptc_qal_df[(mt_dss_ptc_qal_df.scroll == 'MT') & (mt_dss_ptc_qal_df.vt == 'ptca')]
+    print(6, 'PNH[' in list(mt.lex))
+
     final_yod_remover = FinalYodRemover(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = final_yod_remover.data
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = mt_dss_help_columns_adder.mt_dss_data
 
+    mt = mt_dss_ptc_qal_df[(mt_dss_ptc_qal_df.scroll == 'MT') & (mt_dss_ptc_qal_df.vt == 'ptca')]
+    print(7, 'PNH[' in list(mt.lex))
+
     rec_cor_columns_adder = RecCorColumnsAdder(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = rec_cor_columns_adder.data
+
+    mt = mt_dss_ptc_qal_df[(mt_dss_ptc_qal_df.scroll == 'MT') & (mt_dss_ptc_qal_df.vt == 'ptca')]
+    print(7.5, 'PNH[' in list(mt.lex))
 
     ptca = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptca']
     ptcp = mt_dss_ptc_qal_df[mt_dss_ptc_qal_df.vt == 'ptcp']
@@ -274,11 +290,20 @@ def get_participle_qal_data(corpus, mt):
     participles_corrector = ParticiplesCorrector(ptca)
     ptca = participles_corrector.data
 
+    mt = ptca[(ptca.scroll == 'MT') & (ptca.vt == 'ptca')]
+    print(8, 'PNH[' in list(mt.lex))
+
     matres_column_adder_ptca = MatresColumnAdderParticiples(ptca, 'ptca')
     ptca = matres_column_adder_ptca.data
 
+    mt = ptca[(ptca.scroll == 'MT') & (ptca.vt == 'ptca')]
+    print(9, 'PNH[' in list(mt.lex))
+
     invalid_data_remover = InvalidDataRemover(ptca)
     ptca = invalid_data_remover.data_complete_syllables
+
+    mt = ptca[(ptca.scroll == 'MT') & (ptca.vt == 'ptca')]
+    print(10, 'PNH[' in list(mt.lex))
 
     pp_nme_cleaner = PassiveParticipleNMECleaner(ptcp)
     ptcp = pp_nme_cleaner.data

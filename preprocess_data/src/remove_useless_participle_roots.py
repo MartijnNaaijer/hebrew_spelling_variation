@@ -5,11 +5,16 @@ import pandas as pd
 class UselessParticiplesRemover:
     def __init__(self, data):
         self.data = data
+        mt = self.data[self.data.lex == 'MT']
+        print(1, 'PNH[' in list(mt.lex))
         self.data_with_pattern = self.remove_rows_without_pattern()
         self.data_longer_pattern = self.remove_short_pattern()
         self.data_no_hollow_roots = self.remove_hollow_roots()
-        self.no_ayin_ayin_data = self.remove_ayin_ayin_verbs()
-        self.clean_ptc_data = self.remove_irregular_patterns()
+        mt = self.data_no_hollow_roots[self.data_no_hollow_roots.lex == 'MT']
+        print(2, 'PNH[' in list(mt.lex))
+        self.clean_ptc_data = self.remove_ayin_ayin_verbs()
+        mt = self.clean_ptc_data[self.clean_ptc_data.lex == 'MT']
+        print(3, 'PNH[' in list(mt.lex))
 
     def remove_rows_without_pattern(self):
         """MT cases have to have a pattern."""
@@ -19,7 +24,7 @@ class UselessParticiplesRemover:
 
     def remove_short_pattern(self):
         data_copy = self.data_with_pattern.copy()
-        copy_cleaned = data_copy[data_copy.pattern.str.len() > 2]
+        copy_cleaned = data_copy[data_copy.pattern.str.len() > 1]
         return copy_cleaned
 
     def remove_hollow_roots(self):
@@ -29,13 +34,7 @@ class UselessParticiplesRemover:
     def remove_ayin_ayin_verbs(self):
         """Remove ayin ayin verbs where last consonant has dropped"""
         data_no_hollow_copy = self.data_no_hollow_roots.copy()
-        return data_no_hollow_copy[~((data_no_hollow_copy.lex.str[1] == data_no_hollow_copy.lex.str[2]) &
-                                   (data_no_hollow_copy.stem.str.len == 2))]
-
-    def remove_irregular_patterns(self):
-        return self.no_ayin_ayin_data[((self.no_ayin_ayin_data.vt == 'ptca') &
-                                     (self.no_ayin_ayin_data.pattern.str[:3].isin(['CCC', 'CMC']))) |
-                                     (self.no_ayin_ayin_data.vt == 'ptcp')]
+        return data_no_hollow_copy[~(data_no_hollow_copy.lex.str[1] == data_no_hollow_copy.lex.str[2])]
 
 
 class PassiveParticipleNMECleaner:
