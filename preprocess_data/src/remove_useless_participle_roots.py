@@ -5,16 +5,10 @@ import pandas as pd
 class UselessParticiplesRemover:
     def __init__(self, data):
         self.data = data
-        mt = self.data[self.data.lex == 'MT']
-        print(1, 'PNH[' in list(mt.lex))
         self.data_with_pattern = self.remove_rows_without_pattern()
         self.data_longer_pattern = self.remove_short_pattern()
         self.data_no_hollow_roots = self.remove_hollow_roots()
-        mt = self.data_no_hollow_roots[self.data_no_hollow_roots.lex == 'MT']
-        print(2, 'PNH[' in list(mt.lex))
         self.clean_ptc_data = self.remove_ayin_ayin_verbs()
-        mt = self.clean_ptc_data[self.clean_ptc_data.lex == 'MT']
-        print(3, 'PNH[' in list(mt.lex))
 
     def remove_rows_without_pattern(self):
         """MT cases have to have a pattern."""
@@ -33,8 +27,17 @@ class UselessParticiplesRemover:
 
     def remove_ayin_ayin_verbs(self):
         """Remove ayin ayin verbs where last consonant has dropped"""
-        data_no_hollow_copy = self.data_no_hollow_roots.copy()
-        return data_no_hollow_copy[~(data_no_hollow_copy.lex.str[1] == data_no_hollow_copy.lex.str[2])]
+        data_copy = self.data_no_hollow_roots.copy()
+        ayin_ayin = data_copy[data_copy.lex.str[1] == data_copy.lex.str[2]]
+        no_ayin_ayin = data_copy[~(data_copy.lex.str[1] == data_copy.lex.str[2])]
+        ay_ay_strings = ayin_ayin.lex.str[1:3]
+        ay_ay_bools = [(ay_ay_string in ay_ay_g_cons) or (vt == 'ptcp') for ay_ay_string, ay_ay_g_cons, vt in
+                       zip(ay_ay_strings, ayin_ayin.g_cons, ayin_ayin.vt)]
+        ayin_ayin = ayin_ayin[ay_ay_bools]
+        all_data = pd.concat([ayin_ayin, no_ayin_ayin])
+        all_data = all_data.sort_values(by='tf_id')
+
+        return all_data
 
 
 class PassiveParticipleNMECleaner:

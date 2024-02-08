@@ -8,6 +8,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 616	MT	Genesis	1	29	ZR<[	ZR<	ZR<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	זרע		-	-	0	0	0	0	nnn	nnn	first		0
 637	MT	Genesis	1	30	RMF[	RWMF	RWMF	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	רומש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 865	MT	Genesis	2	10	JY>[	JY>	JY>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+888	MT	Genesis	2	11	SBB[	SBB	SBB	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	סבב		-	-	0	1	0	0	nnn	nnn	first		0
+921	MT	Genesis	2	13	SBB[	SWBB	SWBB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	סובב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 935	MT	Genesis	2	14	HLK[	HLK	HLK	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
 1243	MT	Genesis	3	5	JD<[	JD<	JD<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	first		0
 1257	MT	Genesis	3	5	JD<[	JD<J	JD<	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ידעי		-	-	0	0	0	1	nnn	nnn	first		0
@@ -93,6 +95,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 13351	MT	Genesis	26	20	R<H[	R<J	R<	CC	CCM	qal	ptca	pl	m	unknown	verb		J			nnn	nnn	רעי		-	-	0	0	0	1	nn	nn	first		0
 13354	MT	Genesis	26	20	R<H[	R<J	R<	CC	CCM	qal	ptca	pl	m	unknown	verb		J			nnn	nnn	רעי		-	-	0	0	0	1	nn	nn	first		0
 13707	MT	Genesis	27	5	CM<[	CM<T	CM<	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	שמעת		-	-	0	0	0	1	nnn	nnn	first		0
+14124	MT	Genesis	27	29	>RR[	>RRJK	>RR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	ארריך		-	-	1	0	0	1	nnn	nnn	first		0
 14485	MT	Genesis	27	46	LQX[	LQX	LQX	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	לקח		-	-	0	0	0	0	nnn	nnn	first		0
 14723	MT	Genesis	28	12	<LH[	<LJM	<L	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	עלים		-	-	0	0	0	1	nn	nn	first		0
 14725	MT	Genesis	28	12	JRD[	JRDJM	JRD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnn	nnnnn	ירדים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -129,6 +132,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 20638	MT	Genesis	37	25	NF>[	NF>JM	NF>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נשאים		-	-	0	0	0	1	nnn	nnn	first		0
 20644	MT	Genesis	37	25	HLK[	HWLKJM	HWLK	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	הולכים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 20685	MT	Genesis	37	28	SXR[	SXRJM	SXR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	סחרים		-	-	0	0	0	1	nnn	nnn	first		0
+21041	MT	Genesis	38	12	GZZ[	GZZJ	GZZ	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	גזזי		-	-	0	0	0	1	nnn	nnn	first		0
 21058	MT	Genesis	38	13	<LH[	<LH	<L	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עלה	H	-	-	0	0	0	0	nn	nn	first		0
 21103	MT	Genesis	38	15	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H		L	nnnn	nnnn	זונה		-	-	0	1	0	1	nnn	nnn	first	W	1
 21464	MT	Genesis	39	3	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
@@ -289,9 +293,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 41112	MT	Exodus	23	5	FN>[	FN>K	FN>	CCC	CCCC	qal	ptca	sg	m	unknown	verb	K				nnnn	nnnn	שנאך		-	-	1	0	0	0	nnn	nnn	first		0
 41113	MT	Exodus	23	5	RBY[	RBY	RBY	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	רבץ		-	-	0	0	0	0	nnn	nnn	first		0
 41347	MT	Exodus	23	20	CLX[	CLX	CLX	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
+41401	MT	Exodus	23	22	YRR=[	YRRJK	YRR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	צרריך		-	-	1	0	0	1	nnn	nnn	first		0
 41571	MT	Exodus	23	31	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 41944	MT	Exodus	24	17	>KL[	>KLT	>KL	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	אכלת		-	-	0	0	0	1	nnn	nnn	first		0
 42252	MT	Exodus	25	20	PRF[	PRFJ	PRF	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	פרשי		-	-	0	0	0	1	nnn	nnn	first		0
+42256	MT	Exodus	25	20	SKK[	SKKJM	SKK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	סככים		-	-	0	0	0	1	nnn	nnn	first		0
 42463	MT	Exodus	25	32	JY>[	JY>JM	JY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	יצאים		-	-	0	0	0	1	nnn	nnn	first		0
 42510	MT	Exodus	25	33	JY>[	JY>JM	JY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
 42550	MT	Exodus	25	35	JY>[	JY>JM	JY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -344,6 +350,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 49874	MT	Exodus	36	35	XCB[	XCB	XCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
 49912	MT	Exodus	36	37	RQM[	RQM	RQM	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
 50070	MT	Exodus	37	9	PRF[	PRFJ	PRF	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	פרשי		-	-	0	0	0	1	nnn	nnn	first		0
+50074	MT	Exodus	37	9	SKK[	SKKJM	SKK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	סככים		-	-	0	0	0	1	nnn	nnn	first		0
 50234	MT	Exodus	37	18	JY>[	JY>JM	JY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	יצאים		-	-	0	0	0	1	nnn	nnn	first		0
 50279	MT	Exodus	37	19	JY>[	JY>JM	JY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
 50319	MT	Exodus	37	21	JY>[	JY>JM	JY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -496,6 +503,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 75144	MT	Numbers	7	86	ML>[	ML>T	ML>	CCC	CCCC	qal	ptca	pl	f	unknown	verb		T			nnnn	nnnn	מלאת		-	-	0	0	0	1	nnn	nnn	first		0
 76329	MT	Numbers	10	5	XNH[	XNJM	XN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	חנים		-	-	0	1	0	1	nn	nn	first		0
 76340	MT	Numbers	10	6	XNH[	XNJM	XN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	חנים		-	-	0	1	0	1	nn	nn	first		0
+76382	MT	Numbers	10	9	YRR=[	YRR	YRR	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	צרר		-	-	0	1	0	0	nnn	nnn	first		0
 76528	MT	Numbers	10	17	NF>[	NF>J	NF>	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
 76566	MT	Numbers	10	21	NF>[	NF>J	NF>	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
 76662	MT	Numbers	10	29	XTN[	XTN	XTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
@@ -528,6 +536,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 79232	MT	Numbers	14	41	<BR[	<BRJM	<BR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
 79307	MT	Numbers	14	45	JCB[	JCB	JCB	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
 79341	MT	Numbers	15	2	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+79800	MT	Numbers	15	28	CGG[	CGGT	CGG	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T		H	nnnn	nnnn	שגגת		-	-	0	1	0	1	nnn	nnn	first		0
 79833	MT	Numbers	15	29	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb				L	nnn	nnn	עשה	H	-	-	0	1	0	0	nn	nn	first		0
 79900	MT	Numbers	15	33	MY>[	MY>JM	MY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	מצאים		-	-	0	1	0	1	nnn	nnn	first		0
 80032	MT	Numbers	15	39	ZNH[	ZNJM	ZN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	זנים		-	-	0	0	0	1	nn	nn	first		0
@@ -552,6 +561,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 85246	MT	Numbers	24	2	CKN[	CKN	CKN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
 85271	MT	Numbers	24	4	CM<[	CM<	CM<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
 85278	MT	Numbers	24	4	NPL[	NPL	NPL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
+85349	MT	Numbers	24	9	>RR[	>RRJK	>RR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	K	J		W	nnnnn	nnnnn	ארריך		-	-	1	1	0	1	nnn	nnn	first		0
 85439	MT	Numbers	24	14	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 85473	MT	Numbers	24	16	CM<[	CM<	CM<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
 85477	MT	Numbers	24	16	JD<[	JD<	JD<	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	ידע		-	-	0	1	0	0	nnn	nnn	first		0
@@ -562,6 +572,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 85693	MT	Numbers	25	5	CPV[	CPVJ	CPV	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שפטי		-	-	0	0	0	1	nnn	nnn	first		0
 85728	MT	Numbers	25	6	BKH[	BKJM	BK	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	בכים		-	-	0	0	0	1	nn	nn	first		0
 85830	MT	Numbers	25	12	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+85908	MT	Numbers	25	18	YRR=[	YRRJM	YRR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	צררים		-	-	0	0	0	1	nnn	nnn	first		0
 85972	MT	Numbers	26	2	JY>[	JY>	JY>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
 86008	MT	Numbers	26	4	JY>[	JY>JM	JY>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
 87022	MT	Numbers	27	7	DBR[	DBRT	DBR	CCC	CCCC	qal	ptca	pl	f	unknown	verb		T			nnnn	nnnn	דברת		-	-	0	0	0	1	nnn	nnn	first		0
@@ -760,10 +771,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 104796	MT	Deuteronomy	21	1	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 104800	MT	Deuteronomy	21	1	NPL[	NPL	NPL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
 104812	MT	Deuteronomy	21	2	CPV[	CPVJK	CPV	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	K	J		W	nnnnn	nnnnn	שפטיך		-	-	1	1	0	1	nnn	nnn	first		0
+105170	MT	Deuteronomy	21	18	SRR[	SWRR	SWRR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 105172	MT	Deuteronomy	21	18	MRH[	MWRH	MWR	CMC	CMCM	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	מורה	H	-	-	0	1	0	0	nnn	nnn	first	W	1
 105174	MT	Deuteronomy	21	18	CM<[	CM<	CM<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+105212	MT	Deuteronomy	21	20	SRR[	SWRR	SWRR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 105214	MT	Deuteronomy	21	20	MRH[	MRH	MR	CC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	מרה	H	-	-	0	1	0	0	nn	nn	first		0
 105216	MT	Deuteronomy	21	20	CM<[	CM<	CM<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+105219	MT	Deuteronomy	21	20	ZLL[	ZWLL	ZWLL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	זולל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 105221	MT	Deuteronomy	21	20	SB>[	SB>	SB>	CCC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	סבא		-	-	0	1	0	0	nnn	nnn	first		0
 105285	MT	Deuteronomy	21	23	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 105361	MT	Deuteronomy	22	4	NPL[	NPLJM	NPL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נפלים		-	-	0	0	0	1	nnn	nnn	first		0
@@ -827,7 +841,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 112152	MT	Deuteronomy	32	49	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 112165	MT	Deuteronomy	32	50	<LH[	<LH	<L	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עלה	H	-	-	0	0	0	0	nn	nn	first		0
 112223	MT	Deuteronomy	32	52	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+112269	MT	Deuteronomy	33	3	XBB[	XBB	XBB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חבב		-	-	0	0	0	0	nnn	nnn	first		0
 112352	MT	Deuteronomy	33	9	>MR[	>MR	>MR	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	first		0
+112415	MT	Deuteronomy	33	12	XPP[	XPP	XPP	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חפף		-	-	0	0	0	0	nnn	nnn	first		0
 112439	MT	Deuteronomy	33	13	RBY[	RBYT	RBY	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	רבצת		-	-	0	0	0	1	nnn	nnn	first		0
 112469	MT	Deuteronomy	33	16	CKN[	CKNJ	CKN	CCC	CCCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שכני		-	-	0	0	0	0	nnn	nnn	first		0
 112583	MT	Deuteronomy	33	23	ML>[	ML>	ML>	CCC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	מלא		-	-	0	1	0	0	nnn	nnn	first		0
@@ -1013,6 +1029,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 129918	MT	Judges	4	22	NPL[	NPL	NPL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
 129987	MT	Judges	5	3	RZN[	RZNJM	RZN	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	רזנים		-	-	0	0	0	1	nnn	nnn	first		0
 130040	MT	Judges	5	6	HLK[	HLKJ	HLK	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	הלכי		-	-	0	1	0	1	nnn	nnn	first		0
+130077	MT	Judges	5	9	XQQ[	XWQQJ	XWQQ	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J		L	nnnnn	nnnnn	חוקקי		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 130086	MT	Judges	5	10	RKB[	RKBJ	RKB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	רכבי		-	-	0	0	0	1	nnn	nnn	first		0
 130089	MT	Judges	5	10	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 130093	MT	Judges	5	10	HLK[	HLKJ	HLK	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	הלכי		-	-	0	1	0	1	nnn	nnn	first		0
@@ -1233,7 +1250,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 156061	MT	1_Samuel	24	5	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 156277	MT	1_Samuel	24	12	YDH[	YDH	YD	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	צדה	H	-	-	0	0	0	0	nn	nn	first		0
 156319	MT	1_Samuel	24	15	RDP[	RDP	RDP	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	רדף		-	-	0	0	0	0	nnn	nnn	first		0
+156573	MT	1_Samuel	25	4	GZZ[	GZZ	GZZ	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	גזז		-	-	0	0	0	0	nnn	nnn	first		0
+156622	MT	1_Samuel	25	7	GZZ[	GZZJM	GZZ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	גזזים		-	-	0	0	0	1	nnn	nnn	first		0
 156626	MT	1_Samuel	25	7	R<H[	R<JM	R<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	רעים		-	-	0	1	0	1	nn	nn	first		0
+156731	MT	1_Samuel	25	11	GZZ[	GZZJ	GZZ	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		L	nnnn	nnnn	גזזי		-	-	0	1	0	1	nnn	nnn	first		0
 156856	MT	1_Samuel	25	16	R<H[	R<JM	R<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	רעים		-	-	0	0	0	1	nn	nn	first		0
 156932	MT	1_Samuel	25	20	RKB[	RKBT	RKB	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	רכבת		-	-	0	0	0	1	nnn	nnn	first		0
 156937	MT	1_Samuel	25	20	JRD[	JRDT	JRD	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T		W	nnnn	nnnn	ירדת		-	-	0	1	0	1	nnn	nnn	first		0
@@ -1257,6 +1277,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 159157	MT	1_Samuel	29	2	<BR[	<BRJM	<BR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
 159804	MT	1_Samuel	30	16	>KL[	>KLJM	>KL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	אכלים		-	-	0	0	0	1	nnn	nnn	first		0
 159806	MT	1_Samuel	30	16	CTH[	CTJM	CT	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnn	nnnn	שתים		-	-	0	1	0	1	nn	nn	first		0
+159808	MT	1_Samuel	30	16	XGG[	XGGJM	XGG	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnn	nnnnn	חגגים		-	-	0	1	0	1	nnn	nnn	first		0
 160040	MT	1_Samuel	30	24	JRD[	JRD	JRD	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	ירד		-	-	0	1	0	0	nnn	nnn	first		0
 160048	MT	1_Samuel	30	24	JCB[	JCB	JCB	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
 160246	MT	1_Samuel	31	4	NF>[	NF>	NF>	CCC	CCM	qal	ptca	sg	m	unknown	verb				L	nnn	nnn	נשא		-	-	0	1	0	0	nnn	nnn	first		0
@@ -1300,6 +1321,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 166937	MT	2_Samuel	12	23	HLK[	HLK	HLK	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
 167209	MT	2_Samuel	13	4	>HB[	>HB	>HB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אהב		-	-	0	0	0	0	nnn	nnn	first		0
 167306	MT	2_Samuel	13	8	CKB[	CKB	CKB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שכב		-	-	0	0	0	0	nnn	nnn	first		0
+167597	MT	2_Samuel	13	20	CMM[	CMMH	CMM	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H		W	nnnn	nnnn	שממה		-	-	0	1	0	1	nnn	nnn	first		0
+167647	MT	2_Samuel	13	23	GZZ[	GZZJM	GZZ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	גזזים		-	-	0	0	0	1	nnn	nnn	first		0
+167673	MT	2_Samuel	13	24	GZZ[	GZZJM	GZZ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	גזזים		-	-	0	0	0	1	nnn	nnn	first		0
 167916	MT	2_Samuel	13	34	YPH[	YPH	YP	CC	CCM	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	צפה	H	-	-	0	1	0	0	nn	nn	first		0
 167925	MT	2_Samuel	13	34	HLK[	HLKJM	HLK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	הלכים		-	-	0	0	0	1	nnn	nnn	first		0
 168175	MT	2_Samuel	14	7	JRC[	JWRC	JWRC	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	יורש		-	-	0	1	0	0	nnnn	nnnn	first	W	1
@@ -1410,6 +1434,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 180644	MT	1_Kings	6	27	NG<[	NG<T	NG<	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	נגעת		-	-	0	0	0	1	nnn	nnn	first		0
 180656	MT	1_Kings	6	27	NG<[	NG<T	NG<	CCC	CCCC	qal	ptca	pl	f	unknown	verb		T			nnnn	nnnn	נגעת		-	-	0	0	0	1	nnn	nnn	first		0
 181114	MT	1_Kings	7	14	XRC=[	XRC	XRC	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חרש		-	-	0	0	0	0	nnn	nnn	first		0
+181386	MT	1_Kings	7	24	SBB[	SBBJM	SBB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	סבבים		-	-	0	0	0	1	nnn	nnn	first		0
 181404	MT	1_Kings	7	25	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
 181410	MT	1_Kings	7	25	PNH[	PNJM	PN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	פנים		-	-	0	0	0	1	nn	nn	first		0
 181414	MT	1_Kings	7	25	PNH[	PNJM	PN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	פנים		-	-	0	0	0	1	nn	nn	first		0
@@ -1522,6 +1547,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 197286	MT	2_Kings	4	38	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	ישבים		-	-	0	0	0	1	nnn	nnn	first		0
 197621	MT	2_Kings	5	7	CLX[	CLX	CLX	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
 198176	MT	2_Kings	6	1	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	ישבים		-	-	0	0	0	1	nnn	nnn	first		0
+198452	MT	2_Kings	6	15	SBB[	SWBB	SWBB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סובב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 198504	MT	2_Kings	6	17	ML>[	ML>	ML>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	מלא		-	-	0	0	0	0	nnn	nnn	first		0
 198707	MT	2_Kings	6	26	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
 198803	MT	2_Kings	6	30	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -1640,6 +1666,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 212188	MT	Isaiah	1	7	>KL[	>KLJM	>KL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	אכלים		-	-	0	0	0	1	nnn	nnn	first		0
 212309	MT	Isaiah	1	15	CM<[	CM<	CM<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
 212380	MT	Isaiah	1	21	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H		L	nnnn	nnnn	זונה		-	-	0	1	0	1	nnn	nnn	first	W	1
+212401	MT	Isaiah	1	23	SRR[	SWRRJM	SWRR	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	סוררים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 212406	MT	Isaiah	1	23	>HB[	>HB	>HB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אהב		-	-	0	0	0	0	nnn	nnn	first		0
 212409	MT	Isaiah	1	23	RDP[	RDP	RDP	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	רדף		-	-	0	1	0	0	nnn	nnn	first		0
 212452	MT	Isaiah	1	26	CPV[	CPVJK	CPV	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	שפטיך		-	-	1	0	0	1	nnn	nnn	first		0
@@ -1679,9 +1706,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 215248	MT	Isaiah	9	5	J<Y[	JW<Y	JW<Y	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יועץ		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 215307	MT	Isaiah	9	8	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	יושב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 215437	MT	Isaiah	9	16	DBR[	DBR	DBR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	דבר		-	-	0	0	0	0	nnn	nnn	first		0
+215527	MT	Isaiah	10	1	XQQ[	XQQJM	XQQ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	חקקים		-	-	0	1	0	1	nnn	nnn	first		0
 215747	MT	Isaiah	10	13	JCB[	JWCBJM	JWCB	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	יושבים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+215771	MT	Isaiah	10	14	NDD[	NDD	NDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נדד		-	-	0	0	0	0	nnn	nnn	first		0
 215774	MT	Isaiah	10	14	PYH[	PYH	PY	CC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	פצה	H	-	-	0	1	0	0	nn	nn	first		0
 215784	MT	Isaiah	10	15	XYB[	XYB	XYB	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	חצב		-	-	0	1	0	0	nnn	nnn	first		0
+215855	MT	Isaiah	10	18	NSS[	NSS	NSS	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נסס		-	-	0	0	0	0	nnn	nnn	first		0
 215914	MT	Isaiah	10	22	CVP[	CWVP	CWVP	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שוטף		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 215923	MT	Isaiah	10	23	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
 215938	MT	Isaiah	10	24	JCB[	JCB	JCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
@@ -1689,6 +1719,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 216190	MT	Isaiah	11	6	NHG[	NHG	NHG	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נהג		-	-	0	0	0	0	nnn	nnn	first		0
 216209	MT	Isaiah	11	8	JNQ[	JWNQ	JWNQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יונק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 216253	MT	Isaiah	11	10	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+216331	MT	Isaiah	11	13	YRR=[	YRRJ	YRR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	צררי		-	-	0	1	0	1	nnn	nnn	first		0
 216490	MT	Isaiah	12	6	JCB[	JWCBT	JWCB	CMCC	CMCCC	qal	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn	יושבת		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 216593	MT	Isaiah	13	8	JLD[	JWLDH	JWLD	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H		K	nnnnn	nnnnn	יולדה		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 216789	MT	Isaiah	13	20	R<H[	R<JM	R<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnn	nnnn	רעים		-	-	0	1	0	1	nn	nn	first		0
@@ -1702,8 +1733,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 217013	MT	Isaiah	14	12	XLC[	XWLC	XWLC	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חולש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 217053	MT	Isaiah	14	16	R>H[	R>JK	R>	CC	CCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnn	nnnn	ראיך		-	-	1	0	0	1	nn	nn	first		0
 217101	MT	Isaiah	14	19	JRD[	JWRDJ	JWRD	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	יורדי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+217308	MT	Isaiah	14	31	BDD[	BWDD	BWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 217374	MT	Isaiah	15	3	JRD[	JRD	JRD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ירד		-	-	0	0	0	0	nnn	nnn	first		0
 217474	MT	Isaiah	16	1	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	משל		-	-	0	0	0	0	nnn	nnn	first		0
+217487	MT	Isaiah	16	2	NDD[	NWDD	NWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	נודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+217510	MT	Isaiah	16	3	NDD[	NDD	NDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נדד		-	-	0	0	0	0	nnn	nnn	first		0
+217522	MT	Isaiah	16	4	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 217530	MT	Isaiah	16	4	RMS[	RMS	RMS	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	רמס		-	-	0	0	0	0	nnn	nnn	first		0
 217548	MT	Isaiah	16	5	CPV[	CPV	CPV	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שפט		-	-	0	0	0	0	nnn	nnn	first		0
 217550	MT	Isaiah	16	5	DRC[	DRC	DRC	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	דרש		-	-	0	1	0	0	nnn	nnn	first		0
@@ -1711,6 +1746,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 217808	MT	Isaiah	17	6	PRH[	PRJH	PRJ	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	פריה		-	-	0	0	0	1	nnn	nnn	first		0
 217822	MT	Isaiah	17	7	<FH[	<FHW	<F	CC	CCCM	qal	ptca	sg	m	unknown	verb	HW				nnnn	nnnn	עשהו		-	-	1	0	0	0	nn	nn	first		0
 217964	MT	Isaiah	17	14	CSH[	CWSJNW	CWS	CMC	CMCMCM	qal	ptca	pl	m	unknown	verb	NW	J			nnnnnn	nnnnnn	שוסינו		-	-	1	0	0	1	nnn	nnn	first	W	1
+217968	MT	Isaiah	17	14	BZZ[	BZZJNW	BZZ	CCC	CCCMCM	qal	ptca	pl	m	unknown	verb	NW	J		L	nnnnnn	nnnnnn	בזזינו		-	-	1	1	0	1	nnn	nnn	first		0
 217980	MT	Isaiah	18	2	CLX[	CLX	CLX	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	שלח		-	-	0	1	0	0	nnn	nnn	first		0
 218017	MT	Isaiah	18	3	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 218020	MT	Isaiah	18	3	CKN[	CKNJ	CKN	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	שכני		-	-	0	1	0	1	nnn	nnn	first		0
@@ -1726,6 +1762,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 218704	MT	Isaiah	20	6	JCB[	JCB	JCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
 218753	MT	Isaiah	21	2	BGD[	BWGD	BWGD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	בוגד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 218754	MT	Isaiah	21	2	BGD[	BWGD	BWGD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בוגד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+218757	MT	Isaiah	21	2	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				WH	nnnn	nnnn	שודד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+218758	MT	Isaiah	21	2	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 218775	MT	Isaiah	21	3	JLD[	JWLDH	JWLD	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H			nnnnn	nnnnn	יולדה		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 218839	MT	Isaiah	21	8	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
 218890	MT	Isaiah	21	11	QR>[	QR>	QR>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	קרא		-	-	0	0	0	0	nnn	nnn	first		0
@@ -1733,12 +1771,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 218897	MT	Isaiah	21	11	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
 218902	MT	Isaiah	21	12	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
 218929	MT	Isaiah	21	14	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+218935	MT	Isaiah	21	14	NDD[	NDD	NDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נדד		-	-	0	0	0	0	nnn	nnn	first		0
 218997	MT	Isaiah	22	2	ML>[	ML>H	ML>	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
 218999	MT	Isaiah	22	2	HMH[	HWMJH	HWMJ	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H			nnnnn	nnnnn	הומיה		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 219149	MT	Isaiah	22	11	<FH[	<FJH	<F	CC	CCMC	qal	ptca	sg	m	unknown	verb	H				nnnn	nnnn	עשיה	J	-	-	1	0	0	0	nn	nn	first		0
 219151	MT	Isaiah	22	11	JYR[	JYRH	JYR	CCC	CCCC	qal	ptca	sg	m	unknown	verb	H			W	nnnn	nnnn	יצרה		-	-	1	1	0	0	nnn	nnn	first		0
 219227	MT	Isaiah	22	15	SKN[	SKN	SKN	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	סכן		-	-	0	1	0	0	nnn	nnn	first		0
 219248	MT	Isaiah	22	16	XYB[	XYBJ	XYB	CCC	CCCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חצבי		-	-	0	0	0	0	nnn	nnn	first		0
+219251	MT	Isaiah	22	16	XQQ[	XQQJ	XQQ	CCC	CCCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חקקי		-	-	0	0	0	0	nnn	nnn	first		0
 219263	MT	Isaiah	22	17	<VH=[	<VK	<V	CC	CCC	qal	ptca	sg	m	unknown	verb	K			W	nnn	nnn	עטך		-	-	1	1	0	0	nn	nn	first		0
 219323	MT	Isaiah	22	21	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				L	nnnn	nnnn	יושב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 219340	MT	Isaiah	22	22	SGR[	SGR	SGR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	סגר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -1751,6 +1791,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 219622	MT	Isaiah	23	15	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H		H	nnnn	nnnn	זונה		-	-	0	1	0	1	nnn	nnn	first	W	1
 219627	MT	Isaiah	23	16	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	זונה		-	-	0	0	0	1	nnn	nnn	first	W	1
 219676	MT	Isaiah	23	18	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+219692	MT	Isaiah	24	1	BQQ[	BWQQ	BWQQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בוקק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 219696	MT	Isaiah	24	1	BLQ[	BWLQH	BWLQ	CMCC	CMCCC	qal	ptca	sg	m	unknown	verb	H			W	nnnnn	nnnnn	בולקה		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 219702	MT	Isaiah	24	1	JCB[	JCBJH	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	H	J			nnnnn	nnnnn	ישביה		-	-	1	0	0	1	nnn	nnn	first		0
 219724	MT	Isaiah	24	2	QNH[	QWNH	QWN	CMC	CMCM	qal	ptca	sg	m	unknown	verb				K	nnnn	nnnn	קונה	H	-	-	0	1	0	0	nnn	nnn	first	W	1
@@ -1801,6 +1842,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 221727	MT	Isaiah	29	20	CQD[	CQDJ	CQD	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שקדי		-	-	0	0	0	1	nnn	nnn	first		0
 221789	MT	Isaiah	29	24	T<H[	T<J	T<	CC	CCM	qal	ptca	pl	m	unknown	verb		J			nnn	nnn	תעי		-	-	0	0	0	1	nn	nn	first		0
 221793	MT	Isaiah	29	24	RGN[	RWGNJM	RWGN	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnnn	nnnnnn	רוגנים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+221798	MT	Isaiah	30	1	SRR[	SWRRJM	SWRR	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	סוררים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 221820	MT	Isaiah	30	2	HLK[	HLKJM	HLK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	הלכים		-	-	0	1	0	1	nnn	nnn	first		0
 222020	MT	Isaiah	30	13	NPL[	NPL	NPL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
 222096	MT	Isaiah	30	16	RDP[	RDPJKM	RDP	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	KM	J			nnnnnn	nnnnnn	רדפיכם		-	-	1	0	0	1	nnn	nnn	first		0
@@ -1826,7 +1868,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 222818	MT	Isaiah	32	12	SPD[	SPDJM	SPD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	ספדים		-	-	0	0	0	1	nnn	nnn	first		0
 222824	MT	Isaiah	32	12	PRH[	PRJH	PRJ	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	פריה		-	-	0	0	0	1	nnn	nnn	first		0
 222930	MT	Isaiah	32	20	ZR<[	ZR<J	ZR<	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	זרעי		-	-	0	0	0	1	nnn	nnn	first		0
+222942	MT	Isaiah	33	1	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 222948	MT	Isaiah	33	1	BGD[	BWGD	BWGD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	בוגד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+222955	MT	Isaiah	33	1	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+222995	MT	Isaiah	33	4	CQQ[	CWQQ	CWQQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שוקק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 223000	MT	Isaiah	33	5	CKN[	CKN	CKN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
 223031	MT	Isaiah	33	8	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
 223053	MT	Isaiah	33	9	N<R[	N<R	N<R	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	נער		-	-	0	1	0	0	nnn	nnn	first		0
@@ -1897,6 +1942,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 226798	MT	Isaiah	42	17	BVX[	BVXJM	BVX	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	בטחים		-	-	0	1	0	1	nnn	nnn	first		0
 226803	MT	Isaiah	42	17	>MR[	>MRJM	>MR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	אמרים		-	-	0	1	0	1	nnn	nnn	first		0
 226879	MT	Isaiah	42	22	>MR[	>MR	>MR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	first		0
+226898	MT	Isaiah	42	24	BZZ[	BZZJM	BZZ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnn	nnnnn	בזזים		-	-	0	1	0	1	nnn	nnn	first		0
 226944	MT	Isaiah	43	1	BR>[	BR>K	BR>	CCC	CCCC	qal	ptca	sg	m	unknown	verb	K				nnnn	nnnn	בראך		-	-	1	0	0	0	nnn	nnn	first		0
 226947	MT	Isaiah	43	1	JYR[	JYRK	JYR	CCC	CCCC	qal	ptca	sg	m	unknown	verb	K			W	nnnn	nnnn	יצרך		-	-	1	1	0	0	nnn	nnn	first		0
 227163	MT	Isaiah	43	14	G>L[	G>LKM	G>L	CCC	CCCCC	qal	ptca	sg	m	unknown	verb	KM				nnnnn	nnnnn	גאלכם		-	-	1	0	0	0	nnn	nnn	first		0
@@ -1954,6 +2000,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 229212	MT	Isaiah	49	5	JYR[	JYRJ	JYR	CCC	CCCM	qal	ptca	sg	m	unknown	verb	J				nnnn	nnnn	יצרי		-	-	1	0	0	0	nnn	nnn	first		0
 229267	MT	Isaiah	49	7	G>L[	G>L	G>L	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	גאל		-	-	0	0	0	0	nnn	nnn	first		0
 229278	MT	Isaiah	49	7	MCL[	MCLJM	MCL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	משלים		-	-	0	0	0	1	nnn	nnn	first		0
+229319	MT	Isaiah	49	8	CMM[	CMMWT	CMM	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	שממות		-	-	0	0	0	1	nnn	nnn	first		0
+229466	MT	Isaiah	49	19	CMM[	CMMTJK	CMM	CCC	CCCCCC	qal	ptca	pl	f	unknown	verb	K	TJ		W	nnnnnn	nnnnnn	שממתיך		-	-	1	1	0	1	nnn	nnn	first		0
 229474	MT	Isaiah	49	19	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				M	nnnn	nnnn	יושב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 229506	MT	Isaiah	49	21	GLH[	GLH	GL	CC	CCM	qal	ptca	sg	f	unknown	verb		H			nnn	nnn	גלה		-	-	0	0	0	1	nn	nn	first		0
 229548	MT	Isaiah	49	23	>MN[	>MNJK	>MN	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	אמניך		-	-	1	0	0	1	nnn	nnn	first		0
@@ -1978,8 +2026,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 230425	MT	Isaiah	52	8	YPH[	YPJK	YP	CC	CCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnn	nnnn	צפיך		-	-	1	0	0	1	nn	nn	first		0
 230480	MT	Isaiah	52	11	NF>[	NF>J	NF>	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
 230494	MT	Isaiah	52	12	HLK[	HLK	HLK	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
+230667	MT	Isaiah	53	7	GZZ[	GZZJH	GZZ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	H	J			nnnnn	nnnnn	גזזיה		-	-	1	0	0	1	nnn	nnn	first		0
 230769	MT	Isaiah	53	12	PC<[	PC<JM	PC<	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	פשעים		-	-	0	0	0	1	nnn	nnn	first		0
 230779	MT	Isaiah	53	12	PC<[	PC<JM	PC<	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		WL	nnnnn	nnnnn	פשעים		-	-	0	1	0	1	nnn	nnn	first		0
+230794	MT	Isaiah	54	1	CMM[	CWMMH	CWMM	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H			nnnnn	nnnnn	שוממה		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 230849	MT	Isaiah	54	5	B<L[	B<LJK	B<L	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	בעליך		-	-	1	0	0	1	nnn	nnn	first		0
 230850	MT	Isaiah	54	5	<FH[	<FJK	<F	CC	CCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnn	nnnn	עשיך		-	-	1	0	0	1	nn	nn	first		0
 230855	MT	Isaiah	54	5	G>L[	G>LK	G>L	CCC	CCCC	qal	ptca	sg	m	unknown	verb	K			W	nnnn	nnnn	גאלך		-	-	1	1	0	0	nnn	nnn	first		0
@@ -2007,6 +2057,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 232871	MT	Isaiah	60	15	<BR[	<WBR	<WBR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עובר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 232896	MT	Isaiah	60	16	G>L[	G>LK	G>L	CCC	CCCC	qal	ptca	sg	m	unknown	verb	K			W	nnnn	nnnn	גאלך		-	-	1	1	0	0	nnn	nnn	first		0
 232925	MT	Isaiah	60	17	NGF[	NGFJK	NGF	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	K	J		W	nnnnn	nnnnn	נגשיך		-	-	1	1	0	1	nnn	nnn	first		0
+233097	MT	Isaiah	61	4	CMM[	CMMWT	CMM	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	שממות		-	-	0	0	0	1	nnn	nnn	first		0
+233104	MT	Isaiah	61	4	CMM[	CMMWT	CMM	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	שממות		-	-	0	0	0	1	nnn	nnn	first		0
 233155	MT	Isaiah	61	8	>HB[	>HB	>HB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אהב		-	-	0	0	0	0	nnn	nnn	first		0
 233157	MT	Isaiah	61	8	FN>[	FN>	FN>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	שנא		-	-	0	0	0	0	nnn	nnn	first		0
 233184	MT	Isaiah	61	9	R>H[	R>JHM	R>	CC	CCMCC	qal	ptca	pl	m	unknown	verb	HM	J			nnnnn	nnnnn	ראיהם		-	-	1	0	0	1	nn	nn	first		0
@@ -2021,6 +2073,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 233836	MT	Isaiah	64	4	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	עשה	H	-	-	0	1	0	0	nn	nn	first		0
 233876	MT	Isaiah	64	6	QR>[	QWR>	QWR>	CMCC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	קורא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 233902	MT	Isaiah	64	7	JYR[	JYRNW	JYR	CCC	CCCCM	qal	ptca	sg	m	unknown	verb	NW				nnnnn	nnnnn	יצרנו		-	-	1	0	0	0	nnn	nnn	first		0
+233983	MT	Isaiah	65	2	SRR[	SWRR	SWRR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 233985	MT	Isaiah	65	2	HLK[	HLKJM	HLK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	הלכים		-	-	0	1	0	1	nnn	nnn	first		0
 234000	MT	Isaiah	65	3	ZBX[	ZBXJM	ZBX	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	זבחים		-	-	0	0	0	1	nnn	nnn	first		0
 234010	MT	Isaiah	65	4	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -2085,6 +2138,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 237252	MT	Jeremiah	5	7	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	זונה		-	-	0	0	0	1	nnn	nnn	first	W	1
 237353	MT	Jeremiah	5	14	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 237421	MT	Jeremiah	5	17	BVX[	BWVX	BWVX	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בוטח		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+237544	MT	Jeremiah	5	23	SRR[	SWRR	SWRR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 237546	MT	Jeremiah	5	23	MRH[	MWRH	MWR	CMC	CMCM	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	מורה	H	-	-	0	1	0	0	nnn	nnn	first	W	1
 237561	MT	Jeremiah	5	24	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	נתן		-	-	0	1	0	0	nnn	nnn	first		0
 237597	MT	Jeremiah	5	27	ML>[	ML>	ML>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	מלא		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2098,6 +2152,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 237970	MT	Jeremiah	6	17	YPH[	YPJM	YP	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	צפים		-	-	0	0	0	1	nn	nn	first		0
 238041	MT	Jeremiah	6	21	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 238113	MT	Jeremiah	6	24	JLD[	JWLDH	JWLD	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H		K	nnnnn	nnnnn	יולדה		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+238150	MT	Jeremiah	6	26	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	שדד		-	-	0	1	0	0	nnn	nnn	first		0
+238165	MT	Jeremiah	6	28	SRR[	SWRRJM	SWRR	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	סוררים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 238166	MT	Jeremiah	6	28	HLK[	HLKJ	HLK	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	הלכי		-	-	0	0	0	1	nnn	nnn	first		0
 238339	MT	Jeremiah	7	8	BVX[	BVXJM	BVX	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	בטחים		-	-	0	0	0	1	nnn	nnn	first		0
 238481	MT	Jeremiah	7	14	BVX[	BVXJM	BVX	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	בטחים		-	-	0	0	0	1	nnn	nnn	first		0
@@ -2143,6 +2199,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 240903	MT	Jeremiah	12	4	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 240932	MT	Jeremiah	12	5	BVX[	BWVX	BWVX	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בוטח		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 241008	MT	Jeremiah	12	10	R<H[	R<JM	R<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	רעים		-	-	0	0	0	1	nn	nn	first		0
+241045	MT	Jeremiah	12	12	CDD[	CDDJM	CDD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	שדדים		-	-	0	0	0	1	nnn	nnn	first		0
 241050	MT	Jeremiah	12	12	>KL[	>KLH	>KL	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	אכלה		-	-	0	0	0	1	nnn	nnn	first		0
 241089	MT	Jeremiah	12	14	NG<[	NG<JM	NG<	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	נגעים		-	-	0	1	0	1	nnn	nnn	first		0
 241100	MT	Jeremiah	12	14	NTC[	NTCM	NTC	CCC	CCCC	qal	ptca	sg	m	unknown	verb	M				nnnn	nnnn	נתשם		-	-	1	0	0	0	nnn	nnn	first		0
@@ -2157,8 +2214,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 241886	MT	Jeremiah	14	12	RYH[	RYM	RY	CC	CCC	qal	ptca	sg	m	unknown	verb	M				nnn	nnn	רצם		-	-	1	0	0	0	nn	nn	first		0
 241910	MT	Jeremiah	14	13	>MR[	>MRJM	>MR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
 241978	MT	Jeremiah	14	15	>MR[	>MRJM	>MR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
+242351	MT	Jeremiah	15	8	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שדד		-	-	0	0	0	0	nnn	nnn	first		0
 242362	MT	Jeremiah	15	9	JLD[	JLDT	JLD	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	ילדת		-	-	0	0	0	1	nnn	nnn	first		0
 242479	MT	Jeremiah	15	15	RDP[	RDPJ	RDP	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		M	nnnn	nnnn	רדפי		-	-	0	1	0	1	nnn	nnn	first		0
+242558	MT	Jeremiah	15	19	ZLL[	ZWLL	ZWLL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				M	nnnn	nnnn	זולל		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 242653	MT	Jeremiah	16	3	JLD[	JLDWT	JLD	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT		H	nnnnn	nnnnn	ילדות		-	-	0	1	0	1	nnn	nnn	first		0
 242905	MT	Jeremiah	16	12	HLK[	HLKJM	HLK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	הלכים		-	-	0	0	0	1	nnn	nnn	first		0
 242997	MT	Jeremiah	16	16	CLX[	CLX	CLX	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2242,6 +2301,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 247776	MT	Jeremiah	25	34	R<H[	R<JM	R<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	רעים		-	-	0	1	0	1	nn	nn	first		0
 247801	MT	Jeremiah	25	35	R<H[	R<JM	R<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	רעים		-	-	0	1	0	1	nn	nn	first		0
 247811	MT	Jeremiah	25	36	R<H[	R<JM	R<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	רעים		-	-	0	1	0	1	nn	nn	first		0
+247818	MT	Jeremiah	25	36	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שדד		-	-	0	0	0	0	nnn	nnn	first		0
 247846	MT	Jeremiah	25	38	JNH[	JWNH	JWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H		H	nnnn	nnnn	יונה		-	-	0	1	0	1	nnn	nnn	first	W	1
 247918	MT	Jeremiah	26	3	XCB[	XCB	XCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
 247953	MT	Jeremiah	26	5	CLX[	CLX	CLX	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2266,6 +2326,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 250309	MT	Jeremiah	30	6	JLD[	JWLDH	JWLD	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H		K	nnnnn	nnnnn	יולדה		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 250486	MT	Jeremiah	30	16	>KL[	>KLJK	>KL	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	אכליך		-	-	1	0	0	1	nnn	nnn	first		0
 250498	MT	Jeremiah	30	16	C>S[	C>SJK	C>S	CMC	CMCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	שאסיך		-	-	1	0	0	1	nnn	nnn	first	>	1
+250503	MT	Jeremiah	30	16	BZZ[	BZZJK	BZZ	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	בזזיך		-	-	1	0	0	1	nnn	nnn	first		0
 250523	MT	Jeremiah	30	17	DRC[	DRC	DRC	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	דרש		-	-	0	0	0	0	nnn	nnn	first		0
 250578	MT	Jeremiah	30	20	LXY[	LXYJW	LXY	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	W	J			nnnnn	nnnnn	לחציו		-	-	1	0	0	1	nnn	nnn	first		0
 250584	MT	Jeremiah	30	21	MCL[	MCLW	MCL	CCC	CCCM	qal	ptca	sg	m	unknown	verb	W			W	nnnn	nnnn	משלו		-	-	1	1	0	0	nnn	nnn	first		0
@@ -2381,6 +2442,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 260274	MT	Jeremiah	47	2	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	ישבי		-	-	0	1	0	1	nnn	nnn	first		0
 260283	MT	Jeremiah	47	2	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 260324	MT	Jeremiah	47	4	<ZR[	<ZR	<ZR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עזר		-	-	0	0	0	0	nnn	nnn	first		0
+260326	MT	Jeremiah	47	4	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שדד		-	-	0	0	0	0	nnn	nnn	first		0
+260476	MT	Jeremiah	48	8	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שדד		-	-	0	0	0	0	nnn	nnn	first		0
 260509	MT	Jeremiah	48	9	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 260512	MT	Jeremiah	48	10	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
 260518	MT	Jeremiah	48	10	MN<[	MN<	MN<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	מנע		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2388,13 +2451,16 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 260562	MT	Jeremiah	48	12	Y<H[	Y<JM	Y<	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	צעים		-	-	0	0	0	1	nn	nn	first		0
 260627	MT	Jeremiah	48	17	JD<[	JD<J	JD<	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ידעי		-	-	0	0	0	1	nnn	nnn	first		0
 260644	MT	Jeremiah	48	18	JCB[	JCBT	JCB	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	ישבת		-	-	0	0	0	1	nnn	nnn	first		0
+260648	MT	Jeremiah	48	18	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שדד		-	-	0	0	0	0	nnn	nnn	first		0
 260659	MT	Jeremiah	48	19	JCB[	JWCBT	JWCB	CMCC	CMCCC	qal	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn	יושבת		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 260780	MT	Jeremiah	48	28	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+260850	MT	Jeremiah	48	32	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שדד		-	-	0	0	0	0	nnn	nnn	first		0
 261033	MT	Jeremiah	48	43	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 261049	MT	Jeremiah	48	44	<LH[	<LH	<L	CC	CCM	qal	ptca	sg	m	unknown	verb				WH	nnn	nnn	עלה	H	-	-	0	1	0	0	nn	nn	first		0
 261134	MT	Jeremiah	49	1	JRC[	JWRC	JWRC	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יורש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 261176	MT	Jeremiah	49	2	JRC[	JRCJW	JRC	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	W	J			nnnnn	nnnnn	ירשיו		-	-	1	0	0	1	nnn	nnn	first		0
 261217	MT	Jeremiah	49	4	BVX[	BVXH	BVX	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H		H	nnnn	nnnn	בטחה		-	-	0	1	0	1	nnn	nnn	first		0
+261244	MT	Jeremiah	49	5	NDD[	NDD	NDD	CCC	CCC	qal	ptca	sg	m	unknown	verb				L	nnn	nnn	נדד		-	-	0	1	0	0	nnn	nnn	first		0
 261278	MT	Jeremiah	49	8	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 261288	MT	Jeremiah	49	9	BYR[	BYRJM	BYR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	בצרים		-	-	0	0	0	1	nnn	nnn	first		0
 261413	MT	Jeremiah	49	16	CKN[	CKNJ	CKN	CCC	CCCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שכני		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2410,6 +2476,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 261980	MT	Jeremiah	50	6	>BD[	>BDWT	>BD	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	אבדות		-	-	0	0	0	1	nnn	nnn	first		0
 261983	MT	Jeremiah	50	6	R<H[	R<JHM	R<	CC	CCMCC	qal	ptca	pl	m	unknown	verb	HM	J			nnnnn	nnnnn	רעיהם		-	-	1	0	0	1	nn	nn	first		0
 261995	MT	Jeremiah	50	7	MY>[	MWY>JHM	MWY>	CMCC	CMCCMCC	qal	ptca	pl	m	unknown	verb	HM	J			nnnnnnn	nnnnnnn	מוצאיהם		-	-	1	0	0	1	nnnn	nnnn	first	W	1
+262062	MT	Jeremiah	50	10	CLL[	CLLJH	CLL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	H	J			nnnnn	nnnnn	שלליה		-	-	1	0	0	1	nnn	nnn	first		0
 262070	MT	Jeremiah	50	11	CSH[	CSJ	CS	CC	CCM	qal	ptca	pl	m	unknown	verb		J			nnn	nnn	שסי		-	-	0	0	0	1	nn	nn	first		0
 262086	MT	Jeremiah	50	12	JLD[	JWLDTKM	JWLD	CMCC	CMCCCCC	qal	ptca	sg	f	unknown	verb	KM	T			nnnnnnn	nnnnnnn	יולדתכם		-	-	1	0	0	1	nnnn	nnnn	first	W	1
 262104	MT	Jeremiah	50	13	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2444,11 +2511,16 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 263402	MT	Jeremiah	51	37	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 263554	MT	Jeremiah	51	46	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	משל		-	-	0	1	0	0	nnn	nnn	first		0
 263556	MT	Jeremiah	51	46	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	משל		-	-	0	0	0	0	nnn	nnn	first		0
+263593	MT	Jeremiah	51	48	CDD[	CWDDJM	CWDD	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn	שודדים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+263669	MT	Jeremiah	51	53	CDD[	CDDJM	CDD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	שדדים		-	-	0	0	0	1	nnn	nnn	first		0
+263684	MT	Jeremiah	51	55	CDD[	CDD	CDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שדד		-	-	0	0	0	0	nnn	nnn	first		0
+263707	MT	Jeremiah	51	56	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 263861	MT	Jeremiah	51	62	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 264255	MT	Jeremiah	52	15	NPL[	NPLJM	NPL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	נפלים		-	-	0	1	0	1	nnn	nnn	first		0
 264283	MT	Jeremiah	52	16	JGB[	JGBJM	JGB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		WL	nnnnn	nnnnn	יגבים		-	-	0	1	0	1	nnn	nnn	first		0
 264505	MT	Jeremiah	52	24	CMR[	CMRJ	CMR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שמרי		-	-	0	0	0	1	nnn	nnn	first		0
 264526	MT	Jeremiah	52	25	R>H[	R>J	R>	CC	CCM	qal	ptca	pl	m	unknown	verb		J		M	nnn	nnn	ראי		-	-	0	1	0	1	nn	nn	first		0
+264872	MT	Ezekiel	1	7	NYY[	NYYJM	NYY	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnn	nnnnn	נצצים		-	-	0	1	0	1	nnn	nnn	first		0
 264892	MT	Ezekiel	1	9	XBR[	XBRT	XBR	CCC	CCCC	qal	ptca	pl	f	unknown	verb		T			nnnn	nnnn	חברת		-	-	0	0	0	1	nnn	nnn	first		0
 264943	MT	Ezekiel	1	11	XBR[	XBRWT	XBR	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	חברות		-	-	0	0	0	1	nnn	nnn	first		0
 264977	MT	Ezekiel	1	13	B<R[	B<RWT	B<R	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	בערות		-	-	0	0	0	1	nnn	nnn	first		0
@@ -2613,6 +2685,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 278358	MT	Ezekiel	27	36	SXR[	SXRJM	SXR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	סחרים		-	-	0	0	0	1	nnn	nnn	first		0
 278494	MT	Ezekiel	28	9	HRG[	HRGK	HRG	CCC	CCCC	qal	ptca	pl	m	unknown	verb	K				nnnn	nnnn	הרגך		-	-	1	0	0	0	nnn	nnn	first		0
 278538	MT	Ezekiel	28	12	XTM[	XWTM	XWTM	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חותם		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+278581	MT	Ezekiel	28	14	SKK[	SWKK	SWKK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	סוכך		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+278622	MT	Ezekiel	28	16	SKK[	SKK	SKK	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	סכך		-	-	0	1	0	0	nnn	nnn	first		0
 278670	MT	Ezekiel	28	18	R>H[	R>JK	R>	CC	CCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnn	nnnn	ראיך		-	-	1	0	0	1	nn	nn	first		0
 278672	MT	Ezekiel	28	19	JD<[	JWD<JK	JWD<	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnnnn	nnnnnn	יודעיך		-	-	1	0	0	1	nnnn	nnnn	first	W	1
 278887	MT	Ezekiel	29	3	RBY[	RBY	RBY	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	רבץ		-	-	0	1	0	0	nnn	nnn	first		0
@@ -2672,6 +2746,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 282009	MT	Ezekiel	34	23	R<H[	R<H	R<	CC	CCM	qal	ptca	sg	m	unknown	verb				L	nnn	nnn	רעה	H	-	-	0	1	0	0	nn	nn	first		0
 282099	MT	Ezekiel	34	27	<BD[	<BDJM	<BD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	עבדים		-	-	0	1	0	1	nnn	nnn	first		0
 282272	MT	Ezekiel	35	7	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
+282508	MT	Ezekiel	36	4	CMM[	CMMWT	CMM	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT		H	nnnnn	nnnnn	שממות		-	-	0	1	0	1	nnn	nnn	first		0
 282713	MT	Ezekiel	36	13	>MR[	>MRJM	>MR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
 282715	MT	Ezekiel	36	13	>KL[	>KLT	>KL	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	אכלת		-	-	0	0	0	1	nnn	nnn	first		0
 282768	MT	Ezekiel	36	17	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	ישבים		-	-	0	0	0	1	nnn	nnn	first		0
@@ -2696,6 +2771,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 284319	MT	Ezekiel	38	22	CVP[	CWVP	CWVP	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שוטף		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 284441	MT	Ezekiel	39	6	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		WB	nnnn	nnnn	ישבי		-	-	0	1	0	1	nnn	nnn	first		0
 284491	MT	Ezekiel	39	9	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
+284544	MT	Ezekiel	39	10	CLL[	CLLJHM	CLL	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J			nnnnnn	nnnnnn	שלליהם		-	-	1	0	0	1	nnn	nnn	first		0
+284548	MT	Ezekiel	39	10	BZZ[	BZZJHM	BZZ	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J			nnnnnn	nnnnnn	בזזיהם		-	-	1	0	0	1	nnn	nnn	first		0
 284569	MT	Ezekiel	39	11	<BR[	<BRJM	<BR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	עברים		-	-	0	1	0	1	nnn	nnn	first		0
 284574	MT	Ezekiel	39	11	XSM[	XSMT	XSM	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T		W	nnnn	nnnn	חסמת		-	-	0	1	0	1	nnn	nnn	first		0
 284578	MT	Ezekiel	39	11	<BR[	<BRJM	<BR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	עברים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -2732,17 +2809,22 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 291741	MT	Hosea	4	3	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 291921	MT	Hosea	4	14	ZNH[	ZNWT	ZN	CC	CCMC	qal	ptca	pl	f	unknown	verb		WT		H	nnnn	nnnn	זנות		-	-	0	1	0	1	nn	nn	first		0
 291934	MT	Hosea	4	15	ZNH[	ZNH	ZN	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	זנה	H	-	-	0	0	0	0	nn	nn	first		0
+291957	MT	Hosea	4	16	SRR[	SRRH	SRR	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	סררה		-	-	0	0	0	1	nnn	nnn	first		0
 292295	MT	Hosea	6	4	HLK[	HLK	HLK	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
 292332	MT	Hosea	6	8	P<L[	P<LJ	P<L	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	פעלי		-	-	0	0	0	1	nnn	nnn	first		0
 292418	MT	Hosea	7	4	B<R[	B<RH	B<R	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	בערה		-	-	0	0	0	1	nnn	nnn	first		0
 292454	MT	Hosea	7	6	B<R[	B<R	B<R	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	בער		-	-	0	0	0	0	nnn	nnn	first		0
 292466	MT	Hosea	7	7	CPV[	CPVJHM	CPV	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J			nnnnnn	nnnnnn	שפטיהם		-	-	1	0	0	1	nnn	nnn	first		0
 292471	MT	Hosea	7	7	QR>[	QR>	QR>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	קרא		-	-	0	0	0	0	nnn	nnn	first		0
+292714	MT	Hosea	8	9	BDD[	BWDD	BWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 292774	MT	Hosea	8	14	<FH[	<FHW	<F	CC	CCCM	qal	ptca	sg	m	unknown	verb	HW				nnnn	nnnn	עשהו		-	-	1	0	0	0	nn	nn	first		0
 292848	MT	Hosea	9	4	>KL[	>KLJW	>KL	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	W	J			nnnnn	nnnnn	אכליו		-	-	1	0	0	1	nnn	nnn	first		0
 292908	MT	Hosea	9	8	YPH[	YPH	YP	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	צפה	H	-	-	0	0	0	0	nn	nn	first		0
 293004	MT	Hosea	9	13	HRG[	HRG	HRG	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	הרג		-	-	0	0	0	0	nnn	nnn	first		0
 293017	MT	Hosea	9	14	YMQ[	YMQJM	YMQ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	צמקים		-	-	0	0	0	1	nnn	nnn	first		0
+293037	MT	Hosea	9	15	SRR[	SRRJM	SRR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	סררים		-	-	0	0	0	1	nnn	nnn	first		0
+293060	MT	Hosea	9	17	NDD[	NDDJM	NDD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נדדים		-	-	0	0	0	1	nnn	nnn	first		0
+293065	MT	Hosea	10	1	BQQ[	BWQQ	BWQQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בוקק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 293227	MT	Hosea	10	11	>HB[	>HBTJ	>HB	CCC	CCCCM	qal	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn	אהבתי		-	-	0	0	0	1	nnn	nnn	first		0
 293502	MT	Hosea	12	2	R<H[	R<H	R<	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	רעה	H	-	-	0	0	0	0	nn	nn	first		0
 293505	MT	Hosea	12	2	RDP[	RDP	RDP	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	רדף		-	-	0	1	0	0	nnn	nnn	first		0
@@ -2781,6 +2863,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 296154	MT	Amos	3	12	R<H[	R<H	R<	CC	CCM	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	רעה	H	-	-	0	1	0	0	nn	nn	first		0
 296169	MT	Amos	3	12	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
 296246	MT	Amos	4	1	<CQ[	<CQWT	<CQ	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT		H	nnnnn	nnnnn	עשקות		-	-	0	1	0	1	nnn	nnn	first		0
+296249	MT	Amos	4	1	RYY[	RYYWT	RYY	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT		H	nnnnn	nnnnn	רצצות		-	-	0	1	0	1	nnn	nnn	first		0
 296252	MT	Amos	4	1	>MR[	>MRT	>MR	CCC	CCCC	qal	ptca	pl	f	unknown	verb		T		H	nnnn	nnnn	אמרת		-	-	0	1	0	1	nnn	nnn	first		0
 296496	MT	Amos	4	13	JYR[	JWYR	JWYR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יוצר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 296499	MT	Amos	4	13	BR>[	BR>	BR>	CCC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	ברא		-	-	0	1	0	0	nnn	nnn	first		0
@@ -2794,6 +2877,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 296633	MT	Amos	5	8	HPK[	HPK	HPK	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	הפך		-	-	0	1	0	0	nnn	nnn	first		0
 296643	MT	Amos	5	8	QR>[	QWR>	QWR>	CMCC	CMCM	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	קורא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 296672	MT	Amos	5	10	DBR[	DBR	DBR	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	דבר		-	-	0	1	0	0	nnn	nnn	first		0
+296707	MT	Amos	5	12	YRR=[	YRRJ	YRR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	צררי		-	-	0	0	0	1	nnn	nnn	first		0
 296709	MT	Amos	5	12	LQX[	LQXJ	LQX	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	לקחי		-	-	0	0	0	1	nnn	nnn	first		0
 296791	MT	Amos	5	16	JD<[	JWD<J	JWD<	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	יודעי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 296949	MT	Amos	6	1	BVX[	BVXJM	BVX	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		WH	nnnnn	nnnnn	בטחים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -2824,6 +2908,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 298110	MT	Amos	9	13	MCK[	MCK	MCK	CCC	CCC	qal	ptca	sg	m	unknown	verb				B	nnn	nnn	משך		-	-	0	1	0	0	nnn	nnn	first		0
 298204	MT	Obadiah	1	3	CKN[	CKNJ	CKN	CCC	CCCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שכני		-	-	0	0	0	0	nnn	nnn	first		0
 298210	MT	Obadiah	1	3	>MR[	>MR	>MR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	first		0
+298237	MT	Obadiah	1	5	CDD[	CWDDJ	CWDD	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	שודדי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 298246	MT	Obadiah	1	5	BYR[	BYRJM	BYR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	בצרים		-	-	0	0	0	1	nnn	nnn	first		0
 298767	MT	Jonah	1	9	JR>[	JR>	JR>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	ירא		-	-	0	0	0	0	nnn	nnn	first		0
 298799	MT	Jonah	1	10	BRX[	BRX	BRX	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ברח		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2893,6 +2978,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 301572	MT	Nahum	1	9	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
 301592	MT	Nahum	1	11	XCB[	XCB	XCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
 301596	MT	Nahum	1	11	J<Y[	J<Y	J<Y	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	יעץ		-	-	0	0	0	0	nnn	nnn	first		0
+301692	MT	Nahum	2	3	BQQ[	BQQJM	BQQ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	בקקים		-	-	0	0	0	1	nnn	nnn	first		0
 301836	MT	Nahum	2	13	VRP[	VRP	VRP	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	טרף		-	-	0	0	0	0	nnn	nnn	first		0
 301883	MT	Nahum	3	1	ML>[	ML>H	ML>	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	מלאה		-	-	0	0	0	1	nnn	nnn	first		0
 301895	MT	Nahum	3	2	DHR[	DHR	DHR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	דהר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -2969,6 +3055,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 305487	MT	Zechariah	2	7	JY>[	JY>	JY>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
 305491	MT	Zechariah	2	7	JY>[	JY>	JY>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
 305553	MT	Zechariah	2	11	JCB[	JWCBT	JWCB	CMCC	CMCCC	qal	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn	יושבת		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+305568	MT	Zechariah	2	12	CLL[	CLLJM	CLL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	שללים		-	-	0	1	0	1	nnn	nnn	first		0
 305572	MT	Zechariah	2	12	NG<[	NG<	NG<	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	נגע		-	-	0	1	0	0	nnn	nnn	first		0
 305574	MT	Zechariah	2	12	NG<[	NG<	NG<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נגע		-	-	0	0	0	0	nnn	nnn	first		0
 305670	MT	Zechariah	3	1	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
@@ -3003,6 +3090,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 306820	MT	Zechariah	7	6	CTH[	CTJM	CT	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	שתים		-	-	0	1	0	1	nn	nn	first		0
 306838	MT	Zechariah	7	7	JCB[	JCBT	JCB	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	ישבת		-	-	0	0	0	1	nnn	nnn	first		0
 306850	MT	Zechariah	7	7	JCB[	JCB	JCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
+306900	MT	Zechariah	7	11	SRR[	SRRT	SRR	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	סררת		-	-	0	0	0	1	nnn	nnn	first		0
 306970	MT	Zechariah	7	14	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb				M	nnn	nnn	עבר		-	-	0	1	0	0	nnn	nnn	first		0
 307129	MT	Zechariah	8	9	CM<[	CM<JM	CM<	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	שמעים		-	-	0	1	0	1	nnn	nnn	first		0
 307175	MT	Zechariah	8	10	JY>[	JWY>	JWY>	CMCC	CMCM	qal	ptca	sg	m	unknown	verb				WL	nnnn	nnnn	יוצא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
@@ -3081,19 +3169,24 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 310873	MT	Psalms	3	3	>MR[	>MRJM	>MR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
 311005	MT	Psalms	4	7	>MR[	>MRJM	>MR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	אמרים		-	-	0	0	0	1	nnn	nnn	first		0
 311074	MT	Psalms	5	5	XPY[	XPY	XPY	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חפץ		-	-	0	0	0	0	nnn	nnn	first		0
+311082	MT	Psalms	5	6	HLL==[	HWLLJM	HWLL	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	הוללים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 311088	MT	Psalms	5	6	P<L[	P<LJ	P<L	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	פעלי		-	-	0	0	0	1	nnn	nnn	first		0
 311091	MT	Psalms	5	7	DBR[	DBRJ	DBR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	דברי		-	-	0	0	0	1	nnn	nnn	first		0
 311149	MT	Psalms	5	12	XSH[	XWSJ	XWS	CMC	CMCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	חוסי		-	-	0	0	0	1	nnn	nnn	first	W	1
 311160	MT	Psalms	5	12	>HB[	>HBJ	>HB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	אהבי		-	-	0	0	0	1	nnn	nnn	first		0
+311249	MT	Psalms	6	8	YRR=[	YWRRJ	YWRR	CMCC	CMCCC	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	צוררי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 311253	MT	Psalms	6	9	P<L[	P<LJ	P<L	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	פעלי		-	-	0	0	0	1	nnn	nnn	first		0
 311294	MT	Psalms	7	2	RDP[	RDPJ	RDP	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	רדפי		-	-	0	0	0	1	nnn	nnn	first		0
 311302	MT	Psalms	7	3	PRQ[	PRQ	PRQ	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	פרק		-	-	0	0	0	0	nnn	nnn	first		0
 311318	MT	Psalms	7	5	CLM[	CWLMJ	CWLM	CMCC	CMCCM	qal	ptca	sg	m	unknown	verb	J				nnnnn	nnnnn	שולמי		-	-	1	0	0	0	nnnn	nnnn	first	W	1
+311322	MT	Psalms	7	5	YRR=[	YWRRJ	YWRR	CMCC	CMCCM	qal	ptca	sg	m	unknown	verb	J				nnnnn	nnnnn	צוררי		-	-	1	0	0	0	nnnn	nnnn	first	W	1
+311349	MT	Psalms	7	7	YRR=[	YWRRJ	YWRR	CMCC	CMCCC	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	צוררי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 311384	MT	Psalms	7	10	BXN[	BXN	BXN	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	בחן		-	-	0	1	0	0	nnn	nnn	first		0
 311397	MT	Psalms	7	12	CPV[	CWPV	CWPV	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שופט		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 311401	MT	Psalms	7	12	Z<M[	Z<M	Z<M	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	זעם		-	-	0	0	0	0	nnn	nnn	first		0
 311421	MT	Psalms	7	14	DLQ[	DLQJM	DLQ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnn	nnnnn	דלקים		-	-	0	1	0	1	nnn	nnn	first		0
 311487	MT	Psalms	8	3	JNQ[	JNQJM	JNQ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnn	nnnnn	ינקים		-	-	0	1	0	1	nnn	nnn	first		0
+311491	MT	Psalms	8	3	YRR=[	YWRRJK	YWRR	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnnnn	nnnnnn	צורריך		-	-	1	0	0	1	nnnn	nnnn	first	W	1
 311548	MT	Psalms	8	9	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
 311602	MT	Psalms	9	5	CPV[	CWPV	CWPV	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שופט		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 311662	MT	Psalms	9	11	JD<[	JWD<J	JWD<	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	יודעי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
@@ -3104,6 +3197,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 311727	MT	Psalms	9	17	NQC[	NWQC	NWQC	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	נוקש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 311737	MT	Psalms	9	18	CKX[	CKXJ	CKX	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שכחי		-	-	0	0	0	1	nnn	nnn	first		0
 311796	MT	Psalms	10	3	BY<[	BY<	BY<	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	בצע		-	-	0	1	0	0	nnn	nnn	first		0
+311820	MT	Psalms	10	5	YRR=[	YWRRJW	YWRR	CMCC	CMCCCC	qal	ptca	pl	m	unknown	verb	W	J			nnnnnn	nnnnnn	צורריו		-	-	1	0	0	1	nnnn	nnnn	first	W	1
 311933	MT	Psalms	10	14	<ZR[	<WZR	<WZR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עוזר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 312034	MT	Psalms	11	5	>HB[	>HB	>HB	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	אהב		-	-	0	1	0	0	nnn	nnn	first		0
 312235	MT	Psalms	14	1	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
@@ -3137,6 +3231,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 313860	MT	Psalms	22	29	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	משל		-	-	0	1	0	0	nnn	nnn	first		0
 313874	MT	Psalms	22	30	JRD[	JWRDJ	JWRD	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	יורדי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 313901	MT	Psalms	23	1	R<H[	R<J	R<	CC	CCM	qal	ptca	sg	m	unknown	verb	J				nnn	nnn	רעי		-	-	1	0	0	0	nn	nn	first		0
+313942	MT	Psalms	23	5	YRR=[	YRRJ	YRR	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	צררי		-	-	0	0	0	1	nnn	nnn	first		0
 313977	MT	Psalms	24	1	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	ישבי		-	-	0	1	0	1	nnn	nnn	first		0
 314104	MT	Psalms	25	3	BGD[	BWGDJM	BWGD	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn	בוגדים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 314175	MT	Psalms	25	10	NYR[	NYRJ	NYR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		L	nnnn	nnnn	נצרי		-	-	0	1	0	1	nnn	nnn	first		0
@@ -3149,6 +3244,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 314791	MT	Psalms	29	9	>MR[	>MR	>MR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	first		0
 314920	MT	Psalms	30	11	<ZR[	<ZR	<ZR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עזר		-	-	0	0	0	0	nnn	nnn	first		0
 315005	MT	Psalms	31	7	CMR[	CMRJM	CMR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	שמרים		-	-	0	1	0	1	nnn	nnn	first		0
+315067	MT	Psalms	31	12	YRR=[	YRRJ	YRR	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	צררי		-	-	0	0	0	1	nnn	nnn	first		0
 315078	MT	Psalms	31	12	R>H[	R>J	R>	CC	CCC	qal	ptca	pl	m	unknown	verb		J			nnn	nnn	ראי		-	-	0	0	0	1	nn	nn	first		0
 315092	MT	Psalms	31	13	>BD[	>BD	>BD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אבד		-	-	0	0	0	0	nnn	nnn	first		0
 315125	MT	Psalms	31	16	RDP[	RDPJ	RDP	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		WM	nnnn	nnnn	רדפי		-	-	0	1	0	1	nnn	nnn	first		0
@@ -3185,11 +3281,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 316211	MT	Psalms	36	13	P<L[	P<LJ	P<L	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	פעלי		-	-	0	0	0	1	nnn	nnn	first		0
 316228	MT	Psalms	37	1	<FH[	<FJ	<F	CC	CCM	qal	ptca	pl	m	unknown	verb		J		B	nnn	nnn	עשי		-	-	0	1	0	1	nn	nn	first		0
 316295	MT	Psalms	37	7	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
+316338	MT	Psalms	37	12	ZMM[	ZMM	ZMM	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	זמם		-	-	0	0	0	0	nnn	nnn	first		0
 316344	MT	Psalms	37	12	XRQ[	XRQ	XRQ	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	חרק		-	-	0	1	0	0	nnn	nnn	first		0
 316391	MT	Psalms	37	17	SMK[	SWMK	SWMK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	סומך		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 316394	MT	Psalms	37	18	JD<[	JWD<	JWD<	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יודע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+316434	MT	Psalms	37	21	XNN[	XWNN	XWNN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חונן		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 316436	MT	Psalms	37	21	NTN[	NWTN	NWTN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	נותן		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 316458	MT	Psalms	37	24	SMK[	SWMK	SWMK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סומך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+316476	MT	Psalms	37	26	XNN[	XWNN	XWNN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חונן		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 316495	MT	Psalms	37	28	>HB[	>HB	>HB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אהב		-	-	0	0	0	0	nnn	nnn	first		0
 316532	MT	Psalms	37	32	YPH[	YWPH	YWP	CMC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	צופה	H	-	-	0	0	0	0	nnn	nnn	first	W	1
 316595	MT	Psalms	37	38	PC<[	PC<JM	PC<	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnn	nnnnn	פשעים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -3203,8 +3302,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 317211	MT	Psalms	40	17	>HB[	>HBJ	>HB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	אהבי		-	-	0	0	0	1	nnn	nnn	first		0
 317306	MT	Psalms	41	8	FN>[	FN>J	FN>	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שנאי		-	-	0	0	0	1	nnn	nnn	first		0
 317328	MT	Psalms	41	10	>KL[	>WKL	>WKL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	אוכל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+317446	MT	Psalms	42	5	XGG[	XWGG	XWGG	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חוגג		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 317479	MT	Psalms	42	8	QR>[	QWR>	QWR>	CMCC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	קורא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 317510	MT	Psalms	42	10	QDR[	QDR	QDR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	קדר		-	-	0	0	0	0	nnn	nnn	first		0
+317520	MT	Psalms	42	11	YRR=[	YWRRJ	YWRR	CMCC	CMCCC	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	צוררי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 317568	MT	Psalms	43	2	QDR[	QDR	QDR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	קדר		-	-	0	0	0	0	nnn	nnn	first		0
 317831	MT	Psalms	44	22	JD<[	JD<	JD<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	first		0
 317893	MT	Psalms	45	2	>MR[	>MR	>MR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -3245,8 +3346,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 320846	MT	Psalms	65	3	CM<[	CM<	CM<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
 320901	MT	Psalms	65	9	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 321023	MT	Psalms	66	7	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	משל		-	-	0	0	0	0	nnn	nnn	first		0
+321033	MT	Psalms	66	7	SRR[	SWRRJM	SWRR	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn	סוררים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 321278	MT	Psalms	68	5	RKB[	RKB	RKB	CCC	CCC	qal	ptca	sg	m	unknown	verb				L	nnn	nnn	רכב		-	-	0	1	0	0	nnn	nnn	first		0
+321308	MT	Psalms	68	7	SRR[	SWRRJM	SWRR	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	סוררים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+321442	MT	Psalms	68	19	SRR[	SWRRJM	SWRR	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	סוררים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 321512	MT	Psalms	68	26	NGN[	NGNJM	NGN	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נגנים		-	-	0	0	0	1	nnn	nnn	first		0
+321516	MT	Psalms	68	26	TPP[	TWPPWT	TWPP	CMCC	CMCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn	תופפות		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 321528	MT	Psalms	68	28	RDH[	RDM	RD	CC	CCC	qal	ptca	sg	m	unknown	verb	M				nnn	nnn	רדם		-	-	1	0	0	0	nn	nn	first		0
 321588	MT	Psalms	68	34	RKB[	RKB	RKB	CCC	CCC	qal	ptca	sg	m	unknown	verb				L	nnn	nnn	רכב		-	-	0	1	0	0	nnn	nnn	first		0
 321618	MT	Psalms	68	36	NTN[	NTN	NTN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
@@ -3255,6 +3360,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 321750	MT	Psalms	69	13	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 321754	MT	Psalms	69	13	CTH[	CWTJ	CWT	CMC	CMCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שותי		-	-	0	0	0	1	nnn	nnn	first	W	1
 321779	MT	Psalms	69	15	FN>[	FN>J	FN>	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		M	nnnn	nnnn	שנאי		-	-	0	1	0	1	nnn	nnn	first		0
+321835	MT	Psalms	69	20	YRR=[	YWRRJ	YWRR	CMCC	CMCCC	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	צוררי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 321897	MT	Psalms	69	26	JCB[	JCB	JCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
 321930	MT	Psalms	69	30	K>B[	KW>B	KW>B	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	כואב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 321955	MT	Psalms	69	33	DRC[	DRCJ	DRC	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	דרשי		-	-	0	0	0	1	nnn	nnn	first		0
@@ -3270,13 +3376,18 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 322350	MT	Psalms	72	4	<CQ[	<WCQ	<WCQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עושק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 322427	MT	Psalms	72	12	<ZR[	<ZR	<ZR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עזר		-	-	0	0	0	0	nnn	nnn	first		0
 322508	MT	Psalms	72	18	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
+322558	MT	Psalms	73	3	HLL==[	HWLLJM	HWLL	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		B	nnnnnn	nnnnnn	הוללים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 322771	MT	Psalms	73	27	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	זונה	H	-	-	0	0	0	0	nnn	nnn	first	W	1
+322825	MT	Psalms	74	4	YRR=[	YRRJK	YRR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	צרריך		-	-	1	0	0	1	nnn	nnn	first		0
 322882	MT	Psalms	74	9	JD<[	JD<	JD<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	first		0
 322909	MT	Psalms	74	12	P<L[	P<L	P<L	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	פעל		-	-	0	0	0	0	nnn	nnn	first		0
+323020	MT	Psalms	74	23	YRR=[	YRRJK	YRR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	צרריך		-	-	1	0	0	1	nnn	nnn	first		0
 323023	MT	Psalms	74	23	<LH[	<LH	<L	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עלה	H	-	-	0	0	0	0	nn	nn	first		0
 323053	MT	Psalms	75	4	JCB[	JCBJH	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	H	J			nnnnn	nnnnn	ישביה		-	-	1	0	0	1	nnn	nnn	first		0
+323061	MT	Psalms	75	5	HLL==[	HWLLJM	HWLL	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnnn	nnnnnn	הוללים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 323095	MT	Psalms	75	8	CPV[	CPV	CPV	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שפט		-	-	0	0	0	0	nnn	nnn	first		0
 323395	MT	Psalms	77	15	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
+323556	MT	Psalms	78	8	SRR[	SWRR	SWRR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 323558	MT	Psalms	78	8	MRH[	MRH	MR	CC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	מרה	H	-	-	0	1	0	0	nn	nn	first		0
 323571	MT	Psalms	78	9	NCQ=[	NWCQJ	NWCQ	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	נושקי		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 323572	MT	Psalms	78	9	RMH[	RWMJ	RWM	CMC	CMCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	רומי		-	-	0	0	0	1	nnn	nnn	first	W	1
@@ -3335,6 +3446,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 327701	MT	Psalms	101	7	<FH[	<FH	<F	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשה	H	-	-	0	0	0	0	nn	nn	first		0
 327703	MT	Psalms	101	7	DBR[	DBR	DBR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	דבר		-	-	0	0	0	0	nnn	nnn	first		0
 327723	MT	Psalms	101	8	P<L[	P<LJ	P<L	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	פעלי		-	-	0	0	0	1	nnn	nnn	first		0
+327801	MT	Psalms	102	8	BDD[	BWDD	BWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 328034	MT	Psalms	103	3	SLX[	SLX	SLX	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	סלח		-	-	0	1	0	0	nnn	nnn	first		0
 328039	MT	Psalms	103	3	RP>[	RP>	RP>	CCC	CCM	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	רפא		-	-	0	1	0	0	nnn	nnn	first		0
 328044	MT	Psalms	103	4	G>L[	GW>L	GW>L	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	גואל		-	-	0	1	0	0	nnnn	nnnn	first	W	1
@@ -3366,6 +3478,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 329819	MT	Psalms	107	40	CPK[	CPK	CPK	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שפך		-	-	0	0	0	0	nnn	nnn	first		0
 330064	MT	Psalms	109	11	NC>[	NWCH	NWC	CMC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	נושה	H	-	-	0	0	0	0	nnn	nnn	first	W	1
 330076	MT	Psalms	109	12	MCK[	MCK	MCK	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	משך		-	-	0	0	0	0	nnn	nnn	first		0
+330081	MT	Psalms	109	12	XNN[	XWNN	XWNN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חונן		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 330172	MT	Psalms	109	20	FVN[	FVNJ	FVN	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שטני		-	-	0	0	0	1	nnn	nnn	first		0
 330178	MT	Psalms	109	20	DBR[	DBRJM	DBR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		WH	nnnnn	nnnnn	דברים		-	-	0	1	0	1	nnn	nnn	first		0
 330256	MT	Psalms	109	29	FVN[	FWVNJ	FWVN	CMCC	CMCCC	qal	ptca	pl	m	unknown	verb		J			nnnnn	nnnnn	שוטני		-	-	0	0	0	1	nnnn	nnnn	first	W	1
@@ -3375,6 +3488,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 330459	MT	Psalms	111	10	<MD[	<MDT	<MD	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	עמדת		-	-	0	0	0	1	nnn	nnn	first		0
 330466	MT	Psalms	112	1	JR>[	JR>	JR>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	ירא		-	-	0	0	0	0	nnn	nnn	first		0
 330489	MT	Psalms	112	3	<MD[	<MDT	<MD	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	עמדת		-	-	0	0	0	1	nnn	nnn	first		0
+330507	MT	Psalms	112	5	XNN[	XWNN	XWNN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חונן		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 330549	MT	Psalms	112	9	<MD[	<MDT	<MD	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T			nnnn	nnnn	עמדת		-	-	0	0	0	1	nnn	nnn	first		0
 330655	MT	Psalms	114	1	L<Z[	L<Z	L<Z	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	לעז		-	-	0	0	0	0	nnn	nnn	first		0
 330713	MT	Psalms	114	8	HPK[	HPKJ	HPK	CCC	CCCM	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	הפכי		-	-	0	1	0	0	nnn	nnn	first		0
@@ -3395,6 +3509,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331624	MT	Psalms	119	42	XRP[	XRPJ	XRP	CCC	CCCM	qal	ptca	sg	m	unknown	verb	J				nnnn	nnnn	חרפי		-	-	1	0	0	0	nnn	nnn	first		0
 331718	MT	Psalms	119	53	<ZB[	<ZBJ	<ZB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	עזבי		-	-	0	0	0	1	nnn	nnn	first		0
 331793	MT	Psalms	119	63	CMR[	CMRJ	CMR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		WL	nnnn	nnnn	שמרי		-	-	0	1	0	1	nnn	nnn	first		0
+331821	MT	Psalms	119	67	CGG[	CGG	CGG	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שגג		-	-	0	0	0	0	nnn	nnn	first		0
 331960	MT	Psalms	119	84	RDP[	RDPJ	RDP	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		B	nnnn	nnnn	רדפי		-	-	0	1	0	1	nnn	nnn	first		0
 332223	MT	Psalms	119	118	CGH[	CWGJM	CWG	CMC	CMCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	שוגים		-	-	0	0	0	1	nnn	nnn	first	W	1
 332252	MT	Psalms	119	121	<CQ[	<CQJ	<CQ	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		L	nnnn	nnnn	עשקי		-	-	0	1	0	1	nnn	nnn	first		0
@@ -3459,6 +3574,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 334882	MT	Psalms	142	5	DRC[	DWRC	DWRC	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	דורש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 334904	MT	Psalms	142	7	RDP[	RDPJ	RDP	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		M	nnnn	nnnn	רדפי		-	-	0	1	0	1	nnn	nnn	first		0
 335006	MT	Psalms	143	7	JRD[	JRDJ	JRD	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ירדי		-	-	0	0	0	1	nnn	nnn	first		0
+335061	MT	Psalms	143	12	YRR=[	YRRJ	YRR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	צררי		-	-	0	0	0	1	nnn	nnn	first		0
+335093	MT	Psalms	144	2	RDD[	RWDD	RWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	רודד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 335113	MT	Psalms	144	4	<BR[	<WBR	<WBR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עובר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 335166	MT	Psalms	144	10	NTN[	NWTN	NWTN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	נותן		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 335172	MT	Psalms	144	10	PYH[	PWYH	PWY	CMC	CMCM	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	פוצה	H	-	-	0	1	0	0	nnn	nnn	first	W	1
@@ -3497,6 +3614,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 336442	MT	Job	1	18	CTH[	CTJM	CT	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnn	nnnn	שתים		-	-	0	1	0	1	nn	nn	first		0
 336698	MT	Job	2	8	JCB[	JCB	JCB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	first		0
 336826	MT	Job	2	13	DBR[	DBR	DBR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	דבר		-	-	0	0	0	0	nnn	nnn	first		0
+336915	MT	Job	3	8	>RR[	>RRJ	>RR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	אררי		-	-	0	0	0	1	nnn	nnn	first		0
 336975	MT	Job	3	14	J<Y[	J<YJ	J<Y	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	יעצי		-	-	0	1	0	1	nnn	nnn	first		0
 336978	MT	Job	3	14	BNH[	BNJM	BN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	בנים		-	-	0	1	0	1	nn	nn	first		0
 337016	MT	Job	3	18	NGF[	NGF	NGF	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נגש		-	-	0	0	0	0	nnn	nnn	first		0
@@ -3530,6 +3648,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 339029	MT	Job	12	3	NPL[	NPL	NPL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
 339042	MT	Job	12	4	QR>[	QR>	QR>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	קרא		-	-	0	0	0	0	nnn	nnn	first		0
 339059	MT	Job	12	5	M<D[	MW<DJ	MW<D	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J		L	nnnnn	nnnnn	מועדי		-	-	0	1	0	1	nnnn	nnnn	first	W	1
+339064	MT	Job	12	6	CDD[	CDDJM	CDD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnn	nnnnn	שדדים		-	-	0	1	0	1	nnn	nnn	first		0
+339178	MT	Job	12	16	CGG[	CGG	CGG	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שגג		-	-	0	0	0	0	nnn	nnn	first		0
 339182	MT	Job	12	17	J<Y[	JW<YJM	JW<Y	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	יועצים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 339185	MT	Job	12	17	CPV[	CPVJM	CPV	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnn	nnnnn	שפטים		-	-	0	1	0	1	nnn	nnn	first		0
 339209	MT	Job	12	21	CPK[	CWPK	CWPK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שופך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -3539,6 +3659,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 339294	MT	Job	13	4	RP>[	RP>J	RP>	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	רפאי		-	-	0	0	0	1	nnn	nnn	first		0
 339700	MT	Job	14	18	NPL[	NWPL	NWPL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	נופל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 339890	MT	Job	15	16	CTH[	CTH	CT	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	שתה	H	-	-	0	0	0	0	nn	nn	first		0
+339942	MT	Job	15	21	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+339954	MT	Job	15	23	NDD[	NDD	NDD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נדד		-	-	0	0	0	0	nnn	nnn	first		0
 340476	MT	Job	18	4	VRP[	VRP	VRP	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	טרף		-	-	0	0	0	0	nnn	nnn	first		0
 340748	MT	Job	19	13	JD<[	JD<J	JD<	CCC	CCCC	qal	ptca	pl	m	unknown	verb		J		W	nnnn	nnnn	ידעי		-	-	0	1	0	1	nnn	nnn	first		0
 340861	MT	Job	19	25	G>L[	G>LJ	G>L	CCC	CCCM	qal	ptca	sg	m	unknown	verb	J				nnnn	nnnn	גאלי		-	-	1	0	0	0	nnn	nnn	first		0
@@ -3554,6 +3676,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 342291	MT	Job	26	5	CKN[	CKNJHM	CKN	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J		W	nnnnnn	nnnnnn	שכניהם		-	-	1	1	0	1	nnn	nnn	first		0
 342301	MT	Job	26	7	NVH[	NVH	NV	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	נטה	H	-	-	0	0	0	0	nn	nn	first		0
 342305	MT	Job	26	7	TLH[	TLH	TL	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	תלה	H	-	-	0	0	0	0	nn	nn	first		0
+342310	MT	Job	26	8	YRR[	YRR	YRR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	צרר		-	-	0	0	0	0	nnn	nnn	first		0
 342545	MT	Job	27	18	NYR[	NYR	NYR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נצר		-	-	0	0	0	0	nnn	nnn	first		0
 342619	MT	Job	28	3	XQR[	XWQR	XWQR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חוקר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 342978	MT	Job	29	12	<ZR[	<ZR	<ZR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עזר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -3604,6 +3727,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 348318	MT	Proverbs	6	7	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	משל		-	-	0	1	0	0	nnn	nnn	first		0
 348360	MT	Proverbs	6	12	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 348363	MT	Proverbs	6	13	QRY[	QRY	QRY	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	קרץ		-	-	0	0	0	0	nnn	nnn	first		0
+348366	MT	Proverbs	6	13	MLL[	MLL	MLL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	מלל		-	-	0	0	0	0	nnn	nnn	first		0
 348375	MT	Proverbs	6	14	XRC=[	XRC	XRC	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חרש		-	-	0	0	0	0	nnn	nnn	first		0
 348406	MT	Proverbs	6	17	CPK[	CPKWT	CPK	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	שפכות		-	-	0	0	0	1	nnn	nnn	first		0
 348410	MT	Proverbs	6	18	XRC=[	XRC	XRC	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חרש		-	-	0	0	0	0	nnn	nnn	first		0
@@ -3613,6 +3737,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 348653	MT	Proverbs	7	8	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
 348679	MT	Proverbs	7	10	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	זונה		-	-	0	0	0	1	nnn	nnn	first	W	1
 348683	MT	Proverbs	7	11	HMH[	HMJH	HMJ	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	המיה		-	-	0	0	0	1	nnn	nnn	first		0
+348686	MT	Proverbs	7	11	SRR[	SRRT	SRR	CCC	CCCC	qal	ptca	sg	f	unknown	verb		T		W	nnnn	nnnn	סררת		-	-	0	1	0	1	nnn	nnn	first		0
 348785	MT	Proverbs	7	22	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 348845	MT	Proverbs	7	27	JRD[	JRDWT	JRD	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	ירדות		-	-	0	0	0	1	nnn	nnn	first		0
 348923	MT	Proverbs	8	9	MY>[	MY>J	MY>	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		L	nnnn	nnnn	מצאי		-	-	0	1	0	1	nnn	nnn	first		0
@@ -3691,6 +3816,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 350597	MT	Proverbs	14	22	XRC=[	XRCJ	XRC	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	חרשי		-	-	0	0	0	1	nnn	nnn	first		0
 350671	MT	Proverbs	14	31	<CQ[	<CQ	<CQ	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עשק		-	-	0	0	0	0	nnn	nnn	first		0
 350674	MT	Proverbs	14	31	<FH[	<FHW	<F	CC	CCCM	qal	ptca	sg	m	unknown	verb	HW				nnnn	nnnn	עשהו		-	-	1	0	0	0	nn	nn	first		0
+350677	MT	Proverbs	14	31	XNN[	XNN	XNN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חנן		-	-	0	0	0	0	nnn	nnn	first		0
 350684	MT	Proverbs	14	32	XSH[	XSH	XS	CC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	חסה	H	-	-	0	1	0	0	nn	nn	first		0
 350737	MT	Proverbs	15	3	YPH[	YPWT	YP	CC	CCMC	qal	ptca	pl	f	unknown	verb		WT			nnnn	nnnn	צפות		-	-	0	0	0	1	nn	nn	first		0
 350756	MT	Proverbs	15	5	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	שמר		-	-	0	1	0	0	nnn	nnn	first		0
@@ -3744,6 +3870,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 351995	MT	Proverbs	19	16	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
 351997	MT	Proverbs	19	16	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
 351999	MT	Proverbs	19	16	BZH[	BWZH	BWZ	CMC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	בוזה	H	-	-	0	0	0	0	nnn	nnn	first	W	1
+352004	MT	Proverbs	19	17	XNN[	XWNN	XWNN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	חונן		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 352023	MT	Proverbs	19	19	NF>[	NF>	NF>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	נשא		-	-	0	0	0	0	nnn	nnn	first		0
 352131	MT	Proverbs	20	1	HMH[	HMH	HM	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	המה	H	-	-	0	0	0	0	nn	nn	first		0
 352135	MT	Proverbs	20	1	CGH[	CGH	CG	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	שגה	H	-	-	0	0	0	0	nn	nn	first		0
@@ -3783,7 +3910,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 353003	MT	Proverbs	23	1	MCL[	MWCL	MWCL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	מושל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 353106	MT	Proverbs	23	11	G>L[	G>LM	G>L	CCC	CCCC	qal	ptca	sg	m	unknown	verb	M				nnnn	nnnn	גאלם		-	-	1	0	0	0	nnn	nnn	first		0
 353196	MT	Proverbs	23	20	SB>[	SB>J	SB>	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		B	nnnn	nnnn	סבאי		-	-	0	1	0	1	nnn	nnn	first		0
+353199	MT	Proverbs	23	20	ZLL[	ZLLJ	ZLL	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		B	nnnn	nnnn	זללי		-	-	0	1	0	1	nnn	nnn	first		0
 353203	MT	Proverbs	23	21	SB>[	SB>	SB>	CCC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	סבא		-	-	0	0	0	0	nnn	nnn	first		0
+353205	MT	Proverbs	23	21	ZLL[	ZWLL	ZWLL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	זולל		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 353247	MT	Proverbs	23	25	JLD[	JWLDTK	JWLD	CMCC	CMCCCC	qal	ptca	sg	f	unknown	verb	K	T			nnnnnn	nnnnnn	יולדתך		-	-	1	0	0	1	nnnn	nnnn	first	W	1
 353259	MT	Proverbs	23	27	ZNH[	ZWNH	ZWN	CMC	CMCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	זונה		-	-	0	0	0	1	nnn	nnn	first	W	1
 353270	MT	Proverbs	23	28	BGD[	BWGDJM	BWGD	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnnn	nnnnnn	בוגדים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
@@ -3816,8 +3945,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 354248	MT	Proverbs	26	23	DLQ[	DLQJM	DLQ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	דלקים		-	-	0	0	0	1	nnn	nnn	first		0
 354255	MT	Proverbs	26	24	FN>[	FWN>	FWN>	CMCC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שונא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354280	MT	Proverbs	26	27	KRH[	KRH	KR	CC	CCM	qal	ptca	sg	m	unknown	verb					nnn	nnn	כרה	H	-	-	0	0	0	0	nn	nn	first		0
+354285	MT	Proverbs	26	27	GLL[	GLL	GLL	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	גלל		-	-	0	1	0	0	nnn	nnn	first		0
 354349	MT	Proverbs	27	6	>HB[	>WHB	>WHB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	אוהב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354353	MT	Proverbs	27	6	FN>[	FWN>	FWN>	CMCC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שונא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+354366	MT	Proverbs	27	8	NDD[	NWDDT	NWDD	CMCC	CMCCC	qal	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn	נודדת		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+354371	MT	Proverbs	27	8	NDD[	NWDD	NWDD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	נודד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354412	MT	Proverbs	27	11	XRP[	XRPJ	XRP	CCC	CCCM	qal	ptca	sg	m	unknown	verb	J				nnnn	nnnn	חרפי		-	-	1	0	0	0	nnn	nnn	first		0
 354443	MT	Proverbs	27	15	VRD[	VWRD	VWRD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	טורד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354451	MT	Proverbs	27	16	YPN[	YPNJH	YPN	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	H	J			nnnnn	nnnnn	צפניה		-	-	1	0	0	1	nnn	nnn	first		0
@@ -3832,8 +3964,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 354637	MT	Proverbs	28	6	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354646	MT	Proverbs	28	7	NYR[	NWYR	NWYR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	נוצר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354651	MT	Proverbs	28	7	R<H=[	R<H	R<	CC	CCM	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	רעה	H	-	-	0	1	0	0	nn	nn	first		0
+354652	MT	Proverbs	28	7	ZLL[	ZWLLJM	ZWLL	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	זוללים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
+354662	MT	Proverbs	28	8	XNN[	XWNN	XWNN	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				L	nnnn	nnnn	חונן		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 354713	MT	Proverbs	28	13	<ZB[	<ZB	<ZB	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	עזב		-	-	0	1	0	0	nnn	nnn	first		0
 354726	MT	Proverbs	28	15	NHM[	NHM	NHM	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נהם		-	-	0	0	0	0	nnn	nnn	first		0
+354729	MT	Proverbs	28	15	CQQ[	CWQQ	CWQQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שוקק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354730	MT	Proverbs	28	15	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	משל		-	-	0	0	0	0	nnn	nnn	first		0
 354756	MT	Proverbs	28	18	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 354765	MT	Proverbs	28	19	<BD[	<BD	<BD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבד		-	-	0	0	0	0	nnn	nnn	first		0
@@ -3856,6 +3991,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 355096	MT	Proverbs	29	25	BVX[	BWVX	BWVX	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	בוטח		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 355103	MT	Proverbs	29	26	MCL[	MWCL	MWCL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	מושל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 355188	MT	Proverbs	30	5	XSH[	XSJM	XS	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnn	nnnn	חסים		-	-	0	1	0	1	nn	nn	first		0
+355437	MT	Proverbs	30	27	XYY[	XYY	XYY	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חצץ		-	-	0	0	0	0	nnn	nnn	first		0
 355541	MT	Proverbs	31	4	RZN[	RWZNJM	RWZN	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM		WL	nnnnnn	nnnnnn	רוזנים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 355558	MT	Proverbs	31	6	>BD[	>WBD	>WBD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				L	nnnn	nnnn	אובד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 355628	MT	Proverbs	31	14	SXR[	SWXR	SWXR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סוחר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -3890,6 +4026,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 357900	MT	Song_of_songs	2	9	<MD[	<WMD	<WMD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עומד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 358004	MT	Song_of_songs	2	16	R<H[	R<H	R<	CC	CCM	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	רעה	H	-	-	0	1	0	0	nn	nn	first		0
 358070	MT	Song_of_songs	3	3	CMR[	CMRJM	CMR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	שמרים		-	-	0	1	0	1	nnn	nnn	first		0
+358072	MT	Song_of_songs	3	3	SBB[	SBBJM	SBB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	סבבים		-	-	0	1	0	1	nnn	nnn	first		0
 358106	MT	Song_of_songs	3	4	HRH[	HWRTJ	HWR	CMC	CMCCM	qal	ptca	sg	f	unknown	verb	J	T			nnnnn	nnnnn	הורתי		-	-	1	0	0	1	nnn	nnn	first	W	1
 358131	MT	Song_of_songs	3	6	<LH[	<LH	<L	CC	CCM	qal	ptca	sg	f	unknown	verb		H			nnn	nnn	עלה		-	-	0	0	0	1	nn	nn	first		0
 358145	MT	Song_of_songs	3	6	RKL[	RWKL	RWKL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	רוכל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -3898,6 +4035,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 358486	MT	Song_of_songs	5	2	DPQ[	DWPQ	DWPQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	דופק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 358533	MT	Song_of_songs	5	5	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	first		0
 358560	MT	Song_of_songs	5	7	CMR[	CMRJM	CMR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	שמרים		-	-	0	1	0	1	nnn	nnn	first		0
+358562	MT	Song_of_songs	5	7	SBB[	SBBJM	SBB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	סבבים		-	-	0	1	0	1	nnn	nnn	first		0
 358573	MT	Song_of_songs	5	7	CMR[	CMRJ	CMR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	שמרי		-	-	0	0	0	1	nnn	nnn	first		0
 358588	MT	Song_of_songs	5	8	XLH[	XWLT	XWL	CMC	CMCC	qal	ptca	sg	f	unknown	verb		T		C	nnnn	nnnn	חולת		-	-	0	1	0	1	nnn	nnn	first	W	1
 358629	MT	Song_of_songs	5	12	RXY[	RXYWT	RXY	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	רחצות		-	-	0	0	0	1	nnn	nnn	first		0
@@ -3908,6 +4046,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 358805	MT	Song_of_songs	6	9	JLD[	JWLDTH	JWLD	CMCC	CMCCCC	qal	ptca	sg	f	unknown	verb	H	T		L	nnnnnn	nnnnnn	יולדתה		-	-	1	1	0	1	nnnn	nnnn	first	W	1
 358931	MT	Song_of_songs	7	5	YPH[	YWPH	YWP	CMC	CMCM	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	צופה	H	-	-	0	0	0	0	nnn	nnn	first	W	1
 358995	MT	Song_of_songs	7	10	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+359000	MT	Song_of_songs	7	10	DBB[	DWBB	DWBB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	דובב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 359058	MT	Song_of_songs	8	1	JNQ[	JWNQ	JWNQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יונק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 359107	MT	Song_of_songs	8	5	<LH[	<LH	<L	CC	CCM	qal	ptca	sg	f	unknown	verb		H			nnn	nnn	עלה		-	-	0	0	0	1	nn	nn	first		0
 359233	MT	Song_of_songs	8	11	NVR[	NVRJM	NVR	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnn	nnnnn	נטרים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -3918,6 +4057,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 359331	MT	Ecclesiastes	1	5	C>P[	CW>P	CW>P	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שואף		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 359332	MT	Ecclesiastes	1	5	ZRX[	ZWRX	ZWRX	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	זורח		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 359335	MT	Ecclesiastes	1	6	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+359339	MT	Ecclesiastes	1	6	SBB[	SWBB	SWBB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	סובב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+359342	MT	Ecclesiastes	1	6	SBB[	SWBB	SWBB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	סובב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+359343	MT	Ecclesiastes	1	6	SBB[	SBB	SBB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	סבב		-	-	0	0	0	0	nnn	nnn	first		0
 359344	MT	Ecclesiastes	1	6	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 359356	MT	Ecclesiastes	1	7	HLK[	HLKJM	HLK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	הלכים		-	-	0	0	0	1	nnn	nnn	first		0
 359370	MT	Ecclesiastes	1	7	HLK[	HLKJM	HLK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	הלכים		-	-	0	0	0	1	nnn	nnn	first		0
@@ -3991,14 +4133,19 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 363460	MT	Ecclesiastes	12	11	R<H[	R<H	R<	CC	CCM	qal	ptca	sg	m	unknown	verb				M	nnn	nnn	רעה	H	-	-	0	1	0	0	nn	nn	first		0
 363548	MT	Lamentations	1	2	>HB[	>HBJH	>HB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	H	J			nnnnn	nnnnn	אהביה		-	-	1	0	0	1	nnn	nnn	first		0
 363574	MT	Lamentations	1	3	RDP[	RDPJH	RDP	CCC	CCCMC	qal	ptca	pl	m	unknown	verb	H	J			nnnnn	nnnnn	רדפיה		-	-	1	0	0	1	nnn	nnn	first		0
+363588	MT	Lamentations	1	4	CMM[	CWMMJN	CWMM	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JN			nnnnnn	nnnnnn	שוממין		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 363636	MT	Lamentations	1	6	RDP[	RWDP	RWDP	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	רודף		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 363658	MT	Lamentations	1	7	<ZR[	<WZR	<WZR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עוזר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+363741	MT	Lamentations	1	11	ZLL[	ZWLLH	ZWLL	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H			nnnnn	nnnnn	זוללה		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 363745	MT	Lamentations	1	12	<BR[	<BRJ	<BR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	עברי		-	-	0	0	0	1	nnn	nnn	first		0
+363780	MT	Lamentations	1	13	CMM[	CMMH	CMM	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	שממה		-	-	0	0	0	1	nnn	nnn	first		0
 363825	MT	Lamentations	1	16	BKH[	BWKJH	BWKJ	CMCC	CMCCM	qal	ptca	sg	f	unknown	verb		H			nnnnn	nnnnn	בוכיה		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 363828	MT	Lamentations	1	16	JRD[	JRDH	JRD	CCC	CCCM	qal	ptca	sg	f	unknown	verb		H			nnnn	nnnn	ירדה		-	-	0	0	0	1	nnn	nnn	first		0
+363838	MT	Lamentations	1	16	CMM[	CWMMJM	CWMM	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	שוממים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 364204	MT	Lamentations	2	11	JNQ[	JWNQ	JWNQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				W	nnnn	nnnn	יונק		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 364279	MT	Lamentations	2	15	<BR[	<BRJ	<BR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	עברי		-	-	0	0	0	1	nnn	nnn	first		0
 364526	MT	Lamentations	3	10	>RB[	>RB	>RB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	ארב		-	-	0	0	0	0	nnn	nnn	first		0
+364537	MT	Lamentations	3	11	CMM[	CMM	CMM	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמם		-	-	0	0	0	0	nnn	nnn	first		0
 365000	MT	Lamentations	4	4	JNQ[	JWNQ	JWNQ	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יונק		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 365009	MT	Lamentations	4	4	PRF[	PRF	PRF	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	פרש		-	-	0	0	0	0	nnn	nnn	first		0
 365013	MT	Lamentations	4	5	>KL[	>KLJM	>KL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	אכלים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -4013,6 +4160,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 365761	MT	Esther	1	13	JD<[	JD<J	JD<	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ידעי		-	-	0	0	0	1	nnn	nnn	first		0
 365781	MT	Esther	1	14	R>H[	R>J	R>	CC	CCM	qal	ptca	pl	m	unknown	verb		J			nnn	nnn	ראי		-	-	0	0	0	1	nn	nn	first		0
 365786	MT	Esther	1	14	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
+366018	MT	Esther	1	22	FRR[	FRR	FRR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שרר		-	-	0	0	0	0	nnn	nnn	first		0
 366094	MT	Esther	2	3	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
 366161	MT	Esther	2	7	>MN[	>MN	>MN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	אמן		-	-	0	0	0	0	nnn	nnn	first		0
 366224	MT	Esther	2	8	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -4030,6 +4178,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 366869	MT	Esther	3	8	CNH[	CNWT	CN	CC	CCMC	qal	ptca	pl	f	unknown	verb		WT			nnnn	nnnn	שנות		-	-	0	0	0	1	nn	nn	first		0
 366879	MT	Esther	3	8	<FH[	<FJM	<F	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	עשים		-	-	0	0	0	1	nn	nn	first		0
 366904	MT	Esther	3	9	<FH[	<FJ	<F	CC	CCM	qal	ptca	pl	m	unknown	verb		J			nnn	nnn	עשי		-	-	0	0	0	1	nn	nn	first		0
+366930	MT	Esther	3	10	YRR=[	YRR	YRR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	צרר		-	-	0	0	0	0	nnn	nnn	first		0
 367366	MT	Esther	4	11	JD<[	JWD<JM	JWD<	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	יודעים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 367469	MT	Esther	4	14	JD<[	JWD<	JWD<	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יודע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 367571	MT	Esther	5	1	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יושב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -4044,6 +4193,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 368283	MT	Esther	6	13	>HB[	>HBJW	>HB	CCC	CCCCC	qal	ptca	pl	m	unknown	verb	W	J			nnnnn	nnnnn	אהביו		-	-	1	0	0	1	nnn	nnn	first		0
 368537	MT	Esther	7	8	NPL[	NPL	NPL	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
 368596	MT	Esther	7	9	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+368641	MT	Esther	8	1	YRR=[	YRR	YRR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	צרר		-	-	0	0	0	0	nnn	nnn	first		0
 368973	MT	Esther	8	10	RKB[	RKBJ	RKB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	רכבי		-	-	0	0	0	1	nnn	nnn	first		0
 369077	MT	Esther	8	14	RKB[	RKBJ	RKB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	רכבי		-	-	0	0	0	1	nnn	nnn	first		0
 369224	MT	Esther	9	1	FN>[	FN>JHM	FN>	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J		B	nnnnnn	nnnnnn	שנאיהם		-	-	1	1	0	1	nnn	nnn	first		0
@@ -4051,10 +4201,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 369292	MT	Esther	9	4	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 369301	MT	Esther	9	4	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	הולך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 369320	MT	Esther	9	5	FN>[	FN>JHM	FN>	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J		B	nnnnnn	nnnnnn	שנאיהם		-	-	1	1	0	1	nnn	nnn	first		0
+369371	MT	Esther	9	10	YRR=[	YRR	YRR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	צרר		-	-	0	0	0	0	nnn	nnn	first		0
 369545	MT	Esther	9	16	FN>[	FN>JHM	FN>	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J		B	nnnnnn	nnnnnn	שנאיהם		-	-	1	1	0	1	nnn	nnn	first		0
 369614	MT	Esther	9	19	JCB[	JCBJM	JCB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	ישבים		-	-	0	1	0	1	nnn	nnn	first		0
 369619	MT	Esther	9	19	<FH[	<FJM	<F	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	עשים		-	-	0	0	0	1	nn	nn	first		0
 369671	MT	Esther	9	21	<FH[	<FJM	<F	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	עשים		-	-	0	0	0	1	nn	nn	first		0
+369755	MT	Esther	9	24	YRR=[	YRR	YRR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	צרר		-	-	0	0	0	0	nnn	nnn	first		0
 369858	MT	Esther	9	27	<FH[	<FJM	<F	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	עשים		-	-	0	0	0	1	nn	nn	first		0
 370069	MT	Esther	10	3	DRC[	DRC	DRC	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	דרש		-	-	0	0	0	0	nnn	nnn	first		0
 370074	MT	Esther	10	3	DBR[	DBR	DBR	CCC	CCC	qal	ptca	sg	m	unknown	verb				W	nnn	nnn	דבר		-	-	0	1	0	0	nnn	nnn	first		0
@@ -4069,6 +4221,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 375252	MT	Daniel	8	3	<LH[	<LH	<L	CC	CCM	qal	ptca	sg	f	unknown	verb		H			nnn	nnn	עלה		-	-	0	0	0	1	nn	nn	first		0
 375304	MT	Daniel	8	5	NG<[	NWG<	NWG<	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	נוגע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 375325	MT	Daniel	8	6	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
+375501	MT	Daniel	8	13	CMM[	CMM	CMM	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמם		-	-	0	0	0	0	nnn	nnn	first		0
 375535	MT	Daniel	8	15	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
 375667	MT	Daniel	8	23	PC<[	PC<JM	PC<	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	פשעים		-	-	0	1	0	1	nnn	nnn	first		0
 375846	MT	Daniel	9	4	CMR[	CMR	CMR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמר		-	-	0	0	0	0	nnn	nnn	first		0
@@ -4076,7 +4229,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 375856	MT	Daniel	9	4	CMR[	CMRJ	CMR	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J		WL	nnnn	nnnn	שמרי		-	-	0	1	0	1	nnn	nnn	first		0
 375912	MT	Daniel	9	7	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J		WL	nnnnn	nnnnn	יושבי		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 376022	MT	Daniel	9	12	CPV[	CPVJNW	CPV	CCC	CCCMCM	qal	ptca	pl	m	unknown	verb	NW	J			nnnnnn	nnnnnn	שפטינו		-	-	1	0	0	1	nnn	nnn	first		0
+376177	MT	Daniel	9	18	CMM[	CMMTJNW	CMM	CCC	CCCCMCM	qal	ptca	pl	f	unknown	verb	NW	TJ			nnnnnnn	nnnnnnn	שממתינו		-	-	1	0	0	1	nnn	nnn	first		0
 376265	MT	Daniel	9	21	NG<[	NG<	NG<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נגע		-	-	0	0	0	0	nnn	nnn	first		0
+376411	MT	Daniel	9	26	CMM[	CMMWT	CMM	CCC	CCCMC	qal	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	שממות		-	-	0	0	0	1	nnn	nnn	first		0
+376440	MT	Daniel	9	27	CMM[	CMM	CMM	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמם		-	-	0	0	0	0	nnn	nnn	first		0
 376677	MT	Daniel	10	11	DBR[	DBR	DBR	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	דבר		-	-	0	0	0	0	nnn	nnn	first		0
 376733	MT	Daniel	10	13	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	עמד		-	-	0	0	0	0	nnn	nnn	first		0
 376797	MT	Daniel	10	16	NG<[	NG<	NG<	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נגע		-	-	0	0	0	0	nnn	nnn	first		0
@@ -4092,6 +4248,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 377871	MT	Daniel	11	45	<ZR[	<WZR	<WZR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עוזר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 377886	MT	Daniel	12	1	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	unknown	verb				H	nnn	nnn	עמד		-	-	0	1	0	0	nnn	nnn	first		0
 377984	MT	Daniel	12	5	<MD[	<MDJM	<MD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	עמדים		-	-	0	0	0	1	nnn	nnn	first		0
+378116	MT	Daniel	12	11	CMM[	CMM	CMM	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	שמם		-	-	0	0	0	0	nnn	nnn	first		0
 378432	MT	Ezra	2	1	<LH[	<LJM	<L	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	עלים		-	-	0	1	0	1	nn	nn	first		0
 378889	MT	Ezra	2	59	<LH[	<LJM	<L	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM		H	nnnn	nnnn	עלים		-	-	0	1	0	1	nn	nn	first		0
 379255	MT	Ezra	3	7	XYB[	XYBJM	XYB	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnn	nnnnn	חצבים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -4184,6 +4341,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 388011	MT	Nehemiah	9	11	RDP[	RDPJHM	RDP	CCC	CCCMCC	qal	ptca	pl	m	unknown	verb	HM	J			nnnnnn	nnnnnn	רדפיהם		-	-	1	0	0	1	nnn	nnn	first		0
 388323	MT	Nehemiah	9	24	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 388355	MT	Nehemiah	9	25	ML>[	ML>JM	ML>	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	מלאים		-	-	0	0	0	1	nnn	nnn	first		0
+388499	MT	Nehemiah	9	29	SRR[	SWRRT	SWRR	CMCC	CMCCC	qal	ptca	sg	f	unknown	verb		T			nnnnn	nnnnn	סוררת		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 388558	MT	Nehemiah	9	32	CMR[	CWMR	CWMR	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	שומר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 388705	MT	Nehemiah	9	37	MCL[	MCLJM	MCL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	משלים		-	-	0	0	0	1	nnn	nnn	first		0
 388721	MT	Nehemiah	10	1	KRT[	KRTJM	KRT	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	כרתים		-	-	0	0	0	1	nnn	nnn	first		0
@@ -4289,6 +4447,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 405467	MT	1_Chronicles	27	33	J<Y[	JW<Y	JW<Y	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	יועץ		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 405753	MT	1_Chronicles	28	9	DRC[	DWRC	DWRC	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	דורש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 405992	MT	1_Chronicles	28	18	PRF[	PRFJM	PRF	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		L	nnnnn	nnnnn	פרשים		-	-	0	1	0	1	nnn	nnn	first		0
+405994	MT	1_Chronicles	28	18	SKK[	SKKJM	SKK	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		W	nnnnn	nnnnn	סככים		-	-	0	1	0	1	nnn	nnn	first		0
 406403	MT	1_Chronicles	29	12	MCL[	MWCL	MWCL	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	מושל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 406506	MT	1_Chronicles	29	17	BXN[	BXN	BXN	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	בחן		-	-	0	0	0	0	nnn	nnn	first		0
 406858	MT	2_Chronicles	1	2	CPV[	CPVJM	CPV	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM		WL	nnnnn	nnnnn	שפטים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -4308,6 +4467,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 407722	MT	2_Chronicles	2	17	XYB[	XYB	XYB	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	חצב		-	-	0	0	0	0	nnn	nnn	first		0
 408007	MT	2_Chronicles	3	13	PRF[	PRFJM	PRF	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	פרשים		-	-	0	0	0	1	nnn	nnn	first		0
 408012	MT	2_Chronicles	3	13	<MD[	<MDJM	<MD	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	עמדים		-	-	0	0	0	1	nnn	nnn	first		0
+408159	MT	2_Chronicles	4	3	SBB[	SWBBJM	SWBB	CMCC	CMCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	סובבים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 408177	MT	2_Chronicles	4	4	<MD[	<WMD	<WMD	CMCC	CMCC	qal	ptca	sg	m	unknown	verb					nnnn	nnnn	עומד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 408183	MT	2_Chronicles	4	4	PNH[	PNJM	PN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	פנים		-	-	0	0	0	1	nn	nn	first		0
 408187	MT	2_Chronicles	4	4	PNH[	PNJM	PN	CC	CCMC	qal	ptca	pl	m	unknown	verb		JM			nnnn	nnnn	פנים		-	-	0	0	0	1	nn	nn	first		0
@@ -4383,6 +4543,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 416512	MT	2_Chronicles	20	23	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 416524	MT	2_Chronicles	20	23	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	unknown	verb		J		B	nnnnn	nnnnn	יושבי		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 416549	MT	2_Chronicles	20	24	NPL[	NPLJM	NPL	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נפלים		-	-	0	0	0	1	nnn	nnn	first		0
+416585	MT	2_Chronicles	20	25	BZZ[	BZZJM	BZZ	CCC	CCCMC	qal	ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	בזזים		-	-	0	0	0	1	nnn	nnn	first		0
+417011	MT	2_Chronicles	21	9	SBB[	SWBB	SWBB	CMCC	CMCC	qal	ptca	sg	m	unknown	verb				H	nnnn	nnnn	סובב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 417057	MT	2_Chronicles	21	11	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 417105	MT	2_Chronicles	21	13	JCB[	JCBJ	JCB	CCC	CCCM	qal	ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 417123	MT	2_Chronicles	21	14	NGP[	NGP	NGP	CCC	CCC	qal	ptca	sg	m	unknown	verb					nnn	nnn	נגף		-	-	0	0	0	0	nnn	nnn	first		0
@@ -4462,6 +4624,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 506023	SP	Genesis	1	29	ZR<[	ZR<	ZR<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	זרע		-	-	0	0	0	0	nnn	nnn	first		0
 506039	SP	Genesis	1	29	ZR<[	ZR<	ZR<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	זרע		-	-	0	0	0	0	nnn	nnn	first		0
 506286	SP	Genesis	2	10	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
+506309	SP	Genesis	2	11	SBB[	SWBB	SWBB	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	סובב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+506343	SP	Genesis	2	13	SBB[	SWBB	SWBB	CMCC	CMCC		ptca	sg		unknown	verb				H	nnnn	nnnn	סובב		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 506357	SP	Genesis	2	14	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	הלך		-	-	0	1	0	0	nnn	nnn	first		0
 506670	SP	Genesis	3	5	JD<[	JD<	JD<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	first		0
 506684	SP	Genesis	3	5	JD<[	JD<J	JD<	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ידעי		-	-	0	0	0	1	nnn	nnn	first		0
@@ -4545,6 +4709,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 518882	SP	Genesis	26	20	R<H[	R<J	R<	CC	CCM		ptca	pl		unknown	verb		J			nnn	nnn	רעי		-	-	0	0	0	1	nn	nn	first		0
 518885	SP	Genesis	26	20	R<H[	R<J	R<	CC	CCM		ptca	pl		unknown	verb		J			nnn	nnn	רעי		-	-	0	0	0	1	nn	nn	first		0
 519234	SP	Genesis	27	5	CM<[	CM<T	CM<	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	שמעת		-	-	0	0	0	1	nnn	nnn	first		0
+519652	SP	Genesis	27	29	>RR[	>RRJK	>RR	CCC	CCCMC		ptca	pl		unknown	verb	K	J			nnnnn	nnnnn	ארריך		-	-	1	0	0	1	nnn	nnn	first		0
 520014	SP	Genesis	27	46	LQX[	LQX	LQX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	לקח		-	-	0	0	0	0	nnn	nnn	first		0
 520249	SP	Genesis	28	12	<LH[	<LJM	<L	CC	CCMC		ptca	pl		unknown	verb		JM			nnnn	nnnn	עלים		-	-	0	0	0	1	nn	nn	first		0
 520251	SP	Genesis	28	12	JRD[	JRDJM	JRD	CCC	CCCMC		ptca	pl		unknown	verb		JM		W	nnnnn	nnnnn	ירדים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -4583,6 +4748,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 526215	SP	Genesis	37	25	NF>[	NF>JM	NF>	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נשאים		-	-	0	0	0	1	nnn	nnn	first		0
 526221	SP	Genesis	37	25	HLK[	HLKJM	HLK	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	הלכים		-	-	0	0	0	1	nnn	nnn	first		0
 526261	SP	Genesis	37	28	SXR[	SXRJM	SXR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	סחרים		-	-	0	0	0	1	nnn	nnn	first		0
+526615	SP	Genesis	38	12	GZZ[	GZZJ	GZZ	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	גזזי		-	-	0	0	0	1	nnn	nnn	first		0
 526633	SP	Genesis	38	13	<LH[	<LH	<LH	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עלה		-	-	0	0	0	0	nnn	nnn	first		0
 526677	SP	Genesis	38	15	ZNH[	ZWNH	ZWN	CMC	CMCC		ptca	sg		unknown	verb		H		L	nnnn	nnnn	זונה		-	-	0	1	0	1	nnn	nnn	first	W	1
 526871	SP	Genesis	38	24	ZNH[	ZNJM	ZN	CC	CCMC		ptca	pl		unknown	verb		JM		L	nnnn	nnnn	זנים		-	-	0	1	0	1	nn	nn	first		0
@@ -4760,8 +4926,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 548000	SP	Exodus	23	5	RBY[	RBY	RBY	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רבץ		-	-	0	0	0	0	nnn	nnn	first		0
 548235	SP	Exodus	23	19	CKX[	CKX	CKX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכח		-	-	0	0	0	0	nnn	nnn	first		0
 548244	SP	Exodus	23	20	CLX[	CLX	CLX	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שלח		-	-	0	0	0	0	nnn	nnn	first		0
+548298	SP	Exodus	23	22	YRR=[	YRRJK	YRR	CCC	CCCMC		ptca	pl		unknown	verb	K	J			nnnnn	nnnnn	צרריך		-	-	1	0	0	1	nnn	nnn	first		0
 548490	SP	Exodus	23	31	JCB[	JCBJ	JCB	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	ישבי		-	-	0	0	0	1	nnn	nnn	first		0
 548865	SP	Exodus	24	17	>KL[	>KLT	>KL	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	אכלת		-	-	0	0	0	1	nnn	nnn	first		0
+549175	SP	Exodus	25	20	SKK[	SKKJM	SKK	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	סככים		-	-	0	0	0	1	nnn	nnn	first		0
 549379	SP	Exodus	25	32	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM			nnnnnn	nnnnnn	יוצאים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 549423	SP	Exodus	25	33	JY>[	JY>JM	JY>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
 549462	SP	Exodus	25	35	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
@@ -4810,6 +4978,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 556482	SP	Exodus	36	20	<MD[	<MDJM	<MD	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עמדים		-	-	0	0	0	1	nnn	nnn	first		0
 556740	SP	Exodus	36	35	XCB[	XCB	XCB	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חשב		-	-	0	0	0	0	nnn	nnn	first		0
 556778	SP	Exodus	36	37	RQM[	RQM	RQM	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	רקם		-	-	0	0	0	0	nnn	nnn	first		0
+556940	SP	Exodus	37	9	SKK[	SKKJM	SKK	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	סככים		-	-	0	0	0	1	nnn	nnn	first		0
 557097	SP	Exodus	37	18	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM			nnnnnn	nnnnnn	יוצאים		-	-	0	0	0	1	nnnn	nnnn	first	W	1
 557140	SP	Exodus	37	19	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 557179	SP	Exodus	37	21	JY>[	JY>JM	JY>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	יצאים		-	-	0	1	0	1	nnn	nnn	first		0
@@ -4960,6 +5129,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 581811	SP	Numbers	7	86	ML>[	ML>WT	ML>	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	מלאות		-	-	0	0	0	1	nnn	nnn	first		0
 582978	SP	Numbers	10	5	XNH[	XNJM	XN	CC	CCMC		ptca	pl		unknown	verb		JM		H	nnnn	nnnn	חנים		-	-	0	1	0	1	nn	nn	first		0
 582989	SP	Numbers	10	6	XNH[	XNJM	XN	CC	CCMC		ptca	pl		unknown	verb		JM		H	nnnn	nnnn	חנים		-	-	0	1	0	1	nn	nn	first		0
+583031	SP	Numbers	10	9	YRR=[	YRR	YRR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	צרר		-	-	0	1	0	0	nnn	nnn	first		0
 583256	SP	Numbers	10	17	NF>[	NF>J	NF>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
 583295	SP	Numbers	10	21	NF>[	NF>J	NF>	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	נשאי		-	-	0	0	0	1	nnn	nnn	first		0
 583391	SP	Numbers	10	29	XTN[	XTN	XTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	חתן		-	-	0	0	0	0	nnn	nnn	first		0
@@ -4997,6 +5167,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 586184	SP	Numbers	14	41	<BR[	<BRJM	<BR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	עברים		-	-	0	0	0	1	nnn	nnn	first		0
 586258	SP	Numbers	14	45	JCB[	JCB	JCB	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	ישב		-	-	0	1	0	0	nnn	nnn	first		0
 586305	SP	Numbers	15	2	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+586745	SP	Numbers	15	28	CGG[	CGGT	CGG	CCC	CCCC		ptca	sg		unknown	verb		T		H	nnnn	nnnn	שגגת		-	-	0	1	0	1	nnn	nnn	first		0
 586776	SP	Numbers	15	29	<FH[	<FH	<FH	CCC	CCC		ptca	sg		unknown	verb				L	nnn	nnn	עשה		-	-	0	1	0	0	nnn	nnn	first		0
 586843	SP	Numbers	15	33	MY>[	MY>JM	MY>	CCC	CCCMC		ptca	pl		unknown	verb		JM		H	nnnnn	nnnnn	מצאים		-	-	0	1	0	1	nnn	nnn	first		0
 586970	SP	Numbers	15	39	ZNH[	ZNJM	ZN	CC	CCMC		ptca	pl		unknown	verb		JM			nnnn	nnnn	זנים		-	-	0	0	0	1	nn	nn	first		0
@@ -5025,6 +5196,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 592232	SP	Numbers	23	14	YPH[	YPJM	YP	CC	CCMC		ptca	pl		unknown	verb		JM			nnnn	nnnn	צפים		-	-	0	0	0	1	nn	nn	first		0
 592549	SP	Numbers	24	2	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
 592577	SP	Numbers	24	4	NPL[	NPL	NPL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
+592649	SP	Numbers	24	9	>RR[	>RRJK	>RR	CCC	CCCMC		ptca	pl		unknown	verb	K	J		W	nnnnn	nnnnn	ארריך		-	-	1	1	0	1	nnn	nnn	first		0
 592741	SP	Numbers	24	14	HLK[	HLK	HLK	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	first		0
 592777	SP	Numbers	24	16	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
 592781	SP	Numbers	24	16	JD<[	JD<	JD<	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	ידע		-	-	0	1	0	0	nnn	nnn	first		0
@@ -5033,6 +5205,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 592989	SP	Numbers	25	5	CPV[	CPVJ	CPV	CCC	CCCM		ptca	pl		unknown	verb		J			nnnn	nnnn	שפטי		-	-	0	0	0	1	nnn	nnn	first		0
 593025	SP	Numbers	25	6	BKH[	BKJM	BK	CC	CCMC		ptca	pl		unknown	verb		JM			nnnn	nnnn	בכים		-	-	0	0	0	1	nn	nn	first		0
 593126	SP	Numbers	25	12	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+593204	SP	Numbers	25	18	YRR=[	YRRJM	YRR	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	צררים		-	-	0	0	0	1	nnn	nnn	first		0
 593268	SP	Numbers	26	2	JY>[	JY>	JY>	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	first		0
 593304	SP	Numbers	26	4	JY>[	JWY>JM	JWY>	CMCC	CMCCMC		ptca	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	יוצאים		-	-	0	1	0	1	nnnn	nnnn	first	W	1
 594314	SP	Numbers	27	7	DBR[	DBRWT	DBR	CCC	CCCMC		ptca	pl		unknown	verb		WT			nnnnn	nnnnn	דברות		-	-	0	0	0	1	nnn	nnn	first		0
@@ -5228,10 +5401,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 612275	SP	Deuteronomy	21	1	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 612279	SP	Deuteronomy	21	1	NPL[	NPL	NPL	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נפל		-	-	0	0	0	0	nnn	nnn	first		0
 612290	SP	Deuteronomy	21	2	CVR[	CVRJK	CVR	CCC	CCCMC		ptca	pl		unknown	verb	K	J		W	nnnnn	nnnnn	שטריך		-	-	1	1	0	1	nnn	nnn	first		0
+612640	SP	Deuteronomy	21	18	SRR[	SWRR	SWRR	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 612642	SP	Deuteronomy	21	18	MRH[	MWRH	MWRH	CMCC	CMCC		ptca	sg		unknown	verb				W	nnnn	nnnn	מורה		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 612644	SP	Deuteronomy	21	18	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+612681	SP	Deuteronomy	21	20	SRR[	SWRR	SWRR	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	סורר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 612683	SP	Deuteronomy	21	20	MRH[	MWRH	MWRH	CMCC	CMCC		ptca	sg		unknown	verb				W	nnnn	nnnn	מורה		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 612685	SP	Deuteronomy	21	20	CM<[	CM<	CM<	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	first		0
+612688	SP	Deuteronomy	21	20	ZLL[	ZWLL	ZWLL	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	זולל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 612690	SP	Deuteronomy	21	20	SBH[	SWBH	SWBH	CMCC	CMCC		ptca	sg		unknown	verb				W	nnnn	nnnn	סובה		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 612752	SP	Deuteronomy	21	23	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 612838	SP	Deuteronomy	22	4	NPL[	NPLJM	NPL	CCC	CCCMC		ptca	pl		unknown	verb		JM			nnnnn	nnnnn	נפלים		-	-	0	0	0	1	nnn	nnn	first		0
@@ -5294,7 +5470,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 619554	SP	Deuteronomy	32	49	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
 619566	SP	Deuteronomy	32	50	<LH[	<LH	<LH	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	עלה		-	-	0	0	0	0	nnn	nnn	first		0
 619624	SP	Deuteronomy	32	52	NTN[	NTN	NTN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	first		0
+619669	SP	Deuteronomy	33	3	XBB[	XWBB	XWBB	CMCC	CMCC		ptca	sg		unknown	verb					nnnn	nnnn	חובב		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 619756	SP	Deuteronomy	33	9	>MR[	>MR	>MR	CCC	CCC		ptca	sg		unknown	verb				H	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	first		0
+619821	SP	Deuteronomy	33	12	XPP[	XWPP	XWPP	CMCC	CMCC		ptca	sg		unknown	verb				W	nnnn	nnnn	חופף		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 619845	SP	Deuteronomy	33	13	RBY[	RBYT	RBY	CCC	CCCC		ptca	sg		unknown	verb		T			nnnn	nnnn	רבצת		-	-	0	0	0	1	nnn	nnn	first		0
 619875	SP	Deuteronomy	33	16	CKN[	CKN	CKN	CCC	CCC		ptca	sg		unknown	verb					nnn	nnn	שכן		-	-	0	0	0	0	nnn	nnn	first		0
 619992	SP	Deuteronomy	33	23	ML>[	ML>	ML>	CCC	CCC		ptca	sg		unknown	verb				W	nnn	nnn	מלא		-	-	0	1	0	0	nnn	nnn	first		0
@@ -5321,6 +5499,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1895847	1Qisaa	Isaiah	3	7	XBC[	XWBC	XWBC	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	חובש		10	3	0	0	0	0	nnnn	nnnn	first	W	1
 1895919	1Qisaa	Isaiah	3	12	NGF[	NGFW	NGF	CCC	CCCM	qal	ptca	sg	m	NA	verb	W				nnnn	nnnn	נגשו		16	3	1	0	0	0	nnn	nnn	first		0
 1895937	1Qisaa	Isaiah	3	13	<MD[	<WMD	<WMD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עומד		18	3	0	0	0	0	nnnn	nnnn	first	W	1
+1895992	1Qisaa	Isaiah	3	16	VPP[	VWPP	VWPP	CMCC	CMCC	qal	ptca	sg		NA	verb				W	nnnn	nnnn	טופף		23	3	0	1	0	0	nnnn	nnnn	first	W	1
 1896299	1Qisaa	Isaiah	5	3	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי		14	4	0	0	0	1	nnnn	nnnn	first	W	1
 1896338	1Qisaa	Isaiah	5	5	<FH[	<WF>	<WF>	CMCC	CMCC	qal	ptca	sg		NA	verb					nnnn	nnnn	עושא		17	4	0	0	0	0	nnnn	nnnn	first	W	1
 1896438	1Qisaa	Isaiah	5	9	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב		24	4	0	0	0	0	nnnn	nnnn	first	W	1
@@ -5348,8 +5527,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1898143	1Qisaa	Isaiah	9	5	J<Y[	JW<Y	JW<Y	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יועץ		24	8	0	0	0	0	nnnn	nnnn	first	W	1
 1898206	1Qisaa	Isaiah	9	8	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	NA	verb				W	nnnnn	nnnnn	יושבי	J	27	8	0	1	0	0	nnnn	nnnn	first	W	1
 1898346	1Qisaa	Isaiah	9	16	DBR[	DBR	DBR	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	דבר		7	9	0	0	0	0	nnn	nnn	first		0
+1898443	1Qisaa	Isaiah	10	1	XQQ[	XWQQJM	XWQQ	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	חוקקים		14	9	0	0	0	1	nnnn	nnnn	first	W	1
+1898698	1Qisaa	Isaiah	10	14	NDD[	NWDD	NWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד		30	9	0	0	0	0	nnnn	nnnn	first	W	1
 1898701	1Qisaa	Isaiah	10	14	PYH[	PWYH	PWYH	CMCC	CMCC	qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	פוצה		30	9	0	1	0	0	nnnn	nnnn	first	W	1
 1898712	1Qisaa	Isaiah	10	15	XYB[	XWYB	XWYB	CMCC	CMCC	qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	חוצב		1	10	0	1	0	0	nnnn	nnnn	first	W	1
+1898786	1Qisaa	Isaiah	10	18	NSS[	NSS	NSS	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	נסס		5	10	0	0	0	0	nnn	nnn	first		0
 1898848	1Qisaa	Isaiah	10	22	CVP[	CWVP	CWVP	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שוטף		9	10	0	0	0	0	nnnn	nnnn	first	W	1
 1898858	1Qisaa	Isaiah	10	23	<FH[	<WFH	<WFH	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עושה		10	10	0	0	0	0	nnnn	nnnn	first	W	1
 1898875	1Qisaa	Isaiah	10	24	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב		11	10	0	0	0	0	nnnn	nnnn	first	W	1
@@ -5357,6 +5539,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1899143	1Qisaa	Isaiah	11	6	NHG[	NHG	NHG	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	נהג		24	10	0	0	0	0	nnn	nnn	first		0
 1899164	1Qisaa	Isaiah	11	8	JNQ[	JWNQ	JWNQ	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יונק		25	10	0	0	0	0	nnnn	nnnn	first	W	1
 1899206	1Qisaa	Isaiah	11	10	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	עמד		28	10	0	0	0	0	nnn	nnn	first		0
+1899284	1Qisaa	Isaiah	11	13	YRR=[	YWRRJ	YWRR	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J		W	nnnnn	nnnnn	צוררי		2	11	0	1	0	1	nnnn	nnnn	first	W	1
 1899453	1Qisaa	Isaiah	12	6	JCB[	JWCBT	JWCB	CMCC	CMCCC	qal	ptca	sg	f	NA	verb		T			nnnnn	nnnnn	יושבת		10	11	0	0	0	1	nnnnn	nnnnn	first	W	1
 1899465	1Qisaa	Isaiah	13	1	XZH[	XWZH	XWZH	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	חוזה		12	11	0	0	0	0	nnnn	nnnn	first	W	1
 1899561	1Qisaa	Isaiah	13	8	JLD[	JWLDH	JWLDH	CMCCC	CMCCC	qal	ptca	sg	f	NA	verb				K	nnnnn	nnnnn	יולדה		17	11	0	1	0	0	nnnnn	nnnnn	first	W	1
@@ -5372,8 +5555,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1900016	1Qisaa	Isaiah	14	12	XLC[	XWLC	XWLC	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	חולש		14	12	0	0	0	0	nnnn	nnnn	first	W	1
 1900059	1Qisaa	Isaiah	14	16	R>H[	RW>JK	RW>	CMC	CMCMC	qal	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	רואיך		17	12	1	0	0	1	nnn	nnn	first	W	1
 1900109	1Qisaa	Isaiah	14	19	JRD[	JWRDW	JWRD	CMCC	CMCCM	qal	ptca	pl	m	NA	verb					nnnnn	nnnnn	יורדו	W	20	12	0	0	0	0	nnnn	nnnn	first	W	1
+1900326	1Qisaa	Isaiah	14	31	MDD[	MWDD	MWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	מודד		4	13	0	0	0	0	nnnn	nnnn	first	W	1
 1900400	1Qisaa	Isaiah	15	3	JRD[	JRD	JRD	CCC	CCC	qal	ptca	sg	m	NA	verb				W	nnn	nnn	ירד		9	13	0	1	0	0	nnn	nnn	first		0
 1900506	1Qisaa	Isaiah	16	1	MCL[	MCL	MCL	CCC	CCC	qal	ptca	sg	m	NA	verb				KR	nnn	nnn	משל		17	13	0	1	0	0	nnn	nnn	first		0
+1900520	1Qisaa	Isaiah	16	2	NDD[	NWDD	NWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד		18	13	0	0	0	0	nnnn	nnnn	first	W	1
+1900543	1Qisaa	Isaiah	16	3	NDD[	NWDD	NWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד		20	13	0	0	0	0	nnnn	nnnn	first	W	1
+1900556	1Qisaa	Isaiah	16	4	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שודד		21	13	0	0	0	0	nnnn	nnnn	first	W	1
 1900564	1Qisaa	Isaiah	16	4	RMS[	RWMS	RWMS	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	רומס		21	13	0	0	0	0	nnnn	nnnn	first	W	1
 1900582	1Qisaa	Isaiah	16	5	CPV[	CWPV	CWPV	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שופט		22	13	0	0	0	0	nnnn	nnnn	first	W	1
 1900584	1Qisaa	Isaiah	16	5	DRC[	DWRC	DWRC	CMCC	CMCC	qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	דורש		22	13	0	1	0	0	nnnn	nnnn	first	W	1
@@ -5381,6 +5568,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1900840	1Qisaa	Isaiah	17	6	PRH[	PRJH	PRJH	CCMC	CCMC	qal	ptca	sg	f	NA	verb					nnnn	nnnn	פריה		10	14	0	0	0	0	nnnn	nnnn	first		0
 1900854	1Qisaa	Isaiah	17	7	<FH[	<WFWHJ	<WF	CMC	CMCMCM	qal	ptca	pl		NA	verb	HJ				nnnnnn	nnnnnn	עושוהי	W	11	14	1	0	0	0	nnn	nnn	first	W	1
 1901001	1Qisaa	Isaiah	17	14	CSH[	CWSJNW	CWS	CMC	CMCMCM	qal	ptca	pl	m	NA	verb	NW	J			nnnnnn	nnnnnn	שוסינו		22	14	1	0	0	1	nnn	nnn	first	W	1
+1901005	1Qisaa	Isaiah	17	14	BZZ[	BWZZJNW	BWZZ	CMCC	CMCCMCM	qal	ptca	pl	m	NA	verb	NW	J		L	nnnnnnn	nnnnnnn	בוזזינו		23	14	1	1	0	1	nnnn	nnnn	first	W	1
 1901020	1Qisaa	Isaiah	18	2	CLX[	CWLX	CWLX	CMCC	CMCC	qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	שולח		24	14	0	1	0	0	nnnn	nnnn	first	W	1
 1901051	1Qisaa	Isaiah	18	2	BZ>[	BZ>J	BZ>	CCC	CCCM	qal	ptca	pl		NA	verb		J			nnnn	nnnn	בזאי		26	14	0	0	0	1	nnn	nnn	first		0
 1901056	1Qisaa	Isaiah	18	3	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי		27	14	0	0	0	1	nnnn	nnnn	first	W	1
@@ -5398,6 +5586,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901770	1Qisaa	Isaiah	20	6	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב		11	16	0	0	0	0	nnnn	nnnn	first	W	1
 1901820	1Qisaa	Isaiah	21	2	BGD[	BWGD	BWGD	CMCC	CMCC	qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	בוגד		15	16	0	1	0	0	nnnn	nnnn	first	W	1
 1901821	1Qisaa	Isaiah	21	2	BGD[	BWGD	BWGD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוגד		15	16	0	0	0	0	nnnn	nnnn	first	W	1
+1901824	1Qisaa	Isaiah	21	2	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb				WH	nnnn	nnnn	שודד		15	16	0	1	0	0	nnnn	nnnn	first	W	1
+1901825	1Qisaa	Isaiah	21	2	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שודד		15	16	0	0	0	0	nnnn	nnnn	first	W	1
 1901843	1Qisaa	Isaiah	21	3	JLD[	JWLDH	JWLDH	CMCCC	CMCCC	qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	יולדה		17	16	0	0	0	0	nnnnn	nnnnn	first	W	1
 1901851	1Qisaa	Isaiah	21	4	T<H[	TW<H	TW<H	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	תועה		18	16	0	0	0	0	nnnn	nnnn	first	W	1
 1901867	1Qisaa	Isaiah	21	5	YPH=[	YWPH	YWPH	CMCC	CMCC	qal	ptca	sg		NA	verb					nnnn	nnnn	צופה		19	16	0	0	0	0	nnnn	nnnn	first	W	1
@@ -5409,10 +5599,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901976	1Qisaa	Isaiah	21	11	CMR[	CWMR	CWMR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שומר		28	16	0	0	0	0	nnnn	nnnn	first	W	1
 1901982	1Qisaa	Isaiah	21	12	CMR[	CWMR	CWMR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שומר		29	16	0	0	0	0	nnnn	nnnn	first	W	1
 1902010	1Qisaa	Isaiah	21	14	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי		31	16	0	0	0	1	nnnn	nnnn	first	W	1
+1902016	1Qisaa	Isaiah	21	14	NDD[	NWDD	NWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד		31	16	0	0	0	0	nnnn	nnnn	first	W	1
 1902083	1Qisaa	Isaiah	22	2	HMH[	HWMJH	HWMJH	CMCMC	CMCMC	qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	הומיה		5	17	0	0	0	0	nnnnn	nnnnn	first	W	1
 1902240	1Qisaa	Isaiah	22	11	<FH[	<WFJH	<WF	CMC	CMCMC	qal	ptca	sg	m	NA	verb	H				nnnnn	nnnnn	עושיה	J	15	17	1	0	0	0	nnn	nnn	first	W	1
 1902242	1Qisaa	Isaiah	22	11	JYR[	JYRH	JYR	CCC	CCCC	qal	ptca	sg	m	NA	verb	H			W	nnnn	nnnn	יצרה		15	17	1	1	0	0	nnn	nnn	first		0
 1902344	1Qisaa	Isaiah	22	16	XYB[	XYBJ	XYB	CCC	CCCM	qal	ptca	sg	m	NA	verb					nnnn	nnnn	חצבי	J	24	17	0	0	0	0	nnn	nnn	first		0
+1902347	1Qisaa	Isaiah	22	16	XQQ[	XWQQJ	XWQQ	CMCC	CMCCM	qal	ptca	sg	m	NA	verb					nnnnn	nnnnn	חוקקי	J	24	17	0	0	0	0	nnnn	nnnn	first	W	1
 1902422	1Qisaa	Isaiah	22	21	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	יושב		30	17	0	1	0	0	nnnn	nnnn	first	W	1
 1902440	1Qisaa	Isaiah	22	22	SGR[	SWGR	SWGR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	סוגר		31	17	0	0	0	0	nnnn	nnnn	first	W	1
 1902445	1Qisaa	Isaiah	22	22	PTX[	PWTX	PWTX	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	פותח		31	17	0	0	0	0	nnnn	nnnn	first	W	1
@@ -5421,6 +5613,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1902592	1Qisaa	Isaiah	23	6	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי		11	18	0	0	0	1	nnnn	nnnn	first	W	1
 1902620	1Qisaa	Isaiah	23	8	SXR[	SWXRJH	SWXR	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb	H	J			nnnnnn	nnnnnn	סוחריה		13	18	1	0	0	1	nnnn	nnnn	first	W	1
 1902778	1Qisaa	Isaiah	23	18	JCB[	JWCBJM	JWCB	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		L	nnnnnn	nnnnnn	יושבים		26	18	0	1	0	1	nnnn	nnnn	first	W	1
+1902795	1Qisaa	Isaiah	24	1	BQQ[	BWQQ	BWQQ	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוקק		28	18	0	0	0	0	nnnn	nnnn	first	W	1
 1902799	1Qisaa	Isaiah	24	1	BLQ[	BWLQH	BWLQ	CMCC	CMCCC	qal	ptca	sg	m	NA	verb	H			W	nnnnn	nnnnn	בולקה		28	18	1	1	0	0	nnnn	nnnn	first	W	1
 1902805	1Qisaa	Isaiah	24	1	JCB[	JWCBJH	JWCB	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb	H	J			nnnnnn	nnnnnn	יושביה		29	18	1	0	0	1	nnnn	nnnn	first	W	1
 1902822	1Qisaa	Isaiah	24	2	QNH[	QWNH	QWNH	CMCC	CMCC	qal	ptca	sg	m	NA	verb				K	nnnn	nnnn	קונה		30	18	0	1	0	0	nnnn	nnnn	first	W	1
@@ -5472,6 +5665,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1904906	1Qisaa	Isaiah	29	20	CQD[	CWQDJ	CWQD	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	שוקדי		31	23	0	0	0	1	nnnn	nnnn	first	W	1
 1904970	1Qisaa	Isaiah	29	24	T<H[	TW<J	TW<	CMC	CMCM	qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	תועי		5	24	0	0	0	1	nnn	nnn	first	W	1
 1904974	1Qisaa	Isaiah	29	24	RGN[	RWGNJM	RWGN	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		W	nnnnnn	nnnnnn	רוגנים		5	24	0	1	0	1	nnnn	nnnn	first	W	1
+1904980	1Qisaa	Isaiah	30	1	SRR[	SWRRJM	SWRR	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	סוררים		6	24	0	0	0	1	nnnn	nnnn	first	W	1
 1905003	1Qisaa	Isaiah	30	2	HLK[	HWLKJM	HWLK	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	הולכים		7	24	0	1	0	1	nnnn	nnnn	first	W	1
 1905217	1Qisaa	Isaiah	30	13	NPL[	NWPL	NWPL	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נופל		21	24	0	0	0	0	nnnn	nnnn	first	W	1
 1905296	1Qisaa	Isaiah	30	16	RDP[	RWDPJKM	RWDP	CMCC	CMCCMCC	qal	ptca	pl	m	NA	verb	KM	J			nnnnnnn	nnnnnnn	רודפיכם		27	24	1	0	0	1	nnnn	nnnn	first	W	1
@@ -5497,7 +5691,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1906061	1Qisaa	Isaiah	32	12	SPD[	SWPDJM	SWPD	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	סופדים		22	26	0	0	0	1	nnnn	nnnn	first	W	1
 1906067	1Qisaa	Isaiah	32	12	PRH[	PRJH	PRJH	CCMC	CCMC	qal	ptca	sg	f	NA	verb					nnnn	nnnn	פריה		23	26	0	0	0	0	nnnn	nnnn	first		0
 1906178	1Qisaa	Isaiah	32	20	ZR<[	ZWR<J	ZWR<	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	זורעי		31	26	0	0	0	1	nnnn	nnnn	first	W	1
+1906192	1Qisaa	Isaiah	33	1	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שודד		32	26	0	0	0	0	nnnn	nnnn	first	W	1
 1906198	1Qisaa	Isaiah	33	1	BGD[	BWGD	BWGD	CMCC	CMCC	qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	בוגד		32	26	0	1	0	0	nnnn	nnnn	first	W	1
+1906205	1Qisaa	Isaiah	33	1	CDD[	CWDD	CWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שודד		1	27	0	0	0	0	nnnn	nnnn	first	W	1
+1906247	1Qisaa	Isaiah	33	4	CQQ[	CQQ	CQQ	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	שקק		4	27	0	0	0	0	nnn	nnn	first		0
 1906253	1Qisaa	Isaiah	33	5	CKN[	CKN	CKN	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	שכן		5	27	0	0	0	0	nnn	nnn	first		0
 1906287	1Qisaa	Isaiah	33	8	<BR[	<WBR	<WBR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר		8	27	0	0	0	0	nnnn	nnnn	first	W	1
 1906310	1Qisaa	Isaiah	33	9	N<R[	NW<R	NW<R	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נוער		9	27	0	0	0	0	nnnn	nnnn	first	W	1
@@ -5568,6 +5765,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1910309	1Qisaa	Isaiah	42	17	BVX[	BWVXJM	BWVX	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	בוטחים		29	35	0	1	0	1	nnnn	nnnn	first	W	1
 1910313	1Qisaa	Isaiah	42	17	>MR[	>MRJM	>MR	CCC	CCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnnn	nnnnn	אמרים		29	35	0	1	0	1	nnn	nnn	first		0
 1910395	1Qisaa	Isaiah	42	22	>MR[	>WMR	>WMR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	אומר		5	36	0	0	0	0	nnnn	nnnn	first	W	1
+1910418	1Qisaa	Isaiah	42	24	BZZ[	BWZZJM	BWZZ	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		L	nnnnnn	nnnnnn	בוזזים		6	36	0	1	0	1	nnnn	nnnn	first	W	1
 1910467	1Qisaa	Isaiah	43	1	BR>[	BWR>JKH	BWR>	CMCC	CMCCMCC	qal	ptca	sg	m	NA	verb	KH				nnnnnnn	nnnnnnn	בוראיכה	J	9	36	1	0	0	0	nnnn	nnnn	first	W	1
 1910470	1Qisaa	Isaiah	43	1	JYR[	JWYRJKH	JWYR	CMCC	CMCCMCC	qal	ptca	sg	m	NA	verb	KH			W	nnnnnnn	nnnnnnn	יוצריכה	J	9	36	1	1	0	0	nnnn	nnnn	first	W	1
 1910510	1Qisaa	Isaiah	43	3	G>L[	GW>LK	GW>L	CMCC	CMCCC	qal	ptca	sg		NA	verb	K				nnnnn	nnnnn	גואלך		12	36	1	0	0	0	nnnn	nnnn	first	W	1
@@ -5638,7 +5836,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1912882	1Qisaa	Isaiah	49	5	JYR[	JWYRK	JWYR	CMCC	CMCCC	qal	ptca	sg	m	NA	verb	K				nnnnn	nnnnn	יוצרך		1	41	1	0	0	0	nnnn	nnnn	first	W	1
 1912940	1Qisaa	Isaiah	49	7	G>L[	GW>LKH	GW>L	CMCC	CMCCCC	qal	ptca	sg		NA	verb	KH				nnnnnn	nnnnnn	גואלכה		5	41	1	0	0	0	nnnn	nnnn	first	W	1
 1912951	1Qisaa	Isaiah	49	7	MCL[	MWCLJM	MWCL	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	מושלים		5	41	0	0	0	1	nnnn	nnnn	first	W	1
+1912992	1Qisaa	Isaiah	49	8	CMM[	CWMMWT	CWMM	CMCC	CMCCMC	qal	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	שוממות		8	41	0	0	0	1	nnnn	nnnn	first	W	1
 1913119	1Qisaa	Isaiah	49	17	BNH[	BWNJK	BWN	CMC	CMCMC	qal	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	בוניך		16	41	1	0	0	1	nnn	nnn	first	W	1
+1913152	1Qisaa	Isaiah	49	19	CMM[	CWMMWTJK	CWMM	CMCC	CMCCMCMC	qal	ptca	pl	f	NA	verb	K	WTJ		W	nnnnnnnn	nnnnnnnn	שוממותיך		18	41	1	1	0	1	nnnn	nnnn	first	W	1
 1913160	1Qisaa	Isaiah	49	19	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb				M	nnnn	nnnn	יושב		19	41	0	1	0	0	nnnn	nnnn	first	W	1
 1913195	1Qisaa	Isaiah	49	21	GLH[	GWLH	GWLH	CMCC	CMCC	qal	ptca	sg	f	NA	verb				W	nnnn	nnnn	גולה		20	41	0	1	0	0	nnnn	nnnn	first	W	1
 1913239	1Qisaa	Isaiah	49	23	>MN[	>MNJK	>MN	CCC	CCCMC	qal	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	אמניך		23	41	1	0	0	1	nnn	nnn	first		0
@@ -5665,7 +5865,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1914211	1Qisaa	Isaiah	52	11	NF>[	NWF>J	NWF>	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	נושאי		27	43	0	0	0	1	nnnn	nnnn	first	W	1
 1914226	1Qisaa	Isaiah	52	12	HLK[	HWLK	HWLK	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	הולך		28	43	0	0	0	0	nnnn	nnnn	first	W	1
 1914337	1Qisaa	Isaiah	53	3	JD<[	JWD<	JWD<	CMCC	CMCC	qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	יודע		7	44	0	1	0	0	nnnn	nnnn	first	W	1
+1914419	1Qisaa	Isaiah	53	7	GZZ[	GWZZJH	GWZZ	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb	H	J			nnnnnn	nnnnnn	גוזזיה		13	44	1	0	0	1	nnnn	nnnn	first	W	1
 1914528	1Qisaa	Isaiah	53	12	PC<[	PWC<JM	PWC<	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	פושעים		21	44	0	0	0	1	nnnn	nnnn	first	W	1
+1914555	1Qisaa	Isaiah	54	1	CMM[	CWMMH	CWMMH	CMCCC	CMCCC	qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	שוממה		24	44	0	0	0	0	nnnnn	nnnnn	first	W	1
 1914615	1Qisaa	Isaiah	54	5	B<L[	B<LKJ	B<L	CCC	CCCCM	qal	ptca	sg	m	NA	verb	KJ				nnnnn	nnnnn	בעלכי		1	45	1	0	0	0	nnn	nnn	first		0
 1914616	1Qisaa	Isaiah	54	5	<FH[	<WFJK	<WF	CMC	CMCMC	qal	ptca	sg	m	NA	verb	K				nnnnn	nnnnn	עושיך	J	1	45	1	0	0	0	nnn	nnn	first	W	1
 1914621	1Qisaa	Isaiah	54	5	G>L[	GW>LKJ	GW>L	CMCC	CMCCCM	qal	ptca	sg	m	NA	verb	KJ			W	nnnnnn	nnnnnn	גואלכי		1	45	1	1	0	0	nnnn	nnnn	first	W	1
@@ -5696,9 +5898,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1916725	1Qisaa	Isaiah	60	15	<BR[	<WBR	<WBR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר		18	49	0	0	0	0	nnnn	nnnn	first	W	1
 1916751	1Qisaa	Isaiah	60	16	G>L[	GW>LK	GW>L	CMCC	CMCCC	qal	ptca	sg	m	NA	verb	K			W	nnnnn	nnnnn	גואלך		19	49	1	1	0	0	nnnn	nnnn	first	W	1
 1916781	1Qisaa	Isaiah	60	17	NGF[	NWGFJK	NWGF	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb	K	J		W	nnnnnn	nnnnnn	נוגשיך		21	49	1	1	0	1	nnnn	nnnn	first	W	1
+1916965	1Qisaa	Isaiah	61	4	CMM[	CWMMWT	CWMM	CMCC	CMCCMC	qal	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	שוממות		29	49	0	0	0	1	nnnn	nnnn	first	W	1
+1916972	1Qisaa	Isaiah	61	4	CMM[	CWMMWT	CWMM	CMCC	CMCCMC	qal	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	שוממות		1	50	0	0	0	1	nnnn	nnnn	first	W	1
 1917030	1Qisaa	Isaiah	61	8	>HB[	>WHB	>WHB	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	אוהב		5	50	0	0	0	0	nnnn	nnnn	first	W	1
 1917033	1Qisaa	Isaiah	61	8	FN>[	FWNH	FWNH	CMCC	CMCC	qal	ptca	sg		NA	verb				W	nnnn	nnnn	שונה		5	50	0	1	0	0	nnnn	nnnn	first	W	1
 1917060	1Qisaa	Isaiah	61	9	R>H[	RW>JHMH	RW>	CMC	CMCMCCC	qal	ptca	pl	m	NA	verb	HMH	J			nnnnnnn	nnnnnnn	רואיהמה		6	50	1	0	0	1	nnn	nnn	first	W	1
+1917181	1Qisaa	Isaiah	62	4	CMM[	CWMMH	CWMMH	CMCCC	CMCCC	qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	שוממה		14	50	0	0	0	0	nnnnn	nnnnn	first	W	1
 1917219	1Qisaa	Isaiah	62	6	CMR[	CWMRJM	CWMR	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	שומרים		17	50	0	0	0	1	nnnn	nnnn	first	W	1
 1917369	1Qisaa	Isaiah	63	1	Y<H[	YW<H	YW<H	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	צועה		27	50	0	0	0	0	nnnn	nnnn	first	W	1
 1917388	1Qisaa	Isaiah	63	2	DRK[	DWRK	DWRK	CMCC	CMCC	qal	ptca	sg	m	NA	verb				K	nnnn	nnnn	דורך		28	50	0	1	0	0	nnnn	nnnn	first	W	1
@@ -5710,6 +5915,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1917737	1Qisaa	Isaiah	64	4	<FH[	<WFH	<WFH	CMCC	CMCC	qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	עושה		18	51	0	1	0	0	nnnn	nnnn	first	W	1
 1917775	1Qisaa	Isaiah	64	6	QR>[	QWRH	QWRH	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	קורה		20	51	0	0	0	0	nnnn	nnnn	first	W	1
 1917802	1Qisaa	Isaiah	64	7	JYR[	JWYRNW	JWYR	CMCC	CMCCCM	qal	ptca	sg	m	NA	verb	NW				nnnnnn	nnnnnn	יוצרנו		22	51	1	0	0	0	nnnn	nnnn	first	W	1
+1917834	1Qisaa	Isaiah	64	9	CMM[	CWMMH	CWMMH	CMCCC	CMCCC	qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	שוממה		24	51	0	0	0	0	nnnnn	nnnnn	first	W	1
 1917892	1Qisaa	Isaiah	65	2	HLK[	HWLKJM	HWLK	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	הולכים		28	51	0	1	0	1	nnnn	nnnn	first	W	1
 1917909	1Qisaa	Isaiah	65	3	ZBX[	ZWBXJM	ZWBX	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	זובחים		29	51	0	0	0	1	nnnn	nnnn	first	W	1
 1917920	1Qisaa	Isaiah	65	4	JCB[	JWCBJM	JWCB	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	יושבים		29	51	0	1	0	1	nnnn	nnnn	first	W	1
@@ -5975,6 +6181,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2014566	4Q55	Isaiah	6	5	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב		2	f6	0	0	0	0	nnnn	nnnn	first	W	1
 2014618	4Q55	Isaiah	6	8	>MR[	>WMR	>WMR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	אומר		4	f6	0	0	0	0	nnnn	nnnn	first	W	1
 2015432	4Q55	Isaiah	21	8	<MD[	<WMD	<WMD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עומד		28	f10_11i+12_14	0	0	0	0	nnnn	nnnn	first	W	1
+2015533	4Q55	Isaiah	21	14	NDD[	NWDD	NWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד		34	f10_11i+12_14	0	0	0	0	nnnn	nnnn	first	W	1
+2015654	4Q55	Isaiah	22	16	XQQ[	XQQJ	XQQ	CCC	CCCM	qal	ptca	sg	m	NA	verb					nnnn	nnnn	חקקי	J	17	f11ii+15	0	0	0	0	nnn	nnn	first		0
 2015728	4Q55	Isaiah	22	21	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	יושב		21	f11ii+15	0	1	0	0	nnnn	nnnn	first	W	1
 2015746	4Q55	Isaiah	22	22	SGR[	SWGR	SWGR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	סוגר		22	f11ii+15	0	0	0	0	nnnn	nnnn	first	W	1
 2015842	4Q55	Isaiah	23	2	JCB[	JWCBJ	JWCB	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי		27	f11ii+15	0	0	0	1	nnnn	nnnn	first	W	1
@@ -6004,6 +6212,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2020350	4Q57	Isaiah	10	23	<FH[	<WFH	<WFH	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עושה		1	f3_5+50	0	0	0	0	nnnn	nnnn	first	W	1
 2020999	4Q57	Isaiah	23	8	SXR[	SWXRJH	SWXR	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb	H	J			nnnnrr	nnnnnn	סוחריה		12	f9ii+11+12i+52	1	0	0	1	nnnn	nnnn	first	W	1
 2021176	4Q57	Isaiah	23	18	JCB[	JWCBJM	JWCB	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		L	nnnnrr	nnnnnn	יושבים		26	f9ii+11+12i+52	0	1	0	1	nnnn	nnnn	first	W	1
+2021194	4Q57	Isaiah	24	1	BQQ[	BWQQ	BWQQ	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוקק		27	f9ii+11+12i+52	0	0	0	0	nnnn	nnnn	first	W	1
 2021204	4Q57	Isaiah	24	1	JCB[	JWCBJH	JWCB	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb	H	J			nnnnnn	nnnnnn	יושביה		28	f9ii+11+12i+52	1	0	0	1	nnnn	nnnn	first	W	1
 2021221	4Q57	Isaiah	24	2	QNH[	QWNH	QWNH	CMCC	CMCC	qal	ptca	sg	m	NA	verb				K	nnnn	nnnn	קונה		29	f9ii+11+12i+52	0	1	0	0	nnnn	nnnn	first	W	1
 2021223	4Q57	Isaiah	24	2	MKR[	MWKR	MWKR	CMCC	CMCC	qal	ptca	sg	m	NA	verb				K	nnnn	nnnn	מוכר		29	f9ii+11+12i+52	0	1	0	0	nnnn	nnnn	first	W	1
@@ -6043,6 +6252,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2028509	4Q62	Isaiah	42	5	NVH[	NVJHM	NV	CC	CCMCC	qal	ptca	pl	m	NA	verb	HM	J		W	nnnnn	nnnnn	נטיהם		2	f1_2	1	1	0	1	nn	nn	first		0
 2028510	4Q62	Isaiah	42	5	RQ<[	RQ<	RQ<	CCC	CCC	qal	ptca	sg	m	NA	verb					nnr	nnn	רקע		2	f1_2	0	0	0	0	nnr	nnn	first		0
 2028523	4Q62	Isaiah	42	5	HLK[	HLKJM	HLK	CCC	CCCMC	qal	ptca	pl	m	NA	verb		JM		L	nnnnn	nnnnn	הלכים		3	f1_2	0	1	0	1	nnn	nnn	first		0
+2029420	4Q68	Isaiah	14	31	BDD[	BWDD	BWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	בודד		6	f1	0	0	0	0	nnnn	nnnn	first	W	1
 2030098	4Q70	Jeremiah	8	10	BY<[	BY<	BY<	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	בצע		14	f3+4i+5_7	0	0	0	0	nnn	nnn	first		0
 2030498	4Q70	Jeremiah	9	11	<BR[	<BR	<BR	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	עבר		11	f4ii+8_10	0	0	0	0	nnn	nnn	first		0
 2030632	4Q70	Jeremiah	10	12	<FH[	<FH	<FH	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	עשה		6	f11_12	0	0	0	0	nnn	nnn	first		0
@@ -6089,6 +6299,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2039239	4Q78	Joel	4	17	CKN[	CWKN	CWKN	CMCC	CMCC	qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	שוכן		10	f18_20	0	1	0	0	nnnn	nnnn	first	W	1
 2039416	4Q78	Amos	2	16	MY>[	MWY>	MWY>	CMCC	CMCC	qal	ptca	sg		NA	verb				W	nnnn	nnnn	מוצא		4	f21_23	0	1	0	0	nnnn	nnnn	first	W	1
 2039644	4Q78	Amos	3	12	JCB[	JWCBJM	JWCB	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnrrr	nnnnnn	יושבים		5	f24_29+48	0	1	0	1	nnnr	nnnn	first	W	1
+2040699	4Q80	Zechariah	2	12	CLL[	CWLLJM	CWLL	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	שוללים		3	f6_7	0	1	0	1	nnnn	nnnn	first	W	1
 2040705	4Q80	Zechariah	2	12	NG<[	NWG<	NWG<	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	נוגע		4	f6_7	0	0	0	0	nnnn	nnnn	first	W	1
 2040784	4Q80	Zechariah	3	4	<MD[	<WMDJM	<WMD	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnrrr	nnnnnn	עומדים		3	f8_13	0	1	0	1	nnnr	nnnn	first	W	1
 2041605	4Q81	Jonah	1	11	HLK[	HLK	HLK	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	הלך		5	2	0	0	0	0	nnn	nnn	first		0
@@ -6126,6 +6337,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2049353	4Q84	Psalms	118	7	FN>[	FN>J	FN>	CCC	CCCM	qal	ptca	pl	m	NA	verb		J		B	nnnn	nnnn	שנאי		13	f28ii_30i+31	0	1	0	1	nnn	nnn	first		0
 2049912	4Q85	Psalms	28	1	JRD[	JWRDJ	JWRD	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J			nnnrr	nnnnn	יורדי		6	f6_7	0	0	0	1	nnnr	nnnn	first	W	1
 2049990	4Q85	Psalms	37	18	JD<[	JWD<	JWD<	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יודע		1	f9	0	0	0	0	nnnn	nnnn	first	W	1
+2050023	4Q85	Psalms	42	5	XGG[	XWGG	XWGG	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnr	nnnn	חוגג		1	f10	0	0	0	0	nnnr	nnnn	first	W	1
 2050390	4Q85	Psalms	50	22	CKX[	CKXJ	CKX	CCC	CCCM	qal	ptca	pl	m	NA	verb		J			nnnr	nnnn	שכחי		27	f15ii_16	0	0	0	1	nnn	nnn	first		0
 2050398	4Q85	Psalms	50	23	ZBX[	ZBX	ZBX	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	זבח		28	f15ii_16	0	0	0	0	nnn	nnn	first		0
 2050688	4Q86	Psalms	147	15	CLX[	CLX	CLX	CCC	CCC	qal	ptca	sg	m	NA	verb				H	nnn	nnn	שלח		3	2	0	1	0	0	nnn	nnn	first		0
@@ -6156,6 +6368,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2055245	4Q102	Proverbs	1	33	CM<[	CM<	CM<	CCC	CCC	qal	ptca	sg	m	NA	verb				W	nnn	nnn	שמע		35	f1_2	0	1	0	0	nnn	nnn	first		0
 2055345	4Q103	Proverbs	14	10	JD<[	JWD<	JWD<	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יודע		4	f2_4	0	0	0	0	nnnn	nnnn	first	W	1
 2055387	4Q103	Proverbs	14	31	<FH[	<FHW	<F	CC	CCCM	qal	ptca	sg	m	NA	verb	HW				nnnr	nnnn	עשהו		1	f5_7i+8_10	1	0	0	0	nn	nn	first		0
+2055390	4Q103	Proverbs	14	31	XNN[	XWNN	XWNN	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnr	nnnn	חונן		1	f5_7i+8_10	0	0	0	0	nnnr	nnnn	first	W	1
+2055511	4Q103	Proverbs	15	19	SLL[	SWLLH	SWLLH	CMCCC	CMCCC	qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	סוללה		1	f7ii+11_14	0	0	0	0	nnnnn	nnnnn	first	W	1
 2055542	4Q103	Proverbs	15	22	J<Y[	JW<YJM	JW<Y	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	יועצים		4	f7ii+11_14	0	0	0	1	nnnn	nnnn	first	W	1
 2055588	4Q103	Proverbs	15	27	<KR[	<KR	<KR	CCC	CCC	qal	ptca	sg	m	NA	verb					nnr	nnn	עכר		9	f7ii+11_14	0	0	0	0	nnr	nnn	first		0
 2055590	4Q103	Proverbs	15	27	BY<[	BY<	BY<	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	בצע		9	f7ii+11_14	0	0	0	0	nnn	nnn	first		0
@@ -6168,9 +6382,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2057470	4Q111	Lamentations	1	2	>HB[	>WHBJH	>WHB	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb	H	J			nnnnnn	nnnnnn	אוהביה		3	1	1	0	0	1	nnnn	nnnn	first	W	1
 2057562	4Q111	Lamentations	1	6	RDP[	RWDP	RWDP	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	רודף		2	2	0	0	0	0	nnnn	nnnn	first	W	1
 2057581	4Q111	Lamentations	1	7	<ZR[	<WZR	<WZR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עוזר		4	2	0	0	0	0	nnnn	nnnn	first	W	1
+2057658	4Q111	Lamentations	1	11	ZLL[	ZWLL	ZWLL	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	זולל		2	3	0	0	0	0	nnnn	nnnn	first	W	1
 2057664	4Q111	Lamentations	1	12	<BR[	<BRJ	<BR	CCC	CCCM	qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	עברי		2	3	0	0	0	1	nnn	nnn	first		0
+2057699	4Q111	Lamentations	1	13	CMM[	CWMM	CWMM	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שומם		4	3	0	0	0	0	nnnn	nnnn	first	W	1
 2057757	4Q111	Lamentations	1	17	>HB[	>WHBJH	>WHB	CMCC	CMCCMC	qal	ptca	pl		NA	verb	H	J			nnnnnn	nnnnnn	אוהביה		8	3	1	0	0	1	nnnn	nnnn	first	W	1
 2057777	4Q111	Lamentations	1	16	JRD[	JRDH	JRDH	CCCC	CCCC	qal	ptca	sg	f	NA	verb					nnnn	nnnn	ירדה		9	3	0	0	0	0	nnnn	nnnn	first		0
+2057787	4Q111	Lamentations	1	16	CMM[	CWMMJM	CWMM	CMCC	CMCCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	שוממים		10	3	0	0	0	1	nnnn	nnnn	first	W	1
 2059414	4Q112	Daniel	8	3	<MD[	<MD	<MD	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	עמד		14	f14	0	0	0	0	nnn	nnn	first		0
 2059437	4Q112	Daniel	8	3	<LH[	<LH	<LH	CCC	CCC	qal	ptca	sg	f	NA	verb					nnn	nnn	עלה		15	f14	0	0	0	0	nnn	nnn	first		0
 2059492	4Q112	Daniel	8	5	NG<[	NG<	NG<	CCC	CCC	qal	ptca	sg	m	NA	verb					nnn	nnn	נגע		18	f14	0	0	0	0	nnn	nnn	first		0
@@ -6261,6 +6478,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084158	11Q5	Psalms	119	21	CGH[	CWGJM	CWG	CMC	CMCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnnn	nnnnn	שוגים		7	7	0	1	0	1	nnn	nnn	first	W	1
 2084262	11Q5	Psalms	119	42	XRP[	XWRPJ	XWRP	CMCC	CMCCM	qal	ptca	sg	m	NA	verb	J				nnnnn	nnnnn	חורפי		6	8	1	0	0	0	nnnn	nnnn	first	W	1
 2084376	11Q5	Psalms	119	63	CMR[	CWMRJ	CWMR	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J		WL	nnnnn	nnnnn	שומרי		5	9	0	1	0	1	nnnn	nnnn	first	W	1
+2084408	11Q5	Psalms	119	67	CGG[	CWGG	CWGG	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	שוגג		9	9	0	0	0	0	nnnn	nnnn	first	W	1
 2084494	11Q5	Psalms	119	84	RDP[	RWDPJ	RWDP	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J		B	nnnnn	nnnnn	רודפי		3	10	0	1	0	1	nnnn	nnnn	first	W	1
 2084710	11Q5	Psalms	119	118	CGH[	CWGJM	CWG	CMC	CMCMC	qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	שוגים		14	11	0	0	0	1	nnn	nnn	first	W	1
 2084777	11Q5	Psalms	119	132	>HB[	>WHBJ	>WHB	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J		L	nnnnn	nnnnn	אוהבי		5	12	0	1	0	1	nnnn	nnnn	first	W	1
@@ -6293,6 +6511,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2086236	11Q5	Psalms	133	2	JRD[	JWRD	JWRD	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יורד		9	23	0	0	0	0	nnnn	nnnn	first	W	1
 2086243	11Q5	Psalms	133	2	JRD[	JRD	JRD	CCC	CCC	qal	ptca	sg	m	NA	verb				C	nnn	nnn	ירד		9	23	0	1	0	0	nnn	nnn	first		0
 2086252	11Q5	Psalms	133	3	JRD[	JWRD	JWRD	CMCC	CMCC	qal	ptca	sg	m	NA	verb				C	nnnn	nnnn	יורד		10	23	0	1	0	0	nnnn	nnnn	first	W	1
+2086294	11Q5	Psalms	144	2	RDD[	RWDD	RWDD	CMCC	CMCC	qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	רודד		13	23	0	1	0	0	nnnn	nnnn	first	W	1
 2086317	11Q5	Psalms	144	4	<BR[	<WBR	<WBR	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר		15	23	0	0	0	0	nnnn	nnnn	first	W	1
 2086374	11Q5	Psalms	142	5	DRC[	DWRC	DWRC	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	דורש		2	25	0	0	0	0	nnnn	nnnn	first	W	1
 2086398	11Q5	Psalms	142	7	RDP[	RWDPJ	RWDP	CMCC	CMCCM	qal	ptca	pl	m	NA	verb		J		M	nnnnn	nnnnn	רודפי		4	25	0	1	0	1	nnnn	nnnn	first	W	1
@@ -6401,6 +6620,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2101206	5/6hev1b	Psalms	18	31	XSH[	XSJM	XS	CC	CCMC	qal	ptca	pl	m	NA	verb		JM		H	nnnr	nnnn	חסים		17	f6_7	0	1	0	1	nn	nn	first		0
 2101332	5/6hev1b	Psalms	22	4	JCB[	JWCB	JWCB	CMCC	CMCC	qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב		1	f8_9	0	0	0	0	nnnn	nnnn	first	W	1
 2101366	5/6hev1b	Psalms	22	8	R>H[	R>J	R>	CC	CCM	qal	ptca	pl	m	NA	verb		J			nnn	nnn	ראי		4	f8_9	0	0	0	1	nn	nn	first		0
+2101758	5/6hev1b	Psalms	31	12	YRR=[	YRRJ	YRR	CCC	CCCM	qal	ptca	pl	m	NA	verb		J			nnrr	nnnn	צררי		14	f13ii	0	0	0	1	nnr	nnn	first		0
 2101769	5/6hev1b	Psalms	31	12	R>H[	R>J	R>	CC	CCM	qal	ptca	pl	m	NA	verb		J			nnr	nnn	ראי		15	f13ii	0	0	0	1	nn	nn	first		0
 2101819	5/6hev1b	Psalms	31	16	RDP[	RDPJ	RDP	CCC	CCCM	qal	ptca	pl	m	NA	verb		J		WM	nnnn	nnnn	רדפי		20	f13ii	0	1	0	1	nnn	nnn	first		0
 2102371	Xhev/se5	Exodus	13	4	JY>[	JYJ>JM	JYJ>	CCMC	CCMCMC	qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	יציאים		2	f1	0	0	0	1	nnnn	nnnn	first		0
