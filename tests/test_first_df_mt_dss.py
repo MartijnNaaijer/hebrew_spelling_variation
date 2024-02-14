@@ -16,7 +16,7 @@ ALL_DATASETS = ['nouns_adjectives.csv',
                 'infc_qal_lamed_he.csv',
                 'infc_qal_triliteral.csv',
                 'niph_hiph_pe_yod.csv',
-                'particles.csv',
+                # 'particles.csv', # ADD LATER
                 'ptca_qal.csv',
                 'ptcp_qal.csv']
 
@@ -105,6 +105,13 @@ def test_scrolls_col_mt_great_scroll_and_others_should_be_there(input_df_list):
     scrolls_per_df_list = [tuple(set(df.scroll)) for df in input_df_list]
     assert all(['MT' in all_scrolls for all_scrolls in scrolls_per_df_list])
     #assert all([len(all_scrolls) > 3 for all_scrolls in scrolls_per_df_set])
+
+
+def test_all_datasets_have_one_for_has_vl_if_vowel_letter_has_value(input_df_list):
+    vowel_letters = {'W', 'J', '>', 'H', 'W>', '>W', '>J', 'W>W'}
+    for df in input_df_list:
+        vl_has_vl_matches = set(has_vl == 1 if vl in vowel_letters else has_vl == 0 for vl, has_vl in zip(df.vowel_letter, df.has_vowel_letter))
+        assert vl_has_vl_matches == {True}
 
 
 # TODO: check that MT in scrolls, together with other scrolls

@@ -64,10 +64,12 @@ class MatresColumnAdderParticiples:
             self.data['vowel_letter'] = np.where(np.where(self.data.pattern.str[1] == 'M', True, False),
                                                  self.data.stem.str[1], '')
         elif self.ptc_type == 'ptcp':
-            self.data['vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 'W', '')
+            # self.data['vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 'W', '')
+            self.data['vowel_letter'] = np.where(self.data.g_cons.str[2] == 'W', 'W', '')
 
     def add_column_has_vowel_letter(self):
         if self.ptc_type == 'ptca':
             self.data['has_vowel_letter'] = np.where(self.data.pattern.str[1] == 'M', 1, 0)
         elif self.ptc_type == 'ptcp':
-            self.data['has_vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 1, 0)
+            # self.data['has_vowel_letter'] = np.where(self.data.stem.str[-2] == 'W', 1, 0)
+            self.data['has_vowel_letter'] = np.where(self.data.g_cons.str[2] == 'W', 1, 0)
