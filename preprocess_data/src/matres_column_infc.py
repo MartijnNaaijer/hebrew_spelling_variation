@@ -97,9 +97,11 @@ class InfcOtherCorrector:
         self.data = self.data[~self.data.lex.str[1].isin(['J', 'W'])]
 
     def remove_ayin_ayin_verbs(self):
-        self.data = self.data[self.data.lex.str[1] != self.data.lex.str[2]]
+        """Remove ayin-ayin verbs """
+        self.data = self.data[(self.data.lex.str[1] != self.data.lex.str[2])]
 
     def remove_pe_yod_verbs(self):
+        """These have qal infc ending in T"""
         self.data = self.data[self.data.lex.str[0] != 'J']
 
     def remove_pe_nun_he_verbs_with_ending_t(self):

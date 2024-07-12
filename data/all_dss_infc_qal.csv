@@ -1,0 +1,2217 @@
+tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix	rec_signs	cor_signs	heb_g_cons
+1696786	4Q249j	Leviticus	26	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb					rrnr	nnnn	עשות
+2084473	11Q5	Psalms	119	82	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2084092	11Q5	Psalms	119	5	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	שמור
+2085106	11Q5	Psalms	135	6	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2086550	11Q5	Psalms	149	9	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2083665	11Q5	Psalms	126	1	CWB=[	CWB	CWB			qal	infc	NA		NA	verb				B	nnn	nnn	שוב
+2082354	11Q5	Psalms	102	21	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+2086224	11Q5	Psalms	133	1	JCB[	CBT	CBT			qal	infc	NA		NA	verb					nnn	nnn	שבת
+2082755	11Q5	Psalms	104	27	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2082261	11Q5	Psalms	101	6	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rnn	nnn	שבת
+2084662	11Q5	Psalms	119	112	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2085007	11Q5	Psalms	119	173	<ZR[	<WZRNJ	<WZR			qal	infc	NA		NA	verb	NJ			L	nnnnnn	nnnnnn	עוזרני
+2083688	11Q5	Psalms	126	2	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2083452	11Q5	Psalms	121	8	JY>[	Y>TKH	Y>T			qal	infc	NA		NA	verb	KH				nnnnn	nnnnn	צאתכה
+2083454	11Q5	Psalms	121	8	BW>[	BW>KH	BW>			qal	infc	NA		NA	verb	KH			W	nnnnn	nnnnn	בואכה
+2082994	11Q5	Psalms	105	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2084348	11Q5	Psalms	119	60	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור
+2086530	11Q5	Psalms	149	7	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2086003	11Q5	Psalms	137	1	ZKR[	ZKRNW	ZKR			qal	infc	NA		NA	verb	NW			B	rrrrr	nnnnn	זכרנו
+2083695	11Q5	Psalms	126	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2082226	11Q5	Psalms	101	3	<FH[	<FH	<FH			qal	infc	NA		NA	verb					nnn	nnn	עשה
+2082380	11Q5	Psalms	102	23	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrr	nnn	עבד
+2082489	11Q5	Psalms	109	23	NVH[	NVWTW	NVWT			qal	infc	NA		NA	verb	W			K	rrrrr	nnnnn	נטותו
+2085430	11Q5	Psalms	118	8	BVX[	BVWX	BVWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	בטוח
+2085434	11Q5	Psalms	118	8	BVX[	BVWX	BVWX			qal	infc	NA		NA	verb				M	nnnn	nnnn	בטוח
+2086539	11Q5	Psalms	149	8	>SR[	>SWR	>SWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אסור
+2083012	11Q5	Psalms	105	25	FN>[	FNW>	FNW>			qal	infc	NA		NA	verb				L	nnnn	nnnn	שנוא
+2084085	11Q5	Psalms	119	4	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrnn	nnnn	שמור
+2084613	11Q5	Psalms	119	106	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2084222	11Q5	Psalms	119	37	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				M	nnnn	nnnn	ראות
+2083140	11Q5	Psalms	105	38	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			B	rrnn	nnnn	צאתם
+2085440	11Q5	Psalms	118	9	XSH[	XSWT	XSWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	חסות
+2085454	11Q5	Psalms	118	9	BVX[	BVWX	BVWX			qal	infc	NA		NA	verb				M	nnnn	nnnn	בטוח
+2086834	11Q6	Psalms	133	1	JCB[	CBT	CBT			qal	infc	NA		NA	verb					rrr	nnn	שבת
+1890148	1Q1	Genesis	24	22	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	שתות
+1889951	1Q1	Genesis	3	11	>KL[	>KL	>KL			qal	infc	NA		NA	verb					rrr	nnn	אכל
+1890181	1Q1	Genesis	24	23	LJN[	LJN	LJN			qal	infc	NA		NA	verb				L	rrr	nnn	לין
+1890427	1Q2	Exodus	20	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+1890400	1Q2	Exodus	19	24	<LH[	<LT	<LT			qal	infc	NA		NA	verb				L	nrr	nnn	עלת
+1891014	1Q3	Numbers	1	48	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1890808	1Q3	Leviticus	22	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1890771	1Q3	Leviticus	20	24	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	nnr	nnn	רשת
+1890642	1Q3	Leviticus	19	31	VM>[	VM>H	VM>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	טמאה
+1890734	1Q3	Leviticus	20	22	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
+1891719	1Q4	Deuteronomy	13	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
+1891465	1Q4	Deuteronomy	11	29	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1891666	1Q4	Deuteronomy	13	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1891385	1Q4	Deuteronomy	9	28	JKL[	JKLT	JKLT			qal	infc	NA		NA	verb					rrrr	nnnn	יכלת
+1891754	1Q4	Deuteronomy	14	23	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1891567	1Q4	Deuteronomy	13	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1891599	1Q4	Deuteronomy	13	4	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rnn	nnn	דעת
+1891309	1Q4	Deuteronomy	8	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1891772	1Q4	Deuteronomy	14	24	NF>[	FTW	FT			qal	infc	NA		NA	verb	W			L	nnn	nnn	שתו
+1891783	1Q4	Deuteronomy	14	24	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+1891865	1Q4	Deuteronomy	16	6	BW>[	BW>	BW>			qal	infc	NA		NA	verb				K	rrr	nnn	בוא
+1891869	1Q4	Deuteronomy	16	6	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K				rrrr	nnnn	צאתך
+1891702	1Q4	Deuteronomy	13	13	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
+1891705	1Q4	Deuteronomy	13	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1891443	1Q4	Deuteronomy	11	28	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1891532	1Q4	Deuteronomy	13	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1893302	1Q5	Deuteronomy	31	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1892340	1Q5	Deuteronomy	15	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnrr	nnnn	עשות
+1893122	1Q5	Deuteronomy	31	2	JY>[	Y>T	Y>T			qal	infc	NA		NA	verb				L	nnn	nnn	צאת
+1893125	1Q5	Deuteronomy	31	2	BW>[	BW>	BW>			qal	infc	NA		NA	verb				WL	rrr	nnn	בוא
+1892931	1Q5	Deuteronomy	29	17	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1892933	1Q5	Deuteronomy	29	17	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrr	nnn	עבד
+1893242	1Q5	Deuteronomy	31	7	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1892952	1Q5	Deuteronomy	29	18	CM<[	CM<W	CM<			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	שמעו
+1892964	1Q5	Deuteronomy	29	18	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1892363	1Q5	Deuteronomy	17	16	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+1892636	1Q5	Deuteronomy	25	17	JY>[	Y>TKM	Y>T			qal	infc	NA		NA	verb	KM			B	rrrrr	nnnnn	צאתכם
+1892138	1Q5	Deuteronomy	1	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1892143	1Q5	Deuteronomy	1	9	NF>[	F>T	F>T			qal	infc	NA		NA	verb					nnn	nnn	שאת
+1893053	1Q5	Deuteronomy	30	20	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1893058	1Q5	Deuteronomy	30	20	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+1893063	1Q5	Deuteronomy	30	20	DBQ[	DBQH	DBQ			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	דבקה
+1893072	1Q5	Deuteronomy	30	20	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
+1893089	1Q5	Deuteronomy	30	20	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1893348	1Q5	Deuteronomy	31	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1892803	1Q5	Deuteronomy	29	11	<BR[	<BRK	<BR			qal	infc	NA		NA	verb	K			L	rrrr	nnnn	עברך
+1892295	1Q5	Deuteronomy	11	31	BW>[	B>	B>			qal	infc	NA		NA	verb				L	rr	nn	בא
+1892297	1Q5	Deuteronomy	11	31	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
+1892984	1Q5	Deuteronomy	29	19	SLX[	SLX	SLX			qal	infc	NA		NA	verb					rrr	nnn	סלח
+1893629	1Q5	Deuteronomy	33	18	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	צאתך
+1892487	1Q5	Deuteronomy	24	13	BW>[	BW>	BW>			qal	infc	NA		NA	verb				K	nnn	nnn	בוא
+1893366	1Q5	Deuteronomy	31	13	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1892699	1Q5	Deuteronomy	28	45	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1892449	1Q5	Deuteronomy	24	10	<BV[	<BV	<BV			qal	infc	NA		NA	verb				L	rrr	nnn	עבט
+1894232	1Q6	Judges	9	41	JCB[	CBT	CBT			qal	infc	NA		NA	verb				M	rrr	nnn	שבת
+1893980	1Q6	Judges	8	1	QR>[	QR>WT	QR>WT			qal	infc	NA		NA	verb					rrrrr	nnnnn	קראות
+1894011	1Q6	Judges	9	2	MCL[	MCL	MCL			qal	infc	NA		NA	verb				H	rrr	nnn	משל
+1894019	1Q6	Judges	9	2	MCL[	MCL	MCL			qal	infc	NA		NA	verb					rnn	nnn	משל
+1894183	1Q6	Judges	9	31	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1894659	1Q7	2_Samuel	20	9	NCQ[	NCQ	NCQ			qal	infc	NA		NA	verb				L	rrn	nnn	נשק
+1894719	1Q7	2_Samuel	21	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר
+1894623	1Q7	2_Samuel	20	7	RDP[	RDP	RDP			qal	infc	NA		NA	verb				L	rrr	nnn	רדף
+1917201	1Qisaa	Isaiah	62	5	B<L[	B<WL	B<WL			qal	infc	NA	m	NA	verb				K	nnnn	nnnn	בעול
+1898994	1Qisaa	Isaiah	10	32	<MD[	<MWD	<MWD			qal	infc	NA		NA	verb				L	nnnn	nnnn	עמוד
+1901062	1Qisaa	Isaiah	18	3	NF>[	NF>	NF>			qal	infc	NA		NA	verb				K	nnn	nnn	נשא
+1901068	1Qisaa	Isaiah	18	3	TQ<[	TQW<	TQW<			qal	infc	NA		NA	verb				WK	nnnn	nnnn	תקוע
+1899583	1Qisaa	Isaiah	13	9	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	nnn	nnn	שום
+1917706	1Qisaa	Isaiah	64	2	<FH[	<FWTKH	<FWT			qal	infc	NA		NA	verb	KH			B	nnnnnn	nnnnnn	עשותכה
+1900719	1Qisaa	Isaiah	16	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1904398	1Qisaa	Isaiah	28	24	ZR<[	ZRW<	ZRW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	זרוע
+1916901	1Qisaa	Isaiah	61	1	XBC[	XBWC	XBWC			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חבוש
+1916906	1Qisaa	Isaiah	61	1	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא
+1907794	1Qisaa	Isaiah	37	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1907809	1Qisaa	Isaiah	37	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1900207	1Qisaa	Isaiah	14	25	CBR[	CBWR	CBWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שבור
+1914954	1Qisaa	Isaiah	55	7	SLX[	SLWX	SLWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	סלוח
+1896654	1Qisaa	Isaiah	5	24	>KL[	>KL	>KL			qal	infc	NA		NA	verb				K	nnn	nnn	אכל
+1908407	1Qisaa	Isaiah	38	1	MWT[	MWT	MWT			qal	infc	NA		NA	verb				L	nnn	nnn	מות
+1897411	1Qisaa	Isaiah	7	17	SWR[	SWR	SWR			qal	infc	NA		NA	verb					nnn	nnn	סור
+1914080	1Qisaa	Isaiah	52	4	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	nnn	nnn	גור
+1904162	1Qisaa	Isaiah	28	12	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+1902785	1Qisaa	Isaiah	23	18	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול
+1902220	1Qisaa	Isaiah	22	10	BYR=[	BYWR	BYWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	בצור
+1896313	1Qisaa	Isaiah	5	4	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1896324	1Qisaa	Isaiah	5	4	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1912406	1Qisaa	Isaiah	47	14	XMM[	XWMM	XWMM			qal	infc	NA		NA	verb				L	nnnn	nnnn	חומם
+1912409	1Qisaa	Isaiah	47	14	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnn	nnn	שבת
+1911149	1Qisaa	Isaiah	44	13	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnn	nnn	שבת
+1897804	1Qisaa	Isaiah	8	11	HLK[	LKT	LKT			qal	infc	NA		NA	verb				M	nnn	nnn	לכת
+1897812	1Qisaa	Isaiah	8	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1906381	1Qisaa	Isaiah	33	15	TMK[	TMK	TMK			qal	infc	NA		NA	verb				M	nnn	nnn	תמך
+1906387	1Qisaa	Isaiah	33	15	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע
+1906392	1Qisaa	Isaiah	33	15	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				M	nnnn	nnnn	ראות
+1910431	1Qisaa	Isaiah	42	24	HLK[	HLWK	HLWK			qal	infc	NA		NA	verb				L	nnnn	nnnn	הלוך
+1899364	1Qisaa	Isaiah	11	16	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb					nnnn	nnnn	עלות
+1915142	1Qisaa	Isaiah	56	3	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1905330	1Qisaa	Isaiah	30	18	XNN[	XWNKM	XWN			qal	infc	NA		NA	verb	KM			L	nnnnn	nnnnn	חונכם
+1897219	1Qisaa	Isaiah	7	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1905517	1Qisaa	Isaiah	30	26	XBC[	XBWC	XBWC			qal	infc	NA		NA	verb					nnnn	nnnn	חבוש
+1912691	1Qisaa	Isaiah	48	16	HJH[	HJWTH	HJWT			qal	infc	NA		NA	verb	H				nnnnn	nnnnn	היותה
+1895665	1Qisaa	Isaiah	2	19	QWM[	QWMW	QWM			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	קומו
+1895667	1Qisaa	Isaiah	2	19	<RY[	<RWY	<RWY			qal	infc	NA		NA	verb				L	nnnn	nnnn	ערוץ
+1906167	1Qisaa	Isaiah	32	19	JRD[	RDT	RDT			qal	infc	NA		NA	verb				B	nnn	nnn	רדת
+1916006	1Qisaa	Isaiah	58	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	עשות
+1916024	1Qisaa	Isaiah	58	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	עשות
+1916028	1Qisaa	Isaiah	58	13	MY>[	MYW>	MYW>			qal	infc	NA		NA	verb				WM	nnnn	nnnn	מצוא
+1899965	1Qisaa	Isaiah	14	9	QR>=[	QRT	QRT			qal	infc	NA		NA	verb				L	nnn	nnn	קרת
+1899966	1Qisaa	Isaiah	14	9	BW>[	BW>K	BW>			qal	infc	NA		NA	verb	K				nnnn	nnnn	בואך
+1901806	1Qisaa	Isaiah	21	1	XLP[	XLP	XLP			qal	infc	NA		NA	verb				L	nnn	nnn	חלף
+1903830	1Qisaa	Isaiah	27	9	FJM[	FWMW	FWM			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	שומו
+1915463	1Qisaa	Isaiah	57	7	ZBX[	ZBWX	ZBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	זבוח
+1907496	1Qisaa	Isaiah	36	18	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1918700	1Qisaa	Isaiah	66	16	CPV[	CPWV	CPWV			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	שפוט
+1905245	1Qisaa	Isaiah	30	14	XTH[	XTWT	XTWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	חתות
+1905251	1Qisaa	Isaiah	30	14	XFP[	XSWP	XSWP			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חסוף
+1912492	1Qisaa	Isaiah	48	4	JD<[	JD<TJ	JD<T			qal	infc	NA		NA	verb	J				nnnnn	nnnnn	ידעתי
+1916697	1Qisaa	Isaiah	60	14	CXX[	CXWX	CXWX			qal	infc	NA		NA	verb					nnnn	nnnn	שחוח
+1911467	1Qisaa	Isaiah	45	1	RDD[	RD	RD			qal	infc	NA		NA	verb				L	nn	nn	רד
+1911476	1Qisaa	Isaiah	45	1	PTX[	PTWX	PTWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	פתוח
+1902935	1Qisaa	Isaiah	24	10	BW>[	BW>	BW>			qal	infc	NA		NA	verb				M	nnn	nnn	בוא
+1901660	1Qisaa	Isaiah	20	1	BW>[	B>	B>			qal	infc	NA		NA	verb					nn	nn	בא
+1901664	1Qisaa	Isaiah	20	1	CLX[	CLX	CLX			qal	infc	NA		NA	verb				B	nnn	nnn	שלח
+1907818	1Qisaa	Isaiah	37	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1907827	1Qisaa	Isaiah	37	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1915831	1Qisaa	Isaiah	58	5	KPP[	KWP	KWP			qal	infc	NA		NA	verb				HL	nnn	nnn	כוף
+1899806	1Qisaa	Isaiah	13	22	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+1915929	1Qisaa	Isaiah	58	9	CLX[	CLWX	CLWX			qal	infc	NA		NA	verb				W	nnnn	nnnn	שלוח
+1905005	1Qisaa	Isaiah	30	2	JRD[	RDT	RDT			qal	infc	NA		NA	verb				L	nnn	nnn	רדת
+1905012	1Qisaa	Isaiah	30	2	<WZ[	<WZ	<WZ			qal	infc	NA		NA	verb				L	nnn	nnn	עוז
+1905018	1Qisaa	Isaiah	30	2	XSH[	XSWT	XSWT			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חסות
+1904949	1Qisaa	Isaiah	29	23	R>H[	R>WTW	R>WT			qal	infc	NA		NA	verb	W			B	nnnnn	nnnnn	ראותו
+1897516	1Qisaa	Isaiah	7	22	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb					nnnn	nnnn	עשות
+1895935	1Qisaa	Isaiah	3	13	RJB[	RJB	RJB			qal	infc	NA		NA	verb				L	nnn	nnn	ריב
+1895939	1Qisaa	Isaiah	3	13	DJN[	DJN	DJN			qal	infc	NA		NA	verb				L	nnn	nnn	דין
+1916065	1Qisaa	Isaiah	59	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע
+1896143	1Qisaa	Isaiah	4	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1906535	1Qisaa	Isaiah	34	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+1897129	1Qisaa	Isaiah	7	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1897139	1Qisaa	Isaiah	7	2	NW<[	N<	N<			qal	infc	NA		NA	verb				K	nn	nn	נע
+1911254	1Qisaa	Isaiah	44	18	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				M	nnnn	nnnn	ראות
+1899605	1Qisaa	Isaiah	13	10	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	צאתו
+1904349	1Qisaa	Isaiah	28	21	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1904355	1Qisaa	Isaiah	28	21	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד
+1904717	1Qisaa	Isaiah	29	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1916916	1Qisaa	Isaiah	61	2	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא
+1913400	1Qisaa	Isaiah	50	4	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	nnn	nnn	דעת
+1913402	1Qisaa	Isaiah	50	4	<WT=[	<WT	<WT			qal	infc	NA		NA	verb				L	nnn	nnn	עות
+1913417	1Qisaa	Isaiah	50	4	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+1897291	1Qisaa	Isaiah	7	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1915711	1Qisaa	Isaiah	57	20	CQV[	>CQWV	>CQWV			qal	infc	NA		NA	verb				L	nnnnn	nnnnn	אשקוט
+1895069	1Qisaa	Isaiah	1	12	RMS[	RMWS	RMWS			qal	infc	NA		NA	verb				L	nnnn	nnnn	רמוס
+1913993	1Qisaa	Isaiah	51	22	CTH[	CTWTW	CTWT			qal	infc	NA		NA	verb	W			L	nnnnn	nnnnn	שתותו
+1897661	1Qisaa	Isaiah	8	4	QR>[	QR>W	QR>W			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראו
+1911791	1Qisaa	Isaiah	45	18	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnn	nnn	שבת
+1917568	1Qisaa	Isaiah	63	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1911153	1Qisaa	Isaiah	44	14	KRT[	KRWT	KRWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	כרות
+1916719	1Qisaa	Isaiah	60	15	HJH[	HJJWTK	HJJWT			qal	infc	NA		NA	verb	K				nnnnnn	nnnnnn	הייותך
+1913754	1Qisaa	Isaiah	51	10	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	עבור
+1905362	1Qisaa	Isaiah	30	19	Z<Q[	Z<QK	Z<Q			qal	infc	NA		NA	verb	K				nnnn	nnnn	זעקך
+1905364	1Qisaa	Isaiah	30	19	CM<[	CMW<TW	CMW<T			qal	infc	NA		NA	verb	W			K	nnnnnn	nnnnnn	שמועתו
+1901688	1Qisaa	Isaiah	20	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1902006	1Qisaa	Isaiah	21	14	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראת
+1902610	1Qisaa	Isaiah	23	7	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	nnn	nnn	גור
+1907924	1Qisaa	Isaiah	37	15	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1898215	1Qisaa	Isaiah	9	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1901646	1Qisaa	Isaiah	19	25	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1907426	1Qisaa	Isaiah	36	15	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1907673	1Qisaa	Isaiah	37	3	JLD[	LDT	LDT			qal	infc	NA		NA	verb				L	nnn	nnn	לדת
+1901099	1Qisaa	Isaiah	18	5	TMM[	TM	TM			qal	infc	NA		NA	verb				K	nn	nn	תם
+1916931	1Qisaa	Isaiah	61	3	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	nnn	nnn	שום
+1916936	1Qisaa	Isaiah	61	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1898687	1Qisaa	Isaiah	10	14	>SP[	>SWP	>SWP			qal	infc	NA		NA	verb				WK	nnnn	nnnn	אסוף
+1916312	1Qisaa	Isaiah	59	14	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+1898785	1Qisaa	Isaiah	10	18	MSS[	MSS	MSS			qal	infc	NA		NA	verb				K	nnn	nnn	מסס
+1896632	1Qisaa	Isaiah	5	22	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	שתות
+1896638	1Qisaa	Isaiah	5	22	MSK[	MSK	MSK			qal	infc	NA		NA	verb				L	nnn	nnn	מסך
+1897360	1Qisaa	Isaiah	7	15	JD<[	D<TW	D<T			qal	infc	NA		NA	verb	W			L	nnnn	nnnn	דעתו
+1895085	1Qisaa	Isaiah	1	13	QR>[	QR>	QR>			qal	infc	NA		NA	verb					nnn	nnn	קרא
+1903606	1Qisaa	Isaiah	26	17	JLD[	LDT	LDT			qal	infc	NA		NA	verb				L	nnn	nnn	לדת
+1900947	1Qisaa	Isaiah	17	12	HMH[	HMWT	HMWT			qal	infc	NA		NA	verb				K	nnnn	nnnn	המות
+1910327	1Qisaa	Isaiah	42	18	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	nnnn	nnnn	ראות
+1903673	1Qisaa	Isaiah	26	21	PQD[	PQWD	PQWD			qal	infc	NA		NA	verb				L	nnnn	nnnn	פקוד
+1898458	1Qisaa	Isaiah	10	2	GZL[	GZWL	GZWL			qal	infc	NA		NA	verb				WL	nnnn	nnnn	גזול
+1898463	1Qisaa	Isaiah	10	2	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+1902267	1Qisaa	Isaiah	22	12	XGR[	XGWR	XGWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חגור
+1912995	1Qisaa	Isaiah	49	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1916082	1Qisaa	Isaiah	59	2	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע
+1915105	1Qisaa	Isaiah	56	1	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+1898534	1Qisaa	Isaiah	10	6	CLL[	CLWL	CLWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	שלול
+1898538	1Qisaa	Isaiah	10	6	BZZ[	BZ	BZ			qal	infc	NA		NA	verb				WL	nn	nn	בז
+1898542	1Qisaa	Isaiah	10	6	FJM[	FWM	FWM			qal	infc	NA		NA	verb				WL	nnn	nnn	שום
+1897156	1Qisaa	Isaiah	7	3	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראת
+1911272	1Qisaa	Isaiah	44	19	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1911274	1Qisaa	Isaiah	44	19	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1915569	1Qisaa	Isaiah	57	13	Z<Q[	Z<QK	Z<Q			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	זעקך
+1902566	1Qisaa	Isaiah	23	4	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1904739	1Qisaa	Isaiah	29	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1915280	1Qisaa	Isaiah	56	9	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול
+1906208	1Qisaa	Isaiah	33	1	KLH[	KLWTK	KLWT			qal	infc	NA		NA	verb	K			K	nnnnn	nnnnn	כלותך
+1906210	1Qisaa	Isaiah	33	1	BGD[	BGWD	BGWD			qal	infc	NA		NA	verb				L	nnnn	nnnn	בגוד
+1903104	1Qisaa	Isaiah	24	20	QWM[	QWM	QWM			qal	infc	NA		NA	verb					nnn	nnn	קום
+1902672	1Qisaa	Isaiah	23	12	<LZ[	<LWZ	<LWZ			qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז
+1895697	1Qisaa	Isaiah	2	21	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+1895716	1Qisaa	Isaiah	2	21	QWM[	QWMW	QWM			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	קומו
+1895718	1Qisaa	Isaiah	2	21	<RY[	<RWY	<RWY			qal	infc	NA		NA	verb				L	nnnn	nnnn	ערוץ
+1911012	1Qisaa	Isaiah	44	7	FJM[	FJMW	FJM			qal	infc	NA		NA	verb	W			M	nnnn	nnnn	שימו
+1897685	1Qisaa	Isaiah	8	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1896291	1Qisaa	Isaiah	5	2	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1901846	1Qisaa	Isaiah	21	3	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע
+1901849	1Qisaa	Isaiah	21	3	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				M	nnnn	nnnn	ראות
+1905192	1Qisaa	Isaiah	30	12	M>S[	M>SKM	M>S			qal	infc	NA		NA	verb	KM				nnnnn	nnnnn	מאסכם
+1908175	1Qisaa	Isaiah	37	28	QWM[	QWMKH	QWM			qal	infc	NA		NA	verb	KH				nnnnn	nnnnn	קומכה
+1908177	1Qisaa	Isaiah	37	28	JCB[	CBTKH	CBT			qal	infc	NA		NA	verb	KH			W	nnnnn	nnnnn	שבתכה
+1908179	1Qisaa	Isaiah	37	28	JY>[	Y>TKH	Y>T			qal	infc	NA		NA	verb	KH			W	nnnnn	nnnnn	צאתכה
+1908181	1Qisaa	Isaiah	37	28	BW>[	BW>KH	BW>			qal	infc	NA		NA	verb	KH			W	nnnnn	nnnnn	בואכה
+1903865	1Qisaa	Isaiah	27	11	JBC[	JBC	JBC			qal	infc	NA		NA	verb				B	nnn	nnn	יבש
+1917686	1Qisaa	Isaiah	64	1	QDX[	QDWX	QDWX			qal	infc	NA		NA	verb				K	nnnn	nnnn	קדוח
+1914932	1Qisaa	Isaiah	55	6	HJH[	HJWTW	HJWT			qal	infc	NA		NA	verb	W			B	nnnnn	nnnnn	היותו
+1907252	1Qisaa	Isaiah	36	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1895844	1Qisaa	Isaiah	3	7	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1915018	1Qisaa	Isaiah	55	10	>KL[	>KWL	>KWL			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אכול
+1907370	1Qisaa	Isaiah	36	12	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול
+1907375	1Qisaa	Isaiah	36	12	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שתות
+1912910	1Qisaa	Isaiah	49	6	HJH[	HJWTKH	HJWT			qal	infc	NA		NA	verb	KH			M	nnnnnn	nnnnnn	היותכה
+1912929	1Qisaa	Isaiah	49	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+1904306	1Qisaa	Isaiah	28	19	<BR[	<BRW	<BR			qal	infc	NA		NA	verb	W				nnnn	nnnn	עברו
+1916162	1Qisaa	Isaiah	59	7	CPK[	CPWK	CPWK			qal	infc	NA		NA	verb				L	nnnn	nnnn	שפוך
+1915213	1Qisaa	Isaiah	56	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+1900191	1Qisaa	Isaiah	14	24	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1905796	1Qisaa	Isaiah	31	4	YB>[	YB>	YB>			qal	infc	NA		NA	verb				L	nnn	nnn	צבא
+1915298	1Qisaa	Isaiah	56	10	NBX[	NBWX	NBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	נבוח
+1915304	1Qisaa	Isaiah	56	10	NWM[	NW>M	NW>M			qal	infc	NA		NA	verb				L	nnnn	nnnn	נואם
+1905491	1Qisaa	Isaiah	30	25	NPL[	NPL	NPL			qal	infc	NA		NA	verb				B	nnn	nnn	נפל
+1911447	1Qisaa	Isaiah	44	28	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	אמור
+1900806	1Qisaa	Isaiah	17	5	>SP[	>SP	>SP			qal	infc	NA		NA	verb				K	nnn	nnn	אסף
+1905586	1Qisaa	Isaiah	30	29	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+1895103	1Qisaa	Isaiah	1	14	NF>[	NFW>	NFW>			qal	infc	NA		NA	verb					nnnn	nnnn	נשוא
+1897703	1Qisaa	Isaiah	8	6	MSS[	MCWC	MCWC			qal	infc	NA		NA	verb				W	nnnn	nnnn	משוש
+1908480	1Qisaa	Isaiah	38	4	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1899229	1Qisaa	Isaiah	11	11	QNH[	QNWT	QNWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	קנות
+1917594	1Qisaa	Isaiah	63	14	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1905976	1Qisaa	Isaiah	32	6	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1914682	1Qisaa	Isaiah	54	9	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				M	nnnn	nnnn	עבור
+1914692	1Qisaa	Isaiah	54	9	QYP[	QYWP	QYWP			qal	infc	NA		NA	verb				M	nnnn	nnnn	קצוף
+1914697	1Qisaa	Isaiah	54	9	G<R[	G<WR	G<WR			qal	infc	NA		NA	verb				WM	nnnn	nnnn	געור
+1907563	1Qisaa	Isaiah	36	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1915128	1Qisaa	Isaiah	56	2	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	עשות
+1902527	1Qisaa	Isaiah	23	1	BW>[	BW>	BW>			qal	infc	NA		NA	verb				M	nnn	nnn	בוא
+1905395	1Qisaa	Isaiah	30	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1910133	1Qisaa	Isaiah	42	7	PQX[	PQWX	PQWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	פקוח
+1898172	1Qisaa	Isaiah	9	6	S<D[	S<DW	S<D			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	סעדו
+1913871	1Qisaa	Isaiah	51	16	NV<[	NVW<	NVW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	נטוע
+1913875	1Qisaa	Isaiah	51	16	JSD[	JSD	JSD			qal	infc	NA		NA	verb				WL	nnn	nnn	יסד
+1913879	1Qisaa	Isaiah	51	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	אמור
+1904984	1Qisaa	Isaiah	30	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1904991	1Qisaa	Isaiah	30	1	NSK[	NSK	NSK			qal	infc	NA		NA	verb				WL	nnn	nnn	נסך
+1904997	1Qisaa	Isaiah	30	1	SPH[	SPWT	SPWT			qal	infc	NA		NA	verb					nnnn	nnnn	ספות
+1915998	1Qisaa	Isaiah	58	12	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnn	nnn	שבת
+1903377	1Qisaa	Isaiah	25	11	FXH[	FXWT	FXWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	שחות
+1908036	1Qisaa	Isaiah	37	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1909384	1Qisaa	Isaiah	40	22	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnn	nnn	שבת
+1914158	1Qisaa	Isaiah	52	8	CWB[	CWB	CWB			qal	infc	NA		NA	verb				B	nnn	nnn	שוב
+1905149	1Qisaa	Isaiah	30	9	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+1907601	1Qisaa	Isaiah	37	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				K	nnnn	nnnn	שמוע
+1907473	1Qisaa	Isaiah	36	17	BW>[	BW>J	BW>			qal	infc	NA		NA	verb	J				nnnn	nnnn	בואי
+1926822	1Q8	Isaiah	64	2	<FH[	<FWTK	<FWT			qal	infc	NA		NA	verb	K			B	rrrrr	nnnnn	עשותך
+1926219	1Q8	Isaiah	61	1	XBC[	XBC	XBC			qal	infc	NA		NA	verb				L	rrr	nnn	חבש
+1926224	1Q8	Isaiah	61	1	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	nnn	nnn	קרא
+1921443	1Q8	Isaiah	37	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1921456	1Q8	Isaiah	37	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1924818	1Q8	Isaiah	55	7	SLX[	SLWX	SLWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	סלוח
+1923518	1Q8	Isaiah	47	14	XMM[	XMM	XM			qal	infc	NA		NA	verb	M			L	nnn	nnn	חמם
+1923521	1Q8	Isaiah	47	14	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnr	nnn	שבת
+1923770	1Q8	Isaiah	49	7	BZH[	BZH	BZH			qal	infc	NA		NA	verb				L	rrr	nnn	בזה
+1925003	1Q8	Isaiah	56	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
+1921266	1Q8	Isaiah	30	26	XBC[	XBC	XBC			qal	infc	NA		NA	verb					rrr	nnn	חבש
+1921307	1Q8	Isaiah	32	19	JRD[	RDT	RDT			qal	infc	NA		NA	verb				B	rrr	nnn	רדת
+1925597	1Q8	Isaiah	58	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb					nnnn	nnnn	עשות
+1925615	1Q8	Isaiah	58	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	עשות
+1925618	1Q8	Isaiah	58	13	MY>[	MYW>	MYW>			qal	infc	NA		NA	verb				M	nnnn	nnnn	מצוא
+1921120	1Q8	Isaiah	30	14	XTH[	XTWT	XTWT			qal	infc	NA		NA	verb				L	rrnn	nnnn	חתות
+1921126	1Q8	Isaiah	30	14	XFP[	XFP	XFP			qal	infc	NA		NA	verb				WL	rrr	nnn	חשף
+1926040	1Q8	Isaiah	60	14	CXX[	CXWX	CXWX			qal	infc	NA		NA	verb					nnnn	nnnn	שחוח
+1922858	1Q8	Isaiah	45	1	RDD[	RD	RD			qal	infc	NA		NA	verb				L	rr	nn	רד
+1922867	1Q8	Isaiah	45	1	PTX[	PTX	PTX			qal	infc	NA		NA	verb				L	nnn	nnn	פתח
+1920045	1Q8	Isaiah	20	1	BW>[	B>	B>			qal	infc	NA		NA	verb					rr	nn	בא
+1920049	1Q8	Isaiah	20	1	CLX[	CLX	CLX			qal	infc	NA		NA	verb				B	rrr	nnn	שלח
+1921465	1Q8	Isaiah	37	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1921474	1Q8	Isaiah	37	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1925431	1Q8	Isaiah	58	5	KPP[	KP	KP			qal	infc	NA		NA	verb				HL	nn	nn	כף
+1925521	1Q8	Isaiah	58	9	CLX[	CLX	CLX			qal	infc	NA		NA	verb					nnn	nnn	שלח
+1918971	1Q8	Isaiah	7	22	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb					rrrr	nnnn	עשות
+1925655	1Q8	Isaiah	59	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע
+1926234	1Q8	Isaiah	61	2	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	rrr	nnn	קרא
+1926689	1Q8	Isaiah	63	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1926061	1Q8	Isaiah	60	15	HJH[	HJWTK	HJWT			qal	infc	NA		NA	verb	K				nnnnn	nnnnn	היותך
+1924232	1Q8	Isaiah	51	10	<BR[	<BR	<BR			qal	infc	NA		NA	verb				L	rrr	nnn	עבר
+1920073	1Q8	Isaiah	20	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1920031	1Q8	Isaiah	19	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1926250	1Q8	Isaiah	61	3	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+1926255	1Q8	Isaiah	61	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1919166	1Q8	Isaiah	10	18	MSS[	MSS	MSS			qal	infc	NA		NA	verb				K	rrr	nnn	מסס
+1920140	1Q8	Isaiah	22	12	XGR[	XGR	XGR			qal	infc	NA		NA	verb				WL	rrr	nnn	חגר
+1923821	1Q8	Isaiah	49	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1925671	1Q8	Isaiah	59	2	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע
+1924965	1Q8	Isaiah	56	1	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+1920380	1Q8	Isaiah	23	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1925139	1Q8	Isaiah	56	9	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	nnn	nnn	אכל
+1920458	1Q8	Isaiah	24	20	QWM[	QWM	QWM			qal	infc	NA		NA	verb					rrr	nnn	קום
+1921067	1Q8	Isaiah	30	12	M>S[	M>SKM	M>S			qal	infc	NA		NA	verb	KM				rrrrr	nnnnn	מאסכם
+1926805	1Q8	Isaiah	64	1	QDX[	QDX	QDX			qal	infc	NA		NA	verb				K	rrr	nnn	קדח
+1924795	1Q8	Isaiah	55	6	HJH[	HJWTW	HJWT			qal	infc	NA		NA	verb	W			B	nnnnn	nnnnn	היותו
+1923737	1Q8	Isaiah	49	6	HJH[	HJWTK	HJWT			qal	infc	NA		NA	verb	K			M	nrrrr	nnnnn	היותך
+1923756	1Q8	Isaiah	49	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+1920836	1Q8	Isaiah	28	19	<BR[	<BRW	<BR			qal	infc	NA		NA	verb	W				rrrr	nnnn	עברו
+1925753	1Q8	Isaiah	59	7	CPK[	CPK	CPK			qal	infc	NA		NA	verb				L	nnn	nnn	שפך
+1925077	1Q8	Isaiah	56	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+1925082	1Q8	Isaiah	56	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+1925156	1Q8	Isaiah	56	10	NBX[	NBX	NBX			qal	infc	NA		NA	verb				L	nnn	nnn	נבח
+1925161	1Q8	Isaiah	56	10	NWM[	NWM	NWM			qal	infc	NA		NA	verb				L	nnn	nnn	נום
+1921241	1Q8	Isaiah	30	25	NPL[	NPL	NPL			qal	infc	NA		NA	verb				B	rrr	nnn	נפל
+1922838	1Q8	Isaiah	44	28	>MR[	>MR	>MR			qal	infc	NA		NA	verb				WL	nnn	nnn	אמר
+1926716	1Q8	Isaiah	63	14	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1924988	1Q8	Isaiah	56	2	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	עשות
+1920341	1Q8	Isaiah	23	1	BW>[	BW>	BW>			qal	infc	NA		NA	verb				M	rrr	nnn	בוא
+1925590	1Q8	Isaiah	58	12	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnn	nnn	שבת
+1924265	1Q8	Isaiah	52	8	CWB[	CB	CB			qal	infc	NA		NA	verb				B	nn	nn	שב
+1928059	1Q10	Psalms	119	57	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1928188	1Q11	Psalms	127	2	QWM[	QWM	QWM			qal	infc	NA		NA	verb					rrr	nnn	קום
+1928190	1Q11	Psalms	127	2	JCB[	CBT	CBT			qal	infc	NA		NA	verb					rrr	nnn	שבת
+1928825	1Q13	Deuteronomy	5	25	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+1928994	1Q13	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1928400	1Q13	Deuteronomy	5	1	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	nnrr	nnnn	עשתם
+1928472	1Q13	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1929013	1Q13	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1929144	1Q13	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1929152	1Q13	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrnn	nnnn	צאתי
+1928753	1Q13	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	שמעכם
+1928667	1Q13	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1928980	1Q13	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1929535	1Q71	Daniel	2	3	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	nnn	nnn	דעת
+1930160	2Q2	Exodus	9	28	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				M	rrrr	nnnn	היות
+1930174	2Q2	Exodus	9	28	<MD[	<MWD	<MWD			qal	infc	NA		NA	verb				L	rrrr	nnnn	עמוד
+1930181	2Q2	Exodus	9	29	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			K	rrrr	nnnn	צאתי
+1931064	2Q3	Exodus	31	16	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1930831	2Q3	Exodus	12	27	NGP[	NWGPW	NWGP			qal	infc	NA		NA	verb	W			B	rrrrr	nnnnn	נוגפו
+1930966	2Q3	Exodus	22	16	NTN[	TTH	TT			qal	infc	NA		NA	verb	H			L	nnn	nnn	תתה
+1931517	2Q6	Numbers	4	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1931550	2Q6	Numbers	4	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1931670	2Q7	Numbers	33	53	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
+1931611	2Q7	Numbers	33	50	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1931786	2Q10	Deuteronomy	1	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1931801	2Q10	Deuteronomy	1	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1931806	2Q10	Deuteronomy	1	9	NF>[	F>T	F>T			qal	infc	NA		NA	verb					rrr	nnn	שאת
+1931886	2Q11	Deuteronomy	17	15	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1931998	2Q12	Deuteronomy	10	11	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1931900	2Q12	Deuteronomy	10	8	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
+1931907	2Q12	Deuteronomy	10	8	<MD[	<MWD	<MWD			qal	infc	NA		NA	verb				WL	nnrr	nnnn	עמוד
+1932013	2Q12	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1932018	2Q12	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1932024	2Q12	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+1932028	2Q12	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
+1932585	2Q13	Jeremiah	47	4	CDD[	CDWD	CDWD			qal	infc	NA		NA	verb				L	rrrr	nnnn	שדוד
+1932187	2Q13	Jeremiah	42	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1932373	2Q13	Jeremiah	44	3	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1932377	2Q13	Jeremiah	44	3	<BD[	<BWD	<BWD			qal	infc	NA		NA	verb				L	rrrn	nnnn	עבוד
+1932655	2Q13	Jeremiah	48	7	BVX[	BVXKH	BVX			qal	infc	NA		NA	verb	KH				rrrrr	nnnnn	בטחכה
+1932334	2Q13	Jeremiah	44	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1932221	2Q13	Jeremiah	43	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrn	nnnn	אמור
+1932446	2Q13	Jeremiah	44	14	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	rrr	nnn	גור
+1932180	2Q13	Jeremiah	42	13	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb					rrrr	nnnn	שמוע
+1933219	2Q14	Psalms	103	11	GBH[	GBWH	GBWH			qal	infc	NA		NA	verb				K	nrrr	nnnn	גבוה
+1933291	2Q15	Job	33	28	<BR[	<BR	<BR			qal	infc	NA		NA	verb				M	nnn	nnn	עבר
+1933394	2Q16	Ruth	2	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1933696	2Q16	Ruth	3	7	CKB[	CKB	CKB			qal	infc	NA		NA	verb				L	rrr	nnn	שכב
+1933579	2Q16	Ruth	2	23	LQV[	LQWV	LQWV			qal	infc	NA		NA	verb				L	nnnn	nnnn	לקוט
+1933581	2Q16	Ruth	2	23	KLH[	KLWT	KLWT			qal	infc	NA		NA	verb					nnrr	nnnn	כלות
+1933641	2Q16	Ruth	3	4	CKB[	CKBW	CKB			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	שכבו
+1933755	2Q16	Ruth	4	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1933759	2Q17	Ruth	3	13	G>L[	G>LK	G>L			qal	infc	NA		NA	verb	K			L	rnnn	nnnn	גאלך
+1933880	3Q1	Ezekiel	16	31	BNH[	BNWTJK	BNWT			qal	infc	NA		NA	verb	JK			B	rnrnrr	nnnnnn	בנותיך
+1934366	4Q1	Genesis	35	22	CKN[	CKN	CKN			qal	infc	NA		NA	verb				B	rrr	nnn	שכן
+1937398	4Q1	Exodus	7	18	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	שתות
+1934787	4Q1	Genesis	36	24	R<H[	R<TW	R<T			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	רעתו
+1935024	4Q1	Genesis	39	13	R>H[	R>WTH	R>WT			qal	infc	NA		NA	verb	H			K	rrrrr	nnnnn	ראותה
+1935102	4Q1	Genesis	39	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1935957	4Q1	Exodus	2	4	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	nnn	nnn	דעת
+1936774	4Q1	Exodus	5	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1934226	4Q1	Genesis	34	19	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1936601	4Q1	Exodus	5	7	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rn	nn	תת
+1936606	4Q1	Exodus	5	7	LBN=[	LBN	LBN			qal	infc	NA		NA	verb				L	nnn	nnn	לבן
+1935044	4Q1	Genesis	39	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1935056	4Q1	Genesis	39	14	CKB[	CKB	CKB			qal	infc	NA		NA	verb				L	nnn	nnn	שכב
+1935967	4Q1	Exodus	2	5	RXY[	RXY	RXY			qal	infc	NA		NA	verb				L	rrr	nnn	רחץ
+1936897	4Q1	Exodus	6	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1936964	4Q1	Exodus	6	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1934915	4Q1	Genesis	37	25	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	rrr	nnn	אכל
+1936642	4Q1	Exodus	5	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1934838	4Q1	Genesis	37	5	FN>[	FN>	FN>			qal	infc	NA		NA	verb					rrr	nnn	שנא
+1936411	4Q1	Exodus	4	27	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	rrrr	nnnn	קראת
+1936219	4Q1	Exodus	3	19	HLK[	HLK	HLK			qal	infc	NA		NA	verb				L	rrr	nnn	הלך
+1937217	4Q1	Exodus	7	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1937340	4Q1	Exodus	7	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1934257	4Q1	Genesis	34	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1935135	4Q1	Genesis	39	19	CM<[	CM<	CM<			qal	infc	NA		NA	verb				K	nnn	nnn	שמע
+1935144	4Q1	Genesis	39	19	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1935874	4Q1	Exodus	1	22	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1937512	4Q1	Exodus	8	22	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1934988	4Q1	Genesis	39	11	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1935493	4Q1	Genesis	48	20	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1935498	4Q1	Genesis	48	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1935067	4Q1	Genesis	39	15	CM<[	CM<W	CM<			qal	infc	NA		NA	verb	W			K	rrrr	nnnn	שמעו
+1936721	4Q1	Exodus	5	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1936731	4Q1	Exodus	5	13	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				B	nnnn	nnnn	היות
+1934172	4Q1	Genesis	27	42	HRG[	HRGK	HRG			qal	infc	NA		NA	verb	K			L	rrrr	nnnn	הרגך
+1934293	4Q1	Genesis	35	17	JLD[	LDTH	LDT			qal	infc	NA		NA	verb	H			B	rrrr	nnnn	לדתה
+1937224	4Q1	Exodus	7	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1935006	4Q1	Genesis	39	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1935089	4Q1	Genesis	39	16	BW>[	BW>	BW>			qal	infc	NA		NA	verb					nnn	nnn	בוא
+1934605	4Q1	Genesis	36	7	JCB[	CBT	CBT			qal	infc	NA		NA	verb				M	rrn	nnn	שבת
+1934613	4Q1	Genesis	36	7	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
+1936941	4Q1	Exodus	6	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+1936596	4Q1	Exodus	5	6	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1936678	4Q1	Exodus	5	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1936748	4Q1	Exodus	5	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1936754	4Q1	Exodus	5	14	LBN=[	LBN	LBN			qal	infc	NA		NA	verb				L	rrr	nnn	לבן
+1934310	4Q1	Genesis	35	18	JY>[	Y>T	Y>T			qal	infc	NA		NA	verb				B	rrr	nnn	צאת
+1938447	4Q2	Genesis	4	2	JLD[	LDT	LDT			qal	infc	NA		NA	verb				L	nnn	nnn	לדת
+1938344	4Q2	Genesis	2	15	<BD[	<BDH	<BD			qal	infc	NA		NA	verb	H			L	nnnr	nnnn	עבדה
+1938347	4Q2	Genesis	2	15	CMR[	CMRH	CMR			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	שמרה
+1938425	4Q2	Genesis	2	19	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1938167	4Q2	Genesis	1	22	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrn	nnn	אמר
+1938614	4Q2	Genesis	4	11	LQX[	QXT	QXT			qal	infc	NA		NA	verb				L	nnn	nnn	קחת
+1938075	4Q2	Genesis	1	18	MCL[	MCL	MCL			qal	infc	NA		NA	verb				WL	nnn	nnn	משל
+1938357	4Q2	Genesis	2	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1938380	4Q2	Genesis	2	17	>KL[	>KLK	>KL			qal	infc	NA		NA	verb	K				nnnn	nnnn	אכלך
+1938559	4Q2	Genesis	4	8	HJH[	HJWTM	HJWT			qal	infc	NA		NA	verb	M			B	nnnnn	nnnnn	היותם
+1938391	4Q2	Genesis	2	18	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb					rrrr	nnnn	היות
+1938953	4Q3	Genesis	41	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1939077	4Q4	Genesis	1	22	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1940261	4Q6	Genesis	48	10	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	nnnn	nnnn	ראות
+1940200	4Q6	Genesis	48	7	BW>[	BW>J	BW>			qal	infc	NA		NA	verb	J			B	rnnn	nnnn	בואי
+1940216	4Q6	Genesis	48	7	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+1940167	4Q6	Genesis	48	5	BW>[	BW>J	BW>			qal	infc	NA		NA	verb	J				nnnn	nnnn	בואי
+1940057	4Q6	Genesis	34	1	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	nnrr	nnnn	ראות
+1940665	4Q7	Genesis	1	22	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1940573	4Q7	Genesis	1	18	MCL[	MCWL	MCWL			qal	infc	NA		NA	verb				WL	nnnn	nnnn	משול
+1940742	4Q8b	Genesis	2	17	>KL[	>KLK	>KL			qal	infc	NA		NA	verb	K				rrrr	nnnn	אכלך
+1940753	4Q8b	Genesis	2	18	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb					rrrr	nnnn	היות
+1941320	4Q9	Genesis	42	22	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1941326	4Q9	Genesis	42	22	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1941657	4Q9	Genesis	45	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1940788	4Q9	Genesis	41	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1940792	4Q9	Genesis	41	15	PTR[	PTR	PTR			qal	infc	NA		NA	verb				L	nnr	nnn	פתר
+1941194	4Q9	Genesis	42	15	BW>[	B>	B>			qal	infc	NA		NA	verb				B	nn	nn	בא
+1941020	4Q9	Genesis	41	32	<FH[	<FTW	<FT			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	עשתו
+1940801	4Q9	Genesis	41	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1941696	4Q9	Genesis	45	27	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
+1941386	4Q9	Genesis	43	2	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	rrr	nnn	אכל
+1941515	4Q9	Genesis	45	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+1941439	4Q9	Genesis	43	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1941932	4Q10	Genesis	2	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1945479	4Q11	Exodus	40	15	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+1943486	4Q11	Exodus	16	3	MWT[	MWTNW	MWT			qal	infc	NA		NA	verb	NW				nnnnn	nnnnn	מותנו
+1943494	4Q11	Exodus	16	3	JCB[	CBTNW	CBT			qal	infc	NA		NA	verb	NW			B	rrrrr	nnnnn	שבתנו
+1943500	4Q11	Exodus	16	3	>KL[	>KLNW	>KL			qal	infc	NA		NA	verb	NW			B	rrrrr	nnnnn	אכלנו
+1943602	4Q11	Exodus	16	7	CM<[	CM<W	CM<			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	שמעו
+1942862	4Q11	Exodus	11	9	RBH[	RBWT	RBWT			qal	infc	NA		NA	verb					rrrr	nnnn	רבות
+1942642	4Q11	Exodus	10	1	CJT[	CTJ	CT			qal	infc	NA		NA	verb	J				rrr	nnn	שתי
+1942725	4Q11	Exodus	10	5	R>H[	R>T	R>T			qal	infc	NA		NA	verb				L	rrr	nnn	ראת
+1943984	4Q11	Exodus	17	1	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	nnrn	nnnn	שתות
+1942515	4Q11	Exodus	9	28	HJH[	HJT	HJT			qal	infc	NA		NA	verb				M	rrr	nnn	הית
+1942527	4Q11	Exodus	9	28	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	rrr	nnn	עמד
+1943829	4Q11	Exodus	16	28	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1942933	4Q11	Exodus	12	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1942534	4Q11	Exodus	9	29	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			K	nnnn	nnnn	צאתי
+1945307	4Q11	Exodus	28	35	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			B	rrr	nnn	באו
+1945316	4Q11	Exodus	28	35	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			WB	rrrr	nnnn	צאתו
+1944229	4Q11	Exodus	18	18	<FH[	<FHW	<F			qal	infc	NA		NA	verb	HW				rrrr	nnnn	עשהו
+1945143	4Q11	Exodus	27	7	NF>[	F>T	F>T			qal	infc	NA		NA	verb				B	rnn	nnn	שאת
+1942275	4Q11	Exodus	3	19	HLK[	HLK	HLK			qal	infc	NA		NA	verb				L	rrr	nnn	הלך
+1944802	4Q11	Exodus	25	14	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
+1944504	4Q11	Exodus	23	5	<ZB[	<ZB	<ZB			qal	infc	NA		NA	verb				M	nnn	nnn	עזב
+1942958	4Q11	Exodus	12	4	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	היות
+1942598	4Q11	Exodus	9	34	XV>[	XV>	XV>			qal	infc	NA		NA	verb				L	rrr	nnn	חטא
+1944108	4Q11	Exodus	17	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1944360	4Q11	Exodus	18	23	<MD[	<MD	<MD			qal	infc	NA		NA	verb					nnn	nnn	עמד
+1942909	4Q11	Exodus	12	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1942220	4Q11	Exodus	3	4	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1942829	4Q11	Exodus	11	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1944437	4Q11	Exodus	20	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+1944411	4Q11	Exodus	19	24	<LH[	<LT	<LT			qal	infc	NA		NA	verb				L	rrr	nnn	עלת
+1943814	4Q11	Exodus	16	27	LQV[	LQV	LQV			qal	infc	NA		NA	verb				L	rrr	nnn	לקט
+1943937	4Q11	Exodus	16	35	BW>[	B>M	B>			qal	infc	NA		NA	verb	M				rrr	nnn	באם
+1943946	4Q11	Exodus	16	35	BW>[	B>M	B>			qal	infc	NA		NA	verb	M				nnn	nnn	באם
+1945766	4Q12a	Genesis	50	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1946008	4Q13	Exodus	2	4	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rnn	nnn	דעת
+1946842	4Q13	Exodus	5	7	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1946847	4Q13	Exodus	5	7	LBN=[	LBWN	LBWN			qal	infc	NA		NA	verb				L	nnnn	nnnn	לבון
+1946018	4Q13	Exodus	2	5	RXY[	RXWY	RXWY			qal	infc	NA		NA	verb				L	nnnn	nnnn	רחוץ
+1946886	4Q13	Exodus	5	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1946548	4Q13	Exodus	3	19	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+1946251	4Q13	Exodus	2	14	HRG[	HWRGNJ	HWRG			qal	infc	NA		NA	verb	NJ			HL	nnnnnr	nnnnnn	הורגני
+1946352	4Q13	Exodus	2	18	BW>[	BW>	BW>			qal	infc	NA		NA	verb					rrr	nnn	בוא
+1946969	4Q13	Exodus	5	13	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1946979	4Q13	Exodus	5	13	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				B	nnnr	nnnn	היות
+1946456	4Q13	Exodus	3	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1946284	4Q13	Exodus	2	15	HRG[	HRWG	HRWG			qal	infc	NA		NA	verb				L	nnnn	nnnn	הרוג
+1946837	4Q13	Exodus	5	6	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1946922	4Q13	Exodus	5	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1946996	4Q13	Exodus	5	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1947002	4Q13	Exodus	5	14	LBN=[	LBN	LBN			qal	infc	NA		NA	verb				L	rrr	nnn	לבן
+1950698	4Q14	Exodus	18	12	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	rrr	nnn	אכל
+1950182	4Q14	Exodus	17	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1947202	4Q14	Exodus	7	18	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	שתות
+1947868	4Q14	Exodus	9	11	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	rrr	nnn	עמד
+1949016	4Q14	Exodus	11	9	RBH[	RBWT	RBWT			qal	infc	NA		NA	verb					nnnn	nnnn	רבות
+1948427	4Q14	Exodus	10	1	CJT[	CTJ	CT			qal	infc	NA		NA	verb	J				rrr	nnn	שתי
+1948514	4Q14	Exodus	10	5	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrn	nnnn	ראות
+1950115	4Q14	Exodus	17	1	CTH[	CTT	CTT			qal	infc	NA		NA	verb				L	rrr	nnn	שתת
+1948263	4Q14	Exodus	9	28	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				M	rrnn	nnnn	היות
+1948274	4Q14	Exodus	9	28	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	rrr	nnn	עמד
+1949546	4Q14	Exodus	13	19	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1949496	4Q14	Exodus	12	48	<FH[	<FTW	<FT			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	עשתו
+1948563	4Q14	Exodus	10	6	HJH[	HJWTM	HJWT			qal	infc	NA		NA	verb	M				rrrrr	nnnnn	היותם
+1948281	4Q14	Exodus	9	29	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			K	rrrr	nnnn	צאתי
+1950011	4Q14	Exodus	15	17	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			L	rrrr	nnnn	שבתך
+1947366	4Q14	Exodus	7	24	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	שתות
+1947371	4Q14	Exodus	7	24	CTH[	CTT	CTT			qal	infc	NA		NA	verb				L	rrr	nnn	שתת
+1949832	4Q14	Exodus	14	11	MWT[	MWT	MWT			qal	infc	NA		NA	verb				L	rrn	nnn	מות
+1947818	4Q14	Exodus	8	18	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb					rrrr	nnnn	היות
+1947837	4Q14	Exodus	8	22	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1948390	4Q14	Exodus	9	34	XV>[	XV>	XV>			qal	infc	NA		NA	verb				L	nnr	nnn	חטא
+1949855	4Q14	Exodus	14	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnr	nnn	אמר
+1949865	4Q14	Exodus	14	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb					rrr	nnn	עבד
+1949869	4Q14	Exodus	14	12	MWT[	MTNW	MT			qal	infc	NA		NA	verb	NW			M	rrrr	nnnn	מתנו
+1947147	4Q14	Exodus	5	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1947157	4Q14	Exodus	5	13	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				B	rrrr	nnnn	היות
+1950271	4Q14	Exodus	17	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1947309	4Q14	Exodus	7	21	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	שתות
+1950572	4Q14	Exodus	18	7	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראת
+1948843	4Q14	Exodus	10	16	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	rrr	nnn	קרא
+1949594	4Q14	Exodus	13	21	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1949619	4Q14	Exodus	14	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1949719	4Q14	Exodus	14	5	<BD[	<BDNW	<BD			qal	infc	NA		NA	verb	NW			M	rrrrr	nnnnn	עבדנו
+1950391	4Q14	Exodus	17	12	BW>[	BW>	BW>			qal	infc	NA		NA	verb					nnn	nnn	בוא
+1947102	4Q14	Exodus	5	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1950883	4Q15	Exodus	15	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1950963	4Q16	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1951610	4Q17	Exodus	40	15	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+1951640	4Q17	Exodus	40	17	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			L	nnnn	nnnn	צאתם
+1951392	4Q17	Exodus	39	21	HJH[	HJT	HJT			qal	infc	NA		NA	verb				L	rrr	nnn	הית
+1952136	4Q18	Exodus	14	27	PNH[	PNWT	PNWT			qal	infc	NA		NA	verb				L	rrnn	nnnn	פנות
+1952153	4Q19	Exodus	6	4	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1956184	4Q22	Exodus	18	12	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול
+1955664	4Q22	Exodus	17	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1961553	4Q22	Exodus	37	14	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	nnn	nnn	שאת
+1952799	4Q22	Exodus	7	18	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	שתות
+1952822	4Q22	Exodus	7	18	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1952882	4Q22	Exodus	7	18	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	nrrr	nnnn	שתות
+1953535	4Q22	Exodus	9	11	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	rrr	nnn	עמד
+1955413	4Q22	Exodus	16	7	CM<[	CM<W	CM<			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	שמעו
+1960540	4Q22	Exodus	32	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1960545	4Q22	Exodus	32	12	HRG[	HRWG	HRWG			qal	infc	NA		NA	verb				L	rrrn	nnnn	הרוג
+1960152	4Q22	Exodus	31	4	XCB[	XCB	XCB			qal	infc	NA		NA	verb				L	rrr	nnn	חשב
+1960155	4Q22	Exodus	31	4	<FH[	<FW	<FW			qal	infc	NA		NA	verb				L	nnn	nnn	עשו
+1960015	4Q22	Exodus	30	31	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1961377	4Q22	Exodus	35	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nrrr	nnnn	עשות
+1954379	4Q22	Exodus	11	9	RBH[	RBWT	RBWT			qal	infc	NA		NA	verb					nnnn	nnnn	רבות
+1955245	4Q22	Exodus	15	24	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrn	nnnn	אמור
+1956487	4Q22	Exodus	18	25	NF>[	F>T	F>T			qal	infc	NA		NA	verb					rrr	nnn	שאת
+1956555	4Q22	Exodus	18	25	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1956591	4Q22	Exodus	18	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1953813	4Q22	Exodus	10	1	CJT[	CTJ	CT			qal	infc	NA		NA	verb	J				rrr	nnn	שתי
+1960925	4Q22	Exodus	33	16	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	לכתך
+1953951	4Q22	Exodus	10	5	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrnn	nnnn	ראות
+1959912	4Q22	Exodus	30	15	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1956888	4Q22	Exodus	19	17	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראת
+1953102	4Q22	Exodus	8	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1961003	4Q22	Exodus	33	20	R>H[	R>T	R>T			qal	infc	NA		NA	verb				L	rrr	nnn	ראת
+1955596	4Q22	Exodus	17	1	CTH[	CTT	CTT			qal	infc	NA		NA	verb				L	rrr	nnn	שתת
+1957134	4Q22	Exodus	21	14	HRG[	HRGW	HRG			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	הרגו
+1957142	4Q22	Exodus	21	14	MWT[	MWT	MWT			qal	infc	NA		NA	verb				L	rrr	nnn	מות
+1959114	4Q22	Exodus	28	30	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			B	rrr	nnn	באו
+1956202	4Q22	Exodus	18	13	CPV[	CPWV	CPWV			qal	infc	NA		NA	verb				L	rrrn	nnnn	שפוט
+1961570	4Q22	Exodus	37	15	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
+1953460	4Q22	Exodus	9	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1960829	4Q22	Exodus	32	29	NTN[	TT	TT			qal	infc	NA		NA	verb				WL	rr	nn	תת
+1955429	4Q22	Exodus	16	8	NTN[	TT	TT			qal	infc	NA		NA	verb				B	rr	nn	תת
+1955436	4Q22	Exodus	16	8	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	rrr	nnn	אכל
+1955442	4Q22	Exodus	16	8	FB<[	FB<	FB<			qal	infc	NA		NA	verb				L	rrr	nnn	שבע
+1956805	4Q22	Exodus	19	13	MCK[	MCK	MCK			qal	infc	NA		NA	verb				B	rrr	nnn	משך
+1960118	4Q22	Exodus	31	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
+1960176	4Q22	Exodus	31	5	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1960271	4Q22	Exodus	31	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1956636	4Q22	Exodus	19	1	JY>[	Y>T	Y>T			qal	infc	NA		NA	verb				L	rrr	nnn	צאת
+1954301	4Q22	Exodus	10	26	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrr	nnn	עבד
+1954314	4Q22	Exodus	10	26	BW>[	B>NW	B>			qal	infc	NA		NA	verb	NW				rrrr	nnnn	באנו
+1959364	4Q22	Exodus	28	43	BW>[	BW>M	BW>			qal	infc	NA		NA	verb	M			B	rnnn	nnnn	בואם
+1959370	4Q22	Exodus	28	43	NGC[	GCTM	GCT			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	גשתם
+1957032	4Q22	Exodus	20	19	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+1954007	4Q22	Exodus	10	6	HJH[	HJWTM	HJWT			qal	infc	NA		NA	verb	M				rrrrr	nnnnn	היותם
+1957458	4Q22	Exodus	22	16	NTN[	TTH	TT			qal	infc	NA		NA	verb	H			L	rrr	nnn	תתה
+1959205	4Q22	Exodus	28	35	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			B	rrr	nnn	באו
+1959214	4Q22	Exodus	28	35	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			WB	rrrr	nnnn	צאתו
+1956324	4Q22	Exodus	18	18	<FH[	<FHW	<F			qal	infc	NA		NA	verb	HW				rrrr	nnnn	עשהו
+1953833	4Q22	Exodus	10	2	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1953888	4Q22	Exodus	10	2	HJH[	HJWTM	HJWT			qal	infc	NA	m	NA	verb	M				rrrrr	nnnnn	היותם
+1959845	4Q22	Exodus	30	12	PQD[	PQD	PQD			qal	infc	NA		NA	verb				B	rrr	nnn	פקד
+1959853	4Q22	Exodus	30	12	PQD[	PQD	PQD			qal	infc	NA		NA	verb				B	rrr	nnn	פקד
+1952582	4Q22	Exodus	7	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1957551	4Q22	Exodus	22	25	BW>[	B>	B>			qal	infc	NA		NA	verb					nr	nn	בא
+1952740	4Q22	Exodus	7	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1961029	4Q22	Exodus	33	22	<BR[	<BR	<BR			qal	infc	NA		NA	verb				B	rrr	nnn	עבר
+1961042	4Q22	Exodus	33	22	<BR[	<BRJ	<BR			qal	infc	NA		NA	verb	J				rrrr	nnnn	עברי
+1960617	4Q22	Exodus	32	14	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrn	nnnn	עשות
+1952415	4Q22	Exodus	6	29	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1953336	4Q22	Exodus	8	22	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1960687	4Q22	Exodus	32	18	<NH==[	<NWT	<NWT			qal	infc	NA		NA	verb					nnnr	nnnn	ענות
+1960692	4Q22	Exodus	32	18	<NH==[	<NWT	<NWT			qal	infc	NA		NA	verb					rrrr	nnnn	ענות
+1960406	4Q22	Exodus	32	6	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrn	nnnn	אכול
+1959959	4Q22	Exodus	30	17	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1959055	4Q22	Exodus	28	28	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+1958152	4Q22	Exodus	25	27	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
+1956902	4Q22	Exodus	19	23	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb				L	rrrn	nnnn	עלות
+1956911	4Q22	Exodus	19	23	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1956266	4Q22	Exodus	18	15	DRC[	DRC	DRC			qal	infc	NA		NA	verb				L	rrr	nnn	דרש
+1955755	4Q22	Exodus	17	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1956451	4Q22	Exodus	18	23	<MD[	<MD	<MD			qal	infc	NA		NA	verb					rrr	nnn	עמד
+1954426	4Q22	Exodus	12	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1952530	4Q22	Exodus	7	5	NVH[	NVTJ	NVT			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	נטתי
+1956058	4Q22	Exodus	18	7	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	rnrr	nnnn	קראת
+1952589	4Q22	Exodus	7	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1957374	4Q22	Exodus	22	6	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1954346	4Q22	Exodus	11	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1954965	4Q22	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1960420	4Q22	Exodus	32	7	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rnnn	nnnn	אמור
+1956967	4Q22	Exodus	20	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1953258	4Q22	Exodus	8	19	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb					rrrr	nnnn	היות
+1959084	4Q22	Exodus	28	29	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			B	rrr	nnn	באו
+1956940	4Q22	Exodus	19	24	<LH[	<LT	<LT			qal	infc	NA		NA	verb				L	rrr	nnn	עלת
+1955107	4Q22	Exodus	14	5	<BD[	<BWDNW	<BWD			qal	infc	NA		NA	verb	NW			M	nnnnrr	nnnnnn	עבודנו
+1955874	4Q22	Exodus	17	12	BW>[	B>	B>			qal	infc	NA		NA	verb					rr	nn	בא
+1955225	4Q22	Exodus	15	23	CTH[	CTT	CTT			qal	infc	NA		NA	verb				L	rrr	nnn	שתת
+1955551	4Q22	Exodus	16	35	BW>[	B>M	B>			qal	infc	NA		NA	verb	M				rrr	nnn	באם
+1955560	4Q22	Exodus	16	35	BW>[	B>M	B>			qal	infc	NA		NA	verb	M				rrr	nnn	באם
+1956770	4Q22	Exodus	19	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1956773	4Q22	Exodus	19	12	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb					rnnn	nnnn	עלות
+1956777	4Q22	Exodus	19	12	NG<[	NG<	NG<			qal	infc	NA		NA	verb				W	nnr	nnn	נגע
+1956853	4Q22	Exodus	19	16	HJH[	HJT	HJT			qal	infc	NA		NA	verb				B	rrr	nnn	הית
+1959969	4Q22	Exodus	30	18	RXY[	RXYH	RXY			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רחצה
+1965246	4Q23	Numbers	11	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1964664	4Q23	Numbers	8	11	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	nnn	nnn	עבד
+1963741	4Q23	Numbers	3	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1965045	4Q23	Numbers	10	21	BW>[	B>M	B>			qal	infc	NA		NA	verb	M				rrr	nnn	באם
+1965660	4Q23	Numbers	32	8	CLX[	CLXJ	CLX			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	שלחי
+1965666	4Q23	Numbers	32	8	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	nnnr	nnnn	ראות
+1963998	4Q23	Numbers	4	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1964054	4Q23	Numbers	4	5	NS<[	NS<	NS<			qal	infc	NA		NA	verb				B	nnn	nnn	נסע
+1962793	4Q23	Leviticus	18	18	YRR=[	YRR	YRR			qal	infc	NA		NA	verb				L	rrr	nnn	צרר
+1964404	4Q23	Numbers	5	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר
+1962952	4Q23	Leviticus	26	26	CBR[	CBRJ	CBR			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	שברי
+1964479	4Q23	Numbers	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1962433	4Q23	Leviticus	16	17	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			B	rrr	nnn	באו
+1962439	4Q23	Leviticus	16	17	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W				nnnn	nnnn	צאתו
+1964760	4Q23	Numbers	9	4	<FH[	<FT	<FT			qal	infc	NA		NA	verb				L	rrr	nnn	עשת
+1966419	4Q23	Numbers	33	53	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
+1965848	4Q23	Numbers	32	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1963905	4Q23	Numbers	3	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1965183	4Q23	Numbers	11	18	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1965770	4Q23	Numbers	32	13	TMM[	TM	TM			qal	infc	NA		NA	verb					rr	nn	תם
+1964496	4Q23	Numbers	5	6	M<L[	M<L	M<L			qal	infc	NA		NA	verb				L	rrr	nnn	מעל
+1965689	4Q23	Numbers	32	9	BW>[	B>	B>			qal	infc	NA		NA	verb					nn	nn	בא
+1963460	4Q23	Numbers	1	1	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			L	nnnn	nnnn	צאתם
+1963465	4Q23	Numbers	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1961870	4Q23	Leviticus	14	33	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1963842	4Q23	Numbers	3	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+1964354	4Q23	Numbers	4	47	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrr	nnn	עבד
+1965468	4Q23	Numbers	22	5	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	rrr	nnn	קרא
+1965471	4Q23	Numbers	22	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1964874	4Q23	Numbers	9	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1963774	4Q23	Numbers	3	7	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrr	nnn	עבד
+1965709	4Q23	Numbers	32	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1964031	4Q23	Numbers	4	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rnnn	nnnn	עשות
+1963409	4Q23	Leviticus	27	21	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	צאתו
+1965791	4Q23	Numbers	32	14	SPH[	SPWT	SPWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ספות
+1964720	4Q23	Numbers	8	22	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrr	nnn	עבד
+1962823	4Q23	Leviticus	18	20	VM>[	VM>H	VM>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	טמאה
+1962349	4Q23	Leviticus	15	23	NG<[	NG<W	NG<			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	נגעו
+1962944	4Q23	Leviticus	24	12	PRC[	PRC	PRC			qal	infc	NA		NA	verb				L	rrr	nnn	פרש
+1964808	4Q23	Numbers	9	6	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1964881	4Q23	Numbers	9	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+1963793	4Q23	Numbers	3	8	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrr	nnn	עבד
+1965968	4Q23	Numbers	32	31	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1969039	4Q24	Leviticus	25	29	TMM[	TM	TM			qal	infc	NA		NA	verb					rr	nn	תם
+1968828	4Q24	Leviticus	24	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1967663	4Q24	Leviticus	22	8	VM>[	VM>H	VM>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	טמאה
+1968604	4Q24	Leviticus	24	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1968541	4Q24	Leviticus	23	24	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1967802	4Q24	Leviticus	22	16	>KL[	>KLM	>KL			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	אכלם
+1969073	4Q24	Leviticus	25	46	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
+1968106	4Q24	Leviticus	22	33	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrn	nnnn	היות
+1967816	4Q24	Leviticus	22	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1967505	4Q24	Leviticus	22	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1968119	4Q24	Leviticus	23	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1968239	4Q24	Leviticus	23	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1968861	4Q24	Leviticus	24	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1968009	4Q24	Leviticus	22	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+1968502	4Q24	Leviticus	23	22	QYR=[	QYRKM	QYR			qal	infc	NA		NA	verb	KM			WB	rrrrr	nnnnn	קצרכם
+1968511	4Q24	Leviticus	23	22	QYR=[	QYRK	QYR			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	קצרך
+1967360	4Q24	Leviticus	21	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1968816	4Q24	Leviticus	24	12	PRC[	PRC	PRC			qal	infc	NA		NA	verb				L	rrr	nnn	פרש
+1968888	4Q24	Leviticus	24	16	NQB[	NQBW	NQB			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	נקבו
+1968534	4Q24	Leviticus	23	23	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1969406	4Q25	Leviticus	4	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
+1969242	4Q25	Leviticus	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1969686	4Q25	Leviticus	4	27	<FH[	<FTH	<FT			qal	infc	NA		NA	verb	H			B	rrrr	nnnn	עשתה
+1969399	4Q25	Leviticus	4	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1970273	4Q26	Leviticus	17	9	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1969934	4Q26	Leviticus	14	35	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1970078	4Q26	Leviticus	17	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1969957	4Q26	Leviticus	14	36	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1969976	4Q26	Leviticus	14	36	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1969901	4Q26	Leviticus	14	33	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1970117	4Q26	Leviticus	17	4	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1970044	4Q26	Leviticus	15	23	NG<[	NG<W	NG<			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	נגעו
+1970763	4Q26a	Leviticus	21	10	LBC[	LBC	LBC			qal	infc	NA		NA	verb				L	rrr	nnn	לבש
+1971019	4Q26a	Leviticus	22	16	>KL[	>KLM	>KL			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	אכלם
+1971033	4Q26a	Leviticus	22	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1970734	4Q26a	Leviticus	21	9	ZNH[	ZNWT	ZNWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	זנות
+1970573	4Q26a	Leviticus	20	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrn	nnn	אמר
+1971138	4Q26b	Leviticus	7	23	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1971131	4Q26b	Leviticus	7	22	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1971351	4Q26c	Leviticus	26	35	JCB[	CBTKM	CBT			qal	infc	NA		NA	verb	KM			B	nnnrr	nnnnn	שבתכם
+1977618	4Q27	Numbers	35	12	<MD[	<WMDW	<WMD			qal	infc	NA		NA	verb	W				rrrrr	nnnnn	עומדו
+1971802	4Q27	Numbers	13	17	TWR[	TWR	TWR			qal	infc	NA		NA	verb				L	rrr	nnn	תור
+1972379	4Q27	Numbers	17	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrn	nnnn	אמור
+1972922	4Q27	Numbers	20	21	NTN[	NTWN	NTWN			qal	infc	NA		NA	verb					nnrr	nnnn	נתון
+1972925	4Q27	Numbers	20	21	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb					rrrr	nnnn	עבור
+1976562	4Q27	Numbers	32	7	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				M	rrrr	nnnn	עבור
+1974480	4Q27	Numbers	26	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1973159	4Q27	Numbers	21	13	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1978070	4Q27	Numbers	36	6	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1973226	4Q27	Numbers	21	21	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
+1973239	4Q27	Numbers	21	21	NTN[	TT	TT			qal	infc	NA		NA	verb					rr	nn	תת
+1975751	4Q27	Numbers	30	6	CM<[	CWM<W	CWM<			qal	infc	NA		NA	verb	W				rrrrr	nnnnn	שומעו
+1973496	4Q27	Numbers	22	15	CLX[	CLWX	CLWX			qal	infc	NA		NA	verb					rrrr	nnnn	שלוח
+1977972	4Q27	Numbers	36	2	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1977759	4Q27	Numbers	35	21	PG<[	PWG<W	PWG<			qal	infc	NA		NA	verb	W			B	nnnnn	nnnnn	פוגעו
+1975716	4Q27	Numbers	30	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1972409	4Q27	Numbers	18	25	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrnn	nnnn	אמור
+1972867	4Q27	Numbers	20	18	QR>=[	QR>TKH	QR>T			qal	infc	NA		NA	verb	KH			L	rrrrrr	nnnnnn	קראתכה
+1974373	4Q27	Numbers	25	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1974379	4Q27	Numbers	25	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1976575	4Q27	Numbers	32	8	CLX[	CWLXJ	CWLX			qal	infc	NA		NA	verb	J			B	rrrnn	nnnnn	שולחי
+1976581	4Q27	Numbers	32	8	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1973871	4Q27	Numbers	23	3	QR>=[	QR>TJ	QR>T			qal	infc	NA		NA	verb	J			L	rrrrr	nnnnn	קראתי
+1975157	4Q27	Numbers	27	6	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1973616	4Q27	Numbers	22	20	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא
+1975844	4Q27	Numbers	30	15	CM<[	CWM<W	CWM<			qal	infc	NA		NA	verb	W				rrrrr	nnnnn	שומעו
+1975912	4Q27	Numbers	31	3	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1975924	4Q27	Numbers	31	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1972577	4Q27	Numbers	19	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1975091	4Q27	Numbers	27	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1975735	4Q27	Numbers	30	3	>SR[	>SWR	>SWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אסור
+1976847	4Q27	Numbers	32	25	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1973522	4Q27	Numbers	22	16	HLK[	HLWK	HLWK			qal	infc	NA		NA	verb				M	nnnn	nnnn	הלוך
+1976629	4Q27	Numbers	32	13	TMM[	TWM	TWM			qal	infc	NA		NA	verb					rrr	nnn	תום
+1972420	4Q27	Numbers	18	26	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1972963	4Q27	Numbers	20	23	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1974439	4Q27	Numbers	26	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1976604	4Q27	Numbers	32	9	BW>[	BW>	BW>			qal	infc	NA		NA	verb					rrr	nnn	בוא
+1973748	4Q27	Numbers	22	37	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	rrrr	nnnn	קרוא
+1973471	4Q27	Numbers	22	13	NTN[	TTNJ	TT			qal	infc	NA		NA	verb	NJ			L	nnnn	nnnn	תתני
+1973473	4Q27	Numbers	22	13	HLK[	HLWK	HLWK			qal	infc	NA		NA	verb				L	nnrr	nnnn	הלוך
+1975796	4Q27	Numbers	30	8	CM<[	CWM<W	CWM<			qal	infc	NA		NA	verb	W				rrrrr	nnnnn	שומעו
+1975853	4Q27	Numbers	30	16	CM<[	CWM<W	CWM<			qal	infc	NA		NA	verb	W				nnnnn	nnnnn	שומעו
+1977679	4Q27	Numbers	35	15	NWS[	NWS	NWS			qal	infc	NA		NA	verb				L	rrr	nnn	נוס
+1977314	4Q27	Numbers	33	50	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
+1971784	4Q27	Numbers	13	16	TWR[	TWR	TWR			qal	infc	NA		NA	verb				L	rrr	nnn	תור
+1977713	4Q27	Numbers	35	19	PG<[	PWG<W	PWG<			qal	infc	NA		NA	verb	W			B	rrrrr	nnnnn	פוגעו
+1978036	4Q27	Numbers	36	4	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1977788	4Q27	Numbers	35	23	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb					nnnn	nnnn	ראות
+1973267	4Q27	Numbers	22	5	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	rrnn	nnnn	קרוא
+1973270	4Q27	Numbers	22	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnr	nnnn	אמור
+1972587	4Q27	Numbers	19	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1977516	4Q27	Numbers	35	3	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
+1972098	4Q27	Numbers	16	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1972905	4Q27	Numbers	20	20	QR>[	QR>TKH	QR>T			qal	infc	NA		NA	verb	KH			L	rrnnnr	nnnnnn	קראתכה
+1972910	4Q27	Numbers	20	20	QR>=[	QR>TW	QR>T			qal	infc	NA		NA	verb	W			L	rrrrr	nnnnn	קראתו
+1972187	4Q27	Numbers	16	9	<BD[	<BWD	<BWD			qal	infc	NA		NA	verb				L	rrrr	nnnn	עבוד
+1972194	4Q27	Numbers	16	9	<MD[	<MWD	<MWD			qal	infc	NA		NA	verb				WL	rrrr	nnnn	עמוד
+1976650	4Q27	Numbers	32	14	SPH[	SPWT	SPWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ספות
+1974603	4Q27	Numbers	26	10	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				B	rrrr	nnnn	אכול
+1973739	4Q27	Numbers	22	34	QR>=[	QR>TJ	QR>T			qal	infc	NA		NA	verb	J			L	nnnnn	nnnnn	קראתי
+1974104	4Q27	Numbers	24	1	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראת
+1975185	4Q27	Numbers	27	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1973567	4Q27	Numbers	22	18	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				L	rrnn	nnnn	עבור
+1973573	4Q27	Numbers	22	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1976073	4Q27	Numbers	31	25	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1975888	4Q27	Numbers	31	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1978053	4Q27	Numbers	36	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1973399	4Q27	Numbers	22	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1973489	4Q27	Numbers	22	14	HLK[	HLWK	HLWK			qal	infc	NA		NA	verb					nnnn	nnnn	הלוך
+1975814	4Q27	Numbers	30	9	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb					rrrr	nnnn	שמוע
+1978518	4Q28	Deuteronomy	24	8	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	nnn	nnn	שמר
+1978522	4Q28	Deuteronomy	24	8	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				WL	rrrr	nnnn	עשות
+1978537	4Q28	Deuteronomy	24	8	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1978416	4Q28	Deuteronomy	24	4	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	nnn	nnn	שוב
+1978418	4Q28	Deuteronomy	24	4	LQX[	QXTH	QXT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	קחתה
+1978420	4Q28	Deuteronomy	24	4	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+1979289	4Q29	Deuteronomy	31	30	TMM[	TMM	TM			qal	infc	NA		NA	verb	M				rrr	nnn	תמם
+1978896	4Q29	Deuteronomy	31	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1979017	4Q29	Deuteronomy	31	14	MWT[	MWT	MWT			qal	infc	NA		NA	verb				L	rrr	nnn	מות
+1978677	4Q29	Deuteronomy	30	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1978770	4Q29	Deuteronomy	30	10	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1978875	4Q29	Deuteronomy	30	14	<FH[	<FWTW	<FWT			qal	infc	NA		NA	verb	W			L	nrrrr	nnnnn	עשותו
+1978912	4Q29	Deuteronomy	31	11	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	rrr	nnn	בוא
+1979129	4Q29	Deuteronomy	31	24	KTB[	KTB	KTB			qal	infc	NA		NA	verb				L	nnn	nnn	כתב
+1979139	4Q29	Deuteronomy	31	24	TMM[	TMM	TM			qal	infc	NA		NA	verb	M				nnn	nnn	תמם
+1978967	4Q29	Deuteronomy	31	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1978820	4Q29	Deuteronomy	30	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1979152	4Q29	Deuteronomy	31	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1978985	4Q29	Deuteronomy	31	13	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1979006	4Q29	Deuteronomy	31	13	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1979104	4Q29	Deuteronomy	31	17	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	rrr	nnn	אכל
+1978753	4Q29	Deuteronomy	30	9	FWF[	FWF	FWF			qal	infc	NA		NA	verb				L	rrr	nnn	שוש
+1978843	4Q29	Deuteronomy	30	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1980685	4Q30	Deuteronomy	17	2	<BR[	<BR	<BR			qal	infc	NA		NA	verb				L	rrr	nnn	עבר
+1981016	4Q30	Deuteronomy	27	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1981318	4Q30	Deuteronomy	28	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1981321	4Q30	Deuteronomy	28	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				WL	rrrr	nnnn	עשות
+1981102	4Q30	Deuteronomy	28	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1979466	4Q30	Deuteronomy	4	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rnnn	nnnn	עשות
+1981573	4Q30	Deuteronomy	29	17	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1981575	4Q30	Deuteronomy	29	17	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rrn	nnn	עבד
+1979957	4Q30	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1980818	4Q30	Deuteronomy	17	15	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1980053	4Q30	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1980060	4Q30	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	rrrr	nnnn	עבדו
+1980912	4Q30	Deuteronomy	17	19	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1980917	4Q30	Deuteronomy	17	19	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rnn	nnn	שמר
+1980932	4Q30	Deuteronomy	17	19	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	rrrr	nnnn	עשתם
+1979447	4Q30	Deuteronomy	4	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rnnn	nnnn	עשות
+1981083	4Q30	Deuteronomy	27	26	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rnrr	nnnn	עשות
+1981377	4Q30	Deuteronomy	28	22	>BD[	>BDK	>BD			qal	infc	NA		NA	verb	K				rrrr	nnnn	אבדך
+1980339	4Q30	Deuteronomy	15	4	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1981172	4Q30	Deuteronomy	28	6	BW>[	BW>K	BW>			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	בואך
+1981177	4Q30	Deuteronomy	28	6	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K			B	rnnn	nnnn	צאתך
+1979492	4Q30	Deuteronomy	4	14	<FH[	<FWTKM	<FWT			qal	infc	NA		NA	verb	KM			L	nnnnnn	nnnnnn	עשותכם
+1979503	4Q30	Deuteronomy	4	14	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1981594	4Q30	Deuteronomy	29	18	CM<[	CM<W	CM<			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	שמעו
+1981606	4Q30	Deuteronomy	29	18	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1981616	4Q30	Deuteronomy	29	18	SPH[	SPWT	SPWT			qal	infc	NA		NA	verb					rrrr	nnnn	ספות
+1980849	4Q30	Deuteronomy	17	16	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+1980221	4Q30	Deuteronomy	13	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrn	nnn	אמר
+1980936	4Q30	Deuteronomy	17	20	RWM[	RWM	RWM			qal	infc	NA		NA	verb					nnn	nnn	רום
+1980943	4Q30	Deuteronomy	17	20	SWR[	SWR	SWR			qal	infc	NA		NA	verb					rrr	nnn	סור
+1979923	4Q30	Deuteronomy	10	8	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
+1979976	4Q30	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1980550	4Q30	Deuteronomy	16	9	SPR[	SPR	SPR			qal	infc	NA		NA	verb				L	nnn	nnn	ספר
+1981626	4Q30	Deuteronomy	29	19	SLX[	SLX	SLX			qal	infc	NA		NA	verb					rrr	nnn	סלח
+1980007	4Q30	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1980248	4Q30	Deuteronomy	13	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1979646	4Q30	Deuteronomy	8	2	JD<[	D<T	D<T			qal	infc	NA		NA	verb				WL	nnn	nnn	דעת
+1981691	4Q30	Deuteronomy	31	17	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	nnn	nnn	אכל
+1979797	4Q30	Deuteronomy	9	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrnn	nnnn	עשות
+1981349	4Q30	Deuteronomy	28	20	>BD[	>BDK	>BD			qal	infc	NA		NA	verb	K				rrrr	nnnn	אבדך
+1980491	4Q30	Deuteronomy	16	6	BW>[	BW>	BW>			qal	infc	NA		NA	verb				K	rrr	nnn	בוא
+1980495	4Q30	Deuteronomy	16	6	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K				rrrr	nnnn	צאתך
+1980877	4Q30	Deuteronomy	17	18	JCB[	CBTW	CBT			qal	infc	NA		NA	verb	W			K	rrrr	nnnn	שבתו
+1980995	4Q30	Deuteronomy	26	19	HJH[	HJTK	HJT			qal	infc	NA		NA	verb	K			WL	rrrr	nnnn	היתך
+1982016	4Q31	Deuteronomy	2	32	QR>=[	QR>TNW	QR>T			qal	infc	NA		NA	verb	NW			L	rrrrrr	nnnnnn	קראתנו
+1982476	4Q31	Deuteronomy	4	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1981861	4Q31	Deuteronomy	2	25	NTN[	TT	TT			qal	infc	NA		NA	verb					rr	nn	תת
+1982269	4Q31	Deuteronomy	3	21	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1981983	4Q31	Deuteronomy	2	30	NTN[	TTW	TT			qal	infc	NA		NA	verb	W				nnn	nnn	תתו
+1981897	4Q31	Deuteronomy	2	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1982188	4Q31	Deuteronomy	3	18	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1982199	4Q31	Deuteronomy	3	18	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+1981997	4Q31	Deuteronomy	2	31	NTN[	TT	TT			qal	infc	NA		NA	verb					rr	nn	תת
+1982008	4Q31	Deuteronomy	2	31	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	nrr	nnn	רשת
+1982316	4Q31	Deuteronomy	3	23	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1982711	4Q32	Deuteronomy	8	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1982749	4Q32	Deuteronomy	8	2	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
+1982833	4Q32	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1982838	4Q32	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	יראה
+1982539	4Q32	Deuteronomy	7	13	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1982896	4Q32	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					rrr	nnn	שמר
+1983771	4Q33	Deuteronomy	19	20	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rnnn	nnnn	עשות
+1983897	4Q33	Deuteronomy	20	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrn	nnn	אמר
+1984749	4Q33	Deuteronomy	27	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1984378	4Q33	Deuteronomy	23	23	NDR[	NDR	NDR			qal	infc	NA		NA	verb				L	nnn	nnn	נדר
+1984923	4Q33	Deuteronomy	27	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1984281	4Q33	Deuteronomy	22	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1984567	4Q33	Deuteronomy	25	4	DWC[	DJCW	DJC			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	דישו
+1983436	4Q33	Deuteronomy	9	7	BW>[	B>KM	B>			qal	infc	NA		NA	verb	KM				rrrr	nnnn	באכם
+1984669	4Q33	Deuteronomy	25	8	LQX[	QXTH	QXT			qal	infc	NA		NA	verb	H			L	rrnn	nnnn	קחתה
+1983833	4Q33	Deuteronomy	20	2	QRB[	QRBKM	QRB			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	קרבכם
+1983530	4Q33	Deuteronomy	18	9	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1983049	4Q33	Deuteronomy	4	26	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1984801	4Q33	Deuteronomy	27	3	<BR[	<BRK	<BR			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	עברך
+1984482	4Q33	Deuteronomy	24	4	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+1984484	4Q33	Deuteronomy	24	4	LQX[	QXTH	QXT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	קחתה
+1984486	4Q33	Deuteronomy	24	4	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+1983685	4Q33	Deuteronomy	19	14	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1984705	4Q33	Deuteronomy	26	18	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר
+1984350	4Q33	Deuteronomy	23	21	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+1983158	4Q33	Deuteronomy	8	2	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
+1984829	4Q33	Deuteronomy	27	4	<BR[	<BRKM	<BR			qal	infc	NA		NA	verb	KM			B	nnnnn	nnnnn	עברכם
+1983243	4Q33	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1983248	4Q33	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rnnn	nnnn	יראה
+1983751	4Q33	Deuteronomy	19	19	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1983408	4Q33	Deuteronomy	9	6	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1983465	4Q33	Deuteronomy	17	18	JCB[	CBTW	CBT			qal	infc	NA		NA	verb	W			K	rrrr	nnnn	שבתו
+1984007	4Q33	Deuteronomy	20	9	KLH[	KLT	KLT			qal	infc	NA		NA	verb				K	rrr	nnn	כלת
+1984628	4Q33	Deuteronomy	25	7	LQX[	QXT	QXT			qal	infc	NA		NA	verb				L	nnn	nnn	קחת
+1984712	4Q33	Deuteronomy	26	19	NTN[	TTK	TT			qal	infc	NA		NA	verb	K			WL	rrr	nnn	תתך
+1984729	4Q33	Deuteronomy	26	19	HJH[	HJTK	HJT			qal	infc	NA		NA	verb	K			L	rrrr	nnnn	היתך
+1983339	4Q33	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					nnn	nnn	שמר
+1985557	4Q34	Deuteronomy	28	21	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnr	nnnn	רשתה
+1985286	4Q34	Deuteronomy	25	4	DWC[	DJCW	DJC			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	דישו
+1985158	4Q34	Deuteronomy	24	19	LQX[	QXTW	QXT			qal	infc	NA		NA	verb	W			L	nnnn	nnnn	קחתו
+1985584	4Q34	Deuteronomy	28	22	>BD[	>BDK	>BD			qal	infc	NA		NA	verb	K				rrrr	nnnn	אבדך
+1985356	4Q34	Deuteronomy	25	17	JY>[	Y>TKM	Y>T			qal	infc	NA		NA	verb	KM			B	nnnnn	nnnnn	צאתכם
+1985015	4Q34	Deuteronomy	9	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר
+1985402	4Q34	Deuteronomy	25	19	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1985138	4Q34	Deuteronomy	24	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1985499	4Q34	Deuteronomy	26	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1986748	4Q35	Deuteronomy	31	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1986402	4Q35	Deuteronomy	1	44	QR>=[	QR>TKM	QR>T			qal	infc	NA		NA	verb	KM			L	rrrrrr	nnnnnn	קראתכם
+1986003	4Q35	Deuteronomy	1	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1986496	4Q35	Deuteronomy	2	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1985869	4Q35	Deuteronomy	1	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1986679	4Q35	Deuteronomy	4	34	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+1986681	4Q35	Deuteronomy	4	34	LQX[	QXT	QXT			qal	infc	NA		NA	verb				L	rrr	nnn	קחת
+1986195	4Q35	Deuteronomy	1	33	TWR[	TWR	TWR			qal	infc	NA		NA	verb				L	rrr	nnn	תור
+1986199	4Q35	Deuteronomy	1	33	XNH[	XNTKM	XNT			qal	infc	NA		NA	verb	KM			L	rrrrr	nnnnn	חנתכם
+1986284	4Q35	Deuteronomy	1	37	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1986764	4Q35	Deuteronomy	31	11	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	rrr	nnn	בוא
+1986353	4Q35	Deuteronomy	1	41	<LH[	<LT	<LT			qal	infc	NA		NA	verb				L	rrr	nnn	עלת
+1985884	4Q35	Deuteronomy	1	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1985889	4Q35	Deuteronomy	1	9	NF>[	F>T	F>T			qal	infc	NA		NA	verb					nnn	nnn	שאת
+1985783	4Q35	Deuteronomy	1	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1986226	4Q35	Deuteronomy	1	34	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1985960	4Q35	Deuteronomy	1	14	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1986974	4Q35	Deuteronomy	33	18	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K			B	nnrr	nnnn	צאתך
+1985792	4Q35	Deuteronomy	1	6	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1985795	4Q35	Deuteronomy	1	6	JCB[	CBT	CBT			qal	infc	NA		NA	verb					nnn	nnn	שבת
+1986476	4Q35	Deuteronomy	2	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1986249	4Q35	Deuteronomy	1	35	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1986170	4Q35	Deuteronomy	1	31	BW>[	B>KM	B>			qal	infc	NA		NA	verb	KM				rrrr	nnnn	באכם
+1986480	4Q35	Deuteronomy	2	3	SBB[	SWB	SWB			qal	infc	NA		NA	verb					nnn	nnn	סוב
+1987495	4Q36	Deuteronomy	23	23	NDR[	NDR	NDR			qal	infc	NA		NA	verb				L	rrr	nnn	נדר
+1987459	4Q36	Deuteronomy	23	15	NTN[	TT	TT			qal	infc	NA		NA	verb				WL	rr	nn	תת
+1987398	4Q36	Deuteronomy	23	12	PNH[	PNWT	PNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	פנות
+1987405	4Q36	Deuteronomy	23	12	BW>[	B>	B>			qal	infc	NA		NA	verb				WK	rr	nn	בא
+1987200	4Q36	Deuteronomy	22	2	DRC[	DRC	DRC			qal	infc	NA		NA	verb					rrr	nnn	דרש
+1987436	4Q36	Deuteronomy	23	14	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
+1988250	4Q37	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	שמור
+1988034	4Q37	Deuteronomy	5	25	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+1988488	4Q37	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1988120	4Q37	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+1988124	4Q37	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnrr	nnnn	שמור
+1988584	4Q37	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1988590	4Q37	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	rrrr	nnnn	עבדו
+1988613	4Q37	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1987643	4Q37	Deuteronomy	5	1	<FH[	<FWTM	<FWT			qal	infc	NA		NA	verb	M			L	nnnnr	nnnnn	עשותם
+1987714	4Q37	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1988279	4Q37	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1988699	4Q37	Exodus	12	48	<FH[	<FTW	<FT			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	עשתו
+1988507	4Q37	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1987962	4Q37	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	שמעכם
+1988538	4Q37	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1988176	4Q37	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1987890	4Q37	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1988310	4Q37	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1988316	4Q37	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	יראה
+1988234	4Q37	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1988242	4Q37	Deuteronomy	6	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnrr	nnnn	רשתה
+1988768	4Q37	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1988865	4Q37	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nr	nn	תת
+1988181	4Q37	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1988473	4Q37	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+1989237	4Q38	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+1989079	4Q38	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rnnn	nnnn	יראה
+1989083	4Q38	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	rnnn	nnnn	שמור
+1989257	4Q38	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1989288	4Q38	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+1989134	4Q38	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1989139	4Q38	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1989222	4Q38	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+1990247	4Q38a	Deuteronomy	27	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1989424	4Q38a	Deuteronomy	19	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1989948	4Q38a	Deuteronomy	23	23	NDR[	NDR	NDR			qal	infc	NA		NA	verb				L	rrr	nnn	נדר
+1989870	4Q38a	Deuteronomy	20	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1989437	4Q38a	Deuteronomy	19	9	<FH[	<FTH	<FT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	עשתה
+1989444	4Q38a	Deuteronomy	19	9	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnr	nnnn	אהבה
+1989450	4Q38a	Deuteronomy	19	9	HLK[	LKT	LKT			qal	infc	NA		NA	verb				WL	rrr	nnn	לכת
+1989894	4Q38a	Deuteronomy	20	19	TPF[	TPFH	TPF			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	תפשה
+1989900	4Q38a	Deuteronomy	20	19	NDX[	NDX	NDX			qal	infc	NA		NA	verb				L	rrr	nnn	נדח
+1989569	4Q38a	Deuteronomy	19	14	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1990203	4Q38a	Deuteronomy	26	18	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nrrr	nnnn	שמור
+1990067	4Q38a	Deuteronomy	25	19	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1990209	4Q38a	Deuteronomy	26	19	NTN[	TTK	TT			qal	infc	NA		NA	verb	K			WL	rrr	nnn	תתך
+1990227	4Q38a	Deuteronomy	26	19	HJH[	HJTK	HJT			qal	infc	NA		NA	verb	K			WL	rrrr	nnnn	היתך
+1990165	4Q38a	Deuteronomy	26	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1990298	4Q38b	Deuteronomy	30	16	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1990459	4Q38d	Deuteronomy	24	22	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1990545	4Q39	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1990478	4Q39	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1990483	4Q39	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+1990489	4Q39	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+1990493	4Q39	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
+1990654	4Q39	Deuteronomy	31	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1990506	4Q39	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1990594	4Q39	Deuteronomy	29	3	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
+1990598	4Q39	Deuteronomy	29	3	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1990602	4Q39	Deuteronomy	29	3	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+1990700	4Q39	Deuteronomy	34	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1990825	4Q40	Deuteronomy	3	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nrrr	nnnn	אמור
+1990989	4Q40	Deuteronomy	7	20	>BD[	>BWD	>BWD			qal	infc	NA		NA	verb					nnnn	nnnn	אבוד
+1990742	4Q40	Deuteronomy	3	18	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1990753	4Q40	Deuteronomy	3	18	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+1991664	4Q41	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+1991754	4Q41	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+1991758	4Q41	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	rrr	nnn	שמר
+1991174	4Q41	Deuteronomy	5	1	<FH[	<FWTM	<FWT			qal	infc	NA		NA	verb	M			L	nnnnn	nnnnn	עשותם
+1991251	4Q41	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1991592	4Q41	Deuteronomy	5	23	CM<[	CWM<KM	CWM<			qal	infc	NA		NA	verb	KM			K	rrnnnn	nnnnnn	שומעכם
+1991811	4Q41	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+1991446	4Q41	Deuteronomy	5	15	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור
+1991057	4Q41	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+1991062	4Q41	Deuteronomy	8	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+1991870	4Q41	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1991816	4Q41	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1992511	4Q42	Deuteronomy	28	58	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1992526	4Q42	Deuteronomy	28	58	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1992070	4Q42	Deuteronomy	5	1	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	rrrr	nnnn	עשתם
+1991997	4Q42	Deuteronomy	4	34	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+1991999	4Q42	Deuteronomy	4	34	LQX[	QXT	QXT			qal	infc	NA		NA	verb				L	nrr	nnn	קחת
+1992229	4Q42	Deuteronomy	28	15	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1992231	4Q42	Deuteronomy	28	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1992475	4Q42	Deuteronomy	28	52	JRD[	RDT	RDT			qal	infc	NA		NA	verb					rrr	nnn	רדת
+1992798	4Q43	Deuteronomy	6	10	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1992740	4Q43	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
+1992745	4Q43	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
+1992750	4Q43	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rnnn	nnnn	שכבך
+1992753	4Q43	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	קומך
+1993068	4Q45	Deuteronomy	7	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+1993347	4Q45	Deuteronomy	10	11	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1994157	4Q45	Deuteronomy	23	15	NTN[	TT	TT			qal	infc	NA		NA	verb				WL	rr	nn	תת
+1992992	4Q45	Deuteronomy	1	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1993702	4Q45	Deuteronomy	14	2	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+1993504	4Q45	Deuteronomy	12	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnr	nnnn	עשות
+1993514	4Q45	Deuteronomy	12	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1993085	4Q45	Deuteronomy	7	7	RBB[	RBKM	RB			qal	infc	NA		NA	verb	KM			M	rrrr	nnnn	רבכם
+1993362	4Q45	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1993367	4Q45	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+1993373	4Q45	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+1993377	4Q45	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
+1993675	4Q45	Deuteronomy	13	19	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1993685	4Q45	Deuteronomy	13	19	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1993926	4Q45	Deuteronomy	15	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1993240	4Q45	Deuteronomy	7	20	>BD[	>BD	>BD			qal	infc	NA		NA	verb					rrr	nnn	אבד
+1994188	4Q45	Deuteronomy	28	15	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1994190	4Q45	Deuteronomy	28	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1993864	4Q45	Deuteronomy	15	5	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+1993866	4Q45	Deuteronomy	15	5	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+1993456	4Q45	Deuteronomy	11	31	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrn	nnn	בוא
+1993458	4Q45	Deuteronomy	11	31	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	nnn	nnn	רשת
+1993984	4Q45	Deuteronomy	19	2	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+1994263	4Q45	Deuteronomy	28	20	>BD[	>BDK	>BD			qal	infc	NA		NA	verb	K				nnrr	nnnn	אבדך
+1993964	4Q45	Deuteronomy	15	10	NTN[	TTK	TT			qal	infc	NA		NA	verb	K			B	rrr	nnn	תתך
+1993477	4Q45	Deuteronomy	11	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+1994002	4Q45	Deuteronomy	19	3	NWS[	NWS	NWS			qal	infc	NA		NA	verb				L	rrr	nnn	נוס
+1993411	4Q45	Deuteronomy	11	28	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnr	nnn	לכת
+1994133	4Q45	Deuteronomy	23	14	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
+1995335	4Q47	Joshua	8	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1995428	4Q47	Joshua	8	8	TPF[	TPFKM	TPF			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	תפשכם
+1994923	4Q47	Joshua	5	4	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	צאתם
+1995374	4Q47	Joshua	8	5	QR>=[	QR>TNW	QR>T			qal	infc	NA		NA	verb	NW			L	rrrrrr	nnnnnn	קראתנו
+1995079	4Q47	Joshua	6	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				K	nnn	nnn	אמר
+1995713	4Q47	Joshua	10	11	NWS[	NSM	NS			qal	infc	NA		NA	verb	M			B	nnn	nnn	נסם
+1995172	4Q47	Joshua	7	12	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+1994946	4Q47	Joshua	5	5	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			B	rnnn	nnnn	צאתם
+1995609	4Q47	Joshua	10	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1995537	4Q47	Joshua	8	14	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				K	nnnn	nnnn	ראות
+1995551	4Q47	Joshua	8	14	QR>=[	QR>TM	QR>T			qal	infc	NA		NA	verb	M			L	rnnnn	nnnnn	קראתם
+1995205	4Q47	Joshua	7	13	QWM[	QWM	QWM			qal	infc	NA		NA	verb				L	nnn	nnn	קום
+1994825	4Q47	Joshua	8	35	<BR[	<BRW	<BR			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	עברו
+1994866	4Q47	Joshua	5	2	>MR[	>MR	>MR			qal	infc	NA	m	NA	verb					nnn	nnn	אמר
+1994961	4Q47	Joshua	5	6	TMM[	TM	TM			qal	infc	NA		NA	verb					rr	nn	תם
+1994984	4Q47	Joshua	5	6	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb					nnnn	nnnn	ראות
+1994994	4Q47	Joshua	5	6	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1995139	4Q47	Joshua	6	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
+1995155	4Q47	Joshua	6	10	>MR[	>MRJ	>MR			qal	infc	NA		NA	verb	J				rrrr	nnnn	אמרי
+1995315	4Q47	Joshua	8	3	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עלות
+1996186	4Q48	Joshua	17	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1996155	4Q48	Joshua	17	12	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	nnr	nnn	שבת
+1995886	4Q48	Joshua	3	17	<BR[	<BR	<BR			qal	infc	NA		NA	verb				L	rrr	nnn	עבר
+1996065	4Q48	Joshua	17	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1996071	4Q48	Joshua	17	4	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1995897	4Q48	Joshua	4	1	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	עבור
+1995907	4Q48	Joshua	4	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1996290	4Q49	Judges	6	4	BW>[	BW>K	BW>			qal	infc	NA		NA	verb	K				rrrr	nnnn	בואך
+1996411	4Q49	Judges	6	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+1996692	4Q50	Judges	21	22	RJB[	RJB	RJB			qal	infc	NA		NA	verb				L	rrr	nnn	ריב
+1996591	4Q50	Judges	21	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+1996601	4Q50	Judges	21	18	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1996482	4Q50	Judges	19	7	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1996647	4Q50	Judges	21	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+1996437	4Q50	Judges	19	5	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1996663	4Q50	Judges	21	21	XWL[	XWL	XWL			qal	infc	NA		NA	verb				L	rrr	nnn	חול
+1999467	4Q51	1_Samuel	10	8	ZBX[	ZBX	ZBX			qal	infc	NA		NA	verb				L	rrr	nnn	זבח
+1999474	4Q51	1_Samuel	10	8	BW>[	BW>J	BW>			qal	infc	NA		NA	verb	J				rrrr	nnnn	בואי
+2009143	4Q51	2_Samuel	20	13	RDP[	RDWP	RDWP			qal	infc	NA		NA	verb				L	rrrr	nnnn	רדוף
+1998921	4Q51	1_Samuel	8	19	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+2005247	4Q51	2_Samuel	8	7	<LH[	<LWTW	<LWT			qal	infc	NA		NA	verb	W			B	nnnnn	nnnnn	עלותו
+2004178	4Q51	2_Samuel	5	6	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2004190	4Q51	2_Samuel	5	6	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2008620	4Q51	2_Samuel	19	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2001821	4Q51	1_Samuel	26	11	CLX[	CLX	CLX			qal	infc	NA		NA	verb				M	nnn	nnn	שלח
+2002408	4Q51	1_Samuel	30	26	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1997448	4Q51	1_Samuel	2	19	<LH[	<LWTH	<LWT			qal	infc	NA		NA	verb	H			B	nnrrr	nnnnn	עלותה
+1997452	4Q51	1_Samuel	2	19	ZBX[	ZBWX	ZBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	זבוח
+2007671	4Q51	2_Samuel	15	31	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1998734	4Q51	1_Samuel	8	7	MLK[	MLK	MLK			qal	infc	NA		NA	verb				M	rnn	nnn	מלך
+2003517	4Q51	2_Samuel	3	25	JD<[	D<T	D<T			qal	infc	NA		NA	verb				WL	rrr	nnn	דעת
+2003525	4Q51	2_Samuel	3	25	JD<[	D<T	D<T			qal	infc	NA		NA	verb				WL	rrr	nnn	דעת
+2001774	4Q51	1_Samuel	25	40	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2001779	4Q51	1_Samuel	25	40	LQX[	QXTK	QXT			qal	infc	NA		NA	verb	K			L	rrrr	nnnn	קחתך
+1997642	4Q51	1_Samuel	2	27	HJH[	HJWTM	HJWT			qal	infc	NA		NA	verb	M			B	rrrrr	nnnnn	היותם
+1998201	4Q51	1_Samuel	5	10	BW>[	BW>	BW>			qal	infc	NA		NA	verb				K	rrr	nnn	בוא
+1998211	4Q51	1_Samuel	5	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nrrr	nnnn	אמור
+2000677	4Q51	1_Samuel	15	27	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2009024	4Q51	2_Samuel	20	9	NCQ[	NCWQ	NCWQ			qal	infc	NA		NA	verb				L	rrrr	nnnn	נשוק
+2006810	4Q51	2_Samuel	13	28	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2006814	4Q51	2_Samuel	13	28	VWB[	VWB	VWB			qal	infc	NA		NA	verb				K	rrr	nnn	טוב
+2004100	4Q51	2_Samuel	5	2	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				B	nnnr	nnnn	היות
+2006149	4Q51	2_Samuel	12	18	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				B	rrrr	nnnn	היות
+2005680	4Q51	2_Samuel	11	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2006918	4Q51	2_Samuel	13	32	>MR[	>MWR	>MWR			qal	infc	NA	m	NA	verb				L	rrrr	nnnn	אמור
+2003389	4Q51	2_Samuel	3	13	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2003403	4Q51	2_Samuel	3	13	BW>[	BW>K	BW>			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	בואך
+2003405	4Q51	2_Samuel	3	13	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2008309	4Q51	2_Samuel	18	6	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	nrrn	nnnn	קראת
+2000873	4Q51	1_Samuel	17	8	<RK[	<RWK	<RWK			qal	infc	NA		NA	verb				L	rrrr	nnnn	ערוך
+1999070	4Q51	1_Samuel	9	11	C>B[	C>WB	C>WB			qal	infc	NA		NA	verb				L	rrrr	nnnn	שאוב
+2006527	4Q51	2_Samuel	13	16	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	rrrr	nnnn	שמוע
+2008123	4Q51	2_Samuel	17	29	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2007933	4Q51	2_Samuel	16	21	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	שמור
+1996990	4Q51	1_Samuel	1	24	ZBX[	ZBX	ZBX			qal	infc	NA		NA	verb				L	rrr	nnn	זבח
+2001606	4Q51	1_Samuel	25	20	QR>=[	QR>TH	QR>T			qal	infc	NA		NA	verb	H			L	nnnnr	nnnnn	קראתה
+1997863	4Q51	1_Samuel	2	36	>MR[	>MWR	>MWR			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אמור
+1997871	4Q51	1_Samuel	2	36	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2008656	4Q51	2_Samuel	19	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rnnn	nnnn	אמור
+1998309	4Q51	1_Samuel	6	2	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2005349	4Q51	2_Samuel	10	5	QR>=[	QR>TM	QR>T			qal	infc	NA		NA	verb	M			L	rrrrr	nnnnn	קראתם
+2001034	4Q51	1_Samuel	22	11	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא
+1997663	4Q51	1_Samuel	2	28	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עלות
+1997672	4Q51	1_Samuel	2	28	NF>[	F>T	F>T			qal	infc	NA		NA	verb				WL	nnn	nnn	שאת
+1998792	4Q51	1_Samuel	8	12	FJM[	FWM	FWM			qal	infc	NA		NA	verb				WL	rrr	nnn	שום
+1998801	4Q51	1_Samuel	8	12	XRC=[	XRC	XRC			qal	infc	NA		NA	verb				WL	rrn	nnn	חרש
+1998805	4Q51	1_Samuel	8	12	QYR=[	QYR	QYR			qal	infc	NA		NA	verb				WL	rrr	nnn	קצר
+1998809	4Q51	1_Samuel	8	12	<FH[	<FT	<FT			qal	infc	NA		NA	verb				WL	rrr	nnn	עשת
+1999395	4Q51	1_Samuel	10	5	BW>[	BW>K	BW>			qal	infc	NA		NA	verb	K			K	rrrr	nnnn	בואך
+2007702	4Q51	2_Samuel	16	1	QR>=[	QR>TW	QR>T			qal	infc	NA		NA	verb	W			L	nnnnn	nnnnn	קראתו
+2003734	4Q51	2_Samuel	3	34	NPL[	NPL	NPL			qal	infc	NA		NA	verb				K	nnn	nnn	נפל
+2003742	4Q51	2_Samuel	3	34	BKH[	BKWT	BKWT			qal	infc	NA		NA	verb				L	nnrr	nnnn	בכות
+2003019	4Q51	2_Samuel	2	26	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	nnn	nnn	שוב
+1999488	4Q51	1_Samuel	10	9	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nrr	nnn	לכת
+2007488	4Q51	2_Samuel	15	20	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2005736	4Q51	2_Samuel	11	11	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2005739	4Q51	2_Samuel	11	11	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				WL	rrrr	nnnn	שתות
+2005742	4Q51	2_Samuel	11	11	CKB[	CKWB	CKWB			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שכוב
+2002121	4Q51	1_Samuel	28	1	JY>[	Y>T	Y>T			qal	infc	NA	m	NA	verb				L	rrr	nnn	צאת
+2007614	4Q51	2_Samuel	15	28	BW>[	BW>	BW>			qal	infc	NA		NA	verb					nnn	nnn	בוא
+1997467	4Q51	1_Samuel	2	20	>MR[	>MR	>MR			qal	infc	NA	m	NA	verb				L	nnn	nnn	אמר
+2005835	4Q51	2_Samuel	11	19	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2008455	4Q51	2_Samuel	18	11	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2010230	4Q51	2_Samuel	24	17	R>H[	R>TW	R>T			qal	infc	NA		NA	verb	W			B	nnnr	nnnn	ראתו
+2001137	4Q51	1_Samuel	24	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2010364	4Q51	2_Samuel	24	21	QNH[	QNWT	QNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	קנות
+2010371	4Q51	2_Samuel	24	21	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	בנות
+2004618	4Q51	2_Samuel	6	9	>MR[	>MWR	>MWR			qal	infc	NA	m	NA	verb				L	nnnn	nnnn	אמור
+2006759	4Q51	2_Samuel	13	25	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+1998261	4Q51	1_Samuel	5	11	BW>[	BW>	BW>			qal	infc	NA		NA	verb				K	rrr	nnn	בוא
+2003206	4Q51	2_Samuel	3	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				B	nnnn	nnnn	היות
+2006960	4Q51	2_Samuel	13	33	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2008694	4Q51	2_Samuel	19	11	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+2008233	4Q51	2_Samuel	18	3	<ZR[	<ZR	<ZR			qal	infc	NA		NA	verb				L	nnn	nnn	עזר
+2003418	4Q51	2_Samuel	3	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2005068	4Q51	2_Samuel	7	29	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2005384	4Q51	2_Samuel	10	6	FKR[	FKWR	FKWR			qal	infc	NA	m	NA	verb				L	rrrr	nnnn	שכור
+2003952	4Q51	2_Samuel	4	4	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	rnn	nnn	בוא
+1999022	4Q51	1_Samuel	9	8	<NH[	<NWT	<NWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ענות
+2003763	4Q51	2_Samuel	3	35	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrnn	nnnn	אמור
+2003774	4Q51	2_Samuel	3	35	BW>[	B>	B>			qal	infc	NA		NA	verb					nn	nn	בא
+2005183	4Q51	2_Samuel	8	5	<ZR[	<ZWR	<ZWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	עזור
+1999520	4Q51	1_Samuel	10	10	QR>=[	QR>TW	QR>T			qal	infc	NA		NA	verb	W			L	rrrrr	nnnnn	קראתו
+2008532	4Q51	2_Samuel	19	7	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2008537	4Q51	2_Samuel	19	7	FN>[	FNW>	FNW>			qal	infc	NA		NA	verb				WL	nrrr	nnnn	שנוא
+2006398	4Q51	2_Samuel	13	5	R>H[	R>WTK	R>WT			qal	infc	NA		NA	verb	K			L	nnnnn	nnnnn	ראותך
+2005773	4Q51	2_Samuel	11	16	YWR[	CWR	CWR			qal	infc	NA		NA	verb				B	nnn	nnn	שור
+1997918	4Q51	1_Samuel	3	2	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rnnn	nnnn	ראות
+2009870	4Q51	2_Samuel	22	45	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnr	nnn	שמע
+2001165	4Q51	1_Samuel	24	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2006877	4Q51	2_Samuel	13	30	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2003346	4Q51	2_Samuel	3	11	JR>[	JR>WT	JR>WT			qal	infc	NA		NA	verb				M	rrrrr	nnnnn	יראות
+2001666	4Q51	1_Samuel	25	26	BW>[	BW>	BW>			qal	infc	NA		NA	verb				M	rrr	nnn	בוא
+2008821	4Q51	2_Samuel	19	16	JRD[	RDT	RDT			qal	infc	NA		NA	verb				L	rrr	nnn	רדת
+2008357	4Q51	2_Samuel	18	8	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2007427	4Q51	2_Samuel	15	5	QRB[	QRWB	QRWB			qal	infc	NA		NA	verb				B	rrrr	nnnn	קרוב
+2004551	4Q51	2_Samuel	6	6	>XZ[	>XZ	>XZ			qal	infc	NA	m	NA	verb				L	rrr	nnn	אחז
+2002068	4Q51	1_Samuel	27	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2002073	4Q51	1_Samuel	27	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+1998655	4Q51	1_Samuel	6	20	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	עבור
+2002210	4Q51	1_Samuel	28	23	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2000295	4Q51	1_Samuel	14	24	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2006437	4Q51	2_Samuel	13	6	R>H[	R>WTW	R>WT			qal	infc	NA		NA	verb	W			L	rrrrr	nnnnn	ראותו
+2004993	4Q51	2_Samuel	7	26	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2008712	4Q51	2_Samuel	19	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
+2008718	4Q51	2_Samuel	19	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2000349	4Q51	1_Samuel	14	28	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnr	nnn	אמר
+2004325	4Q51	2_Samuel	5	13	BW>[	B>W	B>			qal	infc	NA		NA	verb	W				rrr	nnn	באו
+2006467	4Q51	2_Samuel	13	14	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	rrrr	nnnn	שמוע
+2008011	4Q51	2_Samuel	17	3	CWB[	CWB	CWB			qal	infc	NA		NA	verb				K	rrr	nnn	שוב
+2004088	4Q51	2_Samuel	5	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2009105	4Q51	2_Samuel	20	12	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+1997300	4Q51	1_Samuel	2	10	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				WL	rrrn	nnnn	עשות
+2006334	4Q51	2_Samuel	13	2	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2008503	4Q51	2_Samuel	18	29	CLX[	CLX	CLX			qal	infc	NA		NA	verb				L	nnn	nnn	שלח
+2007108	4Q51	2_Samuel	13	39	JY>[	Y>T	Y>T			qal	infc	NA		NA	verb				L	nrr	nnn	צאת
+2009977	4Q51	2_Samuel	23	3	>MR[	>MR	>MR			qal	infc	NA	m	NA	verb					rrr	nnn	אמר
+2000234	4Q51	1_Samuel	12	17	C>L[	C>WL	C>WL			qal	infc	NA		NA	verb				L	rrrr	nnnn	שאול
+1999879	4Q51	1_Samuel	11	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2001757	4Q51	1_Samuel	25	39	LQX[	QXTH	QXT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	קחתה
+2006006	4Q51	2_Samuel	12	9	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnrr	nnnn	עשות
+2008830	4Q51	2_Samuel	19	25	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	rrrr	nnnn	קראת
+2000668	4Q51	1_Samuel	15	26	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				M	rrrr	nnnn	היות
+2002096	4Q51	1_Samuel	27	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+1998680	4Q51	1_Samuel	6	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2004919	4Q51	2_Samuel	7	23	PDH[	PDWT	PDWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	פדות
+2004924	4Q51	2_Samuel	7	23	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+2004929	4Q51	2_Samuel	7	23	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				WL	rnnn	nnnn	עשות
+2003358	4Q51	2_Samuel	3	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2005019	4Q51	2_Samuel	7	27	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	בנות
+2008278	4Q51	2_Samuel	18	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2007354	4Q51	2_Samuel	15	2	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+2001462	4Q51	1_Samuel	25	7	HJH[	HJWTM	HJWT			qal	infc	NA		NA	verb	M				rrrrr	nnnnn	היותם
+2000457	4Q51	1_Samuel	14	33	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2000464	4Q51	1_Samuel	14	33	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול
+2003991	4Q51	2_Samuel	4	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
+2004010	4Q51	2_Samuel	4	10	NTN[	TTJ	TT			qal	infc	NA		NA	verb	J			L	rrr	nnn	תתי
+2001920	4Q51	1_Samuel	26	23	CLX[	CLX	CLX			qal	infc	NA		NA	verb				L	nnr	nnn	שלח
+1996960	4Q51	1_Samuel	1	23	GML[	GMLK	GML			qal	infc	NA		NA	verb	K				rrrr	nnnn	גמלך
+1996978	4Q51	1_Samuel	1	23	GML[	GMLH	GML			qal	infc	NA		NA	verb	H				rrrr	nnnn	גמלה
+2010105	4Q51	2_Samuel	23	16	CTH[	CTWTM	CTWT			qal	infc	NA		NA	verb	M			L	rnnrr	nnnnn	שתותם
+2005141	4Q51	2_Samuel	8	3	HLK[	LKTW	LKT			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	לכתו
+2012206	4Q52	1_Samuel	23	10	BW>[	B>	B>			qal	infc	NA		NA	verb				L	rr	nn	בא
+2011844	4Q52	1_Samuel	20	42	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2012404	4Q52	1_Samuel	23	19	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2011412	4Q52	1_Samuel	19	14	LQX[	QXT	QXT			qal	infc	NA		NA	verb				L	rrr	nnn	קחת
+2011882	4Q52	1_Samuel	21	2	QR>=[	QR>TW	QR>T			qal	infc	NA		NA	verb	W			L	rrrrr	nnnnn	קראתו
+2011992	4Q52	1_Samuel	21	6	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	צאתי
+2011165	4Q52	1_Samuel	16	4	QR>=[	QR>TW	QR>T			qal	infc	NA		NA	verb	W			L	rrrrr	nnnnn	קראתו
+2011170	4Q52	1_Samuel	16	4	BW>[	BW>K	BW>			qal	infc	NA		NA	verb	K				rrrr	nnnn	בואך
+2011427	4Q52	1_Samuel	19	15	R>H[	R>T	R>T			qal	infc	NA		NA	verb				L	rrr	nnn	ראת
+2011431	4Q52	1_Samuel	19	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2012430	4Q52	1_Samuel	23	20	JRD[	RDH	RD			qal	infc	NA		NA	verb	H			L	nnn	nnn	רדה
+2011346	4Q52	1_Samuel	19	11	CMR[	CMRW	CMR			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	שמרו
+2011358	4Q52	1_Samuel	19	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2012036	4Q52	1_Samuel	21	7	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+2012163	4Q52	1_Samuel	23	8	JRD[	RDT	RDT			qal	infc	NA		NA	verb				L	rrr	nnn	רדת
+2012166	4Q52	1_Samuel	23	8	YWR[	YWR	YWR			qal	infc	NA		NA	verb				L	rrr	nnn	צור
+2011178	4Q52	1_Samuel	16	5	ZBX[	ZBX	ZBX			qal	infc	NA		NA	verb				L	rrr	nnn	זבח
+2012285	4Q52	1_Samuel	23	13	JY>[	Y>T	Y>T			qal	infc	NA		NA	verb				L	rrr	nnn	צאת
+2011123	4Q52	1_Samuel	16	2	ZBX[	ZBX	ZBX			qal	infc	NA		NA	verb				L	rrr	nnn	זבח
+2011204	4Q52	1_Samuel	16	6	BW>[	B>M	B>			qal	infc	NA		NA	verb	M			B	nnn	nnn	באם
+2012544	4Q53	2_Samuel	14	7	FJM[	FM	FM			qal	infc	NA		NA	verb					nn	nn	שם
+2013204	4Q53	2_Samuel	14	32	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2013214	4Q53	2_Samuel	14	32	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2012912	4Q53	2_Samuel	14	20	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrn	nnn	דעת
+2013443	4Q53	2_Samuel	15	8	JCB[	CBTJ	CBT			qal	infc	NA		NA	verb	J			B	rnnn	nnnn	שבתי
+2013449	4Q53	2_Samuel	15	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2013532	4Q53	2_Samuel	15	12	ZBX[	ZWBXW	ZWBX			qal	infc	NA		NA	verb	W			B	rrrrr	nnnnn	זובחו
+2013105	4Q53	2_Samuel	14	29	CLX[	CLWX	CLWX			qal	infc	NA		NA	verb				L	nnrr	nnnn	שלוח
+2013114	4Q53	2_Samuel	14	29	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+2013125	4Q53	2_Samuel	14	29	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrn	nnn	בוא
+2012790	4Q53	2_Samuel	14	17	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	rrrr	nnnn	שמוע
+2013557	4Q53	2_Samuel	15	13	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2013372	4Q53	2_Samuel	15	5	QRB[	QRWB	QRWB			qal	infc	NA		NA	verb				B	rrrr	nnnn	קרוב
+2012614	4Q53	2_Samuel	14	10	NG<[	NGW<	NGW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	נגוע
+2012518	4Q53	1_Samuel	25	31	CPK[	CPWK	CPWK			qal	infc	NA		NA	verb				L	rrrr	nnnn	שפוך
+2013484	4Q53	2_Samuel	15	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2013486	4Q53	2_Samuel	15	10	CM<[	CWM<KM	CWM<			qal	infc	NA		NA	verb	KM			K	rrrrrr	nnnnnn	שומעכם
+2013586	4Q53	2_Samuel	15	14	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2013301	4Q53	2_Samuel	15	2	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nrn	nnn	בוא
+2014032	4Q54	1_Kings	7	40	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2014321	4Q54	1_Kings	8	16	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	בנות
+2014324	4Q54	1_Kings	8	16	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2014333	4Q54	1_Kings	8	16	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+2014343	4Q54	1_Kings	8	16	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2014351	4Q54	1_Kings	8	16	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+2014364	4Q54	1_Kings	8	17	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	בנות
+2014888	4Q55	Isaiah	13	9	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+2015324	4Q55	Isaiah	21	1	XLP[	XLP	XLP			qal	infc	NA		NA	verb				L	nnn	nnn	חלף
+2015178	4Q55	Isaiah	20	1	BW>[	B>	B>			qal	infc	NA		NA	verb					rr	nn	בא
+2015182	4Q55	Isaiah	20	1	CLX[	CLX	CLX			qal	infc	NA		NA	verb				B	rrr	nnn	שלח
+2014911	4Q55	Isaiah	13	10	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	צאתו
+2015206	4Q55	Isaiah	20	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2015522	4Q55	Isaiah	21	14	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	rrnn	nnnn	קראת
+2015915	4Q55	Isaiah	23	7	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	rrr	nnn	גור
+2015164	4Q55	Isaiah	19	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2015082	4Q55	Isaiah	17	12	HMH[	HMWT	HMWT			qal	infc	NA		NA	verb				K	rrrr	nnnn	המות
+2015873	4Q55	Isaiah	23	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2015976	4Q55	Isaiah	23	12	<LZ[	<LWZ	<LWZ			qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז
+2015364	4Q55	Isaiah	21	3	CM<[	CM<	CM<			qal	infc	NA		NA	verb				M	rrr	nnn	שמע
+2015367	4Q55	Isaiah	21	3	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				M	nnnn	nnnn	ראות
+2015834	4Q55	Isaiah	23	1	BW>[	BW>	BW>			qal	infc	NA		NA	verb				M	nnn	nnn	בוא
+2016935	4Q56	Isaiah	13	9	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+2019911	4Q56	Isaiah	61	1	XBC[	XBC	XBC			qal	infc	NA		NA	verb				L	rnn	nnn	חבש
+2019916	4Q56	Isaiah	61	1	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	rrr	nnn	קרא
+2016620	4Q56	Isaiah	5	24	>KL[	>KL	>KL			qal	infc	NA		NA	verb				K	nnn	nnn	אכל
+2017787	4Q56	Isaiah	20	1	BW>[	B>	B>			qal	infc	NA		NA	verb					rr	nn	בא
+2017791	4Q56	Isaiah	20	1	CLX[	CLX	CLX			qal	infc	NA		NA	verb				B	nnn	nnn	שלח
+2016958	4Q56	Isaiah	13	10	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	צאתו
+2019926	4Q56	Isaiah	61	2	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	rrr	nnn	קרא
+2017815	4Q56	Isaiah	20	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2017920	4Q56	Isaiah	21	14	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	rrrr	nnnn	קראת
+2017773	4Q56	Isaiah	19	25	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2019942	4Q56	Isaiah	61	3	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+2019947	4Q56	Isaiah	61	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2016598	4Q56	Isaiah	5	22	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	שתות
+2016604	4Q56	Isaiah	5	22	MSK[	MSK	MSK			qal	infc	NA		NA	verb				L	nnn	nnn	מסך
+2018261	4Q56	Isaiah	26	17	JLD[	LDT	LDT			qal	infc	NA		NA	verb				L	rrr	nnn	לדת
+2017165	4Q56	Isaiah	17	12	HMH[	HMWT	HMWT			qal	infc	NA		NA	verb				K	rrrr	nnnn	המות
+2018329	4Q56	Isaiah	26	21	PQD[	PQD	PQD			qal	infc	NA		NA	verb				L	rrn	nnn	פקד
+2019884	4Q56	Isaiah	56	1	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+2019395	4Q56	Isaiah	44	28	>MR[	>MR	>MR			qal	infc	NA		NA	verb				WL	nnn	nnn	אמר
+2019071	4Q56	Isaiah	42	7	PQX[	PQX	PQX			qal	infc	NA		NA	verb				L	rrr	nnn	פקח
+2019749	4Q56	Isaiah	51	16	NV<[	NV<	NV<			qal	infc	NA		NA	verb				L	rrr	nnn	נטע
+2019753	4Q56	Isaiah	51	16	JSD[	JSD	JSD			qal	infc	NA		NA	verb				WL	rrr	nnn	יסד
+2019757	4Q56	Isaiah	51	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				WL	rrr	nnn	אמר
+2018837	4Q56	Isaiah	40	22	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rnn	nnn	שבת
+2020483	4Q57	Isaiah	10	32	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	rrr	nnn	עמד
+2023535	4Q57	Isaiah	55	7	SLX[	SLWX	SLWX			qal	infc	NA		NA	verb				L	rrrr	nnnn	סלוח
+2021834	4Q57	Isaiah	28	12	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb					rrrn	nnnn	שמוע
+2021184	4Q57	Isaiah	23	18	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2020723	4Q57	Isaiah	11	16	<LH[	<LTW	<LT			qal	infc	NA		NA	verb	W				rrrr	nnnn	עלתו
+2022184	4Q57	Isaiah	33	19	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	rrrr	nnnn	שמוע
+2022010	4Q57	Isaiah	30	14	XFP[	XFWP	XFWP			qal	infc	NA		NA	verb				WL	rrrn	nnnn	חשוף
+2022386	4Q57	Isaiah	45	1	RDD[	RD	RD			qal	infc	NA		NA	verb				L	rr	nn	רד
+2022395	4Q57	Isaiah	45	1	PTX[	PTX	PTX			qal	infc	NA		NA	verb				L	rrr	nnn	פתח
+2021336	4Q57	Isaiah	24	10	BW>[	BW>	BW>			qal	infc	NA		NA	verb				M	nnn	nnn	בוא
+2022822	4Q57	Isaiah	51	10	<BR[	<BR	<BR			qal	infc	NA		NA	verb				L	rrr	nnn	עבר
+2020281	4Q57	Isaiah	9	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2020931	4Q57	Isaiah	22	12	XGR[	XGWR	XGWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חגור
+2021430	4Q57	Isaiah	24	20	QWM[	QWM	QWM			qal	infc	NA		NA	verb					rrr	nnn	קום
+2021052	4Q57	Isaiah	23	12	<LZ[	<LWZ	<LWZ			qal	infc	NA		NA	verb				L	nnnn	nnnn	עלוז
+2022346	4Q57	Isaiah	44	7	FJM[	FWMJ	FWM			qal	infc	NA		NA	verb	J			M	rrrr	nnnn	שומי
+2021951	4Q57	Isaiah	30	12	M>S[	M>SKM	M>S			qal	infc	NA		NA	verb	KM				rrrrr	nnnnn	מאסכם
+2023513	4Q57	Isaiah	55	6	HJH[	HJWTW	HJWT			qal	infc	NA		NA	verb	W			B	rrrrr	nnnnn	היותו
+2020654	4Q57	Isaiah	11	11	QNH[	QNWT	QNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	קנות
+2023248	4Q57	Isaiah	54	9	<BR[	<BR	<BR			qal	infc	NA		NA	verb				M	rrr	nnn	עבר
+2023258	4Q57	Isaiah	54	9	QYP[	QYP	QYP			qal	infc	NA		NA	verb				M	rrr	nnn	קצף
+2023262	4Q57	Isaiah	54	9	G<R[	G<WR	G<WR			qal	infc	NA		NA	verb				WM	nnnn	nnnn	געור
+2020238	4Q57	Isaiah	9	6	S<D[	S<DH	S<D			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	סעדה
+2022938	4Q57	Isaiah	51	16	NV<[	NV<	NV<			qal	infc	NA		NA	verb				L	rrr	nnn	נטע
+2022942	4Q57	Isaiah	51	16	JSD[	JSD	JSD			qal	infc	NA		NA	verb				WL	rrn	nnn	יסד
+2022946	4Q57	Isaiah	51	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				WL	rrrr	nnnn	אמור
+2021586	4Q57	Isaiah	25	11	FXH[	FXWT	FXWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	שחות
+2021908	4Q57	Isaiah	30	9	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb					rrrr	nnnn	שמוע
+2024608	4Q58	Isaiah	52	4	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	rrr	nnn	גור
+2024192	4Q58	Isaiah	48	16	HJH[	HJWTH	HJWT			qal	infc	NA		NA	verb	H				nnnnn	nnnnn	היותה
+2025286	4Q58	Isaiah	58	5	KPP[	KP	KP			qal	infc	NA		NA	verb				HL	nn	nn	כף
+2024491	4Q58	Isaiah	49	9	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2025053	4Q58	Isaiah	57	13	Z<Q[	Z<QK	Z<Q			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	זעקך
+2024406	4Q58	Isaiah	49	6	HJH[	HJWTK	HJWT			qal	infc	NA		NA	verb	K			M	rnnnn	nnnnn	היותך
+2024425	4Q58	Isaiah	49	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+2024925	4Q58	Isaiah	54	9	<BR[	<BR	<BR			qal	infc	NA		NA	verb				M	rrr	nnn	עבר
+2024935	4Q58	Isaiah	54	9	QYP[	QYP	QYP			qal	infc	NA		NA	verb				M	rrr	nnn	קצף
+2024939	4Q58	Isaiah	54	9	G<R[	G<R	G<R			qal	infc	NA		NA	verb				WM	nnn	nnn	גער
+2025455	4Q59	Isaiah	7	17	SWR[	SWR	SWR			qal	infc	NA		NA	verb					rrr	nnn	סור
+2025707	4Q59	Isaiah	8	11	HLK[	LKT	LKT			qal	infc	NA		NA	verb				M	rrr	nnn	לכת
+2025715	4Q59	Isaiah	8	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2026314	4Q59	Isaiah	14	9	QR>=[	QR>T	QR>T			qal	infc	NA		NA	verb				L	nnnn	nnnn	קראת
+2026315	4Q59	Isaiah	14	9	BW>[	BW>K	BW>			qal	infc	NA		NA	verb	K				nnnn	nnnn	בואך
+2025569	4Q59	Isaiah	8	4	QR>[	QR>	QR>			qal	infc	NA		NA	verb					rrr	nnn	קרא
+2025860	4Q59	Isaiah	10	2	GZL[	GZL	GZL			qal	infc	NA		NA	verb				WL	rrr	nnn	גזל
+2025865	4Q59	Isaiah	10	2	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2025935	4Q59	Isaiah	10	6	CLL[	CLL	CLL			qal	infc	NA		NA	verb				L	rrr	nnn	שלל
+2025939	4Q59	Isaiah	10	6	BZZ[	BZ	BZ			qal	infc	NA		NA	verb				WL	nn	nn	בז
+2025943	4Q59	Isaiah	10	6	FJM[	FJMW	FJM			qal	infc	NA		NA	verb	W			WL	rrnn	nnnn	שימו
+2025593	4Q59	Isaiah	8	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2026496	4Q59	Isaiah	14	24	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2025611	4Q59	Isaiah	8	6	MSS[	MCWC	MCWC			qal	infc	NA		NA	verb				W	nnnn	nnnn	משוש
+2028040	4Q60	Isaiah	28	24	ZR<[	ZR<	ZR<			qal	infc	NA		NA	verb				L	rrr	nnn	זרע
+2027208	4Q60	Isaiah	7	17	SWR[	SWR	SWR			qal	infc	NA		NA	verb					rrr	nnn	סור
+2027440	4Q60	Isaiah	8	11	HLK[	LKT	LKT			qal	infc	NA		NA	verb				M	rrr	nnn	לכת
+2027448	4Q60	Isaiah	8	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2027803	4Q60	Isaiah	27	9	FJM[	FWMW	FWM			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	שומו
+2026586	4Q60	Isaiah	1	12	RMS[	RMS	RMS			qal	infc	NA		NA	verb					nnn	nnn	רמס
+2027300	4Q60	Isaiah	8	4	QR>[	QR>	QR>			qal	infc	NA		NA	verb					rrr	nnn	קרא
+2026601	4Q60	Isaiah	1	13	QR>[	QR>	QR>			qal	infc	NA		NA	verb					nnr	nnn	קרא
+2027324	4Q60	Isaiah	8	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר
+2026619	4Q60	Isaiah	1	14	NF>[	NF>	NF>			qal	infc	NA		NA	verb					rrr	nnn	נשא
+2027342	4Q60	Isaiah	8	6	MSS[	MCWC	MCWC			qal	infc	NA		NA	verb				W	nnnn	nnnn	משוש
+2028160	4Q61	Isaiah	42	18	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	nnnn	nnnn	ראות
+2028547	4Q62	Isaiah	42	7	PQX[	PQX	PQX			qal	infc	NA		NA	verb				L	rrr	nnn	פקח
+2028691	4Q62a	Isaiah	57	7	ZBX[	ZBX	ZBX			qal	infc	NA		NA	verb				L	rrr	nnn	זבח
+2029084	4Q65	Isaiah	8	11	HLK[	LKT	LKT			qal	infc	NA		NA	verb				M	rrr	nnn	לכת
+2029092	4Q65	Isaiah	8	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+2029203	4Q66	Isaiah	61	1	XBC[	XBC	XBC			qal	infc	NA		NA	verb				L	rrr	nnn	חבש
+2029208	4Q66	Isaiah	61	1	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא
+2029218	4Q66	Isaiah	61	2	QR>[	QRW>	QRW>			qal	infc	NA		NA	verb				L	rrrr	nnnn	קרוא
+2029234	4Q66	Isaiah	61	3	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+2029239	4Q66	Isaiah	61	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2029317	4Q67	Isaiah	58	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnrr	nnnn	עשות
+2029335	4Q67	Isaiah	58	13	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnrn	nnnn	עשות
+2029339	4Q67	Isaiah	58	13	MY>[	MY	MY			qal	infc	NA		NA	verb				ML	nn	nn	מץ
+2031302	4Q70	Jeremiah	17	8	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	rrnn	nnnn	עשות
+2030984	4Q70	Jeremiah	12	14	NTC[	NTWCM	NTWC			qal	infc	NA	m	NA	verb	M				nnnnn	nnnnn	נתושם
+2031913	4Q70	Jeremiah	20	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2031100	4Q70	Jeremiah	13	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2029998	4Q70	Jeremiah	8	5	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+2031824	4Q70	Jeremiah	18	22	LKD[	LKDNJ	LKD			qal	infc	NA		NA	verb	NJ			L	rrrrr	nnnnn	לכדני
+2030999	4Q70	Jeremiah	12	15	NTC[	NTCJ	NTC			qal	infc	NA		NA	verb	J				rnnn	nnnn	נתשי
+2030012	4Q70	Jeremiah	8	6	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2031676	4Q70	Jeremiah	18	15	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+2031324	4Q70	Jeremiah	17	10	NTN[	TT	TT			qal	infc	NA		NA	verb				WL	rr	nn	תת
+2030040	4Q70	Jeremiah	8	7	BW>[	B>NH	B>			qal	infc	NA		NA	verb	NH				rrrr	nnnn	באנה
+2030118	4Q70	Jeremiah	8	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2029606	4Q70	Jeremiah	7	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrn	nnn	אמר
+2031683	4Q70	Jeremiah	18	16	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	nnn	nnn	שום
+2030735	4Q70	Jeremiah	11	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnr	nnn	אמר
+2031769	4Q70	Jeremiah	18	20	<MD[	<MDJ	<MD			qal	infc	NA		NA	verb	J				rrrn	nnnn	עמדי
+2031987	4Q70	Jeremiah	21	1	CLX[	CLX	CLX			qal	infc	NA		NA	verb				B	rrr	nnn	שלח
+2031568	4Q70	Jeremiah	17	23	LQX[	QXT	QXT			qal	infc	NA		NA	verb					rrr	nnn	קחת
+2031967	4Q70	Jeremiah	20	18	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2031158	4Q70	Jeremiah	13	6	VMN[	VMNW	VMN			qal	infc	NA		NA	verb	W			L	nnnn	nnnn	טמנו
+2030648	4Q70	Jeremiah	10	13	NTN[	TTW	TT			qal	infc	NA		NA	verb	W				nnr	nnn	תתו
+2030769	4Q70	Jeremiah	11	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2029763	4Q70	Jeremiah	7	31	FRP[	FRP	FRP			qal	infc	NA		NA	verb				L	rrr	nnn	שרף
+2030504	4Q70	Jeremiah	9	12	<ZB[	<ZBM	<ZB			qal	infc	NA		NA	verb	M				nnnn	nnnn	עזבם
+2031602	4Q70	Jeremiah	17	24	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb					nnnn	nnnn	עשות
+2032673	4Q71	Jeremiah	10	13	NTN[	TTW	TT			qal	infc	NA		NA	verb	W				rrr	nnn	תתו
+2033372	4Q72	Jeremiah	20	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+2034547	4Q72	Jeremiah	30	24	<FH[	<FWTW	<FWT			qal	infc	NA		NA	verb	W				nnnnn	nnnnn	עשותו
+2034799	4Q72	Jeremiah	31	12	D>B[	D>BH	D>B			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	דאבה
+2033729	4Q72	Jeremiah	22	17	CPK[	CPWK	CPWK			qal	infc	NA		NA	verb				L	rrrr	nnnn	שפוך
+2033739	4Q72	Jeremiah	22	17	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2034512	4Q72	Jeremiah	30	21	NGC[	GCT	GCT			qal	infc	NA		NA	verb				L	rrr	nnn	גשת
+2034158	4Q72	Jeremiah	26	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2035038	4Q72	Jeremiah	33	19	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2033844	4Q72	Jeremiah	22	23	BW>[	B>	B>			qal	infc	NA		NA	verb				B	rr	nn	בא
+2033928	4Q72	Jeremiah	22	27	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+2034229	4Q72	Jeremiah	27	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2035056	4Q72	Jeremiah	33	20	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb					rrrr	nnnn	היות
+2034191	4Q72	Jeremiah	26	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2033972	4Q72	Jeremiah	24	7	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
+2034942	4Q72	Jeremiah	31	23	CWB=[	CWBJ	CWB			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	שובי
+2034303	4Q72	Jeremiah	27	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2034842	4Q72	Jeremiah	31	19	CWB[	CWBJ	CWB			qal	infc	NA		NA	verb	J				nnnn	nnnn	שובי
+2035184	4Q72a	Jeremiah	43	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2035189	4Q72a	Jeremiah	43	2	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	rrr	nnn	גור
+2035198	4Q72a	Jeremiah	43	3	NTN[	TT	TT			qal	infc	NA		NA	verb					rr	nn	תת
+2035230	4Q72a	Jeremiah	43	4	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
+2035319	4Q72a	Jeremiah	43	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2035637	4Q73	Ezekiel	10	16	HLK[	LKT	LKT			qal	infc	NA		NA	verb				WB	rrr	nnn	לכת
+2035646	4Q73	Ezekiel	10	16	NF>[	F>T	F>T			qal	infc	NA		NA	verb				WB	rrr	nnn	שאת
+2035652	4Q73	Ezekiel	10	16	RWM[	RWM	RWM			qal	infc	NA		NA	verb				L	rrr	nnn	רום
+2035667	4Q73	Ezekiel	10	17	<MD[	<MDM	<MD			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	עמדם
+2035671	4Q73	Ezekiel	10	17	RWM[	RWMM	RWM			qal	infc	NA		NA	verb	M			WB	nnnn	nnnn	רומם
+2036056	4Q73	Ezekiel	23	44	BW>[	BW>	BW>			qal	infc	NA		NA	verb				K	nnn	nnn	בוא
+2035435	4Q73	Ezekiel	10	6	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2035543	4Q73	Ezekiel	10	11	HLK[	LKTM	LKT			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	לכתם
+2035551	4Q73	Ezekiel	10	11	HLK[	LKTM	LKT			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	לכתם
+2035564	4Q73	Ezekiel	10	11	HLK[	LKTM	LKT			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	לכתם
+2035709	4Q73	Ezekiel	10	19	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	צאתם
+2035855	4Q73	Ezekiel	11	3	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb					rrrr	nnnn	בנות
+2036351	4Q74	Ezekiel	1	19	HLK[	LKT	LKT			qal	infc	NA		NA	verb				WB	rrr	nnn	לכת
+2036464	4Q74	Ezekiel	1	24	HLK[	LKTM	LKT			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	לכתם
+2036471	4Q74	Ezekiel	1	24	<MD[	<MDM	<MD			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	עמדם
+2036255	4Q74	Ezekiel	1	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2036260	4Q74	Ezekiel	1	12	HLK[	LKTN	LKT			qal	infc	NA		NA	verb	N			B	rrrr	nnnn	לכתן
+2036326	4Q74	Ezekiel	1	17	HLK[	LKTM	LKT			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	לכתם
+2036331	4Q74	Ezekiel	1	17	HLK[	LKTN	LKT			qal	infc	NA		NA	verb	N			B	rrrr	nnnn	לכתן
+2036383	4Q74	Ezekiel	1	21	HLK[	LKTM	LKT			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	לכתם
+2036387	4Q74	Ezekiel	1	21	<MD[	<MDM	<MD			qal	infc	NA		NA	verb	M			WB	nnnn	nnnn	עמדם
+2036776	4Q76	Malachi	3	2	BW>[	B>W	B>			qal	infc	NA		NA	verb	W				nnn	nnn	באו
+2037291	4Q76	Jonah	1	3	BRX[	BRX	BRX			qal	infc	NA		NA	verb				L	rrr	nnn	ברח
+2037312	4Q76	Jonah	1	3	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+2037230	4Q76	Malachi	3	23	BW>[	BW>	BW>			qal	infc	NA		NA	verb					rrr	nnn	בוא
+2037507	4Q76	Jonah	2	1	BL<[	BL<	BL<			qal	infc	NA		NA	verb				L	rrr	nnn	בלע
+2036629	4Q76	Malachi	2	13	PNH[	PNWT	PNWT			qal	infc	NA		NA	verb					nnnn	nnnn	פנות
+2036635	4Q76	Malachi	2	13	LQX[	QXT	QXT			qal	infc	NA		NA	verb				WL	rrr	nnn	קחת
+2036721	4Q76	Malachi	2	17	>MR[	>MRKM	>MR			qal	infc	NA		NA	verb	KM			B	rrrnn	nnnnn	אמרכם
+2037268	4Q76	Jonah	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2036543	4Q76	Zechariah	14	18	XGG[	XG	XG			qal	infc	NA		NA	verb				L	rr	nn	חג
+2037032	4Q76	Malachi	3	14	<BD[	<BD	<BD			qal	infc	NA		NA	verb					rrr	nnn	עבד
+2037780	4Q77	Haggai	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2037732	4Q77	Zephaniah	3	20	CWB=[	CWBJ	CWB			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	שובי
+2037787	4Q77	Haggai	1	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2037795	4Q77	Haggai	1	2	BW>[	B>	B>			qal	infc	NA		NA	verb					rr	nn	בא
+2037812	4Q77	Haggai	2	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2039774	4Q78	Amos	6	14	BW>[	BW>	BW>			qal	infc	NA		NA	verb				ML	rrr	nnn	בוא
+2039447	4Q78	Amos	3	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2039156	4Q78	Joel	4	12	CPV[	CPV	CPV			qal	infc	NA		NA	verb				L	rrr	nnn	שפט
+2038115	4Q78	Hosea	4	10	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrnn	nnnn	שמור
+2039842	4Q78	Amos	7	4	RJB[	RB	RB			qal	infc	NA		NA	verb				L	rr	nn	רב
+2039591	4Q78	Amos	3	10	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb					rrrr	nnnn	עשות
+2039791	4Q78	Amos	7	1	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb					rrrr	nnnn	עלות
+2039033	4Q78	Joel	2	20	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2038068	4Q78	Hosea	4	7	RBB[	RWBM	RWB			qal	infc	NA		NA	verb	M			K	nnnn	nnnn	רובם
+2039936	4Q78	Amos	7	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2039807	4Q78	Amos	7	2	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2039360	4Q78	Amos	2	12	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
+2038943	4Q78	Joel	2	17	MCL=[	MCL	MCL			qal	infc	NA		NA	verb				L	rrr	nnn	משל
+2039045	4Q78	Joel	2	21	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2038351	4Q78	Hosea	13	4	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2040489	4Q80	Haggai	2	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2040511	4Q80	Zechariah	1	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2040497	4Q80	Haggai	2	21	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2041086	4Q80	Zechariah	5	11	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	בנות
+2040839	4Q80	Zechariah	3	6	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2041025	4Q80	Zechariah	4	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2040650	4Q80	Zechariah	1	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2040573	4Q80	Zechariah	1	6	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrn	nnnn	עשות
+2040788	4Q80	Zechariah	3	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2041732	4Q81	Micah	5	1	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2041741	4Q81	Micah	5	1	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2044897	4Q82	Amos	6	14	BW>[	BW>	BW>			qal	infc	NA		NA	verb				ML	rrr	nnn	בוא
+2045258	4Q82	Amos	8	11	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+2042964	4Q82	Hosea	11	5	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+2046182	4Q82	Jonah	4	8	ZRX[	ZRX	ZRX			qal	infc	NA		NA	verb				K	rrr	nnn	זרח
+2046205	4Q82	Jonah	4	8	MWT[	MWT	MWT			qal	infc	NA		NA	verb				L	rrr	nnn	מות
+2044305	4Q82	Amos	3	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2042829	4Q82	Hosea	10	12	DRC[	DRWC	DRWC			qal	infc	NA		NA	verb				L	rrrr	nnnn	דרוש
+2045752	4Q82	Jonah	1	3	BRX[	BRX	BRX			qal	infc	NA		NA	verb				L	rrr	nnn	ברח
+2045773	4Q82	Jonah	1	3	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+2042555	4Q82	Hosea	9	12	FWR[	FWRJ	FWR			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	שורי
+2044960	4Q82	Amos	7	8	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb					rrrn	nnnn	עבור
+2043828	4Q82	Joel	4	12	CPV[	CPV	CPV			qal	infc	NA		NA	verb				L	rrr	nnn	שפט
+2041945	4Q82	Hosea	2	17	<LH[	<LTH	<LT			qal	infc	NA		NA	verb	H				rrrr	nnnn	עלתה
+2042205	4Q82	Hosea	4	10	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2046063	4Q82	Jonah	3	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2042068	4Q82	Hosea	3	1	>HB[	>HBT	>HBT			qal	infc	NA		NA	verb				K	rrrr	nnnn	אהבת
+2044146	4Q82	Amos	1	13	BQ<[	BQ<M	BQ<			qal	infc	NA		NA	verb	M				rrrr	nnnn	בקעם
+2045608	4Q82	Obadiah	1	11	<MD[	<MDK	<MD			qal	infc	NA		NA	verb	K				rrrr	nnnn	עמדך
+2045613	4Q82	Obadiah	1	11	CBH[	CB	CB			qal	infc	NA		NA	verb					nn	nn	שב
+2044914	4Q82	Amos	7	1	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb					rrrr	nnnn	עלות
+2044416	4Q82	Amos	4	8	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	שתות
+2045226	4Q82	Amos	8	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2046140	4Q82	Jonah	4	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnr	nnnn	היות
+2042333	4Q82	Hosea	6	11	CWB=[	CWBJ	CWB			qal	infc	NA		NA	verb	J			B	rrnn	nnnn	שובי
+2042789	4Q82	Hosea	10	10	>SR[	>SRM	>SR			qal	infc	NA		NA	verb	M			B	nrrn	nnnn	אסרם
+2043121	4Q82	Hosea	12	3	PQD[	PQWD	PQWD			qal	infc	NA		NA	verb				WL	nnnn	nnnn	פקוד
+2045648	4Q82	Obadiah	1	12	>BD[	>BDM	>BD			qal	infc	NA		NA	verb	M				rrrr	nnnn	אבדם
+2045729	4Q82	Jonah	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
+2044990	4Q82	Amos	7	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2042338	4Q82	Hosea	7	1	RP>[	RP>J	RP>			qal	infc	NA		NA	verb	J			K	rrrr	nnnn	רפאי
+2046164	4Q82	Jonah	4	7	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb				K	nnnn	nnnn	עלות
+2045188	4Q82	Amos	8	2	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb					rrrr	nnnn	עבור
+2043192	4Q82	Hosea	12	8	<CQ[	<CQ	<CQ			qal	infc	NA		NA	verb				L	nnn	nnn	עשק
+2043999	4Q82	Amos	1	3	DWC[	DWCM	DWC			qal	infc	NA		NA	verb	M				rrrr	nnnn	דושם
+2042603	4Q82	Hosea	9	15	>HB[	>HBTM	>HBT			qal	infc	NA		NA	verb	M				rrrrr	nnnnn	אהבתם
+2044105	4Q82	Amos	1	11	RDP[	RDPW	RDP			qal	infc	NA		NA	verb	W				nnnn	nnnn	רדפו
+2042800	4Q82	Hosea	10	11	DWC[	DWC	DWC			qal	infc	NA		NA	verb				L	rrr	nnn	דוש
+2044470	4Q82	Amos	5	2	QWM[	QWM	QWM			qal	infc	NA		NA	verb					rrr	nnn	קום
+2047783	4Q83	Psalms	71	9	KLH[	KLWT	KLWT			qal	infc	NA		NA	verb				K	nnnn	nnnn	כלות
+2047870	4Q83	Psalms	53	3	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2048222	4Q83	Psalms	69	4	QR>[	QR>J	QR>			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	קראי
+2047926	4Q83	Psalms	53	7	CWB=[	CWB	CWB			qal	infc	NA		NA	verb				B	rrr	nnn	שוב
+2048138	4Q83	Psalms	67	3	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
+2047430	4Q83	Psalms	36	3	MY>[	MYW>	MYW>			qal	infc	NA		NA	verb				L	nnnn	nnnn	מצוא
+2047433	4Q83	Psalms	36	3	FN>[	FN>	FN>			qal	infc	NA		NA	verb				L	rrr	nnn	שנא
+2047641	4Q83	Psalms	38	17	MWV[	MWV	MWV			qal	infc	NA		NA	verb				B	rrr	nnn	מוט
+2048057	4Q83	Psalms	63	3	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2047944	4Q83	Psalms	54	2	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	rrr	nnn	בוא
+2047799	4Q83	Psalms	71	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2047277	4Q83	Psalms	35	13	XLH[	XLWTM	XLWT			qal	infc	NA		NA	verb	M			B	rrrrr	nnnnn	חלותם
+2047078	4Q83	Psalms	31	23	XPZ[	XPZJ	XPZ			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	חפזי
+2048029	4Q83	Psalms	63	1	HJH[	HJWTW	HJWT			qal	infc	NA		NA	verb	W			B	rrrrr	nnnnn	היותו
+2048549	4Q84	Psalms	92	8	PRX[	PRX	PRX			qal	infc	NA		NA	verb				B	nnn	nnn	פרח
+2048982	4Q84	Psalms	102	21	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע
+2048858	4Q84	Psalms	102	5	>KL[	>KL	>KL			qal	infc	NA		NA	verb				M	rrn	nnn	אכל
+2048911	4Q84	Psalms	102	14	XNN[	XNNH	XNN			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	חננה
+2049008	4Q84	Psalms	102	23	<BD[	<BD	<BD			qal	infc	NA		NA	verb				L	rnn	nnn	עבד
+2049357	4Q84	Psalms	118	8	BVX[	BVX	BVX			qal	infc	NA		NA	verb				L	nnn	nnn	בטח
+2049361	4Q84	Psalms	118	8	BVX[	BVX	BVX			qal	infc	NA		NA	verb				M	nnn	nnn	בטח
+2049162	4Q84	Psalms	103	11	GBH[	GBH	GBH			qal	infc	NA		NA	verb				K	nrr	nnn	גבה
+2049206	4Q84	Psalms	103	20	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע
+2049173	4Q84	Psalms	103	12	RXQ[	RXQ	RXQ			qal	infc	NA		NA	verb				K	nnn	nnn	רחק
+2049367	4Q84	Psalms	118	9	XSH[	XSWT	XSWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	חסות
+2049371	4Q84	Psalms	118	9	BVX[	BVX	BVX			qal	infc	NA		NA	verb				M	nnn	nnn	בטח
+2049838	4Q85	Psalms	18	39	QWM[	QWM	QWM			qal	infc	NA		NA	verb					rrr	nnn	קום
+2050416	4Q85	Psalms	51	2	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	nnn	nnn	בוא
+2049551	4Q85	Psalms	16	10	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2050378	4Q85	Psalms	50	21	HJH[	>JWT	>JWT			qal	infc	NA		NA	verb					nnnn	nnnn	איות
+2049922	4Q85	Psalms	28	2	NF>[	NF>J	NF>			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	נשאי
+2049877	4Q85	Psalms	27	13	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2051665	4Q87	Psalms	126	1	CWB=[	CWB	CWB			qal	infc	NA		NA	verb				B	nnn	nnn	שוב
+2051186	4Q87	Psalms	89	51	NF>[	F>TJ	F>T			qal	infc	NA		NA	verb	J				rrrr	nnnn	שאתי
+2051688	4Q87	Psalms	126	2	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2051695	4Q87	Psalms	126	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2051067	4Q87	Psalms	86	11	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnrr	nnnn	יראה
+2051473	4Q87	Psalms	105	25	FN>[	FN>	FN>			qal	infc	NA		NA	verb				L	rrr	nnn	שנא
+2051502	4Q87	Psalms	105	38	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	צאתם
+2052392	4Q89	Psalms	119	82	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2052257	4Q89	Psalms	119	37	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				M	nnnn	nnnn	ראות
+2052746	4Q91	Psalms	51	2	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	rrr	nnn	בוא
+2052816	4Q92	Psalms	135	6	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2053246	4Q95	Psalms	135	6	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2053749	4Q98	Psalms	33	14	JCB[	CBTW	CBT			qal	infc	NA		NA	verb	W				nnnn	nnnn	שבתו
+2053898	4Q98	Psalms	35	13	XLH[	XLWTM	XLWT			qal	infc	NA		NA	verb	M			B	rrrrr	nnnnn	חלותם
+2054068	4Q98a	Psalms	30	10	JRD[	RDTJ	RDT			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	רדתי
+2054522	4Q99	Job	33	24	JRD[	RDT	RDT			qal	infc	NA		NA	verb				M	rrr	nnn	רדת
+2054569	4Q99	Job	33	28	<BR[	<BR	<BR			qal	infc	NA		NA	verb				M	rrr	nnn	עבר
+2054912	4Q99	Job	37	15	FJM[	FWM	FWM			qal	infc	NA		NA	verb				B	nnr	nnn	שום
+2054759	4Q99	Job	36	20	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עלות
+2054982	4Q100	Job	9	27	>MR[	>MRJ	>MR			qal	infc	NA		NA	verb	J				rrrr	nnnn	אמרי
+2055131	4Q101	Job	14	13	CWB[	CWB	CWB			qal	infc	NA		NA	verb					rrr	nnn	שוב
+2055149	4Q101	Job	14	14	BW>[	B>	B>			qal	infc	NA		NA	verb					nn	nn	בא
+2055191	4Q102	Proverbs	1	27	BW>[	B>	B>			qal	infc	NA		NA	verb				B	nn	nn	בא
+2055565	4Q103	Proverbs	15	24	SWR[	SWR	SWR			qal	infc	NA		NA	verb					nnn	nnn	סור
+2055600	4Q103	Proverbs	15	28	<NH[	<NWT	<NWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	ענות
+2055532	4Q103	Proverbs	15	21	HLK[	LKT	LKT			qal	infc	NA		NA	verb					nnn	nnn	לכת
+2055831	4Q104	Ruth	1	7	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+2055914	4Q104	Ruth	1	12	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				M	rrrr	nnnn	היות
+2055682	4Q104	Ruth	1	1	CPV[	CPV	CPV			qal	infc	NA		NA	verb					nnn	nnn	שפט
+2055698	4Q104	Ruth	1	1	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	nnn	nnn	גור
+2055810	4Q104	Ruth	1	6	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2056045	4Q105	Ruth	1	13	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb					rrrr	nnnn	היות
+2056314	4Q106	Song_of_songs	6	11	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2056320	4Q106	Song_of_songs	6	11	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2056956	4Q109	Ecclesiastes	5	17	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
+2056959	4Q109	Ecclesiastes	5	17	CTH[	CTWT	CTWT			qal	infc	NA		NA	verb				WL	rrrr	nnnn	שתות
+2056962	4Q109	Ecclesiastes	5	17	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				WL	rrrr	nnnn	ראות
+2057112	4Q109	Ecclesiastes	7	2	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+2057117	4Q109	Ecclesiastes	7	2	HLK[	LKT	LKT			qal	infc	NA		NA	verb				M	rrr	nnn	לכת
+2056900	4Q109	Ecclesiastes	5	14	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2057159	4Q109	Ecclesiastes	7	5	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+2057164	4Q109	Ecclesiastes	7	5	CM<[	CMW<	CMW<			qal	infc	NA	m	NA	verb				ML	nnnn	nnnn	שמוע
+2057216	4Q109	Ecclesiastes	7	9	K<S[	K<WS	K<WS			qal	infc	NA		NA	verb				L	rrrr	nnnn	כעוס
+2057411	4Q110	Ecclesiastes	1	15	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2057266	4Q110	Ecclesiastes	1	7	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2057281	4Q110	Ecclesiastes	1	8	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2057287	4Q110	Ecclesiastes	1	8	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע
+2057425	4Q110	Ecclesiastes	1	16	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2057362	4Q110	Ecclesiastes	1	13	DRC[	DRWC	DRWC			qal	infc	NA		NA	verb				L	nnnn	nnnn	דרוש
+2057365	4Q110	Ecclesiastes	1	13	TWR[	TWR	TWR			qal	infc	NA		NA	verb				WL	rrr	nnn	תור
+2057385	4Q110	Ecclesiastes	1	13	<NH===[	<NWT	<NWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ענות
+2057725	4Q111	Lamentations	1	14	QWM[	QWM	QWM			qal	infc	NA		NA	verb				L	nnn	nnn	קום
+2057574	4Q111	Lamentations	1	7	NPL[	NPL	NPL			qal	infc	NA		NA	verb				B	nnn	nnn	נפל
+2057737	4Q111	Lamentations	1	15	CBR[	CBWR	CBWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שבור
+2057594	4Q111	Lamentations	1	8	NWD[	NWD	NWD			qal	infc	sg		NA	verb				L	nnn	nnn	נוד
+2057770	4Q111	Lamentations	1	17	NDX[	NDWX	NDWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	נדוח
+2059651	4Q112	Daniel	11	15	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	nnn	nnn	עמד
+2059381	4Q112	Daniel	8	2	R>H[	R>TJ	R>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	ראתי
+2060846	4Q113	Daniel	8	7	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	rrr	nnn	עמד
+2060909	4Q113	Daniel	8	15	R>H[	R>WTJ	R>WT			qal	infc	NA		NA	verb	J			B	rnnnn	nnnnn	ראותי
+2060885	4Q113	Daniel	8	13	NTN[	TT	TT			qal	infc	NA		NA	verb					rr	nn	תת
+2060678	4Q113	Daniel	8	2	R>H[	R>WTJ	R>WT			qal	infc	NA		NA	verb	J			B	nnrrr	nnnnn	ראותי
+2061067	4Q114	Daniel	10	9	CM<[	CM<J	CM<			qal	infc	NA		NA	verb	J			WK	rrrr	nnnn	שמעי
+2061168	4Q114	Daniel	10	13	<ZR[	<ZRNJ	<ZR			qal	infc	NA		NA	verb	NJ			L	rrrrr	nnnnn	עזרני
+2061396	4Q114	Daniel	11	17	BW>[	B>	B>			qal	infc	NA		NA	verb				L	nn	nn	בא
+2061366	4Q114	Daniel	11	15	<MD[	<MD	<MD			qal	infc	NA		NA	verb				L	nnn	nnn	עמד
+2062136	4Q116	Daniel	9	13	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
+2062312	4Q117	Ezra	4	4	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	בנות
+2062278	4Q117	Ezra	4	3	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	בנות
+2062663	4Q118	2_Chronicles	29	3	MLK[	MLKW	MLK			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	מלכו
+2063081	4Q128	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrrn	nnnn	שמור
+2063212	4Q128	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2063585	4Q128	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2063000	4Q128	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2063004	4Q128	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	rrr	nnn	שמר
+2063683	4Q128	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2063689	4Q128	Deuteronomy	11	13	<BD[	<WBDW	<WBD			qal	infc	NA		NA	verb	W			WL	rrrnn	nnnnn	עובדו
+2063849	4Q128	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2063474	4Q128	Deuteronomy	11	5	BW>[	BW>KMH	BW>			qal	infc	NA		NA	verb	KMH				rrnnnn	nnnnnn	בואכמה
+2062709	4Q128	Deuteronomy	5	1	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	rrrr	nnnn	עשתם
+2062780	4Q128	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nrrr	nnnn	אמור
+2063110	4Q128	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2063943	4Q128	Exodus	12	48	<FH[	<FWTW	<FWT			qal	infc	NA		NA	verb	W			L	nnnnn	nnnnn	עשותו
+2063143	4Q128	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnrn	nnnn	יראה
+2063148	4Q128	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+2063154	4Q128	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+2063158	4Q128	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
+2063604	4Q128	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2063171	4Q128	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2063635	4Q128	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2063057	4Q128	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2063810	4Q128	Deuteronomy	11	19	JCB[	CBTKH	CBT			qal	infc	NA		NA	verb	KH			B	nnnnr	nnnnn	שבתכה
+2063815	4Q128	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
+2063820	4Q128	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	שכבך
+2063823	4Q128	Deuteronomy	11	19	QWM[	QWMKH	QWM			qal	infc	NA		NA	verb	KH			WB	rrnnn	nnnnn	קומכה
+2064011	4Q128	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2064101	4Q128	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2063062	4Q128	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2063456	4Q128	Deuteronomy	11	4	RDP[	RDPM	RDP			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	רדפם
+2063570	4Q128	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rnrr	nnnn	רשתה
+2065015	4Q129	Exodus	13	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2064821	4Q129	Deuteronomy	6	2	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2064644	4Q129	Deuteronomy	5	25	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
+2064734	4Q129	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2064738	4Q129	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור
+2064172	4Q129	Deuteronomy	5	1	<FH[	<FWTMH	<FWT			qal	infc	NA		NA	verb	MH			L	nnnnnn	nnnnnn	עשותמה
+2064244	4Q129	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2064850	4Q129	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2064557	4Q129	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	שמעכם
+2064790	4Q129	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2064440	4Q129	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2064804	4Q129	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2064812	4Q129	Deuteronomy	6	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2064795	4Q129	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2065351	4Q130	Exodus	13	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2065528	4Q130	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2065534	4Q130	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnrn	nnnn	עבדו
+2065695	4Q130	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2065477	4Q130	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nrrr	nnnn	שבתך
+2065482	4Q130	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WBW	nnnn	nnnn	לכתך
+2065487	4Q130	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
+2065490	4Q130	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2065230	4Q130	Exodus	13	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2065238	4Q130	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnrr	nnnn	צאתי
+2065656	4Q130	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
+2065661	4Q130	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrn	nnnn	לכתך
+2065666	4Q130	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nrrr	nnnn	שכבך
+2065669	4Q130	Deuteronomy	11	19	QWM[	QMK	QM			qal	infc	NA		NA	verb	K			WB	nnn	nnn	קמך
+2065080	4Q130	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2065169	4Q130	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2065714	4Q131	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2065720	4Q131	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nrnn	nnnn	עבדו
+2065783	4Q131	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2065773	4Q131	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrnn	nnnn	שבתך
+2065778	4Q131	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnr	nnnn	לכתך
+2065881	4Q132	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	צאתי
+2065799	4Q132	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2065976	4Q133	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2066088	4Q134	Deuteronomy	5	1	<FH[	<FWTM	<FWT			qal	infc	NA		NA	verb	M			L	nnnnn	nnnnn	עשותם
+2066122	4Q134	Deuteronomy	5	1	<FH[	<FWTM	<FWT			qal	infc	NA		NA	verb	M			WL	rrrnn	nnnnn	עשותם
+2066179	4Q134	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2066813	4Q135	Deuteronomy	6	2	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2066585	4Q135	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+2066671	4Q135	Deuteronomy	5	29	JR>[	JR>	JR>			qal	infc	NA		NA	verb				L	nnn	nnn	ירא
+2066675	4Q135	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר
+2066838	4Q135	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2066695	4Q135	Deuteronomy	5	30	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	nnn	nnn	שוב
+2066517	4Q135	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrnnn	nnnnn	שמעכם
+2066728	4Q135	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2066736	4Q135	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2066797	4Q135	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rnnn	nnnn	עשות
+2066805	4Q135	Deuteronomy	6	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2066741	4Q135	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2066948	4Q136	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2066954	4Q136	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnrr	nnnn	עבדו
+2067114	4Q136	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2067501	4Q136	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
+2067506	4Q136	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	שכבך
+2067509	4Q136	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	קומך
+2067201	4Q136	Exodus	12	48	<FH[	<FTW	<FT			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	עשתו
+2067420	4Q136	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2067428	4Q136	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	צאתי
+2067075	4Q136	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
+2067080	4Q136	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
+2067085	4Q136	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nrrr	nnnn	שכבך
+2067088	4Q136	Deuteronomy	11	19	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	קומך
+2067270	4Q136	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
+2067359	4Q136	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2067999	4Q137	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+2068101	4Q137	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2068105	4Q137	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור
+2067547	4Q137	Deuteronomy	5	1	<FH[	FWTMH	FWT			qal	infc	NA		NA	verb	MH				rrnnn	nnnnn	שותמה
+2067622	4Q137	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2068202	4Q137	Deuteronomy	6	3	<FH[	<FWTMH	<FWT			qal	infc	NA		NA	verb	MH			L	nnrrrr	nnnnnn	עשותמה
+2068217	4Q137	Deuteronomy	6	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2067926	4Q137	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	שמעכם
+2067821	4Q137	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2068164	4Q137	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2068305	4Q138	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rnrr	nnnn	אהבה
+2068677	4Q138	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2068563	4Q138	Deuteronomy	11	5	BW>[	BW>KMH	BW>			qal	infc	NA		NA	verb	KMH				nnnnnn	nnnnnn	בואכמה
+2068237	4Q138	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2068241	4Q138	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2068247	4Q138	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrnn	nnnn	אהבה
+2068251	4Q138	Deuteronomy	10	12	<BD[	<BWD	<BWD			qal	infc	NA		NA	verb				WL	nnnn	nnnn	עבוד
+2068698	4Q138	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2068265	4Q138	Deuteronomy	10	13	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nrrn	nnnn	שמור
+2068729	4Q138	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2068372	4Q138	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2068545	4Q138	Deuteronomy	11	4	RDP[	RWDPMH	RWDP			qal	infc	NA		NA	verb	MH			B	nnnnnn	nnnnnn	רודפמה
+2068661	4Q138	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnr	nnnn	רשתה
+2068942	4Q139	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2069504	4Q140	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור
+2069535	4Q140	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2069167	4Q140	Exodus	12	48	<FH[	<FWTW	<FWT			qal	infc	NA		NA	verb	W			L	nnnnn	nnnnn	עשותו
+2069393	4Q140	Exodus	13	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2069401	4Q140	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	צאתי
+2069485	4Q140	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2069494	4Q140	Deuteronomy	6	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnr	nnnn	רשתה
+2069238	4Q140	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2069332	4Q140	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2069743	4Q142	Deuteronomy	5	1	<FH[	<FWTMH	<FWT			qal	infc	NA		NA	verb	MH			L	nnnnnn	nnnnnn	עשותמה
+2069814	4Q142	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
+2070058	4Q142	Deuteronomy	6	7	JCB[	CBTKH	CBT			qal	infc	NA		NA	verb	KH			B	rrrrr	nnnnn	שבתכה
+2070064	4Q142	Deuteronomy	6	7	HLK[	KTKH	KT			qal	infc	NA		NA	verb	KH				rrrr	nnnn	כתכה
+2070069	4Q142	Deuteronomy	6	7	CKB[	CKBKH	CKB			qal	infc	NA		NA	verb	KH			WB	rnnnr	nnnnn	שכבכה
+2070072	4Q142	Deuteronomy	6	7	QWM[	QWMKH	QWM			qal	infc	NA		NA	verb	KH			WB	nnnnn	nnnnn	קומכה
+2070010	4Q142	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2070256	4Q143	Deuteronomy	11	19	HLK[	LKTKH	LKT			qal	infc	NA		NA	verb	KH			WB	rrnnn	nnnnn	לכתכה
+2070265	4Q143	Deuteronomy	11	19	QWM[	QWMKH	QWM			qal	infc	NA		NA	verb	KH			WB	rrrrr	nnnnn	קומכה
+2070317	4Q144	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2070323	4Q144	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	rrrr	nnnn	עבדו
+2070517	4Q144	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2070525	4Q144	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	צאתי
+2070457	4Q144	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2070704	4Q145	Exodus	13	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2070712	4Q145	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	צאתי
+2070554	4Q145	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2070643	4Q145	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2070799	4Q146	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2070763	4Q146	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K				rrrn	nnnn	לכתך
+2070769	4Q146	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nrrr	nnnn	שכבך
+2070772	4Q146	Deuteronomy	11	19	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			B	rrnn	nnnn	קומך
+2071005	4Q150	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2071254	4Q151	Deuteronomy	6	2	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2071464	4Q151	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2071137	4Q151	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2071141	4Q151	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	rrr	nnn	שמר
+2071348	4Q151	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
+2071353	4Q151	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
+2071358	4Q151	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	שכבך
+2071361	4Q151	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	קומך
+2071397	4Q151	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2071402	4Q151	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnr	nnn	לכת
+2071408	4Q151	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+2071412	4Q151	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
+2071425	4Q151	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2071194	4Q151	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2071238	4Q151	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2071246	4Q151	Deuteronomy	6	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2071530	4Q151	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2071199	4Q151	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2071613	4Q152	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
+2071618	4Q152	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
+2071623	4Q152	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	שכבך
+2071698	4Q154	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2071834	4Q155	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2071938	4Q576	Genesis	34	7	CM<[	CM<M	CM<			qal	infc	NA		NA	verb	M			K	rrrr	nnnn	שמעם
+2071953	4Q576	Genesis	34	7	CKB[	CKB	CKB			qal	infc	NA		NA	verb				L	rrr	nnn	שכב
+2071967	4Q576	Genesis	34	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2072164	5Q1	Deuteronomy	7	20	>BD[	>BD	>BD			qal	infc	NA		NA	verb					rrr	nnn	אבד
+2072560	5Q1	Deuteronomy	9	1	BW>[	B>	B>			qal	infc	NA		NA	verb				L	rr	nn	בא
+2072562	5Q1	Deuteronomy	9	1	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
+2072485	5Q1	Deuteronomy	8	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2072261	5Q1	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2072266	5Q1	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	יראה
+2072354	5Q1	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					nnn	nnn	שמר
+2072722	5Q2	1_Kings	1	30	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2072859	5Q2	1_Kings	1	35	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2073002	5Q4	Amos	1	3	DWC[	DWCM	DWC			qal	infc	NA		NA	verb	M				rrrr	nnnn	דושם
+2073357	5Q6	Lamentations	4	15	GWR[	GWR	GWR			qal	infc	NA		NA	verb				L	nnn	nnn	גור
+2073381	5Q6	Lamentations	4	18	HLK[	LKT	LKT			qal	infc	NA		NA	verb				M	rrr	nnn	לכת
+2073508	5Q6	Lamentations	5	6	FB<[	FBW<	FBW<			qal	infc	NA		NA	verb				L	nrrr	nnnn	שבוע
+2073700	5Q7	Lamentations	4	18	HLK[	LKT	LKT			qal	infc	NA		NA	verb				M	rrr	nnn	לכת
+2073989	6Q3	Deuteronomy	26	19	NTN[	TTK	TT			qal	infc	NA		NA	verb	K			WL	nnn	nnn	תתך
+2074007	6Q3	Deuteronomy	26	19	HJH[	HJTK	HJT			qal	infc	NA		NA	verb	K			WL	rrrr	nnnn	היתך
+2074209	6Q4	1_Kings	22	31	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2074241	6Q4	2_Kings	5	26	QR>=[	QR>TK	QR>T			qal	infc	NA		NA	verb	K			L	rrnnn	nnnnn	קראתך
+2074245	6Q4	2_Kings	5	26	LQX[	QXT	QXT			qal	infc	NA		NA	verb				L	rrr	nnn	קחת
+2074251	6Q4	2_Kings	5	26	LQX[	QXT	QXT			qal	infc	NA		NA	verb				WL	rrr	nnn	קחת
+2074060	6Q4	1_Kings	3	14	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2074560	6Q4	2_Kings	8	4	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2074310	6Q4	2_Kings	6	32	BW>[	B>	B>			qal	infc	NA		NA	verb				K	nn	nn	בא
+2074487	6Q4	2_Kings	8	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2074427	6Q4	2_Kings	7	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+2075338	6Q7	Daniel	10	9	CM<[	CM<J	CM<			qal	infc	NA		NA	verb	J			WK	rrrr	nnnn	שמעי
+2075451	6Q7	Daniel	10	13	<ZR[	<ZRNJ	<ZR			qal	infc	NA		NA	verb	NJ			L	rrrrr	nnnnn	עזרני
+2075664	6Q7	Daniel	8	17	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			WB	rrr	nnn	באו
+2075561	6Q7	Daniel	11	35	YRP[	YRWP	YRWP			qal	infc	NA		NA	verb				L	rrrr	nnnn	צרוף
+2076020	8Q1	Genesis	18	25	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	עשות
+2076489	8Q3	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2076921	8Q3	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור
+2077746	8Q3	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2076579	8Q3	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrnn	nnnn	אהבה
+2076585	8Q3	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
+2076745	8Q3	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2077319	8Q3	Deuteronomy	5	1	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	nnnn	nnnn	עשתם
+2077384	8Q3	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2076949	8Q3	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2076801	8Q3	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rnnn	nnnn	שבתך
+2076806	8Q3	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
+2076811	8Q3	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
+2076814	8Q3	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2077040	8Q3	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2077045	8Q3	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+2077051	8Q3	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+2077055	8Q3	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד
+2077766	8Q3	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2076374	8Q3	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2076382	8Q3	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	צאתי
+2077068	8Q3	Deuteronomy	10	13	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור
+2076706	8Q3	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
+2076711	8Q3	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
+2076716	8Q3	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
+2076719	8Q3	Deuteronomy	11	19	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	קומך
+2076905	8Q3	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2076225	8Q3	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2076313	8Q3	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rn	nn	תת
+2077731	8Q3	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2078160	8Q4	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2078525	8Q4	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2078619	8Q4	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrnn	nnnn	אהבה
+2078625	8Q4	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
+2078785	8Q4	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2078409	8Q4	Deuteronomy	11	5	BW>[	B>KM	B>			qal	infc	NA		NA	verb	KM				rrrr	nnnn	באכם
+2078092	8Q4	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2078097	8Q4	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2078103	8Q4	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+2078107	8Q4	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
+2078544	8Q4	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2078120	8Q4	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
+2078575	8Q4	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2078746	8Q4	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrnn	nnnn	שבתך
+2078751	8Q4	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rnnn	nnnn	לכתך
+2078756	8Q4	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nrrr	nnnn	שכבך
+2078759	8Q4	Deuteronomy	11	19	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2078226	8Q4	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
+2078391	8Q4	Deuteronomy	11	4	RDP[	RDPM	RDP			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	רדפם
+2078510	8Q4	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2080326	11Q1	Leviticus	21	10	LBC[	LBC	LBC			qal	infc	NA		NA	verb				L	nnn	nnn	לבש
+2079838	11Q1	Leviticus	17	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2080775	11Q1	Leviticus	25	29	TMM[	TM	TM			qal	infc	NA		NA	verb					nn	nn	תם
+2080733	11Q1	Leviticus	24	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2080989	11Q1	Leviticus	26	21	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע
+2080531	11Q1	Leviticus	23	24	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2080051	11Q1	Leviticus	19	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2080027	11Q1	Leviticus	18	30	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb					nnnn	nnnn	עשות
+2079859	11Q1	Leviticus	17	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר
+2080787	11Q1	Leviticus	25	30	ML>[	ML>WT	ML>WT			qal	infc	NA		NA	verb					nnnnn	nnnnn	מלאות
+2081074	11Q1	Leviticus	26	26	CBR[	CBRJ	CBR			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	שברי
+2079588	11Q1	Leviticus	15	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2079670	11Q1	Leviticus	16	1	QRB[	QRBTM	QRBT			qal	infc	NA		NA	verb	M			B	rrrrr	nnnnn	קרבתם
+2080175	11Q1	Leviticus	20	4	NTN[	TTW	TT			qal	infc	NA		NA	verb	W			B	rrr	nnn	תתו
+2080487	11Q1	Leviticus	22	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2080501	11Q1	Leviticus	23	22	QYR=[	QYRK	QYR			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	קצרך
+2080567	11Q1	Leviticus	23	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2080296	11Q1	Leviticus	21	9	ZNH[	ZNWT	ZNWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	זנות
+2080091	11Q1	Leviticus	20	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2080209	11Q1	Leviticus	20	5	ZNH[	ZNWT	ZNWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	זנות
+2080721	11Q1	Leviticus	24	12	PRC[	PRC	PRC			qal	infc	NA		NA	verb				L	nnn	nnn	פרש
+2080524	11Q1	Leviticus	23	23	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2081818	11Q4	Ezekiel	1	9	HLK[	LKTM	LKT			qal	infc	NA		NA	verb	M			B	nnrr	nnnn	לכתם
+2082050	11Q4	Ezekiel	5	15	<FH[	<FWTJ	<FWT			qal	infc	NA		NA	verb	J			B	rrrrr	nnnnn	עשותי
+2087657	11Q7	Psalms	19	6	RWY[	RWY	RWY			qal	infc	NA		NA	verb				L	rrr	nnn	רוץ
+2087362	11Q7	Psalms	17	11	NVH[	NVWT	NVWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	נטות
+2087288	11Q7	Psalms	14	2	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2087024	11Q7	Psalms	9	4	CWB[	CWB	CWB			qal	infc	NA		NA	verb				B	nnn	nnn	שוב
+2087187	11Q7	Psalms	12	9	RWM[	RWM	RWM			qal	infc	NA		NA	verb				K	rrr	nnn	רום
+2087371	11Q7	Psalms	17	12	VRP[	VRWP	VRWP			qal	infc	NA		NA	verb				L	nnnn	nnnn	טרוף
+2087105	11Q7	Psalms	11	2	JRH=[	JRWT	JRWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ירות
+2088299	11Q8	Psalms	81	6	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	צאתו
+2088174	11Q8	Psalms	68	17	JCB[	CBTW	CBT			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	שבתו
+2088259	11Q8	Psalms	78	10	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
+2088032	11Q8	Psalms	59	5	QR>=[	QR>TJ	QR>T			qal	infc	NA		NA	verb	J			L	rrrrr	nnnnn	קראתי
+2087873	11Q8	Psalms	36	13	QWM[	QWM	QWM			qal	infc	NA		NA	verb					rrn	nnn	קום
+2087774	11Q8	Psalms	9	4	CWB[	CWB	CWB			qal	infc	NA		NA	verb				B	rrr	nnn	שוב
+2088344	11Q8	Psalms	86	11	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2088045	11Q8	Psalms	59	6	PQD[	PQD	PQD			qal	infc	NA		NA	verb				L	rrr	nnn	פקד
+2088467	11Q9	Psalms	50	4	DJN[	DJN	DJN			qal	infc	NA		NA	verb				L	rrr	nnn	דין
+2088937	Xq1	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2088585	Xq1	Exodus	12	48	<FH[	<FWTW	<FWT			qal	infc	NA		NA	verb	W			L	nnnnn	nnnnn	עשותו
+2088867	Xq1	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnrr	nnnn	יראה
+2088872	Xq1	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
+2088878	Xq1	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+2088882	Xq1	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד
+2088803	Xq1	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2088811	Xq1	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	צאתי
+2088897	Xq1	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר
+2089003	Xq1	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2088654	Xq1	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
+2088742	Xq1	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2089352	Xq2	Deuteronomy	6	2	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	nnn	nnn	שמר
+2089130	Xq2	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
+2089220	Xq2	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2089224	Xq2	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר
+2089383	Xq2	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2089450	Xq2	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
+2089455	Xq2	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
+2089460	Xq2	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
+2089463	Xq2	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2089058	Xq2	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	nnnnn	nnnnn	שמעכם
+2089275	Xq2	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2089335	Xq2	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2089343	Xq2	Deuteronomy	6	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
+2089280	Xq2	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2089924	Xq3	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2089521	Xq3	Deuteronomy	5	1	<FH[	<FWTM	<FWT			qal	infc	NA		NA	verb	M			L	nnnnn	nnnnn	עשותם
+2089593	Xq3	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnn	nnn	אמר
+2089787	Xq3	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2090018	Mur1	Genesis	32	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2090140	Mur1	Genesis	34	7	CM<[	CM<M	CM<			qal	infc	NA		NA	verb	M			K	nnnn	nnnn	שמעם
+2090155	Mur1	Genesis	34	7	CKB[	CKB	CKB			qal	infc	NA		NA	verb				L	nnn	nnn	שכב
+2090523	Mur1	Exodus	6	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2090119	Mur1	Genesis	34	5	BW>[	B>M	B>			qal	infc	NA		NA	verb	M				rrr	nnn	באם
+2090217	Mur1	Genesis	35	1	BRX[	BRXK	BRX			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	ברחך
+2090566	Mur1	Exodus	6	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2090933	Mur3	Isaiah	1	12	RMS[	RMS	RMS			qal	infc	NA		NA	verb					rrr	nnn	רמס
+2090948	Mur3	Isaiah	1	13	QR>[	QR>	QR>			qal	infc	NA		NA	verb					rrr	nnn	קרא
+2090966	Mur3	Isaiah	1	14	NF>[	NF>	NF>			qal	infc	NA		NA	verb					rrr	nnn	נשא
+2091243	Mur4	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2091333	Mur4	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2091339	Mur4	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
+2091499	Mur4	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2091555	Mur4	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
+2091560	Mur4	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
+2091565	Mur4	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
+2091568	Mur4	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2091123	Mur4	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2091131	Mur4	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	צאתי
+2091460	Mur4	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
+2091465	Mur4	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
+2091470	Mur4	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
+2091473	Mur4	Deuteronomy	11	19	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2090974	Mur4	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2091062	Mur4	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2092715	Mur88	Amos	8	11	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע
+2098932	Mur88	Haggai	1	4	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
+2094480	Mur88	Jonah	4	8	ZRX[	ZRX	ZRX			qal	infc	NA		NA	verb				K	nnn	nnn	זרח
+2094503	Mur88	Jonah	4	8	MWT[	MWT	MWT			qal	infc	NA		NA	verb				L	rnn	nnn	מות
+2099495	Mur88	Haggai	2	16	HJH[	HJWTM	HJWT			qal	infc	NA		NA	verb	M			M	rrrrr	nnnnn	היותם
+2099508	Mur88	Haggai	2	16	XFP[	XFP	XFP			qal	infc	NA		NA	verb				L	rrr	nnn	חשף
+2097910	Mur88	Habakkuk	3	14	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrn	nnnn	אכול
+2099607	Mur88	Haggai	2	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+2098673	Mur88	Zephaniah	3	11	GBH[	GBHH	GB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	גבהה
+2095136	Mur88	Micah	3	1	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrn	nnn	דעת
+2097642	Mur88	Habakkuk	2	10	QYH[	QYWT	QYWT			qal	infc	NA		NA	verb					rrrr	nnnn	קצות
+2097312	Mur88	Habakkuk	1	6	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	nnn	nnn	רשת
+2097675	Mur88	Habakkuk	2	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2093592	Mur88	Jonah	1	3	BRX[	BRX	BRX			qal	infc	NA		NA	verb				L	rrr	nnn	ברח
+2093613	Mur88	Jonah	1	3	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rnn	nnn	בוא
+2092380	Mur88	Amos	7	8	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb					nnnr	nnnn	עבור
+2092006	Mur88	Joel	4	12	CPV[	CPV	CPV			qal	infc	NA		NA	verb				L	nnn	nnn	שפט
+2098893	Mur88	Haggai	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2092303	Mur88	Amos	7	4	RJB[	RB	RB			qal	infc	NA		NA	verb				L	rr	nn	רב
+2094112	Mur88	Jonah	3	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2099615	Mur88	Haggai	2	21	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2099135	Mur88	Haggai	1	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2096299	Mur88	Micah	7	11	BNH[	BNWT	BNWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	בנות
+2096370	Mur88	Micah	7	15	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K				nnnn	nnnn	צאתך
+2098845	Mur88	Zephaniah	3	20	CWB=[	CWBJ	CWB			qal	infc	NA		NA	verb	J			B	nrrn	nnnn	שובי
+2095241	Mur88	Micah	3	6	QSM[	QSM	QSM			qal	infc	NA		NA	verb				M	nnn	nnn	קסם
+2099308	Mur88	Haggai	2	5	JY>[	Y>TKM	Y>T			qal	infc	NA		NA	verb	KM			B	nnnnn	nnnnn	צאתכם
+2098593	Mur88	Zephaniah	3	8	QWM[	QWMJ	QWM			qal	infc	NA		NA	verb	J				rrrr	nnnn	קומי
+2098599	Mur88	Zephaniah	3	8	>SP[	>SP	>SP			qal	infc	NA		NA	verb				L	nnn	nnn	אסף
+2098602	Mur88	Zephaniah	3	8	QBY[	QBYJ	QBY			qal	infc	NA		NA	verb	J			L	rrrr	nnnn	קבצי
+2098605	Mur88	Zephaniah	3	8	CPK[	CPK	CPK			qal	infc	NA		NA	verb				L	rrr	nnn	שפך
+2092215	Mur88	Amos	1	13	BQ<[	BQ<M	BQ<			qal	infc	NA		NA	verb	M				nnnn	nnnn	בקעם
+2099212	Mur88	Haggai	2	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2093310	Mur88	Obadiah	1	11	<MD[	<MDK	<MD			qal	infc	NA		NA	verb	K				nnnn	nnnn	עמדך
+2093315	Mur88	Obadiah	1	11	CBH[	CBWT	CBWT			qal	infc	NA		NA	verb					nnnn	nnnn	שבות
+2096106	Mur88	Micah	6	16	NTN[	TTJ	TT			qal	infc	NA		NA	verb	J				rrr	nnn	תתי
+2091634	Mur88	Joel	2	20	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2094319	Mur88	Jonah	3	10	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
+2092639	Mur88	Amos	8	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2094348	Mur88	Jonah	4	2	HJH[	HJWTJ	HJWT			qal	infc	NA		NA	verb	J				nnnnn	nnnnn	היותי
+2094355	Mur88	Jonah	4	2	BRX[	BRX	BRX			qal	infc	NA		NA	verb				L	nnn	nnn	ברח
+2097350	Mur88	Habakkuk	1	8	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול
+2095343	Mur88	Micah	3	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2099401	Mur88	Haggai	2	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2098900	Mur88	Haggai	1	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
+2098908	Mur88	Haggai	1	2	BW>[	B>	B>			qal	infc	NA		NA	verb					nr	nn	בא
+2094440	Mur88	Jonah	4	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
+2099697	Mur88	Zechariah	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2098968	Mur88	Haggai	1	6	CKR[	CKRH	CKR			qal	infc	NA		NA	verb	H			L	nrnn	nnnn	שכרה
+2098973	Mur88	Haggai	1	6	XMM[	XM	XM			qal	infc	NA		NA	verb				L	nn	nn	חם
+2098629	Mur88	Zephaniah	3	9	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	nnn	nnn	קרא
+2098635	Mur88	Zephaniah	3	9	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	עבדו
+2097944	Mur88	Habakkuk	3	16	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עלות
+2091747	Mur88	Joel	3	4	BW>[	BW>	BW>			qal	infc	NA		NA	verb					rrr	nnn	בוא
+2093952	Mur88	Jonah	2	1	BL<[	BL<	BL<			qal	infc	NA		NA	verb				L	nnn	nnn	בלע
+2099237	Mur88	Haggai	2	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+2093350	Mur88	Obadiah	1	12	>BD[	>BDM	>BD			qal	infc	NA		NA	verb	M				nnnn	nnnn	אבדם
+2093569	Mur88	Jonah	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2096697	Mur88	Nahum	2	1	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	עבור
+2092410	Mur88	Amos	7	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+2094231	Mur88	Jonah	3	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2095699	Mur88	Micah	5	1	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2095707	Mur88	Micah	5	1	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	היות
+2098925	Mur88	Haggai	1	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
+2094464	Mur88	Jonah	4	7	<LH[	<LWT	<LWT			qal	infc	NA		NA	verb				B	nnnn	nnnn	עלות
+2099486	Mur88	Haggai	2	15	FJM[	FWM	FWM			qal	infc	NA		NA	verb					rrr	nnn	שום
+2098214	Mur88	Zephaniah	2	2	JLD[	LDT	LDT			qal	infc	NA		NA	verb					rrr	nnn	לדת
+2095983	Mur88	Micah	6	5	JD<[	D<T	D<T			qal	infc	NA		NA	verb					nnn	nnn	דעת
+2092604	Mur88	Amos	8	2	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb					rrrr	nnnn	עבור
+2092667	Mur88	Amos	8	6	QNH[	QNWT	QNWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	קנות
+2097420	Mur88	Habakkuk	1	13	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				M	rrrr	nnnn	ראות
+2096132	Mur88	Micah	7	1	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	אכול
+2093549	Mur88	Obadiah	1	21	CPV[	CPV	CPV			qal	infc	NA		NA	verb				L	nnn	nnn	שפט
+2092174	Mur88	Amos	1	11	RDP[	RDPW	RDP			qal	infc	NA		NA	verb	W				rrrr	nnnn	רדפו
+2097628	Mur88	Habakkuk	2	9	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
+2094158	Mur88	Jonah	3	4	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
+2092269	Mur88	Amos	2	1	FRP[	FRPW	FRP			qal	infc	NA		NA	verb	W				rrrr	nnnn	שרפו
+2099776	Murx	Genesis	34	1	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
+2099861	Sdeir1	Genesis	35	7	BRX[	BRXW	BRX			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	ברחו
+2099894	Sdeir1	Genesis	35	9	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			B	rrr	nnn	באו
+2100080	Sdeir1	Genesis	36	7	JCB[	CBT	CBT			qal	infc	NA		NA	verb				M	nnn	nnn	שבת
+2100088	Sdeir1	Genesis	36	7	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	nnn	nnn	שאת
+2100300	5/6hev1a	Numbers	20	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2100657	5/6hev1b	Psalms	10	9	XVP[	XVP	XVP			qal	infc	NA		NA	verb				L	nnn	nnn	חטף
+2100662	5/6hev1b	Psalms	10	9	MCK[	MCKW	MCK			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	משכו
+2101284	5/6hev1b	Psalms	18	39	QWM[	QWM	QWM			qal	infc	NA		NA	verb					nnn	nnn	קום
+2100675	5/6hev1b	Psalms	10	18	CPV[	CPV	CPV			qal	infc	NA		NA	verb				L	rrr	nnn	שפט
+2100683	5/6hev1b	Psalms	10	18	<RY[	<RY	<RY			qal	infc	NA		NA	verb				L	rrr	nnn	ערץ
+2101797	5/6hev1b	Psalms	31	14	LQX[	QXT	QXT			qal	infc	NA		NA	verb				L	nnn	nnn	קחת
+2100844	5/6hev1b	Psalms	14	2	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	nrrr	nnnn	ראות
+2100801	5/6hev1b	Psalms	12	9	RWM[	RM	RM			qal	infc	NA		NA	verb				K	nn	nn	רם
+2100715	5/6hev1b	Psalms	11	2	JRH=[	JRWT	JRWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	ירות
+2101985	Xhev/se2	Numbers	27	6	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2101920	Xhev/se2	Numbers	27	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2102013	Xhev/se2	Numbers	27	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2102190	Xhev/se3	Deuteronomy	9	5	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
+2102242	Xhev/se3	Deuteronomy	9	6	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
+2102282	Xhev/se3	Deuteronomy	9	23	CLX[	CLX	CLX			qal	infc	NA		NA	verb				WB	rrr	nnn	שלח
+2102289	Xhev/se3	Deuteronomy	9	23	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2102584	Xhev/se5	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2102751	Xhev/se5	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2102757	Xhev/se5	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
+2102914	Xhev/se5	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2102700	Xhev/se5	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
+2102705	Xhev/se5	Deuteronomy	6	7	HLK[	LKT	LKT			qal	infc	NA		NA	verb				WB	nnn	nnn	לכת
+2102710	Xhev/se5	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
+2102713	Xhev/se5	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2102472	Xhev/se5	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	צאתי
+2102875	Xhev/se5	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
+2102880	Xhev/se5	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnrr	nnnn	לכתך
+2102885	Xhev/se5	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	שכבך
+2102888	Xhev/se5	Deuteronomy	11	19	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
+2102318	Xhev/se5	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2102406	Xhev/se5	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2103199	34Se1	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2103079	34Se1	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2103087	34Se1	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	צאתי
+2102930	34Se1	Exodus	13	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2103018	34Se1	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
+2104040	Mas1b	Leviticus	10	9	BW>[	B>KM	B>			qal	infc	NA		NA	verb	KM			B	rrrr	nnnn	באכם
+2104331	Mas1b	Leviticus	11	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2103670	Mas1b	Leviticus	9	4	ZBX[	ZBX	ZBX			qal	infc	NA		NA	verb				L	rrr	nnn	זבח
+2103575	Mas1b	Leviticus	8	33	ML>[	ML>T	ML>T			qal	infc	NA		NA	verb					rrrr	nnnn	מלאת
+2104339	Mas1b	Leviticus	11	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2103595	Mas1b	Leviticus	8	34	<FH[	<FT	<FT			qal	infc	NA		NA	verb				L	rrr	nnn	עשת
+2103927	Mas1b	Leviticus	9	22	<FH[	<FT	<FT			qal	infc	NA		NA	verb				M	rnn	nnn	עשת
+2104028	Mas1b	Leviticus	10	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2104230	Mas1b	Leviticus	10	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2103546	Mas1b	Leviticus	8	31	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2103647	Mas1b	Leviticus	9	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
+2104251	Mas1b	Leviticus	10	17	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	nnn	nnn	שאת
+2105021	Mas1c	Deuteronomy	32	46	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrn	nnn	שמר
+2105023	Mas1c	Deuteronomy	32	46	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
+2105052	Mas1c	Deuteronomy	33	18	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	צאתך
+2105198	Mas1c	Deuteronomy	34	4	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
+2106352	Mas1d	Ezekiel	37	13	PTX[	PTXJ	PTX			qal	infc	NA		NA	verb	J			B	nnnr	nnnn	פתחי
+2105266	Mas1d	Ezekiel	35	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2106493	Mas1d	Ezekiel	38	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2105377	Mas1d	Ezekiel	36	3	HJH[	HJWTKM	HJWT			qal	infc	NA		NA	verb	KM			L	rrrrrr	nnnnnn	היותכם
+2106391	Mas1d	Ezekiel	37	15	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2105757	Mas1d	Ezekiel	36	20	>MR[	>MR	>MR			qal	infc	NA		NA	verb				B	nrn	nnn	אמר
+2105549	Mas1d	Ezekiel	36	8	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrr	nnn	בוא
+2105684	Mas1d	Ezekiel	36	16	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2106480	Mas1d	Ezekiel	37	28	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				B	rrrr	nnnn	היות
+2106681	Mas1e	Psalms	81	6	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	צאתו
+2107207	Mas1e	Psalms	84	11	DWR[	DWR	DWR			qal	infc	NA		NA	verb				M	nrn	nnn	דור
+2107484	Arugleviticus	Leviticus	24	16	NQB[	NQBW	NQB			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	נקבו
+2107390	Arugleviticus	Leviticus	23	39	>SP[	>SPKM	>SP			qal	infc	NA		NA	verb	KM			B	rrrrr	nnnnn	אספכם
+2107617	Xjoshua	Joshua	2	5	SGR[	SGWR	SGWR			qal	infc	NA		NA	verb				L	rrnr	nnnn	סגור
+2107535	Xjoshua	Joshua	1	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
+2107548	Xjoshua	Joshua	1	11	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rnr	nnn	אמר
+2107565	Xjoshua	Joshua	1	11	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rnn	nnn	בוא
+2107567	Xjoshua	Joshua	1	11	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rnn	nnn	רשת
+2107577	Xjoshua	Joshua	1	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
