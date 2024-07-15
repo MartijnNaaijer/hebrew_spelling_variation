@@ -1,3 +1,8 @@
+import collections
+
+from Bio import pairwise2
+from Bio.Seq import Seq
+
 def align_verses(str_1, str_2):
     seq1 = Seq(str_1)
     seq2 = Seq(str_2)
