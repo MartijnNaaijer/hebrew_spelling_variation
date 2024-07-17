@@ -70,14 +70,7 @@ class InfcOtherCorrector:
         self.remove_verbs_with_dropped_first_consonant()
         self.remove_nme_t()
         self.remove_verbs_with_prs()
-        #self.update_patterns_ad_hoc()
         self.remove_irregular_patterns()
-
-    def update_patterns_ad_hoc(self):
-        """Improve wrongly predicted pattern by model."""
-        ids = [1916028, 1925618, 2000873, 2047430]
-        for tf_id in ids:
-            self.data.loc[self.data.tf_id == tf_id, ['pattern', 'pattern_g_cons']] = 'CCMC', 'CCMC'
 
     def move_final_t_to_nme(self):
         has_extra_t = np.where((self.data.stem.str[-1] == 'T') &
