@@ -33,7 +33,7 @@ def main():
     # ptca.to_csv(os.path.join(data_path, 'ptca_qal.csv'), sep='\t', index=False)
     # ptcp.to_csv(os.path.join(data_path, 'ptcp_qal.csv'), sep='\t', index=False)
     # # # TODO: patterns "CCMC" are strange, "CMCC" is expected.
-    #
+
     lamed_he_infc, other_infc = pf.get_qal_infinitive_construct_data(corpus, mt)
     print(other_infc.shape)
     print(lamed_he_infc.shape)

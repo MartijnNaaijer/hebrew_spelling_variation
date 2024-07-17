@@ -64,13 +64,13 @@ class InfcOtherCorrector:
         self.move_final_t_to_nme()
         self.remove_useless_lexemes()
         self.remove_hollow_roots()
-        self.remove_ayin_ayin_verbs()
+        self.remove_monosyllabic_ayin_ayin_verbs()
         self.remove_pe_yod_verbs()
         self.remove_pe_nun_he_verbs_with_ending_t()
         self.remove_verbs_with_dropped_first_consonant()
         self.remove_nme_t()
         self.remove_verbs_with_prs()
-        self.update_patterns_ad_hoc()
+        #self.update_patterns_ad_hoc()
         self.remove_irregular_patterns()
 
     def update_patterns_ad_hoc(self):
@@ -96,9 +96,12 @@ class InfcOtherCorrector:
     def remove_hollow_roots(self):
         self.data = self.data[~self.data.lex.str[1].isin(['J', 'W'])]
 
-    def remove_ayin_ayin_verbs(self):
-        """Remove ayin-ayin verbs """
-        self.data = self.data[(self.data.lex.str[1] != self.data.lex.str[2])]
+    def remove_monosyllabic_ayin_ayin_verbs(self):
+        """Remove ayin-ayin verbs (SBB) with pattern SB. The second and third radical need to be there."""
+
+        correct = [word.count(lex[1]) == 2 if (lex[1] == lex[2]) else True
+                   for word, lex in zip(self.data.g_cons, self.data.lex)]
+        self.data = self.data[correct]
 
     def remove_pe_yod_verbs(self):
         """These have qal infc ending in T"""

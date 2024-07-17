@@ -62,6 +62,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 15195	MT	Genesis	29	13	CM<[	CM<	CM<	CCC	CCC	qal	infc		unknown	unknown	verb				K	nnn	nnn	שמע		-	-	0	1	0	0	nnn	nnn	last		0
 15962	MT	Genesis	30	24	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 16388	MT	Genesis	31	1	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
+16717	MT	Genesis	31	19	GZZ[	GZZ	GZZ	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	גזז		-	-	0	1	0	0	nnn	nnn	last		0
 16862	MT	Genesis	31	27	BRX[	BRX	BRX	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	ברח		-	-	0	1	0	0	nnn	nnn	last		0
 16910	MT	Genesis	31	29	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 17422	MT	Genesis	31	54	>KL[	>KL	>KL	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אכל		-	-	0	1	0	0	nnn	nnn	last		0
@@ -259,6 +260,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 63015	MT	Leviticus	17	1	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 63037	MT	Leviticus	17	2	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 63399	MT	Leviticus	18	1	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
+63612	MT	Leviticus	18	18	YRR=[	YRR	YRR	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	צרר		-	-	0	1	0	0	nnn	nnn	last		0
 63830	MT	Leviticus	19	1	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 63942	MT	Leviticus	19	9	QYR=[	QYR	QYR	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	קצר		-	-	0	1	0	0	nnn	nnn	last		0
 64401	MT	Leviticus	20	1	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
@@ -366,6 +368,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 82672	MT	Numbers	20	7	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 82969	MT	Numbers	20	21	<BR[	<BR	<BR	CCC	CCC	qal	infc		unknown	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	last		0
 83008	MT	Numbers	20	23	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
+83204	MT	Numbers	21	4	SBB[	SBB	SBB	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	סבב		-	-	0	1	0	0	nnn	nnn	last		0
 83526	MT	Numbers	21	21	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 83556	MT	Numbers	21	23	<BR[	<BR	<BR	CCC	CCC	qal	infc		unknown	unknown	verb					nnn	nnn	עבר		-	-	0	0	0	0	nnn	nnn	last		0
 83867	MT	Numbers	22	4	LXK[	LXK	LXK	CCC	CCC	qal	infc		unknown	unknown	verb				K	nnn	nnn	לחך		-	-	0	1	0	0	nnn	nnn	last		0
@@ -717,6 +720,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 156127	MT	1_Samuel	24	7	CLX[	CLX	CLX	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שלח		-	-	0	1	0	0	nnn	nnn	last		0
 156175	MT	1_Samuel	24	9	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 156201	MT	1_Samuel	24	10	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
+156533	MT	1_Samuel	25	2	GZZ[	GZZ	GZZ	CCC	CCC	qal	infc		unknown	unknown	verb				B	nnn	nnn	גזז		-	-	0	1	0	0	nnn	nnn	last		0
 156808	MT	1_Samuel	25	14	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 157228	MT	1_Samuel	25	31	CPK[	CPK	CPK	CCC	CCC	qal	infc		unknown	unknown	verb				WL	nnn	nnn	שפך		-	-	0	1	0	0	nnn	nnn	last		0
 157472	MT	1_Samuel	25	40	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
@@ -1035,7 +1039,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 214934	MT	Isaiah	8	11	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 215316	MT	Isaiah	9	8	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 215541	MT	Isaiah	10	2	GZL[	GZL	GZL	CCC	CCC	qal	infc		unknown	unknown	verb				WL	nnn	nnn	גזל		-	-	0	1	0	0	nnn	nnn	last		0
+215612	MT	Isaiah	10	6	CLL[	CLL	CLL	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שלל		-	-	0	1	0	0	nnn	nnn	last		0
 215760	MT	Isaiah	10	14	>SP[	>SP	>SP	CCC	CCC	qal	infc		unknown	unknown	verb				WK	nnn	nnn	אסף		-	-	0	1	0	0	nnn	nnn	last		0
+215854	MT	Isaiah	10	18	MSS[	MSS	MSS	CCC	CCC	qal	infc		unknown	unknown	verb				K	nnn	nnn	מסס		-	-	0	1	0	0	nnn	nnn	last		0
 216050	MT	Isaiah	10	32	<MD[	<MD	<MD	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	עמד		-	-	0	1	0	0	nnn	nnn	last		0
 217180	MT	Isaiah	14	24	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 217195	MT	Isaiah	14	25	CBR[	CBR	CBR	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שבר		-	-	0	1	0	0	nnn	nnn	last		0
@@ -1106,6 +1112,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 232231	MT	Isaiah	59	1	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc		unknown	unknown	verb				M	nnnn	nnnn	שמוע		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 232247	MT	Isaiah	59	2	CM<[	CMW<	CMW<	CCMC	CCMC	qal	infc		unknown	unknown	verb				M	nnnn	nnnn	שמוע		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 232328	MT	Isaiah	59	7	CPK[	CPK	CPK	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שפך		-	-	0	1	0	0	nnn	nnn	last		0
+232846	MT	Isaiah	60	14	CXX[	CXWX	CXWX	CCMC	CCMC	qal	infc		unknown	unknown	verb					nnnn	nnnn	שחוח		-	-	0	0	0	0	nnnn	nnnn	last	W	1
 233035	MT	Isaiah	61	1	XBC[	XBC	XBC	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	חבש		-	-	0	1	0	0	nnn	nnn	last		0
 233040	MT	Isaiah	61	1	QR>[	QR>	QR>	CCC	CCM	qal	infc		unknown	unknown	verb				L	nnn	nnn	קרא		-	-	0	1	0	0	nnn	nnn	last		0
 233049	MT	Isaiah	61	2	QR>[	QR>	QR>	CCC	CCM	qal	infc		unknown	unknown	verb				L	nnn	nnn	קרא		-	-	0	1	0	0	nnn	nnn	last		0
@@ -1280,6 +1287,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 259395	MT	Jeremiah	44	25	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 259408	MT	Jeremiah	44	25	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 259623	MT	Jeremiah	45	1	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
+260311	MT	Jeremiah	47	4	CDD[	CDWD	CDWD	CCMC	CCMC	qal	infc		unknown	unknown	verb				L	nnnn	nnnn	שדוד		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 261775	MT	Jeremiah	49	34	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 263434	MT	Jeremiah	51	40	VBX[	VBWX	VBWX	CCMC	CCMC	qal	infc		unknown	unknown	verb				L	nnnn	nnnn	טבוח		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 263599	MT	Jeremiah	51	49	NPL[	NPL	NPL	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	נפל		-	-	0	1	0	0	nnn	nnn	last		0
@@ -1391,6 +1399,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 283503	MT	Ezekiel	37	15	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 283562	MT	Ezekiel	37	18	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
 283833	MT	Ezekiel	38	1	>MR[	>MR	>MR	MCC	MCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
+284034	MT	Ezekiel	38	12	CLL[	CLL	CLL	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שלל		-	-	0	1	0	0	nnn	nnn	last		0
+284074	MT	Ezekiel	38	13	CLL[	CLL	CLL	CCC	CCC	qal	infc		unknown	unknown	verb				HL	nnn	nnn	שלל		-	-	0	1	0	0	nnn	nnn	last		0
+284095	MT	Ezekiel	38	13	CLL[	CLL	CLL	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שלל		-	-	0	1	0	0	nnn	nnn	last		0
 285815	MT	Ezekiel	40	39	CXV[	CXWV	CXWV	CCMC	CCMC	qal	infc		unknown	unknown	verb				L	nnnn	nnnn	שחוט		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 287551	MT	Ezekiel	43	18	ZRQ[	ZRQ	ZRQ	CCC	CCC	qal	infc		unknown	unknown	verb				WL	nnn	nnn	זרק		-	-	0	1	0	0	nnn	nnn	last		0
 287788	MT	Ezekiel	44	3	>KL[	>KWL	>KWL			qal	infc		unknown	unknown	verb					nnnn	nnnn	אכול		-	-	0	0	0	0	nnnn	nnnn	last	W	1
@@ -1493,6 +1504,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 316846	MT	Psalms	39	2	XV>[	XVW>	XVW>	CCMC	CCMM	qal	infc		unknown	unknown	verb				M	nnnn	nnnn	חטוא		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 317068	MT	Psalms	40	6	<RK[	<RK	<RK	CCC	CCC	qal	infc		unknown	unknown	verb					nnn	nnn	ערך		-	-	0	0	0	0	nnn	nnn	last		0
 317418	MT	Psalms	42	4	>MR[	>MR	>MR	CCC	CCC	qal	infc		unknown	unknown	verb				B	nnn	nnn	אמר		-	-	0	1	0	0	nnn	nnn	last		0
+319433	MT	Psalms	55	8	NDD[	NDD	NDD	CCC	CCC	qal	infc		unknown	unknown	verb					nnn	nnn	נדד		-	-	0	0	0	0	nnn	nnn	last		0
 319634	MT	Psalms	56	1	>XZ[	>XZ	>XZ	CCC	CCC	qal	infc		unknown	unknown	verb				B	nnn	nnn	אחז		-	-	0	1	0	0	nnn	nnn	last		0
 320036	MT	Psalms	59	1	CLX[	CLX	CLX	CCC	CCC	qal	infc		unknown	unknown	verb				B	nnn	nnn	שלח		-	-	0	1	0	0	nnn	nnn	last		0
 320094	MT	Psalms	59	6	PQD[	PQD	PQD	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	פקד		-	-	0	1	0	0	nnn	nnn	last		0
@@ -1555,6 +1567,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 347314	MT	Proverbs	2	8	NYR[	NYR	NYR	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	נצר		-	-	0	1	0	0	nnn	nnn	last		0
 348042	MT	Proverbs	5	2	CMR[	CMR	CMR	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שמר		-	-	0	1	0	0	nnn	nnn	last		0
 348345	MT	Proverbs	6	10	CKB[	CKB	CKB	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שכב		-	-	0	1	0	0	nnn	nnn	last		0
+349092	MT	Proverbs	8	28	<ZZ[	<ZWZ	<ZWZ	CCMC	CCMC	qal	infc		unknown	unknown	verb				B	nnnn	nnnn	עזוז		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 349155	MT	Proverbs	8	34	CQD[	CQD	CQD	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שקד		-	-	0	1	0	0	nnn	nnn	last		0
 349161	MT	Proverbs	8	34	CMR[	CMR	CMR	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שמר		-	-	0	1	0	0	nnn	nnn	last		0
 349303	MT	Proverbs	9	15	QR>[	QR>	QR>	CCC	CCM	qal	infc		unknown	unknown	verb				L	nnn	nnn	קרא		-	-	0	1	0	0	nnn	nnn	last		0
@@ -1575,6 +1588,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 353703	MT	Proverbs	24	33	CKB[	CKB	CKB	CCC	CCC	qal	infc		unknown	unknown	verb				L	nnn	nnn	שכב		-	-	0	1	0	0	nnn	nnn	last		0
 353730	MT	Proverbs	25	2	XQR[	XQR	XQR	CCC	CCC	qal	infc		unknown	unknown	verb					nnn	nnn	חקר		-	-	0	0	0	0	nnn	nnn	last		0
 353780	MT	Proverbs	25	7	>MR[	>MR	>MR	CCC	CCC	qal	infc		unknown	unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	last		0
+354096	MT	Proverbs	26	8	YRR[	YRWR	YRWR	CCMC	CCMC	qal	infc		unknown	unknown	verb				K	nnnn	nnnn	צרור		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 354668	MT	Proverbs	28	9	CM<[	CM<	CM<	CCC	CCC	qal	infc		unknown	unknown	verb				M	nnn	nnn	שמע		-	-	0	1	0	0	nnn	nnn	last		0
 354696	MT	Proverbs	28	12	<LY[	<LY	<LY	CCC	CCC	qal	infc		unknown	unknown	verb				B	nnn	nnn	עלץ		-	-	0	1	0	0	nnn	nnn	last		0
 354886	MT	Proverbs	29	2	MCL[	MCL	MCL	CCC	CCC	qal	infc		unknown	unknown	verb				WB	nnn	nnn	משל		-	-	0	1	0	0	nnn	nnn	last		0
@@ -1840,7 +1854,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1897812	1Qisaa	Isaiah	8	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		4	8	0	1	0	0	nnnn	nnnn	last	W	1
 1898215	1Qisaa	Isaiah	9	8	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		28	8	0	1	0	0	nnnn	nnnn	last	W	1
 1898458	1Qisaa	Isaiah	10	2	GZL[	GZWL	GZWL			qal	infc	NA		NA	verb				WL	nnnn	nnnn	גזול		15	9	0	1	0	0	nnnn	nnnn	last	W	1
+1898534	1Qisaa	Isaiah	10	6	CLL[	CLWL	CLWL			qal	infc	NA		NA	verb				L	nnnn	nnnn	שלול		20	9	0	1	0	0	nnnn	nnnn	last	W	1
 1898687	1Qisaa	Isaiah	10	14	>SP[	>SWP	>SWP			qal	infc	NA		NA	verb				WK	nnnn	nnnn	אסוף		29	9	0	1	0	0	nnnn	nnnn	last	W	1
+1898785	1Qisaa	Isaiah	10	18	MSS[	MSS	MSS			qal	infc	NA		NA	verb				K	nnn	nnn	מסס		5	10	0	1	0	0	nnn	nnn	last		0
 1898994	1Qisaa	Isaiah	10	32	<MD[	<MWD	<MWD			qal	infc	NA		NA	verb				L	nnnn	nnnn	עמוד		17	10	0	1	0	0	nnnn	nnnn	last	W	1
 1900191	1Qisaa	Isaiah	14	24	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		26	12	0	1	0	0	nnnn	nnnn	last	W	1
 1900207	1Qisaa	Isaiah	14	25	CBR[	CBWR	CBWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שבור		27	12	0	1	0	0	nnnn	nnnn	last	W	1
@@ -1894,6 +1910,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1911274	1Qisaa	Isaiah	44	19	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		24	37	0	1	0	0	nnnn	nnnn	last	W	1
 1911447	1Qisaa	Isaiah	44	28	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	אמור		5	38	0	1	0	0	nnnn	nnnn	last	W	1
 1911476	1Qisaa	Isaiah	45	1	PTX[	PTWX	PTWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	פתוח		7	38	0	1	0	0	nnnn	nnnn	last	W	1
+1912406	1Qisaa	Isaiah	47	14	XMM[	XWMM	XWMM			qal	infc	NA		NA	verb				L	nnnn	nnnn	חומם		4	40	0	1	0	0	nnnn	nnnn	last		0
 1912995	1Qisaa	Isaiah	49	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		8	41	0	1	0	0	nnnn	nnnn	last	W	1
 1913417	1Qisaa	Isaiah	50	4	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		6	42	0	1	0	0	nnnn	nnnn	last	W	1
 1913754	1Qisaa	Isaiah	51	10	<BR[	<BWR	<BWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	עבור		26	42	0	1	0	0	nnnn	nnnn	last	W	1
@@ -1909,10 +1926,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1915298	1Qisaa	Isaiah	56	10	NBX[	NBWX	NBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	נבוח		23	46	0	1	0	0	nnnn	nnnn	last	W	1
 1915463	1Qisaa	Isaiah	57	7	ZBX[	ZBWX	ZBWX			qal	infc	NA		NA	verb				L	nnnn	nnnn	זבוח		6	47	0	1	0	0	nnnn	nnnn	last	W	1
 1915929	1Qisaa	Isaiah	58	9	CLX[	CLWX	CLWX			qal	infc	NA		NA	verb				W	nnnn	nnnn	שלוח		4	48	0	1	0	0	nnnn	nnnn	last	W	1
-1916028	1Qisaa	Isaiah	58	13	MY>[	MYW>	MYW>	CCMC	CCMC	qal	infc	NA		NA	verb				WM	nnnn	nnnn	מצוא		10	48	0	1	0	0	nnnn	nnnn	last	W	1
+1916028	1Qisaa	Isaiah	58	13	MY>[	MYW>	MYW>	C		qal	infc	NA		NA	verb				WM	nnnn	nnnn	מצוא		10	48	0	1	0	0	nnnn	nnnn	last	W	1
 1916065	1Qisaa	Isaiah	59	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		12	48	0	1	0	0	nnnn	nnnn	last	W	1
 1916082	1Qisaa	Isaiah	59	2	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		13	48	0	1	0	0	nnnn	nnnn	last	W	1
 1916162	1Qisaa	Isaiah	59	7	CPK[	CPWK	CPWK			qal	infc	NA		NA	verb				L	nnnn	nnnn	שפוך		18	48	0	1	0	0	nnnn	nnnn	last	W	1
+1916697	1Qisaa	Isaiah	60	14	CXX[	CXWX	CXWX			qal	infc	NA		NA	verb					nnnn	nnnn	שחוח		17	49	0	0	0	0	nnnn	nnnn	last	W	1
 1916901	1Qisaa	Isaiah	61	1	XBC[	XBWC	XBWC			qal	infc	NA		NA	verb				WL	nnnn	nnnn	חבוש		26	49	0	1	0	0	nnnn	nnnn	last	W	1
 1916906	1Qisaa	Isaiah	61	1	QR>[	QRW>	QRW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		26	49	0	1	0	0	nnnn	nnnn	last	W	1
 1916916	1Qisaa	Isaiah	61	2	QR>[	QRW>	QRW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	קרוא		27	49	0	1	0	0	nnnn	nnnn	last	W	1
@@ -1927,10 +1945,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1925139	1Q8	Isaiah	56	9	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	nnn	nnn	אכל		27	24	0	1	0	0	nnn	nnn	last		0
 1925156	1Q8	Isaiah	56	10	NBX[	NBX	NBX			qal	infc	NA		NA	verb				L	nnn	nnn	נבח		28	24	0	1	0	0	nnn	nnn	last		0
 1925521	1Q8	Isaiah	58	9	CLX[	CLX	CLX			qal	infc	NA		NA	verb					nnn	nnn	שלח		18	25	0	0	0	0	nnn	nnn	last		0
-1925618	1Q8	Isaiah	58	13	MY>[	MYW>	MYW>	CCMC	CCMC	qal	infc	NA		NA	verb				M	nnnn	nnnn	מצוא		24	25	0	1	0	0	nnnn	nnnn	last	W	1
+1925618	1Q8	Isaiah	58	13	MY>[	MYW>	MYW>	C		qal	infc	NA		NA	verb				M	nnnn	nnnn	מצוא		24	25	0	1	0	0	nnnn	nnnn	last	W	1
 1925655	1Q8	Isaiah	59	1	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		27	25	0	1	0	0	nnnn	nnnn	last	W	1
 1925671	1Q8	Isaiah	59	2	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				M	nnnn	nnnn	שמוע		28	25	0	1	0	0	nnnn	nnnn	last	W	1
 1925753	1Q8	Isaiah	59	7	CPK[	CPK	CPK			qal	infc	NA		NA	verb				L	nnn	nnn	שפך		34	25	0	1	0	0	nnn	nnn	last		0
+1926040	1Q8	Isaiah	60	14	CXX[	CXWX	CXWX			qal	infc	NA		NA	verb					nnnn	nnnn	שחוח		20	26	0	0	0	0	nnnn	nnnn	last	W	1
 1926224	1Q8	Isaiah	61	1	QR>[	QR>	QR>	C		qal	infc	NA		NA	verb				L	nnn	nnn	קרא		34	26	0	1	0	0	nnn	nnn	last		0
 1928472	1Q13	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר		7	f1_18	0	1	0	0	nnn	nnn	last		0
 1933291	2Q15	Job	33	28	<BR[	<BR	<BR			qal	infc	NA		NA	verb				M	nnn	nnn	עבר		1	f1	0	1	0	0	nnn	nnn	last		0
@@ -2069,7 +2088,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2043121	4Q82	Hosea	12	3	PQD[	PQWD	PQWD			qal	infc	NA		NA	verb				WL	nnnn	nnnn	פקוד		10	f19b+27_32	0	1	0	0	nnnn	nnnn	last	W	1
 2043192	4Q82	Hosea	12	8	<CQ[	<CQ	<CQ			qal	infc	NA		NA	verb				L	nnn	nnn	עשק		14	f19b+27_32	0	1	0	0	nnn	nnn	last		0
 2045258	4Q82	Amos	8	11	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע		1	f65_68	0	1	0	0	nnnn	nnnn	last	W	1
-2047430	4Q83	Psalms	36	3	MY>[	MYW>	MYW>	CCMC	CCMC	qal	infc	NA		NA	verb				L	nnnn	nnnn	מצוא		4	f4ii	0	1	0	0	nnnn	nnnn	last	W	1
+2047430	4Q83	Psalms	36	3	MY>[	MYW>	MYW>	C		qal	infc	NA		NA	verb				L	nnnn	nnnn	מצוא		4	f4ii	0	1	0	0	nnnn	nnnn	last	W	1
 2047799	4Q83	Psalms	71	11	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור		11	f9ii	0	1	0	0	nnnn	nnnn	last	W	1
 2048549	4Q84	Psalms	92	8	PRX[	PRX	PRX			qal	infc	NA		NA	verb				B	nnn	nnn	פרח		16	f1iii+5i	0	1	0	0	nnn	nnn	last		0
 2048982	4Q84	Psalms	102	21	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	nnn	nnn	שמע		7	f15ii+18ii+19	0	1	0	0	nnn	nnn	last		0
