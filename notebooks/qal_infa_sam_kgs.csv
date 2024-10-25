@@ -1,0 +1,43 @@
+	tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix	rec_signs	cor_signs	heb_g_cons	other_vowel_ending	line	column	has_prs	has_prefix	has_hloc	has_nme	rec_signs_stem	cor_signs_stem	type	vowel_letter	has_vowel_letter	book2
+117	142654	MT	1_Samuel	2	28	BXR[	BXR	BXR	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	בחר		-	-	0	1	0	0	nnn	nnn	last		0	Samuel
+118	142714	MT	1_Samuel	2	30	>MR[	>MWR	>MWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אמור		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+119	144419	MT	1_Samuel	6	12	HLK[	HLK	HLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	הלך		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+120	148744	MT	1_Samuel	14	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+121	149005	MT	1_Samuel	14	30	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+122	149331	MT	1_Samuel	14	43	V<M[	V<M	V<M	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	טעם		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+123	153369	MT	1_Samuel	19	23	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+124	153479	MT	1_Samuel	20	3	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+125	153531	MT	1_Samuel	20	5	JCB[	JCB	JCB	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ישב		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+126	153551	MT	1_Samuel	20	6	PQD[	PQD	PQD	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	פקד		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+127	153625	MT	1_Samuel	20	9	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+128	153860	MT	1_Samuel	20	21	>MR[	>MR	>MR	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אמר		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+129	155058	MT	1_Samuel	22	13	C>L[	C>WL	C>WL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	שאול		-	-	0	1	0	0	nnnn	nnnn	last	W	1	Samuel
+130	155526	MT	1_Samuel	23	10	CM<[	CM<	CM<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שמע		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+131	155801	MT	1_Samuel	23	22	<RM=[	<RWM	<RWM	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	ערום		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+132	156438	MT	1_Samuel	24	21	MLK[	MLK	MLK	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	מלך		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+133	158194	MT	1_Samuel	26	25	JKL[	JKL	JKL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	יכל		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+134	158524	MT	1_Samuel	28	1	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+135	162011	MT	2_Samuel	3	16	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+136	162235	MT	2_Samuel	3	24	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+137	163150	MT	2_Samuel	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+138	163152	MT	2_Samuel	5	10	GDL[	GDWL	GDWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				W	nnnn	nnnn	גדול		-	-	0	1	0	0	nnnn	nnnn	last	W	1	Samuel
+139	163306	MT	2_Samuel	5	19	NTN[	NTN	NTN	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	נתן		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+140	167565	MT	2_Samuel	13	19	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+142	169892	MT	2_Samuel	16	5	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+143	170082	MT	2_Samuel	16	13	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+144	170700	MT	2_Samuel	17	16	<BR[	<BWR	<BWR	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	עבור		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+145	171104	MT	2_Samuel	18	2	JY>[	JY>	JY>	CCM	CCM	qal	infa		unknown	unknown	verb					nnn	nnn	יצא		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+146	171731	MT	2_Samuel	18	25	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+147	173035	MT	2_Samuel	19	43	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb				H	nnnn	nnnn	אכול		-	-	0	1	0	0	nnnn	nnnn	last	W	1	Samuel
+148	173544	MT	2_Samuel	20	18	C>L[	C>L	C>L	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	שאל		-	-	0	0	0	0	nnn	nnn	last		0	Samuel
+149	174919	MT	2_Samuel	23	7	FRP[	FRWP	FRWP	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	שרוף		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+150	175694	MT	2_Samuel	24	12	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Samuel
+151	178184	MT	1_Kings	2	37	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	last		0	Kings
+152	178312	MT	1_Kings	2	42	JD<[	JD<	JD<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	ידע		-	-	0	0	0	0	nnn	nnn	last		0	Kings
+153	185224	MT	1_Kings	11	11	QR<[	QR<	QR<	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	קרע		-	-	0	0	0	0	nnn	nnn	last		0	Kings
+154	192850	MT	1_Kings	20	37	PY<[	PY<	PY<	CCC	CCC	qal	infa		unknown	unknown	verb				W	nnn	nnn	פצע		-	-	0	1	0	0	nnn	nnn	last		0	Kings
+155	195503	MT	2_Kings	2	11	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Kings
+156	197442	MT	2_Kings	4	43	>KL[	>KL	>KL	CCC	CCC	qal	infa		unknown	unknown	verb					nnn	nnn	אכל		-	-	0	0	0	0	nnn	nnn	last		0	Kings
+157	197694	MT	2_Kings	5	10	HLK[	HLWK	HLWK	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	הלוך		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Kings
+158	197719	MT	2_Kings	5	11	JY>[	JYW>	JYW>	CCMM	CCMM	qal	infa		unknown	unknown	verb					nnnn	nnnn	יצוא		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Kings
+159	208002	MT	2_Kings	19	29	>KL[	>KWL	>KWL	CCMC	CCMC	qal	infa		unknown	unknown	verb					nnnn	nnnn	אכול		-	-	0	0	0	0	nnnn	nnnn	last	W	1	Kings
