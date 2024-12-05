@@ -58,7 +58,7 @@ class SpDssDataProcessor:
                           word_obj.vs == 'qal'
         elif self.relevant_data == 'niph_hiph_pe_yod':
             is_relevant = word_obj.sp == 'verb' and \
-                          word_obj.lex[0] == 'J' and \
+                          (word_obj.lex[0] == 'J' or word_obj.lex == 'HLK[') and \
                           word_obj.vs in {'hif', 'nif', 'hof'}
         elif self.relevant_data == 'hiph_triliteral':
             is_relevant = word_obj.sp == 'verb' and \

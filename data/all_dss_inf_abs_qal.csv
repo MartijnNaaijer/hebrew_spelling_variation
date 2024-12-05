@@ -1,59 +1,65 @@
 tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix	rec_signs	cor_signs	heb_g_cons
-2086635	11Q5	2_Samuel	23	7	FRP[	FRWPP	FRWPP			qal	infa	NA		NA	verb					nnnnn	nnnnn	שרופף
 2083717	11Q5	Psalms	126	6	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
 2083720	11Q5	Psalms	126	6	BKH[	BKW	BKW			qal	infa	NA		NA	verb				W	nnn	nnn	בכו
 2083725	11Q5	Psalms	126	6	BW>[	BW>	BW>			qal	infa	NA		NA	verb					rrr	nnn	בוא
+2086635	11Q5	2_Samuel	23	7	FRP[	FRWPP	FRWPP			qal	infa	NA		NA	verb					nnnnn	nnnnn	שרופף
 1890524	1Q2	Exodus	21	5	>MR[	>MR	>MR			qal	infa	NA		NA	verb					rrr	nnn	אמר
+1891729	1Q4	Deuteronomy	14	21	MKR[	MKR	MKR			qal	infa	NA		NA	verb					rrr	nnn	מכר
 1891327	1Q4	Deuteronomy	8	19	CKX[	CKX	CKX			qal	infa	NA		NA	verb					rrr	nnn	שכח
 1891347	1Q4	Deuteronomy	8	19	>BD[	>BD	>BD			qal	infa	NA		NA	verb					nnr	nnn	אבד
-1891729	1Q4	Deuteronomy	14	21	MKR[	MKR	MKR			qal	infa	NA		NA	verb					rrr	nnn	מכר
 1892627	1Q5	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					rrrr	nnnn	זכור
-1916243	1Qisaa	Isaiah	59	11	HGH[	HGW>	HGW>			qal	infa	NA		NA	verb					nnnn	nnnn	הגוא
-1897375	1Qisaa	Isaiah	7	16	M>S[	M>S	M>S			qal	infa	NA		NA	verb					nnn	nnn	מאס
-1897379	1Qisaa	Isaiah	7	16	BXR[	BXWR	BXWR			qal	infa	NA		NA	verb				W	nnnn	nnnn	בחור
-1902171	1Qisaa	Isaiah	22	7	CJT[	CT	CT			qal	infa	NA		NA	verb					nn	nn	שת
-1901706	1Qisaa	Isaiah	20	2	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
-1913356	1Qisaa	Isaiah	50	2	QYR[	QYWR	QYWR			qal	infa	NA		NA	verb				H	nnnn	nnnn	קצור
-1905354	1Qisaa	Isaiah	30	19	BKH[	BKW	BKW			qal	infa	NA		NA	verb					nnn	nnn	בכו
-1905357	1Qisaa	Isaiah	30	19	XNN[	XNWN	XNWN			qal	infa	NA		NA	verb					nnnn	nnnn	חנון
-1915384	1Qisaa	Isaiah	57	2	HLK[	HLWK	HLWK			qal	infa	NA	m	NA	verb					nnnn	nnnn	הלוך
-1909516	1Qisaa	Isaiah	40	30	KCL[	KCWL	KCWL			qal	infa	NA		NA	verb					nnnn	nnnn	כשול
 1904463	1Qisaa	Isaiah	28	28	>DC[	HDC	HDC			qal	infa	NA		NA	verb					nnn	nnn	הדש
 1905813	1Qisaa	Isaiah	31	5	GNN[	GNWN	GNWN			qal	infa	NA		NA	verb					nnnn	nnnn	גנון
 1905817	1Qisaa	Isaiah	31	5	PSX[	PSX	PSX			qal	infa	NA		NA	verb				W	nnn	nnn	פסח
-1908482	1Qisaa	Isaiah	38	5	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
-1916668	1Qisaa	Isaiah	60	12	XRB[	XRWB	XRWB			qal	infa	NA		NA	verb					nnnn	nnnn	חרוב
 1916112	1Qisaa	Isaiah	59	4	HRH[	HRWH	HRWH			qal	infa	NA		NA	verb					nnnn	nnnn	הרוה
-1915874	1Qisaa	Isaiah	58	7	PRS[	PRWS	PRWS			qal	infa	NA		NA	verb					nnnn	nnnn	פרוס
+1908482	1Qisaa	Isaiah	38	5	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
+1908234	1Qisaa	Isaiah	37	30	NV<[	NVW<	NVW<			qal	infa	NA	m	NA	verb				W	nnnn	nnnn	נטוע
+1912572	1Qisaa	Isaiah	48	8	BGD[	BGWD	BGWD			qal	infa	NA		NA	verb					nnnn	nnnn	בגוד
+1914865	1Qisaa	Isaiah	55	2	CM<[	CM<W>	CM<W>			qal	infa	NA		NA	verb					nnnnn	nnnnn	שמעוא
+1917068	1Qisaa	Isaiah	61	10	FWF[	FJF	FJF			qal	infa	NA		NA	verb					nnn	nnn	שיש
+1901864	1Qisaa	Isaiah	21	5	<RK[	<RWK	<RWK			qal	infa	NA		NA	verb					nnnn	nnnn	ערוך
+1901870	1Qisaa	Isaiah	21	5	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nnnn	nnnn	אכול
+1901871	1Qisaa	Isaiah	21	5	CTH[	CTH	CTH			qal	infa	NA		NA	verb					nnn	nnn	שתה
+1902171	1Qisaa	Isaiah	22	7	CJT[	CT	CT			qal	infa	NA		NA	verb					nn	nn	שת
+1896346	1Qisaa	Isaiah	5	5	PRY[	PRY	PRY			qal	infa	NA		NA	verb					nnn	nnn	פרץ
+1905354	1Qisaa	Isaiah	30	19	BKH[	BKW	BKW			qal	infa	NA		NA	verb					nnn	nnn	בכו
+1905357	1Qisaa	Isaiah	30	19	XNN[	XNWN	XNWN			qal	infa	NA		NA	verb					nnnn	nnnn	חנון
+1901706	1Qisaa	Isaiah	20	2	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
+1914782	1Qisaa	Isaiah	54	15	GWR=[	GWR	GWR			qal	infa	NA		NA	verb					nnn	nnn	גור
+1903073	1Qisaa	Isaiah	24	19	R<H[	R<H	R<H			qal	infa	NA	f	NA	verb					nnn	nnn	רעה
+1903077	1Qisaa	Isaiah	24	19	PRR=[	PWR	PWR			qal	infa	NA		NA	verb					nnn	nnn	פור
+1903080	1Qisaa	Isaiah	24	19	MWV[	MWV	MWV			qal	infa	NA		NA	verb					nnn	nnn	מוט
+1897361	1Qisaa	Isaiah	7	15	M>S[	M>WS	M>WS			qal	infa	NA		NA	verb					nnnn	nnnn	מאוס
+1897365	1Qisaa	Isaiah	7	15	BXR[	BXR	BXR			qal	infa	NA		NA	verb				W	nnn	nnn	בחר
+1903084	1Qisaa	Isaiah	24	20	NW<[	NW<	NW<			qal	infa	NA		NA	verb					nnn	nnn	נוע
+1906878	1Qisaa	Isaiah	35	2	PRX[	PRX	PRX			qal	infa	NA		NA	verb					nnn	nnn	פרח
+1916668	1Qisaa	Isaiah	60	12	XRB[	XRWB	XRWB			qal	infa	NA		NA	verb					nnnn	nnnn	חרוב
+1901587	1Qisaa	Isaiah	19	22	NGP[	NGP	NGP			qal	infa	NA		NA	verb					nnn	nnn	נגף
+1897375	1Qisaa	Isaiah	7	16	M>S[	M>S	M>S			qal	infa	NA		NA	verb					nnn	nnn	מאס
+1897379	1Qisaa	Isaiah	7	16	BXR[	BXWR	BXWR			qal	infa	NA		NA	verb				W	nnnn	nnnn	בחור
 1902275	1Qisaa	Isaiah	22	13	HRG[	HRG	HRG			qal	infa	NA		NA	verb					nnn	nnn	הרג
 1902278	1Qisaa	Isaiah	22	13	CXV[	CXV	CXV			qal	infa	NA		NA	verb				W	nnn	nnn	שחט
 1902280	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nnnn	nnnn	אכול
 1902283	1Qisaa	Isaiah	22	13	CTH[	CTWT	CTWT			qal	infa	NA		NA	verb				W	nnnn	nnnn	שתות
 1902285	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nnnn	nnnn	אכול
 1902287	1Qisaa	Isaiah	22	13	CTH[	CTW	CTW			qal	infa	NA		NA	verb				W	nnn	nnn	שתו
-1901864	1Qisaa	Isaiah	21	5	<RK[	<RWK	<RWK			qal	infa	NA		NA	verb					nnnn	nnnn	ערוך
-1901870	1Qisaa	Isaiah	21	5	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nnnn	nnnn	אכול
-1901871	1Qisaa	Isaiah	21	5	CTH[	CTH	CTH			qal	infa	NA		NA	verb					nnn	nnn	שתה
 1902359	1Qisaa	Isaiah	22	17	<VH=[	<VH	<VH			qal	infa	NA		NA	verb					nnn	nnn	עטה
-1914865	1Qisaa	Isaiah	55	2	CM<[	CM<W>	CM<W>			qal	infa	NA		NA	verb					nnnnn	nnnnn	שמעוא
-1914782	1Qisaa	Isaiah	54	15	GWR=[	GWR	GWR			qal	infa	NA		NA	verb					nnn	nnn	גור
-1903073	1Qisaa	Isaiah	24	19	R<H[	R<H	R<H			qal	infa	NA	f	NA	verb					nnn	nnn	רעה
-1903077	1Qisaa	Isaiah	24	19	PRR=[	PWR	PWR			qal	infa	NA		NA	verb					nnn	nnn	פור
-1903080	1Qisaa	Isaiah	24	19	MWV[	MWV	MWV			qal	infa	NA		NA	verb					nnn	nnn	מוט
-1896346	1Qisaa	Isaiah	5	5	PRY[	PRY	PRY			qal	infa	NA		NA	verb					nnn	nnn	פרץ
-1895990	1Qisaa	Isaiah	3	16	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
-1897361	1Qisaa	Isaiah	7	15	M>S[	M>WS	M>WS			qal	infa	NA		NA	verb					nnnn	nnnn	מאוס
-1897365	1Qisaa	Isaiah	7	15	BXR[	BXR	BXR			qal	infa	NA		NA	verb				W	nnn	nnn	בחר
+1916243	1Qisaa	Isaiah	59	11	HGH[	HGW>	HGW>			qal	infa	NA		NA	verb					nnnn	nnnn	הגוא
+1915874	1Qisaa	Isaiah	58	7	PRS[	PRWS	PRWS			qal	infa	NA		NA	verb					nnnn	nnnn	פרוס
+1909516	1Qisaa	Isaiah	40	30	KCL[	KCWL	KCWL			qal	infa	NA		NA	verb					nnnn	nnnn	כשול
+1913356	1Qisaa	Isaiah	50	2	QYR[	QYWR	QYWR			qal	infa	NA		NA	verb				H	nnnn	nnnn	קצור
 1896988	1Qisaa	Isaiah	6	9	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
 1896993	1Qisaa	Isaiah	6	9	R>H[	R>W	R>W			qal	infa	NA		NA	verb					nnn	nnn	ראו
-1912572	1Qisaa	Isaiah	48	8	BGD[	BGWD	BGWD			qal	infa	NA		NA	verb					nnnn	nnnn	בגוד
-1903084	1Qisaa	Isaiah	24	20	NW<[	NW<	NW<			qal	infa	NA		NA	verb					nnn	nnn	נוע
-1917068	1Qisaa	Isaiah	61	10	FWF[	FJF	FJF			qal	infa	NA		NA	verb					nnn	nnn	שיש
-1906878	1Qisaa	Isaiah	35	2	PRX[	PRX	PRX			qal	infa	NA		NA	verb					nnn	nnn	פרח
-1908234	1Qisaa	Isaiah	37	30	NV<[	NVW<	NVW<			qal	infa	NA	m	NA	verb				W	nnnn	nnnn	נטוע
-1901587	1Qisaa	Isaiah	19	22	NGP[	NGP	NGP			qal	infa	NA		NA	verb					nnn	nnn	נגף
+1915384	1Qisaa	Isaiah	57	2	HLK[	HLWK	HLWK			qal	infa	NA	m	NA	verb					nnnn	nnnn	הלוך
+1895990	1Qisaa	Isaiah	3	16	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
+1924729	1Q8	Isaiah	55	2	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
+1920430	1Q8	Isaiah	24	19	R<H[	RW<	RW<			qal	infa	NA	f	NA	verb					nnn	nnn	רוע
+1920433	1Q8	Isaiah	24	19	PRR=[	PWR	PWR			qal	infa	NA		NA	verb					rrr	nnn	פור
+1920436	1Q8	Isaiah	24	19	MWV[	MWV	MWV			qal	infa	NA		NA	verb					rrr	nnn	מוט
+1920440	1Q8	Isaiah	24	20	NW<[	NW<	NW<			qal	infa	NA		NA	verb					rrr	nnn	נוע
 1926015	1Q8	Isaiah	60	12	XRB[	XRWB	XRWB			qal	infa	NA		NA	verb					nnnn	nnnn	חרוב
-1925470	1Q8	Isaiah	58	7	PRS[	PRWS	PRWS			qal	infa	NA		NA	verb					nnnn	nnnn	פרוס
+1919971	1Q8	Isaiah	19	22	NGP[	NGP	NGP			qal	infa	NA		NA	verb					rrr	nnn	נגף
+1919973	1Q8	Isaiah	19	22	RP>[	RPW>	RPW>			qal	infa	NA		NA	verb				W	rrrr	nnnn	רפוא
 1920148	1Q8	Isaiah	22	13	HRG[	HRG	HRG			qal	infa	NA		NA	verb					nnn	nnn	הרג
 1920151	1Q8	Isaiah	22	13	CXV[	CXV	CXV			qal	infa	NA		NA	verb				W	nrr	nnn	שחט
 1920153	1Q8	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
@@ -61,14 +67,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1920158	1Q8	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
 1920160	1Q8	Isaiah	22	13	CTH[	CTW	CTW			qal	infa	NA		NA	verb				W	rrr	nnn	שתו
 1920232	1Q8	Isaiah	22	17	<VH=[	<VH	<VH			qal	infa	NA		NA	verb					rrr	nnn	עטה
-1924729	1Q8	Isaiah	55	2	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
-1920430	1Q8	Isaiah	24	19	R<H[	RW<	RW<			qal	infa	NA	f	NA	verb					nnn	nnn	רוע
-1920433	1Q8	Isaiah	24	19	PRR=[	PWR	PWR			qal	infa	NA		NA	verb					rrr	nnn	פור
-1920436	1Q8	Isaiah	24	19	MWV[	MWV	MWV			qal	infa	NA		NA	verb					rrr	nnn	מוט
+1925470	1Q8	Isaiah	58	7	PRS[	PRWS	PRWS			qal	infa	NA		NA	verb					nnnn	nnnn	פרוס
 1920234	1Q8	Isaiah	22	18	YNP[	YNWP	YNWP			qal	infa	NA		NA	verb					rrrr	nnnn	צנוף
-1920440	1Q8	Isaiah	24	20	NW<[	NW<	NW<			qal	infa	NA		NA	verb					rrr	nnn	נוע
-1919971	1Q8	Isaiah	19	22	NGP[	NGP	NGP			qal	infa	NA		NA	verb					rrr	nnn	נגף
-1919973	1Q8	Isaiah	19	22	RP>[	RPW>	RPW>			qal	infa	NA		NA	verb				W	rrrr	nnnn	רפוא
 1928154	1Q11	Psalms	126	6	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
 1928157	1Q11	Psalms	126	6	BKH[	BKH	BKH			qal	infa	NA		NA	verb				W	rrr	nnn	בכה
 1928162	1Q11	Psalms	126	6	BW>[	B>	B>			qal	infa	NA		NA	verb					rr	nn	בא
@@ -81,110 +81,114 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1932099	2Q13	Jeremiah	42	10	CWB[	CWB	CWB			qal	infa	NA		NA	verb					rrr	nnn	שוב
 1933406	2Q16	Ruth	2	16	CLL=[	CL	CL			qal	infa	NA		NA	verb					rr	nn	של
 1934008	3Q3	Lamentations	3	52	YWD[	YWD	YWD			qal	infa	NA		NA	verb					rrr	nnn	צוד
-1938382	4Q2	Genesis	2	17	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
 1938363	4Q2	Genesis	2	16	>KL[	>KL	>KL			qal	infa	NA		NA	verb					nnn	nnn	אכל
+1938382	4Q2	Genesis	2	17	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
 1939766	4Q5	Genesis	41	43	NTN[	NTWN	NTWN			qal	infa	NA		NA	verb				W	rrrr	nnnn	נתון
 1940744	4Q8b	Genesis	2	17	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
-1941181	4Q9	Genesis	41	43	NTN[	NTWN	NTWN			qal	infa	NA		NA	verb				W	rrrr	nnnn	נתון
 1941430	4Q9	Genesis	43	7	C>L[	C>WL	C>WL			qal	infa	NA		NA	verb					rrrr	nnnn	שאול
 1941458	4Q9	Genesis	43	7	JD<[	JDW<	JDW<			qal	infa	NA		NA	verb				H	rrrr	nnnn	ידוע
-1944506	4Q11	Exodus	23	5	<ZB[	<ZB	<ZB			qal	infa	NA		NA	verb					nnn	nnn	עזב
+1941181	4Q9	Genesis	41	43	NTN[	NTWN	NTWN			qal	infa	NA		NA	verb				W	rrrr	nnnn	נתון
 1944211	4Q11	Exodus	18	18	NBL[	NBL	NBL			qal	infa	NA		NA	verb					rrr	nnn	נבל
+1944506	4Q11	Exodus	23	5	<ZB[	<ZB	<ZB			qal	infa	NA		NA	verb					nnn	nnn	עזב
 1945737	4Q12	Genesis	26	28	R>H[	R>W	R>W			qal	infa	NA		NA	verb					rrr	nnn	ראו
 1946457	4Q13	Exodus	3	16	PQD[	PQWD	PQWD			qal	infa	NA		NA	verb					nnnn	nnnn	פקוד
 1949547	4Q14	Exodus	13	19	PQD[	PQD	PQD			qal	infa	NA		NA	verb					rrr	nnn	פקד
 1950423	4Q14	Exodus	17	14	MXH[	MXH	MXH			qal	infa	NA		NA	verb					nnn	nnn	מחה
 1950087	4Q14	Exodus	15	21	G>H[	G>H	G>H			qal	infa	NA		NA	verb					rrr	nnn	גאה
 1950905	4Q16	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					nnnn	nnnn	זכור
-1957546	4Q22	Exodus	22	25	XBL[	XBL	XBL			qal	infa	NA		NA	verb					nrr	nnn	חבל
 1960282	4Q22	Exodus	31	14	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
 1956785	4Q22	Exodus	19	12	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
-1955279	4Q22	Exodus	15	26	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					rrrr	nnnn	שמוע
-1960408	4Q22	Exodus	32	6	CTH[	CTW	CTW			qal	infa	NA		NA	verb				W	nnn	nnn	שתו
 1957153	4Q22	Exodus	21	22	<NC[	<NWC	<NWC			qal	infa	NA		NA	verb					nnnn	nnnn	ענוש
+1955279	4Q22	Exodus	15	26	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					rrrr	nnnn	שמוע
 1957475	4Q22	Exodus	22	18	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
 1957504	4Q22	Exodus	22	22	Y<Q[	Y<WQ	Y<WQ			qal	infa	NA		NA	verb					nnnn	nnnn	צעוק
 1957507	4Q22	Exodus	22	22	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 1956793	4Q22	Exodus	19	13	SQL[	SQWL	SQWL			qal	infa	NA		NA	verb					nnrr	nnnn	סקול
 1956796	4Q22	Exodus	19	13	JRH=[	JRH	JRH			qal	infa	NA		NA	verb					rrr	nnn	ירה
-1956274	4Q22	Exodus	18	16	BW>[	BW>	BW>			qal	infa	NA	m	NA	verb				W	rrn	nnn	בוא
+1954903	4Q22	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					rrrr	nnnn	זכור
+1956306	4Q22	Exodus	18	18	NBL[	NBL	NBL			qal	infa	NA		NA	verb					rrr	nnn	נבל
 1957413	4Q22	Exodus	22	11	GNB[	GNB	GNB			qal	infa	NA		NA	verb					rrr	nnn	גנב
 1957244	4Q22	Exodus	21	28	SQL[	SQWL	SQWL			qal	infa	NA		NA	verb					rrrr	nnnn	סקול
-1955908	4Q22	Exodus	17	14	MXH[	MXH	MXH			qal	infa	NA		NA	verb					rrr	nnn	מחה
-1954903	4Q22	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					rrrr	nnnn	זכור
+1960408	4Q22	Exodus	32	6	CTH[	CTW	CTW			qal	infa	NA		NA	verb				W	nnn	nnn	שתו
 1957422	4Q22	Exodus	22	12	VRP[	VRP	VRP			qal	infa	NA		NA	verb					rrr	nnn	טרף
-1956306	4Q22	Exodus	18	18	NBL[	NBL	NBL			qal	infa	NA		NA	verb					rrr	nnn	נבל
-1962358	4Q23	Leviticus	15	24	CKB[	CKB	CKB			qal	infa	NA		NA	verb					rrr	nnn	שכב
-1962037	4Q23	Leviticus	14	48	BW>[	B>	B>			qal	infa	NA		NA	verb					rr	nn	בא
-1963366	4Q23	Leviticus	27	19	G>L[	G>L	G>L			qal	infa	NA		NA	verb					rrr	nnn	גאל
-1964000	4Q23	Numbers	4	2	NF>[	NF>	NF>			qal	infa	NA		NA	verb					nnn	nnn	נשא
+1955908	4Q22	Exodus	17	14	MXH[	MXH	MXH			qal	infa	NA		NA	verb					rrr	nnn	מחה
+1957546	4Q22	Exodus	22	25	XBL[	XBL	XBL			qal	infa	NA		NA	verb					nrr	nnn	חבל
+1956274	4Q22	Exodus	18	16	BW>[	BW>	BW>			qal	infa	NA	m	NA	verb				W	rrn	nnn	בוא
 1963254	4Q23	Leviticus	27	13	G>L[	G>L	G>L			qal	infa	NA		NA	verb					rrr	nnn	גאל
+1964000	4Q23	Numbers	4	2	NF>[	NF>	NF>			qal	infa	NA		NA	verb					nnn	nnn	נשא
+1962037	4Q23	Leviticus	14	48	BW>[	B>	B>			qal	infa	NA		NA	verb					rr	nn	בא
+1962358	4Q23	Leviticus	15	24	CKB[	CKB	CKB			qal	infa	NA		NA	verb					rrr	nnn	שכב
+1963366	4Q23	Leviticus	27	19	G>L[	G>L	G>L			qal	infa	NA		NA	verb					rrr	nnn	גאל
 1968875	4Q24	Leviticus	24	16	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
 1968877	4Q24	Leviticus	24	16	RGM[	RGWM	RGWM			qal	infa	NA		NA	verb					rrrr	nnnn	רגום
 1967014	4Q24	Leviticus	2	6	PTT[	PTWT	PTWT			qal	infa	NA		NA	verb					rrrr	nnnn	פתות
 1968899	4Q24	Leviticus	24	17	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrn	nnn	מות
 1970053	4Q26	Leviticus	15	24	CKB[	CKB	CKB			qal	infa	NA		NA	verb					nrr	nnn	שכב
-1970646	4Q26a	Leviticus	20	27	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
 1970599	4Q26a	Leviticus	20	2	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
+1970646	4Q26a	Leviticus	20	27	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
 1971160	4Q26b	Leviticus	7	24	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb				W	nnnn	nnnn	אכול
-1977740	4Q27	Numbers	35	21	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
-1977746	4Q27	Numbers	35	21	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
-1975018	4Q27	Numbers	26	65	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
-1973770	4Q27	Numbers	22	38	JKL[	JKWL	JKWL			qal	infa	NA		NA	verb				H	nnnn	nnnn	יכול
 1977693	4Q27	Numbers	35	18	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
 1977699	4Q27	Numbers	35	18	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
-1975773	4Q27	Numbers	30	7	HJH[	HJH	HJH			qal	infa	NA		NA	verb					nnn	nnn	היה
-1978075	4Q27	Numbers	36	6	HJH[	HJH	HJH			qal	infa	NA		NA	verb					nnr	nnn	היה
-1971449	4Q27	Numbers	11	32	CVX[	CVWX	CVWX			qal	infa	NA		NA	verb					rrrr	nnnn	שטוח
 1975163	4Q27	Numbers	27	7	NTN[	NTWN	NTWN			qal	infa	NA		NA	verb					nnrr	nnnn	נתון
+1971449	4Q27	Numbers	11	32	CVX[	CVWX	CVWX			qal	infa	NA		NA	verb					rrrr	nnnn	שטוח
+1973770	4Q27	Numbers	22	38	JKL[	JKWL	JKWL			qal	infa	NA		NA	verb				H	nnnn	nnnn	יכול
+1978075	4Q27	Numbers	36	6	HJH[	HJH	HJH			qal	infa	NA		NA	verb					nnr	nnn	היה
+1975018	4Q27	Numbers	26	65	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
+1977740	4Q27	Numbers	35	21	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
+1977746	4Q27	Numbers	35	21	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
+1975773	4Q27	Numbers	30	7	HJH[	HJH	HJH			qal	infa	NA		NA	verb					nnn	nnn	היה
 1979154	4Q29	Deuteronomy	31	26	LQX[	LQX	LQX			qal	infa	NA		NA	verb					nnn	nnn	לקח
-1980042	4Q30	Deuteronomy	11	13	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
 1980290	4Q30	Deuteronomy	15	2	CMV[	CMWV	CMWV			qal	infa	NA		NA	verb					rrrr	nnnn	שמוט
-1981017	4Q30	Deuteronomy	27	1	CMR[	CMR	CMR			qal	infa	NA		NA	verb					rrr	nnn	שמר
 1981095	4Q30	Deuteronomy	28	1	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
-1983034	4Q33	Deuteronomy	4	26	>BD[	>BD	>BD			qal	infa	NA		NA	verb					rrr	nnn	אבד
-1984750	4Q33	Deuteronomy	27	1	CMR[	CMR	CMR			qal	infa	NA		NA	verb					nrr	nnn	שמר
+1981017	4Q30	Deuteronomy	27	1	CMR[	CMR	CMR			qal	infa	NA		NA	verb					rrr	nnn	שמר
+1980042	4Q30	Deuteronomy	11	13	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
 1984363	4Q33	Deuteronomy	23	22	DRC[	DRC	DRC			qal	infa	NA		NA	verb					nnn	nnn	דרש
+1984750	4Q33	Deuteronomy	27	1	CMR[	CMR	CMR			qal	infa	NA		NA	verb					nrr	nnn	שמר
+1983034	4Q33	Deuteronomy	4	26	>BD[	>BD	>BD			qal	infa	NA		NA	verb					rrr	nnn	אבד
 1985347	4Q34	Deuteronomy	25	17	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					rrrr	nnnn	זכור
 1986004	4Q35	Deuteronomy	1	16	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
-1988573	4Q37	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 1988794	4Q37	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					rrnn	nnnn	זכור
+1988573	4Q37	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 1989322	4Q38	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 1990248	4Q38a	Deuteronomy	27	1	CMR[	CMR	CMR			qal	infa	NA		NA	verb					rrr	nnn	שמר
 1990322	4Q38b	Deuteronomy	30	18	>BD[	>BD	>BD			qal	infa	NA		NA	verb					nnn	nnn	אבד
 1991356	4Q41	Deuteronomy	5	12	CMR[	CMWR	CMWR			qal	infa	NA		NA	verb					nnnn	nnnn	שמור
+1993857	4Q45	Deuteronomy	15	5	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					rrrr	nnnn	שמוע
 1993176	4Q45	Deuteronomy	7	18	ZKR[	ZKR	ZKR			qal	infa	NA		NA	verb					rrr	nnn	זכר
 1993956	4Q45	Deuteronomy	15	10	NTN[	NTN	NTN			qal	infa	NA		NA	verb					rrn	nnn	נתן
 1993765	4Q45	Deuteronomy	14	21	MKR[	MKR	MKR			qal	infa	NA		NA	verb					rrr	nnn	מכר
-1993857	4Q45	Deuteronomy	15	5	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					rrrr	nnnn	שמוע
 1995126	4Q47	Joshua	6	9	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
 1995128	4Q47	Joshua	6	9	TQ<[	TQW<	TQW<			qal	infa	NA		NA	verb				W	rrrr	nnnn	תקוע
-2006064	4Q51	2_Samuel	12	14	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
-1996794	4Q51	1_Samuel	1	11	R>H[	R>H	R>H			qal	infa	NA		NA	verb					rrr	nnn	ראה
-1997577	4Q51	1_Samuel	2	25	XV>[	XVW>	XVW>			qal	infa	NA		NA	verb					nnnn	nnnn	חטוא
-1997602	4Q51	1_Samuel	2	25	XPY[	XPY	XPY			qal	infa	NA		NA	verb					rrn	nnn	חפץ
-2004425	4Q51	2_Samuel	5	19	NTN[	NTWN	NTWN			qal	infa	NA		NA	verb					rrrr	nnnn	נתון
 2006603	4Q51	2_Samuel	13	19	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
 2006605	4Q51	2_Samuel	13	19	Z<Q[	Z<Q	Z<Q			qal	infa	NA	f	NA	verb				W	rrr	nnn	זעק
-2001324	4Q51	1_Samuel	24	21	MLK[	MLK	MLK			qal	infa	NA		NA	verb					rrr	nnn	מלך
-1997295	4Q51	1_Samuel	2	10	JD<[	JD<	JD<			qal	infa	NA		NA	verb				W	rrr	nnn	ידע
-1998968	4Q51	1_Samuel	9	6	BW>[	BW>	BW>			qal	infa	NA		NA	verb					rrr	nnn	בוא
-2000368	4Q51	1_Samuel	14	29	<KR[	<KWR	<KWR			qal	infa	NA	m	NA	verb					nnnn	nnnn	עכור
+1997577	4Q51	1_Samuel	2	25	XV>[	XVW>	XVW>			qal	infa	NA		NA	verb					nnnn	nnnn	חטוא
+1997602	4Q51	1_Samuel	2	25	XPY[	XPY	XPY			qal	infa	NA		NA	verb					rrn	nnn	חפץ
+1998499	4Q51	1_Samuel	6	8	HLK[	HLK	HLK			qal	infa	NA	m	NA	verb				W	rrr	nnn	הלך
 2008189	4Q51	2_Samuel	18	2	JY>[	JYW>	JYW>			qal	infa	NA		NA	verb					rrrr	nnnn	יצוא
 2007864	4Q51	2_Samuel	16	13	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rnrr	nnnn	הלוך
 2007868	4Q51	2_Samuel	16	13	SQL[	SQL	SQL			qal	infa	NA	m	NA	verb				W	rrr	nnn	סקל
 2004019	4Q51	2_Samuel	4	11	HRG[	HRG	HRG			qal	infa	NA		NA	verb					nnn	nnn	הרג
+1997295	4Q51	1_Samuel	2	10	JD<[	JD<	JD<			qal	infa	NA		NA	verb				W	rrr	nnn	ידע
+1998968	4Q51	1_Samuel	9	6	BW>[	BW>	BW>			qal	infa	NA		NA	verb					rrr	nnn	בוא
+2001324	4Q51	1_Samuel	24	21	MLK[	MLK	MLK			qal	infa	NA		NA	verb					rrr	nnn	מלך
+2008202	4Q51	2_Samuel	18	3	NWS[	NWS	NWS			qal	infa	NA		NA	verb					nrr	nnn	נוס
 2007662	4Q51	2_Samuel	15	30	<LH[	<LWH	<LWH			qal	infa	NA		NA	verb					rrrr	nnnn	עלוה
 2007664	4Q51	2_Samuel	15	30	BKH[	BKWH	BKWH			qal	infa	NA		NA	verb				W	rrrr	nnnn	בכוה
-1998499	4Q51	1_Samuel	6	8	HLK[	HLK	HLK			qal	infa	NA	m	NA	verb				W	rrr	nnn	הלך
-2007187	4Q51	2_Samuel	14	14	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
-2002131	4Q51	1_Samuel	28	1	JD<[	JDW<	JDW<			qal	infa	NA		NA	verb					nnnn	nnnn	ידוע
+2000368	4Q51	1_Samuel	14	29	<KR[	<KWR	<KWR			qal	infa	NA	m	NA	verb					nnnn	nnnn	עכור
+1996794	4Q51	1_Samuel	1	11	R>H[	R>H	R>H			qal	infa	NA		NA	verb					rrr	nnn	ראה
+2004265	4Q51	2_Samuel	5	10	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
+2006064	4Q51	2_Samuel	12	14	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
 2000389	4Q51	1_Samuel	14	30	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
 1997651	4Q51	1_Samuel	2	28	BXR[	BXWR	BXWR			qal	infa	NA		NA	verb				W	rrrr	nnnn	בחור
-2008202	4Q51	2_Samuel	18	3	NWS[	NWS	NWS			qal	infa	NA		NA	verb					nrr	nnn	נוס
-2004265	4Q51	2_Samuel	5	10	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
+2002131	4Q51	1_Samuel	28	1	JD<[	JDW<	JDW<			qal	infa	NA		NA	verb					nnnn	nnnn	ידוע
+2007187	4Q51	2_Samuel	14	14	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
+2004425	4Q51	2_Samuel	5	19	NTN[	NTWN	NTWN			qal	infa	NA		NA	verb					rrrr	nnnn	נתון
 2012199	4Q52	1_Samuel	23	10	CM<[	CM<	CM<			qal	infa	NA		NA	verb					nnn	nnn	שמע
 2012696	4Q53	2_Samuel	14	14	MWT[	MWT	MWT			qal	infa	NA		NA	verb					rrr	nnn	מות
+2015382	4Q55	Isaiah	21	5	<RK[	<RK	<RK			qal	infa	NA		NA	verb					rrr	nnn	ערך
+2015385	4Q55	Isaiah	21	5	YPH=[	YPH	YPH			qal	infa	NA		NA	verb					rrr	nnn	צפה
+2015388	4Q55	Isaiah	21	5	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
+2015389	4Q55	Isaiah	21	5	CTH[	CTH	CTH			qal	infa	NA		NA	verb					rnr	nnn	שתה
 2015224	4Q55	Isaiah	20	2	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
 2015583	4Q55	Isaiah	22	13	HRG[	HRG	HRG			qal	infa	NA		NA	verb					rrr	nnn	הרג
 2015586	4Q55	Isaiah	22	13	CXV[	CXV	CXV			qal	infa	NA		NA	verb				W	rrr	nnn	שחט
@@ -192,34 +196,30 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2015591	4Q55	Isaiah	22	13	CTH[	CTH	CTH			qal	infa	NA		NA	verb				W	nnn	nnn	שתה
 2015593	4Q55	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
 2015595	4Q55	Isaiah	22	13	CTH[	CTW	CTW			qal	infa	NA		NA	verb				W	rrr	nnn	שתו
-2015382	4Q55	Isaiah	21	5	<RK[	<RK	<RK			qal	infa	NA		NA	verb					rrr	nnn	ערך
-2015385	4Q55	Isaiah	21	5	YPH=[	YPH	YPH			qal	infa	NA		NA	verb					rrr	nnn	צפה
-2015388	4Q55	Isaiah	21	5	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
-2015389	4Q55	Isaiah	21	5	CTH[	CTH	CTH			qal	infa	NA		NA	verb					rnr	nnn	שתה
 2015667	4Q55	Isaiah	22	17	<VH=[	<VH	<VH			qal	infa	NA		NA	verb					rnn	nnn	עטה
 2015669	4Q55	Isaiah	22	18	YNP[	YNWP	YNWP			qal	infa	NA		NA	verb					nnnn	nnnn	צנוף
-2017833	4Q56	Isaiah	20	2	HLK[	HLK	HLK			qal	infa	NA		NA	verb					nnn	nnn	הלך
-2016407	4Q56	Isaiah	3	16	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
-2016409	4Q56	Isaiah	3	16	VPP[	VPP	VPP			qal	infa	NA		NA	verb				W	rrr	nnn	טפף
-2019616	4Q56	Isaiah	48	8	BGD[	BGWD	BGWD			qal	infa	NA		NA	verb					rrrr	nnnn	בגוד
 2018502	4Q56	Isaiah	37	30	>KL[	>KL	>KL			qal	infa	NA		NA	verb					nnn	nnn	אכל
 2018524	4Q56	Isaiah	37	30	>KL[	>KWL	>KWL			qal	infa	NA	m	NA	verb				W	nnnn	nnnn	אכול
+2019616	4Q56	Isaiah	48	8	BGD[	BGWD	BGWD			qal	infa	NA		NA	verb					rrrr	nnnn	בגוד
+2017833	4Q56	Isaiah	20	2	HLK[	HLK	HLK			qal	infa	NA		NA	verb					nnn	nnn	הלך
 2017713	4Q56	Isaiah	19	22	NGP[	NGP	NGP			qal	infa	NA		NA	verb					rrr	nnn	נגף
 2017715	4Q56	Isaiah	19	22	RP>[	RPW>	RPW>			qal	infa	NA		NA	verb				W	rrrr	nnnn	רפוא
+2016407	4Q56	Isaiah	3	16	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
+2016409	4Q56	Isaiah	3	16	VPP[	VPP	VPP			qal	infa	NA		NA	verb				W	rrr	nnn	טפף
 2021457	4Q57	Isaiah	24	22	>SP[	>SWP	>SWP			qal	infa	sg		NA	verb					nnnn	nnnn	אסוף
+2023445	4Q57	Isaiah	55	2	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					rrrr	nnnn	שמוע
+2023347	4Q57	Isaiah	54	15	GWR=[	GWR	GWR			qal	infa	NA		NA	verb					rnn	nnn	גור
+2021405	4Q57	Isaiah	24	19	PRR=[	PWR	PWR			qal	infa	NA		NA	verb					rrr	nnn	פור
+2021408	4Q57	Isaiah	24	19	MWV[	MWV	MWV			qal	infa	NA		NA	verb					rrr	nnn	מוט
+2021412	4Q57	Isaiah	24	20	NW<[	NW<	NW<			qal	infa	NA		NA	verb					rrr	nnn	נוע
 2020939	4Q57	Isaiah	22	13	HRG[	HRG	HRG			qal	infa	NA		NA	verb					rrr	nnn	הרג
 2020942	4Q57	Isaiah	22	13	CXV[	CXV	CXV			qal	infa	NA		NA	verb				W	rrr	nnn	שחט
 2020944	4Q57	Isaiah	22	13	>KL[	>KL	>KL			qal	infa	NA		NA	verb					rrr	nnn	אכל
 2020947	4Q57	Isaiah	22	13	CTH[	CTW	CTW			qal	infa	NA		NA	verb				W	nnn	nnn	שתו
 2020949	4Q57	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nnnn	nnnn	אכול
 2020951	4Q57	Isaiah	22	13	CTH[	CTW	CTW			qal	infa	NA		NA	verb				W	rrr	nnn	שתו
-2023445	4Q57	Isaiah	55	2	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					rrrr	nnnn	שמוע
-2023347	4Q57	Isaiah	54	15	GWR=[	GWR	GWR			qal	infa	NA		NA	verb					rnn	nnn	גור
-2021405	4Q57	Isaiah	24	19	PRR=[	PWR	PWR			qal	infa	NA		NA	verb					rrr	nnn	פור
-2021408	4Q57	Isaiah	24	19	MWV[	MWV	MWV			qal	infa	NA		NA	verb					rrr	nnn	מוט
-2021412	4Q57	Isaiah	24	20	NW<[	NW<	NW<			qal	infa	NA		NA	verb					rrr	nnn	נוע
-2025327	4Q58	Isaiah	58	7	PRS[	PRS	PRS			qal	infa	NA		NA	verb					nnn	nnn	פרס
 2024078	4Q58	Isaiah	48	8	BGD[	BGWD	BGWD			qal	infa	NA		NA	verb					rrrr	nnnn	בגוד
+2025327	4Q58	Isaiah	58	7	PRS[	PRS	PRS			qal	infa	NA		NA	verb					nnn	nnn	פרס
 2027173	4Q60	Isaiah	7	16	M>S[	M>S	M>S			qal	infa	NA		NA	verb					rrr	nnn	מאס
 2027177	4Q60	Isaiah	7	16	BXR[	BXR	BXR			qal	infa	NA		NA	verb				W	rrr	nnn	בחר
 2027538	4Q60	Isaiah	22	17	<VH=[	<VH	<VH			qal	infa	NA		NA	verb					nnn	nnn	עטה
@@ -227,27 +227,27 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2028187	4Q61	Isaiah	42	20	PQX[	PQWX	PQWX			qal	infa	NA		NA	verb					rrrr	nnnn	פקוח
 2028259	4Q61	Isaiah	42	24	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
 2028859	4Q64	Isaiah	28	28	>DC[	>DWC	>DWC			qal	infa	NA		NA	verb					rrrr	nnnn	אדוש
-2032174	4Q70	Jeremiah	22	10	BKH[	BKW	BKW			qal	infa	NA		NA	verb					rrr	nnn	בכו
-2031574	4Q70	Jeremiah	17	24	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
-2031868	4Q70	Jeremiah	19	1	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
-2031221	4Q70	Jeremiah	14	5	<ZB[	<ZWB	<ZWB			qal	infa	NA		NA	verb				W	rrnr	nnnn	עזוב
-2031064	4Q70	Jeremiah	13	1	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
 2030130	4Q70	Jeremiah	8	12	BWC[	BWC	BWC			qal	infa	NA		NA	verb					nnn	nnn	בוש
 2032029	4Q70	Jeremiah	22	4	<FH[	<FW	<FW			qal	infa	NA		NA	verb					nnn	nnn	עשו
 2030150	4Q70	Jeremiah	8	13	>SP[	>SP	>SP			qal	infa	NA		NA	verb					rrr	nnn	אסף
+2031221	4Q70	Jeremiah	14	5	<ZB[	<ZWB	<ZWB			qal	infa	NA		NA	verb				W	rrnr	nnnn	עזוב
 2031017	4Q70	Jeremiah	12	16	LMD[	LMD	LMD			qal	infa	NA		NA	verb					nnn	nnn	למד
 2031459	4Q70	Jeremiah	17	19	HLK[	HWLWK	HWLWK			qal	infa	NA		NA	verb					nnnnn	nnnnn	הולוך
 2031054	4Q70	Jeremiah	12	17	NTC[	NTWC	NTWC			qal	infa	NA		NA	verb					nnnn	nnnn	נתוש
+2031064	4Q70	Jeremiah	13	1	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
+2032174	4Q70	Jeremiah	22	10	BKH[	BKW	BKW			qal	infa	NA		NA	verb					rrr	nnn	בכו
 2032271	4Q70	Jeremiah	22	14	MCX[	MCWX	MCWX			qal	infa	NA		NA	verb				W	rrrr	nnnn	משוח
-2032453	4Q71	Jeremiah	9	23	JD<[	JD<	JD<			qal	infa	NA		NA	verb				W	rrr	nnn	ידע
+2031574	4Q70	Jeremiah	17	24	CM<[	CMW<	CMW<			qal	infa	NA		NA	verb					nnnn	nnnn	שמוע
+2031868	4Q70	Jeremiah	19	1	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
 2032615	4Q71	Jeremiah	10	5	NF>[	NFW>	NFW>			qal	infa	NA		NA	verb					rrrr	nnnn	נשוא
-2033576	4Q72	Jeremiah	22	10	BKH[	BKW	BKW			qal	infa	NA		NA	verb					rrr	nnn	בכו
+2032453	4Q71	Jeremiah	9	23	JD<[	JD<	JD<			qal	infa	NA		NA	verb				W	rrr	nnn	ידע
 2033091	4Q72	Jeremiah	9	3	<QB[	<QWB	<QWB			qal	infa	NA		NA	verb					nnnr	nnnn	עקוב
-2034872	4Q72	Jeremiah	31	20	ZKR[	ZKR	ZKR			qal	infa	NA		NA	verb					rrr	nnn	זכר
-2033772	4Q72	Jeremiah	22	19	SXB[	SXWB	SXWB			qal	infa	NA		NA	verb					nnnn	nnnn	סחוב
 2034590	4Q72	Jeremiah	31	2	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					nnnn	nnnn	הלוך
+2033576	4Q72	Jeremiah	22	10	BKH[	BKW	BKW			qal	infa	NA		NA	verb					rrr	nnn	בכו
 2033664	4Q72	Jeremiah	22	14	QR<[	QRW<	QRW<			qal	infa	NA	m	NA	verb					nnnn	nnnn	קרוע
 2033672	4Q72	Jeremiah	22	14	MCX[	MCWX	MCWX			qal	infa	NA		NA	verb				W	rrrr	nnnn	משוח
+2034872	4Q72	Jeremiah	31	20	ZKR[	ZKR	ZKR			qal	infa	NA		NA	verb					rrr	nnn	זכר
+2033772	4Q72	Jeremiah	22	19	SXB[	SXWB	SXWB			qal	infa	NA		NA	verb					nnnn	nnnn	סחוב
 2035376	4Q72b	Jeremiah	50	4	HLK[	HLWK	HLWK			qal	infa	NA		NA	verb					rrrr	nnnn	הלוך
 2035378	4Q72b	Jeremiah	50	4	BKH[	BKW	BKW			qal	infa	NA		NA	verb				W	rrr	nnn	בכו
 2036100	4Q73	Ezekiel	23	46	NTN[	NTN	NTN			qal	infa	NA		NA	verb				W	nnr	nnn	נתן
@@ -258,10 +258,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2037978	4Q78	Hosea	4	2	GNB[	GNB	GNB			qal	infa	NA		NA	verb				W	rrr	nnn	גנב
 2037980	4Q78	Hosea	4	2	N>P[	N>P	N>P			qal	infa	NA		NA	verb				W	rrr	nnn	נאף
 2040277	4Q79	Hosea	1	6	NF>[	NF>	NF>			qal	infa	NA		NA	verb					rrr	nnn	נשא
-2045018	4Q82	Amos	7	11	GLH[	GLH	GLH			qal	infa	NA		NA	verb					rrr	nnn	גלה
+2045150	4Q82	Amos	7	17	GLH[	GLH	GLH			qal	infa	NA		NA	verb					rrr	nnn	גלה
 2042685	4Q82	Hosea	10	4	>LH[	>LWT	>LWT			qal	infa	NA		NA	verb					rrrr	nnnn	אלות
 2042687	4Q82	Hosea	10	4	KRT[	KRT	KRT			qal	infa	NA		NA	verb					rrr	nnn	כרת
-2045150	4Q82	Amos	7	17	GLH[	GLH	GLH			qal	infa	NA		NA	verb					rrr	nnn	גלה
+2045018	4Q82	Amos	7	11	GLH[	GLH	GLH			qal	infa	NA		NA	verb					rrr	nnn	גלה
 2046420	4Q82	Micah	2	4	CDD[	CDWD	CDWD			qal	infa	NA		NA	verb					rrrr	nnnn	שדוד
 2050176	4Q85	Psalms	49	8	PDH[	PDH	PDH			qal	infa	NA		NA	verb					rrr	nnn	פדה
 2053944	4Q98	Psalms	35	16	XRQ[	XRQ	XRQ			qal	infa	NA		NA	verb					rrr	nnn	חרק
@@ -270,12 +270,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2057588	4Q111	Lamentations	1	8	XV>[	XVW>	XVW>			qal	infa	NA		NA	verb					nnnn	nnnn	חטוא
 2057457	4Q111	Lamentations	1	2	BKH[	BKH	BKH			qal	infa	NA		NA	verb					rrr	nnn	בכה
 2059595	4Q112	Daniel	11	13	BW>[	BW>	BW>			qal	infa	NA		NA	verb					rrr	nnn	בוא
-2063672	4Q128	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 2062886	4Q128	Deuteronomy	5	12	CMR[	CMWR	CMWR			qal	infa	NA		NA	verb					rrrr	nnnn	שמור
 2064037	4Q128	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					nnnr	nnnn	זכור
+2063672	4Q128	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 2064350	4Q129	Deuteronomy	5	12	CMR[	CMWR	CMWR			qal	infa	NA		NA	verb					rrrr	nnnn	שמור
-2065517	4Q130	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 2065106	4Q130	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					rrrr	nnnn	זכור
+2065517	4Q130	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
 2066287	4Q134	Deuteronomy	5	12	CMR[	CMWR	CMWR			qal	infa	NA		NA	verb					rrrr	nnnn	שמור
 2067296	4Q136	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					nnnn	nnnn	זכור
 2067730	4Q137	Deuteronomy	5	12	CMR[	CMWR	CMWR			qal	infa	NA		NA	verb					nnnn	nnnn	שמור
@@ -289,39 +289,39 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2072098	5Q1	Deuteronomy	7	18	ZKR[	ZKR	ZKR			qal	infa	NA		NA	verb					rnn	nnn	זכר
 2072503	5Q1	Deuteronomy	8	19	CKX[	CKX	CKX			qal	infa	NA		NA	verb					rrr	nnn	שכח
 2072530	5Q1	Deuteronomy	8	19	>BD[	>BD	>BD			qal	infa	NA		NA	verb					rrr	nnn	אבד
-2074179	6Q4	1_Kings	22	30	BW>[	B>	B>			qal	infa	NA	m	NA	verb				W	rr	nn	בא
 2074144	6Q4	1_Kings	22	28	CWB[	CWB	CWB			qal	infa	NA		NA	verb					rnr	nnn	שוב
+2074179	6Q4	1_Kings	22	30	BW>[	B>	B>			qal	infa	NA	m	NA	verb				W	rr	nn	בא
 2076052	8Q2	Psalms	17	5	TMK[	TMK	TMK			qal	infa	NA		NA	verb					nnn	nnn	תמך
-2076568	8Q3	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					nnn	nnn	שמע
 2077471	8Q3	Deuteronomy	5	12	CMR[	CMWR	CMWR			qal	infa	NA		NA	verb					nnnn	nnnn	שמור
 2076251	8Q3	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					rrrr	nnnn	זכור
+2076568	8Q3	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					nnn	nnn	שמע
 2078608	8Q4	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					rrr	nnn	שמע
-2079195	11Q1	Leviticus	13	7	PFH[	PFH	PFH			qal	infa	NA		NA	verb					rrr	nnn	פשה
-2081229	11Q1	Leviticus	27	19	G>L[	G>L	G>L			qal	infa	NA		NA	verb					nnn	nnn	גאל
 2081108	11Q1	Leviticus	27	13	G>L[	G>L	G>L			qal	infa	NA		NA	verb					nnn	nnn	גאל
 2080117	11Q1	Leviticus	20	2	MWT[	MWT	MWT			qal	infa	NA		NA	verb					nnn	nnn	מות
+2079195	11Q1	Leviticus	13	7	PFH[	PFH	PFH			qal	infa	NA		NA	verb					rrr	nnn	פשה
+2081229	11Q1	Leviticus	27	19	G>L[	G>L	G>L			qal	infa	NA		NA	verb					nnn	nnn	גאל
 2088680	Xq1	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					nnnn	nnnn	זכור
 2089697	Xq3	Deuteronomy	5	12	CMR[	CMWR	CMWR			qal	infa	NA		NA	verb					nnnn	nnnn	שמור
 2090789	Mur2	Deuteronomy	15	2	CMV[	CMWV	CMWV			qal	infa	NA		NA	verb					rrrr	nnnn	שמוט
-2091322	Mur4	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					nnn	nnn	שמע
 2091000	Mur4	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					nnnn	nnnn	זכור
-2095077	Mur88	Micah	2	12	>SP[	>SP	>SP			qal	infa	NA		NA	verb					nnn	nnn	אסף
+2091322	Mur4	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					nnn	nnn	שמע
+2091639	Mur88	Joel	2	26	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
+2091641	Mur88	Joel	2	26	FB<[	FBW<	FBW<			qal	infa	NA		NA	verb				W	rrrr	nnnn	שבוע
+2097508	Mur88	Habakkuk	2	3	BW>[	B>	B>			qal	infa	NA		NA	verb					rr	nn	בא
+2092567	Mur88	Amos	7	17	GLH[	GLH	GLH			qal	infa	NA		NA	verb					rrr	nnn	גלה
+2097121	Mur88	Nahum	3	13	PTX[	PTWX	PTWX			qal	infa	NA		NA	verb					rrnn	nnnn	פתוח
+2099010	Mur88	Haggai	1	9	PNH[	PNH	PNH			qal	infa	NA		NA	verb					rrr	nnn	פנה
 2096707	Mur88	Nahum	2	2	NYR[	NYWR	NYWR			qal	infa	NA		NA	verb					rrrr	nnnn	נצור
 2092438	Mur88	Amos	7	11	GLH[	GLH	GLH			qal	infa	NA		NA	verb					rnn	nnn	גלה
+2094768	Mur88	Micah	1	10	BKH[	BKW	BKW			qal	infa	NA		NA	verb					rrr	nnn	בכו
+2094951	Mur88	Micah	2	4	CDD[	CDWD	CDWD			qal	infa	NA		NA	verb					rnnn	nnnn	שדוד
 2098959	Mur88	Haggai	1	6	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nrrr	nnnn	אכול
 2098964	Mur88	Haggai	1	6	CTH[	CTW	CTW			qal	infa	NA		NA	verb					nnn	nnn	שתו
 2098969	Mur88	Haggai	1	6	LBC[	LBWC	LBWC			qal	infa	NA		NA	verb					nnnn	nnnn	לבוש
-2097121	Mur88	Nahum	3	13	PTX[	PTWX	PTWX			qal	infa	NA		NA	verb					rrnn	nnnn	פתוח
-2097508	Mur88	Habakkuk	2	3	BW>[	B>	B>			qal	infa	NA		NA	verb					rr	nn	בא
-2092567	Mur88	Amos	7	17	GLH[	GLH	GLH			qal	infa	NA		NA	verb					rrr	nnn	גלה
-2091639	Mur88	Joel	2	26	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrr	nnnn	אכול
-2091641	Mur88	Joel	2	26	FB<[	FBW<	FBW<			qal	infa	NA		NA	verb				W	rrrr	nnnn	שבוע
-2094768	Mur88	Micah	1	10	BKH[	BKW	BKW			qal	infa	NA		NA	verb					rrr	nnn	בכו
-2099010	Mur88	Haggai	1	9	PNH[	PNH	PNH			qal	infa	NA		NA	verb					rrr	nnn	פנה
-2094951	Mur88	Micah	2	4	CDD[	CDWD	CDWD			qal	infa	NA		NA	verb					rnnn	nnnn	שדוד
+2095077	Mur88	Micah	2	12	>SP[	>SP	>SP			qal	infa	NA		NA	verb					nnn	nnn	אסף
 2101991	Xhev/se2	Numbers	27	7	NTN[	NTN	NTN			qal	infa	NA		NA	verb					nnn	nnn	נתן
-2102740	Xhev/se5	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					nnn	nnn	שמע
 2102341	Xhev/se5	Exodus	13	3	ZKR[	ZKR	ZKR			qal	infa	NA		NA	verb					nnn	nnn	זכר
+2102740	Xhev/se5	Deuteronomy	11	13	CM<[	CM<	CM<			qal	infa	NA		NA	verb					nnn	nnn	שמע
 2102956	34Se1	Exodus	13	3	ZKR[	ZKWR	ZKWR			qal	infa	NA		NA	verb					nnnn	nnnn	זכור
 2104272	Mas1b	Leviticus	10	18	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					rrrn	nnnn	אכול
 2104212	Mas1b	Leviticus	10	16	DRC[	DRC	DRC			qal	infa	NA		NA	verb					nnr	nnn	דרש

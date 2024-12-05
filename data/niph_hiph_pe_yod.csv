@@ -139,6 +139,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 28872	MT	Exodus	1	10	JSP[	NWSP	WSP	MCC	CMCC	nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נוסף		-	-	0	1	0	0	nnn	nnn	first	W	1
 29068	MT	Exodus	1	20	JVB[	JJVB	JVB	MCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	ייטב		-	-	0	1	0	0	nnn	nnn	first	J	1
 29255	MT	Exodus	2	7	JNQ[	TJNQ	JNQ	MCC	CMCC	hif	impf	sg	f	p3	verb				W	nnnn	nnnn	תינק		-	-	0	1	0	0	nnn	nnn	first	J	1
+29281	MT	Exodus	2	9	HLK[	HJLJKJ	JLJK	MCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn	היליכי		-	-	0	0	0	0	nnnn	nnnn	first	J	1
 29288	MT	Exodus	2	9	JNQ[	HJNQHW	JNQ	MCC	CMCCCM	hif	impv	sg	f	p2	verb	HW			W	nnnnnn	nnnnnn	הינקהו		-	-	1	1	0	0	nnn	nnn	first	J	1
 29302	MT	Exodus	2	9	JNQ[	TNJQHW	NJQ	CMC	CCMCCM	hif	wayq	sg	f	p3	verb	HW			W	nnnnnn	nnnnnn	תניקהו		-	-	1	1	0	0	nnn	nnn	first		0
 29423	MT	Exodus	2	14	JD<[	NWD<	WD<	MCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע		-	-	0	0	0	0	nnn	nnn	first	W	1
@@ -183,6 +184,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 36099	MT	Exodus	13	16	JY>[	HWYJ>NW	WYJ>	MCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 36445	MT	Exodus	14	11	JY>[	HWYJ>NW	WYJ>	MCMC	CMCMCCM	hif	infc		unknown	unknown	verb	NW			L	nnnnnnn	nnnnnnn	הוציאנו		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 36504	MT	Exodus	14	13	JSP[	TSJPW	SJP	CMC	CCMCM	hif	impf	pl	m	p2	verb					nnnnn	nnnnn	תסיפו		-	-	0	0	0	0	nnn	nnn	first		0
+36658	MT	Exodus	14	21	HLK[	JWLK	WLK	MCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יולך		-	-	0	1	0	0	nnn	nnn	first	W	1
 36866	MT	Exodus	14	30	JC<[	JWC<	WC<	MCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יושע		-	-	0	1	0	0	nnn	nnn	first	W	1
 37036	MT	Exodus	15	9	JRC[	TWRJCMW	WRJC	MCMC	CMCMCCM	hif	impf	sg	f	p3	verb	MW				nnnnnnn	nnnnnnn	תורישמו		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 37062	MT	Exodus	15	11	JR>[	NWR>	WR>	MCM	CMCM	nif	ptca	sg	m	unknown	verb					nnnn	nnnn	נורא		-	-	0	0	0	0	nnn	nnn	first	W	1
@@ -266,6 +268,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 68300	MT	Leviticus	26	10	JCN[	NWCN	WCN	MCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn	נושן		-	-	0	0	0	0	nnn	nnn	first	W	1
 68306	MT	Leviticus	26	10	JY>[	TWYJ>W	WYJ>	MCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוציאו		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 68336	MT	Leviticus	26	13	JY>[	HWY>TJ	WY>	MCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn	הוצאתי		-	-	0	0	0	0	nnn	nnn	first	W	1
+68350	MT	Leviticus	26	13	HLK[	>WLK	WLK	MCC	CMCC	hif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn	אולך		-	-	0	1	0	0	nnn	nnn	first	W	1
 68928	MT	Leviticus	26	45	JY>[	HWY>TJ	WY>	MCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn	הוצאתי		-	-	0	0	0	0	nnn	nnn	first	W	1
 69306	MT	Leviticus	27	18	JTR[	NWTRT	WTR	MCC	CMCCC	nif	ptca	pl	f	unknown	verb		T		H	nnnnn	nnnnn	נותרת		-	-	0	1	0	1	nnn	nnn	first	W	1
 69556	MT	Leviticus	27	31	JSP[	JSP	SP	CC	CCC	hif	impf	sg	m	p3	verb					nnn	nnn	יסף		-	-	0	0	0	0	nn	nn	first		0
@@ -290,6 +293,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 80050	MT	Numbers	15	41	JY>[	HWY>TJ	WY>	MCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn	הוצאתי		-	-	0	0	0	0	nnn	nnn	first	W	1
 80150	MT	Numbers	16	5	JD<[	JD<	D<	CC	CCC	hif	impf	sg	m	p3	verb				W	nnn	nnn	ידע		-	-	0	1	0	0	nn	nn	first		0
 80263	MT	Numbers	16	11	J<D[	N<DJM	<D	CC	CCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	נעדים		-	-	0	1	0	1	nn	nn	first		0
+80962	MT	Numbers	17	11	HLK[	HWLK	WLK	MCC	CMCC	hif	impv	sg	m	p2	verb				W	nnnn	nnnn	הולך		-	-	0	1	0	0	nnn	nnn	first	W	1
 81208	MT	Numbers	17	23	JY>[	JY>	Y>	CM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא		-	-	0	1	0	0	nn	nn	first		0
 81217	MT	Numbers	17	24	JY>[	JY>	Y>	CM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא		-	-	0	1	0	0	nn	nn	first		0
 82053	MT	Numbers	19	3	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוציא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
@@ -340,8 +344,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 97812	MT	Deuteronomy	7	17	JRC[	HWRJCM	WRJC	MCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn	הורישם		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 97853	MT	Deuteronomy	7	19	JY>[	HWY>K	WY>	MCC	CMCCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך		-	-	1	0	0	0	nnn	nnn	first	W	1
 97899	MT	Deuteronomy	7	21	JR>[	NWR>	WR>	MCM	CMCM	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn	נורא		-	-	0	1	0	0	nnn	nnn	first	W	1
+98031	MT	Deuteronomy	8	2	HLK[	HLJKK	LJK	CMC	CCMCC	hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הליכך		-	-	1	0	0	0	nnn	nnn	first		0
 98072	MT	Deuteronomy	8	3	JD<[	HWD<K	WD<	MCC	CMCCC	hif	infc		unknown	unknown	verb	K				nnnnn	nnnnn	הודעך		-	-	1	0	0	0	nnn	nnn	first	W	1
 98261	MT	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn	מוציאך		-	-	1	1	0	0	nnnn	nnnn	first	W	1
+98269	MT	Deuteronomy	8	15	HLK[	MWLJKK	WLJK	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn	מוליכך		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 98277	MT	Deuteronomy	8	15	JR>[	NWR>	WR>	MCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn	נורא		-	-	0	1	0	0	nnn	nnn	first	W	1
 98288	MT	Deuteronomy	8	15	JY>[	MWYJ>	WYJ>	MCMM	CMCMM	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn	מוציא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 98311	MT	Deuteronomy	8	16	JVB[	HJVBK	JVB	MCC	CMCCC	hif	infc		unknown	unknown	verb	K			L	nnnnn	nnnnn	היטבך		-	-	1	1	0	0	nnn	nnn	first	J	1
@@ -394,6 +400,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 108271	MT	Deuteronomy	28	11	JTR[	HWTRK	WTR	MCC	CMCCC	hif	perf	sg	m	p3	verb	K			W	nnnnn	nnnnn	הותרך		-	-	1	1	0	0	nnn	nnn	first	W	1
 108673	MT	Deuteronomy	28	29	JC<[	MWCJ<	WCJ<	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn	מושיע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 108715	MT	Deuteronomy	28	31	JC<[	MWCJ<	WCJ<	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn	מושיע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+108787	MT	Deuteronomy	28	36	HLK[	JWLK	WLK	MCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn	יולך		-	-	0	0	0	0	nnn	nnn	first	W	1
 108831	MT	Deuteronomy	28	38	JY>[	TWYJ>	WYJ>	MCMM	CMCMM	hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוציא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 108872	MT	Deuteronomy	28	41	JLD[	TWLJD	WLJD	MCMC	CMCMC	hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 109142	MT	Deuteronomy	28	54	JTR[	JWTJR	WTJR	MCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יותיר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -401,6 +408,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 109261	MT	Deuteronomy	28	58	JR>[	NWR>	WR>	MCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn	נורא		-	-	0	1	0	0	nnn	nnn	first	W	1
 109348	MT	Deuteronomy	28	63	JVB[	HJVJB	JVJB	MCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	היטיב		-	-	0	1	0	0	nnnn	nnnn	first	J	1
 109491	MT	Deuteronomy	28	68	JSP[	TSJP	SJP	CMC	CCMC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תסיף		-	-	0	0	0	0	nnn	nnn	first		0
+109604	MT	Deuteronomy	29	4	HLK[	>WLK	WLK	MCC	CMCC	hif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn	אולך		-	-	0	1	0	0	nnn	nnn	first	W	1
 110084	MT	Deuteronomy	29	24	JY>[	HWYJ>W	WYJ>	MCMC	CMCMCM	hif	infc		unknown	unknown	verb	W			B	nnnnnn	nnnnnn	הוציאו		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 110285	MT	Deuteronomy	30	5	JVB[	HJVBK	JVB	MCC	CMCCC	hif	perf	sg	m	p3	verb	K			W	nnnnn	nnnnn	היטבך		-	-	1	1	0	0	nnn	nnn	first	J	1
 110350	MT	Deuteronomy	30	9	JTR[	HWTJRK	WTJR	MCMC	CMCMCC	hif	perf	sg	m	p3	verb	K			W	nnnnnn	nnnnnn	הותירך		-	-	1	1	0	0	nnnn	nnnn	first	W	1
@@ -459,6 +467,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 126391	MT	Joshua	23	9	JRC[	JWRC	WRC	MCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יורש		-	-	0	1	0	0	nnn	nnn	first	W	1
 126467	MT	Joshua	23	13	JSP[	JWSJP	WSJP	MCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 126471	MT	Joshua	23	13	JRC[	HWRJC	WRJC	MCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	הוריש		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+126704	MT	Joshua	24	3	HLK[	>WLK	WLK	MCC	CMCC	hif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn	אולך		-	-	0	1	0	0	nnn	nnn	first	W	1
 126762	MT	Joshua	24	5	JY>[	HWY>TJ	WY>	MCM	CMCMCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn	הוצאתי		-	-	0	0	0	0	nnn	nnn	first	W	1
 126765	MT	Joshua	24	6	JY>[	>WYJ>	WYJ>	MCMM	CMCMM	hif	wayq	sg	unknown	p1	verb				W	nnnnn	nnnnn	אוציא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 127179	MT	Joshua	24	20	JVB[	HJVJB	JVJB	MCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	היטיב		-	-	0	0	0	0	nnnn	nnnn	first	J	1
@@ -633,6 +642,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 167075	MT	2_Samuel	12	30	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 167084	MT	2_Samuel	12	31	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 167339	MT	2_Samuel	13	9	JY>[	HWYJ>W	WYJ>	MCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn	הוציאו		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+167417	MT	2_Samuel	13	13	HLK[	>WLJK	WLJK	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אוליך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 167535	MT	2_Samuel	13	18	JY>[	JY>	Y>	CM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא		-	-	0	1	0	0	nn	nn	first		0
 167828	MT	2_Samuel	13	30	JTR[	NWTR	WTR	MCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn	נותר		-	-	0	0	0	0	nnn	nnn	first	W	1
 168105	MT	2_Samuel	14	4	JC<[	HWC<H	WC<	MCC	CMCCM	hif	impv	sg	m	p2	verb					nnnnn	nnnnn	הושעה		-	-	0	0	0	0	nnn	nnn	first	W	1
@@ -665,6 +675,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 175486	MT	2_Samuel	24	3	JSP[	JWSP	WSP	MCC	CMCC	hif	impf	sg	m	p3	verb				W	nnnn	nnnn	יוסף		-	-	0	1	0	0	nnn	nnn	first	W	1
 176655	MT	1_Kings	1	27	JD<[	HWD<T	WD<	MCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn	הודעת		-	-	0	0	0	0	nnn	nnn	first	W	1
 176800	MT	1_Kings	1	33	JRD[	HWRDTM	WRD	MCC	CMCCCC	hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn	הורדתם		-	-	0	1	0	0	nnn	nnn	first	W	1
+176923	MT	1_Kings	1	38	HLK[	JLKW	LK	CC	CCCM	hif	wayq	pl	m	p3	verb				W	nnnn	nnnn	ילכו		-	-	0	1	0	0	nn	nn	first		0
 177125	MT	1_Kings	1	47	JVB[	JJVB	JVB	MCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn	ייטב		-	-	0	0	0	0	nnn	nnn	first	J	1
 177259	MT	1_Kings	1	53	JRD[	JRDHW	RD	CC	CCCCM	hif	wayq	pl	m	p3	verb	HW			W	nnnnn	nnnnn	ירדהו		-	-	1	1	0	0	nn	nn	first		0
 177435	MT	1_Kings	2	6	JRD[	TWRD	WRD	MCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תורד		-	-	0	0	0	0	nnn	nnn	first	W	1
@@ -719,6 +730,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 197452	MT	2_Kings	4	44	JTR[	JWTRW	WTR	MCC	CMCCM	hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn	יותרו		-	-	0	1	0	0	nnn	nnn	first	W	1
 198037	MT	2_Kings	5	23	J>L[	HW>L	W>L	MCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn	הואל		-	-	0	0	0	0	nnn	nnn	first	W	1
 198209	MT	2_Kings	6	3	J>L[	HW>L	W>L	MCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn	הואל		-	-	0	0	0	0	nnn	nnn	first	W	1
+198555	MT	2_Kings	6	19	HLK[	>WLJKH	WLJK	MCMC	CMCMCM	hif	impf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn	אוליכה		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+198563	MT	2_Kings	6	19	HLK[	JLK	LK	CC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn	ילך		-	-	0	1	0	0	nn	nn	first		0
 198717	MT	2_Kings	6	26	JC<[	HWCJ<H	WCJ<	MCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn	הושיעה		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 198724	MT	2_Kings	6	27	JC<[	JWC<K	WC<	MCC	CMCCC	hif	impf	sg	m	p3	verb	K				nnnnn	nnnnn	יושעך		-	-	1	0	0	0	nnn	nnn	first	W	1
 198728	MT	2_Kings	6	27	JC<[	>WCJ<K	WCJ<	MCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	K				nnnnnn	nnnnnn	אושיעך		-	-	1	0	0	0	nnnn	nnnn	first	W	1
@@ -745,6 +758,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 205732	MT	2_Kings	17	8	JRC[	HWRJC	WRJC	MCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוריש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 206107	MT	2_Kings	17	24	JCB[	JCB	CB	CC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn	ישב		-	-	0	1	0	0	nn	nn	first		0
 206155	MT	2_Kings	17	26	JCB[	TWCB	WCB	MCC	CMCC	hif	wayq	sg	m	p2	verb				W	nnnn	nnnn	תושב		-	-	0	1	0	0	nnn	nnn	first	W	1
+206191	MT	2_Kings	17	27	HLK[	HLJKW	LJK	CMC	CCMCM	hif	impv	pl	m	p2	verb					nnnnn	nnnnn	הליכו		-	-	0	0	0	0	nnn	nnn	first		0
 206229	MT	2_Kings	17	28	JRH[	MWRH	WRH	MCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn	מורה		-	-	0	0	0	0	nnn	nnn	first	W	1
 207504	MT	2_Kings	19	4	JKX[	HWKJX	WKJX	MCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 207801	MT	2_Kings	19	19	JC<[	HWCJ<NW	WCJ<	MCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn	הושיענו		-	-	1	0	0	0	nnnn	nnnn	first	W	1
@@ -760,6 +774,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 209987	MT	2_Kings	23	6	JY>[	JY>	Y>	CM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא		-	-	0	1	0	0	nn	nn	first		0
 211018	MT	2_Kings	24	7	JSP[	HSJP	SJP	CMC	CCMC	hif	perf	sg	m	p3	verb					nnnn	nnnn	הסיף		-	-	0	0	0	0	nnn	nnn	first		0
 211133	MT	2_Kings	24	13	JY>[	JWY>	WY>	MCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא		-	-	0	1	0	0	nnn	nnn	first	W	1
+211221	MT	2_Kings	24	15	HLK[	HWLJK	WLJK	MCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוליך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+211806	MT	2_Kings	25	20	HLK[	JLK	LK	CC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn	ילך		-	-	0	1	0	0	nn	nn	first		0
 212143	MT	Isaiah	1	5	JSP[	TWSJPW	WSJP	MCMC	CMCMCM	hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 212196	MT	Isaiah	1	8	JTR[	NWTRH	WTR	MCC	CMCCM	nif	perf	sg	f	p3	verb				W	nnnnn	nnnnn	נותרה		-	-	0	1	0	0	nnn	nnn	first	W	1
 212213	MT	Isaiah	1	9	JTR[	HWTJR	WTJR	MCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הותיר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -841,6 +857,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 226638	MT	Isaiah	42	7	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	הוציא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 226753	MT	Isaiah	42	15	JBC[	>WBJC	WBJC	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אוביש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 226762	MT	Isaiah	42	15	JBC[	>WBJC	WBJC	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אוביש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+226764	MT	Isaiah	42	16	HLK[	HWLKTJ	WLK	MCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn	הולכתי		-	-	0	1	0	0	nnn	nnn	first	W	1
 226988	MT	Isaiah	43	3	JC<[	MWCJ<K	WCJ<	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn	מושיעך		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 227058	MT	Isaiah	43	8	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	infc		unknown	unknown	verb					nnnnn	nnnnn	הוציא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 227114	MT	Isaiah	43	10	JYR[	NWYR	WYR	MCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn	נוצר		-	-	0	0	0	0	nnn	nnn	first	W	1
@@ -868,6 +885,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 228790	MT	Isaiah	47	15	JC<[	MWCJ<K	WCJ<	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn	מושיעך		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 229057	MT	Isaiah	48	17	J<L[	HW<JL	W<JL	MCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	הועיל		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 229110	MT	Isaiah	48	20	JY>[	HWYJ>WH	WYJ>	MCMC	CMCMCMC	hif	impv	pl	m	p2	verb	H				nnnnnnn	nnnnnnn	הוציאוה		-	-	1	0	0	0	nnnn	nnnn	first	W	1
+229125	MT	Isaiah	48	21	HLK[	HWLJKM	WLJK	MCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הוליכם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 229600	MT	Isaiah	49	25	JC<[	>WCJ<	WCJ<	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אושיע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 229604	MT	Isaiah	49	26	JNH[	MWNJK	WN	MC	CMCCC	hif	ptca	pl	m	unknown	verb	K	J			nnnnn	nnnnn	מוניך		-	-	1	0	0	1	nn	nn	first	W	1
 229620	MT	Isaiah	49	26	JC<[	MWCJ<K	WCJ<	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn	מושיעך		-	-	1	0	0	0	nnnn	nnnn	first	W	1
@@ -894,6 +912,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 233562	MT	Isaiah	63	6	JRD[	>WRJD	WRJD	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb				W	nnnnn	nnnnn	אוריד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 233604	MT	Isaiah	63	8	JC<[	MWCJ<	WCJ<	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb				L	nnnnn	nnnnn	מושיע		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 233613	MT	Isaiah	63	9	JC<[	HWCJ<M	WCJ<	MCMC	CMCMCC	hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הושיעם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
+233666	MT	Isaiah	63	12	HLK[	MWLJK	WLJK	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn	מוליך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+233681	MT	Isaiah	63	13	HLK[	MWLJKM	WLJK	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn	מוליכם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 233798	MT	Isaiah	64	1	JD<[	HWDJ<	WDJ<	MCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	הודיע		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 233808	MT	Isaiah	64	2	JR>[	NWR>WT	WR>	MCC	CMCCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn	נוראות		-	-	0	0	0	1	nnn	nnn	first	W	1
 234110	MT	Isaiah	65	9	JY>[	HWY>TJ	WY>	MCM	CMCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn	הוצאתי		-	-	0	1	0	0	nnn	nnn	first	W	1
@@ -901,10 +921,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 234651	MT	Isaiah	66	9	JLD[	MWLJD	WLJD	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn	מוליד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 234734	MT	Isaiah	66	14	JD<[	NWD<H	WD<	MCC	CMCCM	nif	perf	sg	f	p3	verb				W	nnnnn	nnnnn	נודעה		-	-	0	1	0	0	nnn	nnn	first	W	1
 235200	MT	Jeremiah	1	12	JVB[	HJVBT	JVB	MCC	CMCCC	hif	perf	sg	m	p2	verb					nnnnn	nnnnn	היטבת		-	-	0	0	0	0	nnn	nnn	first	J	1
+235451	MT	Jeremiah	2	6	HLK[	MWLJK	WLJK	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb				H	nnnnn	nnnnn	מוליך		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 235527	MT	Jeremiah	2	8	J<L[	JW<LW	W<L	MCC	CMCCM	hif	impf	pl	m	p3	verb					nnnnn	nnnnn	יועלו		-	-	0	0	0	0	nnn	nnn	first	W	1
 235559	MT	Jeremiah	2	11	JMR[	HJMJR	JMJR	MCMC	CMCMC	hif	perf	sg	m	p3	verb				H	nnnnn	nnnnn	הימיר		-	-	0	1	0	0	nnnn	nnnn	first	J	1
 235572	MT	Jeremiah	2	11	J<L[	JW<JL	W<JL	MCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יועיל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 235626	MT	Jeremiah	2	15	JYT[	NYTH	YT			nif	perf	pl	unknown	p3	verb					nnnn	nnnn	נצתה		-	-	0	0	0	0	nn	nn	first		0
+235648	MT	Jeremiah	2	17	HLK[	MWLJKK	WLJK	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	K				nnnnnn	nnnnnn	מוליכך		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 235677	MT	Jeremiah	2	19	JKX[	TWKXK	WKX	MCC	CMCCC	hif	impf	pl	f	p3	verb	K				nnnnn	nnnnn	תוכחך		-	-	1	0	0	0	nnn	nnn	first	W	1
 235803	MT	Jeremiah	2	25	J>C[	NW>C	W>C	MCC	CMCC	nif	ptca	sg	m	unknown	verb					nnnn	nnnn	נואש		-	-	0	0	0	0	nnn	nnn	first	W	1
 235817	MT	Jeremiah	2	26	JBC[	HBJCW	BJC	CMC	CCMCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn	הבישו		-	-	0	0	0	0	nnn	nnn	first		0
@@ -969,8 +991,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 250410	MT	Jeremiah	30	11	JC<[	HWCJ<K	WCJ<	MCMC	CMCMCC	hif	infc		unknown	unknown	verb	K			L	nnnnnn	nnnnnn	הושיעך		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 250750	MT	Jeremiah	31	7	JC<[	HWC<	WC<	MCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn	הושע		-	-	0	0	0	0	nnn	nnn	first	W	1
 250786	MT	Jeremiah	31	9	JBL[	>WBJLM	WBJL	MCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn	אובילם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
+250787	MT	Jeremiah	31	9	HLK[	>WLJKM	WLJK	MCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn	אוליכם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 250873	MT	Jeremiah	31	12	JSP[	JWSJPW	WSJP	MCMC	CMCMCM	hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יוסיפו		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 251236	MT	Jeremiah	31	32	JY>[	HWYJ>M	WYJ>	MCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			L	nnnnnn	nnnnnn	הוציאם		-	-	1	1	0	0	nnnn	nnnn	first	W	1
+251568	MT	Jeremiah	32	5	HLK[	JWLK	WLK	MCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn	יולך		-	-	0	0	0	0	nnn	nnn	first	W	1
 251944	MT	Jeremiah	32	21	JY>[	TY>	Y>	CM	CCM	hif	wayq	sg	m	p2	verb				W	nnn	nnn	תצא		-	-	0	1	0	0	nn	nn	first		0
 252136	MT	Jeremiah	32	29	JYT[	HYJTW	YJT	CMC	CCMCM	hif	perf	pl	unknown	p3	verb				W	nnnnn	nnnnn	הציתו		-	-	0	1	0	0	nnn	nnn	first		0
 252373	MT	Jeremiah	32	37	JCB[	HCBTJM	CB	CC	CCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnn	nnnnnn	השבתים		-	-	1	1	0	0	nn	nn	first		0
@@ -1011,6 +1035,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 263387	MT	Jeremiah	51	36	JBC[	HBCTJ	BC	CC	CCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn	הבשתי		-	-	0	1	0	0	nn	nn	first		0
 263430	MT	Jeremiah	51	40	JRD[	>WRJDM	WRJD	MCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn	אורידם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 263492	MT	Jeremiah	51	44	JY>[	HY>TJ	Y>	CM	CCMCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn	הצאתי		-	-	0	1	0	0	nn	nn	first		0
+264567	MT	Jeremiah	52	26	HLK[	JLK	LK	CC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn	ילך		-	-	0	1	0	0	nn	nn	first		0
 264682	MT	Jeremiah	52	31	JY>[	JY>	Y>	CM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא		-	-	0	1	0	0	nn	nn	first		0
 265162	MT	Ezekiel	1	22	JR>[	NWR>	WR>	MCM	CMCM	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn	נורא		-	-	0	1	0	0	nnn	nnn	first	W	1
 266037	MT	Ezekiel	3	26	JKX[	MWKJX	WKJX	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn	מוכיח		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -1071,6 +1096,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 279308	MT	Ezekiel	30	2	JLL[	HJLJLW	JLJL	MCMC	CMCMCM	hif	impv	pl	m	p2	verb					nnnnnn	nnnnnn	הילילו		-	-	0	0	0	0	nnnn	nnnn	first	J	1
 280108	MT	Ezekiel	31	16	JRD[	HWRDJ	WRD	MCC	CMCCM	hif	infc		unknown	unknown	verb	J			B	nnnnn	nnnnn	הורדי		-	-	1	1	0	0	nnn	nnn	first	W	1
 280158	MT	Ezekiel	31	18	JRD[	HWRDT	WRD	MCC	CMCCC	hof	perf	sg	m	p2	verb				W	nnnnn	nnnnn	הורדת		-	-	0	1	0	0	nnn	nnn	first	W	1
+280431	MT	Ezekiel	32	14	HLK[	>WLJK	WLJK	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אוליך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 280502	MT	Ezekiel	32	18	JRD[	HWRDHW	WRD	MCC	CMCCCM	hif	impv	sg	m	p2	verb	HW			W	nnnnnn	nnnnnn	הורדהו		-	-	1	1	0	0	nnn	nnn	first	W	1
 281503	MT	Ezekiel	33	32	JVB[	MVB	VB	CC	CCC	hif	ptca	sg	m	unknown	verb				W	nnn	nnn	מטב		-	-	0	1	0	0	nn	nn	first		0
 281791	MT	Ezekiel	34	13	JY>[	HWY>TJM	WY>	MCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn	הוצאתים		-	-	1	1	0	0	nnn	nnn	first	W	1
@@ -1081,6 +1107,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 282657	MT	Ezekiel	36	10	JCB[	NCBW	CB	CC	CCCM	nif	perf	pl	unknown	p3	verb				W	nnnn	nnnn	נשבו		-	-	0	1	0	0	nn	nn	first		0
 282675	MT	Ezekiel	36	11	JCB[	HWCBTJ	WCB	MCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn	הושבתי		-	-	0	1	0	0	nnn	nnn	first	W	1
 282680	MT	Ezekiel	36	11	JVB[	HVBTJ	VB	CC	CCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnn	nnnnn	הטבתי		-	-	0	1	0	0	nn	nn	first		0
+282689	MT	Ezekiel	36	12	HLK[	HWLKTJ	WLK	MCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn	הולכתי		-	-	0	1	0	0	nnn	nnn	first	W	1
 282704	MT	Ezekiel	36	12	JSP[	TWSP	WSP	MCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תוסף		-	-	0	0	0	0	nnn	nnn	first	W	1
 283013	MT	Ezekiel	36	29	JC<[	HWC<TJ	WC<	MCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn	הושעתי		-	-	0	1	0	0	nnn	nnn	first	W	1
 283099	MT	Ezekiel	36	33	JCB[	HWCBTJ	WCB	MCC	CMCCCM	hif	perf	sg	unknown	p1	verb				W	nnnnnn	nnnnnn	הושבתי		-	-	0	1	0	0	nnn	nnn	first	W	1
@@ -1093,8 +1120,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 284455	MT	Ezekiel	39	7	JD<[	>WDJ<	WDJ<	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אודיע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 284634	MT	Ezekiel	39	14	JTR[	NWTRJM	WTR	MCC	CMCCMC	nif	ptca	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn	נותרים		-	-	0	1	0	1	nnn	nnn	first	W	1
 284923	MT	Ezekiel	39	28	JTR[	>WTJR	WTJR	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אותיר		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+285507	MT	Ezekiel	40	24	HLK[	JWLKNJ	WLK	MCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn	יולכני		-	-	1	1	0	0	nnn	nnn	first	W	1
 286686	MT	Ezekiel	42	1	JY>[	JWY>NJ	WY>	MCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn	יוצאני		-	-	1	1	0	0	nnn	nnn	first	W	1
 287039	MT	Ezekiel	42	15	JY>[	HWYJ>NJ	WYJ>	MCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn	הוציאני		-	-	1	1	0	0	nnnn	nnnn	first	W	1
+287128	MT	Ezekiel	43	1	HLK[	JWLKNJ	WLK	MCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn	יולכני		-	-	1	1	0	0	nnn	nnn	first	W	1
 287367	MT	Ezekiel	43	11	JD<[	HWD<	WD<	MCC	CMCC	hif	impv	sg	m	p2	verb					nnnn	nnnn	הודע		-	-	0	0	0	0	nnn	nnn	first	W	1
 288267	MT	Ezekiel	44	23	JRH[	JWRW	WR	MC	CMCM	hif	impf	pl	m	p3	verb					nnnn	nnnn	יורו		-	-	0	0	0	0	nn	nn	first	W	1
 288277	MT	Ezekiel	44	23	JD<[	JWD<M	WD<	MCC	CMCCC	hif	impf	pl	m	p3	verb	M				nnnnn	nnnnn	יודעם		-	-	1	0	0	0	nnn	nnn	first	W	1
@@ -1103,6 +1132,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 289584	MT	Ezekiel	46	20	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	infc		unknown	unknown	verb					nnnnn	nnnnn	הוציא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 289596	MT	Ezekiel	46	21	JY>[	JWYJ>NJ	WYJ>	MCMC	CMCMCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn	יוציאני		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 289709	MT	Ezekiel	47	2	JY>[	JWY>NJ	WY>	MCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn	יוצאני		-	-	1	1	0	0	nnn	nnn	first	W	1
+289800	MT	Ezekiel	47	6	HLK[	JWLKNJ	WLK	MCC	CMCCCM	hif	wayq	sg	m	p3	verb	NJ			W	nnnnnn	nnnnnn	יולכני		-	-	1	1	0	0	nnn	nnn	first	W	1
 289848	MT	Ezekiel	47	8	JY>[	MWY>JM	WY>	MCC	CMCCMC	hof	ptcp	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn	מוצאים		-	-	0	1	0	1	nnn	nnn	first	W	1
 290162	MT	Ezekiel	47	22	JLD[	HWLDW	WLD	MCC	CMCCM	hif	perf	pl	unknown	p3	verb					nnnnn	nnnnn	הולדו		-	-	0	0	0	0	nnn	nnn	first	W	1
 290479	MT	Ezekiel	48	15	JTR[	NWTR	WTR	MCC	CMCC	nif	ptca	sg	m	unknown	verb				H	nnnn	nnnn	נותר		-	-	0	1	0	0	nnn	nnn	first	W	1
@@ -1113,6 +1143,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 291060	MT	Hosea	1	7	JC<[	>WCJ<M	WCJ<	MCMC	CMCMCC	hif	impf	sg	unknown	p1	verb	M				nnnnnn	nnnnnn	אושיעם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 291183	MT	Hosea	2	5	JYG[	HYGTJH	YG	CC	CCCCMC	hif	perf	sg	unknown	p1	verb	H			W	nnnnnn	nnnnnn	הצגתיה		-	-	1	1	0	0	nn	nn	first		0
 291214	MT	Hosea	2	7	JBC[	HBJCH	BJC	CMC	CCMCM	hif	perf	sg	f	p3	verb					nnnnn	nnnnn	הבישה		-	-	0	0	0	0	nnn	nnn	first		0
+291398	MT	Hosea	2	16	HLK[	HLKTJH	LK	CC	CCCCMC	hif	perf	sg	unknown	p1	verb	H			W	nnnnnn	nnnnnn	הלכתיה		-	-	1	1	0	0	nn	nn	first		0
 291764	MT	Hosea	4	4	JKX[	JWKX	WKX	MCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn	יוכח		-	-	0	0	0	0	nnn	nnn	first	W	1
 292124	MT	Hosea	5	9	JD<[	HWD<TJ	WD<	MCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn	הודעתי		-	-	0	0	0	0	nnn	nnn	first	W	1
 292143	MT	Hosea	5	11	J>L[	HW>JL	W>JL	MCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הואיל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -1143,6 +1174,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 294814	MT	Joel	2	23	JRD[	JWRD	WRD	MCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יורד		-	-	0	1	0	0	nnn	nnn	first	W	1
 294974	MT	Joel	3	4	JR>[	NWR>	WR>	MCM	CMCM	nif	ptca	sg	m	unknown	verb				WH	nnnn	nnnn	נורא		-	-	0	1	0	0	nnn	nnn	first	W	1
 295031	MT	Joel	4	2	JRD[	HWRDTJM	WRD	MCC	CMCCCMC	hif	perf	sg	unknown	p1	verb	M			W	nnnnnnn	nnnnnnn	הורדתים		-	-	1	1	0	0	nnn	nnn	first	W	1
+295852	MT	Amos	2	10	HLK[	>WLK	WLK	MCC	CMCC	hif	wayq	sg	unknown	p1	verb				W	nnnn	nnnn	אולך		-	-	0	1	0	0	nnn	nnn	first	W	1
 296005	MT	Amos	3	3	J<D[	NW<DW	W<D	MCC	CMCCM	nif	perf	pl	unknown	p3	verb					nnnnn	nnnnn	נועדו		-	-	0	0	0	0	nnn	nnn	first	W	1
 296141	MT	Amos	3	11	JRD[	HWRD	WRD	MCC	CMCC	hif	perf	sg	m	p3	verb				W	nnnn	nnnn	הורד		-	-	0	1	0	0	nnn	nnn	first	W	1
 296534	MT	Amos	5	2	JSP[	TWSJP	WSJP	MCMC	CMCMC	hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תוסיף		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -1189,6 +1221,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 304336	MT	Haggai	1	11	JY>[	TWYJ>	WYJ>	MCMM	CMCMM	hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תוציא		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 306022	MT	Zechariah	4	7	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוציא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 306217	MT	Zechariah	5	4	JY>[	HWY>TJH	WY>	MCM	CMCMCMC	hif	perf	sg	unknown	p1	verb	H				nnnnnnn	nnnnnnn	הוצאתיה		-	-	1	0	0	0	nnn	nnn	first	W	1
+306367	MT	Zechariah	5	10	HLK[	MWLKWT	WLK	MCC	CMCCMC	hif	ptca	pl	f	unknown	verb		WT			nnnnnn	nnnnnn	מולכות		-	-	0	0	0	1	nnn	nnn	first	W	1
 307086	MT	Zechariah	8	7	JC<[	MWCJ<	WCJ<	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn	מושיע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 307257	MT	Zechariah	8	13	JC<[	>WCJ<	WCJ<	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אושיע		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 307296	MT	Zechariah	8	15	JVB[	HJVJB	JVJB	MCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	היטיב		-	-	0	1	0	0	nnnn	nnnn	first	J	1
@@ -1373,6 +1406,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 328976	MT	Psalms	106	1	JDH[	HWDW	WD	MC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn	הודו		-	-	0	0	0	0	nn	nn	first	W	1
 329046	MT	Psalms	106	8	JC<[	JWCJ<M	WCJ<	MCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יושיעם		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 329050	MT	Psalms	106	8	JD<[	HWDJ<	WDJ<	MCMC	CMCMC	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	הודיע		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+329061	MT	Psalms	106	9	HLK[	JWLJKM	WLJK	MCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יוליכם		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 329069	MT	Psalms	106	10	JC<[	JWCJ<M	WCJ<	MCMC	CMCMCC	hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יושיעם		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 329085	MT	Psalms	106	11	JTR[	NWTR	WTR	MCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn	נותר		-	-	0	0	0	0	nnn	nnn	first	W	1
 329167	MT	Psalms	106	21	JC<[	MWCJ<M	WCJ<	MCMC	CMCMCC	hif	ptca	sg	m	unknown	verb	M				nnnnnn	nnnnnn	מושיעם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
@@ -1413,12 +1447,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332429	MT	Psalms	119	146	JC<[	HWCJ<NJ	WCJ<	MCMC	CMCMCCM	hif	impv	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	הושיעני		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 332685	MT	Psalms	120	3	JSP[	JSJP	SJP	CMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn	יסיף		-	-	0	0	0	0	nnn	nnn	first		0
 333045	MT	Psalms	125	4	JVB[	HJVJBH	JVJB	MCMC	CMCMCM	hif	impv	sg	m	p2	verb					nnnnnn	nnnnnn	היטיבה		-	-	0	0	0	0	nnnn	nnnn	first	J	1
+333059	MT	Psalms	125	5	HLK[	JWLJKM	WLJK	MCMC	CMCMCC	hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn	יוליכם		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 333369	MT	Psalms	130	5	JXL[	HWXLTJ	WXL	MCC	CMCCCM	hif	perf	sg	unknown	p1	verb					nnnnnn	nnnnnn	הוחלתי		-	-	0	0	0	0	nnn	nnn	first	W	1
 333771	MT	Psalms	135	7	JY>[	MWY>	WY>	MCM	CMCM	hif	ptca	sg	m	unknown	verb					nnnn	nnnn	מוצא		-	-	0	0	0	0	nnn	nnn	first	W	1
 333912	MT	Psalms	136	1	JDH[	HWDW	WD	MC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn	הודו		-	-	0	0	0	0	nn	nn	first	W	1
 333921	MT	Psalms	136	2	JDH[	HWDW	WD	MC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn	הודו		-	-	0	0	0	0	nn	nn	first	W	1
 333930	MT	Psalms	136	3	JDH[	HWDW	WD	MC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn	הודו		-	-	0	0	0	0	nn	nn	first	W	1
 334014	MT	Psalms	136	11	JY>[	JWY>	WY>	MCM	CMCM	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא		-	-	0	1	0	0	nnn	nnn	first	W	1
+334065	MT	Psalms	136	16	HLK[	MWLJK	WLJK	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb				L	nnnnn	nnnnn	מוליך		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 334152	MT	Psalms	136	26	JDH[	HWDW	WD	MC	CMCM	hif	impv	pl	m	p2	verb					nnnn	nnnn	הודו		-	-	0	0	0	0	nn	nn	first	W	1
 334261	MT	Psalms	138	1	JDH[	>WDK	WD	MC	CMCC	hif	impf	sg	unknown	p1	verb	K				nnnn	nnnn	אודך		-	-	1	0	0	0	nn	nn	first	W	1
 334273	MT	Psalms	138	2	JDH[	>WDH	WDH	MCM	CMCM	hif	impf	sg	unknown	p1	verb				W	nnnn	nnnn	אודה		-	-	0	1	0	0	nnn	nnn	first	W	1
@@ -1458,6 +1494,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 338779	MT	Job	10	19	JBL[	>WBL	WBL	MCC	CMCC	hof	impf	sg	unknown	p1	verb					nnnn	nnnn	אובל		-	-	0	0	0	0	nnn	nnn	first	W	1
 338812	MT	Job	10	22	JP<[	TP<	P<	CC	CCC	hif	wayq	sg	f	p3	verb				W	nnn	nnn	תפע		-	-	0	1	0	0	nn	nn	first		0
 338958	MT	Job	11	15	JYQ[	MYQ	YQ	CC	CCC	hof	ptcp	sg	m	unknown	verb					nnn	nnn	מצק		-	-	0	0	0	0	nn	nn	first		0
+339181	MT	Job	12	17	HLK[	MWLJK	WLJK	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn	מוליך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+339195	MT	Job	12	19	HLK[	MWLJK	WLJK	MCMC	CMCMC	hif	ptca	sg	m	unknown	verb					nnnnn	nnnnn	מוליך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 339222	MT	Job	12	22	JY>[	JY>	Y>	CM	CCM	hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא		-	-	0	1	0	0	nn	nn	first		0
 339285	MT	Job	13	3	JKX[	HWKX	WKX	MCC	CMCC	hif	infa		unknown	unknown	verb				W	nnnn	nnnn	הוכח		-	-	0	1	0	0	nnn	nnn	first	W	1
 339342	MT	Job	13	10	JKX[	HWKX	WKX	MCC	CMCC	hif	infa		unknown	unknown	verb					nnnn	nnnn	הוכח		-	-	0	0	0	0	nnn	nnn	first	W	1
@@ -1540,6 +1578,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 350822	MT	Proverbs	15	13	JVB[	JJVB	JVB	MCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn	ייטב		-	-	0	0	0	0	nnn	nnn	first	J	1
 351219	MT	Proverbs	16	21	JSP[	JSJP	SJP	CMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn	יסיף		-	-	0	0	0	0	nnn	nnn	first		0
 351236	MT	Proverbs	16	23	JSP[	JSJP	SJP	CMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn	יסיף		-	-	0	0	0	0	nnn	nnn	first		0
+351292	MT	Proverbs	16	29	HLK[	HWLJKW	WLJK	MCMC	CMCMCM	hif	perf	sg	m	p3	verb	W			W	nnnnnn	nnnnnn	הוליכו		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 351557	MT	Proverbs	17	22	JVB[	JJVB	JVB	MCC	CMCC	hif	impf	sg	m	p3	verb					nnnn	nnnn	ייטב		-	-	0	0	0	0	nnn	nnn	first	J	1
 351877	MT	Proverbs	19	4	JSP[	JSJP	SJP	CMC	CCMC	hif	impf	sg	m	p3	verb					nnnn	nnnn	יסיף		-	-	0	0	0	0	nnn	nnn	first		0
 352030	MT	Proverbs	19	19	JSP[	TWSP	WSP	MCC	CMCC	hif	impf	sg	m	p2	verb					nnnn	nnnn	תוסף		-	-	0	0	0	0	nnn	nnn	first	W	1
@@ -1587,14 +1626,17 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 360805	MT	Ecclesiastes	4	14	JLD[	NWLD	WLD	MCC	CMCC	nif	perf	sg	m	p3	verb					nnnn	nnnn	נולד		-	-	0	0	0	0	nnn	nnn	first	W	1
 360883	MT	Ecclesiastes	5	1	JY>[	HWYJ>	WYJ>	MCMM	CMCMM	hif	infc		unknown	unknown	verb				L	nnnnn	nnnnn	הוציא		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 361103	MT	Ecclesiastes	5	13	JLD[	HWLJD	WLJD	MCMC	CMCMC	hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוליד		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+361130	MT	Ecclesiastes	5	14	HLK[	JLK	LK	CC	CCC	hif	impf	sg	m	p3	verb				C	nnn	nnn	ילך		-	-	0	1	0	0	nn	nn	first		0
 361299	MT	Ecclesiastes	6	3	JLD[	JWLJD	WLJD	MCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוליד		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 361426	MT	Ecclesiastes	6	10	JD<[	NWD<	WD<	MCC	CMCC	nif	ptca	sg	m	unknown	verb				W	nnnn	nnnn	נודע		-	-	0	1	0	0	nnn	nnn	first	W	1
+363019	MT	Ecclesiastes	10	20	HLK[	JWLJK	WLJK	MCMC	CMCMC	hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוליך		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 363193	MT	Ecclesiastes	11	9	JVB[	JVJBK	VJB	CMC	MCMCC	hif	impf	sg	m	p3	verb	K			W	nnnnn	nnnnn	יטיבך		-	-	1	1	0	0	nnn	nnn	first		0
 363592	MT	Lamentations	1	4	JGH[	NWGWT	WG	MC	CMCMC	nif	ptca	pl	f	unknown	verb		WT			nnnnn	nnnnn	נוגות		-	-	0	0	0	1	nn	nn	first	W	1
 363605	MT	Lamentations	1	5	JGH[	HWGH	WG	MC	CMCC	hif	perf	sg	m	p3	verb	H				nnnn	nnnn	הוגה		-	-	1	0	0	0	nn	nn	first	W	1
 363759	MT	Lamentations	1	12	JGH[	HWGH	WGH	MCM	CMCM	hif	perf	sg	m	p3	verb					nnnn	nnnn	הוגה		-	-	0	0	0	0	nnn	nnn	first	W	1
 364177	MT	Lamentations	2	10	JRD[	HWRJDW	WRJD	MCMC	CMCMCM	hif	perf	pl	unknown	p3	verb					nnnnnn	nnnnnn	הורידו		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 364349	MT	Lamentations	2	18	JRD[	HWRJDJ	WRJD	MCMC	CMCMCM	hif	impv	sg	f	p2	verb					nnnnnn	nnnnnn	הורידי		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+364473	MT	Lamentations	3	2	HLK[	JLK	LK	CC	CCC	hif	wayq	sg	m	p3	verb				W	nnn	nnn	ילך		-	-	0	1	0	0	nn	nn	first		0
 364501	MT	Lamentations	3	6	JCB[	HWCJBNJ	WCJB	MCMC	CMCMCCM	hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn	הושיבני		-	-	1	0	0	0	nnnn	nnnn	first	W	1
 364612	MT	Lamentations	3	21	JXL[	>WXJL	WXJL	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אוחיל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 364634	MT	Lamentations	3	24	JXL[	>WXJL	WXJL	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אוחיל		-	-	0	0	0	0	nnnn	nnnn	first	W	1
@@ -1823,7 +1865,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 423610	MT	2_Chronicles	32	22	JC<[	JWC<	WC<	MCC	CMCC	hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יושע		-	-	0	1	0	0	nnn	nnn	first	W	1
 423914	MT	2_Chronicles	33	2	JRC[	HWRJC	WRJC	MCMC	CMCMC	hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוריש		-	-	0	0	0	0	nnnn	nnnn	first	W	1
 424052	MT	2_Chronicles	33	8	JSP[	>WSJP	WSJP	MCMC	CMCMC	hif	impf	sg	unknown	p1	verb					nnnnn	nnnnn	אוסיף		-	-	0	0	0	0	nnnn	nnnn	first	W	1
+424145	MT	2_Chronicles	33	11	HLK[	JWLJKHW	WLJK	MCMC	CMCMCCM	hif	wayq	pl	m	p3	verb	HW			W	nnnnnnn	nnnnnnn	יוליכהו		-	-	1	1	0	0	nnnn	nnnn	first	W	1
 424818	MT	2_Chronicles	34	14	JY>[	HWYJ>M	WYJ>	MCMC	CMCMCC	hif	infc		unknown	unknown	verb	M			WB	nnnnnn	nnnnnn	הוציאם		-	-	1	1	0	0	nnnn	nnnn	first	W	1
+425998	MT	2_Chronicles	35	24	HLK[	JWLJKHW	WLJK	MCMC	CMCMCCM	hif	wayq	pl	m	p3	verb	HW			W	nnnnnnn	nnnnnnn	יוליכהו		-	-	1	1	0	0	nnnn	nnnn	first	W	1
+426179	MT	2_Chronicles	36	6	HLK[	HLJKW	LJK	CMC	CCMCM	hif	infc		unknown	unknown	verb	W			L	nnnnn	nnnnn	הליכו		-	-	1	1	0	0	nnn	nnn	first		0
 1891380	1Q4	Deuteronomy	9	28	JY>[	JWY>NW	WY>			hif	impf	sg	m	p3	verb	NW				nnnnnr	nnnnnn	יוצאנו		2	f5	1	0	0	0	nnn	nnn	first	W	1
 1892462	1Q5	Deuteronomy	24	11	JY>[	JWY>	WY>			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוצא		2	f8ii	0	0	0	0	nnn	nnn	first	W	1
 1894937	1Qisaa	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו		6	1	0	0	0	0	nnnn	nnnn	first	W	1
@@ -1911,6 +1956,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1910234	1Qisaa	Isaiah	42	13	JD<[	JWDJ<	WDJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יודיע		23	35	0	0	0	0	nnnn	nnnn	first	W	1
 1910262	1Qisaa	Isaiah	42	15	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש		26	35	0	0	0	0	nnnn	nnnn	first	W	1
 1910270	1Qisaa	Isaiah	42	15	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש		26	35	0	0	0	0	nnnn	nnnn	first	W	1
+1910273	1Qisaa	Isaiah	42	16	HLK[	HWLJKTJ	HWLJK			hif	perf	sg		p1	verb				W	nnnnnnn	nnnnnnn	הוליכתי		26	35	0	1	0	0	nnnnn	nnnnn	first	W	1
 1910585	1Qisaa	Isaiah	43	8	JY>[	HWYJ>W	WYJ>			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הוציאו		16	36	0	0	0	0	nnnn	nnnn	first	W	1
 1910642	1Qisaa	Isaiah	43	10	JYR[	NWYR	NWYR			nif	perf	sg	m	p3	verb					nnnn	nnnn	נוצר		20	36	0	0	0	0	nnnn	nnnn	first	W	1
 1910656	1Qisaa	Isaiah	43	11	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע		21	36	0	0	0	0	nnnn	nnnn	first	W	1
@@ -1935,6 +1981,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1912382	1Qisaa	Isaiah	47	13	JD<[	MWD<JM	WD<			hif	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	מודעים		3	40	0	0	0	1	nnn	nnn	first	W	1
 1912425	1Qisaa	Isaiah	47	15	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך		5	40	1	0	0	0	nnnn	nnnn	first	W	1
 1912713	1Qisaa	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הועיל		22	40	0	1	0	0	nnnn	nnnn	first	W	1
+1912786	1Qisaa	Isaiah	48	21	HLK[	HWLJKW	HWLJK			hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn	הוליכו		26	40	1	0	0	0	nnnnn	nnnnn	first	W	1
 1913242	1Qisaa	Isaiah	49	23	JNQ[	MJNQWTJK	JNQ			hif	ptca	pl	f	NA	verb	K	WTJ			nnnnnnnn	nnnnnnnn	מינקותיך		23	41	1	0	0	1	nnn	nnn	first	J	1
 1913292	1Qisaa	Isaiah	49	25	JC<[	>WCJ<	WCJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	אושיע		27	41	0	0	0	0	nnnn	nnnn	first	W	1
 1913297	1Qisaa	Isaiah	49	26	JNH[	MWNJK	WN			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוניך		27	41	1	0	0	1	nn	nn	first	W	1
@@ -1963,6 +2010,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1917446	1Qisaa	Isaiah	63	6	JRD[	>WRJDH	WRJD			hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אורידה		2	51	0	1	0	0	nnnn	nnnn	first	W	1
 1917489	1Qisaa	Isaiah	63	8	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מושיע		5	51	0	1	0	0	nnnn	nnnn	first	W	1
 1917499	1Qisaa	Isaiah	63	9	JC<[	HWCJ<MH	WCJ<			hif	perf	sg	m	p3	verb	MH				nnnnnnn	nnnnnnn	הושיעמה		5	51	1	0	0	0	nnnn	nnnn	first	W	1
+1917557	1Qisaa	Isaiah	63	12	HLK[	MWLJK	WLJK			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מוליך		8	51	0	1	0	0	nnnn	nnnn	first	W	1
+1917572	1Qisaa	Isaiah	63	13	HLK[	MWLJKM	WLJK			hif	ptca	sg	m	NA	verb	M				nnnnnn	nnnnnn	מוליכם		9	51	1	0	0	0	nnnn	nnnn	first	W	1
 1917695	1Qisaa	Isaiah	64	1	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודיע		16	51	0	1	0	0	nnnn	nnnn	first	W	1
 1917707	1Qisaa	Isaiah	64	2	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	נוראות		17	51	0	0	0	1	nnnn	nnnn	first	W	1
 1918021	1Qisaa	Isaiah	65	9	JY>[	HWYJTJ	WY			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הוציתי		10	52	0	1	0	0	nn	nn	first	W	1
@@ -2015,6 +2064,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1943505	4Q11	Exodus	16	3	JY>[	HWY>TM	WY>T			hif	perf	pl	m	p2	verb		M			nnnrrr	nnnnnn	הוצאתם		4	f11	0	0	0	1	nnnr	nnnn	first	W	1
 1945933	4Q13	Exodus	1	20	JVB[	JVB	VB			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יטב		6	f2	0	1	0	0	nn	nn	first		0
 1946086	4Q13	Exodus	2	7	JNQ[	HJNQH	JNQ			hif	perf	sg	f	p3	verb				W	nnnnn	nnnnn	הינקה		7	f3i_4	0	1	0	0	nnn	nnn	first	J	1
+1946114	4Q13	Exodus	2	9	HLK[	HLK	HLK			hif	impv	sg	f	NA	verb					nnn	nnn	הלך		8	f3i_4	0	0	0	0	nnn	nnn	first		0
 1946267	4Q13	Exodus	2	14	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע		16	f3i_4	0	0	0	0	nnnn	nnnn	first	W	1
 1948272	4Q14	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תספון		37	2	1	0	0	0	nn	nn	first		0
 1948824	4Q14	Exodus	10	15	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					nnnn	nnnn	נותר		19	3	0	0	0	0	nnnn	nnnn	first	W	1
@@ -2031,6 +2081,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1969876	4Q26	Leviticus	14	29	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נותר		5	f1	0	1	0	0	nnnn	nnnn	first	W	1
 1970752	4Q26a	Leviticus	21	10	JYQ[	JWYQ	JWYQ			hof	impf	sg	m	p3	verb					nnnn	nnnn	יוצק		3	f6	0	0	0	0	nnnn	nnnn	first	W	1
 1973493	4Q27	Numbers	22	15	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוסף		8	f20_22	0	1	0	0	nnn	nnn	first	W	1
+1979633	4Q30	Deuteronomy	8	2	HLK[	HWLJKK	HWLJK			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוליכך		2	f5	1	0	0	0	nnnnn	nnnnn	first	W	1
 1979674	4Q30	Deuteronomy	8	3	JD<[	HWDJ<K	WDJ<			hif	infc	NA		NA	verb	K				nnnnnn	nnnnnn	הודיעך		5	f5	1	0	0	0	nnnn	nnnn	first	W	1
 1980246	4Q30	Deuteronomy	13	12	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יוסיפו		2	f24	0	0	0	0	nnnn	nnnn	first	W	1
 1982389	4Q31	Deuteronomy	3	26	JSP[	TSP	SP			hif	impf	sg	m	p2	verb					nnn	nnn	תסף		16	2	0	0	0	0	nn	nn	first		0
@@ -2076,6 +2127,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2023964	4Q58	Isaiah	47	1	JSP[	TWSPJ	WSP			hif	impf	sg	f	p2	verb					nnnnn	nnnnn	תוספי		18	2	0	0	0	0	nnn	nnn	first	W	1
 2024214	4Q58	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הועיל		1	4	0	1	0	0	nnnn	nnnn	first	W	1
 2024268	4Q58	Isaiah	48	20	JY>[	HWYJ>WH	WYJ>			hif	impv	pl	m	NA	verb	H				nnnnnnn	nnnnnnn	הוציאוה		4	4	1	0	0	0	nnnn	nnnn	first	W	1
+2024284	4Q58	Isaiah	48	21	HLK[	HWLJKM	HWLJK			hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הוליכם		5	4	1	0	0	0	nnnnn	nnnnn	first	W	1
 2025005	4Q58	Isaiah	57	10	J>C[	NW>C	NW>C			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נואש		15	11	0	0	0	0	nnnn	nnnn	first	W	1
 2025050	4Q58	Isaiah	57	12	J<L[	JW<LWK	W<L			hif	impf	pl	m	p3	verb	K				nnnnnn	nnnnnn	יועלוך		18	11	1	0	0	0	nnn	nnn	first	W	1
 2025406	4Q59	Isaiah	2	3	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn	יורנו		3	f1	1	1	0	0	nn	nn	first	W	1
@@ -2113,6 +2165,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2051428	4Q87	Psalms	105	1	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnrrr	nnnnnn	הודיעו		4	f17+18i	0	0	0	0	nnnr	nnnn	first	W	1
 2051487	4Q87	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא		1	f18ii+20_24	0	1	0	0	nnn	nnn	first	W	1
 2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	היטיבה		4	f26i	1	0	0	0	nnnn	nnnn	first	J	1
+2051651	4Q87	Psalms	125	5	HLK[	JWLJKM	WLJK			hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn	יוליכם		5	f26i	1	0	0	0	nnnn	nnnn	first	W	1
 2051943	4Q88	Psalms	107	13	JC<[	JCJ<M	CJ<			hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn	ישיעם		17	2	1	1	0	0	nnn	nnn	first		0
 2051946	4Q88	Psalms	107	14	JY>[	JWYJ>M	WYJ>			hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יוציאם		17	2	1	1	0	0	nnnn	nnnn	first	W	1
 2052029	4Q88	Psalms	107	24	JDH[	JWDW	WD			hif	impf	pl	m	p3	verb					nnnn	nnnn	יודו		13	3	0	0	0	0	nn	nn	first	W	1
@@ -2171,6 +2224,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2085222	11Q5	Psalms	136	2	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו		6	15	0	0	0	0	nn	nn	first	W	1
 2085232	11Q5	Psalms	136	3	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו		7	15	0	0	0	0	nn	nn	first	W	1
 2085329	11Q5	Psalms	136	11	JY>[	JWYJ>	WYJ>			hif	wayq	sg	m	p3	verb				W	nnnnn	nnnnn	יוציא		13	15	0	1	0	0	nnnn	nnnn	first	W	1
+2085384	11Q5	Psalms	136	16	HLK[	MWLJK	WLJK			hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מוליך		17	15	0	1	0	0	nnnn	nnnn	first	W	1
 2085398	11Q5	Psalms	118	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו		1	16	0	0	0	0	nn	nn	first	W	1
 2085459	11Q5	Psalms	118	29	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו		5	16	0	0	0	0	nn	nn	first	W	1
 2085572	11Q5	Psalms	145	6	JR>[	NWR>WTJKH	NWR>			nif	ptca	pl	f	NA	verb	KH	WTJ			nnnnnnnnn	nnnnnnnnn	נוראותיכה		15	16	1	0	0	1	nnnn	nnnn	first	W	1

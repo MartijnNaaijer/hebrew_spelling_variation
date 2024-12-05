@@ -298,7 +298,7 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt):
 
     matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='niph_hiph_pe_yod')
-
+    print('HERE', 1910273 in matres_parser_dss.matres_df.tf_id)
     niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.matres_df])
     niph_hiph_pe_yod_df = niph_hiph_pe_yod_df.sort_values(by=['tf_id'])
 
