@@ -156,6 +156,7 @@ def get_nouns_adjective_data(corpus, mt):
 
     sp['tf_id'] = sp['tf_id'] + 100000
     mt_dss_sp = pd.concat([mt_dss, sp])
+    mt_dss_sp['feature'] = 'subs_adjv'
 
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss_sp, entropy_threshold=entropy)
     mt_dss_sp = syllables_without_variation_remover.data_variable_syllables
@@ -177,6 +178,7 @@ def get_qal_infinitive_construct_data(corpus, mt):
     mt_dss_infc_qal_df = pd.concat([mt_infc_qal_df, matres_parser_dss.matres_df])
     mt_dss_infc_qal_df = mt_dss_infc_qal_df.sort_values(by=['tf_id'])
     mt_dss_infc_qal_df['other_vowel_ending'] = ''
+    mt_dss_infc_qal_df['feature'] = 'infc_qal'
 
     final_aleph_converter = FinalAlephConverter(mt_dss_infc_qal_df)
     mt_dss_infc_qal_df = final_aleph_converter.data
@@ -246,6 +248,7 @@ def get_participle_qal_data(corpus, mt):
     ########################################################################################
     mt_dss_ptc_qal_df = pd.concat([mt_ptc_qal_df, dss_ptc_qal_df, sp_ptc_qal_df])
     mt_dss_ptc_qal_df = mt_dss_ptc_qal_df.sort_values(by=['tf_id'])
+    mt_dss_ptc_qal_df['feature'] = 'ptc_qal'
 
     useless_participles_remover = UselessParticiplesRemover(mt_dss_ptc_qal_df)
     mt_dss_ptc_qal_df = useless_participles_remover.clean_ptc_data
@@ -298,11 +301,12 @@ def get_niphal_hiphil_pe_yod_data(corpus, mt):
 
     matres_parser_dss = SpDssDataProcessor(corpus, 'dss',
                                            relevant_data='niph_hiph_pe_yod')
-    print('HERE', 1910273 in matres_parser_dss.matres_df.tf_id)
+
     niph_hiph_pe_yod_df = pd.concat([mt_niph_hiph_pe_yod_df, matres_parser_dss.matres_df])
     niph_hiph_pe_yod_df = niph_hiph_pe_yod_df.sort_values(by=['tf_id'])
 
     niph_hiph_pe_yod_df['other_vowel_ending'] = ''
+    niph_hiph_pe_yod_df['feature'] = 'niph_hiph_pe_yod'
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(niph_hiph_pe_yod_df)
     niph_hiph_pe_yod_df = mt_dss_help_columns_adder.mt_dss_data
@@ -335,6 +339,7 @@ def get_triliteral_hiphil(corpus, mt):
     hiph_triliteral_df = hiph_triliteral_df.sort_values(by=['tf_id'])
 
     hiph_triliteral_df['other_vowel_ending'] = ''
+    hiph_triliteral_df['feature'] = 'hiph_triliteral'
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(hiph_triliteral_df)
     hiph_triliteral_df = mt_dss_help_columns_adder.mt_dss_data
@@ -365,6 +370,7 @@ def get_qal_infinitive_absolute(corpus, mt):
     qal_inf_abs_df = qal_inf_abs_df.sort_values(by=['tf_id'])
 
     qal_inf_abs_df['other_vowel_ending'] = ''
+    qal_inf_abs_df['feature'] = 'inf_abs_qal'
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(qal_inf_abs_df)
     qal_inf_abs_df = mt_dss_help_columns_adder.mt_dss_data
@@ -404,6 +410,7 @@ def get_particles(corpus, mt):
     particles_df = particles_df.sort_values(by=['tf_id'])
 
     particles_df['other_vowel_ending'] = ''
+    particles_df['feature'] = 'particles'
 
     mt_dss_help_columns_adder = MTDSSHelpColumnsAdder(particles_df)
     particles_df = mt_dss_help_columns_adder.mt_dss_data

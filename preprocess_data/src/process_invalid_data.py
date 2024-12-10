@@ -10,7 +10,8 @@ class InvalidDataRemover:
     """
     def __init__(self, data):
         self.data = data
-        self.remove_short_stems(1)
+        if self.data.feature.iloc[0] != 'niph_hiph_pe_yod':
+            self.remove_short_stems(1)
         self.syllable_recs = self.find_reconstructed_syllables()
         self.data_complete_syllables = self.select_non_reconstructed_syllables()
 

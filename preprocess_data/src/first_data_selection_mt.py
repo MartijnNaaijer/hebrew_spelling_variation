@@ -24,6 +24,7 @@ class BasicMTDataSelector:
             niph_hiphil_pe_yod_data = self.data[(self.data.sp == 'verb') &
                                                 ((self.data.lex.str[0] == 'J') | (self.data.lex == 'HLK[')) &
                                                 (self.data.vs.isin({'nif', 'hif', 'hof'}))]
+
             return niph_hiphil_pe_yod_data
 
         elif self.relevant_data == 'hiph_triliteral':
