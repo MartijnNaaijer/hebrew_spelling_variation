@@ -73,6 +73,8 @@ def get_nouns_adjective_data(corpus, mt):
     sp['pattern'] = pattern_l
     sp['pattern_g_cons'] = pattern_g_cons_l
 
+    sp['feature'] = 'subs_adjv'
+
     final_aleph_converter = FinalAlephConverter(sp)
     sp = final_aleph_converter.data
 
@@ -125,6 +127,8 @@ def get_nouns_adjective_data(corpus, mt):
     mt_dss['pattern'] = pattern_l
     mt_dss['pattern_g_cons'] = pattern_g_cons_l
 
+    mt_dss['feature'] = 'subs_adjv'
+
     final_aleph_converter = FinalAlephConverter(mt_dss)
     mt_dss = final_aleph_converter.data
 
@@ -156,7 +160,7 @@ def get_nouns_adjective_data(corpus, mt):
 
     sp['tf_id'] = sp['tf_id'] + 100000
     mt_dss_sp = pd.concat([mt_dss, sp])
-    mt_dss_sp['feature'] = 'subs_adjv'
+    #mt_dss_sp['feature'] = 'subs_adjv'
 
     syllables_without_variation_remover = SyllablesWithoutVariationRemover(mt_dss_sp, entropy_threshold=entropy)
     mt_dss_sp = syllables_without_variation_remover.data_variable_syllables

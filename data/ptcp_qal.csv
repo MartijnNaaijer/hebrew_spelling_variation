@@ -939,315 +939,317 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 426055	MT	2_Chronicles	35	26	KTB[	KTWB	KTWB	CCMC	CCMC	qal	ptcp	sg	m	unknown	verb				K	nnnn	nnnn	כתוב	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
 426067	MT	2_Chronicles	35	27	KTB[	KTWBJM	KTWB	CCMC	CCMCMC	qal	ptcp	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
 426209	MT	2_Chronicles	36	8	KTB[	KTWBJM	KTWB	CCMC	CCMCMC	qal	ptcp	pl	m	unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-506857	SP	Genesis	3	14	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-506942	SP	Genesis	3	17	>RR[	>RWRH	>RWR	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	ארורה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-507262	SP	Genesis	4	11	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-509876	SP	Genesis	9	25	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-509885	SP	Genesis	9	26	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-512100	SP	Genesis	14	19	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-512110	SP	Genesis	14	20	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ברוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-517156	SP	Genesis	24	27	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-517255	SP	Genesis	24	31	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-518123	SP	Genesis	25	10	QBR[	QBWR	QBWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	קבור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-519065	SP	Genesis	26	29	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-519654	SP	Genesis	27	29	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-519657	SP	Genesis	27	29	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-519750	SP	Genesis	27	33	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-521016	SP	Genesis	29	31	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-521059	SP	Genesis	29	33	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-521633	SP	Genesis	30	32	VL>[	VLW>	VLW>	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	טלוא	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-521641	SP	Genesis	30	32	VL>[	VLW>	VLW>	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	טלוא	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-521667	SP	Genesis	30	33	VL>[	VLW>	VLW>	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	טלוא	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-521674	SP	Genesis	30	33	GNB[	GNWB	GNWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	גנוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-521699	SP	Genesis	30	35	VL>[	VLW>JM	VLW>	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		WH	nnnnnn	nnnnnn	טלואים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-521709	SP	Genesis	30	35	VL>[	VLW>T	VLW>	CCMC	CCMCC		ptcp	pl		unknown	verb		T		WH	nnnnn	nnnnn	טלואת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-521880	SP	Genesis	30	39	VL>[	VL>JM	VL>	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	טלאים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-521950	SP	Genesis	30	42	QCR[	QCWRJM	QCWR	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		WH	nnnnnn	nnnnnn	קשורים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-522448	SP	Genesis	31	26	CBH[	CBJWT	CB	CC	CCMMC		ptcp	pl		unknown	verb		WT		K	nnnnn	nnnnn	שביות	ptc_qal	J	-	-	0	1	0	1	nn	nn	last		0
-522717	SP	Genesis	31	39	GNB[	GNWBT	GNWB	CCMC	CCMCC		ptcp	pl		unknown	verb		T			nnnnn	nnnnn	גנובת	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-522720	SP	Genesis	31	39	GNB[	GNWBT	GNWB	CCMC	CCMCC		ptcp	pl		unknown	verb		T		W	nnnnn	nnnnn	גנובת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-523393	SP	Genesis	32	19	CLX[	CLWXH	CLWX	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלוחה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-523635	SP	Genesis	32	32	YL<[	YLW<	YLW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צלוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-527421	SP	Genesis	39	20	>SR[	>SWRJM	>SWR	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	אסורים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-527546	SP	Genesis	40	3	>SR[	>SWR	>SWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	אסור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-527587	SP	Genesis	40	5	>SR[	>SWRJM	>SWR	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	אסורים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-528033	SP	Genesis	41	6	CDP[	CDJPT	CDJP	CCMC	CCMCC		ptcp	pl		unknown	verb		T		W	nnnnn	nnnnn	שדיפת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last		0
-528346	SP	Genesis	41	23	CDP[	CDJPWT	CDJP	CCMC	CCMCMC		ptcp	pl		unknown	verb		WT		W	nnnnnn	nnnnnn	שדיפות	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last		0
-528430	SP	Genesis	41	27	CDP[	CDJPT	CDJP	CCMC	CCMCC		ptcp	pl		unknown	verb		T		W	nnnnn	nnnnn	שדיפת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last		0
-530300	SP	Genesis	43	28	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-530974	SP	Genesis	44	30	QCR[	QCWRH	QCWR	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	קשורה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-533510	SP	Genesis	49	11	>SR[	>SWRJ	>SWR	CCMC	CCMCM		ptcp	sg		unknown	verb					nnnnn	nnnnn	אסורי	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-533625	SP	Genesis	49	21	CLX[	CLWXH	CLWX	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלוחה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-535267	SP	Exodus	3	2	>KL[	>KL	>KL	CCC	CCC		ptcp	sg		unknown	verb					nnn	nnn	אכל	ptc_qal		-	-	0	0	0	0	nnn	nnn	last		0
-535613	SP	Exodus	3	16	<FH[	<FWJ	<F	CC	CCMM		ptcp	sg		unknown	verb				H	nnnn	nnnn	עשוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
-536959	SP	Exodus	6	6	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
-541236	SP	Exodus	12	11	XGR[	XGRJM	XGR	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	חגרים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-541807	SP	Exodus	12	34	YRR[	YRRWT	YRR	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	צררות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-542700	SP	Exodus	14	7	BXR[	BXWR	BXWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בחור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-544978	SP	Exodus	18	10	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-545379	SP	Exodus	18	24	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-545405	SP	Exodus	18	24	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-550211	SP	Exodus	26	35	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-550415	SP	Exodus	27	1	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-550522	SP	Exodus	27	8	NBB[	NBWB	NBWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	נבוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-551073	SP	Exodus	28	16	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-551075	SP	Exodus	28	16	KPL[	KPWL	KPWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כפול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-551653	SP	Exodus	29	2	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-552478	SP	Exodus	29	40	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-552610	SP	Exodus	30	12	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-552636	SP	Exodus	30	13	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-552661	SP	Exodus	30	14	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-553388	SP	Exodus	31	18	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-553648	SP	Exodus	32	11	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
-553748	SP	Exodus	32	15	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-553758	SP	Exodus	32	15	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-553771	SP	Exodus	32	16	XRT[	XRWT	XRWT	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חרות	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-553899	SP	Exodus	32	22	PR<[	PRW<	PRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-553953	SP	Exodus	32	25	PR<[	PRW<	PRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-557225	SP	Exodus	37	25	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-557420	SP	Exodus	38	7	NBB[	NBWB	NBWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	נבוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-557635	SP	Exodus	38	21	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-557702	SP	Exodus	38	24	<FH[	<FWJ	<F	CC	CCMM		ptcp	sg		unknown	verb				H	nnnn	nnnn	עשוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
-557731	SP	Exodus	38	25	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-557762	SP	Exodus	38	26	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-558065	SP	Exodus	39	9	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-558067	SP	Exodus	39	9	KPL[	KPWL	KPWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כפול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-559820	SP	Leviticus	2	4	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-559826	SP	Leviticus	2	4	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	משחים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-559836	SP	Leviticus	2	5	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-562359	SP	Leviticus	7	10	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-562394	SP	Leviticus	7	12	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-562400	SP	Leviticus	7	12	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	משחים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-562407	SP	Leviticus	7	12	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-563805	SP	Leviticus	9	4	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-564592	SP	Leviticus	10	16	FRP[	FRWP	FRWP	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	שרוף	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-565120	SP	Leviticus	11	26	CS<[	CS<H	CS<	CCC	CCCC		ptcp	sg		unknown	verb		H		W	nnnn	nnnn	שסעה	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-566622	SP	Leviticus	13	44	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-566635	SP	Leviticus	13	45	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb				WH	nnnn	nnnn	צרוע	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-566642	SP	Leviticus	13	45	PRM[	PRWMJM	PRWM	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	פרומים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-566646	SP	Leviticus	13	45	PR<[	PRW<	PRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-567050	SP	Leviticus	14	3	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb				H	nnnn	nnnn	צרוע	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-567124	SP	Leviticus	14	6	CXV[	CXWVH	CXWV	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שחוטה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-567241	SP	Leviticus	14	10	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-567518	SP	Leviticus	14	21	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-568159	SP	Leviticus	14	51	CXV[	CXWVH	CXWV	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שחוטה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-568308	SP	Leviticus	15	3	XTM[	XTWM	XTWM	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חתום	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-571798	SP	Leviticus	21	7	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-571911	SP	Leviticus	21	14	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H		W	nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-571978	SP	Leviticus	21	18	XRM=[	XRWM	XRWM	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חרום	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-571980	SP	Leviticus	21	18	FR<[	FRW<	FRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	שרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-572147	SP	Leviticus	22	4	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-572306	SP	Leviticus	22	13	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H		W	nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-572502	SP	Leviticus	22	23	FR<[	FRW<	FRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	שרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-572504	SP	Leviticus	22	23	QLV[	QLWV	QLWV	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	קלוט	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-572514	SP	Leviticus	22	24	M<K[	M<WK	M<WK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	מעוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-572516	SP	Leviticus	22	24	KTT[	KTWT	KTWT	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	כתות	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-572518	SP	Leviticus	22	24	NTQ[	NTWQ	NTWQ	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	נתוק	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-572520	SP	Leviticus	22	24	KRT[	KRWT	KRWT	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	כרות	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-572854	SP	Leviticus	23	13	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-576414	SP	Numbers	1	16	QR>[	QRJ>J	QRJ>	CCMC	CCMCM		ptcp	pl		unknown	verb		J			nnnnn	nnnnn	קריאי	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last		0
-576507	SP	Numbers	1	21	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576527	SP	Numbers	1	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576544	SP	Numbers	1	23	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576576	SP	Numbers	1	25	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576610	SP	Numbers	1	27	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576642	SP	Numbers	1	29	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576674	SP	Numbers	1	31	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576709	SP	Numbers	1	33	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576739	SP	Numbers	1	35	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576770	SP	Numbers	1	37	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576802	SP	Numbers	1	39	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576834	SP	Numbers	1	41	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576866	SP	Numbers	1	43	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-576879	SP	Numbers	1	44	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-576904	SP	Numbers	1	45	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-576924	SP	Numbers	1	46	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-577130	SP	Numbers	2	4	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577155	SP	Numbers	2	6	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577177	SP	Numbers	2	8	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577187	SP	Numbers	2	9	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-577224	SP	Numbers	2	11	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577249	SP	Numbers	2	13	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577271	SP	Numbers	2	15	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577283	SP	Numbers	2	16	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-577343	SP	Numbers	2	19	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577364	SP	Numbers	2	21	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577385	SP	Numbers	2	23	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577395	SP	Numbers	2	24	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-577429	SP	Numbers	2	26	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577454	SP	Numbers	2	28	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577476	SP	Numbers	2	30	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577486	SP	Numbers	2	31	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-577507	SP	Numbers	2	32	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-577514	SP	Numbers	2	32	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-577604	SP	Numbers	3	3	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	משחים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-577709	SP	Numbers	3	9	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-577710	SP	Numbers	3	9	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-577893	SP	Numbers	3	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-577903	SP	Numbers	3	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-578091	SP	Numbers	3	34	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-578184	SP	Numbers	3	39	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-578282	SP	Numbers	3	43	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-579176	SP	Numbers	4	36	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-579186	SP	Numbers	4	37	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-579208	SP	Numbers	4	38	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J		W	nnnn	nnnn	פקדי	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-579239	SP	Numbers	4	40	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-579252	SP	Numbers	4	41	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-579271	SP	Numbers	4	42	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J		W	nnnn	nnnn	פקדי	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-579303	SP	Numbers	4	44	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-579311	SP	Numbers	4	45	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-579328	SP	Numbers	4	46	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-579371	SP	Numbers	4	48	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-579395	SP	Numbers	4	49	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-579419	SP	Numbers	5	2	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-580344	SP	Numbers	6	15	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-580350	SP	Numbers	6	15	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	משחים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-580607	SP	Numbers	7	2	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-580815	SP	Numbers	7	13	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-580896	SP	Numbers	7	19	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-580977	SP	Numbers	7	25	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581058	SP	Numbers	7	31	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581139	SP	Numbers	7	37	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581220	SP	Numbers	7	43	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581301	SP	Numbers	7	49	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581382	SP	Numbers	7	55	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581463	SP	Numbers	7	61	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581544	SP	Numbers	7	67	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581626	SP	Numbers	7	73	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-581708	SP	Numbers	7	79	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-582030	SP	Numbers	8	8	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-582175	SP	Numbers	8	16	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-582176	SP	Numbers	8	16	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-582233	SP	Numbers	8	19	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-584120	SP	Numbers	11	26	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		B	nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-585925	SP	Numbers	14	29	PQD[	PQDJKM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	KM	J			nnnnnn	nnnnnn	פקדיכם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-586348	SP	Numbers	15	4	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-586380	SP	Numbers	15	6	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-586423	SP	Numbers	15	9	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-587758	SP	Numbers	17	4	FRP[	FRWPJM	FRWP	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	שרופים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-588367	SP	Numbers	18	6	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-589257	SP	Numbers	19	15	PTX[	PTWX	PTWX	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פתוח	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-591373	SP	Numbers	22	12	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-591586	SP	Numbers	22	23	CLP[	CLWPH	CLWP	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלופה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-591769	SP	Numbers	22	31	CLP[	CLWPH	CLWP	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלופה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-591932	SP	Numbers	22	38	JKL[	JWKL	JWKL	CMCC	CMCC		ptcp	sg		unknown	verb				H	nnnn	nnnn	יוכל	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last		0
-592580	SP	Numbers	24	4	GLH[	GLWJ	GL	CC	CCMM		ptcp	sg		unknown	verb				W	nnnn	nnnn	גלוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
-592648	SP	Numbers	24	9	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-592651	SP	Numbers	24	9	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-592790	SP	Numbers	24	16	GLH[	GLWJ	GL	CC	CCMM		ptcp	sg		unknown	verb				W	nnnn	nnnn	גלוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
-593340	SP	Numbers	26	7	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-593501	SP	Numbers	26	18	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593559	SP	Numbers	26	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593595	SP	Numbers	26	25	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593626	SP	Numbers	26	27	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593712	SP	Numbers	26	34	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593754	SP	Numbers	26	37	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593812	SP	Numbers	26	41	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593841	SP	Numbers	26	43	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593888	SP	Numbers	26	47	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593926	SP	Numbers	26	50	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
-593935	SP	Numbers	26	51	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-593977	SP	Numbers	26	54	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J			nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-594004	SP	Numbers	26	57	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-594107	SP	Numbers	26	62	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
-594136	SP	Numbers	26	63	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-594160	SP	Numbers	26	64	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J		M	nnnn	nnnn	פקדי	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-594747	SP	Numbers	28	5	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-594756	SP	Numbers	28	6	<FH[	<FWJH	<F	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	עשויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
-594820	SP	Numbers	28	9	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-594860	SP	Numbers	28	12	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-594872	SP	Numbers	28	12	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-594884	SP	Numbers	28	13	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-595009	SP	Numbers	28	20	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-595138	SP	Numbers	28	28	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-595232	SP	Numbers	29	3	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-595333	SP	Numbers	29	9	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-595431	SP	Numbers	29	14	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-596039	SP	Numbers	30	10	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H		W	nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-596250	SP	Numbers	31	5	XLY[	XLWYJ	XLWY	CCMC	CCMCM		ptcp	pl		unknown	verb		J			nnnnn	nnnnn	חלוצי	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-596438	SP	Numbers	31	14	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-596843	SP	Numbers	31	30	>XZ[	>XZ	>XZ	CCC	CCC		ptcp	sg		unknown	verb					nnn	nnn	אחז	ptc_qal		-	-	0	0	0	0	nnn	nnn	last		0
-597095	SP	Numbers	31	47	>XZ[	>XZ	>XZ	CCC	CCC		ptcp	sg		unknown	verb				H	nnn	nnn	אחז	ptc_qal		-	-	0	1	0	0	nnn	nnn	last		0
-597128	SP	Numbers	31	48	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-597673	SP	Numbers	32	21	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-597786	SP	Numbers	32	27	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-597840	SP	Numbers	32	29	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-597865	SP	Numbers	32	30	XLY[	XLWYJM	XLWY	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חלוצים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-597898	SP	Numbers	32	32	XLY[	XLWYJM	XLWY	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חלוצים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-600426	SP	Deuteronomy	1	13	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-600453	SP	Deuteronomy	1	15	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
-602278	SP	Deuteronomy	3	18	XLY[	XLWYJM	XLWY	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חלוצים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-603328	SP	Deuteronomy	4	34	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
-603940	SP	Deuteronomy	5	15	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
-604616	SP	Deuteronomy	6	11	XYB[	XYWBJM	XYWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חצובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-605193	SP	Deuteronomy	7	14	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-605305	SP	Deuteronomy	7	19	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
-606109	SP	Deuteronomy	9	10	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-606366	SP	Deuteronomy	9	21	VXN[	VXWN	VXWN	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	טחון	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-606559	SP	Deuteronomy	9	29	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
-607117	SP	Deuteronomy	11	2	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
-612402	SP	Deuteronomy	21	6	<RP=[	<RWPH	<RWP	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	ערופה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-612562	SP	Deuteronomy	21	15	>HB[	>HWBH	>HWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	אהובה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-612565	SP	Deuteronomy	21	15	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-612571	SP	Deuteronomy	21	15	>HB[	>HWBH	>HWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	אהובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-612574	SP	Deuteronomy	21	15	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		WH	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-612582	SP	Deuteronomy	21	15	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		L	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-612601	SP	Deuteronomy	21	16	>HB[	>HWBH	>HWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	אהובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-612606	SP	Deuteronomy	21	16	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-612615	SP	Deuteronomy	21	17	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-613380	SP	Deuteronomy	23	2	KRT[	KRWT	KRWT	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	כרות	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-614448	SP	Deuteronomy	25	10	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-614777	SP	Deuteronomy	26	8	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
-615360	SP	Deuteronomy	27	15	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615385	SP	Deuteronomy	27	16	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615396	SP	Deuteronomy	27	17	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615406	SP	Deuteronomy	27	18	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615417	SP	Deuteronomy	27	19	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615430	SP	Deuteronomy	27	20	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615445	SP	Deuteronomy	27	21	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615456	SP	Deuteronomy	27	22	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615471	SP	Deuteronomy	27	23	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615481	SP	Deuteronomy	27	24	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615492	SP	Deuteronomy	27	25	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615506	SP	Deuteronomy	27	26	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615572	SP	Deuteronomy	28	3	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615577	SP	Deuteronomy	28	3	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ברוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-615581	SP	Deuteronomy	28	4	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615595	SP	Deuteronomy	28	5	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615599	SP	Deuteronomy	28	6	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615604	SP	Deuteronomy	28	6	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ברוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-615830	SP	Deuteronomy	28	16	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615835	SP	Deuteronomy	28	16	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ארור	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-615839	SP	Deuteronomy	28	17	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615843	SP	Deuteronomy	28	18	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615857	SP	Deuteronomy	28	19	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-615862	SP	Deuteronomy	28	19	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ארור	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-616063	SP	Deuteronomy	28	29	<CQ[	<CWQ	<CWQ	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	עשוק	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-616065	SP	Deuteronomy	28	29	GZL[	GZWL	GZWL	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	גזול	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-616091	SP	Deuteronomy	28	31	VBX[	VBWX	VBWX	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	טבוח	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-616099	SP	Deuteronomy	28	31	GZL[	GZWL	GZWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	גזול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-616108	SP	Deuteronomy	28	31	NTN[	NTNWT	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	נתנות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-616118	SP	Deuteronomy	28	32	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-616149	SP	Deuteronomy	28	33	<CQ[	<CWQ	<CWQ	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	עשוק	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-616151	SP	Deuteronomy	28	33	RYY[	RYWY	RYWY	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	רצוץ	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-616642	SP	Deuteronomy	28	58	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-616703	SP	Deuteronomy	28	61	KTB[	KTWB	KTWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כתוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-616832	SP	Deuteronomy	28	66	TL>[	TL>JM	TL>	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	תלאים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
-617332	SP	Deuteronomy	29	19	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-617362	SP	Deuteronomy	29	20	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-617511	SP	Deuteronomy	29	26	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-617780	SP	Deuteronomy	30	10	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-619279	SP	Deuteronomy	32	34	KNS[	KNWS	KNWS	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כנוס	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-619281	SP	Deuteronomy	32	34	XTM[	XTWM	XTWM	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חתום	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-619316	SP	Deuteronomy	32	36	<YR[	<YWR	<YWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	עצור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-619318	SP	Deuteronomy	32	36	<ZB[	<ZWB	<ZWB	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	עזוב	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
-619934	SP	Deuteronomy	33	19	FPN[	FPWNJ	FPWN	CCMC	CCMCM		ptcp	pl		unknown	verb		J		W	nnnnn	nnnnn	שפוני	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
-619935	SP	Deuteronomy	33	19	VMN[	VMWNJ	VMWN	CCMC	CCMCM		ptcp	pl		unknown	verb		J			nnnnn	nnnnn	טמוני	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
-619941	SP	Deuteronomy	33	20	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-619947	SP	Deuteronomy	33	20	VRP[	VRWP	VRWP	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	טרוף	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-619959	SP	Deuteronomy	33	21	SPN[	SPWN	SPWN	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ספון	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-620004	SP	Deuteronomy	33	24	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
-620010	SP	Deuteronomy	33	24	RYH[	RYWJ	RY	CC	CCMM		ptcp	sg		unknown	verb					nnnn	nnnn	רצוי	ptc_qal	WJ	-	-	0	0	0	0	nn	nn	last	W	1
+506856	SP	Genesis	3	14	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+506941	SP	Genesis	3	17	>RR[	>RWRH	>RWR	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	ארורה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+507261	SP	Genesis	4	11	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+509875	SP	Genesis	9	25	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+509884	SP	Genesis	9	26	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+512098	SP	Genesis	14	19	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+512108	SP	Genesis	14	20	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ברוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+517153	SP	Genesis	24	27	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+517252	SP	Genesis	24	31	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+518120	SP	Genesis	25	10	QBR[	QBWR	QBWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	קבור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+519063	SP	Genesis	26	29	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+519651	SP	Genesis	27	29	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+519654	SP	Genesis	27	29	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+519747	SP	Genesis	27	33	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+521013	SP	Genesis	29	31	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+521056	SP	Genesis	29	33	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+521630	SP	Genesis	30	32	VL>[	VLW>	VLW>	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	טלוא	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+521638	SP	Genesis	30	32	VL>[	VLW>	VLW>	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	טלוא	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+521664	SP	Genesis	30	33	VL>[	VLW>	VLW>	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	טלוא	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+521671	SP	Genesis	30	33	GNB[	GNWB	GNWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	גנוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+521696	SP	Genesis	30	35	VL>[	VLW>JM	VLW>	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		WH	nnnnnn	nnnnnn	טלואים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+521706	SP	Genesis	30	35	VL>[	VLW>T	VLW>	CCMC	CCMCC		ptcp	pl		unknown	verb		T		WH	nnnnn	nnnnn	טלואת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+521878	SP	Genesis	30	39	VL>[	VL>JM	VL>	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	טלאים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+521948	SP	Genesis	30	42	QCR[	QCWRJM	QCWR	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		WH	nnnnnn	nnnnnn	קשורים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+522446	SP	Genesis	31	26	CBH[	CBJWT	CB	CC	CCMMC		ptcp	pl		unknown	verb		WT		K	nnnnn	nnnnn	שביות	ptc_qal	J	-	-	0	1	0	1	nn	nn	last		0
+522715	SP	Genesis	31	39	GNB[	GNWBT	GNWB	CCMC	CCMCC		ptcp	pl		unknown	verb		T			nnnnn	nnnnn	גנובת	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+522718	SP	Genesis	31	39	GNB[	GNWBT	GNWB	CCMC	CCMCC		ptcp	pl		unknown	verb		T		W	nnnnn	nnnnn	גנובת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+523391	SP	Genesis	32	19	CLX[	CLWXH	CLWX	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלוחה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+523633	SP	Genesis	32	32	YL<[	YLW<	YLW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צלוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+527419	SP	Genesis	39	20	>SR[	>SWRJM	>SWR	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	אסורים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+527544	SP	Genesis	40	3	>SR[	>SWR	>SWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	אסור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+527585	SP	Genesis	40	5	>SR[	>SWRJM	>SWR	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	אסורים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+528031	SP	Genesis	41	6	CDP[	CDJPT	CDJP	CCMC	CCMCC		ptcp	pl		unknown	verb		T		W	nnnnn	nnnnn	שדיפת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last		0
+528344	SP	Genesis	41	23	CDP[	CDJPWT	CDJP	CCMC	CCMCMC		ptcp	pl		unknown	verb		WT		W	nnnnnn	nnnnnn	שדיפות	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last		0
+528428	SP	Genesis	41	27	CDP[	CDJPT	CDJP	CCMC	CCMCC		ptcp	pl		unknown	verb		T		W	nnnnn	nnnnn	שדיפת	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last		0
+530298	SP	Genesis	43	28	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+530972	SP	Genesis	44	30	QCR[	QCWRH	QCWR	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	קשורה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+533508	SP	Genesis	49	11	>SR[	>SWRJ	>SWR	CCMC	CCMCM		ptcp	sg		unknown	verb					nnnnn	nnnnn	אסורי	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+533623	SP	Genesis	49	21	CLX[	CLWXH	CLWX	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלוחה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+535265	SP	Exodus	3	2	>KL[	>KL	>KL	CCC	CCC		ptcp	sg		unknown	verb					nnn	nnn	אכל	ptc_qal		-	-	0	0	0	0	nnn	nnn	last		0
+535611	SP	Exodus	3	16	<FH[	<FWJ	<F	CC	CCMM		ptcp	sg		unknown	verb				H	nnnn	nnnn	עשוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
+536957	SP	Exodus	6	6	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
+541234	SP	Exodus	12	11	XGR[	XGRJM	XGR	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	חגרים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+541805	SP	Exodus	12	34	YRR[	YRRWT	YRR	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	צררות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+542698	SP	Exodus	14	7	BXR[	BXWR	BXWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בחור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+544976	SP	Exodus	18	10	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+545377	SP	Exodus	18	24	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+545403	SP	Exodus	18	24	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+550209	SP	Exodus	26	35	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+550413	SP	Exodus	27	1	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+550520	SP	Exodus	27	8	NBB[	NBWB	NBWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	נבוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+551070	SP	Exodus	28	16	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+551072	SP	Exodus	28	16	KPL[	KPWL	KPWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כפול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+551650	SP	Exodus	29	2	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+552476	SP	Exodus	29	40	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+552608	SP	Exodus	30	12	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+552634	SP	Exodus	30	13	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+552659	SP	Exodus	30	14	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+553386	SP	Exodus	31	18	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+553646	SP	Exodus	32	11	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
+553746	SP	Exodus	32	15	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+553756	SP	Exodus	32	15	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+553769	SP	Exodus	32	16	XRT[	XRWT	XRWT	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חרות	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+553897	SP	Exodus	32	22	PR<[	PRW<	PRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+553951	SP	Exodus	32	25	PR<[	PRW<	PRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+557223	SP	Exodus	37	25	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+557418	SP	Exodus	38	7	NBB[	NBWB	NBWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	נבוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+557633	SP	Exodus	38	21	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+557700	SP	Exodus	38	24	<FH[	<FWJ	<F	CC	CCMM		ptcp	sg		unknown	verb				H	nnnn	nnnn	עשוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
+557729	SP	Exodus	38	25	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+557760	SP	Exodus	38	26	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+558063	SP	Exodus	39	9	RB<[	RBW<	RBW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	רבוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+558065	SP	Exodus	39	9	KPL[	KPWL	KPWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כפול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+559818	SP	Leviticus	2	4	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+559824	SP	Leviticus	2	4	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	משחים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+559834	SP	Leviticus	2	5	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+562357	SP	Leviticus	7	10	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+562392	SP	Leviticus	7	12	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+562398	SP	Leviticus	7	12	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	משחים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+562405	SP	Leviticus	7	12	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+563803	SP	Leviticus	9	4	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+564590	SP	Leviticus	10	16	FRP[	FRWP	FRWP	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	שרוף	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+565118	SP	Leviticus	11	26	CS<[	CS<H	CS<	CCC	CCCC		ptcp	sg		unknown	verb		H		W	nnnn	nnnn	שסעה	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+566620	SP	Leviticus	13	44	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+566633	SP	Leviticus	13	45	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb				WH	nnnn	nnnn	צרוע	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+566640	SP	Leviticus	13	45	PRM[	PRWMJM	PRWM	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	פרומים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+566644	SP	Leviticus	13	45	PR<[	PRW<	PRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+567048	SP	Leviticus	14	3	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb				H	nnnn	nnnn	צרוע	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+567122	SP	Leviticus	14	6	CXV[	CXWVH	CXWV	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שחוטה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+567239	SP	Leviticus	14	10	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+567516	SP	Leviticus	14	21	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+568157	SP	Leviticus	14	51	CXV[	CXWVH	CXWV	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שחוטה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+568306	SP	Leviticus	15	3	XTM[	XTWM	XTWM	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חתום	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+571527	SP	Leviticus	20	20	<RR[	<RRJM	<RR	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	עררים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+571541	SP	Leviticus	20	21	<RR[	<RRJM	<RR	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	עררים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+571796	SP	Leviticus	21	7	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+571909	SP	Leviticus	21	14	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H		W	nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+571976	SP	Leviticus	21	18	XRM=[	XRWM	XRWM	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חרום	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+571978	SP	Leviticus	21	18	FR<[	FRW<	FRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	שרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+572144	SP	Leviticus	22	4	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+572303	SP	Leviticus	22	13	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H		W	nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+572499	SP	Leviticus	22	23	FR<[	FRW<	FRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	שרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+572501	SP	Leviticus	22	23	QLV[	QLWV	QLWV	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	קלוט	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+572511	SP	Leviticus	22	24	M<K[	M<WK	M<WK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	מעוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+572513	SP	Leviticus	22	24	KTT[	KTWT	KTWT	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	כתות	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+572515	SP	Leviticus	22	24	NTQ[	NTWQ	NTWQ	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	נתוק	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+572517	SP	Leviticus	22	24	KRT[	KRWT	KRWT	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	כרות	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+572851	SP	Leviticus	23	13	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+576412	SP	Numbers	1	16	QR>[	QRJ>J	QRJ>	CCMC	CCMCM		ptcp	pl		unknown	verb		J			nnnnn	nnnnn	קריאי	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last		0
+576505	SP	Numbers	1	21	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576525	SP	Numbers	1	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576542	SP	Numbers	1	23	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576574	SP	Numbers	1	25	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576608	SP	Numbers	1	27	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576640	SP	Numbers	1	29	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576672	SP	Numbers	1	31	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576707	SP	Numbers	1	33	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576737	SP	Numbers	1	35	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576768	SP	Numbers	1	37	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576800	SP	Numbers	1	39	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576832	SP	Numbers	1	41	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576864	SP	Numbers	1	43	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+576877	SP	Numbers	1	44	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+576902	SP	Numbers	1	45	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+576922	SP	Numbers	1	46	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+577128	SP	Numbers	2	4	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577153	SP	Numbers	2	6	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577175	SP	Numbers	2	8	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577185	SP	Numbers	2	9	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+577222	SP	Numbers	2	11	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577247	SP	Numbers	2	13	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577269	SP	Numbers	2	15	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577281	SP	Numbers	2	16	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+577341	SP	Numbers	2	19	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577362	SP	Numbers	2	21	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577383	SP	Numbers	2	23	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577393	SP	Numbers	2	24	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+577427	SP	Numbers	2	26	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577452	SP	Numbers	2	28	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577474	SP	Numbers	2	30	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577484	SP	Numbers	2	31	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+577505	SP	Numbers	2	32	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+577512	SP	Numbers	2	32	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+577602	SP	Numbers	3	3	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	משחים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+577707	SP	Numbers	3	9	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+577708	SP	Numbers	3	9	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+577891	SP	Numbers	3	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+577901	SP	Numbers	3	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+578089	SP	Numbers	3	34	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+578182	SP	Numbers	3	39	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+578280	SP	Numbers	3	43	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+579174	SP	Numbers	4	36	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+579184	SP	Numbers	4	37	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+579206	SP	Numbers	4	38	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J		W	nnnn	nnnn	פקדי	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+579237	SP	Numbers	4	40	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+579250	SP	Numbers	4	41	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+579269	SP	Numbers	4	42	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J		W	nnnn	nnnn	פקדי	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+579301	SP	Numbers	4	44	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+579309	SP	Numbers	4	45	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+579326	SP	Numbers	4	46	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+579369	SP	Numbers	4	48	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+579393	SP	Numbers	4	49	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J		W	nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+579417	SP	Numbers	5	2	YR<[	YRW<	YRW<	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	צרוע	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+580342	SP	Numbers	6	15	BLL[	BLLWT	BLL	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	בללות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+580348	SP	Numbers	6	15	MCX[	MCXJM	MCX	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	משחים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+580605	SP	Numbers	7	2	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+580813	SP	Numbers	7	13	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+580894	SP	Numbers	7	19	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+580975	SP	Numbers	7	25	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581056	SP	Numbers	7	31	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581137	SP	Numbers	7	37	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581218	SP	Numbers	7	43	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581299	SP	Numbers	7	49	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581380	SP	Numbers	7	55	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581461	SP	Numbers	7	61	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581542	SP	Numbers	7	67	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581624	SP	Numbers	7	73	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+581706	SP	Numbers	7	79	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+582028	SP	Numbers	8	8	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+582173	SP	Numbers	8	16	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+582174	SP	Numbers	8	16	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+582231	SP	Numbers	8	19	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+584118	SP	Numbers	11	26	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		B	nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+585923	SP	Numbers	14	29	PQD[	PQDJKM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	KM	J			nnnnnn	nnnnnn	פקדיכם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+586346	SP	Numbers	15	4	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+586378	SP	Numbers	15	6	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+586421	SP	Numbers	15	9	BLL[	BLWL	BLWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	בלול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+587756	SP	Numbers	17	4	FRP[	FRWPJM	FRWP	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	שרופים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+588365	SP	Numbers	18	6	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+589255	SP	Numbers	19	15	PTX[	PTWX	PTWX	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	פתוח	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+591372	SP	Numbers	22	12	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+591585	SP	Numbers	22	23	CLP[	CLWPH	CLWP	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלופה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+591768	SP	Numbers	22	31	CLP[	CLWPH	CLWP	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שלופה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+591931	SP	Numbers	22	38	JKL[	JWKL	JWKL	CMCC	CMCC		ptcp	sg		unknown	verb				H	nnnn	nnnn	יוכל	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last		0
+592579	SP	Numbers	24	4	GLH[	GLWJ	GL	CC	CCMM		ptcp	sg		unknown	verb				W	nnnn	nnnn	גלוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
+592647	SP	Numbers	24	9	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+592650	SP	Numbers	24	9	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+592789	SP	Numbers	24	16	GLH[	GLWJ	GL	CC	CCMM		ptcp	sg		unknown	verb				W	nnnn	nnnn	גלוי	ptc_qal	WJ	-	-	0	1	0	0	nn	nn	last	W	1
+593339	SP	Numbers	26	7	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+593500	SP	Numbers	26	18	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593558	SP	Numbers	26	22	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593594	SP	Numbers	26	25	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593625	SP	Numbers	26	27	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593711	SP	Numbers	26	34	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593753	SP	Numbers	26	37	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593811	SP	Numbers	26	41	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593840	SP	Numbers	26	43	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593887	SP	Numbers	26	47	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		L	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593925	SP	Numbers	26	50	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J		W	nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	1	0	1	nnn	nnn	last		0
+593934	SP	Numbers	26	51	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+593976	SP	Numbers	26	54	PQD[	PQDJW	PQD	CCC	CCCMM		ptcp	pl		unknown	verb	W	J			nnnnn	nnnnn	פקדיו	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+594003	SP	Numbers	26	57	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+594106	SP	Numbers	26	62	PQD[	PQDJHM	PQD	CCC	CCCMCC		ptcp	pl		unknown	verb	HM	J			nnnnnn	nnnnnn	פקדיהם	ptc_qal		-	-	1	0	0	1	nnn	nnn	last		0
+594135	SP	Numbers	26	63	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+594159	SP	Numbers	26	64	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J		M	nnnn	nnnn	פקדי	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+594746	SP	Numbers	28	5	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+594755	SP	Numbers	28	6	<FH[	<FWJH	<F	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	עשויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
+594819	SP	Numbers	28	9	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+594859	SP	Numbers	28	12	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+594871	SP	Numbers	28	12	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+594883	SP	Numbers	28	13	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+595008	SP	Numbers	28	20	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+595137	SP	Numbers	28	28	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+595231	SP	Numbers	29	3	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+595332	SP	Numbers	29	9	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+595430	SP	Numbers	29	14	BLL[	BLWLH	BLWL	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	בלולה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+596038	SP	Numbers	30	10	GRC[	GRWCH	GRWC	CCMC	CCMCC		ptcp	sg		unknown	verb		H		W	nnnnn	nnnnn	גרושה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+596249	SP	Numbers	31	5	XLY[	XLWYJ	XLWY	CCMC	CCMCM		ptcp	pl		unknown	verb		J			nnnnn	nnnnn	חלוצי	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+596437	SP	Numbers	31	14	PQD[	PQDJ	PQD	CCC	CCCM		ptcp	pl		unknown	verb		J			nnnn	nnnn	פקדי	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+596842	SP	Numbers	31	30	>XZ[	>XZ	>XZ	CCC	CCC		ptcp	sg		unknown	verb					nnn	nnn	אחז	ptc_qal		-	-	0	0	0	0	nnn	nnn	last		0
+597094	SP	Numbers	31	47	>XZ[	>XZ	>XZ	CCC	CCC		ptcp	sg		unknown	verb				H	nnn	nnn	אחז	ptc_qal		-	-	0	1	0	0	nnn	nnn	last		0
+597127	SP	Numbers	31	48	PQD[	PQDJM	PQD	CCC	CCCMC		ptcp	pl		unknown	verb		JM		H	nnnnn	nnnnn	פקדים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+597672	SP	Numbers	32	21	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+597785	SP	Numbers	32	27	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+597839	SP	Numbers	32	29	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+597864	SP	Numbers	32	30	XLY[	XLWYJM	XLWY	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חלוצים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+597897	SP	Numbers	32	32	XLY[	XLWYJM	XLWY	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חלוצים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+600425	SP	Deuteronomy	1	13	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+600452	SP	Deuteronomy	1	15	JD<[	JD<JM	JD<	CCC	CCCMC		ptcp	pl		unknown	verb		JM		W	nnnnn	nnnnn	ידעים	ptc_qal		-	-	0	1	0	1	nnn	nnn	last		0
+602277	SP	Deuteronomy	3	18	XLY[	XLWYJM	XLWY	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חלוצים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+603327	SP	Deuteronomy	4	34	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
+603939	SP	Deuteronomy	5	15	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
+604615	SP	Deuteronomy	6	11	XYB[	XYWBJM	XYWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	חצובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+605192	SP	Deuteronomy	7	14	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+605304	SP	Deuteronomy	7	19	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
+606108	SP	Deuteronomy	9	10	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM			nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+606365	SP	Deuteronomy	9	21	VXN[	VXWN	VXWN	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	טחון	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+606558	SP	Deuteronomy	9	29	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
+607116	SP	Deuteronomy	11	2	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	1	0	1	nn	nn	last	W	1
+612400	SP	Deuteronomy	21	6	<RP=[	<RWPH	<RWP	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	ערופה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+612560	SP	Deuteronomy	21	15	>HB[	>HWBH	>HWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	אהובה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+612563	SP	Deuteronomy	21	15	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+612569	SP	Deuteronomy	21	15	>HB[	>HWBH	>HWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	אהובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+612572	SP	Deuteronomy	21	15	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		WH	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+612580	SP	Deuteronomy	21	15	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		L	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+612599	SP	Deuteronomy	21	16	>HB[	>HWBH	>HWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	אהובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+612604	SP	Deuteronomy	21	16	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+612613	SP	Deuteronomy	21	17	FN>[	FNW>H	FNW>	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	שנואה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+613378	SP	Deuteronomy	23	2	KRT[	KRWT	KRWT	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	כרות	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+614446	SP	Deuteronomy	25	10	XLY[	XLWY	XLWY	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חלוץ	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+614775	SP	Deuteronomy	26	8	NVH[	NVWJH	NV	CC	CCMMC		ptcp	sg		unknown	verb		H			nnnnn	nnnnn	נטויה	ptc_qal	WJ	-	-	0	0	0	1	nn	nn	last	W	1
+615358	SP	Deuteronomy	27	15	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615383	SP	Deuteronomy	27	16	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615394	SP	Deuteronomy	27	17	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615404	SP	Deuteronomy	27	18	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615415	SP	Deuteronomy	27	19	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615428	SP	Deuteronomy	27	20	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615443	SP	Deuteronomy	27	21	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615454	SP	Deuteronomy	27	22	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615469	SP	Deuteronomy	27	23	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615479	SP	Deuteronomy	27	24	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615490	SP	Deuteronomy	27	25	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615504	SP	Deuteronomy	27	26	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615570	SP	Deuteronomy	28	3	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615575	SP	Deuteronomy	28	3	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ברוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+615579	SP	Deuteronomy	28	4	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615593	SP	Deuteronomy	28	5	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615597	SP	Deuteronomy	28	6	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615602	SP	Deuteronomy	28	6	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ברוך	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+615828	SP	Deuteronomy	28	16	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615833	SP	Deuteronomy	28	16	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ארור	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+615837	SP	Deuteronomy	28	17	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615841	SP	Deuteronomy	28	18	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615855	SP	Deuteronomy	28	19	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ארור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+615860	SP	Deuteronomy	28	19	>RR[	>RWR	>RWR	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	ארור	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+616061	SP	Deuteronomy	28	29	<CQ[	<CWQ	<CWQ	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	עשוק	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+616063	SP	Deuteronomy	28	29	GZL[	GZWL	GZWL	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	גזול	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+616089	SP	Deuteronomy	28	31	VBX[	VBWX	VBWX	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	טבוח	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+616097	SP	Deuteronomy	28	31	GZL[	GZWL	GZWL	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	גזול	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+616106	SP	Deuteronomy	28	31	NTN[	NTNWT	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		WT			nnnnn	nnnnn	נתנות	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+616116	SP	Deuteronomy	28	32	NTN[	NTNJM	NTN	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	נתנים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+616147	SP	Deuteronomy	28	33	<CQ[	<CWQ	<CWQ	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	עשוק	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+616149	SP	Deuteronomy	28	33	RYY[	RYWY	RYWY	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	רצוץ	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+616640	SP	Deuteronomy	28	58	KTB[	KTWBJM	KTWB	CCMC	CCMCMC		ptcp	pl		unknown	verb		JM		H	nnnnnn	nnnnnn	כתובים	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+616701	SP	Deuteronomy	28	61	KTB[	KTWB	KTWB	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כתוב	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+616830	SP	Deuteronomy	28	66	TL>[	TL>JM	TL>	CCC	CCCMC		ptcp	pl		unknown	verb		JM			nnnnn	nnnnn	תלאים	ptc_qal		-	-	0	0	0	1	nnn	nnn	last		0
+617330	SP	Deuteronomy	29	19	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+617360	SP	Deuteronomy	29	20	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+617509	SP	Deuteronomy	29	26	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+617778	SP	Deuteronomy	30	10	KTB[	KTWBH	KTWB	CCMC	CCMCC		ptcp	sg		unknown	verb		H		H	nnnnn	nnnnn	כתובה	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+619277	SP	Deuteronomy	32	34	KNS[	KNWS	KNWS	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	כנוס	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+619279	SP	Deuteronomy	32	34	XTM[	XTWM	XTWM	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	חתום	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+619314	SP	Deuteronomy	32	36	<YR[	<YWR	<YWR	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	עצור	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+619316	SP	Deuteronomy	32	36	<ZB[	<ZWB	<ZWB	CCMC	CCMC		ptcp	sg		unknown	verb				W	nnnn	nnnn	עזוב	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	last	W	1
+619932	SP	Deuteronomy	33	19	FPN[	FPWNJ	FPWN	CCMC	CCMCM		ptcp	pl		unknown	verb		J		W	nnnnn	nnnnn	שפוני	ptc_qal		-	-	0	1	0	1	nnnn	nnnn	last	W	1
+619933	SP	Deuteronomy	33	19	VMN[	VMWNJ	VMWN	CCMC	CCMCM		ptcp	pl		unknown	verb		J			nnnnn	nnnnn	טמוני	ptc_qal		-	-	0	0	0	1	nnnn	nnnn	last	W	1
+619939	SP	Deuteronomy	33	20	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+619945	SP	Deuteronomy	33	20	VRP[	VRWP	VRWP	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	טרוף	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+619957	SP	Deuteronomy	33	21	SPN[	SPWN	SPWN	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ספון	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+620002	SP	Deuteronomy	33	24	BRK[	BRWK	BRWK	CCMC	CCMC		ptcp	sg		unknown	verb					nnnn	nnnn	ברוך	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	last	W	1
+620008	SP	Deuteronomy	33	24	RYH[	RYWJ	RY	CC	CCMM		ptcp	sg		unknown	verb					nnnn	nnnn	רצוי	ptc_qal	WJ	-	-	0	0	0	0	nn	nn	last	W	1
 1890002	1Q1	Genesis	3	14	>RR[	>RWR	>RWR	CCMC	CCMC	qal	ptcp	sg	m	NA	verb					nnnn	nnnn	ארור	ptc_qal		4	f2	0	0	0	0	nnnn	nnnn	last	W	1
 1894977	1Qisaa	Isaiah	1	7	FRP[	FRWPWT	FRWP	CCMC	CCMCMC	qal	ptcp	pl	f	NA	verb		WT			nnnnnn	nnnnnn	שרופות	ptc_qal		8	1	0	0	0	1	nnnn	nnnn	last	W	1
 1895007	1Qisaa	Isaiah	1	8	NYR[	NYWRH	NYWRH	CCMCC	CCMCC	qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נצורה	ptc_qal		10	1	0	0	0	0	nnnnn	nnnnn	last	W	1

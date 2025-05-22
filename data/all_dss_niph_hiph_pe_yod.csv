@@ -1,57 +1,57 @@
 tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	gn	ps	sp	prs	nme	hloc	prefix	rec_signs	cor_signs	heb_g_cons
-2052029	4Q88	Psalms	107	24	JDH[	JWDW	WD			hif	impf	pl	m	p3	verb					nnnn	nnnn	יודו
-2051885	4Q88	Psalms	107	8	JDH[	JWDW	WD			hif	impf	pl	m	p3	verb					rrrr	nnnn	יודו
-2051943	4Q88	Psalms	107	13	JC<[	JCJ<M	CJ<			hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn	ישיעם
-2051946	4Q88	Psalms	107	14	JY>[	JWYJ>M	WYJ>			hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יוציאם
 2051955	4Q88	Psalms	107	15	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nrrr	nnnn	הודו
 2051993	4Q88	Psalms	107	19	JC<[	JWCJ<M	WCJ<			hif	impf	sg	m	p3	verb	M				rrrrrr	nnnnnn	יושיעם
 2052074	4Q88	Psalms	107	28	JC<[	JCJ<M	CJ<			hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn	ישיעם
 2052105	4Q88	Psalms	107	36	JCB[	JCB	CB			hif	wayq	sg	m	p3	verb				W	nnn	nnn	ישב
-2083232	11Q5	Psalms	146	9	JD<[	HWD<W	WD<			hif	infc	NA		NA	verb	W			B	nnnnn	nnnnn	הודעו
-2086057	11Q5	Psalms	138	4	JDH[	JWDWK	WD			hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn	יודוך
-2085137	11Q5	Psalms	135	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מוציא
-2083124	11Q5	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
-2086520	11Q5	Psalms	143	8	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הודיעני
-2082517	11Q5	Psalms	109	26	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				rnnnnnn	nnnnnnn	הושיעני
-2082551	11Q5	Psalms	109	30	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
-2083896	11Q5	Psalms	130	5	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					nnnnnn	nnnnnn	הוחלתי
+2052029	4Q88	Psalms	107	24	JDH[	JWDW	WD			hif	impf	pl	m	p3	verb					nnnn	nnnn	יודו
+2051885	4Q88	Psalms	107	8	JDH[	JWDW	WD			hif	impf	pl	m	p3	verb					rrrr	nnnn	יודו
+2051943	4Q88	Psalms	107	13	JC<[	JCJ<M	CJ<			hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn	ישיעם
+2051946	4Q88	Psalms	107	14	JY>[	JWYJ>M	WYJ>			hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יוציאם
+2086032	11Q5	Psalms	138	2	JDH[	>WDH	WDH			hif	impf	sg		p1	verb				W	nnnn	nnnn	אודה
 2085873	11Q5	Psalms	139	14	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH				nnnnn	nnnnn	אודכה
 2085876	11Q5	Psalms	139	14	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נורא
-2084418	11Q5	Psalms	119	68	JVB[	MVJB	VJB			hif	ptca	sg	m	NA	verb				W	nnnn	nnnn	מטיב
+2084579	11Q5	Psalms	119	94	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				nnnnnnn	nnnnnnn	הושיעני
+2085572	11Q5	Psalms	145	6	JR>[	NWR>WTJKH	NWR>			nif	ptca	pl	f	NA	verb	KH	WTJ			nnnnnnnnn	nnnnnnnnn	נוראותיכה
 2085212	11Q5	Psalms	136	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו
 2082893	11Q5	Psalms	105	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו
 2082902	11Q5	Psalms	105	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2082908	11Q5	Psalms	105	1	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הודיעו
-2084702	11Q5	Psalms	119	117	JC<[	>WC<H	>WC<			nif	impf	sg		p1	verb				W	nnnnn	nnnnn	אושעה
-2086017	11Q5	Psalms	138	1	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH				nnnnn	nnnnn	אודכה
+2084362	11Q5	Psalms	119	62	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
 2082605	11Q5	Psalms	118	28	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH			W	nnnnn	nnnnn	אודכה
-2082490	11Q5	Psalms	109	23	HLK[	NHLKTJ	NHLKTJ			nif	perf	sg		p1	verb					rrrrrr	nnnnnn	נהלכתי
+2082889	11Q5	Psalms	147	20	JD<[	HWDJ<M	WDJ<			hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הודיעם
+2085757	11Q5	Psalms	145	19	JC<[	JWCJ<M	WCJ<			hif	impf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יושיעם
+2086101	11Q5	Psalms	138	7	JC<[	TWCJ<NJ	WCJ<			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תושיעני
 2085222	11Q5	Psalms	136	2	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו
-2086403	11Q5	Psalms	142	8	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb					nnnn	nnnn	הוצא
-2086408	11Q5	Psalms	142	8	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
-2083898	11Q5	Psalms	130	6	JXL[	HWXJLJ	WXJL			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	הוחילי
-2083185	11Q5	Psalms	105	43	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
 2083640	11Q5	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb	H				rrrrnn	nnnnnn	היטיבה
-2086032	11Q5	Psalms	138	2	JDH[	>WDH	WDH			hif	impf	sg		p1	verb				W	nnnn	nnnn	אודה
-2084579	11Q5	Psalms	119	94	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				nnnnnnn	nnnnnnn	הושיעני
-2085572	11Q5	Psalms	145	6	JR>[	NWR>WTJKH	NWR>			nif	ptca	pl	f	NA	verb	KH	WTJ			nnnnnnnnn	nnnnnnnnn	נוראותיכה
+2083888	11Q5	Psalms	130	4	JR>[	TWR>	TWR>			nif	impf	sg	m	p2	verb					rrrr	nnnn	תורא
+2083185	11Q5	Psalms	105	43	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
 2086145	11Q5	Psalms	141	5	JKX[	JWKJXNJ	WKJX			hif	impf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn	יוכיחני
 2085329	11Q5	Psalms	136	11	JY>[	JWYJ>	WYJ>			hif	wayq	sg	m	p3	verb				W	nnnnn	nnnnn	יוציא
+2082408	11Q5	Psalms	102	26	JSD[	NWSDH	NWSDH			nif	perf	sg		p3	verb					nnnnn	nnnnn	נוסדה
+2086057	11Q5	Psalms	138	4	JDH[	JWDWK	WD			hif	impf	pl	m	p3	verb	K				nnnnn	nnnnn	יודוך
+2085137	11Q5	Psalms	135	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מוציא
 2082568	11Q5	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	הושיעה
 2082609	11Q5	Psalms	118	29	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2085459	11Q5	Psalms	118	29	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו
+2082517	11Q5	Psalms	109	26	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				rnnnnnn	nnnnnnn	הושיעני
+2082551	11Q5	Psalms	109	30	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
 2085232	11Q5	Psalms	136	3	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו
-2084362	11Q5	Psalms	119	62	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
-2086101	11Q5	Psalms	138	7	JC<[	TWCJ<NJ	WCJ<			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תושיעני
+2084418	11Q5	Psalms	119	68	JVB[	MVJB	VJB			hif	ptca	sg	m	NA	verb				W	nnnn	nnnn	מטיב
 2085398	11Q5	Psalms	118	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו
-2082889	11Q5	Psalms	147	20	JD<[	HWDJ<M	WDJ<			hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הודיעם
 2083651	11Q5	Psalms	125	5	HLK[	JWLJKM	WLJK			hif	impf	sg	m	p3	verb	M				rrrrrr	nnnnnn	יוליכם
 2083498	11Q5	Psalms	122	4	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
-2085757	11Q5	Psalms	145	19	JC<[	JWCJ<M	WCJ<			hif	impf	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יושיעם
+2083896	11Q5	Psalms	130	5	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					nnnnnn	nnnnnn	הוחלתי
+2084702	11Q5	Psalms	119	117	JC<[	>WC<H	>WC<			nif	impf	sg		p1	verb				W	nnnnn	nnnnn	אושעה
 2085384	11Q5	Psalms	136	16	HLK[	MWLJK	WLJK			hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מוליך
 2086457	11Q5	Psalms	143	3	JCB[	HWCJBNJ	WCJB			hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn	הושיבני
-2083888	11Q5	Psalms	130	4	JR>[	TWR>	TWR>			nif	impf	sg	m	p2	verb					rrrr	nnnn	תורא
-2082408	11Q5	Psalms	102	26	JSD[	NWSDH	NWSDH			nif	perf	sg		p3	verb					nnnnn	nnnnn	נוסדה
+2086017	11Q5	Psalms	138	1	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH				nnnnn	nnnnn	אודכה
+2082490	11Q5	Psalms	109	23	HLK[	NHLKTJ	NHLKTJ			nif	perf	sg		p1	verb					rrrrrr	nnnnnn	נהלכתי
+2086403	11Q5	Psalms	142	8	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb					nnnn	nnnn	הוצא
+2086408	11Q5	Psalms	142	8	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
+2083898	11Q5	Psalms	130	6	JXL[	HWXJLJ	WXJL			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	הוחילי
+2083232	11Q5	Psalms	146	9	JD<[	HWD<W	WD<			hif	infc	NA		NA	verb	W			B	nnnnn	nnnnn	הודעו
+2083124	11Q5	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
+2086520	11Q5	Psalms	143	8	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הודיעני
 2086742	11Q6	Psalms	77	20	JD<[	NWD<W	NWD<W			nif	perf	pl		p3	verb					rrrrr	nnnnn	נודעו
 2086791	11Q6	Psalms	118	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 1890671	1Q3	Leviticus	19	33	JNH[	TWNW	WN			hif	impf	pl	m	p2	verb					rrrr	nnnn	תונו
@@ -63,369 +63,373 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1892361	1Q5	Deuteronomy	17	16	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn	תספון
 1894318	1Q6	Judges	9	49	JYT[	JYJTW	YJTW			hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn	יציתו
 1894095	1Q6	Judges	9	5	JTR[	JWTR	JWTR			nif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יותר
-1913242	1Qisaa	Isaiah	49	23	JNQ[	MJNQWTJK	JNQ			hif	ptca	pl	f	NA	verb	K	WTJ			nnnnnnnn	nnnnnnnn	מינקותיך
-1916346	1Qisaa	Isaiah	59	16	JC<[	TWC<	WC<			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע
-1911434	1Qisaa	Isaiah	44	27	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש
-1895012	1Qisaa	Isaiah	1	9	JTR[	HWTJR	WTJR			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הותיר
-1917049	1Qisaa	Isaiah	61	9	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
-1906224	1Qisaa	Isaiah	33	2	JC<[	HWC<TNW	WC<			hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn	הושעתנו
-1895073	1Qisaa	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו
-1914000	1Qisaa	Isaiah	51	23	JGH[	MWGJK	WG			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוגיך
-1908501	1Qisaa	Isaiah	38	5	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוסף
-1917499	1Qisaa	Isaiah	63	9	JC<[	HWCJ<MH	WCJ<			hif	perf	sg	m	p3	verb	MH				nnnnnnn	nnnnnnn	הושיעמה
-1903336	1Qisaa	Isaiah	25	9	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW			W	nnnnnnn	nnnnnnn	יושיענו
-1904255	1Qisaa	Isaiah	28	16	JSD[	MWSD	MWSD			hof	ptca	sg	m	NA	verb					nnnn	nnnn	מוסד
 1917572	1Qisaa	Isaiah	63	13	HLK[	MWLJKM	WLJK			hif	ptca	sg	m	NA	verb	M				nnnnnn	nnnnnn	מוליכם
-1916115	1Qisaa	Isaiah	59	4	JLD[	HWLJDW	WLJD			hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הולידו
-1916749	1Qisaa	Isaiah	60	16	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
-1917379	1Qisaa	Isaiah	63	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הושיע
-1903170	1Qisaa	Isaiah	25	1	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
-1902706	1Qisaa	Isaiah	23	14	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
-1909569	1Qisaa	Isaiah	41	2	JRD[	JWRJD	WRJD			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוריד
-1910853	1Qisaa	Isaiah	43	24	JG<[	HWG<TNJ	WG<			hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	הוגעתני
-1917428	1Qisaa	Isaiah	63	5	JC<[	TWC<	WC<			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע
-1910273	1Qisaa	Isaiah	42	16	HLK[	HWLJKTJ	HWLJK			hif	perf	sg		p1	verb				W	nnnnnnn	nnnnnnn	הוליכתי
-1911753	1Qisaa	Isaiah	45	17	JC<[	NWC<	NWC<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נושע
-1906928	1Qisaa	Isaiah	35	4	JC<[	JWC<KMH	WC<			hif	impf	sg	m	p3	verb	KMH			W	nnnnnnn	nnnnnnn	יושעכמה
-1897679	1Qisaa	Isaiah	8	5	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוסף
-1911848	1Qisaa	Isaiah	45	21	J<Y[	JW<YW	JW<YW			nif	impf	pl	m	p3	verb					nnnnn	nnnnn	יועצו
-1911871	1Qisaa	Isaiah	45	21	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מושיע
-1895408	1Qisaa	Isaiah	2	3	JRH[	JRWNW	R			hif	impf	pl	m	p3	verb	NW			W	nnnnn	nnnnn	ירונו
-1901041	1Qisaa	Isaiah	18	2	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נורא
-1906431	1Qisaa	Isaiah	33	19	J<Z[	NW<Z	NW<Z			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נועז
-1899630	1Qisaa	Isaiah	13	12	JQR[	>WQR	WQR			hif	impf	sg		p1	verb					nnnn	nnnn	אוקר
-1910661	1Qisaa	Isaiah	43	12	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הושעתי
-1902591	1Qisaa	Isaiah	23	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
-1900495	1Qisaa	Isaiah	15	9	JSP[	NWSPT	NWSP			nif	ptca	pl	f	NA	verb		T			nnnnn	nnnnn	נוספת
-1899091	1Qisaa	Isaiah	11	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח
-1914101	1Qisaa	Isaiah	52	5	JLL[	HWLLW	WLL			hif	perf	pl		p3	verb				W	nnnnn	nnnnn	הוללו
-1918552	1Qisaa	Isaiah	66	8	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					nnnn	nnnn	יולד
-1905102	1Qisaa	Isaiah	30	6	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו
-1915006	1Qisaa	Isaiah	55	10	JLD[	HWLJDH	WLJD			hif	perf	sg	m	p3	verb	H			W	nnnnnn	nnnnnn	הולידה
-1897527	1Qisaa	Isaiah	7	22	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נותר
-1908012	1Qisaa	Isaiah	37	20	JC<[	>WCJ<NW	>WCJ<			hif	impv	sg	m	NA	verb	NW				nnnnnnn	nnnnnnn	אושיענו
-1901812	1Qisaa	Isaiah	21	1	JR>[	NWR>H	NWR>H			nif	ptca	sg	f	NA	verb					nnnnn	nnnnn	נוראה
-1895152	1Qisaa	Isaiah	1	18	JKX[	NWKXH	NWKX			nif	impf	pl		p1	verb				W	nnnnn	nnnnn	נוכחה
-1910585	1Qisaa	Isaiah	43	8	JY>[	HWYJ>W	WYJ>			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הוציאו
-1907693	1Qisaa	Isaiah	37	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח
-1908731	1Qisaa	Isaiah	38	18	JDH[	TWDKH	WD			hif	impf	sg	f	p3	verb	KH				nnnnn	nnnnn	תודכה
-1899421	1Qisaa	Isaiah	12	4	JDH[	>WDW	>WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	אודו
-1899427	1Qisaa	Isaiah	12	4	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הודיעו
-1897285	1Qisaa	Isaiah	7	10	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוסף
-1901550	1Qisaa	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
-1909922	1Qisaa	Isaiah	41	23	JVB[	TJVJBW	JVJB			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תיטיבו
-1914035	1Qisaa	Isaiah	52	1	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף
-1904098	1Qisaa	Isaiah	28	9	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					nnnn	nnnn	יורה
-1917446	1Qisaa	Isaiah	63	6	JRD[	>WRJDH	WRJD			hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אורידה
-1904915	1Qisaa	Isaiah	29	21	JKX[	MWKJX	WKJX			hif	ptca	sg	m	NA	verb				WL	nnnnn	nnnnn	מוכיח
-1904193	1Qisaa	Isaiah	28	13	JQC[	NWQCW	NWQCW			nif	perf	pl		p3	verb				W	nnnnn	nnnnn	נוקשו
-1896332	1Qisaa	Isaiah	5	5	JD<[	>WDJ<	WDJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	אודיע
-1912425	1Qisaa	Isaiah	47	15	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
-1911879	1Qisaa	Isaiah	45	22	JC<[	HWCJ<W	WCJ<			hif	impv	pl	m	NA	verb				W	nnnnnn	nnnnnn	הושיעו
-1916059	1Qisaa	Isaiah	59	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				M	nnnnn	nnnnn	הושיע
-1900608	1Qisaa	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייליל
-1900613	1Qisaa	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייליל
-1905267	1Qisaa	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תושעון
-1915565	1Qisaa	Isaiah	57	12	J<L[	JW<JLWK	W<JL			hif	impf	pl	m	p3	verb	K				nnnnnnn	nnnnnnn	יועילוך
-1901146	1Qisaa	Isaiah	18	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל
-1901159	1Qisaa	Isaiah	18	7	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נורא
-1908293	1Qisaa	Isaiah	37	33	JRH[	JR>	R>			hif	impf	sg	m	p3	verb					nnn	nnn	ירא
-1910733	1Qisaa	Isaiah	43	17	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
-1911630	1Qisaa	Isaiah	45	10	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
-1908975	1Qisaa	Isaiah	39	6	JTR[	JWTR	JWTR			nif	impf	sg	m	p3	verb					nnnn	nnnn	יותר
-1910234	1Qisaa	Isaiah	42	13	JD<[	JWDJ<	WDJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יודיע
-1918569	1Qisaa	Isaiah	66	9	JLD[	>WLJD	WLJD			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוליד
-1918575	1Qisaa	Isaiah	66	9	JLD[	MWLJD	WLJD			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוליד
-1914590	1Qisaa	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יושיבו
-1895434	1Qisaa	Isaiah	2	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח
-1910040	1Qisaa	Isaiah	42	1	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוציא
-1900378	1Qisaa	Isaiah	15	2	JLL[	JLJL	LJL			hif	impf	sg	m	p3	verb					nnnn	nnnn	יליל
-1899375	1Qisaa	Isaiah	12	1	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH				nnnnn	nnnnn	אודכה
-1917750	1Qisaa	Isaiah	64	4	JC<[	NWC<	NWC<			nif	impf	pl		p1	verb				W	nnnn	nnnn	נושע
-1904434	1Qisaa	Isaiah	28	26	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn	יורנו
-1908747	1Qisaa	Isaiah	38	19	JDH[	JWDKH	WD			hif	impf	sg	m	p3	verb	KH				nnnnn	nnnnn	יודכה
-1908754	1Qisaa	Isaiah	38	19	JD<[	JWDJ<	WDJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יודיע
-1899442	1Qisaa	Isaiah	12	5	JD<[	MWD<WT	MWD<			hof	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	מודעות
-1901557	1Qisaa	Isaiah	19	21	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
-1900312	1Qisaa	Isaiah	14	31	JLL[	HJLJLJ	JLJL			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	הילילי
-1913292	1Qisaa	Isaiah	49	25	JC<[	>WCJ<	WCJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	אושיע
-1917097	1Qisaa	Isaiah	61	11	JY>[	TWYJ>	WYJ>			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תוציא
-1898805	1Qisaa	Isaiah	10	20	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף
-1911057	1Qisaa	Isaiah	44	9	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו
 1900054	1Qisaa	Isaiah	14	15	JRD[	TWRD	TWRD			hof	impf	sg	m	p2	verb					nnnn	nnnn	תורד
-1901388	1Qisaa	Isaiah	19	13	J>L=[	N>WLW	N>WLW			nif	perf	pl		p3	verb					nnnnn	nnnnn	נאולו
-1897881	1Qisaa	Isaiah	8	15	JQC[	NWQCW	NWQCW			nif	perf	pl		p3	verb				W	nnnnn	nnnnn	נוקשו
-1904782	1Qisaa	Isaiah	29	14	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוסף
-1908988	1Qisaa	Isaiah	39	7	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
-1902669	1Qisaa	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
-1911737	1Qisaa	Isaiah	45	15	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
-1902731	1Qisaa	Isaiah	23	16	JVB[	HJVJBJ	JVJB			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	היטיבי
-1899992	1Qisaa	Isaiah	14	11	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb					nrnn	nnnn	הורד
-1899999	1Qisaa	Isaiah	14	11	JY<[	JY<	JY<			hof	impf	sg	m	p3	verb					nnn	nnn	יצע
-1918662	1Qisaa	Isaiah	66	14	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
-1912053	1Qisaa	Isaiah	46	7	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	יושיענו
-1913643	1Qisaa	Isaiah	51	5	JXL[	JWXJLWN	WXJL			hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn	יוחילון
-1897802	1Qisaa	Isaiah	8	11	JSR[	JSJRNW	SJR			hif	impf	sg	m	p3	verb	NW				nnnnnn	nnnnnn	יסירנו
-1910642	1Qisaa	Isaiah	43	10	JYR[	NWYR	NWYR			nif	perf	sg	m	p3	verb					nnnn	nnnn	נוצר
-1900398	1Qisaa	Isaiah	15	3	JLL[	JHJLJL	HJLJL			hif	impf	sg	m	p3	verb					nnnnnn	nnnnnn	יהיליל
+1916749	1Qisaa	Isaiah	60	16	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
 1910702	1Qisaa	Isaiah	43	14	JRD[	HWRDTJ	WRD			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הורדתי
-1914802	1Qisaa	Isaiah	54	16	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מוציא
-1915838	1Qisaa	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יציע
-1903103	1Qisaa	Isaiah	24	20	JSP[	TWSJP	WSJP			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תוסיף
-1913297	1Qisaa	Isaiah	49	26	JNH[	MWNJK	WN			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוניך
-1913312	1Qisaa	Isaiah	49	26	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
-1899532	1Qisaa	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
-1918021	1Qisaa	Isaiah	65	9	JY>[	HWYJTJ	WY			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הוציתי
+1917379	1Qisaa	Isaiah	63	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הושיע
+1908012	1Qisaa	Isaiah	37	20	JC<[	>WCJ<NW	>WCJ<			hif	impv	sg	m	NA	verb	NW				nnnnnnn	nnnnnnn	אושיענו
+1915006	1Qisaa	Isaiah	55	10	JLD[	HWLJDH	WLJD			hif	perf	sg	m	p3	verb	H			W	nnnnnn	nnnnnn	הולידה
+1901041	1Qisaa	Isaiah	18	2	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נורא
+1907693	1Qisaa	Isaiah	37	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח
+1896191	1Qisaa	Isaiah	4	3	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נותר
 1917695	1Qisaa	Isaiah	64	1	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודיע
+1899630	1Qisaa	Isaiah	13	12	JQR[	>WQR	WQR			hif	impf	sg		p1	verb					nnnn	nnnn	אוקר
+1910642	1Qisaa	Isaiah	43	10	JYR[	NWYR	NWYR			nif	perf	sg	m	p3	verb					nnnn	nnnn	נוצר
+1909922	1Qisaa	Isaiah	41	23	JVB[	TJVJBW	JVJB			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תיטיבו
 1908760	1Qisaa	Isaiah	38	20	JC<[	HWCJ<NJ	WCJ<			hif	infc	NA		NA	verb	NJ			L	nnnnnnn	nnnnnnn	הושיעני
 1908763	1Qisaa	Isaiah	38	20	JDH[	JWDK	WD			hif	impf	sg	m	p3	verb	K				nnnn	nnnn	יודך
 1908770	1Qisaa	Isaiah	38	20	JD<[	JHWDJ<	HWDJ<			hif	impf	sg	m	p3	verb					nnnnnn	nnnnnn	יהודיע
 1908775	1Qisaa	Isaiah	38	20	JC<[	HWCJ<NJ	WCJ<			hif	infc	NA		NA	verb	NJ			L	nnnnnnn	nnnnnnn	הושיעני
-1898672	1Qisaa	Isaiah	10	13	JRD[	>WRJD	WRJD			hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אוריד
+1900495	1Qisaa	Isaiah	15	9	JSP[	NWSPT	NWSP			nif	ptca	pl	f	NA	verb		T			nnnnn	nnnnn	נוספת
 1909236	1Qisaa	Isaiah	40	13	JD<[	JWDJ<NH	WDJ<			hif	impf	sg	m	p3	verb	NH				nnnnnnn	nnnnnnn	יודיענה
-1914414	1Qisaa	Isaiah	53	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל
 1912211	1Qisaa	Isaiah	47	5	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
-1894993	1Qisaa	Isaiah	1	8	JTR[	NTRT	NTRT			nif	ptca	sg	f	NA	verb				W	nnnn	nnnn	נתרת
-1912713	1Qisaa	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הועיל
-1913991	1Qisaa	Isaiah	51	22	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
-1912786	1Qisaa	Isaiah	48	21	HLK[	HWLJKW	HWLJK			hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn	הוליכו
-1917489	1Qisaa	Isaiah	63	8	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מושיע
+1904915	1Qisaa	Isaiah	29	21	JKX[	MWKJX	WKJX			hif	ptca	sg	m	NA	verb				WL	nnnnn	nnnnn	מוכיח
+1911842	1Qisaa	Isaiah	45	20	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יושיע
 1912374	1Qisaa	Isaiah	47	13	JC<[	JWCJ<WK	WCJ<			hif	impf	pl	m	p3	verb	K			W	nnnnnnn	nnnnnnn	יושיעוך
 1912382	1Qisaa	Isaiah	47	13	JD<[	MWD<JM	WD<			hif	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	מודעים
-1911076	1Qisaa	Isaiah	44	10	J<L[	HW<JL	W<JL			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הועיל
-1917557	1Qisaa	Isaiah	63	12	HLK[	MWLJK	WLJK			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מוליך
-1915518	1Qisaa	Isaiah	57	10	J>C[	NW>C	NW>C			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נואש
-1902519	1Qisaa	Isaiah	23	1	JLL[	>JLJLW	>JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	אילילו
+1895152	1Qisaa	Isaiah	1	18	JKX[	NWKXH	NWKX			nif	impf	pl		p1	verb				W	nnnnn	nnnnn	נוכחה
 1905311	1Qisaa	Isaiah	30	17	JTR[	NWTRTM	NWTRT			nif	perf	pl	m	p2	verb		M			nnnnnn	nnnnnn	נותרתם
-1910065	1Qisaa	Isaiah	42	3	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוציא
-1896191	1Qisaa	Isaiah	4	3	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נותר
-1905402	1Qisaa	Isaiah	30	21	JMN[	TJ>MJNW	J>MJN			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תיאמינו
+1908293	1Qisaa	Isaiah	37	33	JRH[	JR>	R>			hif	impf	sg	m	p3	verb					nnn	nnn	ירא
 1906499	1Qisaa	Isaiah	33	22	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	יושיענו
+1905402	1Qisaa	Isaiah	30	21	JMN[	TJ>MJNW	J>MJN			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תיאמינו
 1912160	1Qisaa	Isaiah	47	1	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
 1910137	1Qisaa	Isaiah	42	7	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוציא
-1908326	1Qisaa	Isaiah	37	35	JC<[	HWCJ<H	WCJ<			hif	infc	NA		NA	verb	H			L	nnnnnn	nnnnnn	הושיעה
 1914814	1Qisaa	Isaiah	54	17	JYR[	JWYR	JWYR			hof	impf	sg	m	p3	verb					nnnn	nnnn	יוצר
+1913242	1Qisaa	Isaiah	49	23	JNQ[	MJNQWTJK	JNQ			hif	ptca	pl	f	NA	verb	K	WTJ			nnnnnnnn	nnnnnnnn	מינקותיך
+1906224	1Qisaa	Isaiah	33	2	JC<[	HWC<TNW	WC<			hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn	הושעתנו
 1899083	1Qisaa	Isaiah	11	3	JKX[	JWKJX	WKJX			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוכיח
+1917446	1Qisaa	Isaiah	63	6	JRD[	>WRJDH	WRJD			hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אורידה
 1910834	1Qisaa	Isaiah	43	23	JG<[	HWG<TJKH	WG<			hif	perf	sg		p1	verb	KH				nnnnnnnn	nnnnnnnn	הוגעתיכה
 1905053	1Qisaa	Isaiah	30	5	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו
 1905060	1Qisaa	Isaiah	30	5	J<L[	TW<JL	W<JL			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תועיל
 1910262	1Qisaa	Isaiah	42	15	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש
 1910270	1Qisaa	Isaiah	42	15	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש
 1898305	1Qisaa	Isaiah	9	14	JRH[	MWRH	WRH			hif	ptca	sg	m	NA	verb					nnnn	nnnn	מורה
-1895139	1Qisaa	Isaiah	1	17	JVB[	HJVJB	JVJB			hif	infa	NA		NA	verb					nnnnn	nnnnn	היטיב
-1911842	1Qisaa	Isaiah	45	20	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יושיע
+1904255	1Qisaa	Isaiah	28	16	JSD[	MWSD	MWSD			hof	ptca	sg	m	NA	verb					nnnn	nnnn	מוסד
 1909437	1Qisaa	Isaiah	40	26	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
 1899224	1Qisaa	Isaiah	11	11	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף
+1915518	1Qisaa	Isaiah	57	10	J>C[	NW>C	NW>C			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נואש
+1902519	1Qisaa	Isaiah	23	1	JLL[	>JLJLW	>JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	אילילו
 1917707	1Qisaa	Isaiah	64	2	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	נוראות
+1901146	1Qisaa	Isaiah	18	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל
+1901159	1Qisaa	Isaiah	18	7	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נורא
 1910656	1Qisaa	Isaiah	43	11	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
-1918149	1Qisaa	Isaiah	65	14	JLL[	TJLJLW	JLJL			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תילילו
-1894937	1Qisaa	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו
+1910065	1Qisaa	Isaiah	42	3	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוציא
 1909240	1Qisaa	Isaiah	40	14	J<Y[	NW<Y	NW<Y			nif	perf	sg	m	p3	verb					nnnn	nnnn	נועץ
 1909254	1Qisaa	Isaiah	40	14	JD<[	JWDJ<NW	WDJ<			hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	יודיענו
-1922825	1Q8	Isaiah	44	27	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש
-1926622	1Q8	Isaiah	63	9	JC<[	HWCJ<M	WCJ<			hif	perf	sg	m	p3	verb	M				rrrrrr	nnnnnn	הושיעם
-1920788	1Q8	Isaiah	28	16	JSD[	MWSD	MWSD			hof	ptca	sg	m	NA	verb					rrrr	nnnn	מוסד
-1922404	1Q8	Isaiah	43	3	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
+1908975	1Qisaa	Isaiah	39	6	JTR[	JWTR	JWTR			nif	impf	sg	m	p3	verb					nnnn	nnnn	יותר
+1916346	1Qisaa	Isaiah	59	16	JC<[	TWC<	WC<			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע
+1917049	1Qisaa	Isaiah	61	9	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
+1898805	1Qisaa	Isaiah	10	20	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף
+1908501	1Qisaa	Isaiah	38	5	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוסף
+1911848	1Qisaa	Isaiah	45	21	J<Y[	JW<YW	JW<YW			nif	impf	pl	m	p3	verb					nnnnn	nnnnn	יועצו
+1911871	1Qisaa	Isaiah	45	21	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מושיע
+1916115	1Qisaa	Isaiah	59	4	JLD[	HWLJDW	WLJD			hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הולידו
+1897881	1Qisaa	Isaiah	8	15	JQC[	NWQCW	NWQCW			nif	perf	pl		p3	verb				W	nnnnn	nnnnn	נוקשו
+1900378	1Qisaa	Isaiah	15	2	JLL[	JLJL	LJL			hif	impf	sg	m	p3	verb					nnnn	nnnn	יליל
+1906431	1Qisaa	Isaiah	33	19	J<Z[	NW<Z	NW<Z			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נועז
+1904782	1Qisaa	Isaiah	29	14	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוסף
+1918552	1Qisaa	Isaiah	66	8	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					nnnn	nnnn	יולד
+1902706	1Qisaa	Isaiah	23	14	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
+1911753	1Qisaa	Isaiah	45	17	JC<[	NWC<	NWC<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נושע
+1910273	1Qisaa	Isaiah	42	16	HLK[	HWLJKTJ	HWLJK			hif	perf	sg		p1	verb				W	nnnnnnn	nnnnnnn	הוליכתי
+1911057	1Qisaa	Isaiah	44	9	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו
+1906928	1Qisaa	Isaiah	35	4	JC<[	JWC<KMH	WC<			hif	impf	sg	m	p3	verb	KMH			W	nnnnnnn	nnnnnnn	יושעכמה
+1895408	1Qisaa	Isaiah	2	3	JRH[	JRWNW	R			hif	impf	pl	m	p3	verb	NW			W	nnnnn	nnnnn	ירונו
+1897802	1Qisaa	Isaiah	8	11	JSR[	JSJRNW	SJR			hif	impf	sg	m	p3	verb	NW				nnnnnn	nnnnnn	יסירנו
+1913643	1Qisaa	Isaiah	51	5	JXL[	JWXJLWN	WXJL			hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn	יוחילון
+1910661	1Qisaa	Isaiah	43	12	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הושעתי
+1899421	1Qisaa	Isaiah	12	4	JDH[	>WDW	>WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	אודו
+1899427	1Qisaa	Isaiah	12	4	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הודיעו
+1902591	1Qisaa	Isaiah	23	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
+1915838	1Qisaa	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יציע
+1908988	1Qisaa	Isaiah	39	7	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
+1904098	1Qisaa	Isaiah	28	9	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					nnnn	nnnn	יורה
+1899091	1Qisaa	Isaiah	11	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח
+1914101	1Qisaa	Isaiah	52	5	JLL[	HWLLW	WLL			hif	perf	pl		p3	verb				W	nnnnn	nnnnn	הוללו
+1904193	1Qisaa	Isaiah	28	13	JQC[	NWQCW	NWQCW			nif	perf	pl		p3	verb				W	nnnnn	nnnnn	נוקשו
+1910853	1Qisaa	Isaiah	43	24	JG<[	HWG<TNJ	WG<			hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	הוגעתני
+1905102	1Qisaa	Isaiah	30	6	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו
+1897527	1Qisaa	Isaiah	7	22	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נותר
+1901812	1Qisaa	Isaiah	21	1	JR>[	NWR>H	NWR>H			nif	ptca	sg	f	NA	verb					nnnnn	nnnnn	נוראה
+1900608	1Qisaa	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייליל
+1900613	1Qisaa	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייליל
+1912053	1Qisaa	Isaiah	46	7	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	יושיענו
+1910585	1Qisaa	Isaiah	43	8	JY>[	HWYJ>W	WYJ>			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הוציאו
+1900398	1Qisaa	Isaiah	15	3	JLL[	JHJLJL	HJLJL			hif	impf	sg	m	p3	verb					nnnnnn	nnnnnn	יהיליל
+1914414	1Qisaa	Isaiah	53	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל
+1908731	1Qisaa	Isaiah	38	18	JDH[	TWDKH	WD			hif	impf	sg	f	p3	verb	KH				nnnnn	nnnnn	תודכה
+1897285	1Qisaa	Isaiah	7	10	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוסף
+1901550	1Qisaa	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
+1894993	1Qisaa	Isaiah	1	8	JTR[	NTRT	NTRT			nif	ptca	sg	f	NA	verb				W	nnnn	nnnn	נתרת
+1914035	1Qisaa	Isaiah	52	1	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף
+1918569	1Qisaa	Isaiah	66	9	JLD[	>WLJD	WLJD			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוליד
+1918575	1Qisaa	Isaiah	66	9	JLD[	MWLJD	WLJD			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוליד
+1911076	1Qisaa	Isaiah	44	10	J<L[	HW<JL	W<JL			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הועיל
+1911879	1Qisaa	Isaiah	45	22	JC<[	HWCJ<W	WCJ<			hif	impv	pl	m	NA	verb				W	nnnnnn	nnnnnn	הושיעו
+1917557	1Qisaa	Isaiah	63	12	HLK[	MWLJK	WLJK			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מוליך
+1896332	1Qisaa	Isaiah	5	5	JD<[	>WDJ<	WDJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	אודיע
+1912425	1Qisaa	Isaiah	47	15	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
+1916059	1Qisaa	Isaiah	59	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				M	nnnnn	nnnnn	הושיע
+1899532	1Qisaa	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
+1918021	1Qisaa	Isaiah	65	9	JY>[	HWYJTJ	WY			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הוציתי
+1915565	1Qisaa	Isaiah	57	12	J<L[	JW<JLWK	W<JL			hif	impf	pl	m	p3	verb	K				nnnnnnn	nnnnnnn	יועילוך
+1904434	1Qisaa	Isaiah	28	26	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn	יורנו
+1908326	1Qisaa	Isaiah	37	35	JC<[	HWCJ<H	WCJ<			hif	infc	NA		NA	verb	H			L	nnnnnn	nnnnnn	הושיעה
+1899442	1Qisaa	Isaiah	12	5	JD<[	MWD<WT	MWD<			hof	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	מודעות
+1898672	1Qisaa	Isaiah	10	13	JRD[	>WRJD	WRJD			hif	impf	sg		p1	verb				W	nnnnn	nnnnn	אוריד
+1911630	1Qisaa	Isaiah	45	10	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
+1913292	1Qisaa	Isaiah	49	25	JC<[	>WCJ<	WCJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	אושיע
+1912713	1Qisaa	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הועיל
+1910234	1Qisaa	Isaiah	42	13	JD<[	JWDJ<	WDJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יודיע
+1913991	1Qisaa	Isaiah	51	22	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
+1912786	1Qisaa	Isaiah	48	21	HLK[	HWLJKW	HWLJK			hif	perf	sg	m	p3	verb	W				nnnnnn	nnnnnn	הוליכו
+1917489	1Qisaa	Isaiah	63	8	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מושיע
+1914590	1Qisaa	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יושיבו
+1895434	1Qisaa	Isaiah	2	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח
+1905267	1Qisaa	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תושעון
+1899375	1Qisaa	Isaiah	12	1	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH				nnnnn	nnnnn	אודכה
+1910040	1Qisaa	Isaiah	42	1	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוציא
+1917750	1Qisaa	Isaiah	64	4	JC<[	NWC<	NWC<			nif	impf	pl		p1	verb				W	nnnn	nnnn	נושע
+1908747	1Qisaa	Isaiah	38	19	JDH[	JWDKH	WD			hif	impf	sg	m	p3	verb	KH				nnnnn	nnnnn	יודכה
+1908754	1Qisaa	Isaiah	38	19	JD<[	JWDJ<	WDJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יודיע
+1901557	1Qisaa	Isaiah	19	21	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
+1910733	1Qisaa	Isaiah	43	17	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
+1900312	1Qisaa	Isaiah	14	31	JLL[	HJLJLJ	JLJL			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	הילילי
+1917097	1Qisaa	Isaiah	61	11	JY>[	TWYJ>	WYJ>			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תוציא
+1903336	1Qisaa	Isaiah	25	9	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW			W	nnnnnnn	nnnnnnn	יושיענו
+1895139	1Qisaa	Isaiah	1	17	JVB[	HJVJB	JVJB			hif	infa	NA		NA	verb					nnnnn	nnnnn	היטיב
+1918662	1Qisaa	Isaiah	66	14	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
+1901388	1Qisaa	Isaiah	19	13	J>L=[	N>WLW	N>WLW			nif	perf	pl		p3	verb					nnnnn	nnnnn	נאולו
+1918149	1Qisaa	Isaiah	65	14	JLL[	TJLJLW	JLJL			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תילילו
+1894937	1Qisaa	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו
+1914802	1Qisaa	Isaiah	54	16	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מוציא
+1903170	1Qisaa	Isaiah	25	1	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
+1911434	1Qisaa	Isaiah	44	27	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש
+1903103	1Qisaa	Isaiah	24	20	JSP[	TWSJP	WSJP			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תוסיף
+1895012	1Qisaa	Isaiah	1	9	JTR[	HWTJR	WTJR			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הותיר
+1913297	1Qisaa	Isaiah	49	26	JNH[	MWNJK	WN			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוניך
+1913312	1Qisaa	Isaiah	49	26	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
+1909569	1Qisaa	Isaiah	41	2	JRD[	JWRJD	WRJD			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוריד
+1902669	1Qisaa	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
+1911737	1Qisaa	Isaiah	45	15	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
+1917428	1Qisaa	Isaiah	63	5	JC<[	TWC<	WC<			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע
+1895073	1Qisaa	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו
+1914000	1Qisaa	Isaiah	51	23	JGH[	MWGJK	WG			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוגיך
+1897679	1Qisaa	Isaiah	8	5	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוסף
+1902731	1Qisaa	Isaiah	23	16	JVB[	HJVJBJ	JVJB			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	היטיבי
+1917499	1Qisaa	Isaiah	63	9	JC<[	HWCJ<MH	WCJ<			hif	perf	sg	m	p3	verb	MH				nnnnnnn	nnnnnnn	הושיעמה
+1899992	1Qisaa	Isaiah	14	11	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb					nrnn	nnnn	הורד
+1899999	1Qisaa	Isaiah	14	11	JY<[	JY<	JY<			hof	impf	sg	m	p3	verb					nnn	nnn	יצע
 1926694	1Q8	Isaiah	63	13	HLK[	MWLJKM	WLJK			hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn	מוליכם
-1925706	1Q8	Isaiah	59	4	JLD[	HWLJDW	WLJD			hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הולידו
 1926091	1Q8	Isaiah	60	16	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
 1926489	1Q8	Isaiah	63	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיע
-1920526	1Q8	Isaiah	25	1	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					rrrr	nnnn	אודה
-1922663	1Q8	Isaiah	43	24	JG<[	HWG<TNJ	WG<			hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	הוגעתני
-1926551	1Q8	Isaiah	63	5	JC<[	TWC<	WC<			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע
-1921346	1Q8	Isaiah	35	4	JC<[	JC<KM	C<			hif	impf	sg	m	p3	verb	KM			W	rrrrr	nnnnn	ישעכם
-1922555	1Q8	Isaiah	43	12	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	rrrrnn	nnnnnn	הושעתי
+1924869	1Q8	Isaiah	55	10	JLD[	HWLJDH	WLJD			hif	perf	sg	m	p3	verb	H			W	nrrrrr	nnnnnn	הולידה
+1926812	1Q8	Isaiah	64	1	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הודיע
+1922537	1Q8	Isaiah	43	10	JYR[	NWYR	NWYR			nif	perf	sg	m	p3	verb					rrrr	nnnn	נוצר
+1922327	1Q8	Isaiah	41	23	JVB[	TJVJBW	JVJB			hif	impf	pl	m	p2	verb					nnnnnr	nnnnnn	תיטיבו
+1921663	1Q8	Isaiah	38	20	JC<[	HCJ<NJ	CJ<			hif	infc	NA		NA	verb	NJ			L	nnnnnn	nnnnnn	השיעני
 1919527	1Q8	Isaiah	15	9	JSP[	NWSPWT	NWSP			nif	ptca	pl	f	NA	verb		WT			rrrrrr	nnnnnn	נוספות
 1922844	1Q8	Isaiah	44	28	JSD[	TWSD	TWSD			nif	impf	sg	f	p3	verb					nrnn	nnnn	תוסד
+1923326	1Q8	Isaiah	47	5	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn	תוסיפי
+1923486	1Q8	Isaiah	47	13	JC<[	JWCJ<K	WCJ<			hif	impf	pl	m	p3	verb	K			W	rrrrrr	nnnnnn	יושיעך
+1923494	1Q8	Isaiah	47	13	JD<[	MWDJ<M	WDJ<			hif	ptca	pl	m	NA	verb		M			rrrrrr	nnnnnn	מודיעם
+1923276	1Q8	Isaiah	47	1	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					rrrrnn	nnnnnn	תוסיפי
+1926569	1Q8	Isaiah	63	6	JRD[	>RJDH	RJD			hif	impf	sg		p1	verb				W	nnnnn	nnnnn	ארידה
+1922644	1Q8	Isaiah	43	23	JG<[	HWG<TJK	WG<			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוגעתיך
+1920788	1Q8	Isaiah	28	16	JSD[	MWSD	MWSD			hof	ptca	sg	m	NA	verb					rrrr	nnnn	מוסד
+1920333	1Q8	Isaiah	23	1	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
+1926823	1Q8	Isaiah	64	2	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT			rrrrrr	nnnnnn	נוראות
+1922550	1Q8	Isaiah	43	11	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
+1921862	1Q8	Isaiah	39	6	JTR[	JWTR	JWTR			nif	impf	sg	m	p3	verb					rrrn	nnnn	יותר
+1922404	1Q8	Isaiah	43	3	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
+1925706	1Q8	Isaiah	59	4	JLD[	HWLJDW	WLJD			hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הולידו
+1919410	1Q8	Isaiah	15	2	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
 1927335	1Q8	Isaiah	66	8	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					rrrr	nnnn	יולד
-1924869	1Q8	Isaiah	55	10	JLD[	HWLJDH	WLJD			hif	perf	sg	m	p3	verb	H			W	nrrrrr	nnnnnn	הולידה
-1918982	1Q8	Isaiah	7	22	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	rrrr	nnnn	נותר
-1922479	1Q8	Isaiah	43	8	JY>[	>WYJ>	WYJ>			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוציא
-1921637	1Q8	Isaiah	38	18	JDH[	TW<K	W<			hif	impf	sg	f	p3	verb	K				nnnn	nnnn	תועך
+1921346	1Q8	Isaiah	35	4	JC<[	JC<KM	C<			hif	impf	sg	m	p3	verb	KM			W	rrrrr	nnnnn	ישעכם
+1922555	1Q8	Isaiah	43	12	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	rrrrnn	nnnnnn	הושעתי
 1919197	1Q8	Isaiah	12	4	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 1919203	1Q8	Isaiah	12	4	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הודיעו
-1919933	1Q8	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
-1922327	1Q8	Isaiah	41	23	JVB[	TJVJBW	JVJB			hif	impf	pl	m	p2	verb					nnnnnr	nnnnnn	תיטיבו
-1926569	1Q8	Isaiah	63	6	JRD[	>RJDH	RJD			hif	impf	sg		p1	verb				W	nnnnn	nnnnn	ארידה
-1925649	1Q8	Isaiah	59	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				M	nnnnn	nnnnn	הושיע
-1919607	1Q8	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
-1919612	1Q8	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
-1921142	1Q8	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תושעון
-1923022	1Q8	Isaiah	45	10	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
-1921862	1Q8	Isaiah	39	6	JTR[	JWTR	JWTR			nif	impf	sg	m	p3	verb					rrrn	nnnn	יותר
-1927352	1Q8	Isaiah	66	9	JLD[	>WLJD	WLJD			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוליד
-1927358	1Q8	Isaiah	66	9	JLD[	MWLJD	WLJD			hif	ptca	sg	m	NA	verb				H	rnnnn	nnnnn	מוליד
-1924668	1Q8	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יושיבו
-1919410	1Q8	Isaiah	15	2	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
-1926866	1Q8	Isaiah	64	4	JC<[	NWC<	NWC<			nif	impf	pl		p1	verb				W	rrrr	nnnn	נושע
-1921650	1Q8	Isaiah	38	19	JDH[	JWDK	WD			hif	impf	sg	m	p3	verb	K				nnnn	nnnn	יודך
-1921657	1Q8	Isaiah	38	19	JD<[	JWD<	WD<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יודע
-1919217	1Q8	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					rrrrr	nnnnn	מודעת
-1919940	1Q8	Isaiah	19	21	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
-1923475	1Q8	Isaiah	47	12	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb					nnnnn	nnnnn	הועיל
-1919815	1Q8	Isaiah	19	13	J>L=[	NW>LW	NW>LW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נואלו
+1925438	1Q8	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יציע
 1921874	1Q8	Isaiah	39	7	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוליד
 1923599	1Q8	Isaiah	48	20	JY>[	HWY>WH	WY>			hif	impv	pl	m	NA	verb	H				nnnnrr	nnnnnn	הוצאוה
+1922663	1Q8	Isaiah	43	24	JG<[	HWG<TNJ	WG<			hif	perf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	הוגעתני
 1924912	1Q8	Isaiah	55	12	JBL[	TWBLWN	TWBLW			hof	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תובלון
-1927445	1Q8	Isaiah	66	14	JD<[	NWD<H	NWD<H			nif	perf	sg	f	p3	verb				W	nnrrr	nnnnn	נודעה
+1918982	1Q8	Isaiah	7	22	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	rrrr	nnnn	נותר
+1919607	1Q8	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
+1919612	1Q8	Isaiah	16	7	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
 1923172	1Q8	Isaiah	46	7	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	יושיענו
-1922537	1Q8	Isaiah	43	10	JYR[	NWYR	NWYR			nif	perf	sg	m	p3	verb					rrrr	nnnn	נוצר
+1922479	1Q8	Isaiah	43	8	JY>[	>WYJ>	WYJ>			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוציא
 1919430	1Q8	Isaiah	15	3	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
-1925438	1Q8	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יציע
-1920457	1Q8	Isaiah	24	20	JSP[	TSJP	SJP			hif	impf	sg	f	p3	verb					rrrr	nnnn	תסיף
-1919307	1Q8	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
-1926812	1Q8	Isaiah	64	1	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הודיע
-1921663	1Q8	Isaiah	38	20	JC<[	HCJ<NJ	CJ<			hif	infc	NA		NA	verb	NJ			L	nnnnnn	nnnnnn	השיעני
 1924498	1Q8	Isaiah	53	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל
-1923326	1Q8	Isaiah	47	5	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn	תוסיפי
+1921637	1Q8	Isaiah	38	18	JDH[	TW<K	W<			hif	impf	sg	f	p3	verb	K				nnnn	nnnn	תועך
+1919933	1Q8	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
+1927352	1Q8	Isaiah	66	9	JLD[	>WLJD	WLJD			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוליד
+1927358	1Q8	Isaiah	66	9	JLD[	MWLJD	WLJD			hif	ptca	sg	m	NA	verb				H	rnnnn	nnnnn	מוליד
+1926678	1Q8	Isaiah	63	12	HLK[	MWLJK	WLJK			hif	ptca	sg	m	NA	verb					rrrrn	nnnnn	מוליך
+1925649	1Q8	Isaiah	59	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				M	nnnnn	nnnnn	הושיע
+1919307	1Q8	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
+1919217	1Q8	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					rrrrr	nnnnn	מודעת
+1923022	1Q8	Isaiah	45	10	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
 1923544	1Q8	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הועיל
 1923615	1Q8	Isaiah	48	21	HLK[	HWLJKM	HWLJK			hif	perf	sg	m	p3	verb	M				rrrrrr	nnnnnn	הוליכם
 1926612	1Q8	Isaiah	63	8	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				L	nnnnn	nnnnn	מושיע
-1923486	1Q8	Isaiah	47	13	JC<[	JWCJ<K	WCJ<			hif	impf	pl	m	p3	verb	K			W	rrrrrr	nnnnnn	יושיעך
-1923494	1Q8	Isaiah	47	13	JD<[	MWDJ<M	WDJ<			hif	ptca	pl	m	NA	verb		M			rrrrrr	nnnnnn	מודיעם
-1926678	1Q8	Isaiah	63	12	HLK[	MWLJK	WLJK			hif	ptca	sg	m	NA	verb					rrrrn	nnnnn	מוליך
-1920333	1Q8	Isaiah	23	1	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
-1923276	1Q8	Isaiah	47	1	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					rrrrnn	nnnnnn	תוסיפי
-1922644	1Q8	Isaiah	43	23	JG<[	HWG<TJK	WG<			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוגעתיך
-1926823	1Q8	Isaiah	64	2	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT			rrrrrr	nnnnnn	נוראות
-1922550	1Q8	Isaiah	43	11	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
+1924668	1Q8	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יושיבו
+1921142	1Q8	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תושעון
+1926866	1Q8	Isaiah	64	4	JC<[	NWC<	NWC<			nif	impf	pl		p1	verb				W	rrrr	nnnn	נושע
+1921650	1Q8	Isaiah	38	19	JDH[	JWDK	WD			hif	impf	sg	m	p3	verb	K				nnnn	nnnn	יודך
+1921657	1Q8	Isaiah	38	19	JD<[	JWD<	WD<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יודע
+1919940	1Q8	Isaiah	19	21	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
+1923475	1Q8	Isaiah	47	12	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb					nnnnn	nnnnn	הועיל
+1927445	1Q8	Isaiah	66	14	JD<[	NWD<H	NWD<H			nif	perf	sg	f	p3	verb				W	nnrrr	nnnnn	נודעה
+1919815	1Q8	Isaiah	19	13	J>L=[	NW>LW	NW>LW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נואלו
+1920526	1Q8	Isaiah	25	1	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					rrrr	nnnn	אודה
+1922825	1Q8	Isaiah	44	27	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוביש
+1920457	1Q8	Isaiah	24	20	JSP[	TSJP	SJP			hif	impf	sg	f	p3	verb					rrrr	nnnn	תסיף
+1926551	1Q8	Isaiah	63	5	JC<[	TWC<	WC<			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תושע
+1926622	1Q8	Isaiah	63	9	JC<[	HWCJ<M	WCJ<			hif	perf	sg	m	p3	verb	M				rrrrrr	nnnnnn	הושיעם
 1927957	1Q10	Psalms	119	33	JRH[	HWRNJ	WR			hif	impv	sg	m	NA	verb	NJ				rrrrr	nnnnn	הורני
-1928268	1Q12	Psalms	44	3	JRC[	HWRCT	WRC			hif	perf	sg	m	p2	verb					rrrrr	nnnnn	הורשת
 1928321	1Q12	Psalms	44	7	JC<[	TWCJ<NJ	WCJ<			hif	impf	sg	f	p3	verb	NJ				rrrrrrr	nnnnnnn	תושיעני
+1928268	1Q12	Psalms	44	3	JRC[	HWRCT	WRC			hif	perf	sg	m	p2	verb					rrrrr	nnnnn	הורשת
 1928285	1Q12	Psalms	44	4	JC<[	HWCJ<H	WCJ<			hif	perf	sg	f	p3	verb					rrnnnn	nnnnnn	הושיעה
 1928324	1Q12	Psalms	44	8	JC<[	HWC<TNW	WC<			hif	perf	sg	m	p2	verb	NW				rrrrrrr	nnnnnnn	הושעתנו
-1928897	1Q13	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
+1928478	1Q13	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוצאתיך
 1928925	1Q13	Deuteronomy	10	21	JR>[	NWR>T	NWR>			nif	ptca	pl	f	NA	verb		T		H	nnnnr	nnnnn	נוראת
-1929178	1Q13	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
+1928897	1Q13	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
 1928649	1Q13	Deuteronomy	5	15	JY>[	JWYJ>K	WYJ>			hif	wayq	sg	m	p3	verb	K			W	rrrrrr	nnnnnn	יוציאך
 1929107	1Q13	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
-1928478	1Q13	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוצאתיך
-1930172	2Q2	Exodus	9	28	JSP[	TWSPWN	WSP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תוספון
+1929178	1Q13	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
 1930142	2Q2	Exodus	7	4	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
 1930453	2Q2	Exodus	12	39	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	הוציאו
+1930172	2Q2	Exodus	9	28	JSP[	TWSPWN	WSP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תוספון
 1930300	2Q2	Exodus	11	6	JSP[	TWSP	WSP			hif	impf	sg	f	p3	verb					rrrr	nnnn	תוסף
 1931144	2Q3	Exodus	34	10	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
-1931656	2Q7	Numbers	33	53	JRC[	HWRCTMH	WRCTMH			hif	perf	pl	m	p2	verb				W	rrrrrrr	nnnnnnn	הורשתמה
 1931631	2Q7	Numbers	33	52	JRC[	HWRCTMH	WRCTMH			hif	perf	pl	m	p2	verb				W	rrrrrrn	nnnnnnn	הורשתמה
+1931656	2Q7	Numbers	33	53	JRC[	HWRCTMH	WRCTMH			hif	perf	pl	m	p2	verb				W	rrrrrrr	nnnnnnn	הורשתמה
 1932455	2Q13	Jeremiah	46	27	JC<[	MWCJ<KH	WCJ<			hif	ptca	sg	m	NA	verb	KH				nnnnnnn	nnnnnnn	מושיעכה
 1932146	2Q13	Jeremiah	42	11	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיע
 1932553	2Q13	Jeremiah	47	2	JLL[	HJLJL	JLJL			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	היליל
-1932771	2Q13	Jeremiah	48	31	JLL[	>JLJL	JLJL			hif	impf	sg		p1	verb					nnnnn	nnnnn	איליל
 1932928	2Q13	Jeremiah	48	39	JLL[	HJLJLW	JLJL			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	הילילו
+1932771	2Q13	Jeremiah	48	31	JLL[	>JLJL	JLJL			hif	impf	sg		p1	verb					nnnnn	nnnnn	איליל
 1933176	2Q14	Psalms	103	7	JD<[	JWDJ<	WDJ<			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יודיע
-1933382	2Q16	Ruth	2	14	JTR[	TTR	TR			hif	wayq	sg	f	p3	verb				W	nrr	nnn	תתר
 1933452	2Q16	Ruth	2	18	JY>[	TWY>	WY>			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תוצא
 1933458	2Q16	Ruth	2	18	JTR[	HWTRH	WTR			hif	perf	sg	f	p3	verb					nnnnn	nnnnn	הותרה
+1933382	2Q16	Ruth	2	14	JTR[	TTR	TR			hif	wayq	sg	f	p3	verb				W	nrr	nnn	תתר
 1933787	2Q17	Ruth	3	14	JD<[	JWD<	JWD<			nif	impf	sg	m	p3	verb					nnnn	nnnn	יודע
 1934001	3Q3	Lamentations	1	12	JGH[	HWGH	WGH			hif	perf	sg	m	p3	verb					nnnr	nnnn	הוגה
-1936086	4Q1	Exodus	3	12	JY>[	HWYJ>K	WYJ>			hif	infc	NA		NA	verb	K			B	nnnnnn	nnnnnn	הוציאך
-1936999	4Q1	Exodus	6	13	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
-1936323	4Q1	Exodus	4	6	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
-1936841	4Q1	Exodus	6	6	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
 1936345	4Q1	Exodus	4	7	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
-1934939	4Q1	Genesis	37	25	JRD[	HWRJD	WRJD			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוריד
-1936599	4Q1	Exodus	5	7	JSP[	T>SPWN	>SP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תאספון
-1936881	4Q1	Exodus	6	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
-1936043	4Q1	Exodus	3	10	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb				W	nnnn	nnnn	הוצא
 1934836	4Q1	Genesis	37	5	JSP[	JWSPW	WSPW			hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn	יוספו
+1936599	4Q1	Exodus	5	7	JSP[	T>SPWN	>SP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תאספון
+1936043	4Q1	Exodus	3	10	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb				W	nnnn	nnnn	הוצא
+1936999	4Q1	Exodus	6	13	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
 1937171	4Q1	Exodus	7	5	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
-1936065	4Q1	Exodus	3	11	JY>[	>WYJ>	WYJ>			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוציא
 1935593	4Q1	Genesis	49	4	JTR[	TWTR	WTR			hif	impf	sg	m	p2	verb					rrrr	nnnn	תותר
+1936065	4Q1	Exodus	3	11	JY>[	>WYJ>	WYJ>			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוציא
+1936841	4Q1	Exodus	6	6	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
 1935712	4Q1	Exodus	1	10	JSP[	NWSP	NWSP			nif	perf	sg	m	p3	verb				W	rrnn	nnnn	נוסף
-1938445	4Q2	Genesis	4	2	JSP[	TSP	SP			hif	wayq	sg	f	p3	verb				W	rnn	nnn	תסף
+1936086	4Q1	Exodus	3	12	JY>[	HWYJ>K	WYJ>			hif	infc	NA		NA	verb	K			B	nnnnnn	nnnnnn	הוציאך
+1936881	4Q1	Exodus	6	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
+1936323	4Q1	Exodus	4	6	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
+1934939	4Q1	Genesis	37	25	JRD[	HWRJD	WRJD			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוריד
 1938197	4Q2	Genesis	1	24	JY>[	TWY>	WY>			hif	impf	sg	f	p3	verb					nnnn	nnnn	תוצא
 1937945	4Q2	Genesis	1	12	JY>[	TWY>	WY>			hif	wayq	sg	f	p3	verb				W	nnnn	nnnn	תוצא
+1938445	4Q2	Genesis	4	2	JSP[	TSP	SP			hif	wayq	sg	f	p3	verb				W	rnn	nnn	תסף
+1938618	4Q2	Genesis	5	13	JLD[	HWLJDW	WLJD			hif	infc	NA		NA	verb	W				rrrrrr	nnnnnn	הולידו
 1938532	4Q2	Genesis	4	7	JVB[	TJVJB	JVJB			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תיטיב
 1938537	4Q2	Genesis	4	7	JVB[	TJVJB	JVJB			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תיטיב
-1938618	4Q2	Genesis	5	13	JLD[	HWLJDW	WLJD			hif	infc	NA		NA	verb	W				rrrrrr	nnnnnn	הולידו
 1938711	4Q3	Genesis	40	20	JLD[	HLDT	HLDT			hof	infc	NA		NA	verb					rrrr	nnnn	הלדת
 1939107	4Q4	Genesis	1	24	JY>[	TWY>	WY>			hif	impf	sg	f	p3	verb					rnnr	nnnn	תוצא
-1939859	4Q5	Genesis	43	9	JYG[	HYGTHW	YGT			hif	perf	sg		p1	verb	HW			W	nnnnnn	nnnnnn	הצגתהו
-1939896	4Q5	Genesis	43	11	JRD[	HWRJDW	WRJD			hif	impv	pl	m	NA	verb				W	rrrrrr	nnnnnn	הורידו
-1940011	4Q5	Genesis	49	8	JDH[	JWDWK	WD			hif	impf	pl	m	p3	verb	K				rrrrr	nnnnn	יודוך
-1939683	4Q5	Genesis	41	39	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb					rrrrr	nnnnn	הודיע
 1939392	4Q5	Genesis	40	20	JLD[	HWLD	HWLD			hof	infc	NA		NA	verb					nnnn	nnnn	הולד
+1939859	4Q5	Genesis	43	9	JYG[	HYGTHW	YGT			hif	perf	sg		p1	verb	HW			W	nnnnnn	nnnnnn	הצגתהו
+1940011	4Q5	Genesis	49	8	JDH[	JWDWK	WD			hif	impf	pl	m	p3	verb	K				rrrrr	nnnnn	יודוך
+1939896	4Q5	Genesis	43	11	JRD[	HWRJDW	WRJD			hif	impv	pl	m	NA	verb				W	rrrrrr	nnnnnn	הורידו
+1939683	4Q5	Genesis	41	39	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb					rrrrr	nnnnn	הודיע
 1940161	4Q6	Genesis	48	5	JLD[	NWLDJM	NWLD			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נולדים
 1940186	4Q6	Genesis	48	6	JLD[	HWLDT	WLD			hif	perf	sg	m	p2	verb					nnnnn	nnnnn	הולדת
-1941366	4Q9	Genesis	42	38	JRD[	HWRDTM	WRDT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורדתם
 1941462	4Q9	Genesis	43	7	JRD[	HWRJDW	WRJD			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הורידו
-1940981	4Q9	Genesis	41	31	JD<[	JWD<	JWD<			nif	impf	sg	m	p3	verb					rrrr	nnnn	יודע
+1941366	4Q9	Genesis	42	38	JRD[	HWRDTM	WRDT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורדתם
 1941098	4Q9	Genesis	41	39	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb					nnnnn	nnnnn	הודיע
-1942525	4Q11	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn	תספון
-1943703	4Q11	Exodus	16	20	JTR[	JWTRW	WTRW			hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn	יותרו
-1943221	4Q11	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
-1944270	4Q11	Exodus	18	20	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn	הודעת
-1943086	4Q11	Exodus	12	10	JTR[	TWTJRW	WTJR			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תותירו
-1943092	4Q11	Exodus	12	10	JTR[	NTR	NTR			nif	ptca	sg	m	NA	verb				WH	rrr	nnn	נתר
+1940981	4Q9	Genesis	41	31	JD<[	JWD<	JWD<			nif	impf	sg	m	p3	verb					rrrr	nnnn	יודע
 1944443	4Q11	Exodus	20	2	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rnnnnnn	nnnnnnn	הוצאתיך
 1942596	4Q11	Exodus	9	34	JSP[	JSP	SP			hif	wayq	sg	m	p3	verb				W	rrr	nnn	יסף
-1942791	4Q11	Exodus	11	6	JSP[	TSP	SP			hif	impf	sg	f	p3	verb					rrr	nnn	תסף
 1943588	4Q11	Exodus	16	6	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrn	nnnnn	הוציא
 1943379	4Q11	Exodus	14	21	HLK[	JWLK	WLK			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יולך
 1943940	4Q11	Exodus	16	35	JCB[	NWCBT	NWCBT			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נושבת
+1944270	4Q11	Exodus	18	20	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn	הודעת
 1943692	4Q11	Exodus	16	19	JTR[	JWTR	WTR			hif	impf	sg	m	p3	verb					rrrr	nnnn	יותר
-1942355	4Q11	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
 1943505	4Q11	Exodus	16	3	JY>[	HWY>TM	WY>T			hif	perf	pl	m	p2	verb		M			nnnrrr	nnnnnn	הוצאתם
-1946337	4Q13	Exodus	2	17	JC<[	JCJ<N	CJ<			hif	wayq	sg	m	p3	verb	N			W	rrrnn	nnnnn	ישיען
-1946114	4Q13	Exodus	2	9	HLK[	HLK	HLK			hif	impv	sg	f	NA	verb					nnn	nnn	הלך
-1946121	4Q13	Exodus	2	9	JNQ[	HJNJQHW	JNJQ			hif	impv	sg	f	NA	verb	HW			W	rrrrrrr	nnnnnnn	היניקהו
-1946135	4Q13	Exodus	2	9	JNQ[	TJNJQHW	JNJQ			hif	wayq	sg	f	p3	verb	HW			W	rrrrrrr	nnnnnnn	תיניקהו
-1946733	4Q13	Exodus	4	6	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
-1945933	4Q13	Exodus	1	20	JVB[	JVB	VB			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יטב
+1942355	4Q11	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
+1942525	4Q11	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn	תספון
+1943703	4Q11	Exodus	16	20	JTR[	JWTRW	WTRW			hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn	יותרו
+1943221	4Q11	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
+1942791	4Q11	Exodus	11	6	JSP[	TSP	SP			hif	impf	sg	f	p3	verb					rrr	nnn	תסף
+1943086	4Q11	Exodus	12	10	JTR[	TWTJRW	WTJR			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תותירו
+1943092	4Q11	Exodus	12	10	JTR[	NTR	NTR			nif	ptca	sg	m	NA	verb				WH	rrr	nnn	נתר
 1946267	4Q13	Exodus	2	14	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע
 1946755	4Q13	Exodus	4	7	JY>[	JWYJ>H	WYJ>			hif	wayq	sg	m	p3	verb	H			W	rrrrrr	nnnnnn	יוציאה
 1946840	4Q13	Exodus	5	7	JSP[	T>SPWN	>SP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תאספון
 1946081	4Q13	Exodus	2	7	JNQ[	MJNQT	JNQT			hif	ptca	sg	f	NA	verb					rrrrr	nnnnn	מינקת
 1946086	4Q13	Exodus	2	7	JNQ[	HJNQH	JNQ			hif	perf	sg	f	p3	verb				W	nnnnn	nnnnn	הינקה
-1948272	4Q14	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תספון
-1949005	4Q14	Exodus	10	24	JYG[	JYG	JYG			hof	impf	sg	m	p3	verb					rrr	nnn	יצג
-1949396	4Q14	Exodus	12	42	JY>[	HWYJ>M	WYJ>			hif	infc	NA		NA	verb	M			L	rrrrrr	nnnnnn	הוציאם
-1949458	4Q14	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוציא
-1949936	4Q14	Exodus	15	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
-1949840	4Q14	Exodus	14	11	JY>[	HWYJ>NW	WYJ>			hif	infc	NA		NA	verb	NW			L	rrrrrrr	nnnnnnn	הוציאנו
+1946114	4Q13	Exodus	2	9	HLK[	HLK	HLK			hif	impv	sg	f	NA	verb					nnn	nnn	הלך
+1946121	4Q13	Exodus	2	9	JNQ[	HJNJQHW	JNJQ			hif	impv	sg	f	NA	verb	HW			W	rrrrrrr	nnnnnnn	היניקהו
+1946135	4Q13	Exodus	2	9	JNQ[	TJNJQHW	JNJQ			hif	wayq	sg	f	p3	verb	HW			W	rrrrrrr	nnnnnnn	תיניקהו
+1946733	4Q13	Exodus	4	6	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
+1946337	4Q13	Exodus	2	17	JC<[	JCJ<N	CJ<			hif	wayq	sg	m	p3	verb	N			W	rrrnn	nnnnn	ישיען
+1945933	4Q13	Exodus	1	20	JVB[	JVB	VB			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יטב
 1949324	4Q14	Exodus	12	39	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb					nnnnnn	nnnnnn	הוציאו
 1948388	4Q14	Exodus	9	34	JSP[	JSP	SP			hif	wayq	sg	m	p3	verb				W	rrn	nnn	יסף
 1948021	4Q14	Exodus	9	18	JSD[	HWSDH	HWSD			nif	infc	NA		NA	verb	H				rrrrr	nnnnn	הוסדה
-1950478	4Q14	Exodus	18	1	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 1949911	4Q14	Exodus	15	9	JRC[	TWRJCMW	WRJC			hif	impf	sg	f	p3	verb	MW				rrrrrrr	nnnnnnn	תורישמו
-1947700	4Q14	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
 1948819	4Q14	Exodus	10	15	JTR[	HWTJR	WTJR			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הותיר
 1948824	4Q14	Exodus	10	15	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					nnnn	nnnn	נותר
+1947700	4Q14	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
+1948272	4Q14	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תספון
+1949396	4Q14	Exodus	12	42	JY>[	HWYJ>M	WYJ>			hif	infc	NA		NA	verb	M			L	rrrrrr	nnnnnn	הוציאם
+1949005	4Q14	Exodus	10	24	JYG[	JYG	JYG			hof	impf	sg	m	p3	verb					rrr	nnn	יצג
+1949458	4Q14	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוציא
+1950478	4Q14	Exodus	18	1	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+1949936	4Q14	Exodus	15	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
+1949840	4Q14	Exodus	14	11	JY>[	HWYJ>NW	WYJ>			hif	infc	NA		NA	verb	NW			L	rrrrrrr	nnnnnnn	הוציאנו
 1950862	4Q15	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	הוציאנו
 1950920	4Q16	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 1951992	4Q18	Exodus	14	21	HLK[	JWLK	WLK			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יולך
 1952191	4Q19	Exodus	6	6	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
 1952143	4Q19	Exodus	6	3	JD<[	NWD<TJ	NWD<TJ			nif	perf	sg		p1	verb					rrrrnn	nnnnnn	נודעתי
-1954274	4Q22	Exodus	10	24	JYG[	JYG	JYG			hof	impf	sg	m	p3	verb					nnn	nnn	יצג
+1952509	4Q22	Exodus	7	4	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrnnn	nnnnnn	הוצאתי
+1958049	4Q22	Exodus	25	22	J<D[	NW<DTJ	NW<DTJ			nif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	נועדתי
+1954888	4Q22	Exodus	12	39	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	הוציאו
+1961121	4Q22	Exodus	34	10	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnr	nnnn	נורא
+1955399	4Q22	Exodus	16	6	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+1954920	4Q22	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnrrr	nnnnn	הוציא
+1955254	4Q22	Exodus	15	25	JRH[	JWRHW	WR			hif	wayq	sg	m	p3	verb	HW			W	rrrrr	nnnnn	יורהו
+1952536	4Q22	Exodus	7	5	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוצאתי
+1960524	4Q22	Exodus	32	11	JY>[	HWY>T	WY>			hif	perf	sg	m	p2	verb					nnnrr	nnnnn	הוצאת
+1953700	4Q22	Exodus	9	19	JSD[	HWSDH	HWSD			nif	infc	NA		NA	verb	H				rrrrr	nnnnn	הוסדה
+1955554	4Q22	Exodus	16	35	JCB[	NWCBT	NWCBT			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נושבת
+1952368	4Q22	Exodus	6	26	JY>[	HWYJ>W	WYJ>			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הוציאו
+1956284	4Q22	Exodus	18	16	JD<[	HWD<TJ	WD<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הודעתי
+1956361	4Q22	Exodus	18	20	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb				W	rrrrr	nnnnn	הודעת
+1953057	4Q22	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
+1960543	4Q22	Exodus	32	12	JY>[	HWYJ>M	WYJ>			hif	perf	sg	m	p3	verb	M				rrrrrr	nnnnnn	הוציאם
+1954627	4Q22	Exodus	12	17	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוצאתי
 1955493	4Q22	Exodus	16	32	JY>[	HWYJ>J	WYJ>			hif	infc	NA		NA	verb	J			B	rrrrrr	nnnnnn	הוציאי
+1956508	4Q22	Exodus	18	25	JSP[	JSP	SP			hif	impf	sg	m	p3	verb					rrr	nnn	יסף
 1956797	4Q22	Exodus	19	13	JRH=[	JJRH	JJRH			nif	impf	sg	m	p3	verb					rrrr	nnnn	יירה
 1961309	4Q22	Exodus	34	24	JRC[	>WRJC	WRJC			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוריש
 1956882	4Q22	Exodus	19	17	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
 1959674	4Q22	Exodus	29	34	JTR[	JWTR	JWTR			nif	impf	sg	m	p3	verb					rrrn	nnnn	יותר
 1959690	4Q22	Exodus	29	34	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	rrrr	nnnn	נותר
-1960524	4Q22	Exodus	32	11	JY>[	HWY>T	WY>			hif	perf	sg	m	p2	verb					nnnrr	nnnnn	הוצאת
-1958930	4Q22	Exodus	28	10	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נותרים
-1960076	4Q22	Exodus	30	36	J<D[	>W<D	>W<D			nif	impf	sg		p1	verb					rrrr	nnnn	אועד
-1952368	4Q22	Exodus	6	26	JY>[	HWYJ>W	WYJ>			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הוציאו
-1956284	4Q22	Exodus	18	16	JD<[	HWD<TJ	WD<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הודעתי
-1956361	4Q22	Exodus	18	20	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb				W	rrrrr	nnnnn	הודעת
-1960872	4Q22	Exodus	33	13	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrnnnn	nnnnnnn	הודיעני
-1952509	4Q22	Exodus	7	4	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrnnn	nnnnnn	הוצאתי
-1960543	4Q22	Exodus	32	12	JY>[	HWYJ>M	WYJ>			hif	perf	sg	m	p3	verb	M				rrrrrr	nnnnnn	הוציאם
-1954888	4Q22	Exodus	12	39	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	הוציאו
-1956508	4Q22	Exodus	18	25	JSP[	JSP	SP			hif	impf	sg	m	p3	verb					rrr	nnn	יסף
 1952386	4Q22	Exodus	6	27	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוציא
+1958930	4Q22	Exodus	28	10	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נותרים
+1954274	4Q22	Exodus	10	24	JYG[	JYG	JYG			hof	impf	sg	m	p3	verb					nnn	nnn	יצג
 1955964	4Q22	Exodus	18	1	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
-1952536	4Q22	Exodus	7	5	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוצאתי
-1961121	4Q22	Exodus	34	10	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnr	nnnn	נורא
-1955399	4Q22	Exodus	16	6	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
-1954920	4Q22	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnrrr	nnnnn	הוציא
-1955254	4Q22	Exodus	15	25	JRH[	JWRHW	WR			hif	wayq	sg	m	p3	verb	HW			W	rrrrr	nnnnn	יורהו
-1953700	4Q22	Exodus	9	19	JSD[	HWSDH	HWSD			nif	infc	NA		NA	verb	H				rrrrr	nnnnn	הוסדה
-1955554	4Q22	Exodus	16	35	JCB[	NWCBT	NWCBT			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נושבת
-1958049	4Q22	Exodus	25	22	J<D[	NW<DTJ	NW<DTJ			nif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	נועדתי
-1953057	4Q22	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
-1954627	4Q22	Exodus	12	17	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוצאתי
+1960076	4Q22	Exodus	30	36	J<D[	>W<D	>W<D			nif	impf	sg		p1	verb					rrrr	nnnn	אועד
+1960872	4Q22	Exodus	33	13	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrnnnn	nnnnnnn	הודיעני
+1966379	4Q23	Numbers	33	52	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrnn	nnnnnn	הורשתם
+1964058	4Q23	Numbers	4	5	JRD[	HWRDW	WRD			hif	perf	pl		p3	verb				W	rrrrr	nnnnn	הורדו
+1964984	4Q23	Numbers	10	17	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb				W	nnnn	nnnn	הורד
+1962887	4Q23	Leviticus	19	6	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נותר
 1963354	4Q23	Leviticus	27	18	JTR[	NWTRT	NWTR			nif	ptca	pl	f	NA	verb		T		H	rrrrr	nnnnn	נותרת
 1964520	4Q23	Numbers	5	7	JSP[	JSP	SP			hif	impf	sg	m	p3	verb					rrr	nnn	יסף
 1961994	4Q23	Leviticus	14	45	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הוציאו
@@ -433,76 +437,72 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1961782	4Q23	Leviticus	14	29	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נותר
 1962685	4Q23	Leviticus	16	27	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוציא
 1966120	4Q23	Numbers	32	39	JRC[	JWRC	WRC			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יורש
-1964058	4Q23	Numbers	4	5	JRD[	HWRDW	WRD			hif	perf	pl		p3	verb				W	rrrrr	nnnnn	הורדו
-1966379	4Q23	Numbers	33	52	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrnn	nnnnnn	הורשתם
-1964984	4Q23	Numbers	10	17	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb				W	nnnn	nnnn	הורד
-1962887	4Q23	Leviticus	19	6	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נותר
+1968017	4Q24	Leviticus	22	27	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					rrrr	nnnn	יולד
 1969057	4Q24	Leviticus	25	45	JLD[	HWLJDW	WLJD			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	הולידו
 1967077	4Q24	Leviticus	2	10	JTR[	NWTRT	NWTRT			nif	ptca	sg	f	NA	verb				WH	nnrrr	nnnnn	נותרת
-1968830	4Q24	Leviticus	24	14	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb					rrrr	nnnn	הוצא
 1968100	4Q24	Leviticus	22	33	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
+1968830	4Q24	Leviticus	24	14	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb					rrrr	nnnn	הוצא
 1966965	4Q24	Leviticus	2	3	JTR[	NWTRT	NWTRT			nif	ptca	sg	f	NA	verb				WH	rrrrr	nnnnn	נותרת
 1968069	4Q24	Leviticus	22	30	JTR[	TWTJRW	WTJR			hif	impf	pl	m	p2	verb					nnnnnr	nnnnnn	תותירו
 1968974	4Q24	Leviticus	24	23	JY>[	JWYJ>W	WYJ>W			hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn	יוציאו
-1968017	4Q24	Leviticus	22	27	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					rrrr	nnnn	יולד
 1969698	4Q25	Leviticus	4	28	JD<[	HWD<	HWD<			hof	perf	sg	m	p3	verb					rrrn	nnnn	הודע
 1969571	4Q25	Leviticus	4	14	JD<[	NWD<H	NWD<H			nif	perf	sg	f	p3	verb				W	rrrnn	nnnnn	נודעה
 1969876	4Q26	Leviticus	14	29	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נותר
 1970556	4Q26a	Leviticus	19	36	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוצאתי
 1970752	4Q26a	Leviticus	21	10	JYQ[	JWYQ	JWYQ			hof	impf	sg	m	p3	verb					nnnn	nnnn	יוצק
-1975024	4Q27	Numbers	26	65	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					rrrn	nnnn	נותר
-1976763	4Q27	Numbers	32	21	JRC[	HWRJCW	WRJC			hif	infc	NA		NA	verb	W				rrrrrr	nnnnnn	הורישו
-1974884	4Q27	Numbers	26	29	JLD[	HWLJD	WLJD			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוליד
-1975106	4Q27	Numbers	27	3	J<D[	NW<DJM	NW<D			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נועדים
-1972813	4Q27	Numbers	20	16	JY>[	JWYJ>NW	WYJ>			hif	wayq	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn	יוציאנו
-1972101	4Q27	Numbers	16	5	JD<[	JD<	D<			hif	impf	sg	m	p3	verb				W	rrr	nnn	ידע
-1977056	4Q27	Numbers	32	39	JRC[	JWRJCW	WRJCW			hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn	יורישו
-1972616	4Q27	Numbers	19	3	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הוציאו
-1974017	4Q27	Numbers	23	22	JY>[	MWYJ>M	WYJ>			hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn	מוציאם
-1972788	4Q27	Numbers	20	13	JSP[	TWSP	WSP			hif	impf	sg	m	p2	verb					nrrr	nnnn	תוסף
+1977334	4Q27	Numbers	33	52	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורשתם
+1973493	4Q27	Numbers	22	15	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוסף
 1972224	4Q27	Numbers	16	11	J<D[	NW<DJM	NW<D			nif	ptca	pl	m	NA	verb		JM		H	nrrrrr	nnnnnn	נועדים
 1973593	4Q27	Numbers	22	19	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					rrrr	nnnn	יוסף
-1977334	4Q27	Numbers	33	52	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורשתם
 1974269	4Q27	Numbers	25	4	JQ<[	HWQ<	WQ<			hif	impv	sg	m	NA	verb				W	rnnn	nnnn	הוקע
-1973493	4Q27	Numbers	22	15	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוסף
+1975024	4Q27	Numbers	26	65	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					rrrn	nnnn	נותר
+1974884	4Q27	Numbers	26	29	JLD[	HWLJD	WLJD			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוליד
+1976763	4Q27	Numbers	32	21	JRC[	HWRJCW	WRJC			hif	infc	NA		NA	verb	W				rrrrrr	nnnnnn	הורישו
+1972616	4Q27	Numbers	19	3	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הוציאו
+1975106	4Q27	Numbers	27	3	J<D[	NW<DJM	NW<D			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נועדים
+1972101	4Q27	Numbers	16	5	JD<[	JD<	D<			hif	impf	sg	m	p3	verb				W	rrr	nnn	ידע
+1972813	4Q27	Numbers	20	16	JY>[	JWYJ>NW	WYJ>			hif	wayq	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn	יוציאנו
+1977056	4Q27	Numbers	32	39	JRC[	JWRJCW	WRJCW			hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn	יורישו
+1974017	4Q27	Numbers	23	22	JY>[	MWYJ>M	WYJ>			hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn	מוציאם
+1972788	4Q27	Numbers	20	13	JSP[	TWSP	WSP			hif	impf	sg	m	p2	verb					nrrr	nnnn	תוסף
 1978526	4Q28	Deuteronomy	24	8	JRH[	JWRW	WR			hif	impf	pl	m	p3	verb					rrrr	nnnn	יורו
-1978660	4Q29	Deuteronomy	30	5	JVB[	HJVBK	JVB			hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn	היטבך
-1978729	4Q29	Deuteronomy	30	9	JTR[	HWTJRK	WTJR			hif	perf	sg	m	p3	verb	K			W	rrrrrr	nnnnnn	הותירך
-1978553	4Q29	Deuteronomy	29	24	JY>[	HWYJ>W	WYJ>			hif	infc	NA		NA	verb	W			B	rrrrrr	nnnnnn	הוציאו
 1979343	4Q29	Deuteronomy	33	29	JC<[	NWC<	NWC<			nif	perf	sg	m	p3	verb					rrrr	nnnn	נושע
-1980720	4Q30	Deuteronomy	17	4	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					nnrr	nnnn	היטב
-1981263	4Q30	Deuteronomy	28	11	JTR[	HWTRK	WTR			hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn	הותרך
-1980246	4Q30	Deuteronomy	13	12	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יוסיפו
-1980736	4Q30	Deuteronomy	17	5	JY>[	HWY>T	WY>			hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn	הוצאת
-1979633	4Q30	Deuteronomy	8	2	HLK[	HWLJKK	HWLJK			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוליכך
-1981462	4Q30	Deuteronomy	28	29	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
-1979674	4Q30	Deuteronomy	8	3	JD<[	HWDJ<K	WDJ<			hif	infc	NA		NA	verb	K				nnnnnn	nnnnnn	הודיעך
+1978729	4Q29	Deuteronomy	30	9	JTR[	HWTJRK	WTJR			hif	perf	sg	m	p3	verb	K			W	rrrrrr	nnnnnn	הותירך
+1978660	4Q29	Deuteronomy	30	5	JVB[	HJVBK	JVB			hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn	היטבך
+1978553	4Q29	Deuteronomy	29	24	JY>[	HWYJ>W	WYJ>			hif	infc	NA		NA	verb	W			B	rrrrrr	nnnnnn	הוציאו
 1980432	4Q30	Deuteronomy	15	19	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					rrrr	nnnn	יולד
-1979426	4Q30	Deuteronomy	3	26	JSP[	TWSP	WSP			hif	impf	sg	m	p2	verb					rrrr	nnnn	תוסף
 1979819	4Q30	Deuteronomy	9	29	JY>[	HWY>T	WY>			hif	perf	sg	m	p2	verb					rrrrr	nnnnn	הוצאת
+1979674	4Q30	Deuteronomy	8	3	JD<[	HWDJ<K	WDJ<			hif	infc	NA		NA	verb	K				nnnnnn	nnnnnn	הודיעך
+1980246	4Q30	Deuteronomy	13	12	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יוסיפו
+1981263	4Q30	Deuteronomy	28	11	JTR[	HWTRK	WTR			hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn	הותרך
+1979426	4Q30	Deuteronomy	3	26	JSP[	TWSP	WSP			hif	impf	sg	m	p2	verb					rrrr	nnnn	תוסף
+1980736	4Q30	Deuteronomy	17	5	JY>[	HWY>T	WY>			hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn	הוצאת
+1981462	4Q30	Deuteronomy	28	29	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
+1979633	4Q30	Deuteronomy	8	2	HLK[	HWLJKK	HWLJK			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוליכך
 1980847	4Q30	Deuteronomy	17	16	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn	תספון
 1980230	4Q30	Deuteronomy	13	11	JY>[	MWYJ>K	WYJ>			hif	ptca	sg	m	NA	verb	K			H	rrrrrr	nnnnnn	מוציאך
+1980720	4Q30	Deuteronomy	17	4	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					nnrr	nnnn	היטב
 1982389	4Q31	Deuteronomy	3	26	JSP[	TSP	SP			hif	impf	sg	m	p2	verb					nnn	nnn	תסף
-1982736	4Q32	Deuteronomy	8	2	HLK[	HLJKK	HLJK			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הליכך
-1982598	4Q32	Deuteronomy	7	21	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	rrnn	nnnn	נורא
-1982674	4Q32	Deuteronomy	7	25	JQC[	TWQC	TWQC			nif	impf	sg	m	p2	verb					rrrr	nnnn	תוקש
 1982913	4Q32	Deuteronomy	8	15	HLK[	MWLJKK	WLJK			hif	ptca	sg	m	NA	verb	K			H	rrrrrr	nnnnnn	מוליכך
 1982920	4Q32	Deuteronomy	8	15	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
 1982931	4Q32	Deuteronomy	8	15	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
 1982777	4Q32	Deuteronomy	8	3	JD<[	HWD<K	WD<			hif	infc	NA		NA	verb	K				rrrrr	nnnnn	הודעך
 1982954	4Q32	Deuteronomy	8	16	JVB[	HJVBK	JVB			hif	infc	NA		NA	verb	K			L	nrrrr	nnnnn	היטבך
-1983732	4Q33	Deuteronomy	19	18	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					rrrr	nnnn	היטב
-1984909	4Q33	Deuteronomy	27	8	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					rrrr	nnnn	היטב
-1983388	4Q33	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>			hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn	מוציאך
-1983886	4Q33	Deuteronomy	20	4	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיע
-1984213	4Q33	Deuteronomy	22	14	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb				W	nrrrr	nnnnn	הוציא
-1983134	4Q33	Deuteronomy	7	25	JQC[	TWQC	TWQC			nif	impf	sg	m	p2	verb					rrrr	nnnn	תוקש
-1984010	4Q33	Deuteronomy	21	4	JRD[	HRJDW	RJD			hif	perf	pl		p3	verb				W	nnnnn	nnnnn	הרידו
+1982598	4Q32	Deuteronomy	7	21	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	rrnn	nnnn	נורא
+1982674	4Q32	Deuteronomy	7	25	JQC[	TWQC	TWQC			nif	impf	sg	m	p2	verb					rrrr	nnnn	תוקש
+1982736	4Q32	Deuteronomy	8	2	HLK[	HLJKK	HLJK			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הליכך
 1983186	4Q33	Deuteronomy	8	3	JD<[	HWD<K	WD<			hif	infc	NA		NA	verb	K				rrrrr	nnnnn	הודעך
 1984242	4Q33	Deuteronomy	22	15	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הוציאו
+1983732	4Q33	Deuteronomy	19	18	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					rrrr	nnnn	היטב
+1984010	4Q33	Deuteronomy	21	4	JRD[	HRJDW	RJD			hif	perf	pl		p3	verb				W	nnnnn	nnnnn	הרידו
+1983886	4Q33	Deuteronomy	20	4	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיע
+1984909	4Q33	Deuteronomy	27	8	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					rrrr	nnnn	היטב
+1983134	4Q33	Deuteronomy	7	25	JQC[	TWQC	TWQC			nif	impf	sg	m	p2	verb					rrrr	nnnn	תוקש
 1983769	4Q33	Deuteronomy	19	20	JSP[	JSPW	SP			hif	impf	pl	m	p3	verb					rrrr	nnnn	יספו
 1982995	4Q33	Deuteronomy	4	25	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוליד
 1983001	4Q33	Deuteronomy	4	25	JCN[	NWCNTM	NWCNT			nif	perf	pl	m	p2	verb		M		W	rrrrrn	nnnnnn	נושנתם
+1983388	4Q33	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>			hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn	מוציאך
+1984213	4Q33	Deuteronomy	22	14	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb				W	nrrrr	nnnnn	הוציא
 1985267	4Q34	Deuteronomy	25	3	JSP[	JSJP	SJP			hif	impf	sg	m	p3	verb					rrrr	nnnn	יסיף
 1985269	4Q34	Deuteronomy	25	3	JSP[	JSJP	SJP			hif	impf	sg	m	p3	verb					rrrr	nnnn	יסיף
 1984996	4Q34	Deuteronomy	9	12	JY>[	HWY>T	WY>			hif	perf	sg	m	p2	verb					rrrrr	nnnnn	הוצאת
@@ -511,14 +511,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1986981	4Q35	Deuteronomy	33	19	JDH[	HDW	D			hif	impv	pl	m	NA	verb					nnn	nnn	הדו
 1985774	4Q35	Deuteronomy	1	5	J>L[	HW>JL	W>JL			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הואיל
 1987600	4Q36	Deuteronomy	30	5	JVB[	HJVBK	JVB			hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn	היטבך
-1988907	4Q37	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
-1987872	4Q37	Deuteronomy	5	15	JY>[	JY>K	Y>			hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn	יצאך
-1988660	4Q37	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
-1988111	4Q37	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
 1988751	4Q37	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
-1988031	4Q37	Deuteronomy	5	25	JSP[	MWSJPJM	WSJP			hif	ptca	pl	m	NA	verb		JM			rrnnnnn	nnnnnnn	מוסיפים
-1988813	4Q37	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnrrr	nnnnn	הוציא
 1987720	4Q37	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוצאתיך
+1987872	4Q37	Deuteronomy	5	15	JY>[	JY>K	Y>			hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn	יצאך
+1988813	4Q37	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnrrr	nnnnn	הוציא
+1988111	4Q37	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
+1988031	4Q37	Deuteronomy	5	25	JSP[	MWSJPJM	WSJP			hif	ptca	pl	m	NA	verb		JM			rrnnnnn	nnnnnnn	מוסיפים
+1988907	4Q37	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
+1988660	4Q37	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
 1989066	4Q38	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rnnnnn	nnnnnn	היטיבו
 1990377	4Q38c	Deuteronomy	14	28	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
 1990574	4Q39	Deuteronomy	28	68	JSP[	TSJP	SJP			hif	impf	sg	m	p2	verb					rrrr	nnnn	תסיף
@@ -526,9 +526,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1990610	4Q39	Deuteronomy	29	4	HLK[	>WLK	WLK			hif	wayq	sg		p1	verb				W	nrrn	nnnn	אולך
 1991010	4Q40	Deuteronomy	7	21	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	rrrr	nnnn	נורא
 1990962	4Q40	Deuteronomy	7	19	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
+1991257	4Q41	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	הוצאתיך
 1991426	4Q41	Deuteronomy	5	15	JY>[	JYJ>K	YJ>			hif	wayq	sg	m	p3	verb	K			W	nnnnn	nnnnn	יציאך
 1991741	4Q41	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
-1991257	4Q41	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	הוצאתיך
 1992333	4Q42	Deuteronomy	28	36	HLK[	JWLK	WLK			hif	impf	sg	m	p3	verb					rrrr	nnnn	יולך
 1992668	4Q42	Deuteronomy	29	24	JY>[	HWYJ>W	WYJ>			hif	infc	NA		NA	verb	W			B	rrrrrr	nnnnnn	הוציאו
 1992534	4Q42	Deuteronomy	28	58	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
@@ -537,311 +537,311 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1993171	4Q45	Deuteronomy	7	17	JRC[	HWRJCM	WRJC			hif	infc	NA		NA	verb	M			L	nnnnnn	nnnnnn	הורישם
 1993261	4Q45	Deuteronomy	7	21	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	rrrn	nnnn	נורא
 1993213	4Q45	Deuteronomy	7	19	JY>[	HWYJ>K	WYJ>			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוציאך
+1995432	4Q47	Joshua	8	8	JYT[	TYJTW	YJT			hif	impf	pl	m	p2	verb					rrrrr	nnnnn	תציתו
 1995414	4Q47	Joshua	8	7	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורשתם
 1995170	4Q47	Joshua	7	12	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוסיף
-1995432	4Q47	Joshua	8	8	JYT[	TYJTW	YJT			hif	impf	pl	m	p2	verb					rrrrr	nnnnn	תציתו
-1996144	4Q48	Joshua	17	12	JRC[	HWRJC	WRJC			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוריש
-1996151	4Q48	Joshua	17	12	J>L[	JW>L	W>L			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יואל
 1996175	4Q48	Joshua	17	13	JRC[	HWRC	WRC			hif	infa	NA		NA	verb				W	rrrr	nnnn	הורש
 1996177	4Q48	Joshua	17	13	JRC[	HWRJCHW	WRJC			hif	perf	sg	m	p3	verb	HW				nnnnnnn	nnnnnnn	הורישהו
 1995980	4Q48	Joshua	17	2	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נותרים
-1996469	4Q50	Judges	19	6	J>L[	HW>L	W>L			hif	impv	sg	m	NA	verb					rrrr	nnnn	הואל
+1996144	4Q48	Joshua	17	12	JRC[	HWRJC	WRJC			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוריש
+1996151	4Q48	Joshua	17	12	J>L[	JW>L	W>L			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יואל
 1996565	4Q50	Judges	21	16	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		L	rrrrrr	nnnnnn	נותרים
-2003739	4Q51	2_Samuel	3	34	JSP[	JSPW	SPW			hif	wayq	pl	m	p3	verb				W	nnnn	nnnn	יספו
+1996469	4Q50	Judges	19	6	J>L[	HW>L	W>L			hif	impv	sg	m	NA	verb					rrrr	nnnn	הואל
 2009919	4Q51	2_Samuel	22	50	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				nnnn	nnnn	אודך
-2006259	4Q51	2_Samuel	12	31	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
-2005215	4Q51	2_Samuel	8	6	JC<[	JC<	C<			hif	wayq	sg	m	p3	verb				W	rrr	nnn	ישע
-1999098	4Q51	1_Samuel	9	16	JC<[	HWCJ<	WCJ<			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	הושיע
 2004813	4Q51	2_Samuel	6	17	JYG[	JYGW	YGW			hif	wayq	pl	m	p3	verb				W	rrrr	nnnn	יצגו
 2009836	4Q51	2_Samuel	22	42	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
-2005061	4Q51	2_Samuel	7	29	J>L[	HW>L	W>L			hif	impv	sg	m	NA	verb					nnnn	nnnn	הואל
-1996974	4Q51	1_Samuel	1	23	JNQ[	TJNQ	JNQ			hif	wayq	sg	f	p3	verb				W	rrrr	nnnn	תינק
-1997216	4Q51	1_Samuel	2	8	JCB[	HWCJB	WCJB			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיב
-2000517	4Q51	1_Samuel	14	47	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יושיע
-2003142	4Q51	2_Samuel	3	2	JLD[	JWLD	JWLD			nif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יולד
-1999018	4Q51	1_Samuel	9	8	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוסף
-2005871	4Q51	2_Samuel	11	20	JRH=[	TJRW	TJRW			nif	impf	pl	m	p2	verb					rrrr	nnnn	תירו
-1997989	4Q51	1_Samuel	3	21	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוסף
-1999472	4Q51	1_Samuel	10	8	JXL[	TWXL	WXL			hif	impf	sg	m	p2	verb					rrrr	nnnn	תוחל
-1999477	4Q51	1_Samuel	10	8	JD<[	HD<TJ	D<			hif	perf	sg		p1	verb				W	nnnrr	nnnnn	הדעתי
-2002559	4Q51	1_Samuel	31	3	JRH=[	MWRJM	WR			hif	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	מורים
-2009130	4Q51	2_Samuel	20	13	JGH=[	HGH	GH			hif	perf	sg	m	p3	verb					rrr	nnn	הגה
-2003769	4Q51	2_Samuel	3	35	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					rrrr	nnnn	יוסף
-2006569	4Q51	2_Samuel	13	18	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
-2005992	4Q51	2_Samuel	12	8	JSP[	>SPH	SP			hif	impf	sg		p1	verb				W	rrrr	nnnn	אספה
-1998315	4Q51	1_Samuel	6	2	JD<[	HWDJ<WNW	WDJ<			hif	impv	pl	m	NA	verb	NW				rrrrrrrr	nnnnnnnn	הודיעונו
-2005498	4Q51	2_Samuel	10	19	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיע
-2001971	4Q51	1_Samuel	27	1	J>C[	NW>C	NW>C			nif	perf	sg	m	p3	verb				W	rrrr	nnnn	נואש
-2006887	4Q51	2_Samuel	13	30	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					rrrr	nnnn	נותר
 2004329	4Q51	2_Samuel	5	13	JLD[	JWLDW	JWLDW			nif	wayq	pl	m	p3	verb				W	rrrrn	nnnnn	יולדו
-2000289	4Q51	1_Samuel	14	24	J>L[	JW>L	W>L			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יואל
-2005172	4Q51	2_Samuel	8	4	JTR[	JWTR	WTR			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יותר
-2009435	4Q51	2_Samuel	21	6	JQ<[	HWQ<NWM	WQ<NW			hif	perf	pl		p1	verb	M			W	rrrrrrr	nnnnnnn	הוקענום
-2009612	4Q51	2_Samuel	22	20	JY>[	JWYJ>NJ	WYJ>			hif	wayq	sg	m	p3	verb	NJ			W	rrrrrrr	nnnnnnn	יוציאני
-1997193	4Q51	1_Samuel	2	6	JRD[	MWRJD	WRJD			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מוריד
-2009695	4Q51	2_Samuel	22	28	JC<[	TWCJ<	WCJ<			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תושיע
+1997199	4Q51	1_Samuel	2	7	JRC[	MWRJC	WRJC			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מוריש
+2000073	4Q51	1_Samuel	12	8	JY>[	JWYJ>W	WYJ>W			hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn	יוציאו
+2005215	4Q51	2_Samuel	8	6	JC<[	JC<	C<			hif	wayq	sg	m	p3	verb				W	rrr	nnn	ישע
+1999749	4Q51	1_Samuel	10	27	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	יושיענו
+1999784	4Q51	1_Samuel	10	27	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrn	nnnnn	מושיע
+1997849	4Q51	1_Samuel	2	36	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נותר
+1998315	4Q51	1_Samuel	6	2	JD<[	HWDJ<WNW	WDJ<			hif	impv	pl	m	NA	verb	NW				rrrrrrrr	nnnnnnnn	הודיעונו
 2004915	4Q51	2_Samuel	7	23	HLK[	HWLJK	HWLJK			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוליך
 2004932	4Q51	2_Samuel	7	23	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT		W	rrrrrr	nnnnnn	נוראות
 2007264	4Q51	2_Samuel	14	19	JMN[	HMJN	MJN			hif	infc	NA		NA	verb				L	rrrr	nnnn	המין
-2009905	4Q51	2_Samuel	22	49	JY>[	MWYJ>J	WYJ>			hif	ptca	sg	m	NA	verb	J			W	rrrrrr	nnnnnn	מוציאי
-2006249	4Q51	2_Samuel	12	30	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+2005871	4Q51	2_Samuel	11	20	JRH=[	TJRW	TJRW			nif	impf	pl	m	p2	verb					rrrr	nnnn	תירו
 2004107	4Q51	2_Samuel	5	2	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
-1997199	4Q51	1_Samuel	2	7	JRC[	MWRJC	WRJC			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מוריש
-2001671	4Q51	1_Samuel	25	26	JC<[	HWC<	WC<			hif	infa	NA		NA	verb				W	rrrr	nnnn	הושע
-2000073	4Q51	1_Samuel	12	8	JY>[	JWYJ>W	WYJ>W			hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn	יוציאו
+2009130	4Q51	2_Samuel	20	13	JGH=[	HGH	GH			hif	perf	sg	m	p3	verb					rrr	nnn	הגה
+2006887	4Q51	2_Samuel	13	30	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					rrrr	nnnn	נותר
+1999098	4Q51	1_Samuel	9	16	JC<[	HWCJ<	WCJ<			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	הושיע
+2006249	4Q51	2_Samuel	12	30	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+2006569	4Q51	2_Samuel	13	18	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
+1996974	4Q51	1_Samuel	1	23	JNQ[	TJNQ	JNQ			hif	wayq	sg	f	p3	verb				W	rrrr	nnnn	תינק
+1997216	4Q51	1_Samuel	2	8	JCB[	HWCJB	WCJB			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיב
+2000517	4Q51	1_Samuel	14	47	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יושיע
 2003297	4Q51	2_Samuel	3	9	JSP[	JSJP	SJP			hif	impf	sg	m	p3	verb					rrrr	nnnn	יסיף
-1999749	4Q51	1_Samuel	10	27	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	יושיענו
-1999784	4Q51	1_Samuel	10	27	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrn	nnnnn	מושיע
+1999018	4Q51	1_Samuel	9	8	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוסף
 2008774	4Q51	2_Samuel	19	14	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					rrrnn	nnnnn	יוסיף
-1997849	4Q51	1_Samuel	2	36	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נותר
+1997989	4Q51	1_Samuel	3	21	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוסף
+1999472	4Q51	1_Samuel	10	8	JXL[	TWXL	WXL			hif	impf	sg	m	p2	verb					rrrr	nnnn	תוחל
+1999477	4Q51	1_Samuel	10	8	JD<[	HD<TJ	D<			hif	perf	sg		p1	verb				W	nnnrr	nnnnn	הדעתי
+2003739	4Q51	2_Samuel	3	34	JSP[	JSPW	SPW			hif	wayq	pl	m	p3	verb				W	nnnn	nnnn	יספו
+2002559	4Q51	1_Samuel	31	3	JRH=[	MWRJM	WR			hif	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	מורים
+2009435	4Q51	2_Samuel	21	6	JQ<[	HWQ<NWM	WQ<NW			hif	perf	pl		p1	verb	M			W	rrrrrrr	nnnnnnn	הוקענום
+2006259	4Q51	2_Samuel	12	31	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+2009695	4Q51	2_Samuel	22	28	JC<[	TWCJ<	WCJ<			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תושיע
+2001671	4Q51	1_Samuel	25	26	JC<[	HWC<	WC<			hif	infa	NA		NA	verb				W	rrrr	nnnn	הושע
+2005172	4Q51	2_Samuel	8	4	JTR[	JWTR	WTR			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יותר
+2005061	4Q51	2_Samuel	7	29	J>L[	HW>L	W>L			hif	impv	sg	m	NA	verb					nnnn	nnnn	הואל
+2001971	4Q51	1_Samuel	27	1	J>C[	NW>C	NW>C			nif	perf	sg	m	p3	verb				W	rrrr	nnnn	נואש
+2009612	4Q51	2_Samuel	22	20	JY>[	JWYJ>NJ	WYJ>			hif	wayq	sg	m	p3	verb	NJ			W	rrrrrrr	nnnnnnn	יוציאני
+2003142	4Q51	2_Samuel	3	2	JLD[	JWLD	JWLD			nif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יולד
+2000289	4Q51	1_Samuel	14	24	J>L[	JW>L	W>L			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יואל
+2009905	4Q51	2_Samuel	22	49	JY>[	MWYJ>J	WYJ>			hif	ptca	sg	m	NA	verb	J			W	rrrrrr	nnnnnn	מוציאי
 1998013	4Q51	1_Samuel	4	3	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn	יושיענו
+2003769	4Q51	2_Samuel	3	35	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					rrrr	nnnn	יוסף
+2005992	4Q51	2_Samuel	12	8	JSP[	>SPH	SP			hif	impf	sg		p1	verb				W	rrrr	nnnn	אספה
+1997193	4Q51	1_Samuel	2	6	JRD[	MWRJD	WRJD			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מוריד
+2005498	4Q51	2_Samuel	10	19	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הושיע
+2011370	4Q52	1_Samuel	19	12	JRD[	TWRD	WRD			hif	wayq	sg	f	p3	verb				W	rrrr	nnnn	תורד
 2011136	4Q52	1_Samuel	16	3	JD<[	>WDJ<K	WDJ<			hif	impf	sg		p1	verb	K				rrrrrr	nnnnnn	אודיעך
 2011704	4Q52	1_Samuel	20	36	JRH=[	MWRH	WRH			hif	ptca	sg	m	NA	verb					rrrr	nnnn	מורה
-2011370	4Q52	1_Samuel	19	12	JRD[	TWRD	WRD			hif	wayq	sg	f	p3	verb				W	rrrr	nnnn	תורד
-2012523	4Q53	1_Samuel	25	31	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				WL	rrrrr	nnnnn	הושיע
-2012528	4Q53	1_Samuel	25	31	JVB[	HJVJB	JVJB			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	היטיב
 2013142	4Q53	2_Samuel	14	30	JYT[	HYJTWH	YJT			hif	impv	pl	m	NA	verb	H			W	nnnnnn	nnnnnn	הציתוה
 2013146	4Q53	2_Samuel	14	30	JYT[	JYJTW	YJTW			hif	wayq	pl	m	p3	verb				W	nnnrr	nnnnn	יציתו
 2013163	4Q53	2_Samuel	14	30	JYT[	HYJTW	YJT			hif	perf	pl		p3	verb					rrrrr	nnnnn	הציתו
 2012611	4Q53	2_Samuel	14	10	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוסיף
-2013451	4Q53	2_Samuel	15	8	JCB[	HCB	CB			hif	infa	NA		NA	verb					rrr	nnn	השב
 2013066	4Q53	2_Samuel	14	27	JLD[	JWLDW	JWLDW			nif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn	יולדו
 2013185	4Q53	2_Samuel	14	31	JYT[	HYJTH	YJT			hif	perf	sg	m	p3	verb	H				nnnnn	nnnnn	הציתה
 2012858	4Q53	2_Samuel	14	19	JMN[	HJMJN	JMJN			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הימין
-2013872	4Q54	1_Kings	7	33	JYQ[	MWYQ	MWYQ			hof	ptca	sg	m	NA	verb					rrrr	nnnn	מוצק
+2013451	4Q53	2_Samuel	15	8	JCB[	HCB	CB			hif	infa	NA		NA	verb					rrr	nnn	השב
+2012523	4Q53	1_Samuel	25	31	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				WL	rrrrr	nnnnn	הושיע
+2012528	4Q53	1_Samuel	25	31	JVB[	HJVJB	JVJB			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	היטיב
 2014212	4Q54	1_Kings	8	5	J<D[	NW<DJM	NW<D			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נועדים
+2013872	4Q54	1_Kings	7	33	JYQ[	MWYQ	MWYQ			hof	ptca	sg	m	NA	verb					rrrr	nnnn	מוצק
 2014938	4Q55	Isaiah	13	12	JQR[	>WQJR	WQJR			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוקיר
-2015898	4Q55	Isaiah	23	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
-2015330	4Q55	Isaiah	21	1	JR>[	NWR>H	NWR>H			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נוראה
+2015826	4Q55	Isaiah	23	1	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
 2014731	4Q55	Isaiah	12	4	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2014737	4Q55	Isaiah	12	4	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הודיעו
-2015910	4Q55	Isaiah	23	7	JBL[	JBLWH	BL			hif	impf	pl	m	p3	verb	H				rrrrr	nnnnn	יבלוה
-2014751	4Q55	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					nnnnn	nnnnn	מודעת
-2015973	4Q55	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn	תוסיפי
+2015898	4Q55	Isaiah	23	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
+2015330	4Q55	Isaiah	21	1	JR>[	NWR>H	NWR>H			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נוראה
 2014838	4Q55	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
-2015826	4Q55	Isaiah	23	1	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
-2019669	4Q56	Isaiah	49	23	JNQ[	MJNJQTJK	JNJQ			hif	ptca	pl	f	NA	verb	K	TJ			nnrrrrrr	nnnnnnnn	מיניקתיך
-2019382	4Q56	Isaiah	44	27	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוביש
-2019430	4Q56	Isaiah	45	21	J<Y[	JW<YW	JW<YW			nif	impf	pl	m	p3	verb					nnnnn	nnnnn	יועצו
-2019453	4Q56	Isaiah	45	21	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מושיע
+2014751	4Q55	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					nnnnn	nnnnn	מודעת
+2015910	4Q55	Isaiah	23	7	JBL[	JBLWH	BL			hif	impf	pl	m	p3	verb	H				rrrrr	nnnnn	יבלוה
+2015973	4Q55	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn	תוסיפי
+2019204	4Q56	Isaiah	43	14	JRD[	HWRDTJ	WRD			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הורדתי
 2016983	4Q56	Isaiah	13	12	JQR[	>WQJR	WQJR			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוקיר
-2019163	4Q56	Isaiah	43	12	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הושעתי
 2019401	4Q56	Isaiah	44	28	JSD[	TWSD	TWSD			nif	impf	sg	f	p3	verb					rrrr	nnnn	תוסד
-2017675	4Q56	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnrr	nnnnn	מושיע
-2019460	4Q56	Isaiah	45	22	JC<[	HWC<W	HWC<W			nif	impv	pl	m	NA	verb				W	rrrrr	nnnnn	הושעו
+2019424	4Q56	Isaiah	45	20	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יושיע
+2019075	4Q56	Isaiah	42	7	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוציא
+2019669	4Q56	Isaiah	49	23	JNQ[	MJNJQTJK	JNJQ			hif	ptca	pl	f	NA	verb	K	TJ			nnrrrrrr	nnnnnnnn	מיניקתיך
+2018893	4Q56	Isaiah	40	26	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
 2017274	4Q56	Isaiah	18	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל
 2017285	4Q56	Isaiah	18	7	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נורא
+2019005	4Q56	Isaiah	42	3	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוציא
 2018725	4Q56	Isaiah	39	6	JTR[	JWTR	JWTR			nif	impf	sg	m	p3	verb					rrrr	nnnn	יותר
+2019430	4Q56	Isaiah	45	21	J<Y[	JW<YW	JW<YW			nif	impf	pl	m	p3	verb					nnnnn	nnnnn	יועצו
+2019453	4Q56	Isaiah	45	21	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מושיע
+2019163	4Q56	Isaiah	43	12	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הושעתי
+2018737	4Q56	Isaiah	39	7	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
+2017675	4Q56	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnrr	nnnnn	מושיע
+2019365	4Q56	Isaiah	44	26	JCB[	TWCB	TWCB			hof	impf	sg	f	p3	verb					rrrr	nnnn	תושב
+2019460	4Q56	Isaiah	45	22	JC<[	HWC<W	HWC<W			nif	impv	pl	m	NA	verb				W	rrrrr	nnnnn	הושעו
+2016885	4Q56	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
 2016148	4Q56	Isaiah	2	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	הוכיח
 2017682	4Q56	Isaiah	19	21	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	rrrr	nnnn	נודע
 2017513	4Q56	Isaiah	19	13	J>L=[	NW>LW	NW>LW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נואלו
-2018737	4Q56	Isaiah	39	7	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוליד
-2019204	4Q56	Isaiah	43	14	JRD[	HWRDTJ	WRD			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הורדתי
-2019365	4Q56	Isaiah	44	26	JCB[	TWCB	TWCB			hof	impf	sg	f	p3	verb					rrrr	nnnn	תושב
-2016885	4Q56	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
-2019005	4Q56	Isaiah	42	3	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוציא
-2019075	4Q56	Isaiah	42	7	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוציא
-2019424	4Q56	Isaiah	45	20	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יושיע
-2018893	4Q56	Isaiah	40	26	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
 2016089	4Q56	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תוסיפו
-2021545	4Q57	Isaiah	25	9	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn	יושיענו
-2021498	4Q57	Isaiah	25	1	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					rrrn	nnnn	אודה
-2022177	4Q57	Isaiah	33	19	J<Z[	NW<Z	NW<Z			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נועז
-2020516	4Q57	Isaiah	11	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	הוכיח
-2021771	4Q57	Isaiah	28	9	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
-2021865	4Q57	Isaiah	28	13	JQC[	NWQCW	NWQCW			nif	perf	pl		p3	verb				W	rrrrr	nnnnn	נוקשו
-2022026	4Q57	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תושעון
-2023172	4Q57	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					nnrrrr	nnnnnn	יושיבו
-2020734	4Q57	Isaiah	12	1	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
-2021049	4Q57	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
-2021128	4Q57	Isaiah	23	16	JVB[	HJVJBJ	JVJB			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	היטיבי
-2023367	4Q57	Isaiah	54	16	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מוציא
-2021429	4Q57	Isaiah	24	20	JSP[	TSJP	SJP			hif	impf	sg	f	p3	verb					rrrr	nnnn	תסיף
-2023136	4Q57	Isaiah	53	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					rrrr	nnnn	יובל
-2022708	4Q57	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הועיל
+2019382	4Q56	Isaiah	44	27	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוביש
 2022244	4Q57	Isaiah	33	22	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	יושיענו
 2023380	4Q57	Isaiah	54	17	JYR[	JWYR	JWYR			hof	impf	sg	m	p3	verb					nnnn	nnnn	יוצר
 2020649	4Q57	Isaiah	11	11	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוסיף
-2024628	4Q58	Isaiah	52	5	JLL[	JHJLJLW	HJLJL			hif	impf	pl	m	p3	verb					rrrrrrr	nnnnnnn	יהילילו
-2025050	4Q58	Isaiah	57	12	J<L[	JW<LWK	W<L			hif	impf	pl	m	p3	verb	K				nnnnnn	nnnnnn	יועלוך
-2024834	4Q58	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יושיבו
-2024268	4Q58	Isaiah	48	20	JY>[	HWYJ>WH	WYJ>			hif	impv	pl	m	NA	verb	H				nnnnnnn	nnnnnnn	הוציאוה
-2025294	4Q58	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					rrrr	nnnn	יציע
+2022177	4Q57	Isaiah	33	19	J<Z[	NW<Z	NW<Z			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נועז
+2021771	4Q57	Isaiah	28	9	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
+2020516	4Q57	Isaiah	11	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	הוכיח
+2021865	4Q57	Isaiah	28	13	JQC[	NWQCW	NWQCW			nif	perf	pl		p3	verb				W	rrrrr	nnnnn	נוקשו
+2023136	4Q57	Isaiah	53	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					rrrr	nnnn	יובל
+2022708	4Q57	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הועיל
+2023172	4Q57	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					nnrrrr	nnnnnn	יושיבו
+2022026	4Q57	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תושעון
+2020734	4Q57	Isaiah	12	1	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
+2021545	4Q57	Isaiah	25	9	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn	יושיענו
+2023367	4Q57	Isaiah	54	16	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				W	nnnnn	nnnnn	מוציא
+2021498	4Q57	Isaiah	25	1	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					rrrn	nnnn	אודה
+2021429	4Q57	Isaiah	24	20	JSP[	TSJP	SJP			hif	impf	sg	f	p3	verb					rrrr	nnnn	תסיף
+2021049	4Q57	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
+2021128	4Q57	Isaiah	23	16	JVB[	HJVJBJ	JVJB			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	היטיבי
 2024014	4Q58	Isaiah	47	5	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					rrrrrr	nnnnnn	תוסיפי
+2023964	4Q58	Isaiah	47	1	JSP[	TWSPJ	WSP			hif	impf	sg	f	p2	verb					nnnnn	nnnnn	תוספי
+2025005	4Q58	Isaiah	57	10	J>C[	NW>C	NW>C			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נואש
+2025294	4Q58	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					rrrr	nnnn	יציע
+2024628	4Q58	Isaiah	52	5	JLL[	JHJLJLW	HJLJL			hif	impf	pl	m	p3	verb					rrrrrrr	nnnnnnn	יהילילו
+2024268	4Q58	Isaiah	48	20	JY>[	HWYJ>WH	WYJ>			hif	impv	pl	m	NA	verb	H				nnnnnnn	nnnnnnn	הוציאוה
+2025050	4Q58	Isaiah	57	12	J<L[	JW<LWK	W<L			hif	impf	pl	m	p3	verb	K				nnnnnn	nnnnnn	יועלוך
 2024214	4Q58	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הועיל
 2024284	4Q58	Isaiah	48	21	HLK[	HWLJKM	HWLJK			hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הוליכם
-2025005	4Q58	Isaiah	57	10	J>C[	NW>C	NW>C			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נואש
-2023964	4Q58	Isaiah	47	1	JSP[	TWSPJ	WSP			hif	impf	sg	f	p2	verb					nnnnn	nnnnn	תוספי
-2025587	4Q59	Isaiah	8	5	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוסף
+2024834	4Q58	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יושיבו
 2025406	4Q59	Isaiah	2	3	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	nnnnn	nnnnn	יורנו
 2026107	4Q59	Isaiah	12	4	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2026113	4Q59	Isaiah	12	4	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הודיעו
 2025430	4Q59	Isaiah	2	4	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הוכיח
 2026062	4Q59	Isaiah	12	1	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
+2025587	4Q59	Isaiah	8	5	JSP[	JWSP	WSP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוסף
 2026340	4Q59	Isaiah	14	11	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb					rrrr	nnnn	הורד
-2026590	4Q60	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnrrrr	nnnnnn	תוסיפו
-2027961	4Q60	Isaiah	28	16	JSD[	MWSD	MWSD			hof	ptca	sg	m	NA	verb					rrrr	nnnn	מוסד
-2027318	4Q60	Isaiah	8	5	JSP[	JSP	SP			hif	wayq	sg	m	p3	verb				W	rrn	nnn	יסף
-2026916	4Q60	Isaiah	2	3	JRH[	JRNW	R			hif	impf	sg	m	p3	verb	NW			W	rrrr	nnnn	ירנו
 2026655	4Q60	Isaiah	1	18	JKX[	NWKX	NWKX			nif	impf	pl		p1	verb				W	rrnn	nnnn	נוכח
+2027961	4Q60	Isaiah	28	16	JSD[	MWSD	MWSD			hof	ptca	sg	m	NA	verb					rrrr	nnnn	מוסד
+2026916	4Q60	Isaiah	2	3	JRH[	JRNW	R			hif	impf	sg	m	p3	verb	NW			W	rrrr	nnnn	ירנו
 2027930	4Q60	Isaiah	28	9	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
-2028339	4Q61	Isaiah	43	3	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				rrrrrr	nnnnnn	מושיעך
-2028108	4Q61	Isaiah	42	16	HLK[	HWLKTJ	HWLK			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הולכתי
-2028372	4Q61	Isaiah	43	17	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
+2026590	4Q60	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnrrrr	nnnnnn	תוסיפו
+2027318	4Q60	Isaiah	8	5	JSP[	JSP	SP			hif	wayq	sg	m	p3	verb				W	rrn	nnn	יסף
 2028467	4Q61	Isaiah	43	23	JG<[	HWG<TJK	WG<			hif	perf	sg		p1	verb	K				rrnnnnn	nnnnnnn	הוגעתיך
 2028097	4Q61	Isaiah	42	15	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוביש
 2028105	4Q61	Isaiah	42	15	JBC[	>WBJC	WBJC			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוביש
+2028339	4Q61	Isaiah	43	3	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				rrrrrr	nnnnnn	מושיעך
+2028108	4Q61	Isaiah	42	16	HLK[	HWLKTJ	HWLK			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הולכתי
+2028372	4Q61	Isaiah	43	17	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
 2028551	4Q62	Isaiah	42	7	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוציא
 2028792	4Q63	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תוסיפו
 2029406	4Q68	Isaiah	14	31	JLL[	HJLJLJ	JLJL			hif	impv	sg	f	NA	verb					rrrrrr	nnnnnn	הילילי
-2030955	4Q70	Jeremiah	12	13	J<L[	JW<LW	W<L			hif	impf	pl	m	p3	verb					rrrrr	nnnnn	יועלו
-2032103	4Q70	Jeremiah	22	6	JCB[	NWCBH	NWCBH			nif	perf	sg		p3	verb					rrrrr	nnnnn	נושבה
+2030292	4Q70	Jeremiah	8	20	JC<[	NWC<NW	NWC<NW			nif	perf	pl		p1	verb					rrrrrr	nnnnnn	נושענו
 2030664	4Q70	Jeremiah	10	13	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא
 2030433	4Q70	Jeremiah	9	9	JYT[	NYTW	NYTW			nif	perf	pl		p3	verb					rrrr	nnnn	נצתו
 2032014	4Q70	Jeremiah	22	3	JNH[	TNW	N			hif	impf	pl	m	p2	verb					rrr	nnn	תנו
 2030125	4Q70	Jeremiah	8	12	JBC[	HBCW	BC			hif	perf	pl		p3	verb					rrrr	nnnn	הבשו
-2030292	4Q70	Jeremiah	8	20	JC<[	NWC<NW	NWC<NW			nif	perf	pl		p1	verb					rrrrrr	nnnnnn	נושענו
-2031195	4Q70	Jeremiah	13	23	JVB[	HJVJB	JVJB			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	היטיב
 2031525	4Q70	Jeremiah	17	22	JY>[	TWYJ>W	WYJ>			hif	impf	pl	m	p2	verb					rrnnnn	nnnnnn	תוציאו
 2030674	4Q70	Jeremiah	10	14	JBC[	HBJC	BJC			hif	perf	sg	m	p3	verb					rrrr	nnnn	הביש
+2029867	4Q70	Jeremiah	8	1	JY>[	JWYJ>W	WYJ>			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יוציאו
 2031385	4Q70	Jeremiah	17	14	JC<[	HWC<NJ	WC<			hif	impv	sg	m	NA	verb	NJ				nnnnnn	nnnnnn	הושעני
 2031387	4Q70	Jeremiah	17	14	JC<[	>WC<H	>WC<			nif	impf	sg		p1	verb				W	rrrrn	nnnnn	אושעה
 2030066	4Q70	Jeremiah	8	9	JBC[	HBCW	BC			hif	perf	pl		p3	verb					rrrr	nnnn	הבשו
 2030725	4Q70	Jeremiah	11	4	JY>[	HWYJ>J	WYJ>			hif	infc	NA		NA	verb	J				rrrrrr	nnnnnn	הוציאי
-2029867	4Q70	Jeremiah	8	1	JY>[	JWYJ>W	WYJ>			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יוציאו
+2030955	4Q70	Jeremiah	12	13	J<L[	JW<LW	W<L			hif	impf	pl	m	p3	verb					rrrrr	nnnnn	יועלו
+2031195	4Q70	Jeremiah	13	23	JVB[	HJVJB	JVJB			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	היטיב
+2032103	4Q70	Jeremiah	22	6	JCB[	NWCBH	NWCBH			nif	perf	sg		p3	verb					rrrrr	nnnnn	נושבה
 2032689	4Q71	Jeremiah	10	13	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
 2032628	4Q71	Jeremiah	10	5	JVB[	HJVJB	JVJB			hif	infa	NA		NA	verb					rrrrr	nnnnn	היטיב
 2032699	4Q71	Jeremiah	10	14	JBC[	HBJC	BJC			hif	perf	sg	m	p3	verb					rrrr	nnnn	הביש
+2034797	4Q72	Jeremiah	31	12	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יוסיפו
+2034707	4Q72	Jeremiah	31	9	JBL[	>WBJLM	WBJL			hif	impf	sg		p1	verb	M				rrrrnr	nnnnnn	אובילם
+2034708	4Q72	Jeremiah	31	9	HLK[	>WLJKM	WLJK			hif	impf	sg		p1	verb	M				rrnnnn	nnnnnn	אוליכם
 2034382	4Q72	Jeremiah	30	7	JC<[	JWC<	JWC<			nif	impf	sg	m	p3	verb					rrrr	nnnn	יושע
 2034846	4Q72	Jeremiah	31	19	JD<[	HWD<J	HWD<			nif	infc	NA		NA	verb	J				rrrrr	nnnnn	הודעי
 2034669	4Q72	Jeremiah	31	7	JC<[	HWCJ<	WCJ<			hif	impv	sg	m	NA	verb					nnnnn	nnnnn	הושיע
-2032870	4Q72	Jeremiah	4	14	JC<[	TWC<J	TWC<J			nif	impf	sg	f	p2	verb					rrrrr	nnnnn	תושעי
 2034216	4Q72	Jeremiah	26	13	JVB[	HJVJBW	JVJB			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	היטיבו
-2034797	4Q72	Jeremiah	31	12	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יוסיפו
+2032870	4Q72	Jeremiah	4	14	JC<[	TWC<J	TWC<J			nif	impf	sg	f	p2	verb					rrrrr	nnnnn	תושעי
 2033200	4Q72	Jeremiah	20	3	JY>[	JY>	Y>			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא
-2034707	4Q72	Jeremiah	31	9	JBL[	>WBJLM	WBJL			hif	impf	sg		p1	verb	M				rrrrnr	nnnnnn	אובילם
-2034708	4Q72	Jeremiah	31	9	HLK[	>WLJKM	WLJK			hif	impf	sg		p1	verb	M				rrnnnn	nnnnnn	אוליכם
 2035941	4Q73	Ezekiel	11	9	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
 2035926	4Q73	Ezekiel	11	7	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 2035982	4Q73	Ezekiel	23	14	JSP[	TWSP	WSP			hif	wayq	sg	f	p3	verb				W	rrrr	nnnn	תוסף
 2036420	4Q74	Ezekiel	1	22	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נורא
+2037237	4Q76	Malachi	3	23	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורא
 2036711	4Q76	Malachi	2	17	JG<[	HG<TM	G<T			hif	perf	pl	m	p2	verb		M		W	nnnnn	nnnnn	הגעתם
 2036719	4Q76	Malachi	2	17	JG<[	HGW<NW	GW<NW			hif	perf	pl		p1	verb					nnnnnn	nnnnnn	הגוענו
-2037237	4Q76	Malachi	3	23	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורא
 2037686	4Q77	Zephaniah	3	19	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הושעתי
-2038555	4Q78	Joel	1	10	JBC[	HWBJC	WBJC			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוביש
-2038560	4Q78	Joel	1	11	JBC[	HWBJCW	WBJC			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הובישו
-2038562	4Q78	Joel	1	11	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
-2038292	4Q78	Hosea	7	12	JRD[	>WRJDM	WRJD			hif	impf	sg		p1	verb	M				nnnrrr	nnnnnn	אורידם
-2038293	4Q78	Hosea	7	12	JSR[	>JSRM	JSR			hif	impf	sg		p1	verb	M				rrrrr	nnnnn	איסרם
-2039981	4Q78	Amos	7	13	JSP[	TWSJP	WSJP			hif	impf	sg	m	p2	verb					nrrrr	nnnnn	תוסיף
-2039083	4Q78	Joel	2	23	JRD[	JWRD	WRD			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יורד
-2038365	4Q78	Hosea	13	4	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				W	rrrrr	nnnnn	מושיע
-2038821	4Q78	Joel	2	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	nnnn	nnnn	נורא
 2039471	4Q78	Amos	3	3	J<D[	NW<DW	NW<DW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נועדו
-2038508	4Q78	Hosea	14	4	JC<[	JWCJ<JNW	WCJ<			hif	impf	sg	m	p3	verb	JNW				nrrrrrrr	nnnnnnnn	יושיעינו
 2039615	4Q78	Amos	3	11	JRD[	HWR	WR			hif	perf	sg	m	p3	verb				W	nnn	nnn	הור
-2038020	4Q78	Hosea	4	4	JKX[	JWKX	WKX			hif	impf	sg	m	p3	verb					rrrr	nnnn	יוכח
+2038365	4Q78	Hosea	13	4	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb				W	rrrrr	nnnnn	מושיע
 2038576	4Q78	Joel	1	12	JBC[	HWBJCH	WBJC			hif	perf	sg	f	p3	verb					rrrrrr	nnnnnn	הובישה
 2038592	4Q78	Joel	1	12	JBC[	HBJC	BJC			hif	perf	sg	m	p3	verb					rrrr	nnnn	הביש
 2038603	4Q78	Joel	1	13	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnrnn	nnnnnn	הילילו
 2038676	4Q78	Joel	1	17	JBC[	HBJC	BJC			hif	perf	sg	m	p3	verb					rrrr	nnnn	הביש
+2038020	4Q78	Hosea	4	4	JKX[	JWKX	WKX			hif	impf	sg	m	p3	verb					rrrr	nnnn	יוכח
 2038431	4Q78	Hosea	13	10	JC<[	JWCJ<KH	WCJ<			hif	impf	sg	m	p3	verb	KH			W	rrrrrrr	nnnnnnn	יושיעכה
-2040426	4Q79	Hosea	2	5	JYG[	HYGTJH	YG			hif	perf	sg		p1	verb	H			W	rrrrrr	nnnnnn	הצגתיה
-2040429	4Q79	Hosea	2	5	JLD[	HWLDH	HWLD			nif	infc	NA		NA	verb	H				rrrrr	nnnnn	הולדה
+2038555	4Q78	Joel	1	10	JBC[	HWBJC	WBJC			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוביש
+2038292	4Q78	Hosea	7	12	JRD[	>WRJDM	WRJD			hif	impf	sg		p1	verb	M				nnnrrr	nnnnnn	אורידם
+2038293	4Q78	Hosea	7	12	JSR[	>JSRM	JSR			hif	impf	sg		p1	verb	M				rrrrr	nnnnn	איסרם
+2038508	4Q78	Hosea	14	4	JC<[	JWCJ<JNW	WCJ<			hif	impf	sg	m	p3	verb	JNW				nrrrrrrr	nnnnnnnn	יושיעינו
+2039981	4Q78	Amos	7	13	JSP[	TWSJP	WSJP			hif	impf	sg	m	p2	verb					nrrrr	nnnnn	תוסיף
+2038560	4Q78	Joel	1	11	JBC[	HWBJCW	WBJC			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הובישו
+2038562	4Q78	Joel	1	11	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
+2039083	4Q78	Joel	2	23	JRD[	JWRD	WRD			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יורד
+2038821	4Q78	Joel	2	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	nnnn	nnnn	נורא
 2040287	4Q79	Hosea	1	7	JC<[	HWC<TJM	WC<			hif	perf	sg		p1	verb	M			W	rrrrrrr	nnnnnnn	הושעתים
 2040293	4Q79	Hosea	1	7	JC<[	>WCJ<M	WCJ<			hif	impf	sg		p1	verb	M				rrrrrr	nnnnnn	אושיעם
+2040426	4Q79	Hosea	2	5	JYG[	HYGTJH	YG			hif	perf	sg		p1	verb	H			W	rrrrrr	nnnnnn	הצגתיה
+2040429	4Q79	Hosea	2	5	JLD[	HWLDH	HWLD			nif	infc	NA		NA	verb	H				rrrrr	nnnnn	הולדה
 2041272	4Q80	Zechariah	8	7	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
 2041077	4Q80	Zechariah	5	10	HLK[	MWLKWT	WLK			hif	ptca	pl	f	NA	verb		WT			rrrrrr	nnnnnn	מולכות
-2045511	4Q82	Obadiah	1	4	JRD[	>WRJDK	WRJD			hif	impf	sg		p1	verb	K				rrrrrr	nnnnnn	אורידך
-2044578	4Q82	Amos	5	15	JYG[	HYJGW	YJG			hif	impv	pl	m	NA	verb				W	rrrrr	nnnnn	הציגו
+2044798	4Q82	Amos	6	10	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
+2046746	4Q82	Nahum	3	17	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					rrrr	nnnn	נודע
+2044156	4Q82	Amos	1	14	JYT[	HYTJ	Y			hif	perf	sg		p1	verb				W	rrrr	nnnn	הצתי
+2042389	4Q82	Hosea	7	14	JLL[	JLJLW	LJL			hif	impf	pl	m	p3	verb					nnnnn	nnnnn	ילילו
+2043398	4Q82	Joel	1	12	JBC[	HWBJCH	WBJC			hif	perf	sg	f	p3	verb					rrrrnn	nnnnnn	הובישה
+2043414	4Q82	Joel	1	12	JBC[	HBJC	BJC			hif	perf	sg	m	p3	verb					nnnn	nnnn	הביש
+2043063	4Q82	Hosea	11	11	JCB[	HWCBTJM	WCB			hif	perf	sg		p1	verb	M			W	rrrrrrr	nnnnnnn	הושבתים
+2045186	4Q82	Amos	8	2	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוסיף
+2041914	4Q82	Hosea	2	16	HLK[	HLKTJH	HLK			hif	perf	sg		p1	verb	H			W	rrrrrr	nnnnnn	הלכתיה
+2046837	4Q82	Zechariah	11	2	JLL[	HJLL	JLL			hif	impv	sg	m	NA	verb					nnnn	nnnn	הילל
+2046845	4Q82	Zechariah	11	2	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
+2043425	4Q82	Joel	1	13	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
+2046804	4Q82	Zechariah	10	11	JBC[	HBJCW	BJC			hif	perf	pl		p3	verb				W	rrrrr	nnnnn	הבישו
+2046809	4Q82	Zechariah	10	11	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb				W	rrrr	nnnn	הורד
 2042835	4Q82	Hosea	10	12	JRH===[	JRW	R			hif	impf	pl	m	p3	verb				W	nnn	nnn	ירו
-2042285	4Q82	Hosea	6	3	JRH===[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
-2043479	4Q82	Joel	2	2	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					rnnn	nnnn	יוסף
+2045192	4Q82	Amos	8	3	JLL[	HJLJLW	JLJL			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הילילו
+2046479	4Q82	Micah	4	2	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	rrrrr	nnnnn	יורנו
+2046219	4Q82	Jonah	4	9	JVB[	HJVB	JVB			hif	infa	NA		NA	verb				H	rrrr	nnnn	היטב
+2046227	4Q82	Jonah	4	9	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					rrrr	nnnn	היטב
+2045496	4Q82	Obadiah	1	3	JRD[	JWRDNJ	WRD			hif	impf	sg	m	p3	verb	NJ				rrrrrr	nnnnnn	יורדני
+2044491	4Q82	Amos	5	10	JKX[	MWKJX	WKJX			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מוכיח
+2042602	4Q82	Hosea	9	15	JSP[	>WSP	WSP			hif	impf	sg		p1	verb					rrrr	nnnn	אוסף
+2044469	4Q82	Amos	5	2	JSP[	TWSJP	WSJP			hif	impf	sg	f	p3	verb					rrrrr	nnnnn	תוסיף
+2044958	4Q82	Amos	7	8	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוסיף
 2041861	4Q82	Hosea	2	5	JYG[	HYGTJH	YG			hif	perf	sg		p1	verb	H			W	rrrrrr	nnnnnn	הצגתיה
 2041864	4Q82	Hosea	2	5	JLD[	HWLDH	HWLD			nif	infc	NA		NA	verb	H				rrrrr	nnnnn	הולדה
 2043111	4Q82	Hosea	12	2	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					rrrr	nnnn	יובל
 2043220	4Q82	Hosea	12	10	JCB[	>WCJBK	WCJB			hif	impf	sg		p1	verb	K				rrrrrr	nnnnnn	אושיבך
-2042570	4Q82	Hosea	9	13	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוציא
-2046219	4Q82	Jonah	4	9	JVB[	HJVB	JVB			hif	infa	NA		NA	verb				H	rrrr	nnnn	היטב
-2046227	4Q82	Jonah	4	9	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					rrrr	nnnn	היטב
+2045511	4Q82	Obadiah	1	4	JRD[	>WRJDK	WRJD			hif	impf	sg		p1	verb	K				rrrrrr	nnnnnn	אורידך
+2042652	4Q82	Hosea	10	1	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
+2044578	4Q82	Amos	5	15	JYG[	HYJGW	YJG			hif	impv	pl	m	NA	verb				W	rrrrr	nnnnn	הציגו
+2043479	4Q82	Joel	2	2	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					rnnn	nnnn	יוסף
 2042356	4Q82	Hosea	7	12	JRD[	>WRJDM	WRJD			hif	impf	sg		p1	verb	M				rrrrrr	nnnnnn	אורידם
 2042357	4Q82	Hosea	7	12	JSR[	>JSRM	JSR			hif	impf	sg		p1	verb	M				rrrrr	nnnnn	איסרם
 2045048	4Q82	Amos	7	13	JSP[	TWSJP	WSJP			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוסיף
-2043063	4Q82	Hosea	11	11	JCB[	HWCBTJM	WCB			hif	perf	sg		p1	verb	M			W	rrrrrrr	nnnnnnn	הושבתים
-2042652	4Q82	Hosea	10	1	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
-2043637	4Q82	Joel	2	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	nnnn	nnnn	נורא
-2044156	4Q82	Amos	1	14	JYT[	HYTJ	Y			hif	perf	sg		p1	verb				W	rrrr	nnnn	הצתי
-2046479	4Q82	Micah	4	2	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	rrrrr	nnnnn	יורנו
-2046804	4Q82	Zechariah	10	11	JBC[	HBJCW	BJC			hif	perf	pl		p3	verb				W	rrrrr	nnnnn	הבישו
-2046809	4Q82	Zechariah	10	11	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb				W	rrrr	nnnn	הורד
-2045186	4Q82	Amos	8	2	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוסיף
-2042723	4Q82	Hosea	10	6	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					rrrr	nnnn	יובל
-2043398	4Q82	Joel	1	12	JBC[	HWBJCH	WBJC			hif	perf	sg	f	p3	verb					rrrrnn	nnnnnn	הובישה
-2043414	4Q82	Joel	1	12	JBC[	HBJC	BJC			hif	perf	sg	m	p3	verb					nnnn	nnnn	הביש
 2044783	4Q82	Amos	6	9	JTR[	JWTRW	JWTRW			nif	impf	pl	m	p3	verb					rrrrr	nnnnn	יותרו
-2046746	4Q82	Nahum	3	17	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					rrrr	nnnn	נודע
 2045974	4Q82	Jonah	2	5	JSP[	>SP	SP			hif	impf	sg		p1	verb					rrr	nnn	אסף
-2042389	4Q82	Hosea	7	14	JLL[	JLJLW	LJL			hif	impf	pl	m	p3	verb					nnnnn	nnnnn	ילילו
-2042602	4Q82	Hosea	9	15	JSP[	>WSP	WSP			hif	impf	sg		p1	verb					rrrr	nnnn	אוסף
-2044491	4Q82	Amos	5	10	JKX[	MWKJX	WKJX			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מוכיח
-2046837	4Q82	Zechariah	11	2	JLL[	HJLL	JLL			hif	impv	sg	m	NA	verb					nnnn	nnnn	הילל
-2046845	4Q82	Zechariah	11	2	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
-2043425	4Q82	Joel	1	13	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
-2045192	4Q82	Amos	8	3	JLL[	HJLJLW	JLJL			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הילילו
-2044798	4Q82	Amos	6	10	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
-2044469	4Q82	Amos	5	2	JSP[	TWSJP	WSJP			hif	impf	sg	f	p3	verb					rrrrr	nnnnn	תוסיף
-2045496	4Q82	Obadiah	1	3	JRD[	JWRDNJ	WRD			hif	impf	sg	m	p3	verb	NJ				rrrrrr	nnnnnn	יורדני
-2041914	4Q82	Hosea	2	16	HLK[	HLKTJH	HLK			hif	perf	sg		p1	verb	H			W	rrrrrr	nnnnnn	הלכתיה
-2044958	4Q82	Amos	7	8	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוסיף
+2042285	4Q82	Hosea	6	3	JRH===[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
+2042723	4Q82	Hosea	10	6	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					rrrr	nnnn	יובל
+2043637	4Q82	Joel	2	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	nnnn	nnnn	נורא
 2046562	4Q82	Micah	7	3	JVB[	HJVJB	JVJB			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	היטיב
-2047125	4Q83	Psalms	33	2	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
-2047795	4Q83	Psalms	71	10	J<Y[	NW<YW	NW<YW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נועצו
+2042570	4Q82	Hosea	9	13	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוציא
 2047069	4Q83	Psalms	25	15	JY>[	JWYJ>	WYJ>			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוציא
-2047834	4Q83	Psalms	71	14	JSP[	HWSPTJ	WSP			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הוספתי
-2047444	4Q83	Psalms	36	4	JVB[	HJVJB	JVJB			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	היטיב
-2047140	4Q83	Psalms	33	3	JVB[	HJVJBW	JVJB			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	היטיבו
 2046975	4Q83	Psalms	6	2	JKX[	TWKJXNJ	WKJX			hif	impf	sg	m	p2	verb	NJ				rrrrnnn	nnnnnnn	תוכיחני
-2047014	4Q83	Psalms	25	8	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
 2047057	4Q83	Psalms	25	12	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW				rrrnn	nnnnn	יורנו
 2048170	4Q83	Psalms	67	6	JDH[	JDWKH	D			hif	impf	pl	m	p3	verb	KH			W	nnnnn	nnnnn	ידוכה
 2048173	4Q83	Psalms	67	6	JDH[	JWDWK	WD			hif	impf	pl	m	p3	verb	K				rrrrr	nnnnn	יודוך
-2048200	4Q83	Psalms	69	2	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				nnnrrrr	nnnnnnn	הושיעני
-2047508	4Q83	Psalms	38	2	JKX[	TWKJXNJ	WKJX			hif	impf	sg	m	p2	verb	NJ				rrrrrrr	nnnnnnn	תוכיחני
-2047960	4Q83	Psalms	54	3	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הושיעני
-2046898	4Q83	Psalms	5	9	JCR[	HWCR	WCR			hif	impv	sg	m	NA	verb					rrrr	nnnn	הושר
-2047337	4Q83	Psalms	35	18	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
-2048147	4Q83	Psalms	67	4	JDH[	JWDWKH	WD			hif	impf	pl	m	p3	verb	KH				rrrrrr	nnnnnn	יודוכה
-2048150	4Q83	Psalms	67	4	JDH[	JWDWKH	WD			hif	impf	pl	m	p3	verb	KH				nnnnnn	nnnnnn	יודוכה
+2047014	4Q83	Psalms	25	8	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
 2047629	4Q83	Psalms	38	16	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוחלתי
 2047479	4Q83	Psalms	36	7	JC<[	TWCJ<	WCJ<			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תושיע
-2048667	4Q84	Psalms	94	10	JKX[	JWKJX	WKJX			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוכיח
+2047960	4Q83	Psalms	54	3	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הושיעני
+2047337	4Q83	Psalms	35	18	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
+2047125	4Q83	Psalms	33	2	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
+2047795	4Q83	Psalms	71	10	J<Y[	NW<YW	NW<YW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נועצו
+2047834	4Q83	Psalms	71	14	JSP[	HWSPTJ	WSP			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הוספתי
+2047444	4Q83	Psalms	36	4	JVB[	HJVJB	JVJB			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	היטיב
+2047140	4Q83	Psalms	33	3	JVB[	HJVJBW	JVJB			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	היטיבו
+2048147	4Q83	Psalms	67	4	JDH[	JWDWKH	WD			hif	impf	pl	m	p3	verb	KH				rrrrrr	nnnnnn	יודוכה
+2048150	4Q83	Psalms	67	4	JDH[	JWDWKH	WD			hif	impf	pl	m	p3	verb	KH				nnnnnn	nnnnnn	יודוכה
+2048200	4Q83	Psalms	69	2	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				nnnrrrr	nnnnnnn	הושיעני
+2047508	4Q83	Psalms	38	2	JKX[	TWKJXNJ	WKJX			hif	impf	sg	m	p2	verb	NJ				rrrrrrr	nnnnnnn	תוכיחני
+2046898	4Q83	Psalms	5	9	JCR[	HWCR	WCR			hif	impv	sg	m	NA	verb					rrrr	nnnn	הושר
 2049411	4Q84	Psalms	118	19	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
 2049445	4Q84	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb	H				rnnnnn	nnnnnn	הושיעה
 2049464	4Q84	Psalms	118	29	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2048601	4Q84	Psalms	94	1	JP<[	HWPJ<	WPJ<			hif	impv	sg	m	NA	verb					nnnnn	nnnnn	הופיע
 2049291	4Q84	Psalms	118	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
+2048667	4Q84	Psalms	94	10	JKX[	JWKJX	WKJX			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוכיח
 2050047	4Q85	Psalms	44	9	JDH[	NWDH	WDH			hif	impf	pl		p1	verb					rrrr	nnnn	נודה
-2049613	4Q85	Psalms	18	4	JC<[	>WC<	>WC<			nif	impf	sg		p1	verb					rrnn	nnnn	אושע
 2050381	4Q85	Psalms	50	21	JKX[	>WKJXK	WKJX			hif	impf	sg		p1	verb	K				nnrrnr	nnnnnn	אוכיחך
+2049613	4Q85	Psalms	18	4	JC<[	>WC<	>WC<			nif	impf	sg		p1	verb					rrnn	nnnn	אושע
 2050524	4Q85	Psalms	52	11	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K			W	nnnn	nnnn	אודך
 2050031	4Q85	Psalms	44	8	JC<[	HWC<TNW	WC<			hif	perf	sg	m	p2	verb	NW				rrrrrrr	nnnnnnn	הושעתנו
 2050823	4Q86	Psalms	104	14	JY>[	HYJ>	YJ>			hif	infc	NA		NA	verb				L	nnrr	nnnn	הציא
-2050947	4Q87	Psalms	76	12	JBL[	JBJLW	BJL			hif	impf	pl	m	p3	verb					nnnnn	nnnnn	יבילו
-2051058	4Q87	Psalms	86	11	JRH[	HWRNJ	WR			hif	impv	sg	m	NA	verb	NJ				rrrrr	nnnnn	הורני
-2051487	4Q87	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא
-2051777	4Q87	Psalms	130	5	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוחלתי
-2050975	4Q87	Psalms	78	6	JLD[	JWLDW	JWLDW			nif	impf	pl	m	p3	verb					rrrrr	nnnnn	יולדו
 2051422	4Q87	Psalms	105	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2051428	4Q87	Psalms	105	1	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnrrr	nnnnnn	הודיעו
+2050934	4Q87	Psalms	76	11	JDH[	TWDK	WD			hif	impf	sg	f	p3	verb	K				rrrr	nnnn	תודך
+2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	היטיבה
+2051768	4Q87	Psalms	130	4	JR>[	TWR>	TWR>			nif	impf	sg	m	p2	verb					rrrr	nnnn	תורא
+2050947	4Q87	Psalms	76	12	JBL[	JBJLW	BJL			hif	impf	pl	m	p3	verb					nnnnn	nnnnn	יבילו
+2051547	4Q87	Psalms	105	43	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
+2050975	4Q87	Psalms	78	6	JLD[	JWLDW	JWLDW			nif	impf	pl	m	p3	verb					rrrrr	nnnnn	יולדו
+2051651	4Q87	Psalms	125	5	HLK[	JWLJKM	WLJK			hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn	יוליכם
+2051777	4Q87	Psalms	130	5	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוחלתי
 2050955	4Q87	Psalms	76	13	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
 2050925	4Q87	Psalms	76	10	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הושיע
 2051779	4Q87	Psalms	130	6	JXL[	HWXJLJ	WXJL			hif	impv	sg	f	NA	verb					rrrrrr	nnnnnn	הוחילי
-2051547	4Q87	Psalms	105	43	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
-2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	היטיבה
-2050934	4Q87	Psalms	76	11	JDH[	TWDK	WD			hif	impf	sg	f	p3	verb	K				rrrr	nnnn	תודך
-2051651	4Q87	Psalms	125	5	HLK[	JWLJKM	WLJK			hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn	יוליכם
-2051768	4Q87	Psalms	130	4	JR>[	TWR>	TWR>			nif	impf	sg	m	p2	verb					rrrr	nnnn	תורא
+2051058	4Q87	Psalms	86	11	JRH[	HWRNJ	WR			hif	impv	sg	m	NA	verb	NJ				rrrrr	nnnnn	הורני
+2051487	4Q87	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא
 2052574	4Q91	Psalms	48	4	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					rrrr	nnnn	נודע
 2052581	4Q91	Psalms	48	5	J<D[	NW<DW	NW<DW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נועדו
 2052847	4Q92	Psalms	135	7	JY>[	MWY>	WY>			hif	ptca	sg	m	NA	verb					rrrr	nnnn	מוצא
@@ -850,10 +850,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2053277	4Q95	Psalms	135	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מוציא
 2053459	4Q96	Psalms	116	6	JC<[	JHWCJ<	HWCJ<			hif	impf	sg	m	p3	verb					rrrrrr	nnnnnn	יהושיע
 2053519	4Q97	Psalms	143	3	JCB[	HWCJBNJ	WCJB			hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn	הושיבני
+2053960	4Q98	Psalms	35	18	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
 2053610	4Q98	Psalms	33	2	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnr	nnnn	הודו
 2053626	4Q98	Psalms	33	3	JVB[	HJVJBW	JVJB			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	היטיבו
 2053769	4Q98	Psalms	33	16	JC<[	NWC<	NWC<			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נושע
-2053960	4Q98	Psalms	35	18	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
 2054072	4Q98a	Psalms	30	10	JDH[	JWDK	WD			hif	impf	sg	m	p3	verb	K			H	nrrr	nnnn	יודך
 2054108	4Q98a	Psalms	30	13	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				rrrr	nnnn	אודך
 2054121	4Q98b	Psalms	5	9	JCR[	HWCR	WCR			hif	impv	sg	m	NA	verb					rrrr	nnnn	הושר
@@ -870,198 +870,198 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2057430	4Q110	Ecclesiastes	1	16	JSP[	HWSPTJ	WSP			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוספתי
 2057678	4Q111	Lamentations	1	12	JGR[	HWGJRNJ	WGJR			hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn	הוגירני
 2057515	4Q111	Lamentations	1	4	JGH[	NWGWT	NWG			nif	ptca	pl	f	NA	verb		WT			rrrrr	nnnnn	נוגות
-2057529	4Q111	Lamentations	1	5	JGH[	HWGH	WG			hif	perf	sg	m	p3	verb	H				rrrr	nnnn	הוגה
 2057691	4Q111	Lamentations	1	13	JRD[	JWRJDNJ	WRJD			hif	wayq	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn	יורידני
+2057529	4Q111	Lamentations	1	5	JGH[	HWGH	WG			hif	perf	sg	m	p3	verb	H				rrrr	nnnn	הוגה
 2059536	4Q112	Daniel	10	18	JSP[	JSP	SP			hif	wayq	sg	m	p3	verb				W	rrr	nnn	יסף
 2061171	4Q114	Daniel	10	13	JTR[	NWTRTJ	NWTRTJ			nif	perf	sg		p1	verb					rrrrrr	nnnnnn	נותרתי
-2063259	4Q128	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
-2063322	4Q128	Deuteronomy	10	21	JR>[	NWR>T	NWR>			nif	ptca	pl	f	NA	verb		T		H	rrrrr	nnnnn	נוראת
-2063905	4Q128	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
-2062987	4Q128	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
 2063994	4Q128	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
-2064055	4Q128	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 2062786	4Q128	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוצאתיך
-2064929	4Q129	Exodus	13	9	JY>[	HWYJ>KH	WYJ>			hif	perf	sg	m	p3	verb	KH				nnnnrrr	nnnnnnn	הוציאכה
+2063322	4Q128	Deuteronomy	10	21	JR>[	NWR>T	NWR>			nif	ptca	pl	f	NA	verb		T		H	rrrrr	nnnnn	נוראת
+2063259	4Q128	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
+2064055	4Q128	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
+2062987	4Q128	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
+2063905	4Q128	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
+2064250	4Q129	Deuteronomy	5	6	JY>[	HWY>TJKH	WY>			hif	perf	sg		p1	verb	KH				nnnnnnnn	nnnnnnnn	הוצאתיכה
+2065024	4Q129	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	הוציאנו
 2064422	4Q129	Deuteronomy	5	15	JY>[	JY>K	Y>			hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn	יצאך
 2064721	4Q129	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
-2065024	4Q129	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	הוציאנו
-2064641	4Q129	Deuteronomy	5	25	JSP[	MWSJPJM	WSJP			hif	ptca	pl	m	NA	verb		JM			nrrrrrr	nnnnnnn	מוסיפים
 2064914	4Q129	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	הוציאנו
-2064250	4Q129	Deuteronomy	5	6	JY>[	HWY>TJKH	WY>			hif	perf	sg		p1	verb	KH				nnnnnnnn	nnnnnnnn	הוצאתיכה
-2065264	4Q130	Exodus	13	9	JY>[	HY>NW	Y>			hif	perf	sg	m	p3	verb	NW				nnnnn	nnnnn	הצאנו
+2064641	4Q129	Deuteronomy	5	25	JSP[	MWSJPJM	WSJP			hif	ptca	pl	m	NA	verb		JM			nrrrrrr	nnnnnnn	מוסיפים
+2064929	4Q129	Exodus	13	9	JY>[	HWYJ>KH	WYJ>			hif	perf	sg	m	p3	verb	KH				nnnnrrr	nnnnnnn	הוציאכה
 2065361	4Q130	Exodus	13	14	JY>[	HY>NW	Y>			hif	perf	sg	m	p3	verb	NW				nnnnn	nnnnn	הצאנו
 2065123	4Q130	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 2065426	4Q130	Exodus	13	16	JY>[	HY>NW	Y>			hif	perf	sg	m	p3	verb	NW				nnnnn	nnnnn	הצאנו
+2065264	4Q130	Exodus	13	9	JY>[	HY>NW	Y>			hif	perf	sg	m	p3	verb	NW				nnnnn	nnnnn	הצאנו
 2065986	4Q133	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrnnrrr	nnnnnnn	הוציאנו
 2066048	4Q133	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrrnnnn	nnnnnnn	הוציאנו
 2066185	4Q134	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rrrrnnn	nnnnnnn	הוצאתיך
 2066877	4Q135	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
 2066582	4Q135	Deuteronomy	5	25	JSP[	MWSJPJM	WSJP			hif	ptca	pl	m	NA	verb		JM			rrnnnnn	nnnnnnn	מוסיפים
-2067454	4Q136	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
-2067164	4Q136	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
 2067253	4Q136	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 2067315	4Q136	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+2067454	4Q136	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
+2067164	4Q136	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
 2067803	4Q137	Deuteronomy	5	15	JY>[	JWYJ>KH	WYJ>			hif	wayq	sg	m	p3	verb	KH			W	rrrrnnn	nnnnnnn	יוציאכה
-2068353	4Q138	Deuteronomy	10	17	JR>[	NWRH	NWRH			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורה
 2068423	4Q138	Deuteronomy	10	21	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT		H	nnnnnr	nnnnnn	נוראות
+2068353	4Q138	Deuteronomy	10	17	JR>[	NWRH	NWRH			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורה
 2068924	4Q139	Deuteronomy	5	15	JY>[	JY>K	Y>			hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn	יצאך
+2069221	4Q140	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+2069283	4Q140	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrnn	nnnnn	הוציא
+2069466	4Q140	Deuteronomy	5	33	JRC[	TWRJCWN	WRJC			hif	impf	pl	m	p2	verb	N				nnnnnnn	nnnnnnn	תורישון
 2069427	4Q140	Exodus	13	9	JY>[	HWYJ>KH	WYJ>			hif	perf	sg	m	p3	verb	KH				nnnnnnn	nnnnnnn	הוציאכה
 2069130	4Q140	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
-2069221	4Q140	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
-2069466	4Q140	Deuteronomy	5	33	JRC[	TWRJCWN	WRJC			hif	impf	pl	m	p2	verb	N				nnnnnnn	nnnnnnn	תורישון
-2069283	4Q140	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrnn	nnnnn	הוציא
-2069992	4Q142	Deuteronomy	5	15	JY>[	JY>K	Y>			hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn	יצאך
 2069820	4Q142	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוצאתיך
-2070741	4Q145	Exodus	13	9	JY>[	HYJ>K	YJ>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הציאך
+2069992	4Q142	Deuteronomy	5	15	JY>[	JY>K	Y>			hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn	יצאך
 2070598	4Q145	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
+2070741	4Q145	Exodus	13	9	JY>[	HYJ>K	YJ>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הציאך
 2071511	4Q151	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
 2071124	4Q151	Deuteronomy	5	28	JVB[	HJVJBW	JVJB			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	היטיבו
 2071741	4Q154	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 2071843	4Q155	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nrrrnnn	nnnnnnn	הוציאנו
 2071905	4Q155	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	הוציאנו
-2072403	5Q1	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>			hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn	מוציאך
-2072093	5Q1	Deuteronomy	7	17	JRC[	HWRCM	WRC			hif	infc	NA		NA	verb	M			L	nnnnn	nnnnn	הורשם
-2072185	5Q1	Deuteronomy	7	21	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	rrrr	nnnn	נורא
 2072412	5Q1	Deuteronomy	8	15	HLK[	MWLJKK	WLJK			hif	ptca	sg	m	NA	verb	K			H	rrrrrr	nnnnnn	מוליכך
 2072419	5Q1	Deuteronomy	8	15	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
 2072430	5Q1	Deuteronomy	8	15	JY>[	MWY>	WY>			hif	ptca	sg	m	NA	verb				H	nnnn	nnnn	מוצא
 2072453	5Q1	Deuteronomy	8	16	JVB[	HJVBK	JVB			hif	infc	NA		NA	verb	K			L	nnnnn	nnnnn	היטבך
+2072093	5Q1	Deuteronomy	7	17	JRC[	HWRCM	WRC			hif	infc	NA		NA	verb	M			L	nnnnn	nnnnn	הורשם
+2072185	5Q1	Deuteronomy	7	21	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	rrrr	nnnn	נורא
+2072403	5Q1	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>			hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn	מוציאך
 2072137	5Q1	Deuteronomy	7	19	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
-2072811	5Q2	1_Kings	1	33	JRD[	HWRDTM	WRDT			hif	perf	pl	m	p2	verb		M		W	nnnnnn	nnnnnn	הורדתם
 2072659	5Q2	1_Kings	1	27	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb					rrrrr	nnnnn	הודעת
+2072811	5Q2	1_Kings	1	33	JRD[	HWRDTM	WRDT			hif	perf	pl	m	p2	verb		M		W	nnnnnn	nnnnnn	הורדתם
 2073165	5Q5	Psalms	119	117	JC<[	>WC<H	>WC<			nif	impf	sg		p1	verb				W	rrrrr	nnnnn	אושעה
+2073355	5Q6	Lamentations	4	15	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יוסיפו
 2073363	5Q6	Lamentations	4	16	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוסיף
 2073445	5Q6	Lamentations	4	22	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף
-2073355	5Q6	Lamentations	4	15	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יוסיפו
 2073695	5Q7	Lamentations	4	17	JC<[	JWC<	WC<			hif	impf	sg	m	p3	verb					rrrr	nnnn	יושע
 2075454	6Q7	Daniel	10	13	JTR[	NWTRTJ	NWTRTJ			nif	perf	sg		p1	verb					rrrrrr	nnnnnn	נותרתי
 2075883	8Q1	Genesis	17	17	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					rrrr	nnnn	יולד
 2076073	8Q2	Psalms	17	7	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
-2077150	8Q3	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg		NA	verb				WH	nnnn	nnnn	נורא
+2077275	8Q3	Exodus	12	51	JY>[	HWYJ>K	WYJ>			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוציאך
+2077390	8Q3	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	הוצאתיך
+2076498	8Q3	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
 2076991	8Q3	Deuteronomy	10	21	JR>[	NWR>W	NWR>W			nif	ptca	pl		NA	verb				H	rrnnn	nnnnn	נוראו
 2077620	8Q3	Deuteronomy	10	21	JR>[	NWR>T	NWR>			nif	ptca	pl	f	NA	verb		T		H	nrrrr	nnnnn	נוראת
-2076408	8Q3	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך
-2077216	8Q3	Exodus	12	46	JY>[	TWY>N	WY>			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תוצאן
-2076498	8Q3	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
-2077275	8Q3	Exodus	12	51	JY>[	HWYJ>K	WYJ>			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוציאך
+2077150	8Q3	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg		NA	verb				WH	nnnn	nnnn	נורא
 2076268	8Q3	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 2076560	8Q3	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nrrrrrr	nnnnnnn	הוציאנו
-2077390	8Q3	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	הוצאתיך
-2078207	8Q4	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
+2076408	8Q3	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך
+2077216	8Q3	Exodus	12	46	JY>[	TWY>N	WY>			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תוצאן
 2078273	8Q4	Deuteronomy	10	21	JR>[	NWR>T	NWR>			nif	ptca	pl	f	NA	verb		T		H	rrrrr	nnnnn	נוראת
+2078207	8Q4	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נורא
+2080495	11Q1	Leviticus	22	27	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					nnnn	nnnn	יולד
 2081216	11Q1	Leviticus	27	18	JTR[	NTRWT	NTR			nif	ptca	pl	f	NA	verb		WT		H	nnnnn	nnnnn	נתרות
 2079563	11Q1	Leviticus	14	57	JRH[	HWRT	WRT			hif	infc	NA		NA	verb				L	rrrr	nnnn	הורת
 2080735	11Q1	Leviticus	24	14	JY>[	HYJ>W	YJ>			hif	impv	pl	m	NA	verb					nnnnn	nnnnn	הציאו
 2079381	11Q1	Leviticus	14	18	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נותר
 2080314	11Q1	Leviticus	21	10	JYQ[	JWYQ	JWYQ			hof	impf	sg	m	p3	verb					nnrr	nnnn	יוצק
-2080495	11Q1	Leviticus	22	27	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					nnnn	nnnn	יולד
 2081717	11Q3	Deuteronomy	1	5	J>L[	HW>JL	W>JL			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הואיל
 2082085	11Q4	Ezekiel	5	16	JSP[	>SP	SP			hif	impf	sg		p1	verb					rrr	nnn	אסף
 2087483	11Q7	Psalms	18	4	JC<[	>WC<	>WC<			nif	impf	sg		p1	verb					nnrr	nnnn	אושע
 2087700	11Q7	Psalms	25	4	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הודיעני
 2086948	11Q7	Psalms	2	2	JSD=[	NWSDW	NWSDW			nif	perf	pl		p3	verb					rrrrr	nnnnn	נוסדו
 2087824	11Q8	Psalms	18	28	JC<[	TWCJ<	WCJ<			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תושיע
-2088199	11Q8	Psalms	78	6	JLD[	JWLDW	JWLDW			nif	impf	pl	m	p3	verb					rrrrr	nnnnn	יולדו
 2088347	11Q8	Psalms	86	12	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH				rrrrr	nnnnn	אודכה
 2087865	11Q8	Psalms	18	42	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnrrr	nnnnn	מושיע
+2088199	11Q8	Psalms	78	6	JLD[	JWLDW	JWLDW			nif	impf	pl	m	p3	verb					rrrrr	nnnnn	יולדו
+2088637	Xq1	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 2088984	Xq1	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורא
+2088697	Xq1	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 2088837	Xq1	Exodus	13	9	JY>[	HWYJ>K	WYJ>			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוציאך
 2088548	Xq1	Exodus	12	46	JY>[	TWYJ>W	WYJ>			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוציאו
-2088637	Xq1	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
-2088697	Xq1	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 2089207	Xq2	Deuteronomy	5	28	JVB[	HJVBW	JVB			hif	perf	pl		p3	verb					nnnnn	nnnnn	היטבו
 2089044	Xq2	Deuteronomy	5	22	JSP[	JWSP	WSP			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוסף
-2089768	Xq3	Deuteronomy	5	15	JY>[	JWY>K	WY>			hif	wayq	sg	m	p3	verb	K			W	nnnnn	nnnnn	יוצאך
-2089933	Xq3	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
-2089995	Xq3	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
 2089599	Xq3	Deuteronomy	5	6	JY>[	HWYJ>TK	WYJ>T			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	הוציאתך
+2089933	Xq3	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
+2089768	Xq3	Deuteronomy	5	15	JY>[	JWY>K	WY>			hif	wayq	sg	m	p3	verb	K			W	nnnnn	nnnnn	יוצאך
+2089995	Xq3	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
 2090465	Mur1	Exodus	6	6	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrnnnn	nnnnnn	הוצאתי
 2090505	Mur1	Exodus	6	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
-2090937	Mur3	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תוסיפו
 2090875	Mur3	Isaiah	1	8	JTR[	NWTRH	NWTRH			nif	perf	sg	f	p3	verb				W	rrrrr	nnnnn	נותרה
 2090820	Mur3	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תוסיפו
-2091157	Mur4	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך
+2090937	Mur3	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תוסיפו
 2091252	Mur4	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
 2091017	Mur4	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 2091314	Mur4	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
-2096232	Mur88	Micah	7	7	JXL[	>WXJLH	WXJL			hif	impf	sg		p1	verb					nnnnrr	nnnnnn	אוחילה
-2093213	Mur88	Obadiah	1	4	JRD[	>WRJDK	WRJD			hif	impf	sg		p1	verb	K				rnnnnn	nnnnnn	אורידך
-2098392	Mur88	Zephaniah	2	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
-2094394	Mur88	Jonah	4	4	JVB[	HJVB	JVB			hif	infa	NA		NA	verb				H	nnnn	nnnn	היטב
-2097319	Mur88	Habakkuk	1	7	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	nrnn	nnnn	נורא
+2091157	Mur4	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך
+2098671	Mur88	Zephaniah	3	11	JSP[	TWSPJ	WSP			hif	impf	sg	f	p2	verb					nnnnn	nnnnn	תוספי
 2099079	Mur88	Haggai	1	11	JY>[	TWYJ>	WYJ>			hif	impf	sg	f	p3	verb					rrrrr	nnnnn	תוציא
-2092830	Mur88	Amos	9	2	JRD[	>WRJDM	WRJD			hif	impf	sg		p1	verb	M				nnnnnn	nnnnnn	אורידם
-2098766	Mur88	Zephaniah	3	17	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יושיע
+2097414	Mur88	Habakkuk	1	12	JKX[	HWKJX	WKJX			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוכיח
+2097192	Mur88	Nahum	3	17	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע
+2092225	Mur88	Amos	1	14	JYT[	HYTJ	Y			hif	perf	sg		p1	verb				W	rrrr	nnnn	הצתי
 2094735	Mur88	Micah	1	8	JLL[	>JLJLH	JLJL			hif	impf	sg		p1	verb				W	nnnnnn	nnnnnn	אילילה
-2091754	Mur88	Joel	3	4	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	nnrr	nnnn	נורא
-2098065	Mur88	Zephaniah	1	12	JVB[	JJVJB	JVJB			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייטיב
+2097736	Mur88	Habakkuk	3	2	JD<[	TWDJ<	WDJ<			hif	impf	sg	m	p2	verb					nrrrn	nnnnn	תודיע
+2092602	Mur88	Amos	8	2	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוסיף
+2094394	Mur88	Jonah	4	4	JVB[	HJVB	JVB			hif	infa	NA		NA	verb				H	nnnn	nnnn	היטב
+2098392	Mur88	Zephaniah	2	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
+2091811	Mur88	Joel	4	2	JRD[	HWRDTJM	WRD			hif	perf	sg		p1	verb	M			W	nnnnrrn	nnnnnnn	הורדתים
+2098766	Mur88	Zephaniah	3	17	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יושיע
+2092608	Mur88	Amos	8	3	JLL[	HJLJLW	JLJL			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הילילו
+2096694	Mur88	Nahum	2	1	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוסיף
+2095416	Mur88	Micah	4	2	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	rrrrr	nnnnn	יורנו
+2096267	Mur88	Micah	7	9	JY>[	JWYJ>NJ	WYJ>			hif	impf	sg	m	p3	verb	NJ				rrnnnnn	nnnnnnn	יוציאני
 2094517	Mur88	Jonah	4	9	JVB[	HJVB	JVB			hif	infa	NA		NA	verb				H	nnnn	nnnn	היטב
 2094525	Mur88	Jonah	4	9	JVB[	HJVJB	JVJB			hif	infa	NA		NA	verb					nnnnn	nnnnn	היטיב
-2092468	Mur88	Amos	7	13	JSP[	TWSJP	WSJP			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוסיף
-2093544	Mur88	Obadiah	1	21	JC<[	MC<JM	C<			hif	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	משעים
-2097414	Mur88	Habakkuk	1	12	JKX[	HWKJX	WKJX			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוכיח
-2097032	Mur88	Nahum	3	8	JVB[	TJVBJ	JVB			hif	impf	sg	f	p2	verb				H	nnnnn	nnnnn	תיטבי
-2097667	Mur88	Habakkuk	2	18	JRH[	MWRH	WRH			hif	ptca	sg	m	NA	verb				W	rrrn	nnnn	מורה
-2092225	Mur88	Amos	1	14	JYT[	HYTJ	Y			hif	perf	sg		p1	verb				W	rrrr	nnnn	הצתי
-2095416	Mur88	Micah	4	2	JRH[	JWRNW	WR			hif	impf	sg	m	p3	verb	NW			W	rrrrr	nnnnn	יורנו
-2098779	Mur88	Zephaniah	3	18	JGH[	NWGJ	NWG			nif	ptca	pl	m	NA	verb		J			nnnn	nnnn	נוגי
-2098647	Mur88	Zephaniah	3	10	JBL[	JWBLWN	WBL			hif	impf	pl	m	p3	verb	N				nnnnnn	nnnnnn	יובלון
-2092602	Mur88	Amos	8	2	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוסיף
-2097736	Mur88	Habakkuk	3	2	JD<[	TWDJ<	WDJ<			hif	impf	sg	m	p2	verb					nrrrn	nnnnn	תודיע
-2096267	Mur88	Micah	7	9	JY>[	JWYJ>NJ	WYJ>			hif	impf	sg	m	p3	verb	NJ				rrnnnnn	nnnnnnn	יוציאני
-2097689	Mur88	Habakkuk	2	19	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					nnnn	nnnn	יורה
-2097192	Mur88	Nahum	3	17	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע
-2098799	Mur88	Zephaniah	3	19	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	nnnnnr	nnnnnn	הושעתי
-2094020	Mur88	Jonah	2	5	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוסיף
-2095332	Mur88	Micah	3	11	JRH[	JWRW	WR			hif	impf	pl	m	p3	verb					nnnn	nnnn	יורו
-2098671	Mur88	Zephaniah	3	11	JSP[	TWSPJ	WSP			hif	impf	sg	f	p2	verb					nnnnn	nnnnn	תוספי
-2095440	Mur88	Micah	4	3	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	הוכיח
-2092608	Mur88	Amos	8	3	JLL[	HJLJLW	JLJL			hif	perf	pl		p3	verb				W	rrrrrr	nnnnnn	הילילו
 2093198	Mur88	Obadiah	1	3	JRD[	JWRDNJ	WRD			hif	impf	sg	m	p3	verb	NJ				nnnnnn	nnnnnn	יורדני
-2091811	Mur88	Joel	4	2	JRD[	HWRDTJM	WRD			hif	perf	sg		p1	verb	M			W	nnnnrrn	nnnnnnn	הורדתים
 2092378	Mur88	Amos	7	8	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					rnnnn	nnnnn	אוסיף
-2096694	Mur88	Nahum	2	1	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוסיף
+2098065	Mur88	Zephaniah	1	12	JVB[	JJVJB	JVJB			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייטיב
+2097667	Mur88	Habakkuk	2	18	JRH[	MWRH	WRH			hif	ptca	sg	m	NA	verb				W	rrrn	nnnn	מורה
+2095332	Mur88	Micah	3	11	JRH[	JWRW	WR			hif	impf	pl	m	p3	verb					nnnn	nnnn	יורו
+2093213	Mur88	Obadiah	1	4	JRD[	>WRJDK	WRJD			hif	impf	sg		p1	verb	K				rnnnnn	nnnnnn	אורידך
+2098647	Mur88	Zephaniah	3	10	JBL[	JWBLWN	WBL			hif	impf	pl	m	p3	verb	N				nnnnnn	nnnnnn	יובלון
+2098779	Mur88	Zephaniah	3	18	JGH[	NWGJ	NWG			nif	ptca	pl	m	NA	verb		J			nnnn	nnnn	נוגי
+2095440	Mur88	Micah	4	3	JKX[	HWKJX	WKJX			hif	perf	sg	m	p3	verb				W	rrrrr	nnnnn	הוכיח
+2097319	Mur88	Habakkuk	1	7	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				W	nrnn	nnnn	נורא
+2092468	Mur88	Amos	7	13	JSP[	TWSJP	WSJP			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוסיף
+2097689	Mur88	Habakkuk	2	19	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					nnnn	nnnn	יורה
+2094020	Mur88	Jonah	2	5	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוסיף
+2093544	Mur88	Obadiah	1	21	JC<[	MC<JM	C<			hif	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	משעים
+2097032	Mur88	Nahum	3	8	JVB[	TJVBJ	JVB			hif	impf	sg	f	p2	verb				H	nnnnn	nnnnn	תיטבי
+2091754	Mur88	Joel	3	4	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	nnrr	nnnn	נורא
+2092830	Mur88	Amos	9	2	JRD[	>WRJDM	WRJD			hif	impf	sg		p1	verb	M				nnnnnn	nnnnnn	אורידם
+2098799	Mur88	Zephaniah	3	19	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	nnnnnr	nnnnnn	הושעתי
 2096162	Mur88	Micah	7	3	JVB[	HJVJB	JVJB			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	היטיב
 2095002	Mur88	Micah	2	7	JVB[	JJVJBW	JVJB			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	ייטיבו
+2096232	Mur88	Micah	7	7	JXL[	>WXJLH	WXJL			hif	impf	sg		p1	verb					nnnnrr	nnnnnn	אוחילה
 2099869	Sdeir1	Genesis	35	8	JNQ[	MJNQT	JNQT			hif	ptca	sg	f	NA	verb					rrrrr	nnnnn	מינקת
-2101670	5/6hev1b	Psalms	31	5	JY>[	TWYJ>NJ	WYJ>			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תוציאני
-2100680	5/6hev1b	Psalms	10	18	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnrn	nnnnn	יוסיף
 2101169	5/6hev1b	Psalms	18	28	JC<[	TWCJ<	WCJ<			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תושיע
+2101656	5/6hev1b	Psalms	31	3	JC<[	HWCJ<NJ	WCJ<			hif	infc	NA		NA	verb	NJ			L	rrrrrrr	nnnnnnn	הושיעני
 2101088	5/6hev1b	Psalms	18	20	JY>[	JYJ>NJ	YJ>			hif	wayq	sg	m	p3	verb	NJ			W	nnnnnr	nnnnnn	יציאני
+2101555	5/6hev1b	Psalms	25	4	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הודיעני
+2101825	5/6hev1b	Psalms	31	17	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				rnnnnnn	nnnnnnn	הושיעני
+2101670	5/6hev1b	Psalms	31	5	JY>[	TWYJ>NJ	WYJ>			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תוציאני
+2101310	5/6hev1b	Psalms	18	42	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
+2100680	5/6hev1b	Psalms	10	18	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnrn	nnnnn	יוסיף
+2100511	5/6hev1b	Psalms	9	17	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע
 2101793	5/6hev1b	Psalms	31	14	JSD=[	HWSDM	HWSD			nif	infc	NA		NA	verb	M			B	rrrrr	nnnnn	הוסדם
 2100367	5/6hev1b	Psalms	7	18	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
-2101555	5/6hev1b	Psalms	25	4	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הודיעני
-2101656	5/6hev1b	Psalms	31	3	JC<[	HWCJ<NJ	WCJ<			hif	infc	NA		NA	verb	NJ			L	rrrrrrr	nnnnnnn	הושיעני
-2101310	5/6hev1b	Psalms	18	42	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
-2100511	5/6hev1b	Psalms	9	17	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע
-2101825	5/6hev1b	Psalms	31	17	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				rnnnnnn	nnnnnnn	הושיעני
 2101935	Xhev/se2	Numbers	27	3	J<D[	NW<DJM	NW<D			nif	ptca	pl	m	NA	verb		JM		H	rrrnnn	nnnnnn	נועדים
 2102202	Xhev/se3	Deuteronomy	9	5	JRC[	MWRJCM	WRJC			hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn	מורישם
 2102176	Xhev/se3	Deuteronomy	9	4	JRC[	MWRJCM	WRJC			hif	ptca	sg	m	NA	verb	M				rrrrrr	nnnnnn	מורישם
-2102499	Xhev/se5	Exodus	13	9	JY>[	HYJ>K	YJ>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הציאך
 2102593	Xhev/se5	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו
 2102358	Xhev/se5	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 2102651	Xhev/se5	Exodus	13	16	JY>[	HYJ>NW	YJ>			hif	perf	sg	m	p3	verb	NW				nnnnnn	nnnnnn	הציאנו
-2103113	34Se1	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך
+2102499	Xhev/se5	Exodus	13	9	JY>[	HYJ>K	YJ>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הציאך
 2103208	34Se1	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrnnnnn	nnnnnnn	הוציאנו
 2102973	34Se1	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrnnn	nnnnn	הוציא
 2103270	34Se1	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	הוציאנו
+2103113	34Se1	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך
+2103554	Mas1b	Leviticus	8	32	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נותר
 2104073	Mas1b	Leviticus	10	11	JRH[	HWRT	WRT			hif	infc	NA		NA	verb				WL	rrrr	nnnn	הורת
-2104228	Mas1b	Leviticus	10	16	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrnnn	nnnnnn	נותרים
 2104102	Mas1b	Leviticus	10	12	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נותרים
 2104108	Mas1b	Leviticus	10	12	JTR[	NWTRT	NWTRT			nif	ptca	sg	f	NA	verb				H	rrrrr	nnnnn	נותרת
-2103554	Mas1b	Leviticus	8	32	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נותר
+2104228	Mas1b	Leviticus	10	16	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrnnn	nnnnnn	נותרים
+2106630	Mas1d	Ezekiel	38	8	JY>[	HWY>H	HWY>H			hof	perf	sg	f	p3	verb					rrrrr	nnnnn	הוצאה
 2105590	Mas1d	Ezekiel	36	11	JCB[	HWCBTJ	WCB			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הושבתי
 2105595	Mas1d	Ezekiel	36	11	JVB[	HVBTJ	VB			hif	perf	sg		p1	verb				W	rrrrr	nnnnn	הטבתי
 2106536	Mas1d	Ezekiel	38	4	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	nrrrrr	nnnnnn	הוצאתי
-2106630	Mas1d	Ezekiel	38	8	JY>[	HWY>H	HWY>H			hof	perf	sg	f	p3	verb					rrrrr	nnnnn	הוצאה
 2106444	Mas1d	Ezekiel	37	23	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הושעתי
 2106010	Mas1d	Ezekiel	36	32	JD<[	JWD<	JWD<			nif	impf	sg	m	p3	verb					rrrr	nnnn	יודע
 2105605	Mas1d	Ezekiel	36	12	HLK[	HWLKTJ	HWLK			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הולכתי
 2105620	Mas1d	Ezekiel	36	12	JSP[	TWSP	WSP			hif	impf	sg	m	p2	verb					rrrr	nnnn	תוסף
 2105245	Mas1d	Ezekiel	35	11	JD<[	NWD<TJ	NWD<TJ			nif	perf	sg		p1	verb				W	nrrnnn	nnnnnn	נודעתי
-2105943	Mas1d	Ezekiel	36	29	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הושעתי
 2106032	Mas1d	Ezekiel	36	33	JCB[	HWCBTJ	WCB			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הושבתי
+2105943	Mas1d	Ezekiel	36	29	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הושעתי
 2106086	Mas1d	Ezekiel	37	1	JY>[	JWY>NJ	WY>			hif	wayq	sg	m	p3	verb	NJ			W	nnnrrr	nnnnnn	יוצאני
 2105571	Mas1d	Ezekiel	36	10	JCB[	NCBW	NCBW			nif	perf	pl		p3	verb				W	rrrr	nnnn	נשבו
 2106945	Mas1e	Psalms	83	6	J<Y[	NW<YW	NW<YW			nif	perf	pl		p3	verb					nnnnn	nnnnn	נועצו
