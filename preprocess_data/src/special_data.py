@@ -39,7 +39,7 @@ POTENTIALLY_FEMININE_WORDS = {'<FR=/', '<FRH=/', '>RB</', '>XD/', 'CB</',
                               'CC/', 'CLC/', 'CMNH/', 'CNJM/', 'TC</', 'XMC/'}
 
 # For >XWT/ singular and plural are >XWT, stem is different.
-USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/', '>XWT/']
+USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/', '>XWT/', '>CPT/']
 
 # >WN/ is sometimes awen, with suffix onka, MWT/ and TWK/, ZJT/ are similar.
 # 'XV>T/', 'YB>/' are bit noisy, maybe separate analysis.
