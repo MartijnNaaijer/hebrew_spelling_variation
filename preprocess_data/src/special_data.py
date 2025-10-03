@@ -46,7 +46,7 @@ USELESS_PLURALS = ['JWM/', '>JC/', '<JR/', '<DWT/', '>XWT/', '>CPT/']
 REMOVE_LEXEMES = {'BJT/', '>JN/', '>JL=/', 'LJLH/', 'GJ>/',
                   'XJL/', 'MJM/', '<JN/', 'PTJ/', 'MWT/',
                   'R>M/', 'R>CWN/', 'TWK/', '>WN=/',
-                  'LJLJT/', 'XJH/', 'FM>L/', 'R>C/',
+                  'LJLJT/', 'XJH/', 'FM>L/', #'R>C/',
                   'N>D/', 'YWN/', 'XV>T/', 'YB>/', 'ZJT/'}
 # 'FM>L/', 'R>C/', 'N>D/' and 'YWN/' vary between one vowel letter
 # and two vowel letters, which is not studied.
