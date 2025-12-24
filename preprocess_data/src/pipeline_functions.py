@@ -366,6 +366,9 @@ def get_triliteral_hiphil(corpus, mt):
     invalid_data_remover = InvalidDataRemover(hiph_triliteral_df)
     hiph_triliteral_df = invalid_data_remover.data_complete_syllables
 
+    useless_nodes = list(AD_HOC_REMOVALS.keys())
+    hiph_triliteral_df = hiph_triliteral_df[~hiph_triliteral_df.tf_id.isin(useless_nodes)]
+
     return hiph_triliteral_df
 
 
@@ -397,6 +400,9 @@ def get_qal_infinitive_absolute(corpus, mt):
 
     invalid_data_remover = InvalidDataRemover(qal_inf_abs_df)
     qal_inf_abs_df = invalid_data_remover.data_complete_syllables
+
+    useless_nodes = list(AD_HOC_REMOVALS.keys())
+    qal_inf_abs_df = qal_inf_abs_df[~qal_inf_abs_df.tf_id.isin(useless_nodes)]
 
     # Strange case in dataset:
     # in 4Q56 2x inf abs in 37:30, waar komen die vandaan, niet in andere manuscr.

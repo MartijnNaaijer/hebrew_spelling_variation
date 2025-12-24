@@ -94,4 +94,9 @@ AD_HOC_REMOVALS = {
     493495:	"SP	Numbers	26	17	>R>LJ/	>RWLJ	>RWL: consonantal > has dropped",
     491737:	"SP	Numbers	22	30	<WD/	HWDK	HWD: g_cons has no <",
     246733: "MT Jeremiah 24 1 DWD=/ DWD>J DWD>: exceptional case with > at end",
+    589682: "Mistake in SP lexeme",
+    595094: "Mistake in SP lexeme",
+    1912384: "Suspicious case in 1QIsaa",
+    1925535: "Trilit hiphil, 1Q8, misses < at the end",
+    1903077: "infa 1QIsaa 1903077, PRR, g_cons PWR is infc in MT according to BHSA",
     }

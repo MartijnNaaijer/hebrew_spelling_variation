@@ -333,7 +333,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1902278	1Qisaa	Isaiah	22	13	CXV[	CXV	CXV			qal	infa	NA		NA	verb				W	nnn	nnn	שחט		inf_abs_qal	18	17	0	1	0	0	nnn	nnn	last		0
 1902280	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nnnn	nnnn	אכול		inf_abs_qal	18	17	0	0	0	0	nnnn	nnnn	last	W	1
 1902285	1Qisaa	Isaiah	22	13	>KL[	>KWL	>KWL			qal	infa	NA		NA	verb					nnnn	nnnn	אכול		inf_abs_qal	19	17	0	0	0	0	nnnn	nnnn	last	W	1
-1903077	1Qisaa	Isaiah	24	19	PRR=[	PWR	PWR			qal	infa	NA		NA	verb					nnn	nnn	פור		inf_abs_qal	18	19	0	0	0	0	nnn	nnn	last	W	1
 1904463	1Qisaa	Isaiah	28	28	>DC[	HDC	HDC			qal	infa	NA		NA	verb					nnn	nnn	הדש		inf_abs_qal	4	23	0	0	0	0	nnn	nnn	last		0
 1905357	1Qisaa	Isaiah	30	19	XNN[	XNWN	XNWN			qal	infa	NA		NA	verb					nnnn	nnnn	חנון		inf_abs_qal	31	24	0	0	0	0	nnnn	nnnn	last	W	1
 1905813	1Qisaa	Isaiah	31	5	GNN[	GNWN	GNWN			qal	infa	NA		NA	verb					nnnn	nnnn	גנון		inf_abs_qal	1	26	0	0	0	0	nnnn	nnnn	last	W	1
