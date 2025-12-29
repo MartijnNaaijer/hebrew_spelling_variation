@@ -622,8 +622,9 @@ class DSSWordProcessor:
                     vbe = perf_dict[(gn, nu, ps)]
                     if (gn, nu, ps) == ('unknown', 'pl', 'p3') and self.stem.endswith('J'):
                         vbe = 'J' # single case in 1Qisaa, tf_id = 1899343
-                elif self.vt == 'impf':
-                    vbe = impf_dict[(gn, nu, ps)]
+                elif self.vt in {'impf', 'wayq'}:
+                    print(self.vt, self.book, self.chapter_num, self.verse_num, self.glyphs)
+                    vbe = impf_dict.get((gn, nu, ps), '')
                 elif self.vt == 'impv':
                     vbe = impv_dict[(gn, nu, ps)]
                     if vbe == 'NH' and self.lexeme[-2] == 'N':
