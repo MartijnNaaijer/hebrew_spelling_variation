@@ -7,4 +7,4 @@ data_path = '../../data'
 matres_patterns_mt_dss_file = 'pattern_data_mt_dss.json'
 matres_patterns_sp_file = f'pattern_data_sp_{sp_version}.json'
 
-entropy = 0.12
+entropy = 0.05

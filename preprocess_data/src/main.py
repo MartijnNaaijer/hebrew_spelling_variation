@@ -24,8 +24,8 @@ def main():
     mt_dss_sp_nouns_adjvs, mt_dss_sp_nouns_adjvs_all = pf.get_nouns_adjective_data(corpus, mt)
 
     # Remove ad hoc words with variation between one/more matres
-    # mt_dss_sp_nouns_adjvs.to_csv(os.path.join(data_path, 'nouns_adjectives.csv'), sep='\t', index=False)
-    # mt_dss_sp_nouns_adjvs_all.to_csv(os.path.join(data_path, 'nouns_adjectives_incl_no_variation.csv'), sep='\t', index=False)
+    mt_dss_sp_nouns_adjvs.to_csv(os.path.join(data_path, 'nouns_adjectives.csv'), sep='\t', index=False)
+    mt_dss_sp_nouns_adjvs_all.to_csv(os.path.join(data_path, 'nouns_adjectives_incl_no_variation.csv'), sep='\t', index=False)
     #
     # ptca, ptcp = pf.get_participle_qal_data(corpus, mt)
     # ptca = ptca.sort_values(by=['tf_id'])
@@ -40,9 +40,9 @@ def main():
     # lamed_he_infc.to_csv(os.path.join(data_path, 'infc_qal_lamed_he.csv'), sep='\t', index=False)
     # other_infc.to_csv(os.path.join(data_path, 'infc_qal_triliteral.csv'), sep='\t', index=False)
 
-    hiph_triliteral = pf.get_triliteral_hiphil(corpus, mt)
-    print(hiph_triliteral.shape)
-    hiph_triliteral.to_csv(os.path.join(data_path, 'hiphil_triliteral.csv'), sep='\t', index=False)
+    #hiph_triliteral = pf.get_triliteral_hiphil(corpus, mt)
+    #print(hiph_triliteral.shape)
+    #hiph_triliteral.to_csv(os.path.join(data_path, 'hiphil_triliteral.csv'), sep='\t', index=False)
 
     # niph_hiph_pe_yod = pf.get_niphal_hiphil_pe_yod_data(corpus, mt)
     # print(niph_hiph_pe_yod.shape)
