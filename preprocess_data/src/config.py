@@ -1,6 +1,6 @@
 bhsa_version = '2021'
 dss_version = '1.9'
-sp_version = '3.3.1' # if made higher, json file with pattern_data_sp should also be updated!
+sp_version = '6.0.3' # if made higher, json file with pattern_data_sp should also be updated!
 
 data_path = '../../data'
 
