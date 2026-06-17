@@ -38,7 +38,7 @@ The files are **tab-separated** and contains one row per analyzed *vowel-letter 
 | `pattern` | Consonant/vowel-letter pattern of the **stem**: `C` = consonant, `M` = mater lectionis. |
 | `pattern_g_cons` | Same `C`/`M` pattern but computed over the full word form (`g_cons`). |
 
-## Morphological features (BHSA)
+## Morphological features
 
 | Column | Description |
 |---|---|
@@ -62,11 +62,11 @@ The files are **tab-separated** and contains one row per analyzed *vowel-letter 
 | `rec_signs_stem` | Same as `rec_signs` but restricted to the `stem` portion. |
 | `cor_signs_stem` | Same as `cor_signs` but restricted to the `stem` portion. |
 
-## Vowel-letter analysis (focus of this dataset)
+## Vowel-letter analysis
 
 | Column | Description |
 |---|---|
-| `type` | Which vowel-letter position in the word this row describes — `first` or `last`. |
+| `type` | Which vowel-letter position in the word this row describes — `first`, `last` or `single`. |
 | `vowel_letter` | The vowel letter (mater lectionis) at this position (`>`, `J`, `W`, …), or empty if none. |
 | `has_vowel_letter` | Binary flag (1/0): whether the word has a vowel letter. |
 | `neigh_vowel_letter` | Binary flag (1/0) relating to a neighboring/adjacent vowel letter. |
