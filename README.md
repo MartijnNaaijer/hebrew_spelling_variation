@@ -75,6 +75,16 @@ The files are **tab-separated** and contains one row per analyzed *vowel-letter 
 | `has_hloc` | Binary flag (1/0): whether the word has a directional/locative *he*. |
 | `has_nme` | Binary flag (1/0): whether the word has a nominal ending. |
 
+## Extra columns in hiphil_triliteral_with_hireq.csv
+
+Built from `hiphil_triliteral.csv` by `notebooks/aligning_triliteral_hiphil_to_add_hireq.ipynb`.
+
+| Column | Description |
+|---|---|
+| `has_hireq` | String. For MT rows `'1'` if the second radical is pointed with ḥireq, `'0'` if with ṣere. DSS rows have no vocalisation of their own: they inherit the value of their MT parallel, and get `'-'` if they have none. |
+| `mt_match` | For DSS rows: the `tf_id` of the parallel MT form, or `'-'` if there is none; empty for MT rows. The DSS and MT texts are aligned verse by verse (character alignment). A pair needs the same lexeme, compared without the `=` and `/` homograph markers. Unmatched forms then fall back to a form in the same verse with the same lexeme and `vt`. |
+| `qere` | `1` for an MT ketiv/qere form, and for a DSS form whose MT parallel is one; else `0`. In such a form the consonants are the ketiv's and the pointing the qere's, and `has_hireq` (read off the unpointed ketiv lexeme) is always `0`, so these rows should be left out of any analysis that uses the vocalisation. |
+
 ## Preprocessing pipeline
 The preprocessing pipeline consists of the following steps:
 
