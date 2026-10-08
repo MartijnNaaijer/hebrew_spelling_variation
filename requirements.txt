@@ -1,6 +1,6 @@
-biopython
-numpy
-pandas
-pytest
-scipy
-text-fabric
+biopython==1.85
+numpy==1.26.4
+pandas==2.2.2
+pytest==7.4.4
+scipy==1.13.1
+text-fabric==13.1.0
