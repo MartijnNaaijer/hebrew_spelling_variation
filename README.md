@@ -91,3 +91,26 @@ The preprocessing pipeline consists of the following steps:
 1. Uniformize data from different Hebrew sub-corpora (MT, DSS and SP) using classes in data_classes.py.
 2. Parse the vowel letters in the MT (parse_matres_mt.py).
 3. Parse vowel letters in DSS.
+
+### Running the pipeline
+Run `main.py` from `preprocess_data/src`. It writes the datasets to the folder `data`:
+
+    python main.py                 # nouns and adjectives (default)
+    python main.py hiphil infa     # the given datasets
+    python main.py all             # all datasets
+
+Available datasets: `nouns`, `ptc`, `infc`, `hiphil`, `niph_hiph_pe_yod`, `particles`, `infa`.
+
+### Checking that the output has not changed
+When you change the code, write the datasets to a separate folder and compare them with the datasets in `data`
+(row order is ignored):
+
+    cd preprocess_data/src
+    python main.py all --out ../regression_output
+    cd ..
+    python compare_datasets.py regression_output
+
+To compare with another folder than `data`, give it as second argument, e.g.
+`python compare_datasets.py regression_output regression_baseline`. The script lists, per dataset, the rows that were removed or added. You can also run the tests on the new output:
+
+    SPELLING_DATA_DIR=preprocess_data/regression_output pytest tests

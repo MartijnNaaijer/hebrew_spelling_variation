@@ -132,3 +132,7 @@ dmypy.json
 *.rds
 *.rda
 .Rproj.user
+
+# Output of regression runs of the preprocessing pipeline
+preprocess_data/regression_output/
+preprocess_data/regression_baseline/

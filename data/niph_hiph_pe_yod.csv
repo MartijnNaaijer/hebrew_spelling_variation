@@ -2135,14 +2135,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1997193	4Q51	1_Samuel	2	6	JRD[	MWRJD	WRJD			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מוריד		niph_hiph_pe_yod	23	2a_d	0	0	0	0	nnnn	nnnn	first	W	1
 1997849	4Q51	1_Samuel	2	36	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נותר		niph_hiph_pe_yod	37	3a_e	0	1	0	0	nnnn	nnnn	first	W	1
 1999477	4Q51	1_Samuel	10	8	JD<[	HD<TJ	D<			hif	perf	sg		p1	verb				W	nnnrr	nnnnn	הדעתי		niph_hiph_pe_yod	9	9e_i	0	1	0	0	nn	nn	first		0
-2003739	4Q51	2_Samuel	3	34	JSP[	JSPW	SPW			hif	wayq	pl	m	p3	verb				W	nnnn	nnnn	יספו		niph_hiph_pe_yod	18	f61i+62	0	1	0	0	nnn	nnn	first		0
+2003739	4Q51	2_Samuel	3	34	JSP[	JSPW	SP			hif	wayq	pl	m	p3	verb				W	nnnn	nnnn	יספו		niph_hiph_pe_yod	18	f61i+62	0	1	0	0	nn	nn	first		0
 2005061	4Q51	2_Samuel	7	29	J>L[	HW>L	W>L			hif	impv	sg	m	NA	verb					nnnn	nnnn	הואל		niph_hiph_pe_yod	10	f78_79	0	0	0	0	nnn	nnn	first	W	1
 2009836	4Q51	2_Samuel	22	42	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע		niph_hiph_pe_yod	16	f155_158	0	0	0	0	nnnn	nnnn	first	W	1
 2009919	4Q51	2_Samuel	22	50	JDH[	>WDK	WD			hif	impf	sg		p1	verb	K				nnnn	nnnn	אודך		niph_hiph_pe_yod	21	f155_158	1	0	0	0	nn	nn	first	W	1
 2012528	4Q53	1_Samuel	25	31	JVB[	HJVJB	JVJB			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	היטיב		niph_hiph_pe_yod	3	f1	0	1	0	0	nnnn	nnnn	first	J	1
 2012858	4Q53	2_Samuel	14	19	JMN[	HJMJN	JMJN			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הימין		niph_hiph_pe_yod	19	f2_5i	0	1	0	0	nnnn	nnnn	first	J	1
 2013142	4Q53	2_Samuel	14	30	JYT[	HYJTWH	YJT			hif	impv	pl	m	NA	verb	H			W	nnnnnn	nnnnnn	הציתוה		niph_hiph_pe_yod	13	f5ii_7i	1	1	0	0	nnn	nnn	first		0
-2013146	4Q53	2_Samuel	14	30	JYT[	JYJTW	YJTW			hif	wayq	pl	m	p3	verb				W	nnnrr	nnnnn	יציתו		niph_hiph_pe_yod	13	f5ii_7i	0	1	0	0	nnnr	nnnn	first		0
+2013146	4Q53	2_Samuel	14	30	JYT[	JYJTW	YJT			hif	wayq	pl	m	p3	verb				W	nnnrr	nnnnn	יציתו		niph_hiph_pe_yod	13	f5ii_7i	0	1	0	0	nnn	nnn	first		0
 2013185	4Q53	2_Samuel	14	31	JYT[	HYJTH	YJT			hif	perf	sg	m	p3	verb	H				nnnnn	nnnnn	הציתה		niph_hiph_pe_yod	16	f5ii_7i	1	0	0	0	nnn	nnn	first		0
 2014751	4Q55	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					nnnnn	nnnnn	מודעת		niph_hiph_pe_yod	2	f8	0	0	0	0	nnnnn	nnnnn	first	W	1
 2015826	4Q55	Isaiah	23	1	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו		niph_hiph_pe_yod	27	f11ii+15	0	0	0	0	nnnn	nnnn	first	J	1

@@ -1,60 +1,82 @@
 """
-A dataset is created containing nouns and adjectives that show orthographic variation in their stem. With "stem", we
-the consonantal representation of a word without suffixes (nominal endings and pronominal suffixes) and without prefixed
-words (article or preposition).
+Builds the datasets of spelling variation in MT, DSS and SP and saves them as tab-separated files.
+
+The main dataset contains nouns and adjectives that show orthographic variation in their stem. With "stem", we mean
+the consonantal representation of a word without suffixes (nominal endings and pronominal suffixes) and without
+prefixed words (article or preposition). The other datasets contain specific verbal forms and particles.
+
+Usage (from preprocess_data/src):
+    python main.py                       # nouns and adjectives only
+    python main.py hiphil infa           # the given datasets
+    python main.py all                   # all datasets
+    python main.py all --out some/dir    # write the files to some/dir instead of the data folder
 
 """
-
+import argparse
 import os
+import sys
 
-import pandas as pd
+DATASETS = ['nouns', 'ptc', 'infc', 'hiphil', 'niph_hiph_pe_yod', 'particles', 'infa']
 
-from config import data_path
-from data_classes import Corpus
 
-from parse_matres_mt import MTMatresProcessor
-import pipeline_functions as pf
+def parse_args():
+    parser = argparse.ArgumentParser(description='Build the spelling variation datasets.')
+    parser.add_argument('datasets', nargs='*', default=['nouns'], choices=DATASETS + ['all'],
+                        help='datasets to build (default: nouns)')
+    parser.add_argument('--out', help='folder for the output files (default: the data folder)')
+    return parser.parse_args()
 
 
 def main():
+    args = parse_args()
+    # Text-Fabric and the data print non-ASCII characters, which fails in a Windows console with another encoding.
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+    datasets = DATASETS if 'all' in args.datasets else args.datasets
+    if args.out:
+        os.makedirs(args.out, exist_ok=True)
+        os.environ['SPELLING_OUTPUT_DIR'] = os.path.abspath(args.out)
+
+    # Imported here, so that config sees the output folder. Importing data_classes loads the Text-Fabric corpora.
+    from config import output_path
+    from data_classes import Corpus
+    from parse_matres_mt import MTMatresProcessor
+    import pipeline_functions as pf
+
+    def save(df, file_name):
+        df.to_csv(os.path.join(output_path, file_name), sep='\t', index=False)
+
     corpus = Corpus('biblical')
     matres_processor_mt = MTMatresProcessor(corpus)
     mt = matres_processor_mt.mt_matres_df
 
-    mt_dss_sp_nouns_adjvs, mt_dss_sp_nouns_adjvs_all = pf.get_nouns_adjective_data(corpus, mt)
+    if 'nouns' in datasets:
+        mt_dss_sp_nouns_adjvs, mt_dss_sp_nouns_adjvs_all = pf.get_nouns_adjective_data(corpus, mt)
+        save(mt_dss_sp_nouns_adjvs, 'nouns_adjectives.csv')
+        save(mt_dss_sp_nouns_adjvs_all, 'nouns_adjectives_incl_no_variation.csv')
 
-    # Remove ad hoc words with variation between one/more matres
-    mt_dss_sp_nouns_adjvs.to_csv(os.path.join(data_path, 'nouns_adjectives.csv'), sep='\t', index=False)
-    mt_dss_sp_nouns_adjvs_all.to_csv(os.path.join(data_path, 'nouns_adjectives_incl_no_variation.csv'), sep='\t', index=False)
-    #
-    # ptca, ptcp = pf.get_participle_qal_data(corpus, mt)
-    # ptca = ptca.sort_values(by=['tf_id'])
-    # ptcp = ptcp.sort_values(by=['tf_id'])
-    # ptca.to_csv(os.path.join(data_path, 'ptca_qal.csv'), sep='\t', index=False)
-    # ptcp.to_csv(os.path.join(data_path, 'ptcp_qal.csv'), sep='\t', index=False)
-    #  # # TODO: patterns "CCMC" are strange, "CMCC" is expected.
-    #
-    # lamed_he_infc, other_infc = pf.get_qal_infinitive_construct_data(corpus, mt)
-    # print(other_infc.shape)
-    # print(lamed_he_infc.shape)
-    # lamed_he_infc.to_csv(os.path.join(data_path, 'infc_qal_lamed_he.csv'), sep='\t', index=False)
-    # other_infc.to_csv(os.path.join(data_path, 'infc_qal_triliteral.csv'), sep='\t', index=False)
+    if 'ptc' in datasets:
+        # TODO: patterns "CCMC" are strange, "CMCC" is expected.
+        ptca, ptcp = pf.get_participle_qal_data(corpus, mt)
+        save(ptca.sort_values(by=['tf_id']), 'ptca_qal.csv')
+        save(ptcp.sort_values(by=['tf_id']), 'ptcp_qal.csv')
 
-    #hiph_triliteral = pf.get_triliteral_hiphil(corpus, mt)
-    #print(hiph_triliteral.shape)
-    #hiph_triliteral.to_csv(os.path.join(data_path, 'hiphil_triliteral.csv'), sep='\t', index=False)
+    if 'infc' in datasets:
+        lamed_he_infc, other_infc = pf.get_qal_infinitive_construct_data(corpus, mt)
+        save(lamed_he_infc, 'infc_qal_lamed_he.csv')
+        save(other_infc, 'infc_qal_triliteral.csv')
 
-    # niph_hiph_pe_yod = pf.get_niphal_hiphil_pe_yod_data(corpus, mt)
-    # print(niph_hiph_pe_yod.shape)
-    # niph_hiph_pe_yod.to_csv(os.path.join(data_path, 'niph_hiph_pe_yod.csv'), sep='\t', index=False)
-    #
-    # #particles = pf.get_particles(corpus, mt)
-    # #print(particles.shape)
-    # #particles.to_csv(os.path.join(data_path, 'particles.csv'), sep='\t', index=False)
-    #
-    # qal_inf_abs = pf.get_qal_infinitive_absolute(corpus, mt)
-    # print(qal_inf_abs.shape)
-    # qal_inf_abs.to_csv(os.path.join(data_path, 'infa_qal.csv'), sep='\t', index=False)
+    if 'hiphil' in datasets:
+        save(pf.get_triliteral_hiphil(corpus, mt), 'hiphil_triliteral.csv')
+
+    if 'niph_hiph_pe_yod' in datasets:
+        save(pf.get_niphal_hiphil_pe_yod_data(corpus, mt), 'niph_hiph_pe_yod.csv')
+
+    if 'particles' in datasets:
+        save(pf.get_particles(corpus, mt), 'particles.csv')
+
+    if 'infa' in datasets:
+        save(pf.get_qal_infinitive_absolute(corpus, mt), 'infa_qal.csv')
 
 
 if __name__ == '__main__':

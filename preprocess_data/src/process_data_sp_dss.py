@@ -2,7 +2,7 @@ import os
 
 import pandas as pd
 
-from config import data_path
+from config import output_path
 from data_classes import Scroll
 from special_data import df_columns
 
@@ -100,4 +100,4 @@ class SpDssDataProcessor:
         matres_df = pd.DataFrame(self.word_info_dict).T
         matres_df.columns = df_columns
         self.matres_df = matres_df
-        matres_df.to_csv(os.path.join(data_path, self.file_name), sep='\t', index=False)
+        matres_df.to_csv(os.path.join(output_path, self.file_name), sep='\t', index=False)

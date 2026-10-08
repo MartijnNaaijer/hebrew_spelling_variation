@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-from config import data_path
+from config import output_path
 from data_classes import F, L, Scroll
 from special_data import df_columns
 
@@ -217,4 +217,4 @@ class MTMatresProcessor:
 
     def save_mt_dataset(self, file_name):
         """"""
-        self.mt_matres_df.to_csv(os.path.join(data_path, file_name), sep='\t', index=False)
+        self.mt_matres_df.to_csv(os.path.join(output_path, file_name), sep='\t', index=False)
