@@ -169,7 +169,7 @@ def add_syllable_rows(data):
     type: str syllable type (values: first, last, single)
     vowel_letter: str (what is the vowel letter (W, J, > or a combination))
     has_vowel_letter: 1 if the syllable has a vowel letter, else 0.
-    Stems with one syllable get a row of type single, if no letter of the syllable is reconstructed.
+    Stems with one syllable get a row of type single.
     Stems with more syllables get a row for the first and a row for the last syllable.
     """
     new_rows = {}
@@ -185,8 +185,6 @@ def add_syllable_rows(data):
 
         idcs = get_vowel_indices_first_and_last_syllables(pattern, c_count)
         if isinstance(idcs, list):
-            if sum([row.rec_signs[idx].count('r') for idx in idcs]):
-                continue
             syllables = [('single', idcs)]
         else:
             syllables = [('last', idcs[1]), ('first', idcs[0])]
