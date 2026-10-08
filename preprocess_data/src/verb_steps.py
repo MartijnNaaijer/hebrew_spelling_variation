@@ -63,12 +63,9 @@ def remove_useless_participles(data):
 def correct_active_participles(data):
     data = data.copy()
     # The model sometimes thinks that W has consonantal value, which is corrected here.
-    data['pattern'] = np.where((data.pattern == 'CCCC') & (data.g_cons.str[1] == 'W'),
-                               'CM' + data.pattern.str[2:],
-                               data.pattern)
-    data['pattern_g_cons'] = np.where((data.pattern == 'CCCC') & (data.g_cons.str[1] == 'W'),
-                                      'CW' + data.pattern_g_cons.str[2:],
-                                      data.pattern_g_cons)
+    consonantal_w = (data.pattern == 'CCCC') & (data.g_cons.str[1] == 'W')
+    data['pattern'] = np.where(consonantal_w, 'CM' + data.pattern.str[2:], data.pattern)
+    data['pattern_g_cons'] = np.where(consonantal_w, 'CM' + data.pattern_g_cons.str[2:], data.pattern_g_cons)
 
     # Remove feminine T.
     has_extra_t = (data.stem.str[-1] == 'T') & (data.lex.str[:3].str[-1] != 'T') & \
