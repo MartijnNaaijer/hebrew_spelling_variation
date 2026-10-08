@@ -195,7 +195,7 @@ def particles(tables):
     """The particles KJ, L> and MJ."""
     dss = select(tables, 'particles', 'dss')
     sp = select(tables, 'particles', 'sp')
-    data = run_steps(combine(select(tables, 'particles', 'mt'), sp, dss), first_steps('particles') + [
+    data = run_steps(combine(select(tables, 'particles', 'mt'), shift_sp_tf_ids(sp), dss), first_steps('particles') + [
         add_help_columns,
         add_rec_cor_stem_columns,
         vs.remove_mt_particles_without_pattern,
