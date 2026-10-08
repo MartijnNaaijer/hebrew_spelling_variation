@@ -2,6 +2,7 @@
 Processing steps that are shared by several datasets. Every step takes a DataFrame and returns a new DataFrame,
 so that a dataset can be made by applying a list of steps with run_steps().
 """
+import warnings
 from functools import cache
 
 import numpy as np
@@ -29,10 +30,19 @@ def set_column(name, value):
 
 def add_matres_patterns(data, pattern_dict):
     """Adds the vowel letter pattern of the word (pattern_g_cons) and of the stem (pattern).
-    pattern_dict has a pattern for every tf_id. Words without a pattern get empty patterns."""
+    pattern_dict has a pattern for every tf_id. Words without a pattern get empty patterns.
+    The patterns are stored by tf_id, so they only fit the corpus version they were made for. A warning is given
+    if patterns do not have the length of the word they belong to."""
     data = data.copy()
     patterns_g_cons = [pattern_dict.get(int(tf_id), '') for tf_id in data.tf_id]
     patterns_g_cons = [pattern if isinstance(pattern, str) else '' for pattern in patterns_g_cons]
+    wrong_length = [(tf_id, g_cons, pattern)
+                    for tf_id, g_cons, pattern in zip(data.tf_id, data.g_cons, patterns_g_cons)
+                    if pattern and len(pattern) != len(g_cons)]
+    if wrong_length:
+        warnings.warn(f'{len(wrong_length)} matres patterns do not have the length of their word, '
+                      f'e.g. (tf_id, g_cons, pattern): {wrong_length[:5]}. '
+                      'Do the pattern files fit the corpus version?')
     stem_idcs = [g_cons.find(stem) for g_cons, stem in zip(data.g_cons, data.stem)]
     data['pattern'] = [pattern[idx:idx + len(stem)] for pattern, idx, stem in
                        zip(patterns_g_cons, stem_idcs, data.stem)]
