@@ -93,6 +93,9 @@ class MTWordProcessor:
         return gender
 
     def get_stem(self):
+        # According to BHSA H is not nominal ending, but we strip it ad hoc (see get_nme).
+        if self.lexeme == 'NGH/' and self.glyphs == 'NGH':
+            return 'NG'
         stem = keep_consonants(self.F.g_lex.v(self.tf_id))
         if self.lexeme in relevant_wt_words and self.number == 'sg' \
                 and not stem.endswith('T') and self.nme.startswith('T'):
