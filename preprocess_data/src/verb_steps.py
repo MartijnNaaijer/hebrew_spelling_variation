@@ -155,8 +155,7 @@ def add_vowel_letter_last_syllable_w(data):
 def remove_useless_inf_abs(data):
     data = remove_hollow_roots(data)
     # Remove ayin ayin verbs where last consonant has dropped.
-    # NB: stem.str.len is not called, so this condition is always False and nothing is removed.
-    data = data[~((data.lex.str[1] == data.lex.str[2]) & (data.stem.str.len == 2))]
+    data = data[~((data.lex.str[1] == data.lex.str[2]) & (data.stem.str.len() == 2))]
     # Remove lamed-he verbs
     return data[data.lex.str[2] != 'H']
 
