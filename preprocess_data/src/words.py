@@ -97,7 +97,7 @@ class MTWordProcessor:
         if self.lexeme in relevant_wt_words and self.number == 'sg' \
                 and not stem.endswith('T') and self.nme.startswith('T'):
             stem += 'T'
-            self.nme = self.nme.lstrip('T')
+            self.nme = self.nme.removeprefix('T')
         elif self.lexeme in fem_ending_numbers:
             stem = stem[:-1]
             self.nme = 'T' + self.nme
@@ -234,23 +234,23 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
             nme = 'WT' + nme
 
     if lex in {'GDL/', 'XV>/', 'CLC/', 'CWCN/'} and stem.endswith('H'):
-        stem = stem.rstrip('H')
+        stem = stem.removesuffix('H')
         nme = 'H' + nme
 
     if lex in {'P<LH/', 'XJH/', 'BMH/'} and stem.endswith('T'):
-        stem = stem.rstrip('T')
+        stem = stem.removesuffix('T')
         nme = 'T' + nme
 
     if lex == 'TMJM/' and stem.endswith('JMM'):
-        stem = stem.rstrip('M')
+        stem = stem.removesuffix('M')
         nme = 'M' + nme
 
     if lex in {'HWH/', 'LJLJT/', '<W<JM/', '>LMNWT/'} and stem.endswith('J'):
-        stem = stem.rstrip('J')
+        stem = stem.removesuffix('J')
         nme = 'J' + nme
 
     if lex == 'YJH/' and stem.endswith('>'):
-        stem = stem.rstrip('>')
+        stem = stem.removesuffix('>')
         nme = '>' + nme
 
     return stem, nme
@@ -330,7 +330,7 @@ class DSSWordProcessor:
                 self.correct_nme_prs()
             morpho = F.morpho.v(tf_id)
             if morpho and self.sp == 'verb' and morpho[-1] == 'h':
-                self.stem = self.stem.rstrip('H')
+                self.stem = self.stem.removesuffix('H')
         if self.sp == 'verb':
             # These remove the verbal prefix and endings from the stem. So far only implemented for the hiphil.
             self.strip_preformative()
@@ -477,7 +477,7 @@ class DSSWordProcessor:
             else:
                 vbe = ''
             if self.stem.endswith(vbe):
-                self.stem = self.stem.rstrip(vbe)
+                self.stem = self.stem.removesuffix(vbe)
 
     def get_prefix(self):
         """Concatenated g_cons of the words prefixed to this word, often article or preposition."""
@@ -532,10 +532,10 @@ class SPWordProcessor:
                 and not stem.endswith('T'):
             if self.nme.startswith('T'):
                 stem += 'T'
-                self.nme = self.nme.lstrip('T')
+                self.nme = self.nme.removeprefix('T')
             elif self.nme.startswith('WT'):
                 stem += 'WT'
-                self.nme = self.nme.lstrip('WT')
+                self.nme = self.nme.removeprefix('WT')
         elif self.lexeme in fem_ending_numbers:
             stem = stem[:-1]
             self.nme = 'T' + self.nme

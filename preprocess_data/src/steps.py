@@ -93,7 +93,7 @@ def split_off_other_vowel_endings(data):
     data = data.copy()
     vowel_counts = data.pattern.str.split('C').str[-1].str.count('M')
     data['other_vowel_ending'] = [_other_vowel_ending(stem, count) for stem, count in zip(data.stem, vowel_counts)]
-    data['stem'] = [str(stem).rstrip(ending) for stem, ending in zip(data.stem, data.other_vowel_ending)]
+    data['stem'] = [str(stem).removesuffix(ending) for stem, ending in zip(data.stem, data.other_vowel_ending)]
     data['pattern'] = [pattern[:len(stem)] if isinstance(pattern, str) else '' for pattern, stem
                        in zip(data.pattern, data.stem)]
     return data
@@ -178,7 +178,7 @@ def add_syllable_rows(data):
         if isinstance(pattern, float):
             pattern = ''
         if pattern.startswith('M'):
-            pattern = 'C' + pattern.lstrip('M')
+            pattern = 'C' + pattern[1:]
         c_count = pattern.count('C')
         if c_count < 2:
             continue
