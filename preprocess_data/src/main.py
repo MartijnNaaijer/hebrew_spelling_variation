@@ -16,7 +16,12 @@ import argparse
 import os
 import sys
 
-DATASETS = ['nouns', 'ptc', 'infc', 'hiphil', 'niph_hiph_pe_yod', 'particles', 'infa']
+from config import data_path
+from corpora import load_corpora
+from pipelines import PIPELINES
+from words import WORD_COLUMNS, build_mt_table, build_dss_table, build_sp_table, mt_sections
+
+DATASETS = list(PIPELINES)
 
 
 def parse_args():
@@ -33,50 +38,21 @@ def main():
     sys.stdout.reconfigure(encoding='utf-8')
     sys.stderr.reconfigure(encoding='utf-8')
     datasets = DATASETS if 'all' in args.datasets else args.datasets
-    if args.out:
-        os.makedirs(args.out, exist_ok=True)
-        os.environ['SPELLING_OUTPUT_DIR'] = os.path.abspath(args.out)
-
-    # Imported here, so that config sees the output folder. Importing data_classes loads the Text-Fabric corpora.
-    from config import output_path
-    from data_classes import Corpus
-    from parse_matres_mt import MTMatresProcessor
-    import pipeline_functions as pf
+    out = args.out or data_path
+    os.makedirs(out, exist_ok=True)
 
     def save(df, file_name):
-        df.to_csv(os.path.join(output_path, file_name), sep='\t', index=False)
+        df.to_csv(os.path.join(out, file_name), sep='	', index=False)
 
-    corpus = Corpus('biblical')
-    matres_processor_mt = MTMatresProcessor(corpus)
-    mt = matres_processor_mt.mt_matres_df
+    corpora = load_corpora()
+    mt_words = build_mt_table(corpora.mt)
+    sections = mt_sections(mt_words)
+    tables = {'mt': mt_words, 'dss': build_dss_table(corpora.dss, sections), 'sp': build_sp_table(corpora.sp, sections)}
+    save(mt_words[mt_words.lang == 'Hebrew'][WORD_COLUMNS], 'matres_mt.csv')
 
-    if 'nouns' in datasets:
-        mt_dss_sp_nouns_adjvs, mt_dss_sp_nouns_adjvs_all = pf.get_nouns_adjective_data(corpus, mt)
-        save(mt_dss_sp_nouns_adjvs, 'nouns_adjectives.csv')
-        save(mt_dss_sp_nouns_adjvs_all, 'nouns_adjectives_incl_no_variation.csv')
-
-    if 'ptc' in datasets:
-        # TODO: patterns "CCMC" are strange, "CMCC" is expected.
-        ptca, ptcp = pf.get_participle_qal_data(corpus, mt)
-        save(ptca.sort_values(by=['tf_id']), 'ptca_qal.csv')
-        save(ptcp.sort_values(by=['tf_id']), 'ptcp_qal.csv')
-
-    if 'infc' in datasets:
-        lamed_he_infc, other_infc = pf.get_qal_infinitive_construct_data(corpus, mt)
-        save(lamed_he_infc, 'infc_qal_lamed_he.csv')
-        save(other_infc, 'infc_qal_triliteral.csv')
-
-    if 'hiphil' in datasets:
-        save(pf.get_triliteral_hiphil(corpus, mt), 'hiphil_triliteral.csv')
-
-    if 'niph_hiph_pe_yod' in datasets:
-        save(pf.get_niphal_hiphil_pe_yod_data(corpus, mt), 'niph_hiph_pe_yod.csv')
-
-    if 'particles' in datasets:
-        save(pf.get_particles(corpus, mt), 'particles.csv')
-
-    if 'infa' in datasets:
-        save(pf.get_qal_infinitive_absolute(corpus, mt), 'infa_qal.csv')
+    for dataset in datasets:
+        for file_name, df in PIPELINES[dataset](tables).items():
+            save(df, file_name)
 
 
 if __name__ == '__main__':

@@ -22,19 +22,6 @@ j_lexemes = ['<BJ/', '<CTJ/', '<DJ/', '<J/', '<LJ/', '<NJ=/', '<PJ/', '>BWJ/', '
              'R<J/', 'R>J=/', 'RJ/', 'RZJ/', 'SKJ/', 'TPTJ/', 'TXNTJ', 'TXTJ/', 'VRPLJ/', 'XFWPJ/', 'XJJM/',
              'XLJ/', 'XRJ=/', 'XWRJ/', 'XYJ/', 'XYJ=/', 'YBJ/', 'YJ/', 'YLJ/', 'YRJ/', 'YRPJ/']
 
-df_columns = ['tf_id', 'scroll',
-              'book', 'chapter',
-              'verse', 'lex',
-              'g_cons', 'stem',
-              'pattern', 'pattern_g_cons',
-              'vs', 'vt',
-              'nu', 'gn',
-              'ps', 'sp',
-              'prs', 'nme',
-              'hloc', 'prefix',
-              'rec_signs', 'cor_signs',
-              'heb_g_cons']
-
 POTENTIALLY_FEMININE_WORDS = {'<FR=/', '<FRH=/', '>RB</', '>XD/', 'CB</',
                               'CC/', 'CLC/', 'CMNH/', 'CNJM/', 'TC</', 'XMC/'}
 

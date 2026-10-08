@@ -86,11 +86,17 @@ Built from `hiphil_triliteral.csv` by `notebooks/aligning_triliteral_hiphil_to_a
 | `qere` | `1` for an MT ketiv/qere form, and for a DSS form whose MT parallel is one; else `0`. In such a form the consonants are the ketiv's and the pointing the qere's, and `has_hireq` (read off the unpointed ketiv lexeme) is always `0`, so these rows should be left out of any analysis that uses the vocalisation. |
 
 ## Preprocessing pipeline
-The preprocessing pipeline consists of the following steps:
+The code is in `preprocess_data/src`. The pipeline consists of the following steps:
 
-1. Uniformize data from different Hebrew sub-corpora (MT, DSS and SP) using classes in data_classes.py.
-2. Parse the vowel letters in the MT (parse_matres_mt.py).
-3. Parse vowel letters in DSS.
+1. Load the Text-Fabric corpora of the MT, DSS and SP (`corpora.py`).
+2. Make a word table per corpus with uniform columns (`words.py`). For the MT, the vowel letters are parsed
+   from the vocalized text (`parse_matres_mt.py`). The DSS and SP tables contain the words in verses that also
+   occur in the MT.
+3. Select the words of a feature, e.g. the qal participles (`selection.py`).
+4. Process the selection with a list of steps per dataset (`pipelines.py`). The shared steps are in `steps.py`,
+   the steps for specific verbal forms and the particles in `verb_steps.py`. For the nouns and adjectives, the
+   vowel letter patterns of the DSS and SP are read from the json files in `data` (partly corrected by hand).
+5. Save the datasets (`main.py`).
 
 ### Running the pipeline
 Run `main.py` from `preprocess_data/src`. It writes the datasets to the folder `data`:
