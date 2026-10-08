@@ -301,11 +301,14 @@ def add_neighboring_vowel_letter(data):
     Adds the column neigh_vowel_letter: 1 if the same vowel letter occurs in the neighboring syllable, else 0.
     For a single syllable, the neighboring syllable is the start of the suffix. For the first syllable, it is the
     last syllable or the start of the suffix, for the last syllable the first syllable or the start of the suffix.
-    If the syllable has no vowel letter, the most frequent vowel letter of the lexeme and syllable type is used.
+    If the syllable has no vowel letter, the most frequent vowel letter of the lexeme and syllable type is used
+    (if the lexeme and syllable type never have a vowel letter, the value is 0).
     """
     data = data.copy()
-    most_frequent_vowel_letter = {key: group.vowel_letter.value_counts().index[0]
-                                  for key, group in data.groupby(['lex', 'type'], sort=False)}
+    most_frequent_vowel_letter = {}
+    for key, group in data.groupby(['lex', 'type'], sort=False):
+        vowel_letters = group.vowel_letter[group.vowel_letter.astype(bool)]
+        most_frequent_vowel_letter[key] = vowel_letters.value_counts().index[0] if len(vowel_letters) else ''
     neighboring = []
     for stem_pattern, word_pattern, syll_type, vowel_letter, stem, g_cons, lex in zip(
             data.pattern, data.pattern_g_cons, data.type, data.vowel_letter, data.stem, data.g_cons, data.lex):
