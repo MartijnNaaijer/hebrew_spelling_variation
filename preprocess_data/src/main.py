@@ -32,6 +32,16 @@ def parse_args():
     return parser.parse_args()
 
 
+def sort_rows(df):
+    """Sorts the rows by tf_id and syllable type, so that a dataset is written in the same order in every run.
+    If these do not identify the rows, the other columns are used too."""
+    key = [c for c in ['tf_id', 'type'] if c in df.columns]
+    if df.duplicated(key).any():
+        return df.sort_values(by=list(df.columns), key=lambda col: col if col.name == 'tf_id' else col.astype(str),
+                              kind='stable')
+    return df.sort_values(by=key, kind='stable')
+
+
 def main():
     args = parse_args()
     # Text-Fabric and the data print non-ASCII characters, which fails in a Windows console with another encoding.
@@ -42,7 +52,7 @@ def main():
     os.makedirs(out, exist_ok=True)
 
     def save(df, file_name):
-        df.to_csv(os.path.join(out, file_name), sep='	', index=False)
+        sort_rows(df).to_csv(os.path.join(out, file_name), sep='\t', index=False)
 
     corpora = load_corpora()
     mt_words = build_mt_table(corpora.mt)
