@@ -524,6 +524,7 @@ class SPWordProcessor:
         gender = self.F.gn.v(self.tf_id)
         if gender == 'NA':
             return None
+        return gender
 
     def get_stem(self):
         stem = self.F.g_lex.v(self.tf_id)
