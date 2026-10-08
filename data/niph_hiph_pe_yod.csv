@@ -2047,7 +2047,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1917572	1Qisaa	Isaiah	63	13	HLK[	MWLJKM	WLJK			hif	ptca	sg	m	NA	verb	M				nnnnnn	nnnnnn	מוליכם		niph_hiph_pe_yod	9	51	1	0	0	0	nnnn	nnnn	first	W	1
 1917695	1Qisaa	Isaiah	64	1	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודיע		niph_hiph_pe_yod	16	51	0	1	0	0	nnnn	nnnn	first	W	1
 1917707	1Qisaa	Isaiah	64	2	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	נוראות		niph_hiph_pe_yod	17	51	0	0	0	1	nnnn	nnnn	first	W	1
-1918021	1Qisaa	Isaiah	65	9	JY>[	HWYJTJ	WY			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הוציתי		niph_hiph_pe_yod	10	52	0	1	0	0	nn	nn	first	W	1
+1918021	1Qisaa	Isaiah	65	9	JY>[	HWYJTJ	WYJ			hif	perf	sg		p1	verb				W	nnnnnn	nnnnnn	הוציתי		niph_hiph_pe_yod	10	52	0	1	0	0	nnn	nnn	first	W	1
 1918149	1Qisaa	Isaiah	65	14	JLL[	TJLJLW	JLJL			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תילילו		niph_hiph_pe_yod	21	52	0	0	0	0	nnnn	nnnn	first	J	1
 1918569	1Qisaa	Isaiah	66	9	JLD[	>WLJD	WLJD			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוליד		niph_hiph_pe_yod	22	53	0	0	0	0	nnnn	nnnn	first	W	1
 1918575	1Qisaa	Isaiah	66	9	JLD[	MWLJD	WLJD			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוליד		niph_hiph_pe_yod	22	53	0	1	0	0	nnnn	nnnn	first	W	1
