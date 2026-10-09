@@ -25,7 +25,8 @@ ALL_DATASETS = ['nouns_adjectives.csv',
 
 # Known cases that fail the consonant checks below, still to be reviewed (see the plan for the code cleanup).
 # They are listed here, so that the tests do catch new cases.
-KNOWN_DIFFERENT_CONSONANT_COUNTS = {('>R>LJ/', 'last'), ('C>RJT/', 'last'), ('LBJ>/', 'last'), ('PR<H/', 'last')}
+KNOWN_DIFFERENT_CONSONANT_COUNTS = {('>R>LJ/', 'last'), ('C>RJT/', 'last'), ('LBJ>/', 'last'), ('MSPW>/', 'last'),
+                                    ('PR<H/', 'last')}
 KNOWN_DIFFERENT_CONSONANTS_MT_SP = {('<WD/', 'single'), ('C>RJT/', 'last'), ('DDNJ=/', 'first'),
                                     ('DWKJPT/', 'first'), ('LBJ>/', 'last')}
 

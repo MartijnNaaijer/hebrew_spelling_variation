@@ -584,7 +584,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 407069	SP	Genesis	3	24	QDM/	QDM	QDM				NA	sg	m	NA	subs				M	nnn	nnn	קדם
 407071	SP	Genesis	3	24	GN/	GN	GN				NA	sg	unknown	NA	subs				L	nn	nn	גן
 407075	SP	Genesis	3	24	KRWB/	KRWBJM	KRWB				NA	pl	m	NA	subs		JM		H	nnnnnn	nnnnnn	כרובים
-407078	SP	Genesis	3	24	LXV/	LXV	LXV				NA	sg	unknown	NA	subs					nnn	nnn	לחט
+407078	SP	Genesis	3	24	LHV/	LXV	LXV				NA	sg	unknown	NA	subs					nnn	nnn	לחט
 407080	SP	Genesis	3	24	XRB/	XRB	XRB				NA	sg	f	NA	subs				H	nnn	nnn	חרב
 407086	SP	Genesis	3	24	DRK/	DRK	DRK				NA	sg	unknown	NA	subs					nnn	nnn	דרך
 407087	SP	Genesis	3	24	<Y/	<Y	<Y				NA	sg	m	NA	subs					nn	nn	עץ
@@ -3168,7 +3168,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 415782	SP	Genesis	22	2	BN/	BNK	BN				NA	sg	m	NA	subs	K				nnn	nnn	בנך
 415784	SP	Genesis	22	2	JXJD/	JXJDK	JXJD				NA	sg	m	NA	adjv	K				nnnnn	nnnnn	יחידך
 415793	SP	Genesis	22	2	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
-415795	SP	Genesis	22	2	MWR>H/	MWR>H	MWR>				NA	sg	f	NA	subs		H		H	nnnnn	nnnnn	מוראה
 415799	SP	Genesis	22	2	<LH/	<LH	<L				NA	sg	f	NA	subs		H			nnn	nnn	עלה
 415801	SP	Genesis	22	2	>XD/	>XD	>XD				NA	sg	unknown	NA	subs					nnn	nnn	אחד
 415803	SP	Genesis	22	2	HR/	HRJM	HR				NA	pl	m	NA	subs		JM		H	nnnn	nnnn	הרים
@@ -3523,7 +3522,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 417123	SP	Genesis	24	24	BT/	BT	B				NA	sg	f	NA	subs		T			nn	nn	בת
 417126	SP	Genesis	24	24	BN/	BN	BN				NA	sg	m	NA	subs					nn	nn	בן
 417136	SP	Genesis	24	25	TBN/	TBN	TBN				NA	sg	m	NA	subs					nnn	nnn	תבן
-417138	SP	Genesis	24	25	MSPH/	MSPH	MSP				NA	sg	f	NA	subs		H			nnnn	nnnn	מספה
+417138	SP	Genesis	24	25	MSPW>/	MSPH	MSPH				NA	sg	m	NA	subs					nnnn	nnnn	מספה
 417139	SP	Genesis	24	25	RB/	RB	RB				NA	sg	m	NA	adjv					nn	nn	רב
 417143	SP	Genesis	24	25	MQWM/	MQWM	MQWM				NA	sg	m	NA	subs					nnnn	nnnn	מקום
 417149	SP	Genesis	24	26	>JC/	>JC	>JC				NA	sg	m	NA	subs				H	nnn	nnn	איש
@@ -3563,7 +3562,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 417275	SP	Genesis	24	32	BJT/	BJTH	BJT				NA	sg	m	NA	subs			H	H	nnnn	nnnn	ביתה
 417279	SP	Genesis	24	32	GML/	GMLJM	GML				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	גמלים
 417282	SP	Genesis	24	32	TBN/	TBN	TBN				NA	sg	m	NA	subs					nnn	nnn	תבן
-417284	SP	Genesis	24	32	MSPH/	MSPH	MSP				NA	sg	f	NA	subs		H		W	nnnn	nnnn	מספה
+417284	SP	Genesis	24	32	MSPW>/	MSPH	MSPH				NA	sg	m	NA	subs				W	nnnn	nnnn	מספה
 417286	SP	Genesis	24	32	GML/	GMLJM	GML				NA	pl	m	NA	subs		JM		L	nnnnn	nnnnn	גמלים
 417288	SP	Genesis	24	32	MJM/	MJM	MJ				NA	pl	m	NA	subs		M		W	nnn	nnn	מים
 417291	SP	Genesis	24	32	RGL/	RGLJW	RGL				NA	du	f	NA	subs	W	J			nnnnn	nnnnn	רגליו
@@ -3723,7 +3722,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 417900	SP	Genesis	24	64	GML/	GML	GML				NA	sg	unknown	NA	subs				H	nnn	nnn	גמל
 417905	SP	Genesis	24	65	<BD/	<BD	<BD				NA	sg	m	NA	subs				H	nnn	nnn	עבד
 417908	SP	Genesis	24	65	>JC/	>JC	>JC				NA	sg	m	NA	subs				H	nnn	nnn	איש
-417909	SP	Genesis	24	65	HLZ/	HLZ	HLZ				NA	sg	unknown	NA	adjv					nnn	nnn	הלז
 417913	SP	Genesis	24	65	FDH/	FDH	FDH				NA	sg	m	NA	subs				B	nnn	nnn	שדה
 417919	SP	Genesis	24	65	<BD/	<BD	<BD				NA	sg	m	NA	subs				H	nnn	nnn	עבד
 417921	SP	Genesis	24	65	>DWN/	>DNJ	>DN				NA	sg	m	NA	subs	J				nnnn	nnnn	אדני
@@ -3875,7 +3873,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 418490	SP	Genesis	25	33	BKRH/	BKWRTW	BKWR				NA	sg	f	NA	subs	W	T			nnnnnn	nnnnnn	בכורתו
 418498	SP	Genesis	25	34	LXM/	LXM	LXM				NA	sg	unknown	NA	subs					nnn	nnn	לחם
 418500	SP	Genesis	25	34	NZJD/	NZJD	NZJD				NA	sg	m	NA	subs				W	nnnn	nnnn	נזיד
-418502	SP	Genesis	25	34	FJM/	FJM	FJM				NA	sg	unknown	NA	subs					nnn	nnn	שים
 418516	SP	Genesis	25	34	BKRH/	BKWRH	BKWR				NA	sg	f	NA	subs		H		H	nnnnn	nnnnn	בכורה
 418519	SP	Genesis	26	1	R<B/	R<B	R<B				NA	sg	m	NA	subs					nnn	nnn	רעב
 418521	SP	Genesis	26	1	>RY/	>RY	>RY				NA	sg	unknown	NA	subs				B	nnn	nnn	ארץ
@@ -4091,7 +4088,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 419400	SP	Genesis	27	15	BGD/	BGDJ	BGD				NA	pl	m	NA	subs		J			nnnn	nnnn	בגדי
 419402	SP	Genesis	27	15	BN/	BNH	BN				NA	sg	m	NA	subs	H				nnn	nnn	בנה
 419404	SP	Genesis	27	15	GDWL/	GDWL	GDWL				NA	sg	unknown	NA	adjv				H	nnnn	nnnn	גדול
-419406	SP	Genesis	27	15	XMWD/	XMDWT	XMD				NA	pl	f	NA	subs		WT		H	nnnnn	nnnnn	חמדות
+419406	SP	Genesis	27	15	XMDWT/	XMDWT	XMD				NA	pl	f	NA	subs		WT		H	nnnnn	nnnnn	חמדות
 419410	SP	Genesis	27	15	BJT/	BJT	BJT				NA	sg	m	NA	subs				B	nnn	nnn	בית
 419415	SP	Genesis	27	15	BN/	BNH	BN				NA	sg	m	NA	subs	H				nnn	nnn	בנה
 419417	SP	Genesis	27	15	QVN=/	QVN	QVN				NA	sg	m	NA	adjv				H	nnn	nnn	קטן
@@ -4970,8 +4967,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 422857	SP	Genesis	31	46	>BN/	>BNJM	>BN				NA	pl	f	NA	subs		JM			nnnnn	nnnnn	אבנים
 422860	SP	Genesis	31	46	GL/	GL	GL				NA	sg	m	NA	subs					nn	nn	גל
 422866	SP	Genesis	31	46	GL/	GL	GL				NA	sg	m	NA	subs				H	nn	nn	גל
-422871	SP	Genesis	31	47	JGR/	JGR	JGR				NA	sg	m	NA	subs					nnn	nnn	יגר
-422872	SP	Genesis	31	47	FHDW/	FHDWTH	FHDW				NA	sg	unknown	NA	subs		T	H		nnnnnn	nnnnnn	שהדותה
 422882	SP	Genesis	31	48	GL/	GL	GL				NA	sg	m	NA	subs				H	nn	nn	גל
 422885	SP	Genesis	31	48	<D=/	<D	<D				NA	sg	m	NA	subs					nn	nn	עד
 422886	SP	Genesis	31	48	BJN/	BJNJ	BJN				NA	sg	m	NA	subs	J				nnnn	nnnn	ביני
@@ -5805,7 +5800,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 426093	SP	Genesis	37	19	>X/	>XJW	>X				NA	sg	m	NA	subs	W				nnnn	nnnn	אחיו
 426095	SP	Genesis	37	19	B<L/	B<L	B<L				NA	sg	m	NA	subs					nnn	nnn	בעל
 426097	SP	Genesis	37	19	XLWM/	XLMWT	XLM				NA	pl	m	NA	subs		WT		H	nnnnn	nnnnn	חלמות
-426098	SP	Genesis	37	19	HLZ/	HLZ	HLZ				NA	sg	unknown	NA	adjv					nnn	nnn	הלז
 426108	SP	Genesis	37	20	>XD/	>XD	>XD				NA	sg	unknown	NA	subs				B	nnn	nnn	אחד
 426110	SP	Genesis	37	20	BWR/	BWRWT	BWR				NA	pl	m	NA	subs		WT		H	nnnnn	nnnnn	בורות
 426113	SP	Genesis	37	20	XJH/	XJH	XJ				NA	sg	f	NA	subs		H			nnn	nnn	חיה
@@ -5946,7 +5940,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 426642	SP	Genesis	38	14	BGD/	BGDJ	BGD				NA	pl	m	NA	subs		J			nnnn	nnnn	בגדי
 426643	SP	Genesis	38	14	>LMNWT/	>LMNWTH	>LMNWT				NA	sg	f	NA	subs	H				nnnnnnn	nnnnnnn	אלמנותה
 426649	SP	Genesis	38	14	Y<JP/	Y<JP	Y<JP				NA	sg	m	NA	subs				B	nnnn	nnnn	צעיף
-426655	SP	Genesis	38	14	PT<=/	PT<	PT<				NA	sg	unknown	NA	subs				B	nnn	nnn	פתע
+426655	SP	Genesis	38	14	PTX/	PT<	PT<				NA	sg	m	NA	subs				B	nnn	nnn	פתע
 426659	SP	Genesis	38	14	DRK/	DRK	DRK				NA	sg	unknown	NA	subs					nnn	nnn	דרך
 426672	SP	Genesis	38	14	>CH/	>CH	>C				NA	sg	f	NA	subs		H		L	nnn	nnn	אשה
 426682	SP	Genesis	38	15	PNH/	PNJH	PN				NA	pl	m	NA	subs	H	J			nnnn	nnnn	פניה
@@ -6799,7 +6793,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 429483	SP	Genesis	42	26	XMWR/	XMRJHM	XMR				NA	pl	m	NA	subs	HM	J			nnnnnn	nnnnnn	חמריהם
 429490	SP	Genesis	42	27	>XD/	>XD	>XD				NA	sg	unknown	NA	subs					nnn	nnn	אחד
 429492	SP	Genesis	42	27	FQ/	FQW	FQ				NA	sg	m	NA	subs	W				nnn	nnn	שקו
-429495	SP	Genesis	42	27	MSPH/	MSPH	MSP				NA	sg	f	NA	subs		H			nnnn	nnnn	מספה
+429495	SP	Genesis	42	27	MSPW>/	MSPH	MSPH				NA	sg	m	NA	subs					nnnn	nnnn	מספה
 429497	SP	Genesis	42	27	XMWR/	XMRW	XMR				NA	sg	unknown	NA	subs	W			L	nnnn	nnnn	חמרו
 429499	SP	Genesis	42	27	MLWN/	MLWN	MLWN				NA	sg	m	NA	subs				B	nnnn	nnnn	מלון
 429503	SP	Genesis	42	27	KSP/	KSPW	KSP				NA	sg	m	NA	subs	W				nnnn	nnnn	כספו
@@ -6998,7 +6992,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 430225	SP	Genesis	43	24	BJT/	BJTH	BJT				NA	sg	m	NA	subs			H		nnnn	nnnn	ביתה
 430229	SP	Genesis	43	24	MJM/	MJM	MJ				NA	pl	m	NA	subs		M			nnn	nnn	מים
 430232	SP	Genesis	43	24	RGL/	RGLJHM	RGL				NA	du	f	NA	subs	HM	J			nnnnnn	nnnnnn	רגליהם
-430235	SP	Genesis	43	24	MSPH/	MSPH	MSP				NA	sg	f	NA	subs		H			nnnn	nnnn	מספה
+430235	SP	Genesis	43	24	MSPW>/	MSPH	MSPH				NA	sg	m	NA	subs					nnnn	nnnn	מספה
 430237	SP	Genesis	43	24	XMWR/	XMRJHM	XMR				NA	pl	m	NA	subs	HM	J		L	nnnnnn	nnnnnn	חמריהם
 430242	SP	Genesis	43	25	MNXH/	MNXH	MNX				NA	sg	f	NA	subs		H		H	nnnn	nnnn	מנחה
 430247	SP	Genesis	43	25	YHRJM/	YHRJM	YHR				NA	du	m	NA	subs		JM		B	nnnnn	nnnnn	צהרים
@@ -7912,7 +7906,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 433481	SP	Genesis	49	9	VRP/	VRP	VRP				NA	sg	m	NA	subs				M	nnn	nnn	טרף
 433482	SP	Genesis	49	9	BN/	BNJ	BN				NA	sg	m	NA	subs	J				nnn	nnn	בני
 433487	SP	Genesis	49	9	>RJH/	>RJH	>RJH				NA	sg	m	NA	subs				K	nnnn	nnnn	אריה
-433490	SP	Genesis	49	9	LBJ>/	LBJH	LBJ				NA	sg	f	NA	subs		H		WK	nnnn	nnnn	לביה
+433490	SP	Genesis	49	9	LBJ>=/	LBJH	LBJH				NA	sg	f	NA	subs				WK	nnnn	nnnn	לביה
 433495	SP	Genesis	49	10	CBV/	CBV	CBV				NA	sg	m	NA	subs					nnn	nnn	שבט
 433501	SP	Genesis	49	10	BJN/	BJN	BJN				NA	sg	m	NA	subs				M	nnn	nnn	בין
 433502	SP	Genesis	49	10	DGL/	DGLJW	DGL				NA	pl	m	NA	subs	W	J			nnnnn	nnnnn	דגליו
@@ -7927,7 +7921,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 433526	SP	Genesis	49	11	DM/	DM	DM				NA	sg	m	NA	subs				WB	nn	nn	דם
 433527	SP	Genesis	49	11	<NB/	<NBJM	<NB				NA	pl	m	NA	subs		JM			nnnnn	nnnnn	ענבים
 433529	SP	Genesis	49	11	SWT/	SWTW	SWT				NA	sg	unknown	NA	subs	W			K	nnnn	nnnn	סותו
-433530	SP	Genesis	49	12	XKLJLW/	XKLJLW	XKLJLW				NA	sg	m	NA	adjv					nnnnnn	nnnnnn	חכלילו
+433530	SP	Genesis	49	12	XKLJLW/	XKLJLW	XKLJLW				NA	pl	m	NA	adjv					nnnnnn	nnnnnn	חכלילו
 433531	SP	Genesis	49	12	<JN/	<JNJM	<JN				NA	du	f	NA	subs		JM			nnnnn	nnnnn	עינים
 433533	SP	Genesis	49	12	JJN/	JJN	JJN				NA	sg	m	NA	subs				M	nnn	nnn	יין
 433535	SP	Genesis	49	12	LBN/	LBN	LBN				NA	sg	m	NA	adjv				W	nnn	nnn	לבן
@@ -8010,7 +8004,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 433709	SP	Genesis	49	26	>X/	>XJW	>X				NA	pl	m	NA	subs	W	J			nnnn	nnnn	אחיו
 433711	SP	Genesis	49	27	Z>B/	Z>B	Z>B				NA	sg	m	NA	subs					nnn	nnn	זאב
 433714	SP	Genesis	49	27	BQR=/	BQR	BQR				NA	sg	m	NA	subs				B	nnn	nnn	בקר
-433716	SP	Genesis	49	27	<DJ=/	<DJ	<DJ				NA	sg	unknown	NA	subs					nnn	nnn	עדי
+433716	SP	Genesis	49	27	<D==/	<DJ	<DJ				NA	sg	m	NA	subs					nnn	nnn	עדי
 433719	SP	Genesis	49	27	<RB/	<RB	<RB				NA	sg	m	NA	subs				WL	nnn	nnn	ערב
 433721	SP	Genesis	49	27	CLL/	CLL	CLL				NA	sg	m	NA	subs					nnn	nnn	שלל
 433722	SP	Genesis	49	28	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
@@ -8349,7 +8343,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 435048	SP	Exodus	2	16	KHN/	KHN	KHN				NA	sg	m	NA	subs				WL	nnn	nnn	כהן
 435050	SP	Exodus	2	16	CB</	CB<	CB<				NA	sg	unknown	NA	subs					nnn	nnn	שבע
 435051	SP	Exodus	2	16	BT/	BNWT	BN				NA	pl	f	NA	subs		WT			nnnn	nnnn	בנות
-435060	SP	Exodus	2	16	RXV/	RXVJM	RXV				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	רחטים
+435060	SP	Exodus	2	16	RHV/	RXVJM	RXV				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	רחטים
 435064	SP	Exodus	2	16	Y>N/	Y>N	Y>N				NA	sg	unknown	NA	subs					nnn	nnn	צאן
 435065	SP	Exodus	2	16	>B/	>BJHN	>B				NA	sg	m	NA	subs	HN				nnnnn	nnnnn	אביהן
 435080	SP	Exodus	2	17	Y>N/	Y>NM	Y>N				NA	sg	unknown	NA	subs	M				nnnn	nnnn	צאנם
@@ -8936,7 +8930,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 437606	SP	Exodus	7	11	PR<H/	PR<H	PR<H				NA	sg	m	NA	subs					nnnn	nnnn	פרעה
 437608	SP	Exodus	7	11	XKM/	XKMJM	XKM				NA	pl	m	NA	adjv		JM		L	nnnnn	nnnnn	חכמים
 437616	SP	Exodus	7	11	XRVM/	XRVMJ	XRVM				NA	pl	m	NA	subs		J			nnnnn	nnnnn	חרטמי
-437619	SP	Exodus	7	11	LXV/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
+437619	SP	Exodus	7	11	LHVJM/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
 437623	SP	Exodus	7	12	>JC/	>JC	>JC				NA	sg	m	NA	subs					nnn	nnn	איש
 437624	SP	Exodus	7	12	MVH/	MVHW	MV				NA	sg	m	NA	subs	HW				nnnn	nnnn	מטהו
 437628	SP	Exodus	7	12	TNJN/	TNJNJM	TNJN				NA	pl	m	NA	subs		JM		L	nnnnnn	nnnnnn	תנינים
@@ -9008,7 +9002,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 437953	SP	Exodus	7	21	KL/	KL	KL				NA	sg	m	NA	subs				B	nn	nn	כל
 437954	SP	Exodus	7	21	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
 437959	SP	Exodus	7	22	XRVM/	XRVMJ	XRVM				NA	pl	m	NA	subs		J			nnnnn	nnnnn	חרטמי
-437962	SP	Exodus	7	22	LXV/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
+437962	SP	Exodus	7	22	LHVJM/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
 437965	SP	Exodus	7	22	LB/	LB	LB				NA	sg	m	NA	subs					nn	nn	לב
 437966	SP	Exodus	7	22	PR<H/	PR<H	PR<H				NA	sg	m	NA	subs					nnnn	nnnn	פרעה
 437977	SP	Exodus	7	23	PR<H/	PR<H	PR<H				NA	sg	m	NA	subs					nnnn	nnnn	פרעה
@@ -9075,7 +9069,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 438229	SP	Exodus	8	2	YPRD</	YPRD<	YPRD<				NA	sg	f	NA	subs				H	nnnnn	nnnnn	צפרדע
 438233	SP	Exodus	8	2	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
 438238	SP	Exodus	8	3	XRVM/	XRVMJ	XRVM				NA	pl	m	NA	subs		J			nnnnn	nnnnn	חרטמי
-438241	SP	Exodus	8	3	LXV/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
+438241	SP	Exodus	8	3	LHVJM/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
 438245	SP	Exodus	8	3	YPRD</	YPRD<JM	YPRD<				NA	pl	f	NA	subs		JM		H	nnnnnnn	nnnnnnn	צפרדעים
 438247	SP	Exodus	8	3	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
 438251	SP	Exodus	8	4	PR<H/	PR<H	PR<H				NA	sg	m	NA	subs					nnnn	nnnn	פרעה
@@ -9133,7 +9127,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 438476	SP	Exodus	8	13	KL/	KL	KL				NA	sg	m	NA	subs				B	nn	nn	כל
 438477	SP	Exodus	8	13	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
 438483	SP	Exodus	8	14	XRVM/	XRVMJM	XRVM				NA	pl	m	NA	subs		JM		H	nnnnnn	nnnnnn	חרטמים
-438485	SP	Exodus	8	14	LXV/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
+438485	SP	Exodus	8	14	LHVJM/	LXVJHM	LXV				NA	pl	m	NA	subs	HM	J		B	nnnnnn	nnnnnn	לחטיהם
 438490	SP	Exodus	8	14	KN==/	KNJM	KN				NA	pl	m	NA	subs		JM		H	nnnn	nnnn	כנים
 438497	SP	Exodus	8	14	KN==/	KNJM	KN				NA	pl	m	NA	subs		JM		H	nnnn	nnnn	כנים
 438499	SP	Exodus	8	14	>DM/	>DM	>DM				NA	sg	m	NA	subs				B	nnn	nnn	אדם
@@ -9776,7 +9770,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 440744	SP	Exodus	11	3	XN/	XN	XN				NA	sg	m	NA	subs					nn	nn	חן
 440746	SP	Exodus	11	3	<M/	<M	<M				NA	sg	m	NA	subs				H	nn	nn	עם
 440750	SP	Exodus	11	3	<JN/	<JNJ	<JN				NA	du	f	NA	subs		J		B	nnnn	nnnn	עיני
-440756	SP	Exodus	11	3	XYJT/	XYJT	XYJT				NA	sg	unknown	NA	subs				WK	nnnn	nnnn	חצית
+440756	SP	Exodus	11	3	XYWT/	XYJT	XYJT				NA	sg	unknown	NA	subs				WK	nnnn	nnnn	חצית
 440758	SP	Exodus	11	3	LJLH/	LJLH	LJLH				NA	sg	unknown	NA	subs				H	nnnn	nnnn	לילה
 440762	SP	Exodus	11	3	TWK/	TWK	TWK				NA	sg	unknown	NA	subs				B	nnn	nnn	תוך
 440763	SP	Exodus	11	3	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
@@ -9818,7 +9812,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 440867	SP	Exodus	11	3	BN/	BNJ	BN				NA	sg	unknown	NA	subs	J				nnn	nnn	בני
 440878	SP	Exodus	11	3	BN/	BNK	BN				NA	sg	unknown	NA	subs	K				nnn	nnn	בנך
 440879	SP	Exodus	11	3	BKR/	BKWRK	BKWR				NA	sg	unknown	NA	subs	K				nnnnn	nnnnn	בכורך
-440887	SP	Exodus	11	4	XYJT/	XYJT	XYJT				NA	sg	unknown	NA	subs				K	nnnn	nnnn	חצית
+440887	SP	Exodus	11	4	XYWT/	XYJT	XYJT				NA	sg	unknown	NA	subs				K	nnnn	nnnn	חצית
 440889	SP	Exodus	11	4	LJLH/	LJLH	LJLH				NA	sg	m	NA	subs				H	nnnn	nnnn	לילה
 440893	SP	Exodus	11	4	TWK/	TWK	TWK				NA	sg	m	NA	subs				B	nnn	nnn	תוך
 440894	SP	Exodus	11	4	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
@@ -10121,7 +10115,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 441854	SP	Exodus	12	37	CC/	CC	CC				NA	sg	unknown	NA	subs				K	nn	nn	שש
 441855	SP	Exodus	12	37	M>H/	M>WT	M>				NA	pl	f	NA	subs		WT			nnnn	nnnn	מאות
 441856	SP	Exodus	12	37	>LP=/	>LP	>LP				NA	sg	unknown	NA	subs					nnn	nnn	אלף
-441857	SP	Exodus	12	37	RGL>J/	RGL>J	RGL>J				NA	sg	m	NA	adjv					nnnnn	nnnnn	רגלאי
+441857	SP	Exodus	12	37	RGLJ/	RGL>J	RGL>J				NA	sg	m	NA	adjv					nnnnn	nnnnn	רגלאי
 441859	SP	Exodus	12	37	GBR/	GBRJM	GBR				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	גברים
 441861	SP	Exodus	12	37	BD/	BD	BD				NA	sg	m	NA	subs				L	nn	nn	בד
 441863	SP	Exodus	12	37	VP/	VP	VP				NA	sg	m	NA	subs				M	nn	nn	טף
@@ -11527,8 +11521,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 446899	SP	Exodus	21	2	CNH/	CNJM	CN				NA	pl	f	NA	subs		JM			nnnn	nnnn	שנים
 446903	SP	Exodus	21	2	CBJ<J/	CB<JT	CB<J				NA	sg	f	NA	adjv		T		WB	nnnnn	nnnnn	שבעית
 446906	SP	Exodus	21	2	XPCJ/	XPCJ	XPCJ				NA	sg	m	NA	adjv				L	nnnn	nnnn	חפשי
-446910	SP	Exodus	21	3	GP/	GPJW	GP				NA	pl	f	NA	subs	W	J		B	nnnn	nnnn	גפיו
-446913	SP	Exodus	21	3	GP/	GPJW	GP				NA	pl	f	NA	subs	W	J		B	nnnn	nnnn	גפיו
+446910	SP	Exodus	21	3	GP/	GPJW	GP				NA	pl	m	NA	subs	W	J		B	nnnn	nnnn	גפיו
+446913	SP	Exodus	21	3	GP/	GPJW	GP				NA	pl	m	NA	subs	W	J		B	nnnn	nnnn	גפיו
 446916	SP	Exodus	21	3	B<L/	B<L	B<L				NA	sg	m	NA	subs					nnn	nnn	בעל
 446917	SP	Exodus	21	3	>CH/	>CH	>C				NA	sg	f	NA	subs		H			nnn	nnn	אשה
 446921	SP	Exodus	21	3	>CH/	>CTW	>C				NA	sg	f	NA	subs	W	T			nnnn	nnnn	אשתו
@@ -11539,7 +11533,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 446935	SP	Exodus	21	4	>CH/	>CH	>C				NA	sg	f	NA	subs		H		H	nnn	nnn	אשה
 446937	SP	Exodus	21	4	JLJD/	JLJDJH	JLJD				NA	pl	m	NA	subs	H	J		W	nnnnnn	nnnnnn	ילידיה
 446940	SP	Exodus	21	4	>DWN/	>DNJW	>DN				NA	pl	m	NA	subs	W	J		L	nnnnn	nnnnn	אדניו
-446945	SP	Exodus	21	4	GP/	GPJW	GP				NA	pl	f	NA	subs	W	J		B	nnnn	nnnn	גפיו
+446945	SP	Exodus	21	4	GP/	GPJW	GP				NA	pl	m	NA	subs	W	J		B	nnnn	nnnn	גפיו
 446950	SP	Exodus	21	5	<BD/	<BD	<BD				NA	sg	m	NA	subs				H	nnn	nnn	עבד
 446953	SP	Exodus	21	5	>DWN/	>DNJ	>DN				NA	sg	m	NA	subs	J				nnnn	nnnn	אדני
 446955	SP	Exodus	21	5	>CH/	>CTJ	>C				NA	sg	f	NA	subs	J	T			nnnn	nnnn	אשתי
@@ -11856,7 +11850,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 447895	SP	Exodus	22	27	>LHJM/	>LHJM	>LH				NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים
 447899	SP	Exodus	22	27	NFJ>/	NFJ>	NFJ>				NA	sg	m	NA	subs				W	nnnn	nnnn	נשיא
 447901	SP	Exodus	22	27	<M/	<MK	<M				NA	sg	m	NA	subs	K			B	nnn	nnn	עמך
-447904	SP	Exodus	22	28	MLJH/	MLJTK	MLJ				NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	מליתך
+447904	SP	Exodus	22	28	ML>H/	MLJTK	MLJ				NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	מליתך
 447906	SP	Exodus	22	28	DM</	DM<K	DM<				NA	sg	m	NA	subs	K			W	nnnn	nnnn	דמעך
 447909	SP	Exodus	22	28	BKR/	BKWR	BKWR				NA	sg	m	NA	subs					nnnn	nnnn	בכור
 447910	SP	Exodus	22	28	BN/	BNJK	BN				NA	pl	m	NA	subs	K	J			nnnn	nnnn	בניך
@@ -12258,10 +12252,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 449120	SP	Exodus	25	17	VHR/	VHWR	VHWR				NA	sg	m	NA	adjv					nnnn	nnnn	טהור
 449121	SP	Exodus	25	17	>MH=/	>MTJM	>M				NA	du	f	NA	subs		TJM			nnnnn	nnnnn	אמתים
 449123	SP	Exodus	25	17	XYJ/	XYJ	XYJ				NA	sg	m	NA	subs				W	nnn	nnn	חצי
-449124	SP	Exodus	25	17	>RK=/	>RKW	>RK				NA	sg	unknown	NA	subs	W				nnnn	nnnn	ארכו
+449124	SP	Exodus	25	17	>RK=/	>RKW	>RK				NA	sg	m	NA	subs	W				nnnn	nnnn	ארכו
 449126	SP	Exodus	25	17	>MH=/	>MH	>M				NA	sg	f	NA	subs		H		W	nnn	nnn	אמה
 449128	SP	Exodus	25	17	XYJ/	XYJ	XYJ				NA	sg	m	NA	subs				W	nnn	nnn	חצי
-449129	SP	Exodus	25	17	RXB=/	RXBW	RXB				NA	sg	unknown	NA	subs	W				nnnn	nnnn	רחבו
+449129	SP	Exodus	25	17	RXB=/	RXBW	RXB				NA	sg	m	NA	subs	W				nnnn	nnnn	רחבו
 449132	SP	Exodus	25	18	CNJM/	CNJ	CN				NA	du	unknown	NA	subs		J			nnn	nnn	שני
 449133	SP	Exodus	25	18	KRWB/	KRWBJM	KRWB				NA	pl	m	NA	subs		JM			nnnnnn	nnnnnn	כרובים
 449134	SP	Exodus	25	18	ZHB/	ZHB	ZHB				NA	sg	m	NA	subs					nnn	nnn	זהב
@@ -12430,7 +12424,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 449488	SP	Exodus	25	37	<BR/	<BR	<BR				NA	sg	m	NA	subs					nnn	nnn	עבר
 449489	SP	Exodus	25	37	PNH/	PNJH	PN				NA	pl	m	NA	subs	H	J			nnnn	nnnn	פניה
 449491	SP	Exodus	25	38	MLQXJM/	MLQXJH	MLQX				NA	du	m	NA	subs	H	J		W	nnnnnn	nnnnnn	מלקחיה
-449493	SP	Exodus	25	38	MXTJT/	MXTJTJH	MXTJ				NA	pl	f	NA	subs	H	TJ		W	nnnnnnn	nnnnnnn	מחתיתיה
+449493	SP	Exodus	25	38	MXTH/	MXTJTJH	MXTJ				NA	pl	f	NA	subs	H	TJ		W	nnnnnnn	nnnnnnn	מחתיתיה
 449494	SP	Exodus	25	38	ZHB/	ZHB	ZHB				NA	sg	m	NA	subs					nnn	nnn	זהב
 449495	SP	Exodus	25	38	VHR/	VHWR	VHWR				NA	sg	m	NA	adjv					nnnn	nnnn	טהור
 449496	SP	Exodus	25	39	KKR/	KKR	KKR				NA	sg	f	NA	subs					nnn	nnn	ככר
@@ -12775,9 +12769,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 450201	SP	Exodus	26	35	<Y/	<YJ	<Y				NA	pl	m	NA	subs		J			nnn	nnn	עצי
 450202	SP	Exodus	26	35	CVH/	CVJM	CV				NA	pl	f	NA	subs		JM			nnnn	nnnn	שטים
 450205	SP	Exodus	26	35	>MH=/	>MH	>M				NA	sg	f	NA	subs		H			nnn	nnn	אמה
-450206	SP	Exodus	26	35	>RK=/	>RKW	>RK				NA	sg	unknown	NA	subs	W				nnnn	nnnn	ארכו
+450206	SP	Exodus	26	35	>RK=/	>RKW	>RK				NA	sg	m	NA	subs	W				nnnn	nnnn	ארכו
 450208	SP	Exodus	26	35	>MH=/	>MH	>M				NA	sg	f	NA	subs		H		W	nnn	nnn	אמה
-450209	SP	Exodus	26	35	RXB=/	RXBW	RXB				NA	sg	unknown	NA	subs	W				nnnn	nnnn	רחבו
+450209	SP	Exodus	26	35	RXB=/	RXBW	RXB				NA	sg	m	NA	subs	W				nnnn	nnnn	רחבו
 450213	SP	Exodus	26	35	>MH=/	>MTJM	>M				NA	du	f	NA	subs		TJM		W	nnnnn	nnnnn	אמתים
 450214	SP	Exodus	26	35	QWMH/	QWMTW	QWM				NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	קומתו
 450216	SP	Exodus	26	35	QRN/	QRNTJW	QRN				NA	pl	f	NA	subs	W	TJ			nnnnnn	nnnnnn	קרנתיו
@@ -13866,7 +13860,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 452985	SP	Exodus	30	34	SM/	SMJM	SM				NA	pl	m	NA	subs		JM			nnnn	nnnn	סמים
 452986	SP	Exodus	30	34	NVP/	NVP	NVP				NA	sg	m	NA	subs					nnn	nnn	נטף
 452988	SP	Exodus	30	34	CXLT/	CXLT	CXL				NA	sg	f	NA	subs		T		W	nnnn	nnnn	שחלת
-452990	SP	Exodus	30	34	XLBNJH/	XLBNJH	XLBNJ				NA	sg	f	NA	subs		H		W	nnnnnn	nnnnnn	חלבניה
+452990	SP	Exodus	30	34	XLBNH/	XLBNJH	XLBNJ				NA	sg	f	NA	subs		H		W	nnnnnn	nnnnnn	חלבניה
 452991	SP	Exodus	30	34	SM/	SMJM	SM				NA	pl	m	NA	subs		JM			nnnn	nnnn	סמים
 452993	SP	Exodus	30	34	LBNH=/	LBWNH	LBWN				NA	sg	f	NA	subs		H		W	nnnnn	nnnnn	לבונה
 452994	SP	Exodus	30	34	ZK/	ZKH	ZK				NA	sg	f	NA	adjv		H			nnn	nnn	זכה
@@ -14149,7 +14143,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 454009	SP	Exodus	32	27	>JC/	>JC	>JC				NA	sg	m	NA	subs				W	nnn	nnn	איש
 454011	SP	Exodus	32	27	R<=/	R<HW	R<				NA	sg	m	NA	subs	HW				nnnn	nnnn	רעהו
 454013	SP	Exodus	32	27	>JC/	>JC	>JC				NA	sg	m	NA	subs				W	nnn	nnn	איש
-454015	SP	Exodus	32	27	QRJB/	QRJBW	QRJB				NA	sg	unknown	NA	adjv	W				nnnnn	nnnnn	קריבו
+454015	SP	Exodus	32	27	QRWB/	QRJBW	QRJB				NA	sg	unknown	NA	adjv	W				nnnnn	nnnnn	קריבו
 454018	SP	Exodus	32	28	BN/	BNJ	BN				NA	pl	m	NA	subs		J			nnn	nnn	בני
 454021	SP	Exodus	32	28	DBR/	DBR	DBR				NA	sg	m	NA	subs				K	nnn	nnn	דבר
 454027	SP	Exodus	32	28	<M/	<M	<M				NA	sg	m	NA	subs				H	nn	nn	עם
@@ -14304,7 +14298,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 454629	SP	Exodus	33	21	MQWM/	MQWM	MQWM				NA	sg	m	NA	subs					nnnn	nnnn	מקום
 454635	SP	Exodus	33	21	YWR/	YWR	YWR				NA	sg	m	NA	subs				H	nnn	nnn	צור
 454640	SP	Exodus	33	22	KBWD/	KBWDJ	KBWD				NA	sg	unknown	NA	subs	J				nnnnn	nnnnn	כבודי
-454644	SP	Exodus	33	22	NQJRH/	NQJRWT	NQJR				NA	pl	f	NA	subs		WT		B	nnnnnn	nnnnnn	נקירות
+454644	SP	Exodus	33	22	NQRH/	NQJRWT	NQJR				NA	pl	f	NA	subs		WT		B	nnnnnn	nnnnnn	נקירות
 454646	SP	Exodus	33	22	YWR/	YWR	YWR				NA	sg	m	NA	subs				H	nnn	nnn	צור
 454649	SP	Exodus	33	22	KP/	KPJ	KP				NA	sg	f	NA	subs	J				nnn	nnn	כפי
 454655	SP	Exodus	33	23	KP/	KPJ	KP				NA	sg	f	NA	subs	J				nnn	nnn	כפי
@@ -15204,10 +15198,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 456887	SP	Exodus	37	6	VHR/	VHWR	VHWR				NA	sg	m	NA	adjv					nnnn	nnnn	טהור
 456888	SP	Exodus	37	6	>MH=/	>MTJM	>M				NA	du	f	NA	subs		TJM			nnnnn	nnnnn	אמתים
 456890	SP	Exodus	37	6	XYJ/	XYJ	XYJ				NA	sg	m	NA	subs				W	nnn	nnn	חצי
-456891	SP	Exodus	37	6	>RK=/	>RKW	>RK				NA	sg	unknown	NA	subs	W				nnnn	nnnn	ארכו
+456891	SP	Exodus	37	6	>RK=/	>RKW	>RK				NA	sg	m	NA	subs	W				nnnn	nnnn	ארכו
 456893	SP	Exodus	37	6	>MH=/	>MH	>M				NA	sg	f	NA	subs		H		W	nnn	nnn	אמה
 456895	SP	Exodus	37	6	XYJ/	XYJ	XYJ				NA	sg	m	NA	subs				W	nnn	nnn	חצי
-456896	SP	Exodus	37	6	RXB=/	RXBW	RXB				NA	sg	unknown	NA	subs	W				nnnn	nnnn	רחבו
+456896	SP	Exodus	37	6	RXB=/	RXBW	RXB				NA	sg	m	NA	subs	W				nnnn	nnnn	רחבו
 456899	SP	Exodus	37	7	CNJM/	CNJ	CN				NA	du	unknown	NA	subs		J			nnn	nnn	שני
 456900	SP	Exodus	37	7	KRWB/	KRWBJM	KRWB				NA	pl	m	NA	subs		JM			nnnnnn	nnnnnn	כרובים
 456901	SP	Exodus	37	7	ZHB/	ZHB	ZHB				NA	sg	m	NA	subs					nnn	nnn	זהב
@@ -15356,7 +15350,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 457195	SP	Exodus	37	23	NR/	NRTJH	NR				NA	pl	m	NA	subs	H	TJ			nnnnn	nnnnn	נרתיה
 457196	SP	Exodus	37	23	CB</	CB<H	CB<				NA	sg	f	NA	subs		H			nnnn	nnnn	שבעה
 457198	SP	Exodus	37	23	MLQXJM/	MLQXJH	MLQX				NA	du	m	NA	subs	H	J		W	nnnnnn	nnnnnn	מלקחיה
-457200	SP	Exodus	37	23	MXTJT/	MXTJTJH	MXTJ				NA	pl	f	NA	subs	H	TJ		W	nnnnnnn	nnnnnnn	מחתיתיה
+457200	SP	Exodus	37	23	MXTH/	MXTJTJH	MXTJ				NA	pl	f	NA	subs	H	TJ		W	nnnnnnn	nnnnnnn	מחתיתיה
 457201	SP	Exodus	37	23	ZHB/	ZHB	ZHB				NA	sg	m	NA	subs					nnn	nnn	זהב
 457202	SP	Exodus	37	23	VHR/	VHWR	VHWR				NA	sg	m	NA	adjv					nnnn	nnnn	טהור
 457203	SP	Exodus	37	24	KKR/	KKR	KKR				NA	sg	f	NA	subs					nnn	nnn	ככר
@@ -15412,10 +15406,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 457309	SP	Exodus	38	1	CVH/	CVJM	CV				NA	pl	f	NA	subs		JM			nnnn	nnnn	שטים
 457310	SP	Exodus	38	1	XMC/	XMC	XMC				NA	sg	unknown	NA	subs					nnn	nnn	חמש
 457311	SP	Exodus	38	1	>MH=/	>MWT	>M				NA	pl	f	NA	subs		WT			nnnn	nnnn	אמות
-457312	SP	Exodus	38	1	>RK=/	>RK	>RK				NA	sg	unknown	NA	subs					nnn	nnn	ארך
+457312	SP	Exodus	38	1	>RK=/	>RK	>RK				NA	sg	m	NA	subs					nnn	nnn	ארך
 457314	SP	Exodus	38	1	XMC/	XMC	XMC				NA	sg	unknown	NA	subs				W	nnn	nnn	חמש
 457315	SP	Exodus	38	1	>MH=/	>MWT	>M				NA	pl	f	NA	subs		WT			nnnn	nnnn	אמות
-457316	SP	Exodus	38	1	RXB=/	RXB	RXB				NA	sg	unknown	NA	subs					nnn	nnn	רחב
+457316	SP	Exodus	38	1	RXB=/	RXB	RXB				NA	sg	m	NA	subs					nnn	nnn	רחב
 457318	SP	Exodus	38	1	CLC/	CLC	CLC				NA	sg	unknown	NA	subs				W	nnn	nnn	שלש
 457319	SP	Exodus	38	1	>MH=/	>MWT	>M				NA	pl	f	NA	subs		WT			nnnn	nnnn	אמות
 457320	SP	Exodus	38	1	QWMH/	QWMTW	QWM				NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	קומתו
@@ -17859,7 +17853,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 464262	SP	Leviticus	10	2	>C/	>C	>C				NA	sg	unknown	NA	subs					nn	nn	אש
 464265	SP	Leviticus	10	2	PNH/	PNJ	PN				NA	pl	m	NA	subs		J		ML	nnn	nnn	פני
 464273	SP	Leviticus	10	2	PNH/	PNJ	PN				NA	pl	m	NA	subs		J		L	nnn	nnn	פני
-464287	SP	Leviticus	10	3	QRJB/	QRJBJ	QRJB				NA	sg	m	NA	adjv	J			B	nnnnn	nnnnn	קריבי
+464287	SP	Leviticus	10	3	QRWB/	QRJBJ	QRJB				NA	sg	m	NA	adjv	J			B	nnnnn	nnnnn	קריבי
 464291	SP	Leviticus	10	3	PNH/	PNJ	PN				NA	pl	m	NA	subs		J			nnn	nnn	פני
 464292	SP	Leviticus	10	3	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
 464294	SP	Leviticus	10	3	<M/	<M	<M				NA	sg	m	NA	subs				H	nn	nn	עם
@@ -18132,8 +18126,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 465197	SP	Leviticus	11	29	MJN/	MJNW	MJN				NA	sg	unknown	NA	subs	W			L	nnnn	nnnn	מינו
 465200	SP	Leviticus	11	30	>NQH=/	>NQH	>NQ				NA	sg	f	NA	subs		H		WH	nnnn	nnnn	אנקה
 465203	SP	Leviticus	11	30	KX=/	KX	KX				NA	sg	m	NA	subs				WH	nn	nn	כח
-465206	SP	Leviticus	11	30	L>VH/	L>VH	L>V				NA	sg	f	NA	subs		H		WH	nnnn	nnnn	לאטה
-465209	SP	Leviticus	11	30	MV/	MV	MV				NA	sg	unknown	NA	subs				WH	nn	nn	מט
+465206	SP	Leviticus	11	30	LV>H/	L>VH	L>V				NA	sg	f	NA	subs		H		WH	nnnn	nnnn	לאטה
+465209	SP	Leviticus	11	30	XMV/	MV	MV				NA	sg	m	NA	subs				WH	nn	nn	מט
 465212	SP	Leviticus	11	30	TNCMT=/	TNCMT	TNCM				NA	sg	f	NA	subs		T		WH	nnnnn	nnnnn	תנשמת
 465215	SP	Leviticus	11	31	VM>/	VM>JM	VM>				NA	pl	m	NA	adjv		JM		H	nnnnn	nnnnn	טמאים
 465218	SP	Leviticus	11	31	KL/	KL	KL				NA	sg	m	NA	subs				M	nn	nn	כל
@@ -21174,7 +21168,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 473905	SP	Leviticus	25	4	CBT/	CBT	CBT				NA	sg	unknown	NA	subs					nnn	nnn	שבת
 473908	SP	Leviticus	25	4	FDH/	FDK	FD				NA	sg	m	NA	subs	K				nnn	nnn	שדך
 473912	SP	Leviticus	25	4	KRM/	KRMK	KRM				NA	sg	unknown	NA	subs	K			W	nnnn	nnnn	כרמך
-473917	SP	Leviticus	25	5	SPX/	SPXJ	SPX				NA	pl	m	NA	subs		J			nnnn	nnnn	ספחי
+473917	SP	Leviticus	25	5	SPJX/	SPXJ	SPX				NA	pl	m	NA	subs		J			nnnn	nnnn	ספחי
 473918	SP	Leviticus	25	5	QYJR/	QYJRJK	QYJR				NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	קציריך
 473923	SP	Leviticus	25	5	<NB/	<NBJ	<NB				NA	pl	m	NA	subs		J			nnnn	nnnn	ענבי
 473924	SP	Leviticus	25	5	NZJR/	NZJRJK	NZJR				NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	נזיריך
@@ -21233,7 +21227,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 474044	SP	Leviticus	25	11	CNH/	CNT	CN				NA	sg	f	NA	subs		T			nnn	nnn	שנת
 474046	SP	Leviticus	25	11	XMC/	XMCJM	XMC				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	חמשים
 474047	SP	Leviticus	25	11	CNH/	CNH	CN				NA	sg	f	NA	subs		H			nnn	nnn	שנה
-474056	SP	Leviticus	25	11	SPX/	SPXJH	SPX				NA	pl	m	NA	subs	H	J			nnnnn	nnnnn	ספחיה
+474056	SP	Leviticus	25	11	SPJX/	SPXJH	SPX				NA	pl	m	NA	subs	H	J			nnnnn	nnnnn	ספחיה
 474061	SP	Leviticus	25	11	NZJR/	NZJRJH	NZJR				NA	pl	m	NA	subs	H	J			nnnnnn	nnnnnn	נזיריה
 474063	SP	Leviticus	25	12	JWBL/	JWBL	JWBL				NA	sg	m	NA	subs					nnnn	nnnn	יובל
 474065	SP	Leviticus	25	12	QDC/	QDC	QDC				NA	sg	m	NA	subs					nnn	nnn	קדש
@@ -21547,7 +21541,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 475011	SP	Leviticus	26	13	<BD/	<BDJM	<BD				NA	pl	m	NA	subs		JM			nnnnn	nnnnn	עבדים
 475014	SP	Leviticus	26	13	MWVH/	MVWT	MV				NA	pl	f	NA	subs		WT			nnnn	nnnn	מטות
 475015	SP	Leviticus	26	13	<L/	<WLKM	<WL				NA	sg	unknown	NA	subs	KM				nnnnn	nnnnn	עולכם
-475019	SP	Leviticus	26	13	QWMMJT/	QWMMJT	QWMMJT				NA	sg	unknown	NA	subs					nnnnnn	nnnnnn	קוממית
+475019	SP	Leviticus	26	13	QWMMJWT/	QWMMJT	QWMMJT				NA	sg	unknown	NA	subs					nnnnnn	nnnnnn	קוממית
 475029	SP	Leviticus	26	14	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
 475031	SP	Leviticus	26	14	MYWH/	MYWT	MYW				NA	pl	f	NA	subs		T		H	nnnn	nnnn	מצות
 475036	SP	Leviticus	26	15	XQH/	XQWTJ	XQ				NA	pl	f	NA	subs		WTJ		B	nnnnn	nnnnn	חקותי
@@ -22943,7 +22937,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 478585	SP	Numbers	4	9	M>WR/	M>WR	M>WR				NA	sg	m	NA	subs				H	nnnn	nnnn	מאור
 478588	SP	Numbers	4	9	NR/	NRTJH	NR				NA	pl	m	NA	subs	H	TJ			nnnnn	nnnnn	נרתיה
 478591	SP	Numbers	4	9	MLQXJM/	MLQXJH	MLQX				NA	du	m	NA	subs	H	J			nnnnnn	nnnnnn	מלקחיה
-478594	SP	Numbers	4	9	MXTJT/	MXTJTJH	MXTJ				NA	pl	f	NA	subs	H	TJ			nnnnnnn	nnnnnnn	מחתיתיה
+478594	SP	Numbers	4	9	MXTH/	MXTJTJH	MXTJ				NA	pl	f	NA	subs	H	TJ			nnnnnnn	nnnnnnn	מחתיתיה
 478597	SP	Numbers	4	9	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
 478598	SP	Numbers	4	9	KLJ/	KLJ	KL				NA	pl	m	NA	subs		J			nnn	nnn	כלי
 478599	SP	Numbers	4	9	CMN/	CMNH	CMN				NA	sg	m	NA	subs	H				nnnn	nnnn	שמנה
@@ -25038,7 +25032,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 483599	SP	Numbers	11	4	BFR/	BFR	BFR				NA	sg	m	NA	subs					nnn	nnn	בשר
 483603	SP	Numbers	11	5	DGH/	DGH	DG				NA	sg	f	NA	subs		H		H	nnn	nnn	דגה
 483611	SP	Numbers	11	5	QC>H/	QCW>JM	QCW>				NA	pl	f	NA	subs		JM		H	nnnnnn	nnnnnn	קשואים
-483615	SP	Numbers	11	5	BVX==/	BVXJM	BVX				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	בטחים
+483615	SP	Numbers	11	5	>BVJX/	BVXJM	BVX				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	בטחים
 483619	SP	Numbers	11	5	XYJR=/	XYJR	XYJR				NA	sg	m	NA	subs				H	nnnn	nnnn	חציר
 483623	SP	Numbers	11	5	BYL/	BYLJM	BYL				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	בצלים
 483627	SP	Numbers	11	5	CWMJM/	CWMJM	CWM				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	שומים
@@ -25134,7 +25128,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 483981	SP	Numbers	11	21	CC/	CC	CC				NA	sg	unknown	NA	subs					nn	nn	שש
 483982	SP	Numbers	11	21	M>H/	M>WT	M>				NA	pl	f	NA	subs		WT			nnnn	nnnn	מאות
 483983	SP	Numbers	11	21	>LP=/	>LP	>LP				NA	sg	unknown	NA	subs					nnn	nnn	אלף
-483984	SP	Numbers	11	21	RGL>J/	RGL>J	RGL>J				NA	sg	m	NA	adjv					nnnnn	nnnnn	רגלאי
+483984	SP	Numbers	11	21	RGLJ/	RGL>J	RGL>J				NA	sg	m	NA	adjv					nnnnn	nnnnn	רגלאי
 483986	SP	Numbers	11	21	<M/	<M	<M				NA	sg	m	NA	subs				H	nn	nn	עם
 483990	SP	Numbers	11	21	QRB/	QRBW	QRB				NA	sg	m	NA	subs	W			B	nnnn	nnnn	קרבו
 483994	SP	Numbers	11	21	BFR/	BFR	BFR				NA	sg	m	NA	subs					nnn	nnn	בשר
@@ -26933,7 +26927,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 490365	SP	Numbers	21	5	QLQL/	QLQL	QLQL				NA	sg	m	NA	subs				H	nnnn	nnnn	קלקל
 490370	SP	Numbers	21	6	<M/	<M	<M				NA	sg	m	NA	subs				B	nn	nn	עם
 490373	SP	Numbers	21	6	NXC/	NXCJM	NXC				NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	נחשים
-490375	SP	Numbers	21	6	FRWP/	FRWPJM	FRWP				NA	pl	m	NA	subs		JM		H	nnnnnn	nnnnnn	שרופים
 490380	SP	Numbers	21	6	<M/	<M	<M				NA	sg	m	NA	subs				H	nn	nn	עם
 490383	SP	Numbers	21	6	<M/	<M	<M				NA	sg	m	NA	subs					nn	nn	עם
 490384	SP	Numbers	21	6	RB/	RB	RB				NA	sg	m	NA	adjv					nn	nn	רב
@@ -26941,7 +26934,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 490411	SP	Numbers	21	7	NXC/	NXC	NXC				NA	sg	m	NA	subs				H	nnn	nnn	נחש
 490415	SP	Numbers	21	7	B<D/	B<D	B<D				NA	sg	unknown	NA	subs					nnn	nnn	בעד
 490417	SP	Numbers	21	7	<M/	<M	<M				NA	sg	m	NA	subs				H	nn	nn	עם
-490425	SP	Numbers	21	8	FRWP/	FRWP	FRWP				NA	sg	unknown	NA	subs					nnnn	nnnn	שרוף
 490431	SP	Numbers	21	8	NS/	NS	NS				NA	sg	m	NA	subs				H	nn	nn	נס
 490434	SP	Numbers	21	8	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
 490436	SP	Numbers	21	8	NCK/	NCK	NCK				NA	sg	unknown	NA	subs				H	nnn	nnn	נשך
@@ -27356,7 +27348,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 492376	SP	Numbers	23	23	<T/	<T	<T				NA	sg	unknown	NA	subs				K	nn	nn	עת
 492385	SP	Numbers	23	23	>L/	>L	>L				NA	sg	m	NA	subs					nn	nn	אל
 492387	SP	Numbers	23	24	<M/	<M	<M				NA	sg	m	NA	subs					nn	nn	עם
-492389	SP	Numbers	23	24	LBJ>/	LBJH	LBJH				NA	sg	unknown	NA	subs				K	nnnn	nnnn	לביה
+492389	SP	Numbers	23	24	LBJ>=/	LBJH	LBJH				NA	sg	f	NA	subs				K	nnnn	nnnn	לביה
 492393	SP	Numbers	23	24	>RJH/	>RJH	>RJH				NA	sg	m	NA	subs				WK	nnnn	nnnn	אריה
 492399	SP	Numbers	23	24	VRP/	VRP	VRP				NA	sg	m	NA	subs					nnn	nnn	טרף
 492401	SP	Numbers	23	24	DM/	DM	DM				NA	sg	m	NA	subs				W	nn	nn	דם
@@ -27421,7 +27413,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 492633	SP	Numbers	24	8	<YM/	<YMTJHM	<YM				NA	pl	f	NA	subs	HM	TJ		W	nnnnnnn	nnnnnnn	עצמתיהם
 492636	SP	Numbers	24	8	XY/	XYJW	XY				NA	pl	m	NA	subs	W	J		W	nnnn	nnnn	חציו
 492641	SP	Numbers	24	9	>RJH/	>RJH	>RJH				NA	sg	m	NA	subs				K	nnnn	nnnn	אריה
-492644	SP	Numbers	24	9	LBJ>/	LBJH	LBJH				NA	sg	unknown	NA	subs				WK	nnnn	nnnn	לביה
+492644	SP	Numbers	24	9	LBJ>=/	LBJH	LBJH				NA	sg	f	NA	subs				WK	nnnn	nnnn	לביה
 492654	SP	Numbers	24	10	>P/	>P	>P				NA	sg	m	NA	subs					nn	nn	אף
 492661	SP	Numbers	24	10	KP/	KPJW	KP				NA	du	f	NA	subs	W	J			nnnn	nnnn	כפיו
 492677	SP	Numbers	24	10	CLC/	CLC	CLC				NA	sg	unknown	NA	subs					nnn	nnn	שלש
@@ -29338,7 +29330,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 497689	SP	Numbers	32	22	>RY/	>RY	>RY				NA	sg	unknown	NA	subs				H	nnn	nnn	ארץ
 497691	SP	Numbers	32	22	PNH/	PNJ	PN				NA	pl	m	NA	subs		J		L	nnn	nnn	פני
 497694	SP	Numbers	32	22	>XR/	>XR	>XR				NA	sg	m	NA	subs				W	nnn	nnn	אחר
-497698	SP	Numbers	32	22	NQWJ/	NQW>JM	NQW>				NA	pl	m	NA	adjv		JM			nnnnnn	nnnnnn	נקואים
+497698	SP	Numbers	32	22	NQJ/	NQW>JM	NQW>				NA	pl	m	NA	adjv		JM			nnnnnn	nnnnnn	נקואים
 497707	SP	Numbers	32	22	>RY/	>RY	>RY				NA	sg	unknown	NA	subs				H	nnn	nnn	ארץ
 497712	SP	Numbers	32	22	>XZH/	>XZH	>XZ				NA	sg	f	NA	subs		H		L	nnnn	nnnn	אחזה
 497714	SP	Numbers	32	22	PNH/	PNJ	PN				NA	pl	m	NA	subs		J		L	nnn	nnn	פני
@@ -31518,7 +31510,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 505586	SP	Deuteronomy	8	7	>LHJM/	>LHJK	>LH				NA	pl	m	NA	subs	K	J			nnnnn	nnnnn	אלהיך
 505589	SP	Deuteronomy	8	7	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
 505590	SP	Deuteronomy	8	7	VWB/	VWBH	VWB				NA	sg	f	NA	adjv		H			nnnn	nnnn	טובה
-505592	SP	Deuteronomy	8	7	RXB=/	RXBH	RXB				NA	sg	f	NA	subs		H		W	nnnn	nnnn	רחבה
+505592	SP	Deuteronomy	8	7	RXB/	RXBH	RXB				NA	sg	f	NA	adjv		H		W	nnnn	nnnn	רחבה
 505593	SP	Deuteronomy	8	7	>RY/	>RY	>RY				NA	sg	unknown	NA	subs					nnn	nnn	ארץ
 505594	SP	Deuteronomy	8	7	NXL/	NXLJ	NXL				NA	pl	m	NA	subs		J			nnnn	nnnn	נחלי
 505595	SP	Deuteronomy	8	7	MJM/	MJM	MJ				NA	pl	m	NA	subs		M			nnn	nnn	מים
@@ -31569,7 +31561,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 505720	SP	Deuteronomy	8	15	MDBR/	MDBR	MDBR				NA	sg	m	NA	subs				B	nnnn	nnnn	מדבר
 505722	SP	Deuteronomy	8	15	GDWL/	GDWL	GDWL				NA	sg	unknown	NA	adjv				H	nnnn	nnnn	גדול
 505726	SP	Deuteronomy	8	15	NXC/	NXC	NXC				NA	sg	m	NA	subs					nnn	nnn	נחש
-505727	SP	Deuteronomy	8	15	FRWP/	FRWP	FRWP				NA	sg	unknown	NA	subs					nnnn	nnnn	שרוף
 505728	SP	Deuteronomy	8	15	<QRB/	<QRB	<QRB				NA	sg	m	NA	subs					nnnn	nnnn	עקרב
 505730	SP	Deuteronomy	8	15	YM>WN/	YM>WN	YM>WN				NA	sg	m	NA	subs				W	nnnnn	nnnnn	צמאון
 505732	SP	Deuteronomy	8	15	>JN/	>JN	>JN				NA	sg	m	NA	subs					nnn	nnn	אין
@@ -32410,7 +32401,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 508801	SP	Deuteronomy	13	13	>LHJM/	>LHJK	>LH				NA	pl	m	NA	subs	K	J			nnnnn	nnnnn	אלהיך
 508810	SP	Deuteronomy	13	14	>JC/	>NCJM	>NC				NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אנשים
 508811	SP	Deuteronomy	13	14	BN/	BNJ	BN				NA	pl	m	NA	subs		J			nnn	nnn	בני
-508812	SP	Deuteronomy	13	14	BL<JL/	BL<JL	BL<JL				NA	sg	unknown	NA	subs					nnnnn	nnnnn	בלעיל
+508812	SP	Deuteronomy	13	14	BLJ<L/	BL<JL	BL<JL				NA	sg	m	NA	subs					nnnnn	nnnnn	בלעיל
 508814	SP	Deuteronomy	13	14	QRB/	QRBK	QRB				NA	sg	m	NA	subs	K			M	nnnn	nnnn	קרבך
 508819	SP	Deuteronomy	13	14	<JR/	<JRM	<JR				NA	sg	f	NA	subs	M				nnnn	nnnn	עירם
 508825	SP	Deuteronomy	13	14	>LHJM/	>LHJM	>LH				NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים
@@ -32483,7 +32474,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 509023	SP	Deuteronomy	14	5	JXMWR/	JXMWR	JXMWR				NA	sg	m	NA	subs				W	nnnnn	nnnnn	יחמור
 509024	SP	Deuteronomy	14	5	>QW/	>QW	>QW				NA	sg	m	NA	subs					nnn	nnn	אקו
 509026	SP	Deuteronomy	14	5	DJCWN/	DJCWN	DJCWN				NA	sg	unknown	NA	subs				W	nnnnn	nnnnn	דישון
-509028	SP	Deuteronomy	14	5	T>J/	T>J	T>J				NA	sg	unknown	NA	subs				W	nnn	nnn	תאי
+509028	SP	Deuteronomy	14	5	THJ/	T>J	T>J				NA	sg	unknown	NA	subs				W	nnn	nnn	תאי
 509030	SP	Deuteronomy	14	5	ZMR/	ZMR	ZMR				NA	sg	m	NA	subs				W	nnn	nnn	זמר
 509031	SP	Deuteronomy	14	6	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
 509032	SP	Deuteronomy	14	6	BHMH/	BHMH	BHM				NA	sg	f	NA	subs		H			nnnn	nnnn	בהמה
@@ -32684,7 +32675,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 509633	SP	Deuteronomy	15	8	MXSWR/	MXSRW	MXSR				NA	sg	m	NA	subs	W				nnnnn	nnnnn	מחסרו
 509641	SP	Deuteronomy	15	9	DBR/	DBR	DBR				NA	sg	m	NA	subs					nnn	nnn	דבר
 509643	SP	Deuteronomy	15	9	LBB/	LBBK	LBB				NA	sg	m	NA	subs	K				nnnn	nnnn	לבבך
-509644	SP	Deuteronomy	15	9	BL<JL/	BL<JL	BL<JL				NA	sg	unknown	NA	subs					nnnnn	nnnnn	בלעיל
+509644	SP	Deuteronomy	15	9	BLJ<L/	BL<JL	BL<JL				NA	sg	m	NA	subs					nnnnn	nnnnn	בלעיל
 509647	SP	Deuteronomy	15	9	QRWB/	QRWBH	QRWB				NA	sg	f	NA	adjv		H			nnnnn	nnnnn	קרובה
 509648	SP	Deuteronomy	15	9	CNH/	CNT	CN				NA	sg	f	NA	subs		T			nnn	nnn	שנת
 509650	SP	Deuteronomy	15	9	CB</	CB<H	CB<				NA	sg	f	NA	subs		H		H	nnnn	nnnn	שבעה
@@ -33279,7 +33270,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 511578	SP	Deuteronomy	19	9	<JR/	<RJM	<R				NA	pl	f	NA	subs		JM			nnnn	nnnn	ערים
 511581	SP	Deuteronomy	19	9	CLC/	CLC	CLC				NA	sg	unknown	NA	subs				H	nnn	nnn	שלש
 511587	SP	Deuteronomy	19	10	DM/	DM	DM				NA	sg	m	NA	subs					nn	nn	דם
-511588	SP	Deuteronomy	19	10	NQJ>/	NQJ>	NQJ>				NA	sg	unknown	NA	adjv					nnnn	nnnn	נקיא
+511588	SP	Deuteronomy	19	10	NQJ/	NQJ>	NQJ>				NA	sg	m	NA	adjv					nnnn	nnnn	נקיא
 511590	SP	Deuteronomy	19	10	QRB/	QRB	QRB				NA	sg	m	NA	subs				B	nnn	nnn	קרב
 511591	SP	Deuteronomy	19	10	>RY/	>RYK	>RY				NA	sg	unknown	NA	subs	K				nnnn	nnnn	ארצך
 511594	SP	Deuteronomy	19	10	>LHJM/	>LHJK	>LH				NA	pl	m	NA	subs	K	J			nnnnn	nnnnn	אלהיך
@@ -33296,7 +33287,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 511644	SP	Deuteronomy	19	12	DM/	DM	DM				NA	sg	m	NA	subs				H	nn	nn	דם
 511649	SP	Deuteronomy	19	13	<JN/	<JNK	<JN				NA	sg	f	NA	subs	K				nnnn	nnnn	עינך
 511654	SP	Deuteronomy	19	13	DM/	DM	DM				NA	sg	m	NA	subs				H	nn	nn	דם
-511656	SP	Deuteronomy	19	13	NQJ>/	NQJ>	NQJ>				NA	sg	unknown	NA	adjv				H	nnnn	nnnn	נקיא
+511656	SP	Deuteronomy	19	13	NQJ/	NQJ>	NQJ>				NA	sg	m	NA	adjv				H	nnnn	nnnn	נקיא
 511664	SP	Deuteronomy	19	14	GBWL/	GBWL	GBWL				NA	sg	m	NA	subs					nnnn	nnnn	גבול
 511665	SP	Deuteronomy	19	14	R<=/	R<K	R<				NA	sg	m	NA	subs	K				nnn	nnn	רעך
 511668	SP	Deuteronomy	19	14	R>CWN/	R>JCWNJM	R>JCWN				NA	pl	m	NA	adjv		JM			nnnnnnnn	nnnnnnnn	ראישונים
@@ -33510,12 +33501,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 512417	SP	Deuteronomy	21	7	<JN/	<JNJNW	<JN				NA	du	f	NA	subs	NW	J		W	nnnnnn	nnnnnn	עינינו
 512422	SP	Deuteronomy	21	8	<M/	<MK	<M				NA	sg	m	NA	subs	K			L	nnn	nnn	עמך
 512430	SP	Deuteronomy	21	8	DM/	DM	DM				NA	sg	m	NA	subs					nn	nn	דם
-512431	SP	Deuteronomy	21	8	NQJ>/	NQJ>	NQJ>				NA	sg	unknown	NA	adjv					nnnn	nnnn	נקיא
+512431	SP	Deuteronomy	21	8	NQJ/	NQJ>	NQJ>				NA	sg	m	NA	adjv					nnnn	nnnn	נקיא
 512433	SP	Deuteronomy	21	8	QRB/	QRB	QRB				NA	sg	m	NA	subs				B	nnn	nnn	קרב
 512434	SP	Deuteronomy	21	8	<M/	<MK	<M				NA	sg	m	NA	subs	K				nnn	nnn	עמך
 512440	SP	Deuteronomy	21	8	DM/	DM	DM				NA	sg	m	NA	subs				H	nn	nn	דם
 512445	SP	Deuteronomy	21	9	DM/	DM	DM				NA	sg	m	NA	subs				H	nn	nn	דם
-512447	SP	Deuteronomy	21	9	NQJ>/	NQJ>	NQJ>				NA	sg	unknown	NA	adjv				H	nnnn	nnnn	נקיא
+512447	SP	Deuteronomy	21	9	NQJ/	NQJ>	NQJ>				NA	sg	m	NA	adjv				H	nnnn	nnnn	נקיא
 512449	SP	Deuteronomy	21	9	QRB/	QRBK	QRB				NA	sg	m	NA	subs	K			M	nnnn	nnnn	קרבך
 512453	SP	Deuteronomy	21	9	JCR/	JCR	JCR				NA	sg	m	NA	adjv				H	nnn	nnn	ישר
 512455	SP	Deuteronomy	21	9	<JN/	<JNJ	<JN				NA	du	f	NA	subs		J		B	nnnn	nnnn	עיני
@@ -33971,7 +33962,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 513916	SP	Deuteronomy	24	5	YB>/	YB>	YB>				NA	sg	m	NA	subs				B	nnn	nnn	צבא
 513922	SP	Deuteronomy	24	5	KL/	KL	KL				NA	sg	m	NA	subs				L	nn	nn	כל
 513923	SP	Deuteronomy	24	5	DBR/	DBR	DBR				NA	sg	m	NA	subs					nnn	nnn	דבר
-513924	SP	Deuteronomy	24	5	NQJ>/	NQJ>	NQJ>				NA	sg	unknown	NA	adjv					nnnn	nnnn	נקיא
+513924	SP	Deuteronomy	24	5	NQJ/	NQJ>	NQJ>				NA	sg	m	NA	adjv					nnnn	nnnn	נקיא
 513927	SP	Deuteronomy	24	5	BJT/	BJTW	BJT				NA	sg	m	NA	subs	W			L	nnnn	nnnn	ביתו
 513928	SP	Deuteronomy	24	5	CNH/	CNH	CN				NA	sg	f	NA	subs		H			nnn	nnn	שנה
 513929	SP	Deuteronomy	24	5	>XD/	>XT	>X				NA	sg	f	NA	subs		T			nnn	nnn	אחת
@@ -34422,7 +34413,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 515493	SP	Deuteronomy	27	25	CXD/	CXD	CXD				NA	sg	m	NA	subs					nnn	nnn	שחד
 515496	SP	Deuteronomy	27	25	NPC/	NPC	NPC				NA	sg	f	NA	subs					nnn	nnn	נפש
 515497	SP	Deuteronomy	27	25	DM/	DM	DM				NA	sg	m	NA	subs					nn	nn	דם
-515498	SP	Deuteronomy	27	25	NQJ>/	NQJ>	NQJ>				NA	sg	unknown	NA	adjv					nnnn	nnnn	נקיא
+515498	SP	Deuteronomy	27	25	NQJ/	NQJ>	NQJ>				NA	sg	m	NA	adjv					nnnn	nnnn	נקיא
 515501	SP	Deuteronomy	27	25	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
 515503	SP	Deuteronomy	27	25	<M/	<M	<M				NA	sg	m	NA	subs				H	nn	nn	עם
 515510	SP	Deuteronomy	27	26	KL/	KL	KL				NA	sg	m	NA	subs					nn	nn	כל
@@ -34583,7 +34574,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 516009	SP	Deuteronomy	28	26	>RY/	>RY	>RY				NA	sg	unknown	NA	subs				H	nnn	nnn	ארץ
 516011	SP	Deuteronomy	28	26	>JN/	>JN	>JN				NA	sg	m	NA	subs				W	nnn	nnn	אין
 516016	SP	Deuteronomy	28	27	CXJN/	CXJN	CXJN				NA	sg	m	NA	subs				B	nnnn	nnnn	שחין
-516020	SP	Deuteronomy	28	27	<PLJM/	<PLJM	<PL				NA	pl	m	NA	subs		JM		WB	nnnnn	nnnnn	עפלים
+516020	SP	Deuteronomy	28	27	<PL=/	<PLJM	<PL				NA	pl	m	NA	subs		JM		WB	nnnnn	nnnnn	עפלים
 516023	SP	Deuteronomy	28	27	GRB/	GRB	GRB				NA	sg	m	NA	subs				WB	nnn	nnn	גרב
 516026	SP	Deuteronomy	28	27	XRS/	XRS	XRS				NA	sg	m	NA	subs				WB	nnn	nnn	חרס
 516035	SP	Deuteronomy	28	28	CG<WN/	CG<WN	CG<WN				NA	sg	m	NA	subs				B	nnnnn	nnnnn	שגעון
@@ -35345,7 +35336,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 518844	SP	Deuteronomy	32	2	MVR/	MVR	MVR				NA	sg	m	NA	subs				K	nnn	nnn	מטר
 518845	SP	Deuteronomy	32	2	LQX/	LQXJ	LQX				NA	sg	m	NA	subs	J				nnnn	nnnn	לקחי
 518849	SP	Deuteronomy	32	2	VL/	VL	VL				NA	sg	m	NA	subs				K	nn	nn	טל
-518850	SP	Deuteronomy	32	2	>MJRH/	>MJRTJ	>MJR				NA	sg	f	NA	subs	J	T			nnnnnn	nnnnnn	אמירתי
+518850	SP	Deuteronomy	32	2	>MRH/	>MJRTJ	>MJR				NA	sg	f	NA	subs	J	T			nnnnnn	nnnnnn	אמירתי
 518852	SP	Deuteronomy	32	2	F<JR==/	F<JRJM	F<JR				NA	pl	m	NA	subs		JM		K	nnnnnn	nnnnnn	שעירים
 518854	SP	Deuteronomy	32	2	DC>/	DC>	DC>				NA	sg	m	NA	subs					nnn	nnn	דשא
 518857	SP	Deuteronomy	32	2	RBJBJM/	RBJBJM	RBJB				NA	pl	m	NA	subs		JM		WK	nnnnnn	nnnnnn	רביבים
@@ -35449,7 +35440,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 519096	SP	Deuteronomy	32	20	PNH/	PNJ	PN				NA	pl	m	NA	subs		J			nnn	nnn	פני
 519101	SP	Deuteronomy	32	20	>XRJT/	>XRJTM	>XRJT				NA	sg	f	NA	subs	M				nnnnnn	nnnnnn	אחריתם
 519103	SP	Deuteronomy	32	20	DWR/	DWR	DWR				NA	sg	m	NA	subs					nnn	nnn	דור
-519104	SP	Deuteronomy	32	20	HPKWT/	HPKWT	HPKWT				NA	sg	unknown	NA	subs					nnnnn	nnnnn	הפכות
+519104	SP	Deuteronomy	32	20	HPJKWT/	HPKWT	HPKWT				NA	sg	unknown	NA	subs					nnnnn	nnnnn	הפכות
 519106	SP	Deuteronomy	32	20	BN/	BNJM	BN				NA	pl	m	NA	subs		JM			nnnn	nnnn	בנים
 519109	SP	Deuteronomy	32	20	>MN/	>MN	>MN				NA	sg	m	NA	subs				H	nnn	nnn	אמן
 519115	SP	Deuteronomy	32	21	>L/	>L	>L				NA	sg	m	NA	subs					nn	nn	אל
@@ -35564,7 +35555,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 519400	SP	Deuteronomy	32	42	XLL/	XLL	XLL				NA	sg	m	NA	adjv					nnn	nnn	חלל
 519402	SP	Deuteronomy	32	42	CBJH=/	CBJH	CBJ				NA	sg	f	NA	subs		H		W	nnnn	nnnn	שביה
 519404	SP	Deuteronomy	32	42	R>C/	R>C	R>C				NA	sg	m	NA	subs				M	nnn	nnn	ראש
-519405	SP	Deuteronomy	32	42	PR<=/	PR<T	PR<				NA	pl	f	NA	subs		T			nnnn	nnnn	פרעת
+519405	SP	Deuteronomy	32	42	PR</	PR<T	PR<				NA	pl	m	NA	subs		T			nnnn	nnnn	פרעת
 519408	SP	Deuteronomy	32	43	GWJ/	GWJM	GWJ				NA	pl	m	NA	subs		M			nnnn	nnnn	גוים
 519409	SP	Deuteronomy	32	43	<M/	<MW	<M				NA	sg	m	NA	subs	W				nnn	nnn	עמו
 519411	SP	Deuteronomy	32	43	DM/	DM	DM				NA	sg	m	NA	subs					nn	nn	דם
@@ -35660,7 +35651,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 519760	SP	Deuteronomy	33	9	>M/	>MW	>M				NA	sg	f	NA	subs	W			WL	nnn	nnn	אמו
 519765	SP	Deuteronomy	33	9	>X/	>XJW	>X				NA	pl	m	NA	subs	W	J			nnnn	nnnn	אחיו
 519770	SP	Deuteronomy	33	9	BN/	BNW	BN				NA	pl	m	NA	subs	W				nnn	nnn	בנו
-519775	SP	Deuteronomy	33	9	>MJRH/	>MJRTK	>MJR				NA	sg	f	NA	subs	K	T			nnnnnn	nnnnnn	אמירתך
+519775	SP	Deuteronomy	33	9	>MRH/	>MJRTK	>MJR				NA	sg	f	NA	subs	K	T			nnnnnn	nnnnnn	אמירתך
 519777	SP	Deuteronomy	33	9	BRJT/	BRJTK	BRJT				NA	sg	f	NA	subs	K			W	nnnnn	nnnnn	בריתך
 519780	SP	Deuteronomy	33	10	MCPV/	MCPVJK	MCPV				NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	משפטיך
 519784	SP	Deuteronomy	33	10	TWRH/	TWRTJK	TWR				NA	pl	f	NA	subs	K	TJ		W	nnnnnn	nnnnnn	תורתיך
@@ -35725,7 +35716,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 519928	SP	Deuteronomy	33	19	CP</	CP<	CP<				NA	sg	m	NA	subs					nnn	nnn	שפע
 519929	SP	Deuteronomy	33	19	JM/	JMJM	JM				NA	pl	m	NA	subs		JM			nnnn	nnnn	ימים
 519934	SP	Deuteronomy	33	19	XWL/	XWL	XWL				NA	sg	m	NA	subs					nnn	nnn	חול
-519943	SP	Deuteronomy	33	20	LBJ>/	LBJH	LBJH				NA	sg	unknown	NA	subs				K	nnnn	nnnn	לביה
+519943	SP	Deuteronomy	33	20	LBJ>=/	LBJH	LBJH				NA	sg	f	NA	subs				K	nnnn	nnnn	לביה
 519946	SP	Deuteronomy	33	20	ZRW</	ZRW<	ZRW<				NA	sg	unknown	NA	subs					nnnn	nnnn	זרוע
 519948	SP	Deuteronomy	33	20	QDQD/	QDQD	QDQD				NA	sg	m	NA	subs					nnnn	nnnn	קדקד
 519951	SP	Deuteronomy	33	21	R>CJT/	R>CJT	R>CJT				NA	sg	f	NA	subs					nnnnn	nnnnn	ראשית

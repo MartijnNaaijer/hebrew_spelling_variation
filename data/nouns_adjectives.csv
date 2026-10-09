@@ -188,6 +188,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2037	MT	Genesis	4	22	NXCT/	NXCT	NXC	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	נחשת	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 2041	MT	Genesis	4	22	>XWT/	>XWT	>XWT	CCMC	CCMC	NA	NA	sg	f	NA	subs				W	nnnn	nnnn	אחות	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
 2053	MT	Genesis	4	23	QWL/	QWLJ	QWL	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	קולי	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	W	1	0
+2057	MT	Genesis	4	23	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 2064	MT	Genesis	4	23	JLD/	JLD	JLD	CCC	CCC	NA	NA	sg	m	NA	subs				W	nnn	nnn	ילד	subs_adjv		-	-	0	1	0	0	nnn	nnn	last		0	0
 2066	MT	Genesis	4	23	XBWRH/	XBRTJ	XBR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T		L	nnnnn	nnnnn	חברתי	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 2079	MT	Genesis	4	25	<WD/	<WD	<WD	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	עוד	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
@@ -822,6 +823,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 11559	MT	Genesis	24	22	YMJD/	YMJDJM	YMJD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM			nnnnnn	nnnnnn	צמידים	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	1
 11564	MT	Genesis	24	22	MCQL/	MCQLM	MCQL	CCCC	CCCCC	NA	NA	sg	m	NA	subs	M				nnnnn	nnnnn	משקלם	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last		0	0
 11577	MT	Genesis	24	23	MQWM/	MQWM	MQWM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
+11599	MT	Genesis	24	25	MSPW>/	MSPW>	MSPW>	CCCMC	CCCMM	NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מספוא	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	W	1	0
 11603	MT	Genesis	24	25	MQWM/	MQWM	MQWM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 11618	MT	Genesis	24	27	>LHJM/	>LHJ	>LH	CCC	CCCM	NA	NA	pl	m	NA	subs		J			nnnn	nnnn	אלהי	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 11619	MT	Genesis	24	27	>DWN/	>DNJ	>DN	CCC	CCCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	אדני	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	0
@@ -833,6 +835,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 11691	MT	Genesis	24	30	>XWT/	>XTW	>XT	CCC	CCCM	NA	NA	sg	f	NA	subs	W				nnnn	nnnn	אחתו	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	1
 11722	MT	Genesis	24	31	XWY/	XWY	XWY	CMC	CMC	NA	NA	sg	m	NA	subs				B	nnn	nnn	חוץ	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 11729	MT	Genesis	24	31	MQWM/	MQWM	MQWM	CCMC	CCMC	NA	NA	sg	m	NA	subs				W	nnnn	nnnn	מקום	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
+11747	MT	Genesis	24	32	MSPW>/	MSPW>	MSPW>	CCCMC	CCCMM	NA	NA	sg	m	NA	subs				W	nnnnn	nnnnn	מספוא	subs_adjv		-	-	0	1	0	0	nnnnn	nnnnn	last	W	1	0
 11788	MT	Genesis	24	35	>DWN/	>DNJ	>DN	CCC	CCCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	אדני	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	0
 11789	MT	Genesis	24	35	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 11789	MT	Genesis	24	35	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
@@ -1698,6 +1701,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 23805	MT	Genesis	42	22	JLD/	JLD	JLD	CCC	CCC	NA	NA	sg	m	NA	subs				B	nnn	nnn	ילד	subs_adjv		-	-	0	1	0	0	nnn	nnn	last		0	0
 23867	MT	Genesis	42	25	YJDH/	YDH	YD	CC	CCM	NA	NA	sg	f	NA	subs		H			nnn	nnn	צדה	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	0
 23880	MT	Genesis	42	26	XMWR/	XMRJHM	XMR	CCC	CCCMCC	NA	NA	pl	m	NA	subs	HM	J			nnnnnn	nnnnnn	חמריהם	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
+23893	MT	Genesis	42	27	MSPW>/	MSPW>	MSPW>	CCCMC	CCCMM	NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מספוא	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	W	1	0
 23895	MT	Genesis	42	27	XMWR/	XMRW	XMR	CCC	CCCM	NA	NA	sg	unknown	NA	subs	W			L	nnnn	nnnn	חמרו	subs_adjv		-	-	1	1	0	0	nnn	nnn	last		0	1
 23933	MT	Genesis	42	28	>LHJM/	>LHJM	>LH	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 23946	MT	Genesis	42	29	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
@@ -1728,6 +1732,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 24601	MT	Genesis	43	23	>LHJM/	>LHJKM	>LH	CCC	CCCMCC	NA	NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 24603	MT	Genesis	43	23	>LHJM/	>LHJ	>LH	MCC	MCCM	NA	NA	pl	m	NA	subs		J		W	nnnn	nnnn	אלהי	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 24607	MT	Genesis	43	23	MVMN/	MVMWN	MVMWN	CCCMC	CCCMC	NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מטמון	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	W	1	0
+24635	MT	Genesis	43	24	MSPW>/	MSPW>	MSPW>	CCCMC	CCCMM	NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מספוא	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	W	1	0
 24637	MT	Genesis	43	24	XMWR/	XMRJHM	XMR	CCC	CCCMCC	NA	NA	pl	m	NA	subs	HM	J		L	nnnnnn	nnnnnn	חמריהם	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 24648	MT	Genesis	43	25	YHRJM/	YHRJM	YHR	CCC	CCCCC	NA	NA	du	m	NA	subs		JM		B	nnnnn	nnnnn	צהרים	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 24679	MT	Genesis	43	27	CLWM/	CLWM	CLWM	CCMC	CCMC	NA	NA	sg	m	NA	subs				L	nnnn	nnnn	שלום	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
@@ -1965,7 +1970,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 27859	MT	Genesis	49	6	CWR/	CWR	CWR	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	שור	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 27881	MT	Genesis	49	8	<RP/	<RP	<RP	CCC	CCC	NA	NA	sg	m	NA	subs				B	nnn	nnn	ערף	subs_adjv		-	-	0	1	0	0	nnn	nnn	first		0	0
 27887	MT	Genesis	49	9	GWR/	GWR	GWR	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	גור	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
-27900	MT	Genesis	49	9	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				WK	nnnn	nnnn	לביא	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 27924	MT	Genesis	49	11	GPN/	GPN	GPN	CCC	CCC	NA	NA	sg	unknown	NA	subs				L	nnn	nnn	גפן	subs_adjv		-	-	0	1	0	0	nnn	nnn	first		0	0
 27931	MT	Genesis	49	11	>TWN/	>TNW	>TN	CCC	CCCM	NA	NA	sg	f	NA	subs	W				nnnn	nnnn	אתנו	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 27931	MT	Genesis	49	11	>TWN/	>TNW	>TN	CCC	CCCM	NA	NA	sg	f	NA	subs	W				nnnn	nnnn	אתנו	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	1
@@ -3756,6 +3760,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 47729	MT	Exodus	33	21	MQWM/	MQWM	MQWM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 47735	MT	Exodus	33	21	YWR/	YWR	YWR	CMC	CMC	NA	NA	sg	m	NA	subs				H	nnn	nnn	צור	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 47740	MT	Exodus	33	22	KBWD/	KBDJ	KBD	CCC	CCCM	NA	NA	sg	unknown	NA	subs	J				nnnn	nnnn	כבדי	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	0
+47744	MT	Exodus	33	22	NQRH/	NQRT	NQR	CCC	CCCC	NA	NA	sg	f	NA	subs		T		B	nnnn	nnnn	נקרת	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 47746	MT	Exodus	33	22	YWR/	YWR	YWR	CMC	CMC	NA	NA	sg	m	NA	subs				H	nnn	nnn	צור	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 47760	MT	Exodus	33	23	>XWR/	>XRJ	>XR	CCC	CCCC	NA	NA	pl	m	NA	subs		J			nnnn	nnnn	אחרי	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 47773	MT	Exodus	34	1	LWX/	LXT	LX	CC	CCC	NA	NA	pl	m	NA	subs		T			nnn	nnn	לחת	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	0
@@ -5872,6 +5877,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 67131	MT	Leviticus	24	22	>LHJM/	>LHJKM	>LH	CCC	CCCMCC	NA	NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 67145	MT	Leviticus	24	23	XWY/	XWY	XWY	CMC	CMC	NA	NA	sg	m	NA	subs				M	nnn	nnn	חוץ	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 67214	MT	Leviticus	25	4	CBJ<J/	CBJ<T	CBJ<	CCMC	CCMCC	NA	NA	sg	f	NA	adjv		T		H	nnnnn	nnnnn	שביעת	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	J	1	0
+67232	MT	Leviticus	25	5	SPJX/	SPJX	SPJX	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	ספיח	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 67239	MT	Leviticus	25	5	NZJR/	NZJRK	NZJR	CCMC	CCMCC	NA	NA	sg	m	NA	subs	K				nnnnn	nnnnn	נזירך	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	J	1	0
 67255	MT	Leviticus	25	6	>KLH/	>KLH	>KL	CCC	CCCM	NA	NA	sg	f	NA	subs		H		L	nnnn	nnnn	אכלה	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 67265	MT	Leviticus	25	6	FKJR/	FKJRK	FKJR	CCMC	CCMCC	NA	NA	sg	m	NA	adjv	K			WL	nnnnn	nnnnn	שכירך	subs_adjv		-	-	1	1	0	0	nnnn	nnnn	last	J	1	0
@@ -5888,6 +5894,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 67347	MT	Leviticus	25	10	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 67349	MT	Leviticus	25	10	JWBL/	JWBL	JWBL	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	יובל	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	first	W	1	0
 67363	MT	Leviticus	25	11	JWBL/	JWBL	JWBL	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	יובל	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	first	W	1	0
+67377	MT	Leviticus	25	11	SPJX/	SPJXJH	SPJX	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	H	J			nnnnnn	nnnnnn	ספיחיה	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	J	1	1
 67382	MT	Leviticus	25	11	NZJR/	NZRJH	NZR	CCC	CCCMC	NA	NA	pl	m	NA	subs	H	J			nnnnn	nnnnn	נזריה	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	1
 67384	MT	Leviticus	25	12	JWBL/	JWBL	JWBL	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	יובל	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	first	W	1	0
 67386	MT	Leviticus	25	12	QDC/	QDC	QDC	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	קדש	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
@@ -7353,7 +7360,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 84955	MT	Numbers	23	15	<LH/	<LTK	<L	CC	CCCC	NA	NA	sg	f	NA	subs	K	T			nnnn	nnnn	עלתך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 84985	MT	Numbers	23	17	<LH/	<LTW	<L	CC	CCCM	NA	NA	sg	f	NA	subs	W	T			nnnn	nnnn	עלתו	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 85051	MT	Numbers	23	21	>LHJM/	>LHJW	>LH	CCC	CCCCC	NA	NA	pl	m	NA	subs	W	J			nnnnn	nnnnn	אלהיו	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
-85090	MT	Numbers	23	24	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				K	nnnn	nnnn	לביא	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 85131	MT	Numbers	23	26	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 85146	MT	Numbers	23	27	MQWM/	MQWM	MQWM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 85153	MT	Numbers	23	27	>LHJM/	>LHJM	>LH	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	אלהים	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
@@ -7367,7 +7373,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 85270	MT	Numbers	24	4	N>M/	N>M	N>M	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	נאם	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 85284	MT	Numbers	24	5	>HL/	>HLJK	>HL	CCC	CCCMC	NA	NA	pl	m	NA	subs	K	J			nnnnn	nnnnn	אהליך	subs_adjv		-	-	1	0	0	1	nnn	nnn	first		0	0
 85319	MT	Numbers	24	7	MLKWT/	MLKTW	MLKT	CCCC	CCCCM	NA	NA	sg	f	NA	subs	W				nnnnn	nnnnn	מלכתו	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last		0	1
-85343	MT	Numbers	24	9	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				WK	nnnn	nnnn	לביא	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 85375	MT	Numbers	24	10	CLC/	CLC	CLC	CCC	CCC	NA	NA	sg	unknown	NA	subs					nnn	nnn	שלש	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 85382	MT	Numbers	24	11	MQWM/	MQWMK	MQWM	CCMC	CCMCC	NA	NA	sg	m	NA	subs	K				nnnnn	nnnnn	מקומך	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	0
 85391	MT	Numbers	24	11	KBWD/	KBWD	KBWD	CCMC	CCMC	NA	NA	sg	unknown	NA	subs				M	nnnn	nnnn	כבוד	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
@@ -9483,6 +9488,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 111413	MT	Deuteronomy	31	29	>XRJT/	>XRJT	>XRJT	CCCMC	CCCMC	NA	NA	sg	f	NA	subs				B	nnnnn	nnnnn	אחרית	subs_adjv		-	-	0	1	0	0	nnnnn	nnnnn	last	J	1	0
 111433	MT	Deuteronomy	31	30	>ZN/	>ZNJ	>ZN	CCC	CCCM	NA	NA	du	f	NA	subs		J		B	nnnn	nnnn	אזני	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 111434	MT	Deuteronomy	31	30	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+111465	MT	Deuteronomy	32	2	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 111472	MT	Deuteronomy	32	2	RBJBJM/	RBJBJM	RBJB	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM		WK	nnnnnn	nnnnnn	רביבים	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	J	1	1
 111480	MT	Deuteronomy	32	3	GDL/	GDL	GDL	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	גדל	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 111482	MT	Deuteronomy	32	3	>LHJM/	>LHJNW	>LH	MCC	MCCMCM	NA	NA	pl	m	NA	subs	NW	J		L	nnnnnn	nnnnnn	אלהינו	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
@@ -9570,6 +9576,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 112319	MT	Deuteronomy	33	7	QWL/	QWL	QWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	קול	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 112337	MT	Deuteronomy	33	8	TMJM=/	TMJK	TM	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	תמיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 112339	MT	Deuteronomy	33	8	>WR==/	>WRJK	>WR	CMC	CMCMC	NA	NA	pl	m	NA	subs	K	J		W	nnnnn	nnnnn	אוריך	subs_adjv		-	-	1	1	0	1	nnn	nnn	single	W	1	0
+112372	MT	Deuteronomy	33	9	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 112381	MT	Deuteronomy	33	10	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T		W	nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	single	W	1	0
 112385	MT	Deuteronomy	33	10	QVWRH/	QVWRH	QVWR	CCMC	CCMCM	NA	NA	sg	m	NA	subs		H			nnnnn	nnnnn	קטורה	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	W	1	0
 112389	MT	Deuteronomy	33	10	KLJL/	KLJL	KLJL	CCMC	CCMC	NA	NA	sg	m	NA	adjv				W	nnnn	nnnn	כליל	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
@@ -9589,7 +9596,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 112480	MT	Deuteronomy	33	17	BKR/	BKWR	BKWR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	בכור	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 112481	MT	Deuteronomy	33	17	CWR/	CWRW	CWR	CMC	CMCM	NA	NA	sg	m	NA	subs	W				nnnn	nnnn	שורו	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	W	1	1
 112513	MT	Deuteronomy	33	18	>HL/	>HLJK	>HL	CCC	CCCMC	NA	NA	pl	m	NA	subs	K	J		B	nnnnn	nnnnn	אהליך	subs_adjv		-	-	1	1	0	1	nnn	nnn	first		0	0
-112537	MT	Deuteronomy	33	20	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				K	nnnn	nnnn	לביא	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 112541	MT	Deuteronomy	33	20	ZRW</	ZRW<	ZRW<	CCMC	CCMC	NA	NA	sg	unknown	NA	subs					nnnn	nnnn	זרוע	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 112546	MT	Deuteronomy	33	21	R>CJT/	R>CJT	R>CJT	CMCMC	CMCMC	NA	NA	sg	f	NA	subs					nnnnn	nnnnn	ראשית	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	first	>	1	0
 112546	MT	Deuteronomy	33	21	R>CJT/	R>CJT	R>CJT	CMCMC	CMCMC	NA	NA	sg	f	NA	subs					nnnnn	nnnnn	ראשית	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	J	1	0
@@ -11235,6 +11241,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 139489	MT	Judges	19	16	MQWM/	MQWM	MQWM	CCMC	CCMC	NA	NA	sg	m	NA	subs				H	nnnn	nnnn	מקום	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
 139503	MT	Judges	19	17	RXB==/	RXB	RXB	CCC	CCC	NA	NA	sg	f	NA	subs				B	nnn	nnn	רחב	subs_adjv		-	-	0	1	0	0	nnn	nnn	last		0	0
 139511	MT	Judges	19	17	ZQN/	ZQN	ZQN	CCC	CCC	NA	NA	sg	m	NA	adjv				H	nnn	nnn	זקן	subs_adjv		-	-	0	1	0	0	nnn	nnn	last		0	0
+139555	MT	Judges	19	19	MSPW>/	MSPW>	MSPW>	CCCMC	CCCMM	NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מספוא	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	W	1	0
 139558	MT	Judges	19	19	XMWR/	XMWRJNW	XMWR	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	NW	J		L	nnnnnnn	nnnnnnn	חמורינו	subs_adjv		-	-	1	1	0	1	nnnn	nnnn	last	W	1	0
 139576	MT	Judges	19	19	MXSWR/	MXSWR	MXSWR	CCCMC	CCCMC	NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מחסור	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	W	1	0
 139577	MT	Judges	19	19	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
@@ -13434,6 +13441,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 174587	MT	2_Samuel	22	29	XCK/	XCKJ	XCK	CCC	CCCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	חשכי	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 174593	MT	2_Samuel	22	30	>LHJM/	>LHJ	>LH	MCC	MCCC	NA	NA	pl	m	NA	subs		J		B	nnnn	nnnn	אלהי	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 174598	MT	2_Samuel	22	31	TMJM/	TMJM	TMJM	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	תמים	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
+174600	MT	2_Samuel	22	31	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	אמרת	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 174606	MT	2_Samuel	22	31	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 174618	MT	2_Samuel	22	32	YWR/	YWR	YWR	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	צור	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 174621	MT	2_Samuel	22	32	>LHJM/	>LHJNW	>LH	CCC	CCCMCM	NA	NA	pl	m	NA	subs	NW	J			nnnnnn	nnnnnn	אלהינו	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
@@ -15719,6 +15727,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 207954	MT	2_Kings	19	26	XYJR/	XYJR	XYJR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	חציר	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 207979	MT	2_Kings	19	28	>ZN/	>ZNJ	>ZN	CCC	CCCC	NA	NA	du	f	NA	subs		J		B	nnnn	nnnn	אזני	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 208001	MT	2_Kings	19	29	>WT/	>WT	>WT	CMC	CMC	NA	NA	sg	unknown	NA	subs				H	nnn	nnn	אות	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
+208005	MT	2_Kings	19	29	SPJX/	SPJX	SPJX	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	ספיח	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 208018	MT	2_Kings	19	29	CLJCJ/	CLJCJT	CLJC	CCMC	CCMCMC	NA	NA	sg	f	NA	adjv		T		H	nnnnnn	nnnnnn	שלישית	subs_adjv	J	-	-	0	1	0	1	nnnn	nnnn	last	J	1	1
 208030	MT	2_Kings	19	30	PLJVH/	PLJVT	PLJV	CCMC	CCMCC	NA	NA	sg	f	NA	subs		T			nnnnn	nnnnn	פליטת	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	0
 208035	MT	2_Kings	19	30	CRC/	CRC	CRC	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	שרש	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
@@ -16116,6 +16125,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 212845	MT	Isaiah	2	19	G>WN/	G>WNW	G>WN	CCMC	CCMCM	NA	NA	sg	m	NA	subs	W				nnnnn	nnnnn	גאונו	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	1
 212861	MT	Isaiah	2	20	>LJL/	>LJLJ	>LJL	CCMC	CCMCM	NA	NA	pl	m	NA	subs		J			nnnnn	nnnnn	אלילי	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	1
 212865	MT	Isaiah	2	20	>LJL/	>LJLJ	>LJL	CCMC	CCMCM	NA	NA	pl	m	NA	subs		J			nnnnn	nnnnn	אלילי	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	1
+212882	MT	Isaiah	2	21	NQRH/	NQRWT	NQR	CCC	CCCMC	NA	NA	pl	f	NA	subs		WT		B	nnnnn	nnnnn	נקרות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 212884	MT	Isaiah	2	21	YWR/	YRJM	YR	CC	CCMC	NA	NA	pl	m	NA	subs		JM		H	nnnn	nnnn	צרים	subs_adjv		-	-	0	1	0	1	nn	nn	single		0	0
 212887	MT	Isaiah	2	21	S<JP/	S<PJ	S<P	CCC	CCCM	NA	NA	pl	m	NA	subs		J		WB	nnnn	nnnn	סעפי	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	1
 212897	MT	Isaiah	2	21	G>WN/	G>WNW	G>WN	CCMC	CCMCM	NA	NA	sg	m	NA	subs	W				nnnnn	nnnnn	גאונו	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	1
@@ -16209,6 +16219,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 213812	MT	Isaiah	5	24	LHBH/	LHBH	LHB	CCC	CCCM	NA	NA	sg	f	NA	subs		H			nnnn	nnnn	להבה	subs_adjv		-	-	0	0	0	1	nnn	nnn	first		0	0
 213814	MT	Isaiah	5	24	CRC/	CRCM	CRC	CCC	CCCC	NA	NA	sg	m	NA	subs	M				nnnn	nnnn	שרשם	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 213828	MT	Isaiah	5	24	TWRH/	TWRT	TWR	CMC	CMCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	תורת	subs_adjv		-	-	0	0	0	1	nnn	nnn	single	W	1	0
+213833	MT	Isaiah	5	24	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	אמרת	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 213834	MT	Isaiah	5	24	QDWC/	QDWC	QDWC	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	קדוש	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 213862	MT	Isaiah	5	25	XWY/	XWYWT	XWY	CMC	CMCMC	NA	NA	pl	m	NA	subs		WT			nnnnn	nnnnn	חוצות	subs_adjv		-	-	0	0	0	1	nnn	nnn	single	W	1	1
 213864	MT	Isaiah	5	25	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
@@ -16218,7 +16229,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 213918	MT	Isaiah	5	28	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				W	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 213922	MT	Isaiah	5	28	SWS/	SWSJW	SWS	CMC	CMCCC	NA	NA	pl	m	NA	subs	W	J			nnnnn	nnnnn	סוסיו	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 213931	MT	Isaiah	5	28	SWPH/	SWPH	SWP	CMC	CMCM	NA	NA	sg	f	NA	subs		H		K	nnnn	nnnn	סופה	subs_adjv		-	-	0	1	0	1	nnn	nnn	single	W	1	0
-213936	MT	Isaiah	5	29	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				K	nnnn	nnnn	לביא	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 213940	MT	Isaiah	5	29	KPJR/	KPJRJM	KPJR	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM		K	nnnnnn	nnnnnn	כפירים	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	J	1	1
 213969	MT	Isaiah	5	30	XCK/	XCK	XCK	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	חשך	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 213988	MT	Isaiah	6	1	KS>/	KS>	KS>	CCC	CCM	NA	NA	sg	m	NA	subs					nnn	nnn	כסא	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
@@ -16872,6 +16882,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 221208	MT	Isaiah	28	21	<BDH/	<BDTW	<BD	CCC	CCCCM	NA	NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	עבדתו	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 221227	MT	Isaiah	28	22	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 221233	MT	Isaiah	28	23	QWL/	QWLJ	QWL	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	קולי	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	W	1	0
+221237	MT	Isaiah	28	23	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 221239	MT	Isaiah	28	24	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				H	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 221267	MT	Isaiah	28	25	F<RH/	F<RH	F<R	CCC	CCCM	NA	NA	sg	f	NA	subs		H		W	nnnn	nnnn	שערה	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 221271	MT	Isaiah	28	25	GBWLH/	GBLTW	GBL	CCC	CCCCM	NA	NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	גבלתו	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
@@ -16880,8 +16891,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 221287	MT	Isaiah	28	27	>WPN/	>WPN	>WPN	CMCC	CMCC	NA	NA	sg	m	NA	subs				W	nnnn	nnnn	אופן	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	first	W	1	0
 221329	MT	Isaiah	28	29	TWCJH/	TWCJH	TWCJ	CMCC	CMCCM	NA	NA	sg	f	NA	subs		H			nnnnn	nnnnn	תושיה	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	first	W	1	0
 221369	MT	Isaiah	29	3	MYWRH/	MYRT	MYR	CCC	CCCC	NA	NA	pl	f	NA	subs		T			nnnn	nnnn	מצרת	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
+221379	MT	Isaiah	29	4	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 221383	MT	Isaiah	29	4	>WB/	>WB	>WB	CMC	CMC	NA	NA	sg	m	NA	subs				K	nnn	nnn	אוב	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 221386	MT	Isaiah	29	4	QWL/	QWLK	QWL	CMC	CMCC	NA	NA	sg	m	NA	subs	K				nnnn	nnnn	קולך	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	W	1	0
+221390	MT	Isaiah	29	4	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 221397	MT	Isaiah	29	5	HMWN/	HMWN	HMWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	המון	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 221401	MT	Isaiah	29	5	MY/	MY	MY	CC	CC	NA	NA	sg	m	NA	subs				WK	nn	nn	מץ	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 221403	MT	Isaiah	29	5	HMWN/	HMWN	HMWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	המון	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
@@ -16928,7 +16941,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 221863	MT	Isaiah	30	5	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 221879	MT	Isaiah	30	5	BCT/	BCT	BC	CC	CCC	NA	NA	sg	f	NA	subs		T		L	nnn	nnn	בשת	subs_adjv		-	-	0	1	0	1	nn	nn	single		0	0
 221884	MT	Isaiah	30	6	MF>=/	MF>	MF>	CCC	CCM	NA	NA	sg	m	NA	subs					nnn	nnn	משא	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
-221892	MT	Isaiah	30	6	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs					nnnn	nnnn	לביא	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 221902	MT	Isaiah	30	6	KTP/	KTP	KTP	CCC	CCC	NA	NA	sg	f	NA	subs					nnn	nnn	כתף	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 221909	MT	Isaiah	30	6	>WYR/	>WYRTM	>WYR	CMCC	CMCCCC	NA	NA	pl	m	NA	subs	M	T			nnnnnn	nnnnnn	אוצרתם	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	first	W	1	0
 221931	MT	Isaiah	30	8	LWX/	LWX	LWX	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	לוח	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
@@ -17011,6 +17023,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 222778	MT	Isaiah	32	8	NDJBH/	NDJBWT	NDJB	CCMC	CCMCMC	NA	NA	pl	f	NA	subs		WT			nnnnnn	nnnnnn	נדיבות	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	0
 222783	MT	Isaiah	32	8	NDJBH/	NDJBWT	NDJB	CCMC	CCMCMC	NA	NA	pl	f	NA	subs		WT			nnnnnn	nnnnnn	נדיבות	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	0
 222789	MT	Isaiah	32	9	QWL/	QWLJ	QWL	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	קולי	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	W	1	0
+222793	MT	Isaiah	32	9	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 222801	MT	Isaiah	32	10	BYJR/	BYJR	BYJR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	בציר	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 222823	MT	Isaiah	32	12	GPN/	GPN	GPN	CCC	CCC	NA	NA	sg	unknown	NA	subs					nnn	nnn	גפן	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 222828	MT	Isaiah	32	13	QWY/	QWY	QWY	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	קוץ	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
@@ -17207,6 +17220,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 224787	MT	Isaiah	37	27	XYJR/	XYJR	XYJR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	חציר	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 224812	MT	Isaiah	37	29	>ZN/	>ZNJ	>ZN	CCC	CCCC	NA	NA	du	f	NA	subs		J		B	nnnn	nnnn	אזני	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 224834	MT	Isaiah	37	30	>WT/	>WT	>WT	CMC	CMC	NA	NA	sg	unknown	NA	subs				H	nnn	nnn	אות	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
+224838	MT	Isaiah	37	30	SPJX/	SPJX	SPJX	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	ספיח	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 224851	MT	Isaiah	37	30	CLJCJ/	CLJCJT	CLJC	CCMC	CCMCMC	NA	NA	sg	f	NA	adjv		T		H	nnnnnn	nnnnnn	שלישית	subs_adjv	J	-	-	0	1	0	1	nnnn	nnnn	last	J	1	1
 224863	MT	Isaiah	37	31	PLJVH/	PLJVT	PLJV	CCMC	CCMCC	NA	NA	sg	f	NA	subs		T			nnnnn	nnnnn	פליטת	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	0
 224868	MT	Isaiah	37	31	CRC/	CRC	CRC	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	שרש	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
@@ -23720,7 +23734,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 293768	MT	Hosea	13	4	>LHJM/	>LHJM	>LH	MCC	MCCMC	NA	NA	pl	m	NA	subs		JM		W	nnnnn	nnnnn	אלהים	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 293807	MT	Hosea	13	8	DB/	DB	DB	CC	CC	NA	NA	sg	unknown	NA	subs				K	nn	nn	דב	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 293808	MT	Hosea	13	8	CKWL=/	CKWL	CKWL	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	שכול	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
-293817	MT	Hosea	13	8	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				K	nnnn	nnnn	לביא	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 293834	MT	Hosea	13	10	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 293855	MT	Hosea	13	12	<WN/	<WN	<WN	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	עון	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 293866	MT	Hosea	13	13	XKM/	XKM	XKM	CCC	CCC	NA	NA	sg	m	NA	adjv					nnn	nnn	חכם	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
@@ -23761,7 +23774,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 294130	MT	Joel	1	5	CKWR/	CKWRJM	CKWR	CCMC	CCMCMC	NA	NA	pl	m	NA	adjv		JM			nnnnnn	nnnnnn	שכורים	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	W	1	0
 294135	MT	Joel	1	5	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 294149	MT	Joel	1	6	<YWM/	<YWM	<YWM	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	עצום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
-294158	MT	Joel	1	6	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs					nnnn	nnnn	לביא	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 294161	MT	Joel	1	7	GPN/	GPNJ	GPN	CCC	CCCM	NA	NA	sg	unknown	NA	subs	J				nnnn	nnnn	גפני	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 294173	MT	Joel	1	7	FRJG/	FRJGJH	FRJG	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	H	J			nnnnnn	nnnnnn	שריגיה	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	J	1	1
 294176	MT	Joel	1	8	BTWLH/	BTWLH	BTWL	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H		K	nnnnn	nnnnn	בתולה	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	W	1	0
@@ -24482,7 +24494,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 301813	MT	Nahum	2	11	KL/	KLM	KL	CC	CCC	NA	NA	sg	m	NA	subs	M				nnn	nnn	כלם	subs_adjv		-	-	1	0	0	0	nn	nn	single		0	0
 301817	MT	Nahum	2	12	M<WN/	M<WN	M<WN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	מעון	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 301824	MT	Nahum	2	12	KPJR/	KPRJM	KPR	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM		L	nnnnn	nnnnn	כפרים	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	1
-301828	MT	Nahum	2	12	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs					nnnn	nnnn	לביא	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 301830	MT	Nahum	2	12	GWR/	GWR	GWR	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	גור	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 301839	MT	Nahum	2	13	GWR=/	GRWTJW	GR	CC	CCMCCC	NA	NA	pl	m	NA	subs	W	WTJ			nnnnnn	nnnnnn	גרותיו	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	1
 301849	MT	Nahum	2	13	M<WN/	M<NTJW	M<N	CCC	CCCCCC	NA	NA	pl	m	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
@@ -25438,6 +25449,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 312101	MT	Psalms	12	5	LCWN/	LCNNW	LCN	CCC	CCCCM	NA	NA	sg	unknown	NA	subs	NW			L	nnnnn	nnnnn	לשננו	subs_adjv		-	-	1	1	0	0	nnn	nnn	last		0	0
 312106	MT	Psalms	12	5	>DWN/	>DWN	>DWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אדון	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 312113	MT	Psalms	12	6	>BJWN/	>BJWNJM	>BJWN	CCCMC	CCCMCMC	NA	NA	pl	m	NA	adjv		JM			nnnnnnn	nnnnnnn	אביונים	subs_adjv		-	-	0	0	0	1	nnnnn	nnnnn	last	W	1	0
+312123	MT	Psalms	12	7	>MRH/	>MRWT	>MR	CCC	CCCMC	NA	NA	pl	f	NA	subs		WT			nnnnn	nnnnn	אמרות	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
+312125	MT	Psalms	12	7	>MRH/	>MRWT	>MR	CCC	CCCMC	NA	NA	pl	f	NA	subs		WT			nnnnn	nnnnn	אמרות	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 312126	MT	Psalms	12	7	VHR/	VHRWT	VHR	CCC	CCCMC	NA	NA	pl	f	NA	adjv		WT			nnnnn	nnnnn	טהרות	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	1
 312142	MT	Psalms	12	8	DWR/	DWR	DWR	CMC	CMC	NA	NA	sg	m	NA	subs				H	nnn	nnn	דור	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 312145	MT	Psalms	12	8	<WLM/	<WLM	<WLM	CMCC	CMCC	NA	NA	sg	m	NA	subs				L	nnnn	nnnn	עולם	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	first	W	1	0
@@ -25481,6 +25494,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 312531	MT	Psalms	17	4	>RX/	>RXWT	>RX	CCC	CCCMC	NA	NA	pl	m	NA	subs		WT			nnnnn	nnnnn	ארחות	subs_adjv		-	-	0	0	0	1	nnn	nnn	first		0	1
 312532	MT	Psalms	17	4	PRJY/	PRJY	PRJY	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	פריץ	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 312546	MT	Psalms	17	6	>ZN/	>ZNK	>ZN	CCC	CCCC	NA	NA	sg	f	NA	subs	K				nnnn	nnnn	אזנך	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
+312549	MT	Psalms	17	6	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 312560	MT	Psalms	17	8	>JCWN/	>JCWN	>JCWN	CMCMC	CMCMC	NA	NA	sg	m	NA	subs				K	nnnnn	nnnnn	אישון	subs_adjv		-	-	0	1	0	0	nnnnn	nnnnn	last	W	1	0
 312577	MT	Psalms	17	10	XLB=/	XLBMW	XLB	CCC	CCCCM	NA	NA	sg	m	NA	subs	MW				nnnnn	nnnnn	חלבמו	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 312582	MT	Psalms	17	10	G>WT/	G>WT	G>WT	CCMC	CCMC	NA	NA	sg	f	NA	subs				B	nnnn	nnnn	גאות	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	first		0	0
@@ -25520,6 +25534,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 312958	MT	Psalms	18	29	XCK/	XCKJ	XCK	CCC	CCCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	חשכי	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 312965	MT	Psalms	18	30	>LHJM/	>LHJ	>LH	MCC	MCCC	NA	NA	pl	m	NA	subs		J		WB	nnnn	nnnn	אלהי	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 312970	MT	Psalms	18	31	TMJM/	TMJM	TMJM	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	תמים	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
+312972	MT	Psalms	18	31	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	אמרת	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 312978	MT	Psalms	18	31	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 312984	MT	Psalms	18	32	>LWH/	>LWH	>LWH	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אלוה	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 312990	MT	Psalms	18	32	YWR/	YWR	YWR	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	צור	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
@@ -27405,6 +27420,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 328678	MT	Psalms	105	12	MT/	MTJ	MT	CC	CCM	NA	NA	pl	m	NA	subs		J			nnn	nnn	מתי	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	1
 328711	MT	Psalms	105	15	NBJ>/	NBJ>J	NBJ>	CCMC	CCMCC	NA	NA	pl	m	NA	subs		J		WL	nnnnn	nnnnn	נביאי	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	J	1	0
 328720	MT	Psalms	105	16	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+328744	MT	Psalms	105	19	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	אמרת	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 328756	MT	Psalms	105	21	>DWN/	>DWN	>DWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אדון	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 328762	MT	Psalms	105	21	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 328770	MT	Psalms	105	22	ZQN/	ZQNJW	ZQN	CCC	CCCCC	NA	NA	pl	m	NA	adjv	W	J		W	nnnnn	nnnnn	זקניו	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
@@ -27688,6 +27704,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331383	MT	Psalms	119	8	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 331389	MT	Psalms	119	9	>RX/	>RXW	>RX	CCC	CCCM	NA	NA	sg	m	NA	subs	W				nnnn	nnnn	ארחו	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	1
 331395	MT	Psalms	119	10	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
+331405	MT	Psalms	119	11	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 331414	MT	Psalms	119	12	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 331418	MT	Psalms	119	13	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 331427	MT	Psalms	119	14	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
@@ -27707,9 +27724,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331558	MT	Psalms	119	33	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 331565	MT	Psalms	119	34	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 331569	MT	Psalms	119	34	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
+331597	MT	Psalms	119	38	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 331607	MT	Psalms	119	39	VWB/	VWBJM	VWB	CMC	CMCMC	NA	NA	pl	m	NA	adjv		JM			nnnnn	nnnnn	טובים	subs_adjv		-	-	0	0	0	1	nnn	nnn	single	W	1	0
 331611	MT	Psalms	119	40	PQWDJM/	PQDJK	PQD	CCC	CCCMC	NA	NA	pl	m	NA	subs	K	J		L	nnnnn	nnnnn	פקדיך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 331619	MT	Psalms	119	41	TCW<H/	TCW<TK	TCW<	CCMC	CCMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnnn	nnnnnn	תשועתך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	W	1	0
+331621	MT	Psalms	119	41	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		K	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 331638	MT	Psalms	119	43	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 331638	MT	Psalms	119	43	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 331645	MT	Psalms	119	44	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
@@ -27718,6 +27737,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331657	MT	Psalms	119	45	PQWDJM/	PQDJK	PQD	CCC	CCCMC	NA	NA	pl	m	NA	subs	K	J			nnnnn	nnnnn	פקדיך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 331684	MT	Psalms	119	48	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J		B	nnnn	nnnn	חקיך	subs_adjv		-	-	1	1	0	1	nn	nn	single		0	0
 331695	MT	Psalms	119	50	<NJ=/	<NJJ	<N	CC	CCCM	NA	NA	sg	m	NA	subs	J			B	nnnn	nnnn	עניי	subs_adjv	J	-	-	1	1	0	0	nn	nn	single		0	0
+331697	MT	Psalms	119	50	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 331699	MT	Psalms	119	51	ZD/	ZDJM	ZD	CC	CCMC	NA	NA	pl	m	NA	adjv		JM			nnnn	nnnn	זדים	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	1
 331702	MT	Psalms	119	51	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 331702	MT	Psalms	119	51	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
@@ -27730,12 +27750,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331735	MT	Psalms	119	55	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 331740	MT	Psalms	119	56	PQWDJM/	PQDJK	PQD	CCC	CCCMC	NA	NA	pl	m	NA	subs	K	J			nnnnn	nnnnn	פקדיך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 331751	MT	Psalms	119	58	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
+331755	MT	Psalms	119	58	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		K	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 331773	MT	Psalms	119	61	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 331776	MT	Psalms	119	62	XYWT/	XYWT	XYWT	CCMC	CCMC	NA	NA	sg	f	NA	subs					nnnn	nnnn	חצות	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 331788	MT	Psalms	119	63	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 331794	MT	Psalms	119	63	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	פקודיך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	W	1	0
 331800	MT	Psalms	119	64	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 331802	MT	Psalms	119	65	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv					nnn	nnn	טוב	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
+331824	MT	Psalms	119	67	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 331826	MT	Psalms	119	68	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv					nnn	nnn	טוב	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 331831	MT	Psalms	119	68	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 331835	MT	Psalms	119	69	ZD/	ZDJM	ZD	CC	CCMC	NA	NA	pl	m	NA	adjv		JM			nnnn	nnnn	זדים	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	1
@@ -27747,6 +27769,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331857	MT	Psalms	119	72	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv					nnn	nnn	טוב	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 331859	MT	Psalms	119	72	TWRH/	TWRT	TWR	CMC	CMCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	תורת	subs_adjv		-	-	0	0	0	1	nnn	nnn	single	W	1	0
 331888	MT	Psalms	119	75	>MWNH/	>MWNH	>MWN	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H		W	nnnnn	nnnnn	אמונה	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	W	1	0
+331896	MT	Psalms	119	76	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		K	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 331904	MT	Psalms	119	77	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 331905	MT	Psalms	119	77	C<CW<JM/	C<C<J	C<C<	CCCC	CCCCC	NA	NA	pl	m	NA	subs		J			nnnnn	nnnnn	שעשעי	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last		0	0
 331907	MT	Psalms	119	78	ZD/	ZDJM	ZD	CC	CCMC	NA	NA	pl	m	NA	adjv		JM			nnnn	nnnn	זדים	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	1
@@ -27754,6 +27777,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 331923	MT	Psalms	119	80	TMJM/	TMJM	TMJM	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	תמים	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 331925	MT	Psalms	119	80	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J		B	nnnn	nnnn	חקיך	subs_adjv		-	-	1	1	0	1	nn	nn	single		0	0
 331931	MT	Psalms	119	81	TCW<H/	TCW<TK	TCW<	CCMC	CCMCCC	NA	NA	sg	f	NA	subs	K	T		L	nnnnnn	nnnnnn	תשועתך	subs_adjv		-	-	1	1	0	1	nnnn	nnnn	last	W	1	0
+331939	MT	Psalms	119	82	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		L	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 331949	MT	Psalms	119	83	QJVWR/	QJVWR	QJVWR	CMCMC	CMCMC	NA	NA	sg	m	NA	subs				B	nnnnn	nnnnn	קיטור	subs_adjv		-	-	0	1	0	0	nnnnn	nnnnn	last	W	1	0
 331950	MT	Psalms	119	83	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 331964	MT	Psalms	119	85	ZD/	ZDJM	ZD	CC	CCMC	NA	NA	pl	m	NA	adjv		JM			nnnn	nnnn	זדים	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	1
@@ -27784,6 +27808,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332085	MT	Psalms	119	100	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	פקודיך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	W	1	0
 332088	MT	Psalms	119	101	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				M	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 332089	MT	Psalms	119	101	>RX/	>RX	>RX	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	ארח	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
+332107	MT	Psalms	119	103	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 332113	MT	Psalms	119	104	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J		M	nnnnnn	nnnnnn	פקודיך	subs_adjv		-	-	1	1	0	1	nnnn	nnnn	last	W	1	0
 332118	MT	Psalms	119	104	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 332119	MT	Psalms	119	104	>RX/	>RX	>RX	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	ארח	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
@@ -27800,6 +27825,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332182	MT	Psalms	119	112	<WLM/	<WLM	<WLM	CMCC	CMCC	NA	NA	sg	m	NA	subs				L	nnnn	nnnn	עולם	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	first	W	1	0
 332187	MT	Psalms	119	113	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T		W	nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	single	W	1	0
 332202	MT	Psalms	119	115	>LHJM/	>LHJ	>LH	CCC	CCCC	NA	NA	pl	m	NA	subs		J			nnnn	nnnn	אלהי	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
+332205	MT	Psalms	119	116	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		K	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 332219	MT	Psalms	119	117	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J		B	nnnn	nnnn	חקיך	subs_adjv		-	-	1	1	0	1	nn	nn	single		0	0
 332220	MT	Psalms	119	117	TMJD/	TMJD	TMJD	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	תמיד	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 332222	MT	Psalms	119	118	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
@@ -27810,6 +27836,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332256	MT	Psalms	119	122	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv				L	nnn	nnn	טוב	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 332259	MT	Psalms	119	122	ZD/	ZDJM	ZD	CC	CCMC	NA	NA	pl	m	NA	adjv		JM			nnnn	nnnn	זדים	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	1
 332263	MT	Psalms	119	123	JCW<H/	JCW<TK	JCW<	MCMC	MCMCCC	NA	NA	sg	f	NA	subs	K	T		L	nnnnnn	nnnnnn	ישועתך	subs_adjv		-	-	1	1	0	1	nnnn	nnnn	last	W	1	0
+332266	MT	Psalms	119	123	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T		WL	nnnn	nnnn	אמרת	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 332274	MT	Psalms	119	124	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J		W	nnnn	nnnn	חקיך	subs_adjv		-	-	1	1	0	1	nn	nn	single		0	0
 332288	MT	Psalms	119	126	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 332300	MT	Psalms	119	128	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
@@ -27817,6 +27844,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332302	MT	Psalms	119	128	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 332304	MT	Psalms	119	128	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 332305	MT	Psalms	119	128	>RX/	>RX	>RX	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	ארח	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
+332339	MT	Psalms	119	133	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		B	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 332344	MT	Psalms	119	133	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 332348	MT	Psalms	119	134	<CQ/	<CQ	<CQ	CCC	CCC	NA	NA	sg	m	NA	subs				M	nnn	nnn	עשק	subs_adjv		-	-	0	1	0	0	nnn	nnn	first		0	0
 332352	MT	Psalms	119	134	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	פקודיך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	W	1	0
@@ -27827,6 +27855,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332379	MT	Psalms	119	138	>MWNH/	>MWNH	>MWN	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H		W	nnnnn	nnnnn	אמונה	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	W	1	0
 332380	MT	Psalms	119	138	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 332380	MT	Psalms	119	138	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
+332388	MT	Psalms	119	140	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 332389	MT	Psalms	119	140	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 332389	MT	Psalms	119	140	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 332393	MT	Psalms	119	141	Y<JR/	Y<JR	Y<JR	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	צעיר	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
@@ -27838,6 +27867,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332422	MT	Psalms	119	145	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 332426	MT	Psalms	119	145	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 332444	MT	Psalms	119	148	>CMWRH/	>CMRWT	>CMR	CCCC	CCCCMC	NA	NA	pl	f	NA	subs		WT			nnnnnn	nnnnnn	אשמרות	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last		0	1
+332448	MT	Psalms	119	148	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		B	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 332449	MT	Psalms	119	149	QWL/	QWLJ	QWL	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	קולי	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	W	1	0
 332461	MT	Psalms	119	150	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T		M	nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	single	W	1	0
 332463	MT	Psalms	119	151	QRWB/	QRWB	QRWB	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	קרוב	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
@@ -27846,13 +27876,16 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332479	MT	Psalms	119	153	<NJ=/	<NJJ	<N	CC	CCCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	עניי	subs_adjv	J	-	-	1	0	0	0	nn	nn	single		0	0
 332483	MT	Psalms	119	153	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 332487	MT	Psalms	119	154	RJB/	RJBJ	RJB	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	ריבי	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	J	1	1
+332491	MT	Psalms	119	154	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		L	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 332493	MT	Psalms	119	155	RXWQ/	RXWQ	RXWQ	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	רחוק	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 332496	MT	Psalms	119	155	JCW<H/	JCW<H	JCW<	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H			nnnnn	nnnnn	ישועה	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	W	1	0
 332498	MT	Psalms	119	155	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
+332520	MT	Psalms	119	158	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 332525	MT	Psalms	119	159	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	פקודיך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	W	1	0
 332531	MT	Psalms	119	160	R>C/	R>C	R>C	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	ראש	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	>	1	0
 332536	MT	Psalms	119	160	<WLM/	<WLM	<WLM	CMCC	CMCC	NA	NA	sg	m	NA	subs				WL	nnnn	nnnn	עולם	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	first	W	1	0
 332537	MT	Psalms	119	160	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+332551	MT	Psalms	119	162	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 332560	MT	Psalms	119	163	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
 332570	MT	Psalms	119	165	CLWM/	CLWM	CLWM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	שלום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 332574	MT	Psalms	119	165	TWRH/	TWRTK	TWR	CMC	CMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	תורתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	single	W	1	0
@@ -27863,8 +27896,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 332593	MT	Psalms	119	168	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	פקודיך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	W	1	0
 332597	MT	Psalms	119	168	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 332601	MT	Psalms	119	169	RNH/	RNTJ	RN	CC	CCCM	NA	NA	sg	f	NA	subs	J	T			nnnn	nnnn	רנתי	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
+332613	MT	Psalms	119	170	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		K	nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 332620	MT	Psalms	119	171	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J			nnnn	nnnn	חקיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 332622	MT	Psalms	119	172	LCWN/	LCWNJ	LCWN	CCMC	CCMCM	NA	NA	sg	unknown	NA	subs	J				nnnnn	nnnnn	לשוני	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	0
+332623	MT	Psalms	119	172	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 332625	MT	Psalms	119	172	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 332633	MT	Psalms	119	173	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	פקודיך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	W	1	0
 332637	MT	Psalms	119	174	JCW<H/	JCW<TK	JCW<	MCMC	MCMCCC	NA	NA	sg	f	NA	subs	K	T		L	nnnnnn	nnnnnn	ישועתך	subs_adjv		-	-	1	1	0	1	nnnn	nnnn	last	W	1	0
@@ -28059,6 +28094,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 334266	MT	Psalms	138	1	>LHJM/	>LHJM	>LH	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 334271	MT	Psalms	138	2	QDC/	QDCK	QDC	CCC	CCCC	NA	NA	sg	m	NA	subs	K				nnnn	nnnn	קדשך	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 334284	MT	Psalms	138	2	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+334286	MT	Psalms	138	2	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 334295	MT	Psalms	138	3	<Z/	<Z	<Z	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	עז	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 334298	MT	Psalms	138	4	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 334311	MT	Psalms	138	5	GDWL/	GDWL	GDWL	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	גדול	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
@@ -28227,6 +28263,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 335682	MT	Psalms	147	14	GBWL/	GBWLK	GBWL	CCMC	CCMCC	NA	NA	sg	m	NA	subs	K				nnnnn	nnnnn	גבולך	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	0
 335683	MT	Psalms	147	14	CLWM/	CLWM	CLWM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	שלום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 335684	MT	Psalms	147	14	XLB=/	XLB	XLB	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	חלב	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
+335689	MT	Psalms	147	15	>MRH/	>MRTW	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	אמרתו	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 335701	MT	Psalms	147	16	KPWR/	KPWR	KPWR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	כפור	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 335727	MT	Psalms	147	19	XQ/	XQJW	XQ	CC	CCCC	NA	NA	pl	m	NA	subs	W	J			nnnn	nnnn	חקיו	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 335736	MT	Psalms	147	20	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
@@ -28368,7 +28405,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 337169	MT	Job	4	9	>LWH/	>LWH	>LWH	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אלוה	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 337179	MT	Job	4	10	QWL/	QWL	QWL	CMC	CMC	NA	NA	sg	m	NA	subs				W	nnn	nnn	קול	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 337183	MT	Job	4	10	KPJR/	KPJRJM	KPJR	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM			nnnnnn	nnnnnn	כפירים	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	1
-337192	MT	Job	4	11	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs					nnnn	nnnn	לביא	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 337200	MT	Job	4	12	>ZN/	>ZNJ	>ZN	CCC	CCCM	NA	NA	sg	f	NA	subs	J				nnnn	nnnn	אזני	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 337206	MT	Job	4	13	XZJWN/	XZJNWT	XZJN	CCCC	CCCCMC	NA	NA	pl	m	NA	subs		WT		M	nnnnnn	nnnnnn	חזינות	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last		0	1
 337218	MT	Job	4	14	RB=/	RB	RB	CC	CC	NA	NA	sg	m	NA	subs				W	nn	nn	רב	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
@@ -29109,7 +29145,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 345761	MT	Job	38	34	QWL/	QWLK	QWL	CMC	CMCC	NA	NA	sg	m	NA	subs	K				nnnn	nnnn	קולך	subs_adjv		-	-	1	0	0	0	nnn	nnn	single	W	1	0
 345780	MT	Job	38	36	XKMH/	XKMH	XKM	CCC	CCCM	NA	NA	sg	f	NA	subs		H			nnnn	nnnn	חכמה	subs_adjv		-	-	0	0	0	1	nnn	nnn	first		0	0
 345792	MT	Job	38	37	XKMH/	XKMH	XKM	CCC	CCCM	NA	NA	sg	f	NA	subs		H		B	nnnn	nnnn	חכמה	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
-345810	MT	Job	38	39	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				L	nnnn	nnnn	לביא	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 345814	MT	Job	38	39	KPJR/	KPJRJM	KPJR	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM			nnnnnn	nnnnnn	כפירים	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	1
 345820	MT	Job	38	40	M<NH/	M<WNWT	M<WN	CCMC	CCMCMC	NA	NA	pl	f	NA	subs		WT		B	nnnnnn	nnnnnn	מעונות	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	W	1	1
 345824	MT	Job	38	40	SKH/	SKH	SK	CC	CCM	NA	NA	sg	f	NA	subs		H		B	nnn	nnn	סכה	subs_adjv		-	-	0	1	0	1	nn	nn	single		0	0
@@ -30178,6 +30213,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 355149	MT	Proverbs	30	3	QDWC/	QDCJM	QDC	CCC	CCCMC	NA	NA	pl	m	NA	adjv		JM			nnnnn	nnnnn	קדשים	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 355169	MT	Proverbs	30	4	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 355180	MT	Proverbs	30	5	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+355181	MT	Proverbs	30	5	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	אמרת	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 355182	MT	Proverbs	30	5	>LWH/	>LWH	>LWH	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אלוה	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 355217	MT	Proverbs	30	8	<CR/	<CR	<CR	CCC	CCC	NA	NA	sg	m	NA	subs				W	nnn	nnn	עשר	subs_adjv		-	-	0	1	0	0	nnn	nnn	first		0	0
 355223	MT	Proverbs	30	8	XQ/	XQJ	XQ	CC	CCM	NA	NA	sg	m	NA	subs	J				nnn	nnn	חקי	subs_adjv		-	-	1	0	0	0	nn	nn	single		0	0
@@ -31016,6 +31052,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 364295	MT	Lamentations	2	15	JPJ/	JPJ	JP	CC	CCM	NA	NA	sg	m	NA	subs					nnn	nnn	יפי	subs_adjv	J	-	-	0	0	0	0	nn	nn	single		0	0
 364298	MT	Lamentations	2	15	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 364304	MT	Lamentations	2	16	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+364325	MT	Lamentations	2	17	>MRH/	>MRTW	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	אמרתו	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 364346	MT	Lamentations	2	18	XWMH/	XWMT	XWM	CMC	CMCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	חומת	subs_adjv		-	-	0	0	0	1	nnn	nnn	single	W	1	0
 364371	MT	Lamentations	2	19	R>C/	R>C	R>C	CMC	CMC	NA	NA	sg	m	NA	subs				L	nnn	nnn	ראש	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	>	1	0
 364372	MT	Lamentations	2	19	>CMWRH/	>CMRWT	>CMR	CCCC	CCCCMC	NA	NA	pl	f	NA	subs		WT			nnnnnn	nnnnnn	אשמרות	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last		0	1
@@ -36620,6 +36657,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 517097	SP	Genesis	24	22	YMJD/	YMJDJM	YMJD	CCMC	CCMCMC		NA	pl	m	NA	subs		JM			nnnnnn	nnnnnn	צמידים	subs_adjv		-	-	0	0	0	1	nnnn	nnnn	last	J	1	1
 517102	SP	Genesis	24	22	MCQL/	MCQLM	MCQL	CCCC	CCCCC		NA	sg	m	NA	subs	M				nnnnn	nnnnn	משקלם	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last		0	0
 517116	SP	Genesis	24	23	MQWM/	MQWM	MQWM	CCMC	CCMC		NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
+517138	SP	Genesis	24	25	MSPW>/	MSPH	MSP	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	מספה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	last		0	0
 517143	SP	Genesis	24	25	MQWM/	MQWM	MQWM	CCMC	CCMC		NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 517158	SP	Genesis	24	27	>LHJM/	>LHJ	>LH	CCC	CCCC		NA	pl	m	NA	subs		J			nnnn	nnnn	אלהי	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 517159	SP	Genesis	24	27	>DWN/	>DNJ	>DN	CCC	CCCC		NA	sg	m	NA	subs	J				nnnn	nnnn	אדני	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	0
@@ -36631,6 +36669,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 517230	SP	Genesis	24	30	>XWT/	>XWTW	>XWT	CCMC	CCMCM		NA	sg	f	NA	subs	W				nnnnn	nnnnn	אחותו	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	1
 517260	SP	Genesis	24	31	XWY/	XWY	XWY	CMC	CMC		NA	sg	m	NA	subs				B	nnn	nnn	חוץ	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 517267	SP	Genesis	24	31	MQWM/	MQWM	MQWM	CCMC	CCMC		NA	sg	m	NA	subs				W	nnnn	nnnn	מקום	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
+517284	SP	Genesis	24	32	MSPW>/	MSPH	MSP	CCC	CCCM		NA	sg	m	NA	subs				W	nnnn	nnnn	מספה	subs_adjv	H	-	-	0	1	0	0	nnn	nnn	last		0	0
 517324	SP	Genesis	24	35	>DWN/	>DNJ	>DN	CCC	CCCC		NA	sg	m	NA	subs	J				nnnn	nnnn	אדני	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	0
 517325	SP	Genesis	24	35	M>D/	M>D	M>D	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 517325	SP	Genesis	24	35	M>D/	M>D	M>D	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
@@ -36731,7 +36770,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 519344	SP	Genesis	27	11	F<JR===/	F<JR	F<JR	CCMC	CCMC		NA	sg	m	NA	adjv					nnnn	nnnn	שעיר	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	J	1	0
 519375	SP	Genesis	27	13	QWL/	QWLJ	QWL	CMC	CMCM		NA	sg	unknown	NA	subs	J			B	nnnn	nnnn	קולי	subs_adjv		-	-	1	1	0	0	nnn	nnn	single	W	1	0
 519404	SP	Genesis	27	15	GDWL/	GDWL	GDWL	CCMC	CCMC		NA	sg	unknown	NA	adjv				H	nnnn	nnnn	גדול	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
-519406	SP	Genesis	27	15	XMWD/	XMDWT	XMD	CCC	CCCMC		NA	pl	f	NA	subs		WT		H	nnnnn	nnnnn	חמדות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	1
+519406	SP	Genesis	27	15	XMDWT/	XMDWT	XMD	CCC	CCCMC		NA	pl	f	NA	subs		WT		H	nnnnn	nnnnn	חמדות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	1
 519420	SP	Genesis	27	16	<WR=/	<WRWT	<WR	CMC	CMCMC		NA	pl	m	NA	subs		WT			nnnnn	nnnnn	עורות	subs_adjv		-	-	0	0	0	1	nnn	nnn	single	W	1	1
 519430	SP	Genesis	27	16	YW>R/	YW>RW	YW>R	CCMC	CCMCM		NA	sg	unknown	NA	subs	W				nnnnn	nnnnn	צוארו	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	>	1	0
 519466	SP	Genesis	27	19	BKR/	BKRK	BKR	CCC	CCCC		NA	sg	m	NA	subs	K				nnnn	nnnn	בכרך	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	0
@@ -37507,6 +37546,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 529408	SP	Genesis	42	22	JLD/	JLD	JLD	CCC	CCC		NA	sg	m	NA	subs				B	nnn	nnn	ילד	subs_adjv		-	-	0	1	0	0	nnn	nnn	last		0	0
 529471	SP	Genesis	42	25	YJDH/	YDH	YD	CC	CCM		NA	sg	f	NA	subs		H			nnn	nnn	צדה	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	0
 529483	SP	Genesis	42	26	XMWR/	XMRJHM	XMR	CCC	CCCMCC		NA	pl	m	NA	subs	HM	J			nnnnnn	nnnnnn	חמריהם	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
+529495	SP	Genesis	42	27	MSPW>/	MSPH	MSP	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	מספה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	last		0	0
 529497	SP	Genesis	42	27	XMWR/	XMRW	XMR	CCC	CCCM		NA	sg	unknown	NA	subs	W			L	nnnn	nnnn	חמרו	subs_adjv		-	-	1	1	0	0	nnn	nnn	last		0	1
 529535	SP	Genesis	42	28	>LHJM/	>LHJM	>LH	CCC	CCCMC		NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 529548	SP	Genesis	42	29	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
@@ -37538,6 +37578,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 530201	SP	Genesis	43	23	>LHJM/	>LHJKM	>LH	CCC	CCCMCC		NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 530203	SP	Genesis	43	23	>LHJM/	>LHJ	>LH	MCC	MCCM		NA	pl	m	NA	subs		J		W	nnnn	nnnn	אלהי	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 530207	SP	Genesis	43	23	MVMN/	MVMWN	MVMWN	CCCMC	CCCMC		NA	sg	m	NA	subs					nnnnn	nnnnn	מטמון	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	W	1	0
+530235	SP	Genesis	43	24	MSPW>/	MSPH	MSP	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	מספה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	last		0	0
 530237	SP	Genesis	43	24	XMWR/	XMRJHM	XMR	CCC	CCCMCC		NA	pl	m	NA	subs	HM	J		L	nnnnnn	nnnnnn	חמריהם	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
 530247	SP	Genesis	43	25	YHRJM/	YHRJM	YHR	CCC	CCCCC		NA	du	m	NA	subs		JM		B	nnnnn	nnnnn	צהרים	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 530278	SP	Genesis	43	27	CLWM/	CLWM	CLWM	CCMC	CCMC		NA	sg	m	NA	subs				L	nnnn	nnnn	שלום	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
@@ -38317,6 +38358,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 540693	SP	Exodus	11	1	<WD/	<WD	<WD	CMC	CMC		NA	sg	m	NA	subs					nnn	nnn	עוד	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 540698	SP	Exodus	11	1	PR<H/	PR<H	PR<	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	פרעה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	last		0	0
 540720	SP	Exodus	11	2	>ZN/	>ZNJ	>ZN	CCC	CCCM		NA	du	f	NA	subs		J		B	nnnn	nnnn	אזני	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
+540756	SP	Exodus	11	3	XYWT/	XYJT	XYJT	CCMC	CCMC		NA	sg	unknown	NA	subs				WK	nnnn	nnnn	חצית	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 540767	SP	Exodus	11	3	KL/	KL	KL	CC	CC		NA	sg	unknown	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 540768	SP	Exodus	11	3	BKR/	BKWR	BKWR	CCMC	CCMC		NA	sg	unknown	NA	subs					nnnn	nnnn	בכור	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 540773	SP	Exodus	11	3	BKR/	BKWR	BKWR	CCMC	CCMC		NA	sg	unknown	NA	subs				M	nnnn	nnnn	בכור	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
@@ -38335,6 +38377,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 540855	SP	Exodus	11	3	PR<H/	PR<H	PR<	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	פרעה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	last		0	0
 540860	SP	Exodus	11	3	BKR/	BKWRJ	BKWR	CCMC	CCMCM		NA	sg	unknown	NA	subs	J				nnnnn	nnnnn	בכורי	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	0
 540879	SP	Exodus	11	3	BKR/	BKWRK	BKWR	CCMC	CCMCC		NA	sg	unknown	NA	subs	K				nnnnn	nnnnn	בכורך	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	0
+540887	SP	Exodus	11	4	XYWT/	XYJT	XYJT	CCMC	CCMC		NA	sg	unknown	NA	subs				K	nnnn	nnnn	חצית	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 540898	SP	Exodus	11	5	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 540899	SP	Exodus	11	5	BKR/	BKWR	BKWR	CCMC	CCMC		NA	sg	m	NA	subs					nnnn	nnnn	בכור	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 540904	SP	Exodus	11	5	BKR/	BKWR	BKWR	CCMC	CCMC		NA	sg	m	NA	subs				M	nnnn	nnnn	בכור	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
@@ -39670,6 +39713,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 553977	SP	Exodus	32	26	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 553986	SP	Exodus	32	27	>LHJM/	>LHJ	>LH	CCC	CCCM		NA	pl	m	NA	subs		J			nnnn	nnnn	אלהי	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 553990	SP	Exodus	32	27	XRB/	XRBW	XRB	CCC	CCCM		NA	sg	f	NA	subs	W				nnnn	nnnn	חרבו	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	1
+554015	SP	Exodus	32	27	QRWB/	QRJBW	QRJB	CCMC	CCMCM		NA	sg	unknown	NA	adjv	W				nnnnn	nnnnn	קריבו	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	J	1	0
 554033	SP	Exodus	32	28	CLC/	CLCT	CLC	CCC	CCCC		NA	sg	f	NA	subs		T		K	nnnn	nnnn	שלשת	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 554062	SP	Exodus	32	30	MXRT/	MXRT	MXR	CCC	CCCC		NA	sg	f	NA	subs		T		M	nnnn	nnnn	מחרת	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 554072	SP	Exodus	32	30	GDWL/	GDLH	GDL	CCC	CCCM		NA	sg	f	NA	adjv		H			nnnn	nnnn	גדלה	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
@@ -39706,6 +39750,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 554629	SP	Exodus	33	21	MQWM/	MQWM	MQWM	CCMC	CCMC		NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 554635	SP	Exodus	33	21	YWR/	YWR	YWR	CMC	CMC		NA	sg	m	NA	subs				H	nnn	nnn	צור	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 554640	SP	Exodus	33	22	KBWD/	KBWDJ	KBWD	CCMC	CCMCM		NA	sg	unknown	NA	subs	J				nnnnn	nnnnn	כבודי	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	0
+554644	SP	Exodus	33	22	NQRH/	NQJRWT	NQJR	CCMC	CCMCMC		NA	pl	f	NA	subs		WT		B	nnnnnn	nnnnnn	נקירות	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	J	1	0
 554646	SP	Exodus	33	22	YWR/	YWR	YWR	CMC	CMC		NA	sg	m	NA	subs				H	nnn	nnn	צור	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 554659	SP	Exodus	33	23	>XWR/	>XRJ	>XR	CCC	CCCM		NA	pl	m	NA	subs		J			nnnn	nnnn	אחרי	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 554672	SP	Exodus	34	1	LWX/	LWXT	LWX	CMC	CMCC		NA	pl	m	NA	subs		T			nnnn	nnnn	לוחת	subs_adjv		-	-	0	0	0	1	nnn	nnn	single	W	1	0
@@ -40852,6 +40897,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 564216	SP	Leviticus	9	24	<LH/	<LH	<L	CC	CCM		NA	sg	f	NA	subs		H		H	nnn	nnn	עלה	subs_adjv		-	-	0	1	0	1	nn	nn	single		0	0
 564220	SP	Leviticus	9	24	XLB=/	XLBJM	XLB	CCC	CCCMC		NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	חלבים	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	1
 564223	SP	Leviticus	9	24	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+564287	SP	Leviticus	10	3	QRWB/	QRJBJ	QRJB	CCMC	CCMCM		NA	sg	m	NA	adjv	J			B	nnnnn	nnnnn	קריבי	subs_adjv		-	-	1	1	0	0	nnnn	nnnn	last	J	1	1
 564292	SP	Leviticus	10	3	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 564309	SP	Leviticus	10	4	DWD/	DD	DD	CC	CC		NA	sg	m	NA	subs					nn	nn	דד	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 564322	SP	Leviticus	10	4	QDC/	QDC	QDC	CCC	CCC		NA	sg	m	NA	subs				H	nnn	nnn	קדש	subs_adjv		-	-	0	1	0	0	nnn	nnn	first		0	0
@@ -41850,6 +41896,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 573818	SP	Leviticus	24	22	>LHJM/	>LHJKM	>LH	CCC	CCCMCC		NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
 573832	SP	Leviticus	24	23	XWY/	XWY	XWY	CMC	CMC		NA	sg	m	NA	subs				M	nnn	nnn	חוץ	subs_adjv		-	-	0	1	0	0	nnn	nnn	single	W	1	0
 573899	SP	Leviticus	25	4	CBJ<J/	CBJ<JT	CBJ<	CCMC	CCMCMC		NA	sg	f	NA	adjv		T		H	nnnnnn	nnnnnn	שביעית	subs_adjv	J	-	-	0	1	0	1	nnnn	nnnn	last	J	1	1
+573917	SP	Leviticus	25	5	SPJX/	SPXJ	SPX	CCC	CCCM		NA	pl	m	NA	subs		J			nnnn	nnnn	ספחי	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	1
 573924	SP	Leviticus	25	5	NZJR/	NZJRJK	NZJR	CCMC	CCMCMC		NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	נזיריך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	J	1	1
 573939	SP	Leviticus	25	6	>KLH/	>KLH	>KL	CCC	CCCM		NA	sg	f	NA	subs		H		L	nnnn	nnnn	אכלה	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 573949	SP	Leviticus	25	6	FKJR/	FKJRJK	FKJR	CCMC	CCMCMC		NA	pl	m	NA	adjv	K	J		WL	nnnnnn	nnnnnn	שכיריך	subs_adjv		-	-	1	1	0	1	nnnn	nnnn	last	J	1	1
@@ -41866,6 +41913,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 574026	SP	Leviticus	25	10	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 574028	SP	Leviticus	25	10	JWBL/	JWBL	JWBL	CMCC	CMCC		NA	sg	m	NA	subs					nnnn	nnnn	יובל	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	first	W	1	0
 574042	SP	Leviticus	25	11	JWBL/	JWBL	JWBL	CMCC	CMCC		NA	sg	m	NA	subs					nnnn	nnnn	יובל	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	first	W	1	0
+574056	SP	Leviticus	25	11	SPJX/	SPXJH	SPX	CCC	CCCMC		NA	pl	m	NA	subs	H	J			nnnnn	nnnnn	ספחיה	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	1
 574061	SP	Leviticus	25	11	NZJR/	NZJRJH	NZJR	CCMC	CCMCCM		NA	pl	m	NA	subs	H	J			nnnnnn	nnnnnn	נזיריה	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	J	1	0
 574063	SP	Leviticus	25	12	JWBL/	JWBL	JWBL	CMCC	CMCC		NA	sg	m	NA	subs					nnnn	nnnn	יובל	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	first	W	1	0
 574065	SP	Leviticus	25	12	QDC/	QDC	QDC	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	קדש	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
@@ -42975,7 +43023,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 587197	SP	Numbers	16	11	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs				W	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 587274	SP	Numbers	16	15	M>D/	M>D	M>D	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 587274	SP	Numbers	16	15	M>D/	M>D	M>D	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
-587284	SP	Numbers	16	15	XMWD/	XMWD	XMWD	CCMC	CCMC		NA	sg	m	NA	subs					nnnn	nnnn	חמוד	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 587301	SP	Numbers	16	16	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs				W	nn	nn	כל	subs_adjv		-	-	0	1	0	0	nn	nn	single		0	0
 587353	SP	Numbers	16	18	>HL/	>HL	>HL	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	אהל	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 587354	SP	Numbers	16	18	MW<D/	MW<D	MW<D	CMCC	CMCC		NA	sg	m	NA	subs					nnnn	nnnn	מועד	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	first	W	1	0
@@ -43375,7 +43422,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 592255	SP	Numbers	23	15	<LH/	<LTJK	<L	CC	CCCMC		NA	pl	f	NA	subs	K	TJ			nnnnn	nnnnn	עלתיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 592286	SP	Numbers	23	17	<LH/	<LTJW	<L	CC	CCCCC		NA	pl	f	NA	subs	W	TJ			nnnnn	nnnnn	עלתיו	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 592351	SP	Numbers	23	21	>LHJM/	>LHJW	>LH	CCC	CCCCC		NA	pl	m	NA	subs	W	J			nnnnn	nnnnn	אלהיו	subs_adjv		-	-	1	0	0	1	nnn	nnn	last		0	0
-592389	SP	Numbers	23	24	LBJ>/	LBJH	LBJ	CCC	CCCM		NA	sg	unknown	NA	subs				K	nnnn	nnnn	לביה	subs_adjv	H	-	-	0	1	0	0	nnn	nnn	last		0	0
 592431	SP	Numbers	23	26	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
 592437	SP	Numbers	23	26	>LHJM/	>LHJM	>LH	CCC	CCCMC		NA	pl	m	NA	subs		JM		H	nnnnn	nnnnn	אלהים	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 592449	SP	Numbers	23	27	MQWM/	MQWM	MQWM	CCMC	CCMC		NA	sg	m	NA	subs					nnnn	nnnn	מקום	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
@@ -43388,7 +43434,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 592568	SP	Numbers	24	3	N>M/	N>M	N>M	CCC	CCC		NA	sg	m	NA	subs				W	nnn	nnn	נאם	subs_adjv		-	-	0	1	0	0	nnn	nnn	last		0	0
 592584	SP	Numbers	24	5	>HL/	>HLJK	>HL	CCC	CCCMC		NA	pl	m	NA	subs	K	J			nnnnn	nnnnn	אהליך	subs_adjv		-	-	1	0	0	1	nnn	nnn	first		0	0
 592620	SP	Numbers	24	7	MLKWT/	MLKWTW	MLKWT	CCCMC	CCCMCM		NA	sg	f	NA	subs	W				nnnnnn	nnnnnn	מלכותו	subs_adjv		-	-	1	0	0	0	nnnnn	nnnnn	last	W	1	1
-592644	SP	Numbers	24	9	LBJ>/	LBJH	LBJH	CCMC	CCMC		NA	sg	unknown	NA	subs				WK	nnnn	nnnn	לביה	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
 592677	SP	Numbers	24	10	CLC/	CLC	CLC	CCC	CCC		NA	sg	unknown	NA	subs					nnn	nnn	שלש	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 592684	SP	Numbers	24	11	MQWM/	MQWMK	MQWM	CCMC	CCMCC		NA	sg	m	NA	subs	K				nnnnn	nnnnn	מקומך	subs_adjv		-	-	1	0	0	0	nnnn	nnnn	last	W	1	0
 592693	SP	Numbers	24	11	KBWD/	KBWD	KBWD	CCMC	CCMC		NA	sg	unknown	NA	subs				M	nnnn	nnnn	כבוד	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	W	1	0
@@ -45558,6 +45603,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 618799	SP	Deuteronomy	31	29	>XRJT/	>XRJT	>XRJT	CCCMC	CCCMC		NA	sg	f	NA	subs				B	nnnnn	nnnnn	אחרית	subs_adjv		-	-	0	1	0	0	nnnnn	nnnnn	last	J	1	0
 618819	SP	Deuteronomy	31	30	>ZN/	>ZNJ	>ZN	CCC	CCCM		NA	du	f	NA	subs		J		B	nnnn	nnnn	אזני	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 618820	SP	Deuteronomy	31	30	KL/	KL	KL	CC	CC		NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		-	-	0	0	0	0	nn	nn	single		0	0
+618850	SP	Deuteronomy	32	2	>MRH/	>MJRTJ	>MJR	CCMC	CCMCCM		NA	sg	f	NA	subs	J	T			nnnnnn	nnnnnn	אמירתי	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	J	1	0
 618857	SP	Deuteronomy	32	2	RBJBJM/	RBJBJM	RBJB	CCMC	CCMCMC		NA	pl	m	NA	subs		JM		WK	nnnnnn	nnnnnn	רביבים	subs_adjv		-	-	0	1	0	1	nnnn	nnnn	last	J	1	1
 618867	SP	Deuteronomy	32	3	GDL/	GDL	GDL	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	גדל	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 618869	SP	Deuteronomy	32	3	>LHJM/	>LHJNW	>LH	MCC	MCCMCM		NA	pl	m	NA	subs	NW	J		L	nnnnnn	nnnnnn	אלהינו	subs_adjv		-	-	1	1	0	1	nnn	nnn	last		0	0
@@ -45643,6 +45689,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 619729	SP	Deuteronomy	33	7	RJB/	RJB	RJB	CMC	CMC		NA	sg	unknown	NA	subs					nnn	nnn	ריב	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	J	1	0
 619739	SP	Deuteronomy	33	8	TMJM=/	TMJK	TM	CC	CCMC		NA	pl	m	NA	subs	K	J			nnnn	nnnn	תמיך	subs_adjv		-	-	1	0	0	1	nn	nn	single		0	0
 619741	SP	Deuteronomy	33	8	>WR==/	>RJK	>R	CC	CCMC		NA	pl	m	NA	subs	K	J		W	nnnn	nnnn	אריך	subs_adjv		-	-	1	1	0	1	nn	nn	single		0	0
+619775	SP	Deuteronomy	33	9	>MRH/	>MJRTK	>MJR	CCMC	CCMCCC		NA	sg	f	NA	subs	K	T			nnnnnn	nnnnnn	אמירתך	subs_adjv		-	-	1	0	0	1	nnnn	nnnn	last	J	1	0
 619784	SP	Deuteronomy	33	10	TWRH/	TWRTJK	TWR	CMC	CMCCMC		NA	pl	f	NA	subs	K	TJ		W	nnnnnn	nnnnnn	תורתיך	subs_adjv		-	-	1	1	0	1	nnn	nnn	single	W	1	0
 619788	SP	Deuteronomy	33	10	QVWRH/	QVRH	QVR	CCC	CCCM		NA	sg	m	NA	subs		H			nnnn	nnnn	קטרה	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
 619792	SP	Deuteronomy	33	10	KLJL/	KLJL	KLJL	CCMC	CCMC		NA	sg	m	NA	adjv				W	nnnn	nnnn	כליל	subs_adjv		-	-	0	1	0	0	nnnn	nnnn	last	J	1	0
@@ -45661,7 +45708,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 619885	SP	Deuteronomy	33	17	BKR/	BKWR	BKWR	CCMC	CCMC		NA	sg	m	NA	subs					nnnn	nnnn	בכור	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 619886	SP	Deuteronomy	33	17	CWR/	CWR	CWR	CMC	CMC		NA	sg	unknown	NA	subs					nnn	nnn	שור	subs_adjv		-	-	0	0	0	0	nnn	nnn	single	W	1	0
 619918	SP	Deuteronomy	33	18	>HL/	>HLJK	>HL	CCC	CCCMC		NA	pl	m	NA	subs	K	J		B	nnnnn	nnnnn	אהליך	subs_adjv		-	-	1	1	0	1	nnn	nnn	first		0	0
-619943	SP	Deuteronomy	33	20	LBJ>/	LBJH	LBJ	CCC	CCCM		NA	sg	unknown	NA	subs				K	nnnn	nnnn	לביה	subs_adjv	H	-	-	0	1	0	0	nnn	nnn	last		0	0
 619946	SP	Deuteronomy	33	20	ZRW</	ZRW<	ZRW<	CCMC	CCMC		NA	sg	unknown	NA	subs					nnnn	nnnn	זרוע	subs_adjv		-	-	0	0	0	0	nnnn	nnnn	last	W	1	0
 619951	SP	Deuteronomy	33	21	R>CJT/	R>CJT	R>CJT	CMCMC	CMCMC		NA	sg	f	NA	subs					nnnnn	nnnnn	ראשית	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	first	>	1	0
 619951	SP	Deuteronomy	33	21	R>CJT/	R>CJT	R>CJT	CMCMC	CMCMC		NA	sg	f	NA	subs					nnnnn	nnnnn	ראשית	subs_adjv		-	-	0	0	0	0	nnnnn	nnnnn	last	J	1	0
@@ -45827,6 +45873,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1895663	1Qisaa	Isaiah	2	19	G>WN/	G>WNW	G>WN	CCMC	CCMCM	NA	NA	sg	m	NA	subs	W				nnnnn	nnnnn	גאונו	subs_adjv		26	2	1	0	0	0	nnnn	nnnn	last	W	1	1
 1895679	1Qisaa	Isaiah	2	20	>LJL/	>LJLJ	>LJL	CCMC	CCMCM	NA	NA	pl	m	NA	subs		J			nnnnn	nnnnn	אלילי	subs_adjv		27	2	0	0	0	1	nnnn	nnnn	last	J	1	1
 1895683	1Qisaa	Isaiah	2	20	>LJL/	>LJLJ	>LJL	CCMC	CCMCM	NA	NA	pl	m	NA	subs		J			nnnnn	nnnnn	אלילי	subs_adjv		27	2	0	0	0	1	nnnn	nnnn	last	J	1	1
+1895699	1Qisaa	Isaiah	2	21	NQRH/	NQRWT	NQR	CCC	CCCMC	NA	NA	pl	f	NA	subs		WT		B	nnnnn	nnnnn	נקרות	subs_adjv		28	2	0	1	0	1	nnn	nnn	last		0	0
 1895704	1Qisaa	Isaiah	2	21	S<JP/	S<PJ	S<P	CCC	CCCM	NA	NA	pl	m	NA	subs		J		WB	nnnn	nnnn	סעפי	subs_adjv		29	2	0	1	0	1	nnn	nnn	last		0	1
 1895714	1Qisaa	Isaiah	2	21	G>WN/	G>WNW	G>WN	CCMC	CCMCM	NA	NA	sg	m	NA	subs	W				nnnnn	nnnnn	גאונו	subs_adjv		29	2	1	0	0	0	nnnn	nnnn	last	W	1	1
 1895740	1Qisaa	Isaiah	3	1	>DWN/	>DWN	>DWN	CCMC	CCMC	NA	NA	sg	m	NA	subs				H	nnnn	nnnn	אדון	subs_adjv		3	3	0	1	0	0	nnnn	nnnn	last	W	1	0
@@ -45910,6 +45957,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1896660	1Qisaa	Isaiah	5	24	LHBH/	LWHBT	LWHB	CMCC	CMCCC	NA	NA	pl	f	NA	subs		T			nnnnn	nnnnn	לוהבת	subs_adjv		10	5	0	0	0	1	nnnn	nnnn	first	W	1	0
 1896662	1Qisaa	Isaiah	5	24	CRC/	CRCM	CRC	CCC	CCCC	NA	NA	sg	m	NA	subs	M				nnnn	nnnn	שרשם	subs_adjv		10	5	1	0	0	0	nnn	nnn	first		0	0
 1896674	1Qisaa	Isaiah	5	24	TWRH/	TWRT	TWR	CMC	CMCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	תורת	subs_adjv		11	5	0	0	0	1	nnn	nnn	single	W	1	0
+1896679	1Qisaa	Isaiah	5	24	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	אמרת	subs_adjv		11	5	0	0	0	1	nnn	nnn	last		0	0
 1896680	1Qisaa	Isaiah	5	24	QDWC/	QDWC	QDWC	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	קדוש	subs_adjv		11	5	0	0	0	0	nnnn	nnnn	last	W	1	0
 1896708	1Qisaa	Isaiah	5	25	XWY/	XWYWT	XWY	CMC	CMCMC	NA	NA	pl	m	NA	subs		WT			nnnnn	nnnnn	חוצות	subs_adjv		13	5	0	0	0	1	nnn	nnn	single	W	1	1
 1896710	1Qisaa	Isaiah	5	25	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs				B	nnn	nnn	כול	subs_adjv		13	5	0	1	0	0	nnn	nnn	single	W	1	0
@@ -45921,7 +45969,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1896770	1Qisaa	Isaiah	5	28	SWS/	SWSJW	SWS	CMC	CMCCC	NA	NA	pl	m	NA	subs	W	J			nnnnn	nnnnn	סוסיו	subs_adjv		17	5	1	0	0	1	nnn	nnn	single	W	1	0
 1896772	1Qisaa	Isaiah	5	28	YWR/	YWR	YWR	CMC	CMC	NA	NA	sg	m	NA	subs				K	nnn	nnn	צור	subs_adjv		17	5	0	1	0	0	nnn	nnn	single	W	1	0
 1896777	1Qisaa	Isaiah	5	28	SWPH/	SWPH	SWP	CMC	CMCM	NA	NA	sg	f	NA	subs		H		K	nnnn	nnnn	סופה	subs_adjv		18	5	0	1	0	1	nnn	nnn	single	W	1	0
-1896782	1Qisaa	Isaiah	5	29	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs				K	nnnn	nnnn	לביא	subs_adjv		18	5	0	1	0	0	nnnn	nnnn	last	J	1	0
 1896786	1Qisaa	Isaiah	5	29	KPJR/	KPJRJM	KPJR	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM		WK	nnnnnn	nnnnnn	כפירים	subs_adjv		18	5	0	1	0	1	nnnn	nnnn	last	J	1	1
 1896812	1Qisaa	Isaiah	5	30	XCK/	XWCK	XWCK	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	חושך	subs_adjv		20	5	0	0	0	0	nnnn	nnnn	first	W	1	0
 1896831	1Qisaa	Isaiah	6	1	KS>/	KS>W	KS>	CCC	CCCM	NA	NA	sg	m	NA	subs	W				nnnn	nnnn	כסאו	subs_adjv		21	5	1	0	0	0	nnn	nnn	last		0	0
@@ -46556,6 +46603,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1904366	1Qisaa	Isaiah	28	22	MWSRH/	MWSRWTJKM	MWSR	CMCC	CMCCMCMCC	NA	NA	pl	f	NA	subs	KM	WTJ			nnnnnnnnn	nnnnnnnnn	מוסרותיכם	subs_adjv		29	22	1	0	0	1	nnnn	nnnn	first	W	1	1
 1904377	1Qisaa	Isaiah	28	22	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		30	22	0	0	0	0	nn	nn	single		0	0
 1904384	1Qisaa	Isaiah	28	23	QWL/	QWLJ	QWL	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	קולי	subs_adjv		31	22	1	0	0	0	nnn	nnn	single	W	1	0
+1904388	1Qisaa	Isaiah	28	23	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		31	22	1	0	0	1	nnn	nnn	last		0	0
 1904391	1Qisaa	Isaiah	28	24	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs				H	nnn	nnn	כול	subs_adjv		31	22	0	1	0	0	nnn	nnn	single	W	1	0
 1904422	1Qisaa	Isaiah	28	25	F<RH/	F<WRH	F<WR	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H		W	nnnnn	nnnnn	שעורה	subs_adjv		2	23	0	1	0	1	nnnn	nnnn	last	W	1	0
 1904426	1Qisaa	Isaiah	28	25	GBWLH/	GBWLWTW	GBWL	CCMC	CCMCMCM	NA	NA	pl	f	NA	subs	W	WT			nnnnnnn	nnnnnnn	גבולותו	subs_adjv		2	23	1	0	0	1	nnnn	nnnn	last	W	1	1
@@ -46564,8 +46612,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1904443	1Qisaa	Isaiah	28	27	>WPN/	>PN	>PN	CCC	CCC	NA	NA	sg	m	NA	subs				W	nnn	nnn	אפן	subs_adjv		3	23	0	1	0	0	nnn	nnn	first		0	0
 1904485	1Qisaa	Isaiah	28	29	TWCJH/	TWCJH	TWCJ	CMCC	CMCCM	NA	NA	sg	f	NA	subs		H			nnnnn	nnnnn	תושיה	subs_adjv		6	23	0	0	0	1	nnnn	nnnn	first	W	1	0
 1904527	1Qisaa	Isaiah	29	3	MYWDH/	MYWDWT	MYWD	CCMC	CCMCMC	NA	NA	pl	f	NA	subs		WT			nnnnnn	nnnnnn	מצודות	subs_adjv		9	23	0	0	0	1	nnnn	nnnn	last	W	1	1
+1904538	1Qisaa	Isaiah	29	4	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		10	23	1	0	0	1	nnn	nnn	last		0	0
 1904542	1Qisaa	Isaiah	29	4	>WB/	>WB	>WB	CMC	CMC	NA	NA	sg	m	NA	subs				K	nnn	nnn	אוב	subs_adjv		10	23	0	1	0	0	nnn	nnn	single	W	1	0
 1904545	1Qisaa	Isaiah	29	4	QWL/	QWLK	QWL	CMC	CMCC	NA	NA	sg	m	NA	subs	K				nnnn	nnnn	קולך	subs_adjv		10	23	1	0	0	0	nnn	nnn	single	W	1	0
+1904549	1Qisaa	Isaiah	29	4	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		10	23	1	0	0	1	nnn	nnn	last		0	0
 1904557	1Qisaa	Isaiah	29	5	HMWN/	HMWN	HMWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	המון	subs_adjv		10	23	0	0	0	0	nnnn	nnnn	last	W	1	0
 1904558	1Qisaa	Isaiah	29	5	ZD/	ZDJK	ZD	CC	CCMC	NA	NA	pl	m	NA	adjv	K	J			nnnn	nnnn	זדיך	subs_adjv		11	23	1	0	0	1	nn	nn	single		0	1
 1904561	1Qisaa	Isaiah	29	5	MY/	MWY	MWY	CMC	CMC	NA	NA	sg	m	NA	subs				WK	nnn	nnn	מוץ	subs_adjv		11	23	0	1	0	0	nnn	nnn	single	W	1	0
@@ -46614,7 +46664,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1905049	1Qisaa	Isaiah	30	5	B>C/	B>C	B>C	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	באש	subs_adjv		10	24	0	0	0	0	nnn	nnn	last		0	0
 1905063	1Qisaa	Isaiah	30	5	BCT/	BCT	BC	CC	CCC	NA	NA	sg	f	NA	subs		T		L	nnn	nnn	בשת	subs_adjv		10	24	0	1	0	1	nn	nn	single		0	0
 1905069	1Qisaa	Isaiah	30	6	MF>=/	MF>	MF>	CCC	CCM	NA	NA	sg	m	NA	subs					nnn	nnn	משא	subs_adjv		12	24	0	0	0	0	nnn	nnn	last		0	0
-1905079	1Qisaa	Isaiah	30	6	LBJ>/	LBJ>	LBJ>	CCMC	CCMM	NA	NA	sg	m	NA	subs					nnnn	nnnn	לביא	subs_adjv		12	24	0	0	0	0	nnnn	nnnn	last	J	1	0
 1905091	1Qisaa	Isaiah	30	6	KTP/	KTP	KTP	CCC	CCC	NA	NA	sg	f	NA	subs					nnn	nnn	כתף	subs_adjv		13	24	0	0	0	0	nnn	nnn	last		0	0
 1905098	1Qisaa	Isaiah	30	6	>WYR/	>WYRWTM	>WYR	CMCC	CMCCMCC	NA	NA	pl	m	NA	subs	M	WT			nnnnnnn	nnnnnnn	אוצרותם	subs_adjv		13	24	1	0	0	1	nnnn	nnnn	first	W	1	1
 1905123	1Qisaa	Isaiah	30	8	LWX/	LWX	LWX	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	לוח	subs_adjv		15	24	0	0	0	0	nnn	nnn	single	W	1	0
@@ -46693,6 +46742,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1906015	1Qisaa	Isaiah	32	8	NDJBH/	NDJBWT	NDJB	CCMC	CCMCMC	NA	NA	pl	f	NA	subs		WT			nnnnnn	nnnnnn	נדיבות	subs_adjv		17	26	0	0	0	1	nnnn	nnnn	last	J	1	0
 1906020	1Qisaa	Isaiah	32	8	NDJBH/	NDJBWT	NDJB	CCMC	CCMCMC	NA	NA	pl	f	NA	subs		WT			nnnnnn	nnnnnn	נדיבות	subs_adjv		18	26	0	0	0	1	nnnn	nnnn	last	J	1	0
 1906027	1Qisaa	Isaiah	32	9	QWL/	QWLJ	QWL	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	קולי	subs_adjv		19	26	1	0	0	0	nnn	nnn	single	W	1	0
+1906031	1Qisaa	Isaiah	32	9	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		20	26	1	0	0	1	nnn	nnn	last		0	0
 1906041	1Qisaa	Isaiah	32	10	BYJR/	BYJR	BYJR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	בציר	subs_adjv		20	26	0	0	0	0	nnnn	nnnn	last	J	1	0
 1906066	1Qisaa	Isaiah	32	12	GPN/	GPN	GPN	CCC	CCC	NA	NA	sg		NA	subs					nnn	nnn	גפן	subs_adjv		23	26	0	0	0	0	nnn	nnn	first		0	0
 1906072	1Qisaa	Isaiah	32	13	QWY/	QWY	QWY	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	קוץ	subs_adjv		23	26	0	0	0	0	nnn	nnn	single	W	1	0
@@ -46891,6 +46941,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1908173	1Qisaa	Isaiah	37	27	QDJM/	QDJM	QDJM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	קדים	subs_adjv		6	31	0	0	0	0	nnnn	nnnn	last	J	1	0
 1908192	1Qisaa	Isaiah	37	29	>ZN/	>WZNJ	>WZN	CMCC	CMCCM	NA	NA	du	f	NA	subs	J			B	nnnnn	nnnnn	אוזני	subs_adjv		7	31	1	1	0	0	nnnn	nnnn	first	W	1	0
 1908214	1Qisaa	Isaiah	37	30	>WT/	>WT	>WT	CMC	CMC	NA	NA	sg		NA	subs				H	nnn	nnn	אות	subs_adjv		8	31	0	1	0	0	nnn	nnn	single	W	1	0
+1908218	1Qisaa	Isaiah	37	30	SPJX/	SPJX	SPJX	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	ספיח	subs_adjv		9	31	0	0	0	0	nnnn	nnnn	last	J	1	0
 1908229	1Qisaa	Isaiah	37	30	CLJCJ/	CLJCJT	CLJC	CCMC	CCMCMC	NA	NA	sg	f	NA	adjv		T		H	nnnnnn	nnnnnn	שלישית	subs_adjv	J	9	31	0	1	0	1	nnnn	nnnn	last	J	1	1
 1908242	1Qisaa	Isaiah	37	31	PLJVH/	PLJVT	PLJV	CCMC	CCMCC	NA	NA	sg	f	NA	subs		T			nnnnn	nnnnn	פליטת	subs_adjv		10	31	0	0	0	1	nnnn	nnnn	last	J	1	0
 1908248	1Qisaa	Isaiah	37	31	CRC/	CWRC	CWRC	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	שורש	subs_adjv		10	31	0	0	0	0	nnnn	nnnn	first	W	1	0
@@ -49382,6 +49433,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1979133	4Q29	Deuteronomy	31	24	TWRH/	TWRH	TWR	CMC	CMCM	NA	NA	sg	f	NA	subs		H		H	nnnn	nnnn	תורה	subs_adjv		1	f5_8	0	1	0	1	nnn	nnn	single	W	1	0
 1979158	4Q29	Deuteronomy	31	26	TWRH/	TWRH	TWR	CMC	CMCM	NA	NA	sg	f	NA	subs		H		H	nnnn	nnnn	תורה	subs_adjv		2	f5_8	0	1	0	1	nnn	nnn	single	W	1	0
 1979184	4Q29	Deuteronomy	31	27	<RP/	<RPK	<RP	CCC	CCCC	NA	NA	sg	m	NA	subs	K				nnnn	nnnn	ערפך	subs_adjv		3	f5_8	1	0	0	0	nnn	nnn	first		0	0
+1979311	4Q29	Deuteronomy	32	2	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		11	f5_8	1	0	0	1	nnn	nnn	last		0	0
 1979327	4Q29	Deuteronomy	32	3	GDWLH/	GDWLH	GDWL	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H			nnnnr	nnnnn	גדולה	subs_adjv		13	f5_8	0	0	0	1	nnnn	nnnn	last	W	1	0
 1979459	4Q30	Deuteronomy	4	1	>LHJM/	>LHJ	>LH	CCC	CCCM	NA	NA	pl	m	NA	subs		J			nnnn	nnnn	אלהי	subs_adjv		2	f63	0	0	0	1	nnn	nnn	last		0	0
 1979488	4Q30	Deuteronomy	4	14	XQ/	XQJM	XQ	CC	CCMC	NA	NA	pl	m	NA	subs		JM			nnnn	nnnn	חקים	subs_adjv		2	f2_3i	0	0	0	1	nn	nn	single		0	0
@@ -49501,6 +49553,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1986572	4Q35	Deuteronomy	2	29	MW>BJ/	MW>BJM	MW>B	CMCC	CMCCMC	NA	NA	NA	m	NA	adjv		JM		WH	nnnnnn	nnnnnn	מואבים	subs_adjv		3	f7	0	1	0	1	nnnn	nnnn	first	W	1	0
 1986693	4Q35	Deuteronomy	4	34	MWPT/	MPTJM	MPT	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM		WB	nnnrr	nnnnn	מפתים	subs_adjv		6	f8	0	1	0	1	nnn	nnn	first		0	0
 1986765	4Q35	Deuteronomy	31	11	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		3	f10	0	0	0	0	nn	nn	single		0	0
+1986834	4Q35	Deuteronomy	33	9	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		3	f11_15	1	0	0	1	nnn	nnn	last		0	0
 1986847	4Q35	Deuteronomy	33	10	QVWRH/	QVWRH	QVWR	CCMC	CCMCM	NA	NA	sg	m	NA	subs		H			nnnnn	nnnnn	קטורה	subs_adjv		3	f11_15	0	0	0	1	nnnn	nnnn	last	W	1	0
 1986851	4Q35	Deuteronomy	33	10	KLJL/	KLL	KLL	CCC	CCC	NA	NA	sg	m	NA	adjv				W	nnn	nnn	כלל	subs_adjv		4	f11_15	0	1	0	0	nnn	nnn	last		0	0
 1986859	4Q35	Deuteronomy	33	11	P<LH/	P<LT	P<L	CCC	CCCC	NA	NA	sg	m	NA	subs		T		W	nnnn	nnnn	פעלת	subs_adjv		4	f11_15	0	1	0	1	nnn	nnn	first		0	0
@@ -49512,7 +49565,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1986941	4Q35	Deuteronomy	33	16	NZJR/	NZJR	NZJR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	נזיר	subs_adjv		8	f11_15	0	0	0	0	nnnn	nnnn	last	J	1	0
 1986944	4Q35	Deuteronomy	33	17	BKR/	BKWR	BKWR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	בכור	subs_adjv		8	f11_15	0	0	0	0	nnnn	nnnn	last	W	1	0
 1986945	4Q35	Deuteronomy	33	17	CWR/	CWRW	CWR	CMC	CMCM	NA	NA	sg	m	NA	subs	W				nnnn	nnnn	שורו	subs_adjv		8	f11_15	1	0	0	0	nnn	nnn	single	W	1	1
-1987004	4Q35	Deuteronomy	33	20	LBJ>/	LBJ>	LBJ>	CCCC	CCCM	NA	NA	sg	m	NA	subs				K	nnnn	nnnn	לביא	subs_adjv		10	f11_15	0	1	0	0	nnnn	nnnn	last		0	0
 1987009	4Q35	Deuteronomy	33	20	ZRW</	ZRW<	ZRW<	CCMC	CCMC	NA	NA	sg		NA	subs					nnnn	nnnn	זרוע	subs_adjv		11	f11_15	0	0	0	0	nnnn	nnnn	last	W	1	0
 1987016	4Q35	Deuteronomy	33	21	R>CJT/	R>CT	R>CT	CMCC	CMCC	NA	NA	sg	f	NA	subs					nnnn	nnnn	ראשת	subs_adjv		11	f11_15	0	0	0	0	nnnn	nnnn	first	>	1	0
 1987016	4Q35	Deuteronomy	33	21	R>CJT/	R>CT	R>CT	CMCC	CMCC	NA	NA	sg	f	NA	subs					nnnn	nnnn	ראשת	subs_adjv		11	f11_15	0	0	0	0	nnnn	nnnn	last		0	0
@@ -50099,6 +50151,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2018408	4Q56	Isaiah	35	10	<WLM/	<WLM	<WLM	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	עולם	subs_adjv		2	f21	0	0	0	0	nnnn	nnnn	first	W	1	0
 2018410	4Q56	Isaiah	35	10	R>C/	R>CM	R>C	CMC	CMCC	NA	NA	sg	m	NA	subs	M				nnnn	nnnn	ראשם	subs_adjv		2	f21	1	0	0	0	nnn	nnn	single	>	1	0
 2018411	4Q56	Isaiah	35	10	FFWN/	FFWN	FFWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	ששון	subs_adjv		2	f21	0	0	0	0	nnnn	nnnn	last	W	1	0
+2018505	4Q56	Isaiah	37	30	SPJX/	SPJX	SPJX	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	ספיח	subs_adjv		2	f22_23	0	0	0	0	nnnn	nnnn	last	J	1	0
 2018546	4Q56	Isaiah	37	32	C>RJT/	C>RJT	C>RJT	CCCMC	CCCMC	NA	NA	sg	f	NA	subs					nnnnn	nnnnn	שארית	subs_adjv		4	f22_23	0	0	0	0	nnnnn	nnnnn	last	J	1	0
 2018622	4Q56	Isaiah	39	2	>WYR/	>YRTJW	>YR	CCC	CCCCCC	NA	NA	pl	m	NA	subs	W	TJ		B	nnnnnn	nnnnnn	אצרתיו	subs_adjv		5	f24_25	1	1	0	1	nnn	nnn	first		0	0
 2018752	4Q56	Isaiah	39	8	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv					nnn	nnn	טוב	subs_adjv		12	f24_25	0	0	0	0	nnn	nnn	single	W	1	0
@@ -50306,6 +50359,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2028643	4Q62a	Isaiah	56	8	<WD/	<WD	<WD	CMC	CMC	NA	NA	NA	m	NA	subs					nnn	nnn	עוד	subs_adjv		2	f1	0	0	0	0	nnn	nnn	single	W	1	0
 2028649	4Q62a	Isaiah	57	5	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		1	f2	0	0	0	0	nn	nn	single		0	0
 2028797	4Q63	Isaiah	1	5	XLJ/	XLJ	XL	CC	CCM	NA	NA	sg	m	NA	subs				L	nnr	nnn	חלי	subs_adjv	J	8	f1	0	1	0	0	nn	nn	single		0	0
+2028930	4Q64	Isaiah	29	4	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			rnnnn	nnnnn	אמרתך	subs_adjv		6	f1_5	1	0	0	1	rnn	nnn	last		0	0
 2028979	4Q64	Isaiah	29	7	HMWN/	HMWN	HMWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	המון	subs_adjv		8	f1_5	0	0	0	0	nnnn	nnnn	last	W	1	0
 2028980	4Q64	Isaiah	29	7	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		8	f1_5	0	0	0	0	nn	nn	single		0	0
 2029108	4Q65	Isaiah	8	12	MWR>/	MWR>W	MWR>	CMCC	CMCCM	NA	NA	sg	m	NA	subs	W				nnnnn	nnnnn	מוראו	subs_adjv		34	f2	1	0	0	0	nnnn	nnnn	first	W	1	1
@@ -50791,6 +50845,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2050642	4Q86	Psalms	147	1	N<JM/	N<JM	N<JM	CCMC	CCMC	NA	NA	sg		NA	adjv					nnnn	nnnn	נעים	subs_adjv		7	1	0	0	0	0	nnnn	nnnn	last	J	1	0
 2050681	4Q86	Psalms	147	14	CLWM/	CLWM	CLWM	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	שלום	subs_adjv		2	2	0	0	0	0	nnnn	nnnn	last	W	1	0
 2050683	4Q86	Psalms	147	14	XLB=/	XLB	XLB	CCC	CCC	NA	NA	sg	m	NA	subs				W	nnn	nnn	חלב	subs_adjv		2	2	0	1	0	0	nnn	nnn	first		0	0
+2050689	4Q86	Psalms	147	15	>MRH/	>MRTW	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	אמרתו	subs_adjv		3	2	1	0	0	1	nnn	nnn	last		0	0
 2050721	4Q86	Psalms	147	20	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		9	2	0	1	0	0	nn	nn	single		0	0
 2050750	4Q86	Psalms	104	2	JRJ<H/	JRJ<H	JRJ<	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H		K	nnnnn	nnnnn	יריעה	subs_adjv		13	2	0	1	0	1	nnnn	nnnn	last	J	1	0
 2050759	4Q86	Psalms	104	3	RKWB/	RKBW	RKB	CCC	CCCM	NA	NA	sg	m	NA	subs	W				nnnn	nnnn	רכבו	subs_adjv		14	2	1	0	0	0	nnn	nnn	last		0	1
@@ -50832,14 +50887,18 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2052159	4Q88	Psalms	107	41	<NJ=/	<NJ	<N	CC	CCM	NA	NA	sg	m	NA	subs				B	nnn	nnn	עני	subs_adjv	J	22	4	0	1	0	0	nn	nn	single		0	0
 2052168	4Q88	Psalms	107	42	JCR/	JCRJM	JCR	CCC	CCCMC	NA	NA	pl	m	NA	adjv		JM			rnnnn	nnnnn	ישרים	subs_adjv		24	4	0	0	0	1	rnn	nnn	last		0	1
 2052222	4Q88	Psalms	109	25	R>C/	RWCM	RWC	CMC	CMCC	NA	NA	sg	m	NA	subs	M				nnnn	nnnn	רושם	subs_adjv		5	7	1	0	0	0	nnn	nnn	single	W	1	0
+2052266	4Q89	Psalms	119	38	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		2	f1i	1	0	0	1	nnn	nnn	last		0	0
 2052282	4Q89	Psalms	119	40	PQWDJM/	PQDJK	PQD	CCC	CCCMC	NA	NA	pl	m	NA	subs	K	J		L	nnnnn	nnnnn	פקדיך	subs_adjv		4	f1i	1	1	0	1	nnn	nnn	last		0	0
 2052291	4Q89	Psalms	119	41	TCW<H/	TCW<TK	TCW<	CCMC	CCMCCC	NA	NA	sg	f	NA	subs	K	T			nnnnnn	nnnnnn	תשועתך	subs_adjv		6	f1i	1	0	0	1	nnnn	nnnn	last	W	1	0
+2052293	4Q89	Psalms	119	41	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T		K	nnnnn	nnnnn	אמרתך	subs_adjv		6	f1i	1	1	0	1	nnn	nnn	last		0	0
 2052300	4Q89	Psalms	119	42	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J			nnnnnn	nnnnnn	פקודיך	subs_adjv		7	f1i	1	0	0	1	nnnn	nnnn	last	W	1	0
 2052311	4Q89	Psalms	119	43	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		8	f1i	0	0	0	0	nnn	nnn	first		0	0
 2052311	4Q89	Psalms	119	43	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		8	f1i	0	0	0	0	nnn	nnn	last		0	0
 2052319	4Q89	Psalms	119	44	TWRH/	TWRTJK	TWR	CMC	CMCCMC	NA	NA	pl	f	NA	subs	K	TJ			nnnnnn	nnnnnn	תורתיך	subs_adjv		1	f1ii_3	1	0	0	1	nnn	nnn	single	W	1	0
 2052381	4Q89	Psalms	119	81	TCW<H/	TCW<TK	TCW<	CCMC	CCMCCC	NA	NA	sg	f	NA	subs	K	T		L	nnnnrr	nnnnnn	תשועתך	subs_adjv		3	f5	1	1	0	1	nnnn	nnnn	last	W	1	0
+2052390	4Q89	Psalms	119	82	>MRH/	>MRTK	>MR	MCC	MCCCC	NA	NA	sg	f	NA	subs	K	T		L	nnnnn	nnnnn	אמרתך	subs_adjv		4	f5	1	1	0	1	nnn	nnn	last		0	0
 2052441	4Q89	Psalms	119	92	<NJ=/	<NJJ	<N	CC	CCCM	NA	NA	sg	m	NA	subs	J			B	nnnr	nnnn	עניי	subs_adjv	J	7	f6	1	1	0	0	nn	nn	single		0	0
+2052455	4Q90	Psalms	119	11	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnrr	nnnnn	אמרתך	subs_adjv		11	f1_2	1	0	0	1	nnn	nnn	last		0	0
 2052470	4Q90	Psalms	119	13	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		13	f1_2	0	0	0	0	nn	nn	single		0	0
 2052484	4Q90	Psalms	119	15	PQWDJM/	PQWDJK	PQWD	CCMC	CCMCMC	NA	NA	pl	m	NA	subs	K	J		B	nnnnnn	nnnnnn	פקודיך	subs_adjv		15	f1_2	1	1	0	1	nnnn	nnnn	last	W	1	0
 2052491	4Q90	Psalms	119	16	XQH/	XWQWTJK	XWQ	CMC	CMCMCCC	NA	NA	pl	f	NA	subs	K	WTJ		B	nnnnnnn	nnnnnnn	חוקותיך	subs_adjv		16	f1_2	1	1	0	1	nnn	nnn	single	W	1	1
@@ -51468,6 +51527,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2073170	5Q5	Psalms	119	117	TMJD/	TMJD	TMJD	CCMC	CCMC	NA	NA	NA	m	NA	subs					nnnn	nnnn	תמיד	subs_adjv		5	f1ii	0	0	0	0	nnnn	nnnn	last	J	1	0
 2073176	5Q5	Psalms	119	118	XQ/	XQJK	XQ	CC	CCMC	NA	NA	pl	m	NA	subs	K	J		M	nnnn	nnnn	חקיך	subs_adjv		6	f1ii	1	1	0	1	nn	nn	single		0	0
 2073179	5Q5	Psalms	119	118	TRMJT/	TRMJTM	TRMJT	CCCMC	CCCMCC	NA	NA	sg	f	NA	subs	M				nnnnnn	nnnnnn	תרמיתם	subs_adjv		6	f1ii	1	0	0	0	nnnnn	nnnnn	last	J	1	0
+2073215	5Q5	Psalms	119	140	>MRH/	>MRTK	>MR	CCC	CCCCC	NA	NA	sg	f	NA	subs	K	T			nnnnn	nnnnn	אמרתך	subs_adjv		12	f2	1	0	0	1	nnn	nnn	last		0	0
 2073216	5Q5	Psalms	119	140	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		12	f2	0	0	0	0	nnn	nnn	first		0	0
 2073216	5Q5	Psalms	119	140	M>D/	M>D	M>D	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	מאד	subs_adjv		12	f2	0	0	0	0	nnn	nnn	last		0	0
 2073221	5Q5	Psalms	119	141	Y<JR/	Y<JR	Y<JR	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	צעיר	subs_adjv		13	f2	0	0	0	0	nnnn	nnnn	last	J	1	0
@@ -51509,6 +51569,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2075474	6Q7	Daniel	10	14	<WD/	<WD	<WD	CMC	CMC	NA	NA	NA	m	NA	subs					nnn	nnn	עוד	subs_adjv		13	f2_5	0	0	0	0	nnn	nnn	single	W	1	0
 2075533	6Q7	Daniel	11	33	LHBH/	LHBH	LHB	CCC	CCCM	NA	NA	sg	f	NA	subs		H		WB	nnnn	nnnn	להבה	subs_adjv		1	f6_7	0	1	0	1	nnn	nnn	first		0	0
 2075588	6Q7	Daniel	11	36	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		4	f6_7	0	0	0	0	nn	nn	single		0	0
+2076069	8Q2	Psalms	17	6	>MRH/	>MRTJ	>MR	CCC	CCCCM	NA	NA	sg	f	NA	subs	J	T			nnnnn	nnnnn	אמרתי	subs_adjv		3	f1_6	1	0	0	1	nnn	nnn	last		0	0
 2076229	8Q3	Exodus	13	2	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		1	f1_11i	0	0	0	0	nn	nn	single		0	0
 2076230	8Q3	Exodus	13	2	BKR/	BKWR	BKWR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	בכור	subs_adjv		1	f1_11i	0	0	0	0	nnnn	nnnn	last	W	1	0
 2076232	8Q3	Exodus	13	2	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	כל	subs_adjv		1	f1_11i	0	0	0	0	nn	nn	single		0	0
@@ -51877,9 +51938,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084180	11Q5	Psalms	119	23	XQ/	XWQJKH	XWQ	CMC	CMCMCM	NA	NA	pl	m	NA	subs	KH	J		B	nnnnnn	nnnnnn	חוקיכה	subs_adjv		9	7	1	1	0	1	nnn	nnn	single	W	1	0
 2084184	11Q5	Psalms	119	24	C<CW<JM/	C<CW<J	C<CW<	CCCMC	CCCMCM	NA	NA	pl	m	NA	subs		J			nnnnnn	nnnnnn	שעשועי	subs_adjv		10	7	0	0	0	1	nnnnn	nnnnn	last	W	1	0
 2084204	11Q5	Psalms	119	27	PQWDJM/	PQWDJKH	PQWD	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnnn	nnnnnnn	פקודיכה	subs_adjv		13	7	1	0	0	1	nnnn	nnnn	last	W	1	0
+2084231	11Q5	Psalms	119	38	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	אמרתכה	subs_adjv		2	8	1	0	0	1	nnn	nnn	last		0	0
 2084242	11Q5	Psalms	119	39	VWB/	VWBJM	VWB	CMC	CMCMC	NA	NA	pl	m	NA	adjv		JM			nnnnn	nnnnn	טובים	subs_adjv		3	8	0	0	0	1	nnn	nnn	single	W	1	0
 2084247	11Q5	Psalms	119	40	PQWDJM/	PQWDJKH	PQWD	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	KH	J		L	nnnnnnn	nnnnnnn	פקודיכה	subs_adjv		4	8	1	1	0	1	nnnn	nnnn	last	W	1	0
 2084256	11Q5	Psalms	119	41	TCW<H/	TCW<TKH	TCW<	CCMC	CCMCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnnn	nnnnnnn	תשועתכה	subs_adjv		5	8	1	0	0	1	nnnn	nnnn	last	W	1	0
+2084258	11Q5	Psalms	119	41	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T		K	nnnnnn	nnnnnn	אמרתכה	subs_adjv		5	8	1	1	0	1	nnn	nnn	last		0	0
 2084277	11Q5	Psalms	119	43	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		7	8	0	0	1	0	nnnn	nnnn	first	W	1	0
 2084277	11Q5	Psalms	119	43	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		7	8	0	0	1	0	nnnn	nnnn	last		0	1
 2084285	11Q5	Psalms	119	44	TWRH/	TWRTKH	TWR	CMC	CMCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	תורתכה	subs_adjv		8	8	1	0	0	1	nnn	nnn	single	W	1	0
@@ -51893,6 +51956,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084377	11Q5	Psalms	119	63	PQWDJM/	PQWDJKH	PQWD	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnnn	nnnnnnn	פקודיכה	subs_adjv		5	9	1	0	0	1	nnnn	nnnn	last	W	1	0
 2084384	11Q5	Psalms	119	64	XQ/	XWQKH	XWQ	CMC	CMCCM	NA	NA	sg	m	NA	subs	KH				nnnnn	nnnnn	חוקכה	subs_adjv		6	9	1	0	0	0	nnn	nnn	single	W	1	0
 2084387	11Q5	Psalms	119	65	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv					nnn	nnn	טוב	subs_adjv		7	9	0	0	0	0	nnn	nnn	single	W	1	0
+2084411	11Q5	Psalms	119	67	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	אמרתכה	subs_adjv		9	9	1	0	0	1	nnn	nnn	last		0	0
 2084414	11Q5	Psalms	119	68	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv					nnn	nnn	טוב	subs_adjv		10	9	0	0	0	0	nnn	nnn	single	W	1	0
 2084420	11Q5	Psalms	119	68	XQ/	XWQJKH	XWQ	CMC	CMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnn	nnnnnn	חוקיכה	subs_adjv		10	9	1	0	0	1	nnn	nnn	single	W	1	0
 2084425	11Q5	Psalms	119	69	ZD/	ZDJM	ZD	CC	CCMC	NA	NA	pl	m	NA	adjv		JM			nnnn	nnnn	זדים	subs_adjv		11	9	0	0	0	1	nn	nn	single		0	1
@@ -51902,6 +51966,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084438	11Q5	Psalms	119	70	TWRH/	TWRTKH	TWR	CMC	CMCCCM	NA	NA	sg	f	NA	subs	KH	T			nnnnnr	nnnnnn	תורתכה	subs_adjv		12	9	1	0	0	1	nnn	nnn	single	W	1	0
 2084449	11Q5	Psalms	119	72	VWB/	VWB	VWB	CMC	CMC	NA	NA	sg	m	NA	adjv					nnn	nnn	טוב	subs_adjv		14	9	0	0	0	0	nnn	nnn	single	W	1	0
 2084451	11Q5	Psalms	119	72	TWRH/	TWRT	TWR	CMC	CMCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	תורת	subs_adjv		14	9	0	0	0	1	nnn	nnn	single	W	1	0
+2084471	11Q5	Psalms	119	82	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T		L	nnnnnn	nnnnnn	אמרתכה	subs_adjv		1	10	1	1	0	1	nnn	nnn	last		0	0
 2084482	11Q5	Psalms	119	83	QJVWR/	QJVWR	QJVWR	CMCMC	CMCMC	NA	NA	sg	m	NA	subs				B	nnnnn	nnnnn	קיטור	subs_adjv		2	10	0	1	0	0	nnnnn	nnnnn	last	W	1	0
 2084499	11Q5	Psalms	119	85	ZD/	ZJDJM	ZJD	CMC	CMCMC	NA	NA	pl	m	NA	adjv		JM			nnnnn	nnnnn	זידים	subs_adjv		4	10	0	0	0	1	nnn	nnn	single	J	1	1
 2084500	11Q5	Psalms	119	85	CJXH/	CXT	CX	CC	CCC	NA	NA	sg	f	NA	subs		T			nnn	nnn	שחת	subs_adjv		4	10	0	0	0	1	nn	nn	single		0	0
@@ -51927,6 +51992,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084607	11Q5	Psalms	119	105	NTJBH/	NTJBWTJ	NTJB	CCMC	CCMCMCC	NA	NA	pl	f	NA	subs	J	WT		L	nnnnnnn	nnnnnnn	נתיבותי	subs_adjv		1	11	1	1	0	1	nnnn	nnnn	last	J	1	0
 2084619	11Q5	Psalms	119	107	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		3	11	0	0	1	0	nnnn	nnnn	first	W	1	0
 2084619	11Q5	Psalms	119	107	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		3	11	0	0	1	0	nnnn	nnnn	last		0	1
+2084622	11Q5	Psalms	119	107	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg		NA	subs	KH	T		K	nnnnnn	nnnnnn	אמרתכה	subs_adjv		3	11	1	1	0	1	nnn	nnn	last		0	0
 2084636	11Q5	Psalms	119	109	TMJD/	TMJD	TMJD	CCMC	CCMC	NA	NA	NA	m	NA	subs					nnnn	nnnn	תמיד	subs_adjv		5	11	0	0	0	0	nnnn	nnnn	last	J	1	0
 2084637	11Q5	Psalms	119	109	TWRH/	TWRTKH	TWR	CMC	CMCCCM	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	תורתכה	subs_adjv		5	11	1	0	0	1	nnn	nnn	single	W	1	0
 2084646	11Q5	Psalms	119	110	PQWDJM/	PQWDJKH	PQWD	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnnn	nnnnnnn	פקודיכה	subs_adjv		6	11	1	0	0	1	nnnn	nnnn	last	W	1	0
@@ -51936,6 +52002,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084665	11Q5	Psalms	119	112	<WLM/	<WLM	<WLM	CMCC	CMCC	NA	NA	sg	m	NA	subs				L	nnnn	nnnn	עולם	subs_adjv		8	11	0	1	0	0	nnnn	nnnn	first	W	1	0
 2084670	11Q5	Psalms	119	113	TWRH/	TWRTKH	TWR	CMC	CMCCCM	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	תורתכה	subs_adjv		9	11	1	0	0	1	nnn	nnn	single	W	1	0
 2084687	11Q5	Psalms	119	115	>LHJM/	>LWHJ	>LWH	CCMC	CCMCM	NA	NA	pl	m	NA	subs		J			nnnnn	nnnnn	אלוהי	subs_adjv		11	11	0	0	0	1	nnnn	nnnn	last	W	1	0
+2084691	11Q5	Psalms	119	116	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T		K	nnnnnn	nnnnnn	אמרתכה	subs_adjv		12	11	1	1	0	1	nnn	nnn	last		0	0
 2084705	11Q5	Psalms	119	117	XQ/	XWQJKH	XWQ	CMC	CMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnn	nnnnnn	חוקיכה	subs_adjv		13	11	1	0	0	1	nnn	nnn	single	W	1	0
 2084706	11Q5	Psalms	119	117	TMJD/	TMJD	TMJD	CCMC	CCMC	NA	NA	NA	m	NA	subs					nnnn	nnnn	תמיד	subs_adjv		13	11	0	0	0	0	nnnn	nnnn	last	J	1	0
 2084709	11Q5	Psalms	119	118	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		14	11	0	0	0	0	nnn	nnn	single	W	1	0
@@ -51948,6 +52015,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084740	11Q5	Psalms	119	128	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		1	12	0	0	0	0	nnn	nnn	single	W	1	0
 2084742	11Q5	Psalms	119	128	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		1	12	0	0	0	0	nnn	nnn	single	W	1	0
 2084743	11Q5	Psalms	119	128	>RX/	>WRX	>WRX	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אורח	subs_adjv		1	12	0	0	0	0	nnnn	nnnn	first	W	1	0
+2084783	11Q5	Psalms	119	133	>MRH/	>MRTKH	>MR	MCC	MCCCCC	NA	NA	sg	f	NA	subs	KH	T		L	nnnnnn	nnnnnn	אמרתכה	subs_adjv		6	12	1	1	0	1	nnn	nnn	last		0	0
 2084788	11Q5	Psalms	119	133	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		6	12	0	0	0	0	nnn	nnn	single	W	1	0
 2084793	11Q5	Psalms	119	134	<CQ/	<CQ	<CQ	CCC	CCC	NA	NA	sg	m	NA	subs				M	nnn	nnn	עשק	subs_adjv		7	12	0	1	0	0	nnn	nnn	first		0	0
 2084797	11Q5	Psalms	119	134	PQWDJM/	PQWDJKH	PQWD	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnnn	nnnnnnn	פקודיכה	subs_adjv		7	12	1	0	0	1	nnnn	nnnn	last	W	1	0
@@ -51958,6 +52026,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084829	11Q5	Psalms	119	138	>MWNH/	>MWNH	>MWN	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H		W	nnnnn	nnnnn	אמונה	subs_adjv		11	12	0	1	0	1	nnnn	nnnn	last	W	1	0
 2084830	11Q5	Psalms	119	138	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		11	12	0	0	1	0	nnnn	nnnn	first	W	1	0
 2084830	11Q5	Psalms	119	138	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		11	12	0	0	1	0	nnnn	nnnn	last		0	1
+2084840	11Q5	Psalms	119	140	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	אמרתכה	subs_adjv		13	12	1	0	0	1	nnn	nnn	last		0	0
 2084841	11Q5	Psalms	119	140	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		13	12	0	0	1	0	nnnn	nnnn	first	W	1	0
 2084841	11Q5	Psalms	119	140	M>D/	MW>DH	MW>D	CMCC	CMCCM	NA	NA	sg	m	NA	subs			H		nnnnn	nnnnn	מואדה	subs_adjv		13	12	0	0	1	0	nnnn	nnnn	last		0	1
 2084846	11Q5	Psalms	119	141	Y<JR/	Y<JR	Y<JR	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	צעיר	subs_adjv		14	12	0	0	0	0	nnnn	nnnn	last	J	1	0
@@ -51971,15 +52040,20 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084886	11Q5	Psalms	119	153	<NJ=/	<WNJJ	<WN	CMC	CMCCM	NA	NA	sg	m	NA	subs	J				nnnnn	nnnnn	עוניי	subs_adjv	J	4	13	1	0	0	0	nnn	nnn	single	W	1	0
 2084889	11Q5	Psalms	119	153	TWRH/	TWRTKH	TWR	CMC	CMCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	תורתכה	subs_adjv		4	13	1	0	0	1	nnn	nnn	single	W	1	0
 2084894	11Q5	Psalms	119	154	RJB/	RJBJ	RJB	CMC	CMCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	ריבי	subs_adjv		5	13	1	0	0	0	nnn	nnn	single	J	1	1
+2084898	11Q5	Psalms	119	154	>MRH/	>MRTKH	>MR	MCC	MCCCCC	NA	NA	sg	f	NA	subs	KH	T		L	nnnnnn	nnnnnn	אמרתכה	subs_adjv		5	13	1	1	0	1	nnn	nnn	last		0	0
 2084901	11Q5	Psalms	119	155	RXWQ/	RXWQ	RXWQ	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	רחוק	subs_adjv		6	13	0	0	0	0	nnnn	nnnn	last	W	1	0
 2084904	11Q5	Psalms	119	155	JCW<H/	JCW<H	JCW<	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H			nnnnn	nnnnn	ישועה	subs_adjv		6	13	0	0	0	1	nnnn	nnnn	last	W	1	0
 2084906	11Q5	Psalms	119	155	XQ/	XWQJKH	XWQ	CMC	CMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnn	nnnnnn	חוקיכה	subs_adjv		6	13	1	0	0	1	nnn	nnn	single	W	1	0
+2084931	11Q5	Psalms	119	158	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	אמרתכה	subs_adjv		9	13	1	0	0	1	nnn	nnn	last		0	0
 2084937	11Q5	Psalms	119	159	PQWDJM/	PQWDJKH	PQWD	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnnn	nnnnnnn	פקודיכה	subs_adjv		11	13	1	0	0	1	nnnn	nnnn	last	W	1	0
+2084941	11Q5	Psalms	119	159	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg		NA	subs	KH	T		K	nnnnnn	nnnnnn	אמרתכה	subs_adjv		11	13	1	1	0	1	nnn	nnn	last		0	0
 2084949	11Q5	Psalms	119	160	<WLM/	<WLM	<WLM	CMCC	CMCC	NA	NA	sg	m	NA	subs				WL	nnnn	nnnn	עולם	subs_adjv		12	13	0	1	0	0	nnnn	nnnn	first	W	1	0
 2084950	11Q5	Psalms	119	160	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		12	13	0	0	0	0	nnn	nnn	single	W	1	0
+2084966	11Q5	Psalms	119	162	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	אמרתכה	subs_adjv		14	13	1	0	0	1	nnn	nnn	last		0	0
 2084977	11Q5	Psalms	119	163	TWRH/	TWRTKH	TWR	CMC	CMCCCC	NA	NA	sg	f	NA	subs	KH	T		W	nnnnnn	nnnnnn	תורתכה	subs_adjv		15	13	1	1	0	1	nnn	nnn	single	W	1	0
 2084994	11Q5	Psalms	119	171	XQ/	XWQJKH	XWQ	CMC	CMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnn	nnnnnn	חוקיכה	subs_adjv		1	14	1	0	0	1	nnn	nnn	single	W	1	0
 2084997	11Q5	Psalms	119	172	LCWN/	LCWNJ	LCWN	CCMC	CCMCM	NA	NA	sg		NA	subs	J				nnnnn	nnnnn	לשוני	subs_adjv		2	14	1	0	0	0	nnnn	nnnn	last	W	1	0
+2084998	11Q5	Psalms	119	172	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	אמרתכה	subs_adjv		2	14	1	0	0	1	nnn	nnn	last		0	0
 2085000	11Q5	Psalms	119	172	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		2	14	0	0	0	0	nnn	nnn	single	W	1	0
 2085009	11Q5	Psalms	119	173	PQWDJM/	PQWDJKH	PQWD	CCMC	CCMCMCM	NA	NA	pl	m	NA	subs	KH	J			nnnnnnn	nnnnnnn	פקודיכה	subs_adjv		3	14	1	0	0	1	nnnn	nnnn	last	W	1	0
 2085014	11Q5	Psalms	119	174	JCW<H/	JCW<TKH	JCW<	MCMC	MCMCCCC	NA	NA	sg	f	NA	subs	KH	T		L	nnnnnnn	nnnnnnn	ישועתכה	subs_adjv		4	14	1	1	0	1	nnnn	nnnn	last	W	1	0
@@ -52114,6 +52188,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2086024	11Q5	Psalms	138	1	>LHJM/	>LWHJM	>LWH	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM			nnnnnn	nnnnnn	אלוהים	subs_adjv		2	21	0	0	0	1	nnnn	nnnn	last	W	1	0
 2086030	11Q5	Psalms	138	2	QDC/	QWDCKH	QWDC	CMCC	CMCCCM	NA	NA	sg	m	NA	subs	KH				nnnnnn	nnnnnn	קודשכה	subs_adjv		3	21	1	0	0	0	nnnn	nnnn	first	W	1	0
 2086043	11Q5	Psalms	138	2	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		4	21	0	0	0	0	nnn	nnn	single	W	1	0
+2086045	11Q5	Psalms	138	2	>MRH/	>MRTKH	>MR	CCC	CCCCCC	NA	NA	sg	f	NA	subs	KH	T			nnnnnn	nnnnnn	אמרתכה	subs_adjv		4	21	1	0	0	1	nnn	nnn	last		0	0
 2086055	11Q5	Psalms	138	3	<Z/	<Z	<Z	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	עז	subs_adjv		5	21	0	0	0	0	nn	nn	single		0	0
 2086059	11Q5	Psalms	138	4	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		5	21	0	0	0	0	nnn	nnn	single	W	1	0
 2086073	11Q5	Psalms	138	5	GDWL/	GDWL	GDWL	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	גדול	subs_adjv		6	21	0	0	0	0	nnnn	nnnn	last	W	1	0
@@ -52850,6 +52925,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2100719	5/6hev1b	Psalms	11	2	JCR/	JCRJ	JCR	CCC	CCCM	NA	NA	pl	m	NA	adjv		J		L	nnnn	nnnn	ישרי	subs_adjv		20	f1iii+2	0	1	0	1	nnn	nnn	last		0	1
 2100726	5/6hev1b	Psalms	11	3	YDJQ/	YDJQ	YDJQ	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	צדיק	subs_adjv		21	f1iii+2	0	0	0	0	nnnn	nnnn	last	J	1	0
 2100733	5/6hev1b	Psalms	11	4	QDC/	QDCW	QDC	CCC	CCCM	NA	NA	sg	m	NA	subs	W				nnnn	nnnn	קדשו	subs_adjv		21	f1iii+2	1	0	0	0	nnn	nnn	first		0	1
+2100773	5/6hev1b	Psalms	12	7	>MRH/	>MRWT	>MR	CCC	CCCMC	NA	NA	pl	f	NA	subs		WT			nnnrr	nnnnn	אמרות	subs_adjv		6	f1iv+3	0	0	0	1	nnn	nnn	last		0	0
 2100882	5/6hev1b	Psalms	15	1	>HL/	>HLK	>HL	CCC	CCCC	NA	NA	sg	m	NA	subs	K			B	nnnn	nnnn	אהלך	subs_adjv		1	f4	1	1	0	0	nnn	nnn	first		0	0
 2100890	5/6hev1b	Psalms	15	2	TMJM/	TMJM	TMJM	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	תמים	subs_adjv		2	f4	0	0	0	0	nnnn	nnnn	last	J	1	0
 2100960	5/6hev1b	Psalms	18	6	MWQC/	MWQCJ	MWQC	CMCC	CMCCM	NA	NA	pl	m	NA	subs		J			nnnnn	nnnnn	מוקשי	subs_adjv		20	f5	0	0	0	1	nnnn	nnnn	first	W	1	0
@@ -52861,6 +52937,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2101182	5/6hev1b	Psalms	18	29	XCK/	XCKJ	XCK	CCC	CCCM	NA	NA	sg	m	NA	subs	J				nnnn	nnnn	חשכי	subs_adjv		15	f6_7	1	0	0	0	nnn	nnn	first		0	0
 2101190	5/6hev1b	Psalms	18	30	>LHJM/	>LHJ	>LH	MCC	MCCC	NA	NA	pl	m	NA	subs		J		WB	nnnn	nnnn	אלהי	subs_adjv		16	f6_7	0	1	0	1	nnn	nnn	last		0	0
 2101196	5/6hev1b	Psalms	18	31	TMJM/	TMJM	TMJM	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	תמים	subs_adjv		16	f6_7	0	0	0	0	nnnn	nnnn	last	J	1	0
+2101198	5/6hev1b	Psalms	18	31	>MRH/	>MRT	>MR	CCC	CCCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	אמרת	subs_adjv		17	f6_7	0	0	0	1	nnn	nnn	last		0	0
 2101204	5/6hev1b	Psalms	18	31	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				L	nn	nn	כל	subs_adjv		17	f6_7	0	1	0	0	nn	nn	single		0	0
 2101211	5/6hev1b	Psalms	18	32	>LWH/	>LWH	>LWH	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אלוה	subs_adjv		18	f6_7	0	0	0	0	nnnn	nnnn	last	W	1	0
 2101217	5/6hev1b	Psalms	18	32	YWR/	YWR	YWR	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	צור	subs_adjv		18	f6_7	0	0	0	0	nnn	nnn	single	W	1	0

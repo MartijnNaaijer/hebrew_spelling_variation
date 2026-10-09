@@ -35,7 +35,7 @@ def load_corpora():
     from tf.app import use
 
     dss = use('etcbc/dss:clone', checkout='clone', version=dss_version, provenanceSpec=dict(moduleSpecs=[]))
-    sp = use('dt-ucph/sp:clone', checkout='clone', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
+    sp = use('dt-ucph/sp', version=sp_version, provenanceSpec=dict(moduleSpecs=[]))
     mt = use('etcbc/bhsa', version=bhsa_version)
     mt.load(['g_prs', 'g_nme', 'g_pfm', 'g_vbs', 'g_vbe'])
     return Corpora(mt=_api(mt), dss=_api(dss), sp=_api(sp))

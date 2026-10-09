@@ -5409,7 +5409,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 612683	SP	Deuteronomy	21	20	MRH[	MWRH	MWRH	CMCC	CMCC		ptca	sg	unknown	unknown	verb				W	nnnn	nnnn	מורה	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 612685	SP	Deuteronomy	21	20	CM<[	CM<	CM<	CCC	CCC		ptca	sg	m	unknown	verb					nnn	nnn	שמע	ptc_qal		-	-	0	0	0	0	nnn	nnn	first		0
 612688	SP	Deuteronomy	21	20	ZLL[	ZWLL	ZWLL	CMCC	CMCC		ptca	sg	m	unknown	verb					nnnn	nnnn	זולל	ptc_qal		-	-	0	0	0	0	nnnn	nnnn	first	W	1
-612690	SP	Deuteronomy	21	20	SBH[	SWBH	SWBH	CMCC	CMCC		ptca	sg	unknown	unknown	verb				W	nnnn	nnnn	סובה	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	first	W	1
+612690	SP	Deuteronomy	21	20	SB>[	SWBH	SWBH	CMCC	CMCC		ptca	sg	m	unknown	verb				W	nnnn	nnnn	סובה	ptc_qal		-	-	0	1	0	0	nnnn	nnnn	first	W	1
 612752	SP	Deuteronomy	21	23	NTN[	NTN	NTN	CCC	CCC		ptca	sg	m	unknown	verb					nnn	nnn	נתן	ptc_qal		-	-	0	0	0	0	nnn	nnn	first		0
 612838	SP	Deuteronomy	22	4	NPL[	NPLJM	NPL	CCC	CCCMC		ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נפלים	ptc_qal		-	-	0	0	0	1	nnn	nnn	first		0
 612864	SP	Deuteronomy	22	5	<FH[	<FH	<FH	CCC	CCC		ptca	sg	m	unknown	verb					nnn	nnn	עשה	ptc_qal		-	-	0	0	0	0	nnn	nnn	first		0

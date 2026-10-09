@@ -154,6 +154,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 418404	SP	Genesis	25	27	JCB[	JCB	JCB				ptca	sg	m	unknown	verb					nnn	nnn	ישב
 418417	SP	Genesis	25	28	>HB[	>HBT	>HB				ptca	sg	f	unknown	verb		T			nnnn	nnnn	אהבת
 418469	SP	Genesis	25	32	HLK[	HLK	HLK				ptca	sg	unknown	unknown	verb					nnn	nnn	הלך
+418502	SP	Genesis	25	34	FJM[	FJM	FJM				ptcp	sg	m	unknown	verb					nnn	nnn	שים
 418684	SP	Genesis	26	8	YXQ[	MYXQ	YXQ				ptca	sg	m	unknown	verb					nnnn	nnnn	מצחק
 418741	SP	Genesis	26	11	NG<[	NG<	NG<				ptca	sg	m	unknown	verb				H	nnn	nnn	נגע
 418883	SP	Genesis	26	20	R<H[	R<J	R<				ptca	pl	m	unknown	verb		J			nnn	nnn	רעי
@@ -504,12 +505,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 443237	SP	Exodus	14	30	MWT[	MT	MT				ptca	sg	m	unknown	verb					nn	nn	מת
 443291	SP	Exodus	15	1	G>H[	G>H	G>H				ptca	sg	unknown	unknown	verb					nnn	nnn	גאה
 443294	SP	Exodus	15	1	RKB[	RKBW	RKB				ptca	sg	m	unknown	verb	W			W	nnnn	nnnn	רכבו
-443343	SP	Exodus	15	6	D>R[	ND>RJ	D>R				ptca	sg	unknown	unknown	verb					nnnnn	nnnnn	נדארי
+443343	SP	Exodus	15	6	>DR[	ND>RJ	D>R				ptca	sg	m	unknown	verb					nnnnn	nnnnn	נדארי
 443349	SP	Exodus	15	6	>JB[	>WJB	>WJB				ptca	sg	m	unknown	verb					nnnn	nnnn	אויב
 443355	SP	Exodus	15	7	QWM[	QMJK	QM				ptca	pl	m	unknown	verb	K	J			nnnn	nnnn	קמיך
 443370	SP	Exodus	15	8	NZL[	NZLJM	NZL				ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נזלים
 443377	SP	Exodus	15	9	>JB[	>WJB	>WJB				ptca	sg	m	unknown	verb					nnnn	nnnn	אויב
-443406	SP	Exodus	15	11	D>R[	ND>RJ	D>R				ptca	sg	unknown	unknown	verb					nnnnn	nnnnn	נדארי
+443406	SP	Exodus	15	11	>DR[	ND>RJ	D>R				ptca	sg	m	unknown	verb					nnnnn	nnnnn	נדארי
 443409	SP	Exodus	15	11	JR>[	NWR>	WR>				ptca	sg	m	unknown	verb					nnnn	nnnn	נורא
 443411	SP	Exodus	15	11	<FH[	<FH	<FH				ptca	sg	m	unknown	verb					nnn	nnn	עשה
 443436	SP	Exodus	15	14	JCB[	JCBJ	JCB				ptca	pl	m	unknown	verb		J			nnnn	nnnn	ישבי
@@ -1173,7 +1174,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 483818	SP	Numbers	11	15	<FH[	<FH	<FH				ptca	sg	m	unknown	verb					nnn	nnn	עשה
 483854	SP	Numbers	11	16	CVR[	CWVRJW	CWVR				ptca	pl	m	unknown	verb	W	J		W	nnnnnn	nnnnnn	שוטריו
 484120	SP	Numbers	11	26	KTB[	KTWBJM	KTWB				ptcp	pl	m	unknown	verb		JM		B	nnnnnn	nnnnnn	כתובים
-484143	SP	Numbers	11	27	N>B[	MTN>BJM	N>B				ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn	מתנאבים
+484143	SP	Numbers	11	27	NB>[	MTN>BJM	N>B				ptca	pl	m	unknown	verb		JM			nnnnnnn	nnnnnnn	מתנאבים
 484151	SP	Numbers	11	28	CRT[	MCRT	CRT				ptca	sg	m	unknown	verb					nnnn	nnnn	משרת
 484165	SP	Numbers	11	29	QN>[	MQN>	QN>				ptca	sg	m	unknown	verb				H	nnnn	nnnn	מקנא
 484252	SP	Numbers	11	32	M<V[	MM<JV	M<JV				ptca	sg	m	unknown	verb				H	nnnnn	nnnnn	ממעיט
@@ -1267,6 +1268,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 489881	SP	Numbers	20	13	<BR[	<BRJM	<BR				ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	עברים
 489888	SP	Numbers	20	13	JCB[	JCBJM	JCB				ptca	pl	m	unknown	verb		JM		H	nnnnn	nnnnn	ישבים
 490251	SP	Numbers	21	1	JCB[	JCB	JCB				ptca	sg	m	unknown	verb					nnn	nnn	ישב
+490375	SP	Numbers	21	6	FRP[	FRWPJM	FRWP				ptcp	pl	m	unknown	verb		JM		H	nnnnnn	nnnnnn	שרופים
+490425	SP	Numbers	21	8	FRP[	FRWP	FRWP				ptcp	sg	m	unknown	verb					nnnn	nnnn	שרוף
 490538	SP	Numbers	21	12	<BR[	<BR	<BR				ptca	sg	unknown	unknown	verb					nnn	nnn	עבר
 490587	SP	Numbers	21	13	JY>[	JWY>	JWY>				ptca	sg	unknown	unknown	verb				H	nnnn	nnnn	יוצא
 490672	SP	Numbers	21	18	XQQ[	MXQQ	XQQ				ptca	sg	m	unknown	verb				B	nnnn	nnnn	מחקק
@@ -1544,6 +1547,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 505710	SP	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>				ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn	מוציאך
 505718	SP	Deuteronomy	8	15	HLK[	MWLJKK	WLJK				ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn	מוליכך
 505725	SP	Deuteronomy	8	15	JR>[	NWR>	WR>				ptca	sg	m	unknown	verb				WH	nnnn	nnnn	נורא
+505727	SP	Deuteronomy	8	15	FRP[	FRWP	FRWP				ptcp	sg	m	unknown	verb					nnnn	nnnn	שרוף
 505735	SP	Deuteronomy	8	15	JY>[	MWY>	WY>				ptca	sg	m	unknown	verb				H	nnnn	nnnn	מוצא
 505743	SP	Deuteronomy	8	16	>KL[	M>KJLK	>KJL				ptca	sg	m	unknown	verb	K			H	nnnnnn	nnnnnn	מאכילך
 505783	SP	Deuteronomy	8	18	NTN[	NTN	NTN				ptca	sg	m	unknown	verb				H	nnn	nnn	נתן
@@ -1703,7 +1707,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 512683	SP	Deuteronomy	21	20	MRH[	MWRH	MWRH				ptca	sg	unknown	unknown	verb				W	nnnn	nnnn	מורה
 512685	SP	Deuteronomy	21	20	CM<[	CM<	CM<				ptca	sg	m	unknown	verb					nnn	nnn	שמע
 512688	SP	Deuteronomy	21	20	ZLL[	ZWLL	ZWLL				ptca	sg	m	unknown	verb					nnnn	nnnn	זולל
-512690	SP	Deuteronomy	21	20	SBH[	SWBH	SWBH				ptca	sg	unknown	unknown	verb				W	nnnn	nnnn	סובה
+512690	SP	Deuteronomy	21	20	SB>[	SWBH	SWBH				ptca	sg	m	unknown	verb				W	nnnn	nnnn	סובה
 512743	SP	Deuteronomy	21	23	TLH[	TL>WJ	TL>WJ				ptcp	sg	m	unknown	verb					nnnnn	nnnnn	תלאוי
 512752	SP	Deuteronomy	21	23	NTN[	NTN	NTN				ptca	sg	m	unknown	verb					nnn	nnn	נתן
 512767	SP	Deuteronomy	22	1	NDX[	NDXJM	DX				ptca	pl	m	unknown	verb		JM			nnnnn	nnnnn	נדחים
