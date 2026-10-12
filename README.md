@@ -120,3 +120,8 @@ To compare with another folder than `data`, give it as second argument, e.g.
 `python compare_datasets.py regression_output regression_baseline`. The script lists, per dataset, the rows that were removed or added. You can also run the tests on the new output:
 
     SPELLING_DATA_DIR=preprocess_data/regression_output pytest tests
+
+## License
+© Martijn Naaijer. The data and code in this repository are licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
+(CC BY-NC 4.0); see `LICENSE`.
