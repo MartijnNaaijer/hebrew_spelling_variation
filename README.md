@@ -1,4 +1,8 @@
+<img src="images/caccht-logo.png" alt="CACCHT logo" height="200">
+
 # Hebrew Spelling Data
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23317579.svg)](https://doi.org/10.5281/zenodo.23317579)
 
 Data and analysis of spelling variation in MT, biblical DSS and SP.
 
