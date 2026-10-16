@@ -110,11 +110,26 @@ def test_lexemes_end_with_slash(input_df):
     assert {lex[-1] for lex in input_df.lex} == {'/'}
 
 
+PARTICIPLE_DATASETS = {'ptca_qal.csv', 'ptcp_qal.csv'}
+
+
 def test_all_datasets_have_same_columns(input_df_list):
-    """The column order may differ. Only the nouns and adjectives have the column neigh_vowel_letter."""
+    """The column order may differ. Only the nouns and adjectives have the column neigh_vowel_letter, only the
+    participles the column nme_type."""
     nouns_columns = set(input_df_list[0].columns)
     assert 'neigh_vowel_letter' in nouns_columns
-    assert all(set(df.columns) == nouns_columns - {'neigh_vowel_letter'} for df in input_df_list[1:])
+    verb_columns = nouns_columns - {'neigh_vowel_letter'}
+    for file_name, df in zip(ALL_DATASETS[1:], input_df_list[1:]):
+        extra = {'nme_type'} if file_name in PARTICIPLE_DATASETS else set()
+        assert set(df.columns) == verb_columns | extra, file_name
+
+
+def test_nme_type_of_participles(input_df_list):
+    """nme_type has the four values, and every plural has a plural type."""
+    for file_name, df in zip(ALL_DATASETS, input_df_list):
+        if file_name in PARTICIPLE_DATASETS:
+            assert set(df.nme_type) <= {'none', 'fem_sg', 'masc_pl', 'fem_pl'}, file_name
+            assert set(df.nme_type[df.nu == 'pl']) <= {'masc_pl', 'fem_pl'}, file_name
 
 
 def test_scrolls_col_mt_great_scroll_and_others_should_be_there(input_df_list):

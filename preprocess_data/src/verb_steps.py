@@ -77,6 +77,64 @@ def correct_active_participles(data):
     return data[data.pattern.str.count('C') > 1]  # We keep cases like PNH[
 
 
+def move_construct_yod_of_dss_participles(data):
+    """In the DSS the yod of the plural construct (e.g. JWCBJ, 1QIsaa Isa 9:8) is not parsed as nme, and
+    split_off_other_vowel_endings moves it to other_vowel_ending. For DSS plurals without nme, a final yod in
+    other_vowel_ending is moved to nme, as in the MT."""
+    data = data.copy()
+    is_dss = ~data.scroll.isin(['MT', 'SP'])
+    nme = data.nme.fillna('').astype(str)
+    ending = data.other_vowel_ending.fillna('').astype(str)
+    is_construct = is_dss & (data.nu == 'pl') & (nme == '') & ending.str.endswith('J') & (data.lex.str[2] != 'J')
+    data['nme'] = np.where(is_construct, 'J', nme)
+    data['other_vowel_ending'] = np.where(is_construct, ending.str[:-1], ending)
+    return data
+
+
+def remove_root_letter_endings_of_active_participles(data):
+    """A feminine singular whose 'ending' is only the last root letter has no ending: nothing is added to the
+    masculine form, only the vowel differs (author's decision, 2026-10-16). Examples: III-he R<H (MT nme H, as the
+    masculine R<H) and III-aleph JY> in Qoh 10:5 (BHSA nme H, g_nme /@>; as the masculine JY>). Gender and number
+    are kept. The H goes to other_vowel_ending as in the masculine; the aleph back to the stem, as a consonant."""
+    data = data.copy()
+    nme = data.nme.fillna('').astype(str)
+    last_radical = data.lex.str[2]
+    is_root_letter = (data.gn == 'f') & (data.nu == 'sg') & (data.prs.fillna('') == '') & \
+                     nme.isin(['H', '>']) & (nme == last_radical)
+    is_he = is_root_letter & (nme == 'H')
+    is_aleph = is_root_letter & (nme == '>')
+    data['other_vowel_ending'] = np.where(is_he, 'H' + data.other_vowel_ending.fillna('').astype(str),
+                                          data.other_vowel_ending)
+    data['stem'] = np.where(is_aleph, data.stem + '>', data.stem)
+    data['pattern'] = np.where(is_aleph, data.pattern + 'C', data.pattern)
+    for column in ['rec_signs', 'cor_signs']:
+        data[f'{column}_stem'] = [signs[:len(stem)] if aleph else signs_stem for signs, signs_stem, stem, aleph
+                                  in zip(data[column], data[f'{column}_stem'], data.stem, is_aleph)]
+    data['nme'] = np.where(is_root_letter, '', nme)
+    data['has_nme'] = np.where(is_root_letter, 0, data.has_nme)
+    return data
+
+
+def add_nme_type(data):
+    """Adds the column nme_type, the grammatical nominal ending of a participle: none, fem_sg, masc_pl or fem_pl.
+    The column nme is the ending as written, so it cannot tell a feminine plural without waw (MT nme T, BHSA WT)
+    from a feminine singular. Plurals are typed by gender; a plural without gender by its nme. A feminine singular
+    without written ending (see remove_root_letter_endings_of_active_participles) has nme_type none."""
+    nme = data.nme.fillna('').astype(str)
+    is_fem_plural_nme = nme.str.contains('WT') | nme.str.startswith('T')
+    is_pl = data.nu == 'pl'
+    data = data.copy()
+    data['nme_type'] = np.select(
+        [is_pl & (data.gn == 'f'),
+         is_pl & (data.gn == 'm'),
+         is_pl & is_fem_plural_nme,
+         is_pl,
+         (data.nu == 'sg') & (data.gn == 'f') & (nme != '')],
+        ['fem_pl', 'masc_pl', 'fem_pl', 'masc_pl', 'fem_sg'],
+        default='none')
+    return data
+
+
 def move_nme_t_of_passive_participles(data):
     has_nme_t = (data.stem.str[-1] == 'T') & (data.lex.str.strip('[').str.strip('=').str[-1] != 'T')
     data = _move_final_letters_to_nme(data, has_nme_t, 1)

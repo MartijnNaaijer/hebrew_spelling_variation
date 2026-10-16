@@ -9,7 +9,8 @@ from selection import feature_mask
 from steps import get_vowel_indices_first_and_last_syllables, get_syllable_pattern, add_syllable_rows, \
     remove_reconstructed_syllables, split_off_other_vowel_endings, remove_final_yod, add_neighboring_vowel_letter, \
     remove_syllables_without_variation, add_matres_patterns
-from verb_steps import make_ptc_patterns, correct_infc_lamed_he
+from verb_steps import make_ptc_patterns, correct_infc_lamed_he, move_construct_yod_of_dss_participles, \
+    remove_root_letter_endings_of_active_participles, add_nme_type
 from words import parse_nme_dss, to_hebrew, get_prs, DSSWordProcessor
 
 
@@ -191,3 +192,38 @@ def test_correct_infc_lamed_he():
     result = correct_infc_lamed_he(data)
     assert list(result.stem) == ['BN', 'BN']
     assert list(result.nme) == ['WT', 'T']
+
+
+def test_move_construct_yod_of_dss_participles():
+    data = pd.DataFrame({'scroll': ['1Qisaa', '1Qisaa', 'MT', '1Q8'],
+                         'lex': ['JCB[', 'PDH[', 'JCB[', 'BKH['],
+                         'nu': ['pl', 'pl', 'pl', 'sg'],
+                         'nme': ['', '', '', ''],
+                         'other_vowel_ending': ['J', 'WJJ', 'J', 'J']})
+    result = move_construct_yod_of_dss_participles(data)
+    assert list(result.nme) == ['J', 'J', '', '']
+    assert list(result.other_vowel_ending) == ['', 'WJ', 'J', 'J']
+
+
+def test_remove_root_letter_endings_of_active_participles():
+    # III-he fem. sg. (as the masculine R<H), Qoh 10:5 JY> (as the masculine JY>), and a real ending (JWLDH)
+    data = pd.DataFrame({'lex': ['R<H[', 'JY>[', 'JLD['], 'gn': ['f', 'f', 'f'], 'nu': ['sg', 'sg', 'sg'],
+                         'prs': ['', '', ''], 'nme': ['H', '>', 'H'], 'has_nme': [1, 1, 1],
+                         'stem': ['R<', 'JY', 'JWLD'], 'pattern': ['CC', 'CC', 'CMCC'],
+                         'other_vowel_ending': ['', '', ''],
+                         'rec_signs': ['nnn', 'nnn', 'nnnnn'], 'cor_signs': ['nnn', 'nnn', 'nnnnn'],
+                         'rec_signs_stem': ['nn', 'nn', 'nnnn'], 'cor_signs_stem': ['nn', 'nn', 'nnnn']})
+    result = remove_root_letter_endings_of_active_participles(data)
+    assert list(result.nme) == ['', '', 'H']
+    assert list(result.has_nme) == [0, 0, 1]
+    assert list(result.stem) == ['R<', 'JY>', 'JWLD']
+    assert list(result.pattern) == ['CC', 'CCC', 'CMCC']
+    assert list(result.other_vowel_ending) == ['H', '', '']
+    assert list(result.rec_signs_stem) == ['nn', 'nnn', 'nnnn']
+
+
+def test_add_nme_type():
+    data = pd.DataFrame({'nu': ['pl', 'pl', 'pl', 'pl', 'sg', 'sg', 'sg'],
+                         'gn': ['f', 'm', None, None, 'f', 'f', 'm'],
+                         'nme': ['T', 'JM', 'WT', 'J', 'T', '', '']})
+    assert list(add_nme_type(data).nme_type) == ['fem_pl', 'masc_pl', 'fem_pl', 'masc_pl', 'fem_sg', 'none', 'none']

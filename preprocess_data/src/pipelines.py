@@ -100,17 +100,21 @@ def participles_qal(tables):
         strip_feminine_t,
         split_off_other_vowel_endings,
         remove_final_yod,
+        vs.move_construct_yod_of_dss_participles,
         add_help_columns,
         add_rec_cor_stem_columns,
     ])
     # TODO: patterns "CCMC" are strange, "CMCC" is expected.
     ptca = run_steps(data[data.vt == 'ptca'], [
         vs.correct_active_participles,
+        vs.remove_root_letter_endings_of_active_participles,
+        vs.add_nme_type,
         vs.add_vowel_letter_active_participles,
         remove_invalid_data,
     ])
     ptcp = run_steps(data[data.vt == 'ptcp'], [
         vs.move_nme_t_of_passive_participles,
+        vs.add_nme_type,
         vs.add_vowel_letter_passive_participles,
         remove_invalid_data,
     ])
