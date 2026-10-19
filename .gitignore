@@ -136,3 +136,6 @@ dmypy.json
 # Output of regression runs of the preprocessing pipeline
 preprocess_data/regression_output/
 preprocess_data/regression_baseline/
+
+# Output of check_lexemes.py
+preprocess_data/lexeme_check_output/

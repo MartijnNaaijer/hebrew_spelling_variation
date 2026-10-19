@@ -144,6 +144,17 @@ To compare with another folder than `data`, give it as second argument, e.g.
 
     SPELLING_DATA_DIR=preprocess_data/regression_output pytest tests
 
+### Checking the lexemes of the DSS and SP against the BHSA
+`check_lexemes.py` aligns every verse of the DSS scrolls and the SP with the MT letter by letter, pairs each word with
+its MT parallel, and compares the lexemes of words with the same text (sin and shin not distinguished). It lists the
+DSS and SP words in the datasets with another lexeme than their MT parallel, and the MT words in the datasets of
+which a parallel with another lexeme is not in the dataset:
+
+    cd preprocess_data
+    python check_lexemes.py                                  # or: --data regression_output
+
+The results are written to `preprocess_data/lexeme_check_output`.
+
 ## License
 © Martijn Naaijer. The data and code in this repository are licensed under the
 [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)

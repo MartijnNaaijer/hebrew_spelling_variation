@@ -12,6 +12,7 @@ from steps import get_vowel_indices_first_and_last_syllables, get_syllable_patte
 from verb_steps import make_ptc_patterns, correct_infc_lamed_he, move_construct_yod_of_dss_participles, \
     remove_root_letter_endings_of_active_participles, add_nme_type
 from words import parse_nme_dss, to_hebrew, get_prs, DSSWordProcessor
+from parallels import lcs_alignment, match_words, compare_lexemes
 
 
 # words.py
@@ -227,3 +228,32 @@ def test_add_nme_type():
                          'gn': ['f', 'm', None, None, 'f', 'f', 'm'],
                          'nme': ['T', 'JM', 'WT', 'J', 'T', '', '']})
     assert list(add_nme_type(data).nme_type) == ['fem_pl', 'masc_pl', 'fem_pl', 'masc_pl', 'fem_sg', 'none', 'none']
+
+
+# parallels.py
+
+def test_lcs_alignment():
+    pairs = lcs_alignment('ABCBDAB', 'BDCABA')
+    assert len(pairs) == 4
+    assert all('ABCBDAB'[i] == 'BDCABA'[j] for i, j in pairs)
+    assert lcs_alignment('', 'ABC') == []
+
+
+def test_match_words_pairs_words_with_most_aligned_letters():
+    # 1QIsaa Isa 9:8 JWCBJ against MT JCBJ; sin and shin are both '#'
+    dss = [(1, 'W', False), (2, 'JWCBJ', True), (3, 'H', False), (4, '>RY', True), (5, '#M', True)]
+    mt = [(10, 'W', False), (11, 'JCBJ', True), (12, 'H', False), (13, '>RY', True), (14, 'FM', True)]
+    assert match_words(dss, mt) == {1: (10, 1), 2: (11, 4), 3: (12, 1), 4: (13, 3), 5: (14, 2)}
+
+
+@pytest.mark.parametrize('lex, g_cons, mt_lex, mt_g_cons, expected', [
+    ('DBR/', 'DBR', 'DBR/', 'DBR', 'match'),
+    ('XLM[', 'TXLJMNJ', 'XLM=[', 'TXLJMNJ', 'homograph_marker'),
+    ('KHN/', 'KHN', 'KHN[', 'KHN', 'pos_marker'),
+    ('JNQ[', 'MJNQT', 'MJNQT/', 'MJNQT', 'different_lexeme'),
+    ('XRC/', 'XRC', 'XRF/', 'XRF', 'different_lexeme'),     # sin and shin are not distinguished
+    ('RKB[', 'RWKB', 'RKB/', 'RKB', 'different_text'),
+    ('', 'KHN', 'KHN/', 'KHN', 'no_lexeme'),
+])
+def test_compare_lexemes(lex, g_cons, mt_lex, mt_g_cons, expected):
+    assert compare_lexemes(lex, g_cons, mt_lex, mt_g_cons) == expected
