@@ -9,8 +9,11 @@ from selection import feature_mask
 from steps import get_vowel_indices_first_and_last_syllables, get_syllable_pattern, add_syllable_rows, \
     remove_reconstructed_syllables, split_off_other_vowel_endings, remove_final_yod, add_neighboring_vowel_letter, \
     remove_syllables_without_variation, add_matres_patterns
-from verb_steps import make_ptc_patterns, correct_infc_lamed_he
+from verb_steps import make_ptc_patterns, correct_infc_lamed_he, move_construct_yod_of_dss_participles, \
+    remove_root_letter_endings_of_active_participles, add_nme_type
 from words import parse_nme_dss, to_hebrew, get_prs, DSSWordProcessor
+from parallels import lcs_alignment, match_words, compare_lexemes
+from special_data import dss_feature
 
 
 # words.py
@@ -191,3 +194,88 @@ def test_correct_infc_lamed_he():
     result = correct_infc_lamed_he(data)
     assert list(result.stem) == ['BN', 'BN']
     assert list(result.nme) == ['WT', 'T']
+
+
+def test_move_construct_yod_of_dss_participles():
+    data = pd.DataFrame({'scroll': ['1Qisaa', '1Qisaa', 'MT', '1Q8'],
+                         'lex': ['JCB[', 'PDH[', 'JCB[', 'BKH['],
+                         'nu': ['pl', 'pl', 'pl', 'sg'],
+                         'nme': ['', '', '', ''],
+                         'other_vowel_ending': ['J', 'WJJ', 'J', 'J']})
+    result = move_construct_yod_of_dss_participles(data)
+    assert list(result.nme) == ['J', 'J', '', '']
+    assert list(result.other_vowel_ending) == ['', 'WJ', 'J', 'J']
+
+
+def test_remove_root_letter_endings_of_active_participles():
+    # III-he fem. sg. (as the masculine R<H), Qoh 10:5 JY> (as the masculine JY>), and a real ending (JWLDH)
+    data = pd.DataFrame({'lex': ['R<H[', 'JY>[', 'JLD['], 'gn': ['f', 'f', 'f'], 'nu': ['sg', 'sg', 'sg'],
+                         'prs': ['', '', ''], 'nme': ['H', '>', 'H'], 'has_nme': [1, 1, 1],
+                         'stem': ['R<', 'JY', 'JWLD'], 'pattern': ['CC', 'CC', 'CMCC'],
+                         'other_vowel_ending': ['', '', ''],
+                         'rec_signs': ['nnn', 'nnn', 'nnnnn'], 'cor_signs': ['nnn', 'nnn', 'nnnnn'],
+                         'rec_signs_stem': ['nn', 'nn', 'nnnn'], 'cor_signs_stem': ['nn', 'nn', 'nnnn']})
+    result = remove_root_letter_endings_of_active_participles(data)
+    assert list(result.nme) == ['', '', 'H']
+    assert list(result.has_nme) == [0, 0, 1]
+    assert list(result.stem) == ['R<', 'JY>', 'JWLD']
+    assert list(result.pattern) == ['CC', 'CCC', 'CMCC']
+    assert list(result.other_vowel_ending) == ['H', '', '']
+    assert list(result.rec_signs_stem) == ['nn', 'nnn', 'nnnn']
+
+
+def test_add_nme_type():
+    data = pd.DataFrame({'nu': ['pl', 'pl', 'pl', 'pl', 'sg', 'sg', 'sg'],
+                         'gn': ['f', 'm', None, None, 'f', 'f', 'm'],
+                         'nme': ['T', 'JM', 'WT', 'J', 'T', '', '']})
+    assert list(add_nme_type(data).nme_type) == ['fem_pl', 'masc_pl', 'fem_pl', 'masc_pl', 'fem_sg', 'none', 'none']
+
+
+# parallels.py
+
+def test_lcs_alignment():
+    pairs = lcs_alignment('ABCBDAB', 'BDCABA')
+    assert len(pairs) == 4
+    assert all('ABCBDAB'[i] == 'BDCABA'[j] for i, j in pairs)
+    assert lcs_alignment('', 'ABC') == []
+
+
+def test_match_words_pairs_words_with_most_aligned_letters():
+    # 1QIsaa Isa 9:8 JWCBJ against MT JCBJ; sin and shin are both '#'
+    dss = [(1, 'W', False), (2, 'JWCBJ', True), (3, 'H', False), (4, '>RY', True), (5, '#M', True)]
+    mt = [(10, 'W', False), (11, 'JCBJ', True), (12, 'H', False), (13, '>RY', True), (14, 'FM', True)]
+    assert match_words(dss, mt) == {1: (10, 1), 2: (11, 4), 3: (12, 1), 4: (13, 3), 5: (14, 2)}
+
+
+@pytest.mark.parametrize('lex, g_cons, mt_lex, mt_g_cons, expected', [
+    ('DBR/', 'DBR', 'DBR/', 'DBR', 'match'),
+    ('XLM[', 'TXLJMNJ', 'XLM=[', 'TXLJMNJ', 'homograph_marker'),
+    ('KHN/', 'KHN', 'KHN[', 'KHN', 'pos_marker'),
+    ('JNQ[', 'MJNQT', 'MJNQT/', 'MJNQT', 'different_lexeme'),
+    ('XRC/', 'XRC', 'XRF/', 'XRF', 'different_lexeme'),     # sin and shin are not distinguished
+    ('RKB[', 'RWKB', 'RKB/', 'RKB', 'different_text'),
+    ('', 'KHN', 'KHN/', 'KHN', 'no_lexeme'),
+])
+def test_compare_lexemes(lex, g_cons, mt_lex, mt_g_cons, expected):
+    assert compare_lexemes(lex, g_cons, mt_lex, mt_g_cons) == expected
+
+
+# special_data.py
+
+def test_dss_feature_applies_corrections():
+    class Feature:
+        def __init__(self, values):
+            self.values = values
+
+        def v(self, node):
+            return self.values.get(node)
+
+    class Features:
+        def __init__(self):
+            self.lex_etcbc = Feature({1908704: 'XLM[', 1: 'DBR/'})
+            self.gn_etcbc = Feature({2096889: 'f'})
+
+    F = Features()
+    assert dss_feature(F, 'lex_etcbc', 1908704) == 'XLM=['   # corrected
+    assert dss_feature(F, 'lex_etcbc', 1) == 'DBR/'          # not corrected
+    assert dss_feature(F, 'gn_etcbc', 2096889) == 'm'

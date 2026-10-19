@@ -50232,6 +50232,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2072993	5Q4	Amos	1	3	CLC/	CLCH	CLC			NA	NA	sg	f	NA	subs		H			rrrr	nnnn	שלשה
 2072994	5Q4	Amos	1	3	PC</	PC<J	PC<			NA	NA	pl	m	NA	subs		J			rrrr	nnnn	פשעי
 2072998	5Q4	Amos	1	3	>RB</	>RB<H	>RB<H			NA	NA	sg	f	NA	subs					rrrrn	nnnnn	ארבעה
+2073004	5Q4	Amos	1	3	XRWY/	XRYWT	XRY			NA	NA	pl	m	NA	subs		WT		B	rrrrr	nnnnn	חרצות
 2073006	5Q4	Amos	1	3	BRZL/	BRZL	BRZL			NA	NA	sg	m	NA	subs				H	rrrr	nnnn	ברזל
 2073008	5Q4	Amos	1	3	HRH/	HRWT	HR			NA	NA	pl		NA	adjv		WT			nnnr	nnnn	הרות
 2073014	5Q4	Amos	1	4	>C/	>C	>C			NA	NA	sg		NA	subs					rr	nn	אש
@@ -56951,7 +56952,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2096883	Mur88	Nahum	2	13	LB>H/	LB>TJW	LB>			NA	NA	pl	f	NA	subs	W	TJ		L	nnnnnn	nnnnnn	לבאתיו
 2096886	Mur88	Nahum	2	13	VRP/	VRP	VRP			NA	NA	sg	m	NA	subs					nrr	nnn	טרף
 2096887	Mur88	Nahum	2	13	XR==/	XRJW	XR			NA	NA	pl	m	NA	subs	W	J			nnnn	nnnn	חריו
-2096889	Mur88	Nahum	2	13	M<NH/	M<NTJW	M<N			NA	NA	pl	f	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו
+2096889	Mur88	Nahum	2	13	M<WN/	M<NTJW	M<N			NA	NA	pl	m	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו
 2096890	Mur88	Nahum	2	13	VRJPH/	VRPH	VRP			NA	NA	sg	f	NA	subs		H			nnnn	nnnn	טרפה
 2096894	Mur88	Nahum	2	14	N>M/	N>M	N>M			NA	NA	sg	m	NA	subs					nnn	nnn	נאם
 2096896	Mur88	Nahum	2	14	YB>/	YB>WT	YB>			NA	NA	pl	m	NA	subs		WT			nnnnn	nnnnn	צבאות

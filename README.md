@@ -79,6 +79,25 @@ The files are **tab-separated** and contains one row per analyzed *vowel-letter 
 | `has_hloc` | Binary flag (1/0): whether the word has a directional/locative *he*. |
 | `has_nme` | Binary flag (1/0): whether the word has a nominal ending. |
 
+## Nominal endings of the participles (ptca_qal.csv, ptcp_qal.csv)
+
+`nme` is the ending as written (for the MT the consonants of BHSA `g_nme`), so it is not always the grammatical
+ending. A feminine plural written without waw has `nme` `T` (BHSA `WT`), a masculine plural without yod `M`
+(BHSA `JM`). The participle datasets therefore have an extra column:
+
+| Column | Description |
+|---|---|
+| `nme_type` | The grammatical nominal ending: `none`, `fem_sg`, `masc_pl` or `fem_pl`. Plurals are typed by `gn` (without gender: `fem_pl` if `nme` contains `WT` or starts with `T`, else `masc_pl`); a feminine singular with a written ending is `fem_sg`. The pronominal suffix is in `prs`. |
+
+Two corrections of `nme` in the participles:
+
+- In the DSS the yod of the plural construct (e.g. JWCBJ, 1QIsaa Isa 9:8) is parsed as nme `J`, as in the MT.
+- Active participles: a feminine singular whose written "ending" is only the last root letter has no ending
+  (`nme` empty, `has_nme` 0), because nothing is added to the masculine form; only the vowel differs. This
+  concerns the III-he verbs (רֹעָה like the masculine רֹעֶה, both R<H; the H goes to `other_vowel_ending` as in the
+  masculine) and JY> in Qoh 10:5 (יֹּצָא, BHSA `nme` H with `g_nme` `/@>`; the aleph returns to the stem). Gender
+  and number are kept. The III-he passive participles keep their ending (נְטוּיָה adds a syllable to נָטוּי).
+
 ## Extra columns in hiphil_triliteral_with_hireq.csv
 
 Built from `hiphil_triliteral.csv` by `notebooks/aligning_triliteral_hiphil_to_add_hireq.ipynb`.
@@ -124,6 +143,18 @@ To compare with another folder than `data`, give it as second argument, e.g.
 `python compare_datasets.py regression_output regression_baseline`. The script lists, per dataset, the rows that were removed or added. You can also run the tests on the new output:
 
     SPELLING_DATA_DIR=preprocess_data/regression_output pytest tests
+
+### Checking the lexemes of the DSS and SP against the BHSA
+`check_lexemes.py` aligns every verse of the DSS scrolls and the SP with the MT letter by letter, pairs each word with
+its MT parallel, and compares the lexemes of words with the same text (sin and shin not distinguished). It lists the
+DSS and SP words in the datasets with another lexeme than their MT parallel, and the MT words in the datasets of
+which a parallel with another lexeme is not in the dataset:
+
+    cd preprocess_data
+    python check_lexemes.py                                  # or: --data regression_output
+
+The results are written to `preprocess_data/lexeme_check_output`. Corrections of the lexeme (or other features) of
+DSS words are listed in `DSS_FEATURE_CORRECTIONS` in `special_data.py`.
 
 ## License
 © Martijn Naaijer. The data and code in this repository are licensed under the

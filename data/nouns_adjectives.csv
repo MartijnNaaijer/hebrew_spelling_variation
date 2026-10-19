@@ -52766,7 +52766,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2096828	Mur88	Nahum	2	10	KBWD/	KBD	KBD	CCC	CCC	NA	NA	sg		NA	subs					rnn	nnn	כבד	subs_adjv		36	16	0	0	0	0	rnn	nnn	last		0	0
 2096857	Mur88	Nahum	2	12	M<WN/	M<WN	M<WN	CCMC	CCMC	NA	NA	sg	m	NA	subs					rnnn	nnnn	מעון	subs_adjv		38	16	0	0	0	0	rnnn	nnnn	last	W	1	0
 2096869	Mur88	Nahum	2	12	GWR/	GWR	GWR	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	גור	subs_adjv		39	16	0	0	0	0	nnn	nnn	single	W	1	0
-2096889	Mur88	Nahum	2	13	M<NH/	M<NTJW	M<N	CCC	CCCCMC	NA	NA	pl	f	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו	subs_adjv		2	17	1	1	0	1	nnn	nnn	last		0	0
+2096889	Mur88	Nahum	2	13	M<WN/	M<NTJW	M<N	CCC	CCCCMC	NA	NA	pl	m	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו	subs_adjv		2	17	1	1	0	1	nnn	nnn	last		0	0
 2096894	Mur88	Nahum	2	14	N>M/	N>M	N>M	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	נאם	subs_adjv		2	17	0	0	0	0	nnn	nnn	first		0	0
 2096894	Mur88	Nahum	2	14	N>M/	N>M	N>M	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	נאם	subs_adjv		2	17	0	0	0	0	nnn	nnn	last		0	0
 2096901	Mur88	Nahum	2	14	RKB/	RKBH	RKB	CCC	CCCM	NA	NA	sg	m	NA	subs	H				nnnn	nnnn	רכבה	subs_adjv		3	17	1	0	0	0	nnn	nnn	first		0	0

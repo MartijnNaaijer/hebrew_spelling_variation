@@ -42,3 +42,11 @@ The output is written in a fixed row order, so two runs give byte-identical file
   (run it in the `hebrew_spelling` environment), not by the pipeline. Rerun it when `hiphil_triliteral.csv` changes.
 - The R models in `data_analysis/analysis_nouns_adjectives` read `data/nouns_adjectives.csv` and use
   `neigh_vowel_letter` as a predictor, so changes in that file affect results in the book.
+- The verb analyses of the book (`Dropbox/monograph_orthography/verbs/analysis_verbs`) read the verb datasets in
+  `data/`; a change there can make stored model fits out of date. Mention changed verb datasets to the author.
+- `nme` is the ending as written (MT: consonants of BHSA `g_nme`; DSS: `parse_nme_dss`), not the grammatical
+  ending. The participle datasets have `nme_type` for that (README, "Nominal endings of the participles").
+  Author's rule (2026-10-16): a feminine singular whose written ending is only the last root letter has no ending
+  (`remove_root_letter_endings_of_active_participles`).
+- Excel locks a CSV that is open; copying to `data/` then fails with "Device or resource busy".
+- Commit on a branch, not on `main`.

@@ -178,7 +178,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1908617	1Qisaa	Isaiah	38	11	NBV[	>BJV	BJV			hif	impf	sg		p1	verb					nnnn	nnnn	אביט
 1908642	1Qisaa	Isaiah	38	12	CLM[	TCLJMNJ	CLJM			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תשלימני
 1908657	1Qisaa	Isaiah	38	13	CLM[	TCLJMNJ	CLJM			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תשלימני
-1908704	1Qisaa	Isaiah	38	16	XLM[	TXLJMNJ	XLJM			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תחלימני
+1908704	1Qisaa	Isaiah	38	16	XLM=[	TXLJMNJ	XLJM			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תחלימני
 1908722	1Qisaa	Isaiah	38	17	CLK[	HCLKTH	CLKTH			hif	perf	sg	m	p2	verb					nnnnnn	nnnnnn	השלכתה
 1909522	1Qisaa	Isaiah	40	31	XLP[	JXLJPW	XLJP			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יחליפו
 1909538	1Qisaa	Isaiah	41	1	XRC[	HXRJCW	XRJC			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	החרישו
@@ -371,7 +371,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1921507	1Q8	Isaiah	37	12	CXT[	HCXJTW	CXJT			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	השחיתו
 1921540	1Q8	Isaiah	38	11	NBV[	>BJV	BJV			hif	impf	sg		p1	verb					rrrr	nnnn	אביט
 1921566	1Q8	Isaiah	38	12	CLM[	TCLJMNJ	CLJM			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תשלימני
-1921610	1Q8	Isaiah	38	16	XLM[	TXLJMNJ	XLJM			hif	impf	sg	m	p2	verb	NJ			W	nrnnnnn	nnnnnnn	תחלימני
+1921610	1Q8	Isaiah	38	16	XLM=[	TXLJMNJ	XLJM			hif	impf	sg	m	p2	verb	NJ			W	nrnnnnn	nnnnnnn	תחלימני
 1921628	1Q8	Isaiah	38	17	CLK[	HCLKT	CLK			hif	perf	sg	m	p2	verb					nnnnn	nnnnn	השלכת
 1922040	1Q8	Isaiah	41	7	XLQ=[	MXLJQ	XLJQ			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מחליק
 1922069	1Q8	Isaiah	41	9	XZQ[	HXZQTJK	XZQ			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	החזקתיך
