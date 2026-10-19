@@ -306,6 +306,22 @@ def remove_syllables_without_variation(data, entropy_threshold):
     return pd.concat(variable_syllables).sort_values(by='tf_id')
 
 
+def correct_syllables(data, corrections):
+    """
+    Sets the vowel letter (and has_vowel_letter) of the syllables in corrections, {(tf_id, type): vowel letter}
+    (SYLLABLE_CORRECTIONS in special_data.py). Every key must occur in the data.
+    """
+    data = data.copy()
+    keys = list(zip(data.tf_id, data.type))
+    missing = set(corrections) - set(keys)
+    if missing:
+        raise ValueError(f'Syllable corrections not found in the data: {sorted(missing)}')
+    is_corrected = [key in corrections for key in keys]
+    data.loc[is_corrected, 'vowel_letter'] = [corrections[key] for key in keys if key in corrections]
+    data['has_vowel_letter'] = (data['vowel_letter'].fillna('').str.len() > 0).astype(int)
+    return data
+
+
 def add_neighboring_vowel_letter(data):
     """
     Adds the column neigh_vowel_letter: 1 if the same vowel letter occurs in the neighboring syllable, else 0.

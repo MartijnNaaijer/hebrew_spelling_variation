@@ -196797,7 +196797,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 527956	SP	Genesis	41	2	MR>H/	MR>H	MR>	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	מראה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	first		0	0
 527956	SP	Genesis	41	2	MR>H/	MR>H	MR>	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	מראה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	last		0	0
 527958	SP	Genesis	41	2	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		W	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
-527958	SP	Genesis	41	2	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		W	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
+527958	SP	Genesis	41	2	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		W	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last	J	1	0
 527959	SP	Genesis	41	2	BFR/	BFR	BFR	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	בשר	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 527959	SP	Genesis	41	2	BFR/	BFR	BFR	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	בשר	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 527963	SP	Genesis	41	2	>XW/	>XW	>X	CC	CCM		NA	sg	m	NA	subs				B	nnn	nnn	אחו	subs_adjv	W	-	-	0	1	0	0	nn	nn	single		0	0
@@ -196832,7 +196832,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 528005	SP	Genesis	41	4	MR>H/	MR>H	MR>	CCC	CCCM		NA	sg	m	NA	subs				H	nnnn	nnnn	מראה	subs_adjv	H	-	-	0	1	0	0	nnn	nnn	first		0	0
 528005	SP	Genesis	41	4	MR>H/	MR>H	MR>	CCC	CCCM		NA	sg	m	NA	subs				H	nnnn	nnnn	מראה	subs_adjv	H	-	-	0	1	0	0	nnn	nnn	last		0	0
 528008	SP	Genesis	41	4	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
-528008	SP	Genesis	41	4	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
+528008	SP	Genesis	41	4	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last	J	1	0
 528011	SP	Genesis	41	4	PR<H/	PR<H	PR<	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	פרעה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	first		0	0
 528011	SP	Genesis	41	4	PR<H/	PR<H	PR<	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	פרעה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	last		0	0
 528016	SP	Genesis	41	5	CNJ/	CNJT	CN	CC	CCMC		NA	sg	f	NA	adjv		T			nnnn	nnnn	שנית	subs_adjv	J	-	-	0	0	0	1	nn	nn	single		0	0
@@ -196844,7 +196844,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 528024	SP	Genesis	41	5	>XD/	>XD	>XD	CCC	CCC		NA	sg	unknown	NA	subs					nnn	nnn	אחד	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 528024	SP	Genesis	41	5	>XD/	>XD	>XD	CCC	CCC		NA	sg	unknown	NA	subs					nnn	nnn	אחד	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 528025	SP	Genesis	41	5	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT			nnnnn	nnnnn	בריות	subs_adjv		-	-	0	0	0	1	nnn	nnn	first		0	0
-528025	SP	Genesis	41	5	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT			nnnnn	nnnnn	בריות	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
+528025	SP	Genesis	41	5	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT			nnnnn	nnnnn	בריות	subs_adjv		-	-	0	0	0	1	nnn	nnn	last	J	1	0
 528027	SP	Genesis	41	5	VWB/	VWBWT	VWB	CMC	CMCMC		NA	pl	f	NA	adjv		WT		W	nnnnn	nnnnn	טובות	subs_adjv		-	-	0	1	0	1	nnn	nnn	single	W	1	1
 528030	SP	Genesis	41	6	CB</	CB<	CB<	CCC	CCC		NA	sg	unknown	NA	subs					nnn	nnn	שבע	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 528030	SP	Genesis	41	6	CB</	CB<	CB<	CCC	CCC		NA	sg	unknown	NA	subs					nnn	nnn	שבע	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
@@ -196863,7 +196863,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 528047	SP	Genesis	41	7	CBLT/	CBLJM	CBL	CCC	CCCMC		NA	pl	f	NA	subs		JM		H	nnnnn	nnnnn	שבלים	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 528047	SP	Genesis	41	7	CBLT/	CBLJM	CBL	CCC	CCCMC		NA	pl	f	NA	subs		JM		H	nnnnn	nnnnn	שבלים	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 528049	SP	Genesis	41	7	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		H	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
-528049	SP	Genesis	41	7	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		H	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
+528049	SP	Genesis	41	7	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		H	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last	J	1	0
 528052	SP	Genesis	41	7	ML>/	MLJWT	MLJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	מליות	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
 528052	SP	Genesis	41	7	ML>/	MLJWT	MLJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	מליות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
 528055	SP	Genesis	41	7	PR<H/	PR<H	PR<	CCC	CCCM		NA	sg	m	NA	subs					nnnn	nnnn	פרעה	subs_adjv	H	-	-	0	0	0	0	nnn	nnn	first		0	0
@@ -196958,7 +196958,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 528252	SP	Genesis	41	18	CB</	CB<	CB<	CCC	CCC		NA	sg	unknown	NA	subs					nnn	nnn	שבע	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 528253	SP	Genesis	41	18	PRH/	PRWT	PR	CC	CCMC		NA	pl	f	NA	subs		WT			nnnn	nnnn	פרות	subs_adjv		-	-	0	0	0	1	nn	nn	single		0	1
 528254	SP	Genesis	41	18	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT			nnnnn	nnnnn	בריות	subs_adjv		-	-	0	0	0	1	nnn	nnn	first		0	0
-528254	SP	Genesis	41	18	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT			nnnnn	nnnnn	בריות	subs_adjv		-	-	0	0	0	1	nnn	nnn	last		0	0
+528254	SP	Genesis	41	18	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT			nnnnn	nnnnn	בריות	subs_adjv		-	-	0	0	0	1	nnn	nnn	last	J	1	0
 528255	SP	Genesis	41	18	BFR/	BFR	BFR	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	בשר	subs_adjv		-	-	0	0	0	0	nnn	nnn	first		0	0
 528255	SP	Genesis	41	18	BFR/	BFR	BFR	CCC	CCC		NA	sg	m	NA	subs					nnn	nnn	בשר	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 528257	SP	Genesis	41	18	JPH/	JPWT	JP	CC	CCMC		NA	pl	f	NA	adjv		WT		W	nnnn	nnnn	יפות	subs_adjv		-	-	0	1	0	1	nn	nn	single		0	0
@@ -196992,7 +196992,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 528297	SP	Genesis	41	20	CB</	CB<	CB<	CCC	CCC		NA	sg	unknown	NA	subs					nnn	nnn	שבע	subs_adjv		-	-	0	0	0	0	nnn	nnn	last		0	0
 528299	SP	Genesis	41	20	PRH/	PRWT	PR	CC	CCMC		NA	pl	f	NA	subs		WT		H	nnnn	nnnn	פרות	subs_adjv		-	-	0	1	0	1	nn	nn	single		0	1
 528304	SP	Genesis	41	20	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	first		0	0
-528304	SP	Genesis	41	20	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last		0	0
+528304	SP	Genesis	41	20	BRJ>/	BRJWT	BRJ	CCC	CCCMC		NA	pl	f	NA	adjv		WT		WH	nnnnn	nnnnn	בריות	subs_adjv		-	-	0	1	0	1	nnn	nnn	last	J	1	0
 528308	SP	Genesis	41	21	QRB/	QRBHN	QRB	CCC	CCCCC		NA	sg	m	NA	subs	HN				nnnnn	nnnnn	קרבהן	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0
 528308	SP	Genesis	41	21	QRB/	QRBHN	QRB	CCC	CCCCC		NA	sg	m	NA	subs	HN				nnnnn	nnnnn	קרבהן	subs_adjv		-	-	1	0	0	0	nnn	nnn	last		0	0
 528315	SP	Genesis	41	21	QRB/	QRBHN	QRB	CCC	CCCCC		NA	sg	m	NA	subs	HN				nnnnn	nnnnn	קרבהן	subs_adjv		-	-	1	0	0	0	nnn	nnn	first		0	0

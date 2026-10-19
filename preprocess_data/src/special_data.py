@@ -88,6 +88,19 @@ AD_HOC_REMOVALS = {
     1903077: "infa 1QIsaa 1903077, PRR, g_cons PWR is infc in MT according to BHSA",
     }
 
+# Corrections of the vowel letter of a syllable in the nouns and adjectives, {(tf_id, type): vowel letter}. The
+# tf_ids are those of the datasets (SP shifted by SP_TF_ID_OFFSET). SP BRJWT (BRJ>/, Gen 41) omits the alef of
+# MT BRJ>WT, so J is read as a consonant (pattern CCC); it is the vowel letter of the last syllable, as in MT
+# (author, 2026-10-19; was corrected in the R script of the book before).
+SYLLABLE_CORRECTIONS = {
+    (527958, 'last'): 'J',  # SP Genesis 41:2 BRJWT
+    (528008, 'last'): 'J',  # SP Genesis 41:4 BRJWT
+    (528025, 'last'): 'J',  # SP Genesis 41:5 BRJWT
+    (528049, 'last'): 'J',  # SP Genesis 41:7 BRJWT
+    (528254, 'last'): 'J',  # SP Genesis 41:18 BRJWT
+    (528304, 'last'): 'J',  # SP Genesis 41:20 BRJWT
+}
+
 # Corrections of features of DSS words, {tf_id: {feature: value}}, so that they agree with the BHSA parallel.
 DSS_FEATURE_CORRECTIONS = {
     1908704: {'lex_etcbc': 'XLM=[', 'reason': '1Qisaa Isaiah 38:16 TXLJMNJ, hiphil of be healthy, not dream'},

@@ -8,7 +8,7 @@ from parse_matres_mt import MatresParserBHSA, add_dashes
 from selection import feature_mask
 from steps import get_vowel_indices_first_and_last_syllables, get_syllable_pattern, add_syllable_rows, \
     remove_reconstructed_syllables, split_off_other_vowel_endings, remove_final_yod, add_neighboring_vowel_letter, \
-    remove_syllables_without_variation, add_matres_patterns
+    remove_syllables_without_variation, add_matres_patterns, correct_syllables
 from verb_steps import make_ptc_patterns, correct_infc_lamed_he, move_construct_yod_of_dss_participles, \
     remove_root_letter_endings_of_active_participles, add_nme_type
 from words import parse_nme_dss, to_hebrew, get_prs, DSSWordProcessor
@@ -279,3 +279,13 @@ def test_dss_feature_applies_corrections():
     assert dss_feature(F, 'lex_etcbc', 1908704) == 'XLM=['   # corrected
     assert dss_feature(F, 'lex_etcbc', 1) == 'DBR/'          # not corrected
     assert dss_feature(F, 'gn_etcbc', 2096889) == 'm'
+
+
+def test_correct_syllables():
+    data = pd.DataFrame({'tf_id': [1, 1, 2], 'type': ['last', 'first', 'last'],
+                         'vowel_letter': ['', '', 'W'], 'has_vowel_letter': [0, 0, 1]})
+    corrected = correct_syllables(data, {(1, 'last'): 'J'})
+    assert list(corrected.vowel_letter) == ['J', '', 'W']
+    assert list(corrected.has_vowel_letter) == [1, 0, 1]
+    with pytest.raises(ValueError):
+        correct_syllables(data, {(3, 'last'): 'J'})

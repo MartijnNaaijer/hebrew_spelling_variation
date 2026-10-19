@@ -13,11 +13,11 @@ import pandas as pd
 
 from config import data_path, matres_patterns_mt_dss_file, matres_patterns_sp_file, entropy
 from selection import select_words
-from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS
+from special_data import USELESS_PLURALS, REMOVE_LEXEMES, AD_HOC_REMOVALS, SYLLABLE_CORRECTIONS
 from steps import run_steps, set_column, add_matres_patterns, convert_final_aleph, strip_feminine_t, \
     split_off_other_vowel_endings, remove_final_yod, add_help_columns, add_rec_cor_stem_columns, add_syllable_rows, \
     remove_invalid_data, remove_short_stems, remove_nodes, remove_useless_rows, \
-    remove_syllables_without_variation, add_neighboring_vowel_letter
+    remove_syllables_without_variation, add_neighboring_vowel_letter, correct_syllables
 import verb_steps as vs
 
 # The SP tf_ids overlap with those of the MT, so they are shifted in the combined datasets.
@@ -77,7 +77,7 @@ def nouns_adjectives(tables):
                                                set_column('feature', 'subs_adjv')] + NOUN_STEPS)
 
     # We want a dataset with all syllables, including the ones with very little variation.
-    all_syllables = pd.concat([mt_dss_data, shift_sp_tf_ids(sp_data)])
+    all_syllables = correct_syllables(pd.concat([mt_dss_data, shift_sp_tf_ids(sp_data)]), SYLLABLE_CORRECTIONS)
     variable_syllables = remove_syllables_without_variation(all_syllables, entropy_threshold=entropy)
 
     return {'all_dss_subs_adjv.csv': dss,
