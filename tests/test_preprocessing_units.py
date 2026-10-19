@@ -13,6 +13,7 @@ from verb_steps import make_ptc_patterns, correct_infc_lamed_he, move_construct_
     remove_root_letter_endings_of_active_participles, add_nme_type
 from words import parse_nme_dss, to_hebrew, get_prs, DSSWordProcessor
 from parallels import lcs_alignment, match_words, compare_lexemes
+from special_data import dss_feature
 
 
 # words.py
@@ -257,3 +258,24 @@ def test_match_words_pairs_words_with_most_aligned_letters():
 ])
 def test_compare_lexemes(lex, g_cons, mt_lex, mt_g_cons, expected):
     assert compare_lexemes(lex, g_cons, mt_lex, mt_g_cons) == expected
+
+
+# special_data.py
+
+def test_dss_feature_applies_corrections():
+    class Feature:
+        def __init__(self, values):
+            self.values = values
+
+        def v(self, node):
+            return self.values.get(node)
+
+    class Features:
+        def __init__(self):
+            self.lex_etcbc = Feature({1908704: 'XLM[', 1: 'DBR/'})
+            self.gn_etcbc = Feature({2096889: 'f'})
+
+    F = Features()
+    assert dss_feature(F, 'lex_etcbc', 1908704) == 'XLM=['   # corrected
+    assert dss_feature(F, 'lex_etcbc', 1) == 'DBR/'          # not corrected
+    assert dss_feature(F, 'gn_etcbc', 2096889) == 'm'

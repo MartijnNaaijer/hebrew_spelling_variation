@@ -33,6 +33,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'src
 from corpora import load_corpora  # noqa: E402
 from parallels import match_words, compare_lexemes  # noqa: E402
 from pipelines import SP_TF_ID_OFFSET  # noqa: E402
+from special_data import dss_feature  # noqa: E402
 from words import keep_consonants, DSSWordProcessor  # noqa: E402
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
@@ -98,7 +99,7 @@ def dss_witness(dss, mt_sections):
                 continue
             glyphs = DSSWordProcessor.replace_final_characters(F.glyphe.v(w) or '')
             witness.add((scroll_name, section), w, scroll_name, section, keep_consonants(glyphs), bool(F.after.v(w)),
-                        F.lex_etcbc.v(w), F.sp_etcbc.v(w))
+                        dss_feature(F, 'lex_etcbc', w), F.sp_etcbc.v(w))
     return witness
 
 

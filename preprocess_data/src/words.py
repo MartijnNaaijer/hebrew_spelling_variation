@@ -11,7 +11,7 @@ The DSS and SP tables only contain words in verses that also occur in the MT.
 import pandas as pd
 
 from parse_matres_mt import get_matres_patterns_and_prefixes
-from special_data import j_lexemes, fem_end_words, fem_ending_numbers, relevant_wt_words
+from special_data import j_lexemes, fem_end_words, fem_ending_numbers, relevant_wt_words, dss_feature
 
 WORD_COLUMNS = ['tf_id', 'scroll',
                 'book', 'chapter',
@@ -302,7 +302,7 @@ class DSSWordProcessor:
         self.book = F.book_etcbc.v(tf_id)
         self.chapter_num = F.chapter.v(tf_id)
         self.verse_num = F.verse.v(tf_id)
-        self.lexeme = F.lex_etcbc.v(tf_id)
+        self.lexeme = dss_feature(F, 'lex_etcbc', tf_id)
         self.glyphs = None
         self.hloc = 'H' if F.uvf_etcbc.v(tf_id) == 'H' else ''
         self.uvf_n = ''
@@ -436,7 +436,7 @@ class DSSWordProcessor:
         return number
 
     def get_gender(self):
-        gender = self.F.gn_etcbc.v(self.tf_id)
+        gender = dss_feature(self.F, 'gn_etcbc', self.tf_id)
         if gender not in {'m', 'f'}:
             return None
         return gender

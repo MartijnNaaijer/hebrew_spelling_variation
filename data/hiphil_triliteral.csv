@@ -3483,7 +3483,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1908617	1Qisaa	Isaiah	38	11	NBV[	>BJV	BJV			hif	impf	sg		p1	verb					nnnn	nnnn	אביט		hiph_triliteral	3	32	0	0	0	0	nnn	nnn	last	J	1
 1908642	1Qisaa	Isaiah	38	12	CLM[	TCLJMNJ	CLJM			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תשלימני		hiph_triliteral	4	32	1	0	0	0	nnnn	nnnn	last	J	1
 1908657	1Qisaa	Isaiah	38	13	CLM[	TCLJMNJ	CLJM			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תשלימני		hiph_triliteral	5	32	1	0	0	0	nnnn	nnnn	last	J	1
-1908704	1Qisaa	Isaiah	38	16	XLM[	TXLJMNJ	XLJM			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תחלימני		hiph_triliteral	8	32	1	1	0	0	nnnn	nnnn	last	J	1
+1908704	1Qisaa	Isaiah	38	16	XLM=[	TXLJMNJ	XLJM			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תחלימני		hiph_triliteral	8	32	1	1	0	0	nnnn	nnnn	last	J	1
 1909522	1Qisaa	Isaiah	40	31	XLP[	JXLJPW	XLJP			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יחליפו		hiph_triliteral	2	34	0	0	0	0	nnnn	nnnn	last	J	1
 1909538	1Qisaa	Isaiah	41	1	XRC[	HXRJCW	XRJC			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	החרישו		hiph_triliteral	4	34	0	0	0	0	nnnn	nnnn	last	J	1
 1909543	1Qisaa	Isaiah	41	1	XLP[	JXLJPW	XLJP			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יחליפו		hiph_triliteral	4	34	0	0	0	0	nnnn	nnnn	last	J	1

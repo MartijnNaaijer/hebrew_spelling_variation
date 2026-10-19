@@ -87,3 +87,16 @@ AD_HOC_REMOVALS = {
     1925535: "Trilit hiphil, 1Q8, misses < at the end",
     1903077: "infa 1QIsaa 1903077, PRR, g_cons PWR is infc in MT according to BHSA",
     }
+
+# Corrections of features of DSS words, {tf_id: {feature: value}}, so that they agree with the BHSA parallel.
+DSS_FEATURE_CORRECTIONS = {
+    1908704: {'lex_etcbc': 'XLM=[', 'reason': '1Qisaa Isaiah 38:16 TXLJMNJ, hiphil of be healthy, not dream'},
+    1921610: {'lex_etcbc': 'XLM=[', 'reason': '1Q8 Isaiah 38:16 TXLJMNJ, hiphil of be healthy, not dream'},
+    2073004: {'lex_etcbc': 'XRWY/', 'reason': '5Q4 Amos 1:3 XRYWT, lex_etcbc missing (lex XRWY_3)'},
+    2096889: {'lex_etcbc': 'M<WN/', 'gn_etcbc': 'm', 'reason': 'Mur88 Nahum 2:13 M<NTJW, as BHSA (M<NH/ f)'},
+}
+
+
+def dss_feature(F, feature, tf_id):
+    """The value of a feature of a DSS word, with the corrections in DSS_FEATURE_CORRECTIONS."""
+    return DSS_FEATURE_CORRECTIONS.get(tf_id, {}).get(feature, F.__dict__[feature].v(tf_id))

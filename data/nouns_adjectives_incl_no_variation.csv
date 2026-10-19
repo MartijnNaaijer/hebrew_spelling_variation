@@ -274665,8 +274665,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2096883	Mur88	Nahum	2	13	LB>H/	LB>TJW	LB>	CCC	CCMCMC	NA	NA	pl	f	NA	subs	W	TJ		L	nnnnnn	nnnnnn	לבאתיו	subs_adjv		1	17	1	1	0	1	nnn	nnn	first		0	0
 2096883	Mur88	Nahum	2	13	LB>H/	LB>TJW	LB>	CCC	CCMCMC	NA	NA	pl	f	NA	subs	W	TJ		L	nnnnnn	nnnnnn	לבאתיו	subs_adjv		1	17	1	1	0	1	nnn	nnn	last		0	0
 2096887	Mur88	Nahum	2	13	XR==/	XRJW	XR	CC	CCCC	NA	NA	pl	m	NA	subs	W	J			nnnn	nnnn	חריו	subs_adjv		1	17	1	0	0	1	nn	nn	single		0	0
-2096889	Mur88	Nahum	2	13	M<NH/	M<NTJW	M<N	CCC	CCCCMC	NA	NA	pl	f	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו	subs_adjv		2	17	1	1	0	1	nnn	nnn	first		0	0
-2096889	Mur88	Nahum	2	13	M<NH/	M<NTJW	M<N	CCC	CCCCMC	NA	NA	pl	f	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו	subs_adjv		2	17	1	1	0	1	nnn	nnn	last		0	0
+2096889	Mur88	Nahum	2	13	M<WN/	M<NTJW	M<N	CCC	CCCCMC	NA	NA	pl	m	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו	subs_adjv		2	17	1	1	0	1	nnn	nnn	first		0	0
+2096889	Mur88	Nahum	2	13	M<WN/	M<NTJW	M<N	CCC	CCCCMC	NA	NA	pl	m	NA	subs	W	TJ		W	nnnnnn	nnnnnn	מענתיו	subs_adjv		2	17	1	1	0	1	nnn	nnn	last		0	0
 2096890	Mur88	Nahum	2	13	VRJPH/	VRPH	VRP	CCC	CCCM	NA	NA	sg	f	NA	subs		H			nnnn	nnnn	טרפה	subs_adjv		2	17	0	0	0	1	nnn	nnn	first		0	0
 2096890	Mur88	Nahum	2	13	VRJPH/	VRPH	VRP	CCC	CCCM	NA	NA	sg	f	NA	subs		H			nnnn	nnnn	טרפה	subs_adjv		2	17	0	0	0	1	nnn	nnn	last		0	0
 2096894	Mur88	Nahum	2	14	N>M/	N>M	N>M	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	נאם	subs_adjv		2	17	0	0	0	0	nnn	nnn	first		0	0

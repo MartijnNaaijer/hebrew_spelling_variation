@@ -153,7 +153,8 @@ which a parallel with another lexeme is not in the dataset:
     cd preprocess_data
     python check_lexemes.py                                  # or: --data regression_output
 
-The results are written to `preprocess_data/lexeme_check_output`.
+The results are written to `preprocess_data/lexeme_check_output`. Corrections of the lexeme (or other features) of
+DSS words are listed in `DSS_FEATURE_CORRECTIONS` in `special_data.py`.
 
 ## License
 © Martijn Naaijer. The data and code in this repository are licensed under the
