@@ -1,0 +1,4 @@
+[flake8]
+# notebooks/ holds exploratory scripts split out of Jupyter notebooks; they are
+# not part of the preprocessing pipeline and are not linted.
+exclude = .git,__pycache__,.venv,venv,build,dist,notebooks
