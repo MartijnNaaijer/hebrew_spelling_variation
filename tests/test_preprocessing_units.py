@@ -189,6 +189,13 @@ def test_make_ptc_patterns():
     assert list(result.pattern_g_cons) == ['CMCCC', 'CMCCMC']
 
 
+def test_make_ptc_patterns_lamed_he_passive():
+    # The final J of a passive participle of a lamed-he verb is the root letter (as in the BHSA).
+    data = pd.DataFrame({'stem': ['NVWJ', 'PDWJJ', 'QWTJ'], 'g_cons': ['NVWJH', 'PDWJJ', 'QWTJ'],
+                         'lex': ['NVH[', 'NVH[', 'QTL['], 'vt': ['ptcp', 'ptcp', 'ptca']})
+    assert list(make_ptc_patterns(data).pattern) == ['CCMC', 'CCMCM', 'CMCM']
+
+
 def test_correct_infc_lamed_he():
     data = pd.DataFrame({'stem': ['BNWT', 'BNT', 'BN'], 'pattern': ['CCMC', 'CCC', 'CC'], 'nme': ['', '', '']})
     result = correct_infc_lamed_he(data)

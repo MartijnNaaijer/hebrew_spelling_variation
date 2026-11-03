@@ -35,8 +35,20 @@ def make_ptc_patterns(data):
     def ptc_pattern(text):
         return 'C' + ''.join(['C' if char not in {'J', 'W'} else 'M' for char in text])[1:]
 
+    def consonantal_final_yod(pattern, stem, lex, vt):
+        """In a passive participle of a lamed-he verb the J after the W is the root letter, as in the BHSA: NVWJ,
+        and PDWJJ (plural construct, the last J is the ending)."""
+        stem = str(stem)
+        if vt != 'ptcp' or str(lex).strip('[').strip('=')[-1:] != 'H' or not stem.endswith('J') or len(pattern) < 3:
+            return pattern
+        root = len(stem) - 2 if stem.endswith('JJ') else len(stem) - 1
+        return pattern[:root] + 'C' + pattern[root + 1:]
+
     data = data.copy()
-    data['pattern'] = [ptc_pattern(stem) for stem in data.stem]
+    lexemes = data['lex'] if 'lex' in data else [''] * len(data)
+    verbal_tenses = data['vt'] if 'vt' in data else [''] * len(data)
+    data['pattern'] = [consonantal_final_yod(ptc_pattern(stem), stem, lex, vt)
+                       for stem, lex, vt in zip(data.stem, lexemes, verbal_tenses)]
     data['pattern_g_cons'] = [ptc_pattern(g_cons) for g_cons in data.g_cons]
     return data
 

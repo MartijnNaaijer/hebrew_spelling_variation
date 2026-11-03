@@ -331,6 +331,7 @@ class DSSWordProcessor:
                 self.stem, self.nme = parse_nme_dss(self.stem, self.lexeme, self.state, self.number, self.gender,
                                                     self.sp, self.prs)
                 self.correct_nme_prs()
+                self.split_fem_sg_he_of_participle()
             morpho = F.morpho.v(tf_id)
             if morpho and self.sp == 'verb' and morpho[-1] == 'h':
                 self.stem = self.stem.removesuffix('H')
@@ -424,6 +425,20 @@ class DSSWordProcessor:
         if self.gender == 'm' and self.number == 'pl' and self.prs == 'J' and self.nme == '':
             self.nme = 'J'
             self.prs = ''
+
+    def split_fem_sg_he_of_participle(self):
+        """
+        The final H of a feminine singular participle (e.g. NVWJH, Isa 5:25) is a nominal ending, as in the BHSA
+        (nme H). parse_nme_dss() splits it off only for adjectives, so DSS participles kept it in the stem and had no
+        nme. Lamed-he verbs: in the active participle the H may be a root letter (ZNH; the BHSA has no nme there), in
+        the passive participle the root H has become J (NVWJH) and the final H is the ending (BHSA: nme H).
+        """
+        lex = (self.lexeme or '').strip('[').strip('/').strip('=')
+        lamed_he_ok = lex[-1:] != 'H' or (self.vt == 'ptcp' and self.stem.endswith('JH'))
+        if self.sp == 'verb' and self.vt in ('ptca', 'ptcp') and self.gender == 'f' and self.number == 'sg' \
+                and self.nme == '' and self.stem.endswith('H') and len(self.stem) > 1 and lamed_he_ok:
+            self.stem = self.stem.removesuffix('H')
+            self.nme = 'H'
 
     def get_number(self):
         """
