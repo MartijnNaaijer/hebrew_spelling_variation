@@ -296,3 +296,9 @@ def test_correct_syllables():
     assert list(corrected.has_vowel_letter) == [1, 0, 1]
     with pytest.raises(ValueError):
         correct_syllables(data, {(3, 'last'): 'J'})
+
+def test_parse_nme_dss_masculine_root_he():
+    # The H of masculine nouns like JWRH/ and XZH=/ is a root letter; feminine TWRH/ keeps nme H.
+    assert parse_nme_dss('JWRH', 'JWRH/', 'a', 'sg', 'm', 'subs', '') == ('JWRH', '')
+    assert parse_nme_dss('XZH', 'XZH=/', 'a', 'sg', 'm', 'subs', '') == ('XZH', '')
+    assert parse_nme_dss('TWRH', 'TWRH/', 'a', 'sg', 'f', 'subs', '') == ('TWR', 'H')

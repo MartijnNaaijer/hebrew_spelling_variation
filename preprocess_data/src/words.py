@@ -121,6 +121,10 @@ def get_stem_matres_pattern(g_cons, stem, matres_pattern):
     return ''
 
 
+# Masculine nouns whose final H is a root letter, not a nominal ending (the BHSA has no nme there).
+MASCULINE_ROOT_H_LEXEMES = {'>LWH/', 'JWRH/', 'MRBH/', 'R>H/', 'XZH=/'}
+
+
 def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
     """
     :param stem: initial stem (needs further parsing)
@@ -204,7 +208,7 @@ def parse_nme_dss(stem, lex, state, nu, gn, sp, prs):
         elif stem[-1] == 'T':
             stem = stem.removesuffix('T')
             nme = 'T' + nme
-        elif stem[-1] == 'H' and lex != '>LWH/':
+        elif stem[-1] == 'H' and lex not in MASCULINE_ROOT_H_LEXEMES:
             stem = stem.removesuffix('H')
             nme = 'H' + nme
 
