@@ -49,4 +49,42 @@ The output is written in a fixed row order, so two runs give byte-identical file
   Author's rule (2026-10-16): a feminine singular whose written ending is only the last root letter has no ending
   (`remove_root_letter_endings_of_active_participles`).
 - Excel locks a CSV that is open; copying to `data/` then fails with "Device or resource busy".
+
+## Consistency of the DSS and SP annotation with MT
+
+MT gets `prs`, `nme`, `hloc` and the stem from the BHSA; the DSS words are segmented by the code in `words.py`
+(`DSSWordProcessor`, `parse_nme_dss`). The two must agree, because the book compares MT with the scrolls and
+`has_suffix` (= prs or nme or hloc) is a predictor in the models. Rule: **a DSS or SP word with the same consonants as
+its MT parallel gets the same segmentation as in the BHSA.**
+
+Check after every change to the segmentation: pair each DSS/SP word with its MT parallel (book, chapter, verse,
+lex, occurrence, as `parallel_forms()` in the book's R code; the hiphil also by `mt_match`), keep the pairs with
+identical `g_cons`, and compare the columns. On 2026-11-03 `has_vowel_letter`, `vowel_letter`, `type` and
+`has_suffix` agreed in all pairs of all datasets. Differences that remain and are expected: empty `ps`/`gn`
+against "unknown"; DSS rows of the verbs without `pattern`; SP without verbal stem (`vs`); `prefix`, because
+`g_cons` excludes the prefix and the texts differ there (1QIsaa BXRB against MT XRB, Isa 1:20); the DSS stem of
+niphal/hiphil/hophal pe-yod verbs keeps the preformative; the final H of lamed-he active participles stays in
+the DSS/SP stem (MT: `other_vowel_ending` H); energic nun written with the suffix (`prs` NH against H).
+
+Fixed on 2026-11-03 (all only in the DSS; MT and SP unchanged; no change in `has_vowel_letter` except one form):
+- Feminine singular participles: the final H was split off only for adjectives (`parse_nme_dss`), so 24 DSS
+  active and 49 passive participles (e.g. NVWJH, Isa 5:25) had no `nme`, while MT has nme H.
+  `split_fem_sg_he_of_participle`. Lamed-he: in the active participle the H may be the root letter (ZNH, no
+  nme, as in the BHSA); in the passive participle the root H has become J and the final J is consonantal
+  (`make_ptc_patterns`: NVWJ, PDWJJ = stem PDWJ + construct J).
+- Masculine nouns whose final H is a root letter (JWRH/, MRBH/, R>H/, XZH=/) had nme H: `MASCULINE_ROOT_H_LEXEMES`
+  (with >LWH/). Not a gender rule: QVWRH/ is masculine in both corpora and has nme H in the BHSA.
+- Verbal suffixes are read from Abegg's morphology (`morpho`, tags at the end: Xn paragogic nun, Xh paragogic
+  he, X3fs etc. suffix) in `split_verbal_suffixes`. Before, everything after the morpheme break was prs:
+  paragogic nun (TCXTW'N) and the H of the imperative (HGJD'H) were suffixes, and with nun + suffix (J#RTW'N'K)
+  the suffix was N instead of K. Paragogic letters go to `uvf_n` and are removed from the stem, as the BHSA
+  treats them as verbal endings. In infinitives and participles the Xh is the feminine ending (>HB'H, Deut 10:12):
+  nme H, as in the BHSA (these infinitives are then excluded, as in MT).
+- `correct_verbal_nme`: finite verbs have no nme (the M of the ending TM, NWTRTM, Isa 30:17, was taken for a
+  plural ending); the feminine T of non-qal participles (MXRBT, Isa 51:10) and the WT of non-qal lamed-he
+  infinitives (HWDWT, Ps 119:62) are nme, as in the BHSA (the qal forms get these later in the pipeline).
+- Row changes from these fixes come from the existing reconstruction filter, which now sees the right syllable:
+  ptcp_qal 4 removed and 2 added, hiphil_triliteral 1 removed (2Q5 MPRJST). One spelling change: 4Q82 NCBJM
+  (Amos 8:5), whose JM was taken for a plural ending, is now full, like MT.
+- After regenerating `hiphil_triliteral.csv`, rerun the notebook for `hiphil_triliteral_with_hireq.csv` (see above).
 - Commit on a branch, not on `main`.

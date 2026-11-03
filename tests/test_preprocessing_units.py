@@ -302,3 +302,45 @@ def test_parse_nme_dss_masculine_root_he():
     assert parse_nme_dss('JWRH', 'JWRH/', 'a', 'sg', 'm', 'subs', '') == ('JWRH', '')
     assert parse_nme_dss('XZH', 'XZH=/', 'a', 'sg', 'm', 'subs', '') == ('XZH', '')
     assert parse_nme_dss('TWRH', 'TWRH/', 'a', 'sg', 'f', 'subs', '') == ('TWR', 'H')
+
+class _Morpho:
+    def __init__(self, tag):
+        self.tag = tag
+
+    def v(self, _):
+        return self.tag
+
+
+def make_dss_word(sp, vt, vs='hif', gn='', nu='', lexeme='', stem='', nme='', morpho=''):
+    """A DSSWordProcessor without corpus; F only provides the feature morpho."""
+    word = DSSWordProcessor.__new__(DSSWordProcessor)
+    word.F = type('F', (), {'morpho': _Morpho(morpho)})()
+    word.tf_id = 1
+    word.sp, word.vt, word.vs, word.gender, word.number, word.lexeme = sp, vt, vs, gn, nu, lexeme
+    word.stem, word.nme, word.prs, word.uvf_n, word.nme_from_break = stem, nme, '', '', ''
+    return word
+
+
+@pytest.mark.parametrize('glyphs, morpho, vt, prs, uvf_n, nme_from_break', [
+    ("TCXTW'N", 'vhi2mpXn', 'impf', '', 'N', ''),          # paragogic nun: not a suffix
+    ("HGJD'H", 'vhvmsXh', 'impv', '', 'H', ''),            # paragogic he: not a suffix
+    ("KJBCW'H", 'vqvmpX3fs', 'impv', 'H', '', ''),         # 3fs suffix
+    ("JCRTW'N'K", 'vpi3mpXnX2fs', 'impf', 'K', 'N', ''),   # paragogic nun + suffix
+    (">HB'H", 'vqcXh', 'infc', '', 'H', 'H'),              # feminine ending of the infinitive
+])
+def test_split_verbal_suffixes(glyphs, morpho, vt, prs, uvf_n, nme_from_break):
+    word = make_dss_word('verb', vt, morpho=morpho)
+    assert word.split_verbal_suffixes(glyphs)
+    assert (word.prs, word.uvf_n, word.nme_from_break) == (prs, uvf_n, nme_from_break)
+
+
+@pytest.mark.parametrize('vt, vs, gn, nu, lexeme, stem, nme, new_stem, new_nme', [
+    ('perf', 'nif', 'm', 'pl', 'JTR[', 'NWTRT', 'M', 'NWTRTM', ''),   # M of the ending TM is verbal
+    ('ptca', 'hif', 'f', 'sg', 'XRB[', 'MXRBT', '', 'MXRB', 'T'),      # feminine T of a hiphil participle
+    ('ptca', 'qal', 'f', 'sg', 'JCB[', 'JWCBT', '', 'JWCBT', ''),      # qal: handled later in the pipeline
+    ('infc', 'hif', '', '', 'JDH[', 'HWDWT', '', 'HWD', 'WT'),         # WT of a lamed-he infinitive
+])
+def test_correct_verbal_nme(vt, vs, gn, nu, lexeme, stem, nme, new_stem, new_nme):
+    word = make_dss_word('verb', vt, vs=vs, gn=gn, nu=nu, lexeme=lexeme, stem=stem, nme=nme)
+    word.correct_verbal_nme()
+    assert (word.stem, word.nme) == (new_stem, new_nme)

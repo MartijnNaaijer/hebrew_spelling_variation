@@ -8,6 +8,8 @@ The SP dataset is based on the text-fabric dataset SP (see github.com/dt-ucph/sp
 
 The DSS and SP tables only contain words in verses that also occur in the MT.
 """
+import re
+
 import pandas as pd
 
 from parse_matres_mt import get_matres_patterns_and_prefixes
@@ -310,6 +312,7 @@ class DSSWordProcessor:
         self.glyphs = None
         self.hloc = 'H' if F.uvf_etcbc.v(tf_id) == 'H' else ''
         self.uvf_n = ''
+        self.nme_from_break = ''
         self.prs = ''
         self.nme = ''
         self.sp = F.sp_etcbc.v(tf_id)
@@ -336,6 +339,7 @@ class DSSWordProcessor:
                                                     self.sp, self.prs)
                 self.correct_nme_prs()
                 self.split_fem_sg_he_of_participle()
+                self.correct_verbal_nme()
             morpho = F.morpho.v(tf_id)
             if morpho and self.sp == 'verb' and morpho[-1] == 'h':
                 self.stem = self.stem.removesuffix('H')
@@ -417,9 +421,33 @@ class DSSWordProcessor:
             if self.lexeme == '<WD/' and "'N" in glyphs:
                 self.prs = glyphs.split("'N")[1]
                 self.uvf_n = 'N'
-            else:
+            elif self.sp == 'verb' and not self.split_verbal_suffixes(glyphs):
+                self.prs = glyphs.split("'")[1]
+            elif self.sp != 'verb':
                 self.prs = glyphs.split("'")[1]
         return glyphs.replace("'", '')
+
+    def split_verbal_suffixes(self, glyphs):
+        """
+        Each segment after a morpheme break of a verb is classified by the tags X.. at the end of Abegg's morphology
+        (feature morpho): Xn is a paragogic nun, Xh a paragogic he, X3fs etc. a pronominal suffix. The paragogic
+        letters are verbal endings, as in the BHSA (not prs): they are kept apart in uvf_n, which is removed from the
+        stem. Without this, TCXTW'N (Deut 31:29) and HGJD'H (Jonah 1:8) had prs N and H, and J#RTW'N'K (Xn + X2fs)
+        had prs N instead of K. Returns False if the tags do not match the segments (then the old rule applies).
+        """
+        segments = glyphs.split("'")[1:]
+        tags = re.findall(r'X(n|h|[123][mfc][sp])', self.F.morpho.v(self.tf_id) or '')
+        if len(tags) != len(segments):
+            return False
+        self.prs = ''.join(seg for seg, tag in zip(segments, tags) if tag not in ('n', 'h'))
+        paragogic = [seg for seg, tag in zip(segments, tags) if tag in ('n', 'h')]
+        if self.prs and paragogic and segments[-1] in paragogic:
+            return False  # suffix before a paragogic letter: not expected, keep the old rule
+        self.uvf_n = ''.join(paragogic)
+        if self.vt in ('infc', 'infa', 'ptca', 'ptcp') and self.uvf_n == 'H':
+            # In infinitives and participles (>HB'H, Deut 10:12) the H is the feminine ending: nme H in the BHSA.
+            self.nme_from_break = 'H'
+        return True
 
     def correct_nme_prs(self):
         """
@@ -443,6 +471,30 @@ class DSSWordProcessor:
                 and self.nme == '' and self.stem.endswith('H') and len(self.stem) > 1 and lamed_he_ok:
             self.stem = self.stem.removesuffix('H')
             self.nme = 'H'
+
+    def correct_verbal_nme(self):
+        """
+        Nominal endings of verbs, as in the BHSA:
+        - finite verbs have none: the M of the ending TM (NWTRTM, Isa 30:17) was taken for the plural ending;
+        - the feminine T of participles other than the qal (MXRBT, Isa 51:10) is an ending; the qal participles
+          get it in correct_active_participles();
+        - the WT of infinitives construct other than the qal of lamed-he verbs (HWDWT, Ps 119:62) is an ending; the
+          qal gets it in correct_infc_lamed_he().
+        """
+        if self.sp != 'verb':
+            return
+        if self.nme_from_break:
+            self.nme = self.nme + self.nme_from_break
+        lex = (self.lexeme or '').strip('[').strip('/').strip('=')
+        if self.vt in ('perf', 'impf', 'wayq', 'impv') and self.nme:
+            self.stem = self.stem + self.nme
+            self.nme = ''
+        elif self.vs != 'qal' and self.vt in ('ptca', 'ptcp') and self.gender == 'f' and self.number == 'sg'                 and self.nme == '' and self.stem.endswith('T') and len(self.stem) > 2 and lex[-1:] != 'T':
+            self.stem = self.stem.removesuffix('T')
+            self.nme = 'T'
+        elif self.vs != 'qal' and self.vt == 'infc' and self.nme == '' and self.stem.endswith('WT')                 and len(self.stem) > 3 and lex[-1:] == 'H':
+            self.stem = self.stem.removesuffix('WT')
+            self.nme = 'WT'
 
     def get_number(self):
         """
