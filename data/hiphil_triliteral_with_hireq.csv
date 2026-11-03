@@ -3412,7 +3412,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901890	1Qisaa	Isaiah	21	6	NGD[	JGJD	GJD			hif	impf	sg	m	p3	verb				W	nnnn	nnnn	יגיד		hiph_triliteral	21	16	0	1	0	0	nnn	nnn	last	J	1	1	0	218817
 1901903	1Qisaa	Isaiah	21	7	QCB[	HQCB	QCB			hif	perf	sg	m	p3	verb				W	nnnn	nnnn	הקשב		hiph_triliteral	22	16	0	1	0	0	nnn	nnn	last		0	1	0	218828
 1902182	1Qisaa	Isaiah	22	8	NBV[	TBV	BV			hif	wayq	sg	m	p2	verb				W	nnn	nnn	תבט		hiph_triliteral	11	17	0	1	0	0	nn	nn	last		0	0	0	219093
-1902618	1Qisaa	Isaiah	23	8	<VR[	M<VRH	<VRH			hif	ptca	sg	f		verb				H	nnnnn	nnnnn	מעטרה		hiph_triliteral	12	18	0	1	0	0	nnnn	nnnn	last		0	1	0	219507
+1902618	1Qisaa	Isaiah	23	8	<VR[	M<VRH	<VR			hif	ptca	sg	f		verb		H		H	nnnnn	nnnnn	מעטרה		hiph_triliteral	12	18	0	1	0	1	nnn	nnn	last		0	1	0	219507
 1902656	1Qisaa	Isaiah	23	11	RGZ[	HRGJZ	RGJZ			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הרגיז		hiph_triliteral	15	18	0	0	0	0	nnnn	nnnn	last	J	1	1	0	219542
 1902663	1Qisaa	Isaiah	23	11	CMD[	HCMJD	CMJD			hif	infc				verb				L	nnnnn	nnnnn	השמיד		hiph_triliteral	16	18	0	1	0	0	nnnn	nnnn	last	J	1	1	0	219549
 1903241	1Qisaa	Isaiah	25	5	KN<[	TKNJ<	KNJ<			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תכניע		hiph_triliteral	31	19	0	0	0	0	nnnn	nnnn	last	J	1	1	0	220133
@@ -3567,7 +3567,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1913616	1Qisaa	Isaiah	51	4	>ZN[	H>ZJNW	>ZJN			hif	impv	pl	m		verb					nnnnnn	nnnnnn	האזינו		hiph_triliteral	18	42	0	0	0	0	nnnn	nnnn	last	J	1	1	0	229910
 1913627	1Qisaa	Isaiah	51	4	RG<[	>RGJ<	RGJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	ארגיע		hiph_triliteral	18	42	0	0	0	0	nnnn	nnnn	last	J	1	1	0	229921
 1913649	1Qisaa	Isaiah	51	6	NBV[	HBJVW	BJV			hif	impv	pl	m		verb				W	nnnnn	nnnnn	הביטו		hiph_triliteral	20	42	0	1	0	0	nnn	nnn	last	J	1	1	0	229943
-1913742	1Qisaa	Isaiah	51	10	XRB[	MXRBT	XRBT			hif	ptca	sg	f		verb				H	nnnnn	nnnnn	מחרבת		hiph_triliteral	25	42	0	1	0	0	nnnn	nnnn	last		0	0	0	230041
+1913742	1Qisaa	Isaiah	51	10	XRB[	MXRBT	XRB			hif	ptca	sg	f		verb		T		H	nnnnn	nnnnn	מחרבת		hiph_triliteral	25	42	0	1	0	1	nnn	nnn	last		0	0	0	230041
 1913776	1Qisaa	Isaiah	51	11	NFG[	JFJGW	FJG			hif	impf	pl	m	p3	verb					nnnnn	nnnnn	ישיגו		hiph_triliteral	27	42	0	0	0	0	nnn	nnn	last	J	1	1	0	230071
 1913827	1Qisaa	Isaiah	51	13	CXT[	HCXJT	CXJT			hif	infc				verb				L	nnnnn	nnnnn	השחית		hiph_triliteral	0	43	0	1	0	0	nnnn	nnnn	last	J	1	1	0	230117
 1913914	1Qisaa	Isaiah	51	18	XZQ[	MXZJQ	XZJQ			hif	ptca	sg	m		verb					nnnnn	nnnnn	מחזיק		hiph_triliteral	7	43	0	0	0	0	nnnn	nnnn	last	J	1	1	0	230202
@@ -3664,7 +3664,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1924089	1Q8	Isaiah	51	4	>ZN[	H>ZJNW	>ZJN			hif	impv	pl	m		verb					nnnnnr	nnnnnn	האזינו		hiph_triliteral	13	22	0	0	0	0	nnnn	nnnn	last	J	1	1	0	229910
 1924100	1Q8	Isaiah	51	4	RG<[	>RGJ<	RGJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	ארגיע		hiph_triliteral	14	22	0	0	0	0	nnnn	nnnn	last	J	1	1	0	229921
 1924123	1Q8	Isaiah	51	6	NBV[	HBJVW	BJV			hif	impv	pl	m		verb				W	nnnnn	nnnnn	הביטו		hiph_triliteral	15	22	0	1	0	0	nnn	nnn	last	J	1	1	0	229943
-1924221	1Q8	Isaiah	51	10	XRB[	MXRBT	XRBT			hif	ptca	sg	f		verb				H	nnnnn	nnnnn	מחרבת		hiph_triliteral	22	22	0	1	0	0	nnnn	nnnn	last		0	0	0	230041
+1924221	1Q8	Isaiah	51	10	XRB[	MXRBT	XRB			hif	ptca	sg	f		verb		T		H	nnnnn	nnnnn	מחרבת		hiph_triliteral	22	22	0	1	0	1	nnn	nnn	last		0	0	0	230041
 1924334	1Q8	Isaiah	52	13	FKL[	JFKJL	FKJL			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ישכיל		hiph_triliteral	6	23	0	0	0	0	nnnn	nnnn	last	J	1	1	0	230503
 1924380	1Q8	Isaiah	53	1	>MN[	H>MJN	>MJN			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	האמין		hiph_triliteral	10	23	0	0	0	0	nnnn	nnnn	last	J	1	1	0	230546
 1924480	1Q8	Isaiah	53	6	PG<[	HPGJ<	PGJ<			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הפגיע		hiph_triliteral	16	23	0	0	0	0	nnnn	nnnn	last	J	1	1	0	230642
@@ -3698,7 +3698,6 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1929511	1Q71	Daniel	2	2	NGD[	HGJD	GJD			hif	infc				verb				L	nnnn	nnnn	הגיד		hiph_triliteral	1	f1ii	0	1	0	0	nnn	nnn	last	J	1	1	0	370574
 1930021	2Q2	Exodus	1	13	<BD[	J<BDW	<BD			hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn	יעבדו		hiph_triliteral	3	f1	0	1	0	0	nnn	nnn	last		0	1	0	28922
 1931095	2Q3	Exodus	19	9	NGD[	JGD	GD			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יגד		hiph_triliteral	1	f8	0	1	0	0	nn	nn	last		0	0	0	39248
-1931316	2Q5	Leviticus	11	26	PRS[	MPRJST	PRJST			hif	ptca	sg	f		verb					rrnnnn	nnnnnn	מפריסת		hiph_triliteral	5	f1	0	0	0	0	rrnnn	nnnnn	last		0	0	0	58268
 1932473	2Q13	Jeremiah	46	27	XRD[	MXRJD	XRJD			hif	ptca	sg	m		verb					nnnnn	nnnnn	מחריד		hiph_triliteral	2	f7_8	0	0	0	0	nnnn	nnnn	last	J	1	1	0	260203
 1932684	2Q13	Jeremiah	48	26	CKR[	HCKJRWH	CKJR			hif	impv	pl	m		verb	H				nnnnnrr	nnnnnnn	השכירוה		hiph_triliteral	1	f9ii_12	1	0	0	0	nnnn	nnnn	last	J	1	1	0	260739
 1932688	2Q13	Jeremiah	48	26	GDL[	HGDJLH	GDJL			hif	perf	sg	f	p3	verb					nnnnnn	nnnnnn	הגדילה		hiph_triliteral	2	f9ii_12	0	0	0	0	nnnn	nnnn	last	J	1	1	0	260743
@@ -3787,7 +3786,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1977790	4Q27	Numbers	35	23	NPL[	JPL	PL			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יפל		hiph_triliteral	15	f80_84	0	1	0	0	nn	nn	last		0	0	0	92260
 1977823	4Q27	Numbers	35	25	NYL[	HYJLW	YJL			hif	perf	pl		p3	verb				W	nnnnn	nnnnn	הצילו		hiph_triliteral	16	f80_84	0	1	0	0	nnn	nnn	last	J	1	1	0	92291
 1978435	4Q28	Deuteronomy	24	4	XV>[	TXV>	XV>			hif	impf	sg	m	p2	verb					nnnn	nnnn	תחטא		hiph_triliteral	7	f1	0	0	0	0	nnn	nnn	last		0	1	0	106440
-1979242	4Q29	Deuteronomy	31	29	CXT[	TCXTWN	CXT			hif	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תשחתון		hiph_triliteral	7	f5_8	1	0	0	0	nnn	nnn	last		0	1	0	111398
+1979242	4Q29	Deuteronomy	31	29	CXT[	TCXTWN	CXT			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תשחתון		hiph_triliteral	7	f5_8	0	0	0	0	nnn	nnn	last		0	1	0	111398
 1979269	4Q29	Deuteronomy	31	29	K<S[	HK<SW	K<S			hif	infc				verb	W			L	nnnnn	nnnnn	הכעסו		hiph_triliteral	8	f5_8	1	1	0	0	nnn	nnn	last		0	1	0	111425
 1979633	4Q30	Deuteronomy	8	2	HLK[	HWLJKK	HWLJK			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוליכך		hiph_triliteral	2	f5	1	0	0	0	nnnnn	nnnnn	last	J	1	1	0	98031
 1979660	4Q30	Deuteronomy	8	3	R<B[	JR<JBK	R<JB			hif	wayq	sg	m	p3	verb	K			W	nnnnnn	nnnnnn	ירעיבך		hiph_triliteral	4	f5	1	1	0	0	nnnn	nnnn	last	J	1	1	0	98058
@@ -3800,16 +3799,16 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1985325	4Q34	Deuteronomy	25	15	>RK[	J>RJKW	>RJK			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יאריכו		hiph_triliteral	2	f6_9	0	0	0	0	nnnn	nnnn	last	J	1	1	0	107073
 1985668	4Q34	Deuteronomy	28	29	YLX[	TYLJX	YLJX			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תצליח		hiph_triliteral	3	f11	0	0	0	0	nnnn	nnnn	last	J	1	1	0	108659
 1986020	4Q35	Deuteronomy	1	17	NKR[	TKJRW	KJR			hif	impf	pl	m	p2	verb					nnnnn	nnnnn	תכירו		hiph_triliteral	13	f1	0	0	0	0	nnn	nnn	last	J	1	1	0	93136
-1986046	4Q35	Deuteronomy	1	17	QRB[	TQRJBWN	QRJB			hif	impf	pl	m	p2	verb	N				nnnnnnn	nnnnnnn	תקריבון		hiph_triliteral	14	f1	1	0	0	0	nnnn	nnnn	last	J	1	1	0	93165
+1986046	4Q35	Deuteronomy	1	17	QRB[	TQRJBWN	QRJB			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תקריבון		hiph_triliteral	14	f1	0	0	0	0	nnnn	nnnn	last	J	1	1	0	93165
 1986435	4Q35	Deuteronomy	1	45	>ZN[	H>ZJN	>ZJN			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	האזין		hiph_triliteral	6	f5_6	0	0	0	0	nnnn	nnnn	last	J	1	1	0	93737
 1986544	4Q35	Deuteronomy	2	28	CBR=[	TCBJRNJ	CBJR			hif	impf	sg	m	p2	verb	NJ				nnnnnnn	nnnnnnn	תשבירני		hiph_triliteral	1	f7	1	0	0	0	nnnn	nnnn	last	J	1	1	0	94274
 1987697	4Q37	Deuteronomy	5	5	NGD[	HGJD	GJD			hif	infc				verb				L	nnnn	nnnn	הגיד		hiph_triliteral	6	1	0	1	0	0	nnn	nnn	last	J	1	1	0	96396
 1988959	4Q37	Deuteronomy	32	8	NXL[	HNXJL	NXJL			hif	infc				verb				B	nnnnr	nnnnn	הנחיל		hiph_triliteral	13	12	0	1	0	0	nnnn	nnnn	last	J	1	-	0	-
-1989226	4Q38	Deuteronomy	11	9	>RK[	T>RJKWN	>RJK			hif	impf	pl	m	p2	verb	N				nnnnnnn	nnnnnnn	תאריכון		hiph_triliteral	6	f2	1	0	0	0	nnnn	nnnn	last	J	1	1	0	99778
+1989226	4Q38	Deuteronomy	11	9	>RK[	T>RJKWN	>RJK			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תאריכון		hiph_triliteral	6	f2	0	0	0	0	nnnn	nnnn	last	J	1	1	0	99778
 1989746	4Q38a	Deuteronomy	20	12	CLM[	TCLJM	CLJM			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תשלים		hiph_triliteral	7	f2_3	0	0	0	0	nnnn	nnnn	last	J	1	1	0	104591
 1990266	4Q38a	Deuteronomy	21	16	NXL[	HNXJL	NXJL			hif	infc				verb					rnnnn	nnnnn	הנחיל		hiph_triliteral	1	f8	0	0	0	0	rnnn	nnnn	last	J	1	1	0	105117
 1991232	4Q41	Deuteronomy	5	5	NGD[	HGJD	GJD			hif	infc				verb				L	nnnn	nnnn	הגיד		hiph_triliteral	10	2	0	1	0	0	nnn	nnn	last	J	1	1	0	96396
-1991504	4Q41	Deuteronomy	5	16	>RK[	J>RJKWN	>RJK			hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn	יאריכון		hiph_triliteral	8	4	1	0	0	0	nnnn	nnnn	last	J	1	1	0	96621
+1991504	4Q41	Deuteronomy	5	16	>RK[	J>RJKWN	>RJK			hif	impf	pl	m	p3	verb					nnnnnnn	nnnnnnn	יאריכון		hiph_triliteral	8	4	0	0	0	0	nnnn	nnnn	last	J	1	1	0	96621
 1992251	4Q42	Deuteronomy	28	15	NFG[	HFJGWK	FJG			hif	perf	pl		p3	verb	K			W	nnnnnn	nnnnnn	השיגוך		hiph_triliteral	3	f8	1	1	0	0	nnn	nnn	last	J	1	1	0	108418
 1992888	4Q44	Deuteronomy	32	39	NYL[	MYJL	YJL			hif	ptca	sg	m		verb					nnnr	nnnn	מציל		hiph_triliteral	8	f2_5i	0	0	0	0	nnn	nnn	last	J	1	1	0	111959
 1993005	4Q45	Deuteronomy	7	2	XRM[	TXRJM	XRJM			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תחרים		hiph_triliteral	1	f2	0	0	0	0	nnnn	nnnn	last	J	1	1	0	97473
@@ -3848,7 +3847,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2010297	4Q51	2_Samuel	24	20	CQP[	JCQP	CQP			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	ישקף		hiph_triliteral	6	f164_165	0	1	0	0	nnn	nnn	last		0	0	0	175916
 2011286	4Q52	1_Samuel	16	10	<BR[	J<BR	<BR			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יעבר		hiph_triliteral	8	f4	0	1	0	0	nnn	nnn	last		0	0	0	150478
 2012180	4Q52	1_Samuel	23	9	XRC=[	MXRJC	XRJC			hif	ptca	sg	m		verb					nnnnn	nnnnn	מחריש		hiph_triliteral	1	f10_23	0	0	0	0	nnnn	nnnn	last	J	1	1	0	155508
-2012228	4Q52	1_Samuel	23	11	NGD[	HGJDH	GJD			hif	impv	sg	m		verb	H				nnnnn	nnnnn	הגידה		hiph_triliteral	3	f10_23	1	0	0	0	nnn	nnn	last	J	1	0	0	155559
+2012228	4Q52	1_Samuel	23	11	NGD[	HGJDH	GJD			hif	impv	sg	m		verb					nnnnn	nnnnn	הגידה		hiph_triliteral	3	f10_23	0	0	0	0	nnn	nnn	last	J	1	0	0	155559
 2012635	4Q53	2_Samuel	14	11	CMD[	JCMJDW	CMJD			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	ישמידו		hiph_triliteral	6	f2_5i	0	0	0	0	nnnn	nnnn	last	J	1	1	0	168268
 2013285	4Q53	2_Samuel	15	2	CKM[	HCKJM	CKJM			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	השכים		hiph_triliteral	21	f5ii_7i	0	1	0	0	nnnn	nnnn	last	J	1	1	0	168899
 2013592	4Q53	2_Samuel	15	14	NDX[	HDJX	DJX			hif	perf	sg	m	p3	verb				W	nnnn	nnnn	הדיח		hiph_triliteral	16	f7ii_11	0	1	0	0	nnn	nnn	last	J	1	1	0	169198
@@ -3915,13 +3914,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2041530	4Q81	Jonah	1	7	NPL[	JPJLW	PJL			hif	wayq	pl	m	p3	verb				W	nnnnn	nnnnn	יפילו		hiph_triliteral	4	1	0	1	0	0	nnn	nnn	last	J	1	1	0	298718
 2041587	4Q81	Jonah	1	10	NGD[	HGJD	GJD			hif	perf	sg	m	p3	verb					nnnn	nnnn	הגיד		hiph_triliteral	4	2	0	0	0	0	nnn	nnn	last	J	1	1	0	298801
 2044395	4Q82	Amos	4	7	MVR[	>MVJR	MVJR			hif	impf	sg		p1	verb					nnnnn	nnnnn	אמטיר		hiph_triliteral	18	f47ai_48	0	0	0	0	nnnn	nnnn	last	J	1	1	0	296372
-2044689	4Q82	Amos	6	3	NGC[	TGJCWN	GJC			hif	wayq	pl	m	p2	verb	N			W	nnnnnn	nnnnnn	תגישון		hiph_triliteral	4	f47b+51_58	1	1	0	0	nnn	nnn	last	J	1	1	0	296994
+2044689	4Q82	Amos	6	3	NGC[	TGJCWN	GJC			hif	wayq	pl	m	p2	verb				W	nnnnnn	nnnnnn	תגישון		hiph_triliteral	4	f47b+51_58	0	1	0	0	nnn	nnn	last	J	1	1	0	296994
 2044764	4Q82	Amos	6	8	T>B=[	MT>JB	T>JB			hif	ptca	sg	m		verb					rnnnn	nnnnn	מתאיב		hiph_triliteral	10	f47b+51_58	0	0	0	0	rnnn	nnnn	last	J	1	-	0	-
-2045232	4Q82	Amos	8	5	CBR=[	NCBJM	CB			hif	impf	pl		p1	verb		JM		W	nnnnn	nnnnn	נשבים		hiph_triliteral	22	f52b_54b+56b+59_64	0	1	0	1	nn	nn	last		0	1	0	297584
-2045896	4Q82	Jonah	1	8	NGD[	HGJDH	GJD			hif	impv	sg	m		verb	H				nnnnn	nnnnn	הגידה		hiph_triliteral	14	f76_78i+79_81	1	0	0	0	nnn	nnn	last	J	1	1	0	298729
+2045232	4Q82	Amos	8	5	CBR=[	NCBJM	CBJM			hif	impf	pl		p1	verb				W	nnnnn	nnnnn	נשבים		hiph_triliteral	22	f52b_54b+56b+59_64	0	1	0	0	nnnn	nnnn	last	J	1	1	0	297584
+2045896	4Q82	Jonah	1	8	NGD[	HGJDH	GJD			hif	impv	sg	m		verb					nnnnn	nnnnn	הגידה		hiph_triliteral	14	f76_78i+79_81	0	0	0	0	nnn	nnn	last	J	1	1	0	298729
 2045976	4Q82	Jonah	2	5	NBV[	HBJV	BJV			hif	infc				verb				L	nnnn	nnnn	הביט		hiph_triliteral	4	f78ii+82_87	0	1	0	0	nnn	nnn	last	J	1	1	0	299002
 2046145	4Q82	Jonah	4	6	NYL[	HYL	YL			hif	infc				verb				L	nnn	nnn	הצל		hiph_triliteral	3	f88_91i	0	1	0	0	nn	nn	last		0	1	0	299408
-2046917	4Q83	Psalms	5	10	XLQ=[	JXLJQWN	XLJQ			hif	impf	pl	m	p3	verb	N				rnnnnnn	nnnnnnn	יחליקון		hiph_triliteral	2	f1	1	0	0	0	rnnn	nnnn	last	J	1	1	0	311133
+2046917	4Q83	Psalms	5	10	XLQ=[	JXLJQWN	XLJQ			hif	impf	pl	m	p3	verb					rnnnnnn	nnnnnnn	יחליקון		hiph_triliteral	2	f1	0	0	0	0	rnnn	nnnn	last	J	1	1	0	311133
 2046919	4Q83	Psalms	5	11	>CM[	H>CJMW	>CJM			hif	impv	sg	m		verb	W				nnnnnn	nnnnnn	האשימו		hiph_triliteral	2	f1	1	0	0	0	nnnn	nnnn	last	J	1	1	0	311134
 2047267	4Q83	Psalms	35	2	XZQ[	HXZQ	XZQ			hif	impv	sg	m		verb					nnnn	nnnn	החזק		hiph_triliteral	3	f5	0	0	0	0	nnn	nnn	last		0	0	0	315808
 2047644	4Q83	Psalms	38	17	GDL[	JGDJLW	GDJL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יגדילו		hiph_triliteral	2	f9ii	0	0	0	0	nnnn	nnnn	last	J	1	1	0	316789
@@ -3939,8 +3938,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2049053	4Q84	Psalms	102	27	XLP[	TXLJPM	XLJP			hif	impf	sg	m	p2	verb	M				nnnnnn	nnnnnn	תחליפם		hiph_triliteral	5	f15iii+20_22	1	0	0	0	nnnn	nnnn	last	J	1	1	0	327994
 2049120	4Q84	Psalms	103	5	FB<[	MFBJ<	FBJ<			hif	ptca	sg	m		verb				H	nnnnn	nnnnn	משביע		hiph_triliteral	3	f15iv+21ii_24	0	1	0	0	nnnn	nnnn	last	J	1	1	0	328054
 2049177	4Q84	Psalms	103	12	RXQ[	HRXJQ	RXJQ			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הרחיק		hiph_triliteral	2	f15v+25i	0	0	0	0	nnnn	nnnn	last	J	1	1	0	328125
-2049449	4Q84	Psalms	118	25	YLX[	HYLJXH	YLJX			hif	impv	sg	m		verb	H				nnnnnn	nnnnnn	הצליחה		hiph_triliteral	15	f30ii+32i+33_34	1	0	0	0	nnnn	nnnn	last	J	1	1	0	331287
-2049563	4Q85	Psalms	17	1	>ZN[	H>ZJNH	>ZJN			hif	impv	sg	m		verb	H				rnnnnr	nnnnnn	האזינה		hiph_triliteral	2	f2	1	0	0	0	rnnn	nnnn	last	J	1	1	0	312498
+2049449	4Q84	Psalms	118	25	YLX[	HYLJXH	YLJX			hif	impv	sg	m		verb					nnnnnn	nnnnnn	הצליחה		hiph_triliteral	15	f30ii+32i+33_34	0	0	0	0	nnnn	nnnn	last	J	1	1	0	331287
+2049563	4Q85	Psalms	17	1	>ZN[	H>ZJNH	>ZJN			hif	impv	sg	m		verb					rnnnnr	nnnnnn	האזינה		hiph_triliteral	2	f2	0	0	0	0	rnnn	nnnn	last	J	1	1	0	312498
 2049890	4Q85	Psalms	27	14	>MY[	J>MY	>MY			hif	impf	sg	m	p3	verb				W	nnnn	nnnn	יאמץ		hiph_triliteral	3	f6_7	0	1	0	0	nnn	nnn	last		0	0	0	314573
 2050360	4Q85	Psalms	50	19	YMD[	TYMJD	YMJD			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תצמיד		hiph_triliteral	24	f15ii_16	0	0	0	0	nnnn	nnnn	last	J	1	1	0	318825
 2050396	4Q85	Psalms	50	22	NYL[	MYJL	YJL			hif	ptca	sg	m		verb					nnnn	nnnn	מציל		hiph_triliteral	28	f15ii_16	0	0	0	0	nnn	nnn	last	J	1	1	0	318858
@@ -3972,7 +3971,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2056489	4Q107	Song_of_songs	2	12	NG<[	HGJ<	GJ<			hif	perf	sg	m	p3	verb					nnnn	nnnn	הגיע		hiph_triliteral	4	f1	0	0	0	0	nnn	nnn	last	J	1	1	0	357942
 2056704	4Q107	Song_of_songs	4	2	T>M[	MT>MWT	T>M			hif	ptca	pl	f		verb		WT			nnnnnn	nnnnnn	מתאמות		hiph_triliteral	4	f2ii	0	0	0	1	nnn	nnn	last		0	1	0	358252
 2057627	4Q111	Lamentations	1	9	GDL[	HGDJL	GDJL			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הגדיל		hiph_triliteral	10	2	0	0	0	0	nnnn	nnnn	last	J	1	1	0	363702
-2057655	4Q111	Lamentations	1	11	NBV[	HBJVH	BJV			hif	impv	sg	m		verb	H			W	nnnnn	nnnnn	הביטה		hiph_triliteral	1	3	1	1	0	0	nnn	nnn	last	J	1	1	0	363738
+2057655	4Q111	Lamentations	1	11	NBV[	HBJVH	BJV			hif	impv	sg	m		verb				W	nnnnn	nnnnn	הביטה		hiph_triliteral	1	3	0	1	0	0	nnn	nnn	last	J	1	1	0	363738
 2057716	4Q111	Lamentations	1	14	KCL[	HKCJL	KCJL			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הכשיל		hiph_triliteral	5	3	0	0	0	0	nnnn	nnnn	last	J	1	1	0	363794
 2059470	4Q112	Daniel	8	4	GDL[	HGDJL	GDJL			hif	perf	sg	m	p3	verb				W	nnnnn	nnnnn	הגדיל		hiph_triliteral	17	f14	0	1	0	0	nnnn	nnnn	last	J	1	1	0	375283
 2060765	4Q113	Daniel	8	4	GDL[	HGDL	GDL			hif	perf	sg	m	p3	verb				W	nnnn	nnnn	הגדל		hiph_triliteral	9	f16_18i+19	0	1	0	0	nnn	nnn	last		0	1	0	375283
@@ -3982,12 +3981,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2061297	4Q114	Daniel	11	2	<CR[	J<CJR	<CJR			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יעשיר		hiph_triliteral	16	2	0	0	0	0	nnnn	nnnn	last	J	1	1	0	376953
 2061336	4Q114	Daniel	11	14	<MD[	H<MJD	<MJD			hif	infc				verb				L	nnnnn	nnnnn	העמיד		hiph_triliteral	13	3	0	1	0	0	nnnn	nnnn	last	J	1	1	0	377232
 2061411	4Q114	Daniel	11	17	CXT[	HCXJTW	CXJT			hif	infc				verb	W			L	nnnnnn	nnnnnn	השחיתו		hiph_triliteral	16	3	1	1	0	0	nnnn	nnnn	last	J	1	1	0	377305
-2064841	4Q129	Deuteronomy	6	2	>RK[	J>RKWN	>RK			hif	impf	pl	m	p3	verb	N				nnnnnn	nnnnnn	יארכון		hiph_triliteral	19	f1R	1	0	0	0	nnn	nnn	last		0	1	0	97017
+2064841	4Q129	Deuteronomy	6	2	>RK[	J>RKWN	>RK			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יארכון		hiph_triliteral	19	f1R	0	0	0	0	nnn	nnn	last		0	1	0	97017
 2067605	4Q137	Deuteronomy	5	5	NGD[	HGJD	GJD			hif	infc				verb				L	nnnn	nnnn	הגיד		hiph_triliteral	12	f1	0	1	0	0	nnn	nnn	last	J	1	1	0	96396
-2068665	4Q138	Deuteronomy	11	9	>RK[	T>RKWN	>RK			hif	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תארכון		hiph_triliteral	21	f1	1	0	0	0	nnn	nnn	last		0	1	0	99778
-2069526	4Q140	Deuteronomy	6	2	>RK[	J>RKWN	>RK			hif	impf	pl	m	p3	verb	N				nnnnnn	nnnnnn	יארכון		hiph_triliteral	27	f1	1	0	0	0	nnn	nnn	last		0	1	0	97017
+2068665	4Q138	Deuteronomy	11	9	>RK[	T>RKWN	>RK			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תארכון		hiph_triliteral	21	f1	0	0	0	0	nnn	nnn	last		0	1	0	99778
+2069526	4Q140	Deuteronomy	6	2	>RK[	J>RKWN	>RK			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יארכון		hiph_triliteral	27	f1	0	0	0	0	nnn	nnn	last		0	1	0	97017
 2069637	4Q141	Deuteronomy	32	16	K<S[	JK<JSWNJ	K<JS			hif	impf	pl	m	p3	verb	NJ				rnnnrnnn	nnnnnnnn	יכעיסוני		hiph_triliteral	9	f1i	1	0	0	0	rnnn	nnnn	last	J	1	1	0	111664
-2073461	5Q6	Lamentations	5	1	NBV[	HBJVH	BJV			hif	impv	sg	m		verb	H				nnnnn	nnnnn	הביטה		hiph_triliteral	5	f1iv	1	0	0	0	nnn	nnn	last	J	1	0	1	365284
+2073461	5Q6	Lamentations	5	1	NBV[	HBJVH	BJV			hif	impv	sg	m		verb					nnnnn	nnnnn	הביטה		hiph_triliteral	5	f1iv	0	0	0	0	nnn	nnn	last	J	1	0	1	365284
 2073970	6Q2	Leviticus	8	13	QRB[	JQRB	QRB			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יקרב		hiph_triliteral	2	f1	0	1	0	0	nnn	nnn	last		0	0	0	56273
 2077369	8Q3	Deuteronomy	5	5	NGD[	HGD	GD			hif	infc				verb				L	nnn	nnn	הגד		hiph_triliteral	19	f17_25	0	1	0	0	nn	nn	last		0	1	0	96396
 2078514	8Q4	Deuteronomy	11	9	>RK[	T>RJKW	>RJK			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תאריכו		hiph_triliteral	26	f1	0	0	0	0	nnnn	nnnn	last	J	1	1	0	99778
@@ -4031,19 +4030,19 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2086345	11Q5	Psalms	144	7	NYL[	HYJLNJ	YJL			hif	impv	sg	m		verb	NJ			W	nnnnrr	nnnnnn	הצילני		hiph_triliteral	17	23	1	1	0	0	nnn	nnn	last	J	1	1	0	335139
 2086362	11Q5	Psalms	142	5	NBV[	>BJVH	BJV			hif	impf	sg		p1	verb					nnnnn	nnnnn	אביטה		hiph_triliteral	1	25	0	0	0	0	nnn	nnn	last	J	1	0	0	334870
 2086369	11Q5	Psalms	142	5	NKR[	MKJR	KJR			hif	ptca	sg	m		verb					nnnn	nnnn	מכיר		hiph_triliteral	1	25	0	0	0	0	nnn	nnn	last	J	1	1	0	334877
-2086390	11Q5	Psalms	142	7	QCB[	HQCJBH	QCJB			hif	impv	sg	m		verb	H				nnnnnn	nnnnnn	הקשיבה		hiph_triliteral	3	25	1	0	0	0	nnnn	nnnn	last	J	1	1	0	334896
+2086390	11Q5	Psalms	142	7	QCB[	HQCJBH	QCJB			hif	impv	sg	m		verb					nnnnnn	nnnnnn	הקשיבה		hiph_triliteral	3	25	0	0	0	0	nnnn	nnnn	last	J	1	1	0	334896
 2086396	11Q5	Psalms	142	7	NYL[	HYJLNJ	YJL			hif	impv	sg	m		verb	NJ				nnnnnn	nnnnnn	הצילני		hiph_triliteral	4	25	1	0	0	0	nnn	nnn	last	J	1	1	0	334902
 2086412	11Q5	Psalms	142	8	KTR[	JKTJRW	KTJR			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יכתירו		hiph_triliteral	5	25	0	0	0	0	nnnn	nnnn	last	J	1	1	0	334917
-2086425	11Q5	Psalms	143	1	>ZN[	H>ZJNH	>ZJN			hif	impv	sg	m		verb	H				nnnnnn	nnnnnn	האזינה		hiph_triliteral	7	25	1	0	0	0	nnnn	nnnn	last	J	1	1	0	334928
+2086425	11Q5	Psalms	143	1	>ZN[	H>ZJNH	>ZJN			hif	impv	sg	m		verb					nnnnnn	nnnnnn	האזינה		hiph_triliteral	7	25	0	0	0	0	nnnn	nnnn	last	J	1	1	0	334928
 2086504	11Q5	Psalms	143	7	STR[	TSTR	STR			hif	impf	sg	m	p2	verb					nnnn	nnnn	תסתר		hiph_triliteral	13	25	0	0	0	0	nnn	nnn	last		0	0	0	335000
 2087135	11Q7	Psalms	12	5	GBR[	NGBJR	GBJR			hif	impf	pl		p1	verb					nnnnn	nnnnn	נגביר		hiph_triliteral	1	f4_7	0	0	0	0	nnnn	nnnn	last	J	1	1	0	312102
 2087206	11Q7	Psalms	13	2	STR[	TSTJR	STJR			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תסתיר		hiph_triliteral	6	f4_7	0	0	0	0	nnnn	nnnn	last	J	1	1	0	312168
 2087274	11Q7	Psalms	14	1	T<B[	HT<JBW	T<JB			hif	perf	pl		p3	verb					rnnnnr	nnnnnn	התעיבו		hiph_triliteral	11	f4_7	0	0	0	0	rnnn	nnnn	last	J	1	1	0	312232
 2087828	11Q8	Psalms	18	28	CPL[	TCPJL	CPJL			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תשפיל		hiph_triliteral	3	f3	0	0	0	0	nnnn	nnnn	last	J	1	1	0	312950
-2089374	Xq2	Deuteronomy	6	2	>RK[	J>RJKWN	>RJK			hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn	יאריכון		hiph_triliteral	21	1	1	0	0	0	nnnn	nnnn	last	J	1	1	0	97017
+2089374	Xq2	Deuteronomy	6	2	>RK[	J>RJKWN	>RJK			hif	impf	pl	m	p3	verb					nnnnnnn	nnnnnnn	יאריכון		hiph_triliteral	21	1	0	0	0	0	nnnn	nnnn	last	J	1	1	0	97017
 2089575	Xq3	Deuteronomy	5	5	NGD[	HGJD	GJD			hif	infc				verb				L	nnnn	nnnn	הגיד		hiph_triliteral	12	1	0	1	0	0	nnn	nnn	last	J	1	1	0	96396
-2089805	Xq3	Deuteronomy	5	16	>RK[	J>RJKWN	>RJK			hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn	יאריכון		hiph_triliteral	26	1	1	0	0	0	nnnn	nnnn	last	J	1	1	0	96621
-2090023	Mur1	Genesis	32	30	NGD[	HGJDH	GJD			hif	impv	sg	m		verb	H				nnnnn	nnnnn	הגידה		hiph_triliteral	1	f1ii_2i	1	0	0	0	nnn	nnn	last	J	1	1	0	18002
+2089805	Xq3	Deuteronomy	5	16	>RK[	J>RJKWN	>RJK			hif	impf	pl	m	p3	verb					nnnnnnn	nnnnnnn	יאריכון		hiph_triliteral	26	1	0	0	0	0	nnnn	nnnn	last	J	1	1	0	96621
+2090023	Mur1	Genesis	32	30	NGD[	HGJDH	GJD			hif	impv	sg	m		verb					nnnnn	nnnnn	הגידה		hiph_triliteral	1	f1ii_2i	0	0	0	0	nnn	nnn	last	J	1	1	0	18002
 2090357	Mur1	Exodus	4	31	>MN[	J>MN	>MN			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יאמן		hiph_triliteral	6	f4_5i	0	1	0	0	nnn	nnn	last		0	0	0	30788
 2091907	Mur88	Joel	4	6	RXQ[	HRXJQM	RXJQ			hif	infc				verb	M				nnnnnn	nnnnnn	הרחיקם		hiph_triliteral	27	2	1	0	0	0	nnnn	nnnn	last	J	1	1	0	295126
 2092140	Mur88	Amos	1	9	SGR[	HSGJRM	SGJR			hif	infc				verb	M				nnnnnn	nnnnnn	הסגירם		hiph_triliteral	27	3	1	0	0	0	nnnn	nnnn	last	J	1	1	0	295554
@@ -4066,7 +4065,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2094865	Mur88	Micah	1	16	RXB[	HRXBJ	RXB			hif	impv	sg	f		verb					nnnnr	nnnnn	הרחבי		hiph_triliteral	14	12	0	0	0	0	nnn	nnn	last		0	1	0	299808
 2094978	Mur88	Micah	2	6	NVP[	TVPW	VP			hif	impf	pl	m	p2	verb					nnrr	nnnn	תטפו		hiph_triliteral	23	12	0	0	0	0	nn	nn	last		0	1	0	299915
 2094981	Mur88	Micah	2	6	NVP[	JVPW	VP			hif	impf	pl	m	p3	verb					nnnr	nnnn	יטפו		hiph_triliteral	23	12	0	0	0	0	nn	nn	last		0	1	0	299918
-2095018	Mur88	Micah	2	8	PCV[	TPCVWN	PCV			hif	impf	pl	m	p2	verb	N				rnnnnr	nnnnnn	תפשטון		hiph_triliteral	26	12	1	0	0	0	rnn	nnn	last		0	1	0	299953
+2095018	Mur88	Micah	2	8	PCV[	TPCVWN	PCV			hif	impf	pl	m	p2	verb					rnnnnr	nnnnnn	תפשטון		hiph_triliteral	26	12	0	0	0	0	rnn	nnn	last		0	1	0	299953
 2095062	Mur88	Micah	2	11	NVP[	>VP	VP			hif	impf	sg		p1	verb					nnn	nnn	אטף		hiph_triliteral	30	12	0	0	0	0	nn	nn	last		0	1	0	299994
 2095191	Mur88	Micah	3	4	STR[	JSTR	STR			hif	impf	sg	m	p3	verb				W	rnnn	nnnn	יסתר		hiph_triliteral	39	12	0	1	0	0	rnn	nnn	last		0	0	0	300121
 2095286	Mur88	Micah	3	8	NGD[	HGJD	GJD			hif	infc				verb				L	nnnn	nnnn	הגיד		hiph_triliteral	8	13	0	1	0	0	nnn	nnn	last	J	1	1	0	300212

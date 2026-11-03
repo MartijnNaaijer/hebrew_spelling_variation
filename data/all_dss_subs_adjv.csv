@@ -2201,7 +2201,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1898147	1Qisaa	Isaiah	9	5	<D/	<D	<D			NA	NA	sg	m	NA	subs					nn	nn	עד
 1898148	1Qisaa	Isaiah	9	5	FR/	FR	FR			NA	NA	sg	m	NA	subs					nn	nn	שר
 1898150	1Qisaa	Isaiah	9	5	CLWM/	CLWM	CLWM			NA	NA	sg	m	NA	subs				H	nnnn	nnnn	שלום
-1898153	1Qisaa	Isaiah	9	6	MRBH/	MRBH	MRB			NA	NA	sg	m	NA	subs		H		L	nnnn	nnnn	מרבה
+1898153	1Qisaa	Isaiah	9	6	MRBH/	MRBH	MRBH			NA	NA	sg	m	NA	subs				L	nnnn	nnnn	מרבה
 1898155	1Qisaa	Isaiah	9	6	MFRH/	MFWRH	MFWR			NA	NA	sg	f	NA	subs		H		H	nnnnn	nnnnn	משורה
 1898158	1Qisaa	Isaiah	9	6	CLWM/	CLWM	CLWM			NA	NA	sg	m	NA	subs				WL	nnnn	nnnn	שלום
 1898159	1Qisaa	Isaiah	9	6	>JN/	>JN	>JN			NA	NA	sg	m	NA	subs					nnn	nnn	אין
@@ -3377,7 +3377,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901904	1Qisaa	Isaiah	21	7	QCB/	QCB	QCB			NA	NA	sg	m	NA	subs					nnn	nnn	קשב
 1901905	1Qisaa	Isaiah	21	7	RB/	RB	RB			NA	NA	sg	m	NA	adjv					nn	nn	רב
 1901906	1Qisaa	Isaiah	21	7	QCB/	QCB	QCB			NA	NA	sg	m	NA	subs					nnn	nnn	קשב
-1901911	1Qisaa	Isaiah	21	8	R>H/	R>H	R>			NA	NA	sg	m	NA	subs		H		H	nnn	nnn	ראה
+1901911	1Qisaa	Isaiah	21	8	R>H/	R>H	R>H			NA	NA	sg	m	NA	subs				H	nnn	nnn	ראה
 1901913	1Qisaa	Isaiah	21	8	MYPH/	MYPH	MYP			NA	NA	sg	m	NA	subs		H			nnnn	nnnn	מצפה
 1901917	1Qisaa	Isaiah	21	8	TMJD/	TMJD	TMJD			NA	NA	NA	m	NA	subs					nnnn	nnnn	תמיד
 1901921	1Qisaa	Isaiah	21	8	MCMRT/	MCMRTJ	MCMRT			NA	NA	sg	f	NA	subs	J				nnnnnn	nnnnnn	משמרתי
@@ -4124,7 +4124,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1904216	1Qisaa	Isaiah	28	15	BRJT/	BRJT	BRJT			NA	NA	sg	f	NA	subs					nnnn	nnnn	ברית
 1904218	1Qisaa	Isaiah	28	15	MWT/	MWT	MWT			NA	NA	sg	m	NA	subs					nnn	nnn	מות
 1904221	1Qisaa	Isaiah	28	15	C>WL/	C>WL	C>WL			NA	NA	sg		NA	subs					nnnn	nnnn	שאול
-1904223	1Qisaa	Isaiah	28	15	XZH=/	XZH	XZ			NA	NA	sg	m	NA	subs		H			nnn	nnn	חזה
+1904223	1Qisaa	Isaiah	28	15	XZH=/	XZH	XZH			NA	NA	sg	m	NA	subs					nnn	nnn	חזה
 1904224	1Qisaa	Isaiah	28	15	CWV=/	CWV	CWV			NA	NA	sg	m	NA	subs					nnn	nnn	שוט
 1904232	1Qisaa	Isaiah	28	15	KZB/	KZB	KZB			NA	NA	sg	m	NA	subs					nnn	nnn	כזב
 1904233	1Qisaa	Isaiah	28	15	MXSH/	MXSNJ	MXS			NA	NA	sg	m	NA	subs	NJ				nnnnn	nnnnn	מחסני
@@ -4855,7 +4855,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1906509	1Qisaa	Isaiah	33	23	NS/	NS	NS			NA	NA	sg	m	NA	subs					nn	nn	נס
 1906512	1Qisaa	Isaiah	33	23	<D==/	<D	<D			NA	NA	sg	m	NA	subs					nn	nn	עד
 1906513	1Qisaa	Isaiah	33	23	CLL/	CLL	CLL			NA	NA	sg	m	NA	subs					nnn	nnn	שלל
-1906514	1Qisaa	Isaiah	33	23	MRBH/	MRWBH	MRWB			NA	NA	sg	m	NA	subs		H			nnnnn	nnnnn	מרובה
+1906514	1Qisaa	Isaiah	33	23	MRBH/	MRWBH	MRWBH			NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מרובה
 1906515	1Qisaa	Isaiah	33	23	PSX=/	PSXJM	PSX			NA	NA	pl	m	NA	adjv		JM			nnnnn	nnnnn	פסחים
 1906517	1Qisaa	Isaiah	33	23	BZ/	BZ	BZ			NA	NA	sg	m	NA	subs					nn	nn	בז
 1906525	1Qisaa	Isaiah	33	24	<M/	<M	<M			NA	NA	sg	m	NA	subs				H	nn	nn	עם
@@ -9017,7 +9017,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1920749	1Q8	Isaiah	28	15	BRJT/	BRJT	BRJT			NA	NA	sg	f	NA	subs					rrrr	nnnn	ברית
 1920751	1Q8	Isaiah	28	15	MWT/	MWT	MWT			NA	NA	sg	m	NA	subs					rrr	nnn	מות
 1920754	1Q8	Isaiah	28	15	C>WL/	C>WL	C>WL			NA	NA	sg		NA	subs					rrrr	nnnn	שאול
-1920756	1Q8	Isaiah	28	15	XZH=/	XZH	XZ			NA	NA	sg	m	NA	subs		H			rrr	nnn	חזה
+1920756	1Q8	Isaiah	28	15	XZH=/	XZH	XZH			NA	NA	sg	m	NA	subs					rrr	nnn	חזה
 1920757	1Q8	Isaiah	28	15	CJV/	CJV	CJV			NA	NA	sg	m	NA	subs					rrr	nnn	שיט
 1920765	1Q8	Isaiah	28	15	KZB/	KZB	KZB			NA	NA	sg	m	NA	subs					rrr	nnn	כזב
 1920766	1Q8	Isaiah	28	15	MXSH/	MXSNW	MXS			NA	NA	sg	m	NA	subs	NW				rrrrr	nnnnn	מחסנו
@@ -30475,7 +30475,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1999067	4Q51	1_Samuel	9	11	N<RH/	N<RWT	N<R			NA	NA	pl	f	NA	subs		WT			rrrrr	nnnnn	נערות
 1999071	4Q51	1_Samuel	9	11	MJM/	MJM	MJ			NA	NA	pl	m	NA	subs		M			rrr	nnn	מים
 1999076	4Q51	1_Samuel	9	11	JC/	JC	JC			NA	NA	NA		NA	subs				H	rr	nn	יש
-1999080	4Q51	1_Samuel	9	11	R>H/	RW>H	RW>			NA	NA	sg	m	NA	subs		H		H	rrrr	nnnn	רואה
+1999080	4Q51	1_Samuel	9	11	R>H/	RW>H	RW>H			NA	NA	sg	m	NA	subs				H	rrrr	nnnn	רואה
 1999085	4Q51	1_Samuel	9	12	N<RH/	N<RWT	N<R			NA	NA	pl		NA	subs		WT		H	rrrrr	nnnnn	נערות
 1999090	4Q51	1_Samuel	9	12	JC/	JC	JC			NA	NA	NA		NA	subs					rr	nn	יש
 1999095	4Q51	1_Samuel	9	16	<M/	<MJ	<M			NA	NA	sg	m	NA	subs	J				rrr	nnn	עמי
@@ -30490,7 +30490,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1999139	4Q51	1_Samuel	9	18	TWK/	TWK	TWK			NA	NA	sg	m	NA	subs				B	rrr	nnn	תוך
 1999141	4Q51	1_Samuel	9	18	<JR/	<JR	<JR			NA	NA	sg	m	NA	subs				H	rnn	nnn	עיר
 1999148	4Q51	1_Samuel	9	18	BJT/	BJT	BJT			NA	NA	sg	m	NA	subs					rrr	nnn	בית
-1999150	4Q51	1_Samuel	9	18	R>H/	RW>H	RW>			NA	NA	sg	m	NA	subs		H		H	rrrr	nnnn	רואה
+1999150	4Q51	1_Samuel	9	18	R>H/	RW>H	RW>H			NA	NA	sg	m	NA	subs				H	rrrr	nnnn	רואה
 1999164	4Q51	1_Samuel	9	19	PNH/	PNJ	PN			NA	NA	pl	m	NA	subs		J		L	rrr	nnn	פני
 1999166	4Q51	1_Samuel	9	19	BMH/	BMH	BM			NA	NA	sg	f	NA	subs		H		H	rrr	nnn	במה
 1999171	4Q51	1_Samuel	9	19	JWM/	JWM	JWM			NA	NA	sg	m	NA	subs				H	rrr	nnn	יום
@@ -33193,7 +33193,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2011161	4Q52	1_Samuel	16	4	ZQN/	ZQNJ	ZQN			NA	NA	pl	m	NA	adjv		J			rrrr	nnnn	זקני
 2011163	4Q52	1_Samuel	16	4	<JR/	<JR	<JR			NA	NA	sg	f	NA	subs				H	rrr	nnn	עיר
 2011169	4Q52	1_Samuel	16	4	CLWM/	CLM	CLM			NA	NA	sg	m	NA	subs				H	rrr	nnn	שלם
-2011172	4Q52	1_Samuel	16	4	R>H/	R>H	R>			NA	NA	sg	m	NA	subs		H		H	nnn	nnn	ראה
+2011172	4Q52	1_Samuel	16	4	R>H/	R>H	R>H			NA	NA	sg	m	NA	subs				H	nnn	nnn	ראה
 2011176	4Q52	1_Samuel	16	5	CLWM/	CLM	CLM			NA	NA	sg	m	NA	subs					rrr	nnn	שלם
 2011187	4Q52	1_Samuel	16	5	JWM/	JWM	JWM			NA	NA	sg		NA	subs				H	rrr	nnn	יום
 2011194	4Q52	1_Samuel	16	5	BN/	BNJW	BN			NA	NA	pl	m	NA	subs	W	J			rrrr	nnnn	בניו
@@ -35877,7 +35877,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2020214	4Q57	Isaiah	9	5	<D/	<D	<D			NA	NA	sg	m	NA	subs				>BJ	rr	nn	עד
 2020215	4Q57	Isaiah	9	5	FR/	FR	FR			NA	NA	sg	m	NA	subs					rr	nn	שר
 2020216	4Q57	Isaiah	9	5	CLWM/	CLWM	CLWM			NA	NA	sg	m	NA	subs					rrrr	nnnn	שלום
-2020219	4Q57	Isaiah	9	6	MRBH/	MRBH	MRB			NA	NA	sg	m	NA	subs		H		L	rrrr	nnnn	מרבה
+2020219	4Q57	Isaiah	9	6	MRBH/	MRBH	MRBH			NA	NA	sg	m	NA	subs				L	rrrr	nnnn	מרבה
 2020221	4Q57	Isaiah	9	6	MFRH/	MFRH	MFR			NA	NA	sg	f	NA	subs		H		H	rrrn	nnnn	משרה
 2020224	4Q57	Isaiah	9	6	CLWM/	CLWM	CLWM			NA	NA	sg	m	NA	subs				WL	nnnn	nnnn	שלום
 2020225	4Q57	Isaiah	9	6	>JN/	>JN	>JN			NA	NA	sg	m	NA	subs					nnn	nnn	אין
@@ -41401,7 +41401,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2039947	4Q78	Amos	7	10	>RY/	>RY	>RY			NA	NA	sg		NA	subs				H	rrr	nnn	ארץ
 2039951	4Q78	Amos	7	10	KL/	KL	KL			NA	NA	sg	m	NA	subs					rr	nn	כל
 2039952	4Q78	Amos	7	10	DBR/	DBRJW	DBR			NA	NA	pl	m	NA	subs	W	J			rrrrr	nnnnn	דבריו
-2039962	4Q78	Amos	7	12	XZH=/	XZH	XZ			NA	NA	sg	m	NA	subs		H			rrr	nnn	חזה
+2039962	4Q78	Amos	7	12	XZH=/	XZH	XZH			NA	NA	sg	m	NA	subs					rrr	nnn	חזה
 2039967	4Q78	Amos	7	12	>RY/	>RY	>RY			NA	NA	sg		NA	subs					rrr	nnn	ארץ
 2039972	4Q78	Amos	7	12	LXM/	LXM	LXM			NA	NA	sg		NA	subs					rrr	nnn	לחם
 2039982	4Q78	Amos	7	13	<WD/	<WD	<WD			NA	NA	NA	m	NA	subs					rrr	nnn	עוד
@@ -42739,7 +42739,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2045006	4Q82	Amos	7	10	DBR/	DBRJW	DBR			NA	NA	pl	m	NA	subs	W	J			rrrrr	nnnnn	דבריו
 2045013	4Q82	Amos	7	11	XRB/	XRB	XRB			NA	NA	sg	f	NA	subs				B	rrr	nnn	חרב
 2045022	4Q82	Amos	7	11	>DMH/	>DMTW	>DM			NA	NA	sg	f	NA	subs	W	T			rrrrr	nnnnn	אדמתו
-2045029	4Q82	Amos	7	12	XZH=/	XZH	XZ			NA	NA	sg	m	NA	subs		H			rrr	nnn	חזה
+2045029	4Q82	Amos	7	12	XZH=/	XZH	XZH			NA	NA	sg	m	NA	subs					rrr	nnn	חזה
 2045034	4Q82	Amos	7	12	>RY/	>RY	>RY			NA	NA	sg		NA	subs					rrr	nnn	ארץ
 2045039	4Q82	Amos	7	12	LXM/	LXM	LXM			NA	NA	sg		NA	subs					rrr	nnn	לחם
 2045049	4Q82	Amos	7	13	<WD/	<WD	<WD			NA	NA	NA	m	NA	subs					rrr	nnn	עוד
@@ -47649,7 +47649,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2063700	4Q128	Deuteronomy	11	14	MVR/	MVR	MVR			NA	NA	sg	m	NA	subs					rrr	nnn	מטר
 2063701	4Q128	Deuteronomy	11	14	>RY/	>RYKM	>RY			NA	NA	sg		NA	subs	KM				rrrrr	nnnnn	ארצכם
 2063703	4Q128	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	nnr	nnn	עתו
-2063704	4Q128	Deuteronomy	11	14	JWRH/	JWRH	JWR			NA	NA	sg	m	NA	subs		H			nnnn	nnnn	יורה
+2063704	4Q128	Deuteronomy	11	14	JWRH/	JWRH	JWRH			NA	NA	sg	m	NA	subs					nnnn	nnnn	יורה
 2063706	4Q128	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	nnnnn	nnnnn	מלקוש
 2063709	4Q128	Deuteronomy	11	14	DGN/	DGNKH	DGN			NA	NA	sg	m	NA	subs	KH				nrrrr	nnnnn	דגנכה
 2063711	4Q128	Deuteronomy	11	14	TJRWC/	TJRWCKH	TJRWC			NA	NA	sg	m	NA	subs	KH			W	rrrrrrr	nnnnnnn	תירושכה
@@ -48174,7 +48174,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2065545	4Q130	Deuteronomy	11	14	MVR/	MVR	MVR			NA	NA	sg	m	NA	subs					nnn	nnn	מטר
 2065546	4Q130	Deuteronomy	11	14	>RY/	>RYKM	>RY			NA	NA	sg		NA	subs	KM				nnnnn	nnnnn	ארצכם
 2065548	4Q130	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	nnn	nnn	עתו
-2065549	4Q130	Deuteronomy	11	14	JWRH/	JRH	JR			NA	NA	sg	m	NA	subs		H			nnn	nnn	ירה
+2065549	4Q130	Deuteronomy	11	14	JWRH/	JRH	JRH			NA	NA	sg	m	NA	subs					nnn	nnn	ירה
 2065551	4Q130	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	nnnnn	nnnnn	מלקוש
 2065555	4Q130	Deuteronomy	11	14	DGN/	DGNK	DGN			NA	NA	sg	m	NA	subs	K				nnrr	nnnn	דגנך
 2065557	4Q130	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC			NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך
@@ -48220,7 +48220,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2065722	4Q131	Deuteronomy	11	13	KL/	KL	KL			NA	NA	sg	m	NA	subs				B	nn	nn	כל
 2065723	4Q131	Deuteronomy	11	13	LBB/	LBBKM	LBB			NA	NA	sg	m	NA	subs	KM				nnnrr	nnnnn	לבבכם
 2065726	4Q131	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	rrr	nnn	עתו
-2065727	4Q131	Deuteronomy	11	14	JWRH/	JWRH	JWR			NA	NA	sg	m	NA	subs		H			rrrr	nnnn	יורה
+2065727	4Q131	Deuteronomy	11	14	JWRH/	JWRH	JWRH			NA	NA	sg	m	NA	subs					rrrr	nnnn	יורה
 2065729	4Q131	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	nnnnr	nnnnn	מלקוש
 2065732	4Q131	Deuteronomy	11	14	DGN/	DGNK	DGN			NA	NA	sg	m	NA	subs	K				rrrr	nnnn	דגנך
 2065737	4Q131	Deuteronomy	11	16	LBB/	LBBKM	LBB			NA	NA	sg	m	NA	subs	KM				rrrrr	nnnnn	לבבכם
@@ -48567,7 +48567,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2066965	4Q136	Deuteronomy	11	14	MVR/	MVR	MVR			NA	NA	sg	m	NA	subs					rrr	nnn	מטר
 2066966	4Q136	Deuteronomy	11	14	>RY/	>RYKM	>RY			NA	NA	sg		NA	subs	KM				rrrrr	nnnnn	ארצכם
 2066968	4Q136	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	rrr	nnn	עתו
-2066969	4Q136	Deuteronomy	11	14	JWRH/	JWRH	JWR			NA	NA	sg	m	NA	subs		H			rrrr	nnnn	יורה
+2066969	4Q136	Deuteronomy	11	14	JWRH/	JWRH	JWRH			NA	NA	sg	m	NA	subs					rrrr	nnnn	יורה
 2066971	4Q136	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	rrrrr	nnnnn	מלקוש
 2066974	4Q136	Deuteronomy	11	14	DGN/	DGNK	DGN			NA	NA	sg	m	NA	subs	K				rrrr	nnnn	דגנך
 2066976	4Q136	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC			NA	NA	sg	m	NA	subs	K			W	rrrrr	nnnnn	תירשך
@@ -51125,7 +51125,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2076596	8Q3	Deuteronomy	11	14	MVR/	MVR	MVR			NA	NA	sg	m	NA	subs					nnn	nnn	מטר
 2076597	8Q3	Deuteronomy	11	14	>RY/	>RYKM	>RY			NA	NA	sg		NA	subs	KM				nnnnn	nnnnn	ארצכם
 2076599	8Q3	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	nnn	nnn	עתו
-2076600	8Q3	Deuteronomy	11	14	JWRH/	JWRH	JWR			NA	NA	sg	m	NA	subs		H			nnnn	nnnn	יורה
+2076600	8Q3	Deuteronomy	11	14	JWRH/	JWRH	JWRH			NA	NA	sg	m	NA	subs					nnnn	nnnn	יורה
 2076602	8Q3	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	nnnnn	nnnnn	מלקוש
 2076605	8Q3	Deuteronomy	11	14	DGN/	DGNK	DGN			NA	NA	sg	m	NA	subs	K				rnnn	nnnn	דגנך
 2076607	8Q3	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC			NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך
@@ -51576,7 +51576,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2078636	8Q4	Deuteronomy	11	14	MVR/	MVR	MVR			NA	NA	sg	m	NA	subs					nnn	nnn	מטר
 2078637	8Q4	Deuteronomy	11	14	>RY/	>RYKM	>RY			NA	NA	sg		NA	subs	KM				nnnnn	nnnnn	ארצכם
 2078639	8Q4	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	rrr	nnn	עתו
-2078640	8Q4	Deuteronomy	11	14	JWRH/	JWRH	JWR			NA	NA	sg	m	NA	subs		H			rrrn	nnnn	יורה
+2078640	8Q4	Deuteronomy	11	14	JWRH/	JWRH	JWRH			NA	NA	sg	m	NA	subs					rrrn	nnnn	יורה
 2078642	8Q4	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	nnnnn	nnnnn	מלקוש
 2078645	8Q4	Deuteronomy	11	14	DGN/	DGNK	DGN			NA	NA	sg	m	NA	subs	K				nnnn	nnnn	דגנך
 2078647	8Q4	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC			NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך
@@ -55422,7 +55422,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2091350	Mur4	Deuteronomy	11	14	MVR/	MVR	MVR			NA	NA	sg	m	NA	subs					nnn	nnn	מטר
 2091351	Mur4	Deuteronomy	11	14	>RY/	>RYKM	>RY			NA	NA	sg		NA	subs	KM				nnnnn	nnnnn	ארצכם
 2091353	Mur4	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	nnn	nnn	עתו
-2091354	Mur4	Deuteronomy	11	14	JWRH/	JWRH	JWR			NA	NA	sg	m	NA	subs		H			nnnn	nnnn	יורה
+2091354	Mur4	Deuteronomy	11	14	JWRH/	JWRH	JWRH			NA	NA	sg	m	NA	subs					nnnn	nnnn	יורה
 2091356	Mur4	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	nnnnn	nnnnn	מלקוש
 2091359	Mur4	Deuteronomy	11	14	DGN/	DGNK	DGN			NA	NA	sg	m	NA	subs	K				nnnn	nnnn	דגנך
 2091361	Mur4	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC			NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך
@@ -55704,7 +55704,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2092426	Mur88	Amos	7	10	DBR/	DBRJW	DBR			NA	NA	pl	m	NA	subs	W	J			rrnnn	nnnnn	דבריו
 2092433	Mur88	Amos	7	11	XRB/	XRB	XRB			NA	NA	sg	f	NA	subs				B	nnn	nnn	חרב
 2092442	Mur88	Amos	7	11	>DMH/	>DMTW	>DM			NA	NA	sg	f	NA	subs	W	T			nnnnn	nnnnn	אדמתו
-2092449	Mur88	Amos	7	12	XZH=/	XZH	XZ			NA	NA	sg	m	NA	subs		H			nnn	nnn	חזה
+2092449	Mur88	Amos	7	12	XZH=/	XZH	XZH			NA	NA	sg	m	NA	subs					nnn	nnn	חזה
 2092454	Mur88	Amos	7	12	>RY/	>RY	>RY			NA	NA	sg		NA	subs					rrr	nnn	ארץ
 2092459	Mur88	Amos	7	12	LXM/	LXM	LXM			NA	NA	sg		NA	subs					rnn	nnn	לחם
 2092469	Mur88	Amos	7	13	<WD/	<WD	<WD			NA	NA	NA	m	NA	subs					nnn	nnn	עוד
@@ -58823,7 +58823,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2102764	Xhev/se5	Deuteronomy	11	14	MVR/	MVR	MVR			NA	NA	sg	m	NA	subs					nnn	nnn	מטר
 2102765	Xhev/se5	Deuteronomy	11	14	>RY/	>RYKM	>RY			NA	NA	sg		NA	subs	KM				nnnnn	nnnnn	ארצכם
 2102767	Xhev/se5	Deuteronomy	11	14	<T/	<TW	<T			NA	NA	sg		NA	subs	W			B	nnn	nnn	עתו
-2102769	Xhev/se5	Deuteronomy	11	14	JWRH/	JWRH	JWR			NA	NA	sg	m	NA	subs		H		W	nnnn	nnnn	יורה
+2102769	Xhev/se5	Deuteronomy	11	14	JWRH/	JWRH	JWRH			NA	NA	sg	m	NA	subs				W	nnnn	nnnn	יורה
 2102771	Xhev/se5	Deuteronomy	11	14	MLQWC/	MLQWC	MLQWC			NA	NA	sg	m	NA	subs				W	nnnnn	nnnnn	מלקוש
 2102774	Xhev/se5	Deuteronomy	11	14	DGN/	DGNK	DGN			NA	NA	sg	m	NA	subs	K				nnnn	nnnn	דגנך
 2102776	Xhev/se5	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC			NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך

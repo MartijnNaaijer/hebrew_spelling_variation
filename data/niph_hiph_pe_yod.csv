@@ -1904,7 +1904,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1891380	1Q4	Deuteronomy	9	28	JY>[	JWY>NW	WY>			hif	impf	sg	m	p3	verb	NW				nnnnnr	nnnnnn	יוצאנו		niph_hiph_pe_yod	2	f5	1	0	0	0	nnn	nnn	first	W	1
 1892462	1Q5	Deuteronomy	24	11	JY>[	JWY>	WY>			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוצא		niph_hiph_pe_yod	2	f8ii	0	0	0	0	nnn	nnn	first	W	1
 1894937	1Qisaa	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו		niph_hiph_pe_yod	6	1	0	0	0	0	nnnn	nnnn	first	W	1
-1894993	1Qisaa	Isaiah	1	8	JTR[	NTRT	NTRT			nif	ptca	sg	f	NA	verb				W	nnnn	nnnn	נתרת		niph_hiph_pe_yod	10	1	0	1	0	0	nnnn	nnnn	first		0
+1894993	1Qisaa	Isaiah	1	8	JTR[	NTRT	NTR			nif	ptca	sg	f	NA	verb		T		W	nnnn	nnnn	נתרת		niph_hiph_pe_yod	10	1	0	1	0	1	nnn	nnn	first		0
 1895012	1Qisaa	Isaiah	1	9	JTR[	HWTJR	WTJR			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הותיר		niph_hiph_pe_yod	11	1	0	0	0	0	nnnn	nnnn	first	W	1
 1895073	1Qisaa	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו		niph_hiph_pe_yod	15	1	0	0	0	0	nnnn	nnnn	first	W	1
 1895139	1Qisaa	Isaiah	1	17	JVB[	HJVJB	JVJB			hif	infa	NA		NA	verb					nnnnn	nnnnn	היטיב		niph_hiph_pe_yod	20	1	0	0	0	0	nnnn	nnnn	first	J	1
@@ -1941,7 +1941,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901388	1Qisaa	Isaiah	19	13	J>L=[	N>WLW	N>WLW			nif	perf	pl		p3	verb					nnnnn	nnnnn	נאולו		niph_hiph_pe_yod	16	15	0	0	0	0	nnnnn	nnnnn	first		0
 1901550	1Qisaa	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע		niph_hiph_pe_yod	28	15	0	0	0	0	nnnn	nnnn	first	W	1
 1901557	1Qisaa	Isaiah	19	21	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע		niph_hiph_pe_yod	28	15	0	1	0	0	nnnn	nnnn	first	W	1
-1901812	1Qisaa	Isaiah	21	1	JR>[	NWR>H	NWR>H			nif	ptca	sg	f	NA	verb					nnnnn	nnnnn	נוראה		niph_hiph_pe_yod	14	16	0	0	0	0	nnnnn	nnnnn	first	W	1
+1901812	1Qisaa	Isaiah	21	1	JR>[	NWR>H	NWR>			nif	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	נוראה		niph_hiph_pe_yod	14	16	0	0	0	1	nnnn	nnnn	first	W	1
 1902519	1Qisaa	Isaiah	23	1	JLL[	>JLJLW	>JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	אילילו		niph_hiph_pe_yod	5	18	0	0	0	0	nnnnn	nnnnn	first	J	1
 1902591	1Qisaa	Isaiah	23	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו		niph_hiph_pe_yod	10	18	0	0	0	0	nnnn	nnnn	first	J	1
 1902669	1Qisaa	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי		niph_hiph_pe_yod	16	18	0	0	0	0	nnnn	nnnn	first	W	1
@@ -1959,7 +1959,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1905053	1Qisaa	Isaiah	30	5	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו		niph_hiph_pe_yod	10	24	0	0	0	0	nnnn	nnnn	first	W	1
 1905060	1Qisaa	Isaiah	30	5	J<L[	TW<JL	W<JL			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תועיל		niph_hiph_pe_yod	10	24	0	0	0	0	nnnn	nnnn	first	W	1
 1905102	1Qisaa	Isaiah	30	6	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו		niph_hiph_pe_yod	14	24	0	0	0	0	nnnn	nnnn	first	W	1
-1905311	1Qisaa	Isaiah	30	17	JTR[	NWTRTM	NWTRT			nif	perf	pl	m	p2	verb		M			nnnnnn	nnnnnn	נותרתם		niph_hiph_pe_yod	28	24	0	0	0	1	nnnnn	nnnnn	first	W	1
+1905311	1Qisaa	Isaiah	30	17	JTR[	NWTRTM	NWTRTM			nif	perf	pl	m	p2	verb					nnnnnn	nnnnnn	נותרתם		niph_hiph_pe_yod	28	24	0	0	0	0	nnnnnn	nnnnnn	first	W	1
 1905402	1Qisaa	Isaiah	30	21	JMN[	TJ>MJNW	J>MJN			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תיאמינו		niph_hiph_pe_yod	3	25	0	0	0	0	nnnnn	nnnnn	first	J	1
 1906224	1Qisaa	Isaiah	33	2	JC<[	HWC<TNW	WC<			hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn	הושעתנו		niph_hiph_pe_yod	3	27	1	0	0	0	nnn	nnn	first	W	1
 1906431	1Qisaa	Isaiah	33	19	J<Z[	NW<Z	NW<Z			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נועז		niph_hiph_pe_yod	21	27	0	0	0	0	nnnn	nnnn	first	W	1
@@ -2019,7 +2019,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1913292	1Qisaa	Isaiah	49	25	JC<[	>WCJ<	WCJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	אושיע		niph_hiph_pe_yod	27	41	0	0	0	0	nnnn	nnnn	first	W	1
 1913297	1Qisaa	Isaiah	49	26	JNH[	MWNJK	WN			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוניך		niph_hiph_pe_yod	27	41	1	0	0	1	nn	nn	first	W	1
 1913312	1Qisaa	Isaiah	49	26	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך		niph_hiph_pe_yod	28	41	1	0	0	0	nnnn	nnnn	first	W	1
-1913643	1Qisaa	Isaiah	51	5	JXL[	JWXJLWN	WXJL			hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn	יוחילון		niph_hiph_pe_yod	19	42	1	0	0	0	nnnn	nnnn	first	W	1
+1913643	1Qisaa	Isaiah	51	5	JXL[	JWXJLWN	WXJL			hif	impf	pl	m	p3	verb					nnnnnnn	nnnnnnn	יוחילון		niph_hiph_pe_yod	19	42	0	0	0	0	nnnn	nnnn	first	W	1
 1913991	1Qisaa	Isaiah	51	22	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי		niph_hiph_pe_yod	11	43	0	0	0	0	nnnn	nnnn	first	W	1
 1914000	1Qisaa	Isaiah	51	23	JGH[	MWGJK	WG			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוגיך		niph_hiph_pe_yod	12	43	1	0	0	1	nn	nn	first	W	1
 1914035	1Qisaa	Isaiah	52	1	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף		niph_hiph_pe_yod	14	43	0	0	0	0	nnnn	nnnn	first	W	1
@@ -2068,7 +2068,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1923544	1Q8	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הועיל		niph_hiph_pe_yod	2	21	0	1	0	0	nnnn	nnnn	first	W	1
 1923599	1Q8	Isaiah	48	20	JY>[	HWY>WH	WY>			hif	impv	pl	m	NA	verb	H				nnnnrr	nnnnnn	הוצאוה		niph_hiph_pe_yod	6	21	1	0	0	0	nnn	nnn	first	W	1
 1924498	1Q8	Isaiah	53	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל		niph_hiph_pe_yod	17	23	0	0	0	0	nnnn	nnnn	first	W	1
-1924912	1Q8	Isaiah	55	12	JBL[	TWBLWN	TWBLW			hof	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תובלון		niph_hiph_pe_yod	13	24	1	0	0	0	nnnnn	nnnnn	first	W	1
+1924912	1Q8	Isaiah	55	12	JBL[	TWBLWN	TWBLW			hof	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תובלון		niph_hiph_pe_yod	13	24	0	0	0	0	nnnnn	nnnnn	first	W	1
 1925438	1Q8	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יציע		niph_hiph_pe_yod	12	25	0	0	0	0	nnn	nnn	first		0
 1925649	1Q8	Isaiah	59	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				M	nnnnn	nnnnn	הושיע		niph_hiph_pe_yod	26	25	0	1	0	0	nnnn	nnnn	first	W	1
 1925706	1Q8	Isaiah	59	4	JLD[	HWLJDW	WLJD			hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הולידו		niph_hiph_pe_yod	31	25	0	1	0	0	nnnn	nnnn	first	W	1
@@ -2094,12 +2094,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1940186	4Q6	Genesis	48	6	JLD[	HWLDT	WLD			hif	perf	sg	m	p2	verb					nnnnn	nnnnn	הולדת		niph_hiph_pe_yod	10	f1	0	0	0	0	nnn	nnn	first	W	1
 1941098	4Q9	Genesis	41	39	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb					nnnnn	nnnnn	הודיע		niph_hiph_pe_yod	2	f2ii	0	0	0	0	nnnn	nnnn	first	W	1
 1943086	4Q11	Exodus	12	10	JTR[	TWTJRW	WTJR			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תותירו		niph_hiph_pe_yod	25	f7ii	0	0	0	0	nnnn	nnnn	first	W	1
-1943505	4Q11	Exodus	16	3	JY>[	HWY>TM	WY>T			hif	perf	pl	m	p2	verb		M			nnnrrr	nnnnnn	הוצאתם		niph_hiph_pe_yod	4	f11	0	0	0	1	nnnr	nnnn	first	W	1
+1943505	4Q11	Exodus	16	3	JY>[	HWY>TM	WY>			hif	perf	pl	m	p2	verb					nnnrrr	nnnnnn	הוצאתם		niph_hiph_pe_yod	4	f11	0	0	0	0	nnn	nnn	first	W	1
 1945933	4Q13	Exodus	1	20	JVB[	JVB	VB			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יטב		niph_hiph_pe_yod	6	f2	0	1	0	0	nn	nn	first		0
 1946086	4Q13	Exodus	2	7	JNQ[	HJNQH	JNQ			hif	perf	sg	f	p3	verb				W	nnnnn	nnnnn	הינקה		niph_hiph_pe_yod	7	f3i_4	0	1	0	0	nnn	nnn	first	J	1
 1946114	4Q13	Exodus	2	9	HLK[	HLK	HLK			hif	impv	sg	f	NA	verb					nnn	nnn	הלך		niph_hiph_pe_yod	8	f3i_4	0	0	0	0	nnn	nnn	first		0
 1946267	4Q13	Exodus	2	14	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע		niph_hiph_pe_yod	16	f3i_4	0	0	0	0	nnnn	nnnn	first	W	1
-1948272	4Q14	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תספון		niph_hiph_pe_yod	37	2	1	0	0	0	nn	nn	first		0
+1948272	4Q14	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb					nnnnn	nnnnn	תספון		niph_hiph_pe_yod	37	2	0	0	0	0	nn	nn	first		0
 1948824	4Q14	Exodus	10	15	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					nnnn	nnnn	נותר		niph_hiph_pe_yod	19	3	0	0	0	0	nnnn	nnnn	first	W	1
 1949324	4Q14	Exodus	12	39	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb					nnnnnn	nnnnnn	הוציאו		niph_hiph_pe_yod	8	5	0	0	0	0	nnnn	nnnn	first	W	1
 1949458	4Q14	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוציא		niph_hiph_pe_yod	14	5	0	0	0	0	nnnn	nnnn	first	W	1
@@ -2144,7 +2144,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2013142	4Q53	2_Samuel	14	30	JYT[	HYJTWH	YJT			hif	impv	pl	m	NA	verb	H			W	nnnnnn	nnnnnn	הציתוה		niph_hiph_pe_yod	13	f5ii_7i	1	1	0	0	nnn	nnn	first		0
 2013146	4Q53	2_Samuel	14	30	JYT[	JYJTW	YJT			hif	wayq	pl	m	p3	verb				W	nnnrr	nnnnn	יציתו		niph_hiph_pe_yod	13	f5ii_7i	0	1	0	0	nnn	nnn	first		0
 2013185	4Q53	2_Samuel	14	31	JYT[	HYJTH	YJT			hif	perf	sg	m	p3	verb	H				nnnnn	nnnnn	הציתה		niph_hiph_pe_yod	16	f5ii_7i	1	0	0	0	nnn	nnn	first		0
-2014751	4Q55	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					nnnnn	nnnnn	מודעת		niph_hiph_pe_yod	2	f8	0	0	0	0	nnnnn	nnnnn	first	W	1
+2014751	4Q55	Isaiah	12	5	JD<[	MWD<T	MWD<			hof	ptca	sg	f	NA	verb		T			nnnnn	nnnnn	מודעת		niph_hiph_pe_yod	2	f8	0	0	0	1	nnnn	nnnn	first	W	1
 2015826	4Q55	Isaiah	23	1	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו		niph_hiph_pe_yod	27	f11ii+15	0	0	0	0	nnnn	nnnn	first	J	1
 2016885	4Q56	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו		niph_hiph_pe_yod	3	f7	0	0	0	0	nnnn	nnnn	first	J	1
 2017274	4Q56	Isaiah	18	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל		niph_hiph_pe_yod	3	f10_13	0	0	0	0	nnnn	nnnn	first	W	1
@@ -2174,7 +2174,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2033200	4Q72	Jeremiah	20	3	JY>[	JY>	Y>			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יצא		niph_hiph_pe_yod	4	f8i	0	1	0	0	nn	nn	first		0
 2034669	4Q72	Jeremiah	31	7	JC<[	HWCJ<	WCJ<			hif	impv	sg	m	NA	verb					nnnnn	nnnnn	הושיע		niph_hiph_pe_yod	5	f44_50	0	0	0	0	nnnn	nnnn	first	W	1
 2036420	4Q74	Ezekiel	1	22	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נורא		niph_hiph_pe_yod	5	f6ii	0	1	0	0	nnnn	nnnn	first	W	1
-2036711	4Q76	Malachi	2	17	JG<[	HG<TM	G<T			hif	perf	pl	m	p2	verb		M		W	nnnnn	nnnnn	הגעתם		niph_hiph_pe_yod	7	2	0	1	0	1	nnn	nnn	first		0
+2036711	4Q76	Malachi	2	17	JG<[	HG<TM	G<			hif	perf	pl	m	p2	verb				W	nnnnn	nnnnn	הגעתם		niph_hiph_pe_yod	7	2	0	1	0	0	nn	nn	first		0
 2036719	4Q76	Malachi	2	17	JG<[	HGW<NW	GW<NW			hif	perf	pl		p1	verb					nnnnnn	nnnnnn	הגוענו		niph_hiph_pe_yod	8	2	0	0	0	0	nnnnn	nnnnn	first		0
 2037237	4Q76	Malachi	3	23	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורא		niph_hiph_pe_yod	17	4	0	1	0	0	nnnn	nnnn	first	W	1
 2038292	4Q78	Hosea	7	12	JRD[	>WRJDM	WRJD			hif	impf	sg		p1	verb	M				nnnrrr	nnnnnn	אורידם		niph_hiph_pe_yod	2	f44	1	0	0	0	nnnr	nnnn	first	W	1
@@ -2200,7 +2200,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2050947	4Q87	Psalms	76	12	JBL[	JBJLW	BJL			hif	impf	pl	m	p3	verb					nnnnn	nnnnn	יבילו		niph_hiph_pe_yod	3	f1	0	0	0	0	nnn	nnn	first		0
 2051428	4Q87	Psalms	105	1	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnrrr	nnnnnn	הודיעו		niph_hiph_pe_yod	4	f17+18i	0	0	0	0	nnnr	nnnn	first	W	1
 2051487	4Q87	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא		niph_hiph_pe_yod	1	f18ii+20_24	0	1	0	0	nnn	nnn	first	W	1
-2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	היטיבה		niph_hiph_pe_yod	4	f26i	1	0	0	0	nnnn	nnnn	first	J	1
+2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb					nnnnnn	nnnnnn	היטיבה		niph_hiph_pe_yod	4	f26i	0	0	0	0	nnnn	nnnn	first	J	1
 2051651	4Q87	Psalms	125	5	HLK[	JWLJKM	WLJK			hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn	יוליכם		niph_hiph_pe_yod	5	f26i	1	0	0	0	nnnn	nnnn	first	W	1
 2051943	4Q88	Psalms	107	13	JC<[	JCJ<M	CJ<			hif	wayq	sg	m	p3	verb	M			W	nnnnn	nnnnn	ישיעם		niph_hiph_pe_yod	17	2	1	1	0	0	nnn	nnn	first		0
 2051946	4Q88	Psalms	107	14	JY>[	JWYJ>M	WYJ>			hif	wayq	sg	m	p3	verb	M			W	nnnnnn	nnnnnn	יוציאם		niph_hiph_pe_yod	17	2	1	1	0	0	nnnn	nnnn	first	W	1
@@ -2223,19 +2223,19 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2068353	4Q138	Deuteronomy	10	17	JR>[	NWRH	NWRH			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורה		niph_hiph_pe_yod	5	f1	0	1	0	0	nnnn	nnnn	first	W	1
 2068423	4Q138	Deuteronomy	10	21	JR>[	NWR>WT	NWR>			nif	ptca	pl	f	NA	verb		WT		H	nnnnnr	nnnnnn	נוראות		niph_hiph_pe_yod	7	f1	0	1	0	1	nnnn	nnnn	first	W	1
 2069427	4Q140	Exodus	13	9	JY>[	HWYJ>KH	WYJ>			hif	perf	sg	m	p3	verb	KH				nnnnnnn	nnnnnnn	הוציאכה		niph_hiph_pe_yod	18	f1	1	0	0	0	nnnn	nnnn	first	W	1
-2069466	4Q140	Deuteronomy	5	33	JRC[	TWRJCWN	WRJC			hif	impf	pl	m	p2	verb	N				nnnnnnn	nnnnnnn	תורישון		niph_hiph_pe_yod	22	f1	1	0	0	0	nnnn	nnnn	first	W	1
+2069466	4Q140	Deuteronomy	5	33	JRC[	TWRJCWN	WRJC			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תורישון		niph_hiph_pe_yod	22	f1	0	0	0	0	nnnn	nnnn	first	W	1
 2070741	4Q145	Exodus	13	9	JY>[	HYJ>K	YJ>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הציאך		niph_hiph_pe_yod	16	f1V	1	0	0	0	nnn	nnn	first		0
 2072093	5Q1	Deuteronomy	7	17	JRC[	HWRCM	WRC			hif	infc	NA		NA	verb	M			L	nnnnn	nnnnn	הורשם		niph_hiph_pe_yod	3	1	1	1	0	0	nnn	nnn	first	W	1
 2072403	5Q1	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>			hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn	מוציאך		niph_hiph_pe_yod	7	2	1	1	0	0	nnnn	nnnn	first	W	1
 2072430	5Q1	Deuteronomy	8	15	JY>[	MWY>	WY>			hif	ptca	sg	m	NA	verb				H	nnnn	nnnn	מוצא		niph_hiph_pe_yod	8	2	0	1	0	0	nnn	nnn	first	W	1
 2072453	5Q1	Deuteronomy	8	16	JVB[	HJVBK	JVB			hif	infc	NA		NA	verb	K			L	nnnnn	nnnnn	היטבך		niph_hiph_pe_yod	9	2	1	1	0	0	nnn	nnn	first	J	1
-2072811	5Q2	1_Kings	1	33	JRD[	HWRDTM	WRDT			hif	perf	pl	m	p2	verb		M		W	nnnnnn	nnnnnn	הורדתם		niph_hiph_pe_yod	36	f1a_c	0	1	0	1	nnnn	nnnn	first	W	1
+2072811	5Q2	1_Kings	1	33	JRD[	HWRDTM	WRD			hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn	הורדתם		niph_hiph_pe_yod	36	f1a_c	0	1	0	0	nnn	nnn	first	W	1
 2073445	5Q6	Lamentations	4	22	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף		niph_hiph_pe_yod	3	f1iv	0	0	0	0	nnnn	nnnn	first	W	1
 2076268	8Q3	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא		niph_hiph_pe_yod	4	f1_11i	0	0	0	0	nnnn	nnnn	first	W	1
 2076408	8Q3	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				nnnnn	nnnnn	הוצאך		niph_hiph_pe_yod	15	f1_11i	1	0	0	0	nnn	nnn	first	W	1
 2076498	8Q3	Exodus	13	14	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nnnnnnn	nnnnnnn	הוציאנו		niph_hiph_pe_yod	20	f1_11i	1	0	0	0	nnnn	nnnn	first	W	1
 2077150	8Q3	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg		NA	verb				WH	nnnn	nnnn	נורא		niph_hiph_pe_yod	8	f17_25	0	1	0	0	nnnn	nnnn	first	W	1
-2077216	8Q3	Exodus	12	46	JY>[	TWY>N	WY>			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תוצאן		niph_hiph_pe_yod	12	f17_25	1	0	0	0	nnn	nnn	first	W	1
+2077216	8Q3	Exodus	12	46	JY>[	TWY>N	WY>			hif	impf	pl	m	p2	verb					nnnnn	nnnnn	תוצאן		niph_hiph_pe_yod	12	f17_25	0	0	0	0	nnn	nnn	first	W	1
 2077275	8Q3	Exodus	12	51	JY>[	HWYJ>K	WYJ>			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוציאך		niph_hiph_pe_yod	14	f17_25	1	0	0	0	nnnn	nnnn	first	W	1
 2077390	8Q3	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	הוצאתיך		niph_hiph_pe_yod	20	f17_25	1	0	0	0	nnn	nnn	first	W	1
 2079381	11Q1	Leviticus	14	18	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נותר		niph_hiph_pe_yod	4	fF	0	1	0	0	nnnn	nnnn	first	W	1
@@ -2243,16 +2243,16 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2081216	11Q1	Leviticus	27	18	JTR[	NTRWT	NTR			nif	ptca	pl	f	NA	verb		WT		H	nnnnn	nnnnn	נתרות		niph_hiph_pe_yod	8	6	0	1	0	1	nnn	nnn	first		0
 2082408	11Q5	Psalms	102	26	JSD[	NWSDH	NWSDH			nif	perf	sg		p3	verb					nnnnn	nnnnn	נוסדה		niph_hiph_pe_yod	8	fCii	0	0	0	0	nnnnn	nnnnn	first	W	1
 2082551	11Q5	Psalms	109	30	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה		niph_hiph_pe_yod	8	fD	0	0	0	0	nnn	nnn	first	W	1
-2082568	11Q5	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	הושיעה		niph_hiph_pe_yod	1	fEi	1	0	0	0	nnnn	nnnn	first	W	1
+2082568	11Q5	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb					nnnnnn	nnnnnn	הושיעה		niph_hiph_pe_yod	1	fEi	0	0	0	0	nnnn	nnnn	first	W	1
 2082605	11Q5	Psalms	118	28	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH			W	nnnnn	nnnnn	אודכה		niph_hiph_pe_yod	4	fEi	1	1	0	0	nn	nn	first	W	1
 2082889	11Q5	Psalms	147	20	JD<[	HWDJ<M	WDJ<			hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הודיעם		niph_hiph_pe_yod	7	fEiii	1	0	0	0	nnnn	nnnn	first	W	1
 2082893	11Q5	Psalms	105	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					nnnn	nnnn	הודו		niph_hiph_pe_yod	8	fEiii	0	0	0	0	nn	nn	first	W	1
 2082908	11Q5	Psalms	105	1	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הודיעו		niph_hiph_pe_yod	9	fEiii	0	0	0	0	nnnn	nnnn	first	W	1
 2083232	11Q5	Psalms	146	9	JD<[	HWD<W	WD<			hif	infc	NA		NA	verb	W			B	nnnnn	nnnnn	הודעו		niph_hiph_pe_yod	3	2	1	1	0	0	nnn	nnn	first	W	1
-2083498	11Q5	Psalms	122	4	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות		niph_hiph_pe_yod	10	3	0	1	0	0	nnnn	nnnn	first	W	1
+2083498	11Q5	Psalms	122	4	JDH[	HWDWT	WD			hif	infc	NA		NA	verb		WT		L	nnnnn	nnnnn	הודות		niph_hiph_pe_yod	10	3	0	1	0	1	nn	nn	first	W	1
 2083896	11Q5	Psalms	130	5	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					nnnnnn	nnnnnn	הוחלתי		niph_hiph_pe_yod	13	5	0	0	0	0	nnn	nnn	first	W	1
 2083898	11Q5	Psalms	130	6	JXL[	HWXJLJ	WXJL			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	הוחילי		niph_hiph_pe_yod	13	5	0	0	0	0	nnnn	nnnn	first	W	1
-2084362	11Q5	Psalms	119	62	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות		niph_hiph_pe_yod	4	9	0	1	0	0	nnnn	nnnn	first	W	1
+2084362	11Q5	Psalms	119	62	JDH[	HWDWT	WD			hif	infc	NA		NA	verb		WT		L	nnnnn	nnnnn	הודות		niph_hiph_pe_yod	4	9	0	1	0	1	nn	nn	first	W	1
 2084418	11Q5	Psalms	119	68	JVB[	MVJB	VJB			hif	ptca	sg	m	NA	verb				W	nnnn	nnnn	מטיב		niph_hiph_pe_yod	10	9	0	1	0	0	nnn	nnn	first		0
 2084579	11Q5	Psalms	119	94	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				nnnnnnn	nnnnnnn	הושיעני		niph_hiph_pe_yod	13	10	1	0	0	0	nnnn	nnnn	first	W	1
 2085137	11Q5	Psalms	135	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מוציא		niph_hiph_pe_yod	15	14	0	0	0	0	nnnn	nnnn	first	W	1
@@ -2273,7 +2273,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2086101	11Q5	Psalms	138	7	JC<[	TWCJ<NJ	WCJ<			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תושיעני		niph_hiph_pe_yod	8	21	1	1	0	0	nnnn	nnnn	first	W	1
 2086145	11Q5	Psalms	141	5	JKX[	JWKJXNJ	WKJX			hif	impf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn	יוכיחני		niph_hiph_pe_yod	1	23	1	1	0	0	nnnn	nnnn	first	W	1
 2086403	11Q5	Psalms	142	8	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb					nnnn	nnnn	הוצא		niph_hiph_pe_yod	4	25	0	0	0	0	nnn	nnn	first	W	1
-2086408	11Q5	Psalms	142	8	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות		niph_hiph_pe_yod	4	25	0	1	0	0	nnnn	nnnn	first	W	1
+2086408	11Q5	Psalms	142	8	JDH[	HWDWT	WD			hif	infc	NA		NA	verb		WT		L	nnnnn	nnnnn	הודות		niph_hiph_pe_yod	4	25	0	1	0	1	nn	nn	first	W	1
 2086457	11Q5	Psalms	143	3	JCB[	HWCJBNJ	WCJB			hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn	הושיבני		niph_hiph_pe_yod	9	25	1	0	0	0	nnnn	nnnn	first	W	1
 2088548	Xq1	Exodus	12	46	JY>[	TWYJ>W	WYJ>			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוציאו		niph_hiph_pe_yod	2	1	0	0	0	0	nnnn	nnnn	first	W	1
 2088637	Xq1	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא		niph_hiph_pe_yod	6	1	0	0	0	0	nnnn	nnnn	first	W	1
@@ -2310,7 +2310,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2097414	Mur88	Habakkuk	1	12	JKX[	HWKJX	WKJX			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הוכיח		niph_hiph_pe_yod	11	18	0	1	0	0	nnnn	nnnn	first	W	1
 2097689	Mur88	Habakkuk	2	19	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					nnnn	nnnn	יורה		niph_hiph_pe_yod	2	19	0	0	0	0	nnn	nnn	first	W	1
 2098065	Mur88	Zephaniah	1	12	JVB[	JJVJB	JVJB			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייטיב		niph_hiph_pe_yod	3	20	0	0	0	0	nnnn	nnnn	first	J	1
-2098647	Mur88	Zephaniah	3	10	JBL[	JWBLWN	WBL			hif	impf	pl	m	p3	verb	N				nnnnnn	nnnnnn	יובלון		niph_hiph_pe_yod	4	21	1	0	0	0	nnn	nnn	first	W	1
+2098647	Mur88	Zephaniah	3	10	JBL[	JWBLWN	WBL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יובלון		niph_hiph_pe_yod	4	21	0	0	0	0	nnn	nnn	first	W	1
 2098671	Mur88	Zephaniah	3	11	JSP[	TWSPJ	WSP			hif	impf	sg	f	p2	verb					nnnnn	nnnnn	תוספי		niph_hiph_pe_yod	6	21	0	0	0	0	nnn	nnn	first	W	1
 2098766	Mur88	Zephaniah	3	17	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יושיע		niph_hiph_pe_yod	13	21	0	0	0	0	nnnn	nnnn	first	W	1
 2098779	Mur88	Zephaniah	3	18	JGH[	NWGJ	NWG			nif	ptca	pl	m	NA	verb		J			nnnn	nnnn	נוגי		niph_hiph_pe_yod	14	21	0	0	0	1	nnn	nnn	first	W	1

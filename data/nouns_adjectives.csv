@@ -46054,7 +46054,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1898145	1Qisaa	Isaiah	9	5	GBWR/	GBWR	GBWR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	גבור	subs_adjv		24	8	0	0	0	0	nnnn	nnnn	first		0	0
 1898145	1Qisaa	Isaiah	9	5	GBWR/	GBWR	GBWR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	גבור	subs_adjv		24	8	0	0	0	0	nnnn	nnnn	last	W	1	0
 1898150	1Qisaa	Isaiah	9	5	CLWM/	CLWM	CLWM	CCMC	CCMC	NA	NA	sg	m	NA	subs				H	nnnn	nnnn	שלום	subs_adjv		24	8	0	1	0	0	nnnn	nnnn	last	W	1	0
-1898153	1Qisaa	Isaiah	9	6	MRBH/	MRBH	MRB	CCC	CCCM	NA	NA	sg	m	NA	subs		H		L	nnnn	nnnn	מרבה	subs_adjv		24	8	0	1	0	1	nnn	nnn	last		0	0
+1898153	1Qisaa	Isaiah	9	6	MRBH/	MRBH	MRB	CCC	CCCM	NA	NA	sg	m	NA	subs				L	nnnn	nnnn	מרבה	subs_adjv	H	24	8	0	1	0	0	nnn	nnn	last		0	0
 1898155	1Qisaa	Isaiah	9	6	MFRH/	MFWRH	MFWR	CCMC	CCMCM	NA	NA	sg	f	NA	subs		H		H	nnnnn	nnnnn	משורה	subs_adjv		25	8	0	1	0	1	nnnn	nnnn	last	W	1	0
 1898158	1Qisaa	Isaiah	9	6	CLWM/	CLWM	CLWM	CCMC	CCMC	NA	NA	sg	m	NA	subs				WL	nnnn	nnnn	שלום	subs_adjv		25	8	0	1	0	0	nnnn	nnnn	last	W	1	0
 1898182	1Qisaa	Isaiah	9	6	<WLM/	<WLM	<WLM	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	עולם	subs_adjv		26	8	0	0	0	0	nnnn	nnnn	first	W	1	0
@@ -46376,7 +46376,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901895	1Qisaa	Isaiah	21	7	YMD/	YMD	YMD	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	צמד	subs_adjv		21	16	0	0	0	0	nnn	nnn	last		0	0
 1901899	1Qisaa	Isaiah	21	7	XMWR/	XMWR	XMWR	CCMC	CCMC	NA	NA	sg		NA	subs					nnnn	nnnn	חמור	subs_adjv		21	16	0	0	0	0	nnnn	nnnn	last	W	1	0
 1901900	1Qisaa	Isaiah	21	7	RKB/	RWKB	RWKB	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnn	nnnn	רוכב	subs_adjv		22	16	0	0	0	0	nnnn	nnnn	first	W	1	0
-1901911	1Qisaa	Isaiah	21	8	R>H/	R>H	R>	CC	CCM	NA	NA	sg	m	NA	subs		H		H	nnn	nnn	ראה	subs_adjv		22	16	0	1	0	1	nn	nn	single		0	0
+1901911	1Qisaa	Isaiah	21	8	R>H/	R>H	R>	CC	CCM	NA	NA	sg	m	NA	subs				H	nnn	nnn	ראה	subs_adjv	H	22	16	0	1	0	0	nn	nn	single		0	0
 1901917	1Qisaa	Isaiah	21	8	TMJD/	TMJD	TMJD	CCMC	CCMC	NA	NA	NA	m	NA	subs					nnnn	nnnn	תמיד	subs_adjv		23	16	0	0	0	0	nnnn	nnnn	last	J	1	0
 1901924	1Qisaa	Isaiah	21	8	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs					nnn	nnn	כול	subs_adjv		24	16	0	0	0	0	nnn	nnn	single	W	1	0
 1901934	1Qisaa	Isaiah	21	9	YMD/	YMD	YMD	CCC	CCC	NA	NA	sg	m	NA	subs					nnn	nnn	צמד	subs_adjv		24	16	0	0	0	0	nnn	nnn	last		0	0
@@ -46592,7 +46592,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1904153	1Qisaa	Isaiah	28	12	J<P/	J<WP	J<WP	CCMC	CCMC	NA	NA	sg	m	NA	adjv				L	nnnn	nnnn	יעוף	subs_adjv		13	22	0	1	0	0	nnnn	nnnn	last	W	1	0
 1904189	1Qisaa	Isaiah	28	13	>XWR/	>XWR	>XWR	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	אחור	subs_adjv		15	22	0	0	0	0	nnnn	nnnn	last	W	1	0
 1904221	1Qisaa	Isaiah	28	15	C>WL/	C>WL	C>WL	CCMC	CCMC	NA	NA	sg		NA	subs					nnnn	nnnn	שאול	subs_adjv		18	22	0	0	0	0	nnnn	nnnn	last	W	1	0
-1904223	1Qisaa	Isaiah	28	15	XZH=/	XZH	XZ	CC	CCM	NA	NA	sg	m	NA	subs		H			nnn	nnn	חזה	subs_adjv		18	22	0	0	0	1	nn	nn	single		0	0
+1904223	1Qisaa	Isaiah	28	15	XZH=/	XZH	XZ	CC	CCM	NA	NA	sg	m	NA	subs					nnn	nnn	חזה	subs_adjv	H	18	22	0	0	0	0	nn	nn	single		0	0
 1904291	1Qisaa	Isaiah	28	18	C>WL/	C>WL	C>WL	CCMC	CCMC	NA	NA	sg		NA	subs					nnnn	nnnn	שאול	subs_adjv		23	22	0	0	0	0	nnnn	nnnn	last	W	1	0
 1904311	1Qisaa	Isaiah	28	19	BQR=/	BQR	BQR	CCC	CCC	NA	NA	sg	m	NA	subs				B	nnn	nnn	בקר	subs_adjv		25	22	0	1	0	0	nnn	nnn	first		0	0
 1904313	1Qisaa	Isaiah	28	19	BQR=/	BQR	BQR	CCC	CCC	NA	NA	sg	m	NA	subs				B	nnn	nnn	בקר	subs_adjv		25	22	0	1	0	0	nnn	nnn	first		0	0
@@ -46796,7 +46796,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1906474	1Qisaa	Isaiah	33	21	J>R/	J>RJM	J>R	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM			nnnnn	nnnnn	יארים	subs_adjv		25	27	0	0	0	1	nnn	nnn	last		0	0
 1906484	1Qisaa	Isaiah	33	21	>DJR/	>DJR	>DJR	CCMC	CCMC	NA	NA	sg	m	NA	adjv					nnnn	nnnn	אדיר	subs_adjv		26	27	0	0	0	0	nnnn	nnnn	last	J	1	0
 1906509	1Qisaa	Isaiah	33	23	NS/	NS	NS	CC	CC	NA	NA	sg	m	NA	subs					nn	nn	נס	subs_adjv		28	27	0	0	0	0	nn	nn	single		0	0
-1906514	1Qisaa	Isaiah	33	23	MRBH/	MRWBH	MRWB	CCMC	CCMCM	NA	NA	sg	m	NA	subs		H			nnnnn	nnnnn	מרובה	subs_adjv		28	27	0	0	0	1	nnnn	nnnn	last	W	1	0
+1906514	1Qisaa	Isaiah	33	23	MRBH/	MRWBH	MRWB	CCMC	CCMCM	NA	NA	sg	m	NA	subs					nnnnn	nnnnn	מרובה	subs_adjv	H	28	27	0	0	0	0	nnnn	nnnn	last	W	1	0
 1906530	1Qisaa	Isaiah	33	24	<WN/	<WWN	<WWN	CCMC	CCMC	NA	NA	sg	m	NA	subs					nnnn	nnnn	עוון	subs_adjv		29	27	0	0	0	0	nnnn	nnnn	last	W	1	0
 1906537	1Qisaa	Isaiah	34	1	L>M/	L>WMJM	L>WM	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM		W	nnnnnn	nnnnnn	לאומים	subs_adjv		1	28	0	1	0	1	nnnn	nnnn	last	W	1	0
 1906543	1Qisaa	Isaiah	34	1	ML>=/	MLW>H	MLW>	CCMC	CCMCC	NA	NA	sg	m	NA	subs	H			W	nnnnn	nnnnn	מלואה	subs_adjv		1	28	1	1	0	0	nnnn	nnnn	last	W	1	0
@@ -49977,7 +49977,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2010023	4Q51	2_Samuel	23	5	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs				B	nnn	nnn	כול	subs_adjv		28	f155_158	0	1	0	0	nnn	nnn	single	W	1	0
 2010151	4Q51	2_Samuel	23	22	GBWR/	GBWRJM	GBWR	CCMC	CCMCMC	NA	NA	pl	m	NA	subs		JM		H	rnnnnn	nnnnnn	גבורים	subs_adjv		2	f162	0	1	0	1	rnnn	nnnn	last	W	1	0
 2010207	4Q51	2_Samuel	24	16	XRB/	XRBW	XRB	CCC	CCCM	NA	NA	sg		NA	subs	W			W	nnrn	nnnn	חרבו	subs_adjv		2	f164_165	1	1	0	0	nnr	nnn	first		0	1
-2011172	4Q52	1_Samuel	16	4	R>H/	R>H	R>	CC	CCM	NA	NA	sg	m	NA	subs		H		H	nnn	nnn	ראה	subs_adjv		4	f4	0	1	0	1	nn	nn	single		0	0
+2011172	4Q52	1_Samuel	16	4	R>H/	R>H	R>	CC	CCM	NA	NA	sg	m	NA	subs				H	nnn	nnn	ראה	subs_adjv	H	4	f4	0	1	0	0	nn	nn	single		0	0
 2011228	4Q52	1_Samuel	16	7	QWMH/	QMTW	QM	CC	CCCM	NA	NA	sg	f	NA	subs	W	T			nnnn	nnnn	קמתו	subs_adjv		6	f4	1	0	0	1	nn	nn	single		0	0
 2011376	4Q52	1_Samuel	19	12	XLWN/	XLN	XLN	CCC	CCC	NA	NA	sg		NA	subs				H	nnn	nnn	חלן	subs_adjv		3	f5	0	1	0	0	nnn	nnn	last		0	0
 2011462	4Q52	1_Samuel	20	26	VHR/	VHR	VHR	CCC	CCC	NA	NA	sg	m	NA	adjv					nnn	nnn	טהר	subs_adjv		1	f6_7	0	0	0	0	nnn	nnn	last		0	0
@@ -51176,7 +51176,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2063477	4Q128	Deuteronomy	11	5	MQWM/	MQWM	MQWM	CCMC	CCMC	NA	NA	sg	m	NA	subs				H	nnnn	nnnn	מקום	subs_adjv		31	f1	0	1	0	0	nnnn	nnnn	last	W	1	0
 2063654	4Q128	Deuteronomy	11	12	TMJD/	TMJD	TMJD	CCMC	CCMC	NA	NA	NA	m	NA	subs					nnnn	nnnn	תמיד	subs_adjv		37	f1	0	0	0	0	nnnn	nnnn	last	J	1	0
 2063691	4Q128	Deuteronomy	11	13	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs				B	nnn	nnn	כול	subs_adjv		38	f1	0	1	0	0	nnn	nnn	single	W	1	0
-2063704	4Q128	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs		H			nnnn	nnnn	יורה	subs_adjv		39	f1	0	0	0	1	nnn	nnn	single	W	1	0
+2063704	4Q128	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs					nnnn	nnnn	יורה	subs_adjv	H	39	f1	0	0	0	0	nnn	nnn	single	W	1	0
 2063870	4Q128	Exodus	12	43	XQH/	XWQT	XWQ	CMC	CMCC	NA	NA	sg	f	NA	subs		T			nnnn	nnnn	חוקת	subs_adjv		46	f1	0	0	0	1	nnn	nnn	single	W	1	0
 2063881	4Q128	Exodus	12	44	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs				W	nnn	nnn	כול	subs_adjv		46	f1	0	1	0	0	nnn	nnn	single	W	1	0
 2063893	4Q128	Exodus	12	45	TWCB/	TWCB	TWCB	CMCC	CMCC	NA	NA	sg	m	NA	subs					nnnr	nnnn	תושב	subs_adjv		46	f1	0	0	0	0	nnnr	nnnn	first	W	1	0
@@ -51251,7 +51251,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2065531	4Q130	Deuteronomy	11	13	>LHJM/	>LHJKM	>LH	CCC	CCCMCC	NA	NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		20	f1	1	0	0	1	nnn	nnn	last		0	0
 2065536	4Q130	Deuteronomy	11	13	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs				B	nnn	nnn	כול	subs_adjv		20	f1	0	1	0	0	nnn	nnn	single	W	1	0
 2065540	4Q130	Deuteronomy	11	13	KL/	KWL	KWL	CMC	CMC	NA	NA	sg	m	NA	subs				WB	nnn	nnn	כול	subs_adjv		20	f1	0	1	0	0	nnn	nnn	single	W	1	0
-2065549	4Q130	Deuteronomy	11	14	JWRH/	JRH	JR	CC	CCM	NA	NA	sg	m	NA	subs		H			nnn	nnn	ירה	subs_adjv		21	f1	0	0	0	1	nn	nn	single		0	0
+2065549	4Q130	Deuteronomy	11	14	JWRH/	JRH	JR	CC	CCM	NA	NA	sg	m	NA	subs					nnn	nnn	ירה	subs_adjv	H	21	f1	0	0	0	0	nn	nn	single		0	0
 2065557	4Q130	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC	CMCC	CMCCC	NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך	subs_adjv		21	f1	1	1	0	0	nnnn	nnnn	last		0	0
 2065582	4Q130	Deuteronomy	11	16	>LHJM/	>LHJM	>LH	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים	subs_adjv		23	f1	0	0	0	1	nnn	nnn	last		0	0
 2065608	4Q130	Deuteronomy	11	17	JBWL/	JBWLH	JBWL	CCMC	CCMCM	NA	NA	sg	m	NA	subs	H				nnnnn	nnnnn	יבולה	subs_adjv		24	f1	1	0	0	0	nnnn	nnnn	last	W	1	0
@@ -51588,7 +51588,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2076582	8Q3	Deuteronomy	11	13	>LHJM/	>LHJKM	>LH	CCC	CCCMCC	NA	NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		26	f1_11i	1	0	0	1	nnn	nnn	last		0	0
 2076587	8Q3	Deuteronomy	11	13	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		26	f1_11i	0	1	0	0	nn	nn	single		0	0
 2076591	8Q3	Deuteronomy	11	13	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				WB	nn	nn	כל	subs_adjv		26	f1_11i	0	1	0	0	nn	nn	single		0	0
-2076600	8Q3	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs		H			nnnn	nnnn	יורה	subs_adjv		27	f1_11i	0	0	0	1	nnn	nnn	single	W	1	0
+2076600	8Q3	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs					nnnn	nnnn	יורה	subs_adjv	H	27	f1_11i	0	0	0	0	nnn	nnn	single	W	1	0
 2076607	8Q3	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC	CMCC	CMCCC	NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך	subs_adjv		28	f1_11i	1	1	0	0	nnnn	nnnn	last		0	0
 2076632	8Q3	Deuteronomy	11	16	>LHJM/	>LHJM	>LH	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים	subs_adjv		30	f1_11i	0	0	0	1	nnn	nnn	last		0	0
 2076667	8Q3	Deuteronomy	11	17	VWB/	VBH	VB	CC	CCM	NA	NA	sg	f	NA	adjv		H		H	nnn	nnn	טבה	subs_adjv		33	f1_11i	0	1	0	1	nn	nn	single		0	0
@@ -52516,7 +52516,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2091336	Mur4	Deuteronomy	11	13	>LHJM/	>LHJKM	>LH	CCC	CCCMCC	NA	NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		80	f1	1	0	0	1	nnn	nnn	last		0	0
 2091341	Mur4	Deuteronomy	11	13	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		81	f1	0	1	0	0	nn	nn	single		0	0
 2091345	Mur4	Deuteronomy	11	13	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				WB	nn	nn	כל	subs_adjv		82	f1	0	1	0	0	nn	nn	single		0	0
-2091354	Mur4	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs		H			nnnn	nnnn	יורה	subs_adjv		84	f1	0	0	0	1	nnn	nnn	single	W	1	0
+2091354	Mur4	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs					nnnn	nnnn	יורה	subs_adjv	H	84	f1	0	0	0	0	nnn	nnn	single	W	1	0
 2091361	Mur4	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC	CMCC	CMCCC	NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך	subs_adjv		85	f1	1	1	0	0	nnnn	nnnn	last		0	0
 2091386	Mur4	Deuteronomy	11	16	>LHJM/	>LHJM	>LH	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים	subs_adjv		90	f1	0	0	0	1	nnn	nnn	last		0	0
 2091412	Mur4	Deuteronomy	11	17	JBWL/	JBWLH	JBWL	CCMC	CCMCM	NA	NA	sg	m	NA	subs	H				nnnnn	nnnnn	יבולה	subs_adjv		95	f1	1	0	0	0	nnnn	nnnn	last	W	1	0
@@ -52568,7 +52568,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2092385	Mur88	Amos	7	9	BMH/	BMWT	BM	CC	CCMC	NA	NA	pl	f	NA	subs		WT			nnnn	nnnn	במות	subs_adjv		9	7	0	0	0	1	nn	nn	single		0	1
 2092397	Mur88	Amos	7	9	XRB/	XRB	XRB	CCC	CCC	NA	NA	sg	f	NA	subs				B	nnn	nnn	חרב	subs_adjv		10	7	0	1	0	0	nnn	nnn	first		0	0
 2092433	Mur88	Amos	7	11	XRB/	XRB	XRB	CCC	CCC	NA	NA	sg	f	NA	subs				B	nnn	nnn	חרב	subs_adjv		13	7	0	1	0	0	nnn	nnn	first		0	0
-2092449	Mur88	Amos	7	12	XZH=/	XZH	XZ	CC	CCM	NA	NA	sg	m	NA	subs		H			nnn	nnn	חזה	subs_adjv		16	7	0	0	0	1	nn	nn	single		0	0
+2092449	Mur88	Amos	7	12	XZH=/	XZH	XZ	CC	CCM	NA	NA	sg	m	NA	subs					nnn	nnn	חזה	subs_adjv	H	16	7	0	0	0	0	nn	nn	single		0	0
 2092469	Mur88	Amos	7	13	<WD/	<WD	<WD	CMC	CMC	NA	NA	NA	m	NA	subs					nnn	nnn	עוד	subs_adjv		17	7	0	0	0	0	nnn	nnn	single	W	1	0
 2092501	Mur88	Amos	7	14	CQMH/	CQMJM	CQM	CCC	CCCMC	NA	NA	pl	f	NA	subs		JM			nnnnn	nnnnn	שקמים	subs_adjv		20	7	0	0	0	1	nnn	nnn	first		0	0
 2092509	Mur88	Amos	7	15	Y>N/	Y>N	Y>N	CMC	CMC	NA	NA	sg		NA	subs				H	nnn	nnn	צאן	subs_adjv		20	7	0	1	0	0	nnn	nnn	single	>	1	0
@@ -53008,7 +53008,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2102731	Xhev/se5	Deuteronomy	6	9	MZWZH/	MZWZT	MZWZ	CCMC	CCMCC	NA	NA	pl	f	NA	subs		T			nnnnn	nnnnn	מזוזת	subs_adjv		9	f1	0	0	0	1	nnnn	nnnn	last	W	1	0
 2102754	Xhev/se5	Deuteronomy	11	13	>LHJM/	>LHJKM	>LH	CCC	CCCMCC	NA	NA	pl	m	NA	subs	KM	J			nnnnnn	nnnnnn	אלהיכם	subs_adjv		11	f1	1	0	0	1	nnn	nnn	last		0	0
 2102759	Xhev/se5	Deuteronomy	11	13	KL/	KL	KL	CC	CC	NA	NA	sg	m	NA	subs				B	nn	nn	כל	subs_adjv		11	f1	0	1	0	0	nn	nn	single		0	0
-2102769	Xhev/se5	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs		H		W	nnnn	nnnn	יורה	subs_adjv		12	f1	0	1	0	1	nnn	nnn	single	W	1	0
+2102769	Xhev/se5	Deuteronomy	11	14	JWRH/	JWRH	JWR	CMC	CMCM	NA	NA	sg	m	NA	subs				W	nnnn	nnnn	יורה	subs_adjv	H	12	f1	0	1	0	0	nnn	nnn	single	W	1	0
 2102776	Xhev/se5	Deuteronomy	11	14	TJRWC/	TJRCK	TJRC	CMCC	CMCCC	NA	NA	sg	m	NA	subs	K			W	nnnnn	nnnnn	תירשך	subs_adjv		12	f1	1	1	0	0	nnnn	nnnn	last		0	0
 2102801	Xhev/se5	Deuteronomy	11	16	>LHJM/	>LHJM	>LH	CCC	CCCMC	NA	NA	pl	m	NA	subs		JM			nnnnn	nnnnn	אלהים	subs_adjv		14	f1	0	0	0	1	nnn	nnn	last		0	0
 2102827	Xhev/se5	Deuteronomy	11	17	JBWL/	JBLH	JBL	CCC	CCCM	NA	NA	sg	m	NA	subs	H				nnnn	nnnn	יבלה	subs_adjv		1	f2	1	0	0	0	nnn	nnn	last		0	0

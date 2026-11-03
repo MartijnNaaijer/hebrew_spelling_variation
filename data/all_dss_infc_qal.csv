@@ -5,7 +5,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1890181	1Q1	Genesis	24	23	LJN[	LJN	LJN			qal	infc	NA		NA	verb				L	rrr	nnn	לין
 1890400	1Q2	Exodus	19	24	<LH[	<LT	<LT			qal	infc	NA		NA	verb				L	nrr	nnn	עלת
 1890427	1Q2	Exodus	20	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
-1890642	1Q3	Leviticus	19	31	VM>[	VM>H	VM>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	טמאה
+1890642	1Q3	Leviticus	19	31	VM>[	VM>H	VM>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	טמאה
 1890734	1Q3	Leviticus	20	22	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
 1890771	1Q3	Leviticus	20	24	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	nnr	nnn	רשת
 1890808	1Q3	Leviticus	22	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
@@ -21,7 +21,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1891702	1Q4	Deuteronomy	13	13	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
 1891705	1Q4	Deuteronomy	13	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 1891719	1Q4	Deuteronomy	13	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
-1891754	1Q4	Deuteronomy	14	23	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1891754	1Q4	Deuteronomy	14	23	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1891772	1Q4	Deuteronomy	14	24	NF>[	FTW	FT			qal	infc	NA		NA	verb	W			L	nnn	nnn	שתו
 1891783	1Q4	Deuteronomy	14	24	FJM[	FWM	FWM			qal	infc	NA		NA	verb				L	rrr	nnn	שום
 1891865	1Q4	Deuteronomy	16	6	BW>[	BW>	BW>			qal	infc	NA		NA	verb				K	rrr	nnn	בוא
@@ -42,9 +42,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1892952	1Q5	Deuteronomy	29	18	CM<[	CM<W	CM<			qal	infc	NA		NA	verb	W			B	nnnn	nnnn	שמעו
 1892964	1Q5	Deuteronomy	29	18	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 1892984	1Q5	Deuteronomy	29	19	SLX[	SLX	SLX			qal	infc	NA		NA	verb					rrr	nnn	סלח
-1893053	1Q5	Deuteronomy	30	20	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1893053	1Q5	Deuteronomy	30	20	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 1893058	1Q5	Deuteronomy	30	20	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
-1893063	1Q5	Deuteronomy	30	20	DBQ[	DBQH	DBQ			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	דבקה
+1893063	1Q5	Deuteronomy	30	20	DBQ[	DBQH	DBQ			qal	infc	NA		NA	verb		H		WL	nnnn	nnnn	דבקה
 1893072	1Q5	Deuteronomy	30	20	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
 1893089	1Q5	Deuteronomy	30	20	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 1893122	1Q5	Deuteronomy	31	2	JY>[	Y>T	Y>T			qal	infc	NA		NA	verb				L	nnn	nnn	צאת
@@ -52,7 +52,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1893242	1Q5	Deuteronomy	31	7	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 1893302	1Q5	Deuteronomy	31	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 1893348	1Q5	Deuteronomy	31	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
-1893366	1Q5	Deuteronomy	31	13	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1893366	1Q5	Deuteronomy	31	13	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1893629	1Q5	Deuteronomy	33	18	JY>[	Y>TK	Y>T			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	צאתך
 1893980	1Q6	Judges	8	1	QR>[	QR>WT	QR>WT			qal	infc	NA		NA	verb					rrrrr	nnnnn	קראות
 1894011	1Q6	Judges	9	2	MCL[	MCL	MCL			qal	infc	NA		NA	verb				H	rrr	nnn	משל
@@ -302,7 +302,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1924965	1Q8	Isaiah	56	1	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	nnn	nnn	בוא
 1924988	1Q8	Isaiah	56	2	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				M	nnnn	nnnn	עשות
 1925003	1Q8	Isaiah	56	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
-1925077	1Q8	Isaiah	56	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+1925077	1Q8	Isaiah	56	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	nnnn	nnnn	אהבה
 1925082	1Q8	Isaiah	56	6	HJH[	HJWT	HJWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	היות
 1925139	1Q8	Isaiah	56	9	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	nnn	nnn	אכל
 1925156	1Q8	Isaiah	56	10	NBX[	NBX	NBX			qal	infc	NA		NA	verb				L	nnn	nnn	נבח
@@ -358,9 +358,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1931900	2Q12	Deuteronomy	10	8	NF>[	F>T	F>T			qal	infc	NA		NA	verb				L	rrr	nnn	שאת
 1931907	2Q12	Deuteronomy	10	8	<MD[	<MWD	<MWD			qal	infc	NA		NA	verb				WL	nnrr	nnnn	עמוד
 1931998	2Q12	Deuteronomy	10	11	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
-1932013	2Q12	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1932013	2Q12	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1932018	2Q12	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
-1932024	2Q12	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+1932024	2Q12	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	אהבה
 1932028	2Q12	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
 1932180	2Q13	Jeremiah	42	13	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb					rrrr	nnnn	שמוע
 1932187	2Q13	Jeremiah	42	14	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
@@ -629,7 +629,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1959853	4Q22	Exodus	30	12	PQD[	PQD	PQD			qal	infc	NA		NA	verb				B	rrr	nnn	פקד
 1959912	4Q22	Exodus	30	15	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 1959959	4Q22	Exodus	30	17	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
-1959969	4Q22	Exodus	30	18	RXY[	RXYH	RXY			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רחצה
+1959969	4Q22	Exodus	30	18	RXY[	RXYH	RXY			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	רחצה
 1960015	4Q22	Exodus	30	31	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 1960118	4Q22	Exodus	31	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnrr	nnnn	אמור
 1960152	4Q22	Exodus	31	4	XCB[	XCB	XCB			qal	infc	NA		NA	verb				L	rrr	nnn	חשב
@@ -656,7 +656,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1962433	4Q23	Leviticus	16	17	BW>[	B>W	B>			qal	infc	NA		NA	verb	W			B	rrr	nnn	באו
 1962439	4Q23	Leviticus	16	17	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W				nnnn	nnnn	צאתו
 1962793	4Q23	Leviticus	18	18	YRR=[	YRR	YRR			qal	infc	NA		NA	verb				L	rrr	nnn	צרר
-1962823	4Q23	Leviticus	18	20	VM>[	VM>H	VM>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	טמאה
+1962823	4Q23	Leviticus	18	20	VM>[	VM>H	VM>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	טמאה
 1962944	4Q23	Leviticus	24	12	PRC[	PRC	PRC			qal	infc	NA		NA	verb				L	rrr	nnn	פרש
 1962952	4Q23	Leviticus	26	26	CBR[	CBRJ	CBR			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	שברי
 1963409	4Q23	Leviticus	27	21	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	צאתו
@@ -696,7 +696,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1966419	4Q23	Numbers	33	53	JRC[	RCT	RCT			qal	infc	NA		NA	verb				L	rrr	nnn	רשת
 1967360	4Q24	Leviticus	21	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 1967505	4Q24	Leviticus	22	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
-1967663	4Q24	Leviticus	22	8	VM>[	VM>H	VM>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	טמאה
+1967663	4Q24	Leviticus	22	8	VM>[	VM>H	VM>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	טמאה
 1967802	4Q24	Leviticus	22	16	>KL[	>KLM	>KL			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	אכלם
 1967816	4Q24	Leviticus	22	17	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
 1968009	4Q24	Leviticus	22	26	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnr	nnn	אמר
@@ -811,7 +811,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1978518	4Q28	Deuteronomy	24	8	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	nnn	nnn	שמר
 1978522	4Q28	Deuteronomy	24	8	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				WL	rrrr	nnnn	עשות
 1978537	4Q28	Deuteronomy	24	8	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
-1978677	4Q29	Deuteronomy	30	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1978677	4Q29	Deuteronomy	30	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 1978753	4Q29	Deuteronomy	30	9	FWF[	FWF	FWF			qal	infc	NA		NA	verb				L	rrr	nnn	שוש
 1978770	4Q29	Deuteronomy	30	10	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
 1978820	4Q29	Deuteronomy	30	12	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
@@ -820,7 +820,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1978896	4Q29	Deuteronomy	31	10	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 1978912	4Q29	Deuteronomy	31	11	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	rrr	nnn	בוא
 1978967	4Q29	Deuteronomy	31	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
-1978985	4Q29	Deuteronomy	31	13	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1978985	4Q29	Deuteronomy	31	13	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1979006	4Q29	Deuteronomy	31	13	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1979017	4Q29	Deuteronomy	31	14	MWT[	MWT	MWT			qal	infc	NA		NA	verb				L	rrr	nnn	מות
 1979104	4Q29	Deuteronomy	31	17	>KL[	>KL	>KL			qal	infc	NA		NA	verb				L	rrr	nnn	אכל
@@ -838,7 +838,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1979957	4Q30	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 1979976	4Q30	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1980007	4Q30	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
-1980053	4Q30	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1980053	4Q30	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 1980060	4Q30	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	rrrr	nnnn	עבדו
 1980221	4Q30	Deuteronomy	13	7	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrn	nnn	אמר
 1980248	4Q30	Deuteronomy	13	12	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
@@ -850,7 +850,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1980818	4Q30	Deuteronomy	17	15	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 1980849	4Q30	Deuteronomy	17	16	CWB[	CWB	CWB			qal	infc	NA		NA	verb				L	rrr	nnn	שוב
 1980877	4Q30	Deuteronomy	17	18	JCB[	CBTW	CBT			qal	infc	NA		NA	verb	W			K	rrrr	nnnn	שבתו
-1980912	4Q30	Deuteronomy	17	19	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1980912	4Q30	Deuteronomy	17	19	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1980917	4Q30	Deuteronomy	17	19	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rnn	nnn	שמר
 1980932	4Q30	Deuteronomy	17	19	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	rrrr	nnnn	עשתם
 1980936	4Q30	Deuteronomy	17	20	RWM[	RWM	RWM			qal	infc	NA		NA	verb					nnn	nnn	רום
@@ -887,12 +887,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1982711	4Q32	Deuteronomy	8	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 1982749	4Q32	Deuteronomy	8	2	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
 1982833	4Q32	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
-1982838	4Q32	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	יראה
+1982838	4Q32	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	יראה
 1982896	4Q32	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					rrr	nnn	שמר
 1983049	4Q33	Deuteronomy	4	26	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1983158	4Q33	Deuteronomy	8	2	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
 1983243	4Q33	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
-1983248	4Q33	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rnnn	nnnn	יראה
+1983248	4Q33	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		WL	rnnn	nnnn	יראה
 1983339	4Q33	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					nnn	nnn	שמר
 1983408	4Q33	Deuteronomy	9	6	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1983436	4Q33	Deuteronomy	9	7	BW>[	B>KM	B>			qal	infc	NA		NA	verb	KM				rrrr	nnnn	באכם
@@ -964,7 +964,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1987890	4Q37	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 1987962	4Q37	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	שמעכם
 1988034	4Q37	Deuteronomy	5	25	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
-1988120	4Q37	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+1988120	4Q37	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	יראה
 1988124	4Q37	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnrr	nnnn	שמור
 1988176	4Q37	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1988181	4Q37	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
@@ -973,18 +973,18 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1988250	4Q37	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	שמור
 1988279	4Q37	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 1988310	4Q37	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
-1988316	4Q37	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	יראה
+1988316	4Q37	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	יראה
 1988473	4Q37	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
 1988488	4Q37	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 1988507	4Q37	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1988538	4Q37	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
-1988584	4Q37	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1988584	4Q37	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 1988590	4Q37	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	rrrr	nnnn	עבדו
 1988613	4Q37	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 1988699	4Q37	Exodus	12	48	<FH[	<FTW	<FT			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	עשתו
 1988768	4Q37	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
 1988865	4Q37	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nr	nn	תת
-1989079	4Q38	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rnnn	nnnn	יראה
+1989079	4Q38	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rnnn	nnnn	יראה
 1989083	4Q38	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	rnnn	nnnn	שמור
 1989134	4Q38	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1989139	4Q38	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
@@ -994,7 +994,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1989288	4Q38	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
 1989424	4Q38a	Deuteronomy	19	8	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 1989437	4Q38a	Deuteronomy	19	9	<FH[	<FTH	<FT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	עשתה
-1989444	4Q38a	Deuteronomy	19	9	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnr	nnnn	אהבה
+1989444	4Q38a	Deuteronomy	19	9	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	nnnr	nnnn	אהבה
 1989450	4Q38a	Deuteronomy	19	9	HLK[	LKT	LKT			qal	infc	NA		NA	verb				WL	rrr	nnn	לכת
 1989569	4Q38a	Deuteronomy	19	14	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1989870	4Q38a	Deuteronomy	20	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
@@ -1009,12 +1009,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1990247	4Q38a	Deuteronomy	27	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 1990298	4Q38b	Deuteronomy	30	16	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 1990459	4Q38d	Deuteronomy	24	22	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
-1990478	4Q39	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1990478	4Q39	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1990483	4Q39	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
-1990489	4Q39	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+1990489	4Q39	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	אהבה
 1990493	4Q39	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
 1990506	4Q39	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
-1990545	4Q39	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+1990545	4Q39	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 1990594	4Q39	Deuteronomy	29	3	JD<[	D<T	D<T			qal	infc	NA		NA	verb				L	rrr	nnn	דעת
 1990598	4Q39	Deuteronomy	29	3	R>H[	R>WT	R>WT			qal	infc	NA		NA	verb				L	rrrr	nnnn	ראות
 1990602	4Q39	Deuteronomy	29	3	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
@@ -1025,13 +1025,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1990825	4Q40	Deuteronomy	3	21	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nrrr	nnnn	אמור
 1990989	4Q40	Deuteronomy	7	20	>BD[	>BWD	>BWD			qal	infc	NA		NA	verb					nnnn	nnnn	אבוד
 1991057	4Q41	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
-1991062	4Q41	Deuteronomy	8	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+1991062	4Q41	Deuteronomy	8	6	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	nnnn	nnnn	אהבה
 1991174	4Q41	Deuteronomy	5	1	<FH[	<FWTM	<FWT			qal	infc	NA		NA	verb	M			L	nnnnn	nnnnn	עשותם
 1991251	4Q41	Deuteronomy	5	5	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
 1991446	4Q41	Deuteronomy	5	15	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור
 1991592	4Q41	Deuteronomy	5	23	CM<[	CWM<KM	CWM<			qal	infc	NA		NA	verb	KM			K	rrnnnn	nnnnnn	שומעכם
 1991664	4Q41	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
-1991754	4Q41	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+1991754	4Q41	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	יראה
 1991758	4Q41	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	rrr	nnn	שמר
 1991811	4Q41	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
 1991816	4Q41	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
@@ -1043,7 +1043,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1992231	4Q42	Deuteronomy	28	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 1992475	4Q42	Deuteronomy	28	52	JRD[	RDT	RDT			qal	infc	NA		NA	verb					rrr	nnn	רדת
 1992511	4Q42	Deuteronomy	28	58	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
-1992526	4Q42	Deuteronomy	28	58	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1992526	4Q42	Deuteronomy	28	58	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1992740	4Q43	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
 1992745	4Q43	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
 1992750	4Q43	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rnnn	nnnn	שכבך
@@ -1054,9 +1054,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1993085	4Q45	Deuteronomy	7	7	RBB[	RBKM	RB			qal	infc	NA		NA	verb	KM			M	rrrr	nnnn	רבכם
 1993240	4Q45	Deuteronomy	7	20	>BD[	>BD	>BD			qal	infc	NA		NA	verb					rrr	nnn	אבד
 1993347	4Q45	Deuteronomy	10	11	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
-1993362	4Q45	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+1993362	4Q45	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 1993367	4Q45	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
-1993373	4Q45	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+1993373	4Q45	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	אהבה
 1993377	4Q45	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
 1993411	4Q45	Deuteronomy	11	28	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnr	nnn	לכת
 1993456	4Q45	Deuteronomy	11	31	BW>[	BW>	BW>			qal	infc	NA		NA	verb				L	rrn	nnn	בוא
@@ -1242,7 +1242,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2008357	4Q51	2_Samuel	18	8	>KL[	>KWL	>KWL			qal	infc	NA		NA	verb				L	rrrr	nnnn	אכול
 2008455	4Q51	2_Samuel	18	11	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 2008503	4Q51	2_Samuel	18	29	CLX[	CLX	CLX			qal	infc	NA		NA	verb				L	nnn	nnn	שלח
-2008532	4Q51	2_Samuel	19	7	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2008532	4Q51	2_Samuel	19	7	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 2008537	4Q51	2_Samuel	19	7	FN>[	FNW>	FNW>			qal	infc	NA		NA	verb				WL	nrrr	nnnn	שנוא
 2008620	4Q51	2_Samuel	19	9	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rrrr	nnnn	אמור
 2008656	4Q51	2_Samuel	19	10	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	rnnn	nnnn	אמור
@@ -1279,7 +1279,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2012206	4Q52	1_Samuel	23	10	BW>[	B>	B>			qal	infc	NA		NA	verb				L	rr	nn	בא
 2012285	4Q52	1_Samuel	23	13	JY>[	Y>T	Y>T			qal	infc	NA		NA	verb				L	rrr	nnn	צאת
 2012404	4Q52	1_Samuel	23	19	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
-2012430	4Q52	1_Samuel	23	20	JRD[	RDH	RD			qal	infc	NA		NA	verb	H			L	nnn	nnn	רדה
+2012430	4Q52	1_Samuel	23	20	JRD[	RDH	RD			qal	infc	NA		NA	verb		H		L	nnn	nnn	רדה
 2012518	4Q53	1_Samuel	25	31	CPK[	CPWK	CPWK			qal	infc	NA		NA	verb				L	rrrr	nnnn	שפוך
 2012544	4Q53	2_Samuel	14	7	FJM[	FM	FM			qal	infc	NA		NA	verb					nn	nn	שם
 2012614	4Q53	2_Samuel	14	10	NG<[	NGW<	NGW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	נגוע
@@ -1460,7 +1460,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2034303	4Q72	Jeremiah	27	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 2034512	4Q72	Jeremiah	30	21	NGC[	GCT	GCT			qal	infc	NA		NA	verb				L	rrr	nnn	גשת
 2034547	4Q72	Jeremiah	30	24	<FH[	<FWTW	<FWT			qal	infc	NA		NA	verb	W				nnnnn	nnnnn	עשותו
-2034799	4Q72	Jeremiah	31	12	D>B[	D>BH	D>B			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	דאבה
+2034799	4Q72	Jeremiah	31	12	D>B[	D>BH	D>B			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	דאבה
 2034842	4Q72	Jeremiah	31	19	CWB[	CWBJ	CWB			qal	infc	NA		NA	verb	J				nnnn	nnnn	שובי
 2034942	4Q72	Jeremiah	31	23	CWB=[	CWBJ	CWB			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	שובי
 2035038	4Q72	Jeremiah	33	19	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
@@ -1603,7 +1603,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2049922	4Q85	Psalms	28	2	NF>[	NF>J	NF>			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	נשאי
 2050378	4Q85	Psalms	50	21	HJH[	>JWT	>JWT			qal	infc	NA		NA	verb					nnnn	nnnn	איות
 2050416	4Q85	Psalms	51	2	BW>[	BW>	BW>			qal	infc	NA		NA	verb				B	nnn	nnn	בוא
-2051067	4Q87	Psalms	86	11	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnrr	nnnn	יראה
+2051067	4Q87	Psalms	86	11	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnrr	nnnn	יראה
 2051186	4Q87	Psalms	89	51	NF>[	F>TJ	F>T			qal	infc	NA		NA	verb	J				rrrr	nnnn	שאתי
 2051473	4Q87	Psalms	105	25	FN>[	FN>	FN>			qal	infc	NA		NA	verb				L	rrr	nnn	שנא
 2051502	4Q87	Psalms	105	38	JY>[	Y>TM	Y>T			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	צאתם
@@ -1675,25 +1675,25 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2062663	4Q118	2_Chronicles	29	3	MLK[	MLKW	MLK			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	מלכו
 2062709	4Q128	Deuteronomy	5	1	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	rrrr	nnnn	עשתם
 2062780	4Q128	Deuteronomy	5	5	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nrrr	nnnn	אמור
-2063000	4Q128	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2063000	4Q128	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 2063004	4Q128	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	rrr	nnn	שמר
 2063057	4Q128	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
 2063062	4Q128	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 2063081	4Q128	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	rrrn	nnnn	שמור
 2063110	4Q128	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
-2063143	4Q128	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnrn	nnnn	יראה
+2063143	4Q128	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnrn	nnnn	יראה
 2063148	4Q128	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
-2063154	4Q128	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+2063154	4Q128	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	אהבה
 2063158	4Q128	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
 2063171	4Q128	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
-2063212	4Q128	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2063212	4Q128	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	אהבה
 2063456	4Q128	Deuteronomy	11	4	RDP[	RDPM	RDP			qal	infc	NA		NA	verb	M			B	rrrr	nnnn	רדפם
 2063474	4Q128	Deuteronomy	11	5	BW>[	BW>KMH	BW>			qal	infc	NA		NA	verb	KMH				rrnnnn	nnnnnn	בואכמה
 2063570	4Q128	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rnrr	nnnn	רשתה
 2063585	4Q128	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 2063604	4Q128	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 2063635	4Q128	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
-2063683	4Q128	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2063683	4Q128	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 2063689	4Q128	Deuteronomy	11	13	<BD[	<WBDW	<WBD			qal	infc	NA		NA	verb	W			WL	rrrnn	nnnnn	עובדו
 2063810	4Q128	Deuteronomy	11	19	JCB[	CBTKH	CBT			qal	infc	NA		NA	verb	KH			B	nnnnr	nnnnn	שבתכה
 2063815	4Q128	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
@@ -1708,7 +1708,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2064440	4Q129	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
 2064557	4Q129	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	שמעכם
 2064644	4Q129	Deuteronomy	5	25	CM<[	CM<	CM<			qal	infc	NA		NA	verb				L	rrr	nnn	שמע
-2064734	4Q129	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2064734	4Q129	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	יראה
 2064738	4Q129	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור
 2064790	4Q129	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 2064795	4Q129	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
@@ -1726,14 +1726,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2065482	4Q130	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WBW	nnnn	nnnn	לכתך
 2065487	4Q130	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
 2065490	4Q130	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
-2065528	4Q130	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2065528	4Q130	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	אהבה
 2065534	4Q130	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnrn	nnnn	עבדו
 2065656	4Q130	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
 2065661	4Q130	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrn	nnnn	לכתך
 2065666	4Q130	Deuteronomy	11	19	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nrrr	nnnn	שכבך
 2065669	4Q130	Deuteronomy	11	19	QWM[	QMK	QM			qal	infc	NA		NA	verb	K			WB	nnn	nnn	קמך
 2065695	4Q130	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
-2065714	4Q131	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2065714	4Q131	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 2065720	4Q131	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nrnn	nnnn	עבדו
 2065773	4Q131	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrnn	nnnn	שבתך
 2065778	4Q131	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnr	nnnn	לכתך
@@ -1756,7 +1756,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2066805	4Q135	Deuteronomy	6	1	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 2066813	4Q135	Deuteronomy	6	2	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
 2066838	4Q135	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
-2066948	4Q136	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2066948	4Q136	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 2066954	4Q136	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnrr	nnnn	עבדו
 2067075	4Q136	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
 2067080	4Q136	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
@@ -1776,17 +1776,17 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2067821	4Q137	Deuteronomy	5	15	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 2067926	4Q137	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	rrrrr	nnnnn	שמעכם
 2067999	4Q137	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
-2068101	4Q137	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2068101	4Q137	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	יראה
 2068105	4Q137	Deuteronomy	5	29	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nnnn	nnnn	שמור
 2068164	4Q137	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 2068202	4Q137	Deuteronomy	6	3	<FH[	<FWTMH	<FWT			qal	infc	NA		NA	verb	MH			L	nnrrrr	nnnnnn	עשותמה
 2068217	4Q137	Deuteronomy	6	3	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
-2068237	4Q138	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2068237	4Q138	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	יראה
 2068241	4Q138	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
-2068247	4Q138	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrnn	nnnn	אהבה
+2068247	4Q138	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	rrnn	nnnn	אהבה
 2068251	4Q138	Deuteronomy	10	12	<BD[	<BWD	<BWD			qal	infc	NA		NA	verb				WL	nnnn	nnnn	עבוד
 2068265	4Q138	Deuteronomy	10	13	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				WL	nrrn	nnnn	שמור
-2068305	4Q138	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rnrr	nnnn	אהבה
+2068305	4Q138	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rnrr	nnnn	אהבה
 2068372	4Q138	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 2068545	4Q138	Deuteronomy	11	4	RDP[	RWDPMH	RWDP			qal	infc	NA		NA	verb	MH			B	nnnnnn	nnnnnn	רודפמה
 2068563	4Q138	Deuteronomy	11	5	BW>[	BW>KMH	BW>			qal	infc	NA		NA	verb	KMH				nnnnnn	nnnnnn	בואכמה
@@ -1813,7 +1813,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2070072	4Q142	Deuteronomy	6	7	QWM[	QWMKH	QWM			qal	infc	NA		NA	verb	KH			WB	nnnnn	nnnnn	קומכה
 2070256	4Q143	Deuteronomy	11	19	HLK[	LKTKH	LKT			qal	infc	NA		NA	verb	KH			WB	rrnnn	nnnnn	לכתכה
 2070265	4Q143	Deuteronomy	11	19	QWM[	QWMKH	QWM			qal	infc	NA		NA	verb	KH			WB	rrrrr	nnnnn	קומכה
-2070317	4Q144	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2070317	4Q144	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 2070323	4Q144	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	rrrr	nnnn	עבדו
 2070457	4Q144	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 2070517	4Q144	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
@@ -1827,7 +1827,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2070772	4Q146	Deuteronomy	11	19	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			B	rrnn	nnnn	קומך
 2070799	4Q146	Deuteronomy	11	21	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 2071005	4Q150	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
-2071137	4Q151	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2071137	4Q151	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 2071141	4Q151	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	rrr	nnn	שמר
 2071194	4Q151	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 2071199	4Q151	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
@@ -1838,12 +1838,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2071353	4Q151	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
 2071358	4Q151	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	שכבך
 2071361	4Q151	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	קומך
-2071397	4Q151	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2071397	4Q151	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 2071402	4Q151	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnr	nnn	לכת
-2071408	4Q151	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+2071408	4Q151	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	אהבה
 2071412	4Q151	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
 2071425	4Q151	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
-2071464	4Q151	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2071464	4Q151	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 2071530	4Q151	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 2071613	4Q152	Deuteronomy	6	7	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrrr	nnnn	שבתך
 2071618	4Q152	Deuteronomy	6	7	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rrrr	nnnn	לכתך
@@ -1855,7 +1855,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2071967	4Q576	Genesis	34	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 2072164	5Q1	Deuteronomy	7	20	>BD[	>BD	>BD			qal	infc	NA		NA	verb					rrr	nnn	אבד
 2072261	5Q1	Deuteronomy	8	6	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
-2072266	5Q1	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	יראה
+2072266	5Q1	Deuteronomy	8	6	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	יראה
 2072354	5Q1	Deuteronomy	8	11	CMR[	CMR	CMR			qal	infc	NA		NA	verb					nnn	nnn	שמר
 2072485	5Q1	Deuteronomy	8	18	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 2072560	5Q1	Deuteronomy	9	1	BW>[	B>	B>			qal	infc	NA		NA	verb				L	rr	nn	בא
@@ -1888,7 +1888,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2076374	8Q3	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
 2076382	8Q3	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	rrrr	nnnn	צאתי
 2076489	8Q3	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	rrr	nnn	אמר
-2076579	8Q3	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrnn	nnnn	אהבה
+2076579	8Q3	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrnn	nnnn	אהבה
 2076585	8Q3	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
 2076706	8Q3	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
 2076711	8Q3	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
@@ -1902,9 +1902,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2076905	8Q3	Deuteronomy	6	1	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	rrrr	nnnn	עשות
 2076921	8Q3	Deuteronomy	6	2	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור
 2076949	8Q3	Deuteronomy	6	3	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
-2077040	8Q3	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2077040	8Q3	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	יראה
 2077045	8Q3	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
-2077051	8Q3	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+2077051	8Q3	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	nnnn	nnnn	אהבה
 2077055	8Q3	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד
 2077068	8Q3	Deuteronomy	10	13	CMR[	CMWR	CMWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמור
 2077319	8Q3	Deuteronomy	5	1	<FH[	<FTM	<FT			qal	infc	NA		NA	verb	M			L	nnnn	nnnn	עשתם
@@ -1912,12 +1912,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2077731	8Q3	Deuteronomy	11	8	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
 2077746	8Q3	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 2077766	8Q3	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
-2078092	8Q4	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2078092	8Q4	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 2078097	8Q4	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
-2078103	8Q4	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	rrrr	nnnn	אהבה
+2078103	8Q4	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	rrrr	nnnn	אהבה
 2078107	8Q4	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	rrr	nnn	עבד
 2078120	8Q4	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				L	rrr	nnn	שמר
-2078160	8Q4	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	אהבה
+2078160	8Q4	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	אהבה
 2078226	8Q4	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 2078391	8Q4	Deuteronomy	11	4	RDP[	RDPM	RDP			qal	infc	NA		NA	verb	M			B	nnnn	nnnn	רדפם
 2078409	8Q4	Deuteronomy	11	5	BW>[	B>KM	B>			qal	infc	NA		NA	verb	KM				rrrr	nnnn	באכם
@@ -1925,7 +1925,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2078525	8Q4	Deuteronomy	11	9	NTN[	TT	TT			qal	infc	NA		NA	verb				L	rr	nn	תת
 2078544	8Q4	Deuteronomy	11	10	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
 2078575	8Q4	Deuteronomy	11	11	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	רשתה
-2078619	8Q4	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	rrnn	nnnn	אהבה
+2078619	8Q4	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	rrnn	nnnn	אהבה
 2078625	8Q4	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
 2078746	8Q4	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	rrnn	nnnn	שבתך
 2078751	8Q4	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	rnnn	nnnn	לכתך
@@ -2003,23 +2003,23 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2088174	11Q8	Psalms	68	17	JCB[	CBTW	CBT			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	שבתו
 2088259	11Q8	Psalms	78	10	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	rrr	nnn	לכת
 2088299	11Q8	Psalms	81	6	JY>[	Y>TW	Y>T			qal	infc	NA		NA	verb	W			B	rrrr	nnnn	צאתו
-2088344	11Q8	Psalms	86	11	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	rrrr	nnnn	יראה
+2088344	11Q8	Psalms	86	11	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	rrrr	nnnn	יראה
 2088467	11Q9	Psalms	50	4	DJN[	DJN	DJN			qal	infc	NA		NA	verb				L	rrr	nnn	דין
 2088585	Xq1	Exodus	12	48	<FH[	<FWTW	<FWT			qal	infc	NA		NA	verb	W			L	nnnnn	nnnnn	עשותו
 2088654	Xq1	Exodus	13	1	>MR[	>MWR	>MWR			qal	infc	NA		NA	verb				L	nnnn	nnnn	אמור
 2088742	Xq1	Exodus	13	5	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 2088803	Xq1	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
 2088811	Xq1	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	צאתי
-2088867	Xq1	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnrr	nnnn	יראה
+2088867	Xq1	Deuteronomy	10	12	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnrr	nnnn	יראה
 2088872	Xq1	Deuteronomy	10	12	HLK[	LKT	LKT			qal	infc	NA		NA	verb				L	nnn	nnn	לכת
-2088878	Xq1	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			WL	nnnn	nnnn	אהבה
+2088878	Xq1	Deuteronomy	10	12	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		WL	nnnn	nnnn	אהבה
 2088882	Xq1	Deuteronomy	10	12	<BD[	<BD	<BD			qal	infc	NA		NA	verb				WL	nnn	nnn	עבד
 2088897	Xq1	Deuteronomy	10	13	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר
-2088937	Xq1	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2088937	Xq1	Deuteronomy	10	15	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	אהבה
 2089003	Xq1	Deuteronomy	10	18	NTN[	TT	TT			qal	infc	NA		NA	verb				L	nn	nn	תת
 2089058	Xq2	Deuteronomy	5	23	CM<[	CM<KM	CM<			qal	infc	NA		NA	verb	KM			K	nnnnn	nnnnn	שמעכם
 2089130	Xq2	Deuteronomy	5	25	CM<[	CMW<	CMW<			qal	infc	NA		NA	verb				L	nnnn	nnnn	שמוע
-2089220	Xq2	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	יראה
+2089220	Xq2	Deuteronomy	5	29	JR>[	JR>H	JR>			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	יראה
 2089224	Xq2	Deuteronomy	5	29	CMR[	CMR	CMR			qal	infc	NA		NA	verb				WL	nnn	nnn	שמר
 2089275	Xq2	Deuteronomy	5	31	JRC[	RCTH	RCT			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	רשתה
 2089280	Xq2	Deuteronomy	5	32	<FH[	<FWT	<FWT			qal	infc	NA		NA	verb				L	nnnn	nnnn	עשות
@@ -2050,7 +2050,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2091123	Mur4	Exodus	13	8	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
 2091131	Mur4	Exodus	13	8	JY>[	Y>TJ	Y>T			qal	infc	NA		NA	verb	J			B	nnnn	nnnn	צאתי
 2091243	Mur4	Exodus	13	14	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
-2091333	Mur4	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2091333	Mur4	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	אהבה
 2091339	Mur4	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
 2091460	Mur4	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
 2091465	Mur4	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	לכתך
@@ -2118,14 +2118,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2098605	Mur88	Zephaniah	3	8	CPK[	CPK	CPK			qal	infc	NA		NA	verb				L	rrr	nnn	שפך
 2098629	Mur88	Zephaniah	3	9	QR>[	QR>	QR>			qal	infc	NA		NA	verb				L	nnn	nnn	קרא
 2098635	Mur88	Zephaniah	3	9	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			L	rrrr	nnnn	עבדו
-2098673	Mur88	Zephaniah	3	11	GBH[	GBHH	GB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	גבהה
+2098673	Mur88	Zephaniah	3	11	GBH[	GBHH	GB			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	גבהה
 2098845	Mur88	Zephaniah	3	20	CWB=[	CWBJ	CWB			qal	infc	NA		NA	verb	J			B	nrrn	nnnn	שובי
 2098893	Mur88	Haggai	1	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
 2098900	Mur88	Haggai	1	2	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
 2098908	Mur88	Haggai	1	2	BW>[	B>	B>			qal	infc	NA		NA	verb					nr	nn	בא
 2098925	Mur88	Haggai	1	3	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nrr	nnn	אמר
 2098932	Mur88	Haggai	1	4	JCB[	CBT	CBT			qal	infc	NA		NA	verb				L	rrr	nnn	שבת
-2098968	Mur88	Haggai	1	6	CKR[	CKRH	CKR			qal	infc	NA		NA	verb	H			L	nrnn	nnnn	שכרה
+2098968	Mur88	Haggai	1	6	CKR[	CKRH	CKR			qal	infc	NA		NA	verb		H		L	nrnn	nnnn	שכרה
 2098973	Mur88	Haggai	1	6	XMM[	XM	XM			qal	infc	NA		NA	verb				L	nn	nn	חם
 2099135	Mur88	Haggai	1	13	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
 2099212	Mur88	Haggai	2	1	>MR[	>MR	>MR			qal	infc	NA		NA	verb				L	nnn	nnn	אמר
@@ -2168,7 +2168,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2102705	Xhev/se5	Deuteronomy	6	7	HLK[	LKT	LKT			qal	infc	NA		NA	verb				WB	nnn	nnn	לכת
 2102710	Xhev/se5	Deuteronomy	6	7	CKB[	CKBK	CKB			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	שכבך
 2102713	Xhev/se5	Deuteronomy	6	7	QWM[	QWMK	QWM			qal	infc	NA		NA	verb	K			WB	nnnn	nnnn	קומך
-2102751	Xhev/se5	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb	H			L	nnnn	nnnn	אהבה
+2102751	Xhev/se5	Deuteronomy	11	13	>HB[	>HBH	>HB			qal	infc	NA		NA	verb		H		L	nnnn	nnnn	אהבה
 2102757	Xhev/se5	Deuteronomy	11	13	<BD[	<BDW	<BD			qal	infc	NA		NA	verb	W			WL	nnnn	nnnn	עבדו
 2102875	Xhev/se5	Deuteronomy	11	19	JCB[	CBTK	CBT			qal	infc	NA		NA	verb	K			B	nnnn	nnnn	שבתך
 2102880	Xhev/se5	Deuteronomy	11	19	HLK[	LKTK	LKT			qal	infc	NA		NA	verb	K			WB	nnrr	nnnn	לכתך

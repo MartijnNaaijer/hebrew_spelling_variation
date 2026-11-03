@@ -39,8 +39,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1892841	1Q5	Deuteronomy	29	13	KRT[	KRT	KRT			qal	ptca	sg	m	NA	verb					nnn	nnn	כרת
 1892923	1Q5	Deuteronomy	29	17	PNH[	PNH	PNH			qal	ptca	sg	m	NA	verb					nnn	nnn	פנה
 1892944	1Q5	Deuteronomy	29	17	PRH[	PRH	PRH			qal	ptca	sg	m	NA	verb					rnn	nnn	פרה
-1893004	1Q5	Deuteronomy	29	19	KTB[	KTWBH	KTWBH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	כתובה
-1893034	1Q5	Deuteronomy	29	20	KTB[	KTWBH	KTWBH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	כתובה
+1893004	1Q5	Deuteronomy	29	19	KTB[	KTWBH	KTWB			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	כתובה
+1893034	1Q5	Deuteronomy	29	20	KTB[	KTWBH	KTWB			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	כתובה
 1893141	1Q5	Deuteronomy	31	3	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר
 1893158	1Q5	Deuteronomy	31	3	<BR[	<BR	<BR			qal	ptca	sg	m	NA	verb					rrr	nnn	עבר
 1893219	1Q5	Deuteronomy	31	6	HLK[	HLK	HLK			qal	ptca	sg	m	NA	verb				H	rrr	nnn	הלך
@@ -68,7 +68,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1894915	1Qisaa	Isaiah	1	4	XV>[	XWVH	XWVH			qal	ptca	sg		NA	verb					nnnn	nnnn	חוטה
 1894977	1Qisaa	Isaiah	1	7	FRP[	FRWPWT	FRWP			qal	ptcp	pl	f	NA	verb		WT			nnnnnn	nnnnnn	שרופות
 1894983	1Qisaa	Isaiah	1	7	>KL[	>WKLJM	>WKL			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	אוכלים
-1895007	1Qisaa	Isaiah	1	8	NYR[	NYWRH	NYWRH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נצורה
+1895007	1Qisaa	Isaiah	1	8	NYR[	NYWRH	NYWR			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נצורה
 1895117	1Qisaa	Isaiah	1	15	CM<[	CWM<	CWM<			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שומע
 1895213	1Qisaa	Isaiah	1	22	MHL[	MHWL	MHWL			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	מהול
 1895218	1Qisaa	Isaiah	1	23	SRR[	SWRRJM	SWRR			qal	ptca	pl	m	NA	verb		JM			nrrrrr	nnnnnn	סוררים
@@ -103,7 +103,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1896595	1Qisaa	Isaiah	5	20	>MR[	>WMRJM	>WMR			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	אומרים
 1896603	1Qisaa	Isaiah	5	20	FJM[	FMJM	FM			qal	ptca	pl	m	NA	verb		JM			nnnn	nnnn	שמים
 1896611	1Qisaa	Isaiah	5	20	FJM[	FMJM	FM			qal	ptca	pl	m	NA	verb		JM			nnnn	nnnn	שמים
-1896718	1Qisaa	Isaiah	5	25	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
+1896718	1Qisaa	Isaiah	5	25	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
 1896744	1Qisaa	Isaiah	5	27	KCL[	KWCL	KWCL			qal	ptca	sg	m	NA	verb					nnnn	nnnn	כושל
 1896764	1Qisaa	Isaiah	5	28	CNN[	CNWNJM	CNWN			qal	ptcp	pl	m	NA	verb		JM			nnnnnn	nnnnnn	שנונים
 1896768	1Qisaa	Isaiah	5	28	DRK[	DRWKWT	DRWK			qal	ptcp	pl	f	NA	verb		WT			nnnnnn	nnnnnn	דרוכות
@@ -116,7 +116,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1896913	1Qisaa	Isaiah	6	5	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב
 1896965	1Qisaa	Isaiah	6	8	>MR[	>MR	>MR			qal	ptca	sg	m	NA	verb					nnn	nnn	אמר
 1897041	1Qisaa	Isaiah	6	11	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב
-1897061	1Qisaa	Isaiah	6	12	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
+1897061	1Qisaa	Isaiah	6	12	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
 1897173	1Qisaa	Isaiah	7	3	KBS[	KWBS	KWBS			qal	ptca	sg	m	NA	verb					nnnn	nnnn	כובס
 1897347	1Qisaa	Isaiah	7	14	JLD[	JLDT	JLDT			qal	ptca	sg	f	NA	verb				W	nnnn	nnnn	ילדת
 1897387	1Qisaa	Isaiah	7	16	QWY[	QY	QY			qal	ptca	sg	m	NA	verb					nn	nn	קץ
@@ -130,15 +130,15 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1898111	1Qisaa	Isaiah	9	4	S>N[	S>N	S>N			qal	ptca	sg	m	NA	verb					nnn	nnn	סאן
 1898143	1Qisaa	Isaiah	9	5	J<Y[	JW<Y	JW<Y			qal	ptca	sg	m	NA	verb					nnnn	nnnn	יועץ
 1898206	1Qisaa	Isaiah	9	8	JCB[	JWCBJ	JWCBJ			qal	ptca	pl	m	NA	verb				W	nnnnn	nnnnn	יושבי
-1898264	1Qisaa	Isaiah	9	11	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
+1898264	1Qisaa	Isaiah	9	11	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
 1898298	1Qisaa	Isaiah	9	14	NF>[	NF>	NF>			qal	ptcp	sg	m	NA	verb				W	nnn	nnn	נשא
 1898346	1Qisaa	Isaiah	9	16	DBR[	DBR	DBR			qal	ptca	sg	m	NA	verb					nnn	nnn	דבר
-1898357	1Qisaa	Isaiah	9	16	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
-1898440	1Qisaa	Isaiah	9	20	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
+1898357	1Qisaa	Isaiah	9	16	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
+1898440	1Qisaa	Isaiah	9	20	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
 1898443	1Qisaa	Isaiah	10	1	XQQ[	XWQQJM	XWQQ			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	חוקקים
 1898496	1Qisaa	Isaiah	10	4	>SR[	>SWR	>SWR			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	אסור
 1898499	1Qisaa	Isaiah	10	4	HRG[	HRWGJM	HRWG			qal	ptcp	pl	m	NA	verb		JM			nnnnnn	nnnnnn	הרוגים
-1898511	1Qisaa	Isaiah	10	4	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
+1898511	1Qisaa	Isaiah	10	4	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
 1898674	1Qisaa	Isaiah	10	13	JCB[	JWCBJM	JWCB			qal	ptca	pl	m	NA	verb		JM			rrrnnn	nnnnnn	יושבים
 1898689	1Qisaa	Isaiah	10	14	<ZB[	<ZBWT	<ZB			qal	ptcp	pl	f	NA	verb		WT			rrrrr	nnnnn	עזבות
 1898698	1Qisaa	Isaiah	10	14	NDD[	NWDD	NWDD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד
@@ -160,7 +160,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1899453	1Qisaa	Isaiah	12	6	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	יושבת
 1899465	1Qisaa	Isaiah	13	1	XZH[	XWZH	XWZH			qal	ptca	sg	m	NA	verb					nnnn	nnnn	חוזה
 1899514	1Qisaa	Isaiah	13	5	BW>[	B>JM	B>			qal	ptca	pl	m	NA	verb		JM			nnnn	nnnn	באים
-1899561	1Qisaa	Isaiah	13	8	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	nnnnn	nnnnn	יולדה
+1899561	1Qisaa	Isaiah	13	8	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	nnnnn	nnnnn	יולדה
 1899575	1Qisaa	Isaiah	13	9	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					nn	nn	בא
 1899771	1Qisaa	Isaiah	13	20	R<H[	RW<JM	RW<			qal	ptca	pl	m	NA	verb		JM		W	nnnnn	nnnnn	רועים
 1899864	1Qisaa	Isaiah	14	2	CBH[	CWBJM	CWB			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	שובים
@@ -176,12 +176,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1900076	1Qisaa	Isaiah	14	17	FJM[	FM	FM			qal	ptca	sg	m	NA	verb					nn	nn	שם
 1900106	1Qisaa	Isaiah	14	19	HRG[	HRWGJM	HRWG			qal	ptcp	pl	m	NA	verb		JM			nnnnnn	nnnnnn	הרוגים
 1900109	1Qisaa	Isaiah	14	19	JRD[	JWRDW	JWRDW			qal	ptca	pl	m	NA	verb					nnnnn	nnnnn	יורדו
-1900231	1Qisaa	Isaiah	14	26	J<Y[	J<WYH	J<WYH			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	יעוצה
-1900241	1Qisaa	Isaiah	14	26	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	נטויה
-1900257	1Qisaa	Isaiah	14	27	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	נטויה
+1900231	1Qisaa	Isaiah	14	26	J<Y[	J<WYH	J<WY			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	יעוצה
+1900241	1Qisaa	Isaiah	14	26	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	נטויה
+1900257	1Qisaa	Isaiah	14	27	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	נטויה
 1900323	1Qisaa	Isaiah	14	31	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					nn	nn	בא
 1900326	1Qisaa	Isaiah	14	31	MDD[	MWDD	MWDD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	מודד
-1900386	1Qisaa	Isaiah	15	2	GR<[	GRW<H	GRW<H			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	גרועה
+1900386	1Qisaa	Isaiah	15	2	GR<[	GRW<H	GRW<			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	גרועה
 1900400	1Qisaa	Isaiah	15	3	JRD[	JRD	JRD			qal	ptca	sg	m	NA	verb				W	nnn	nnn	ירד
 1900415	1Qisaa	Isaiah	15	4	XLY[	XLYJ	XLY			qal	ptcp	pl	m	NA	verb		J			nnnn	nnnn	חלצי
 1900506	1Qisaa	Isaiah	16	1	MCL[	MCL	MCL			qal	ptca	sg	m	NA	verb				KR	nnn	nnn	משל
@@ -220,7 +220,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901821	1Qisaa	Isaiah	21	2	BGD[	BWGD	BWGD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוגד
 1901824	1Qisaa	Isaiah	21	2	CDD[	CWDD	CWDD			qal	ptca	sg	m	NA	verb				WH	nnnn	nnnn	שודד
 1901825	1Qisaa	Isaiah	21	2	CDD[	CWDD	CWDD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שודד
-1901843	1Qisaa	Isaiah	21	3	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	יולדה
+1901843	1Qisaa	Isaiah	21	3	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	יולדה
 1901851	1Qisaa	Isaiah	21	4	T<H[	TW<H	TW<H			qal	ptca	sg	m	NA	verb					nnnn	nnnn	תועה
 1901867	1Qisaa	Isaiah	21	5	YPH=[	YWPH	YWPH			qal	ptca	sg		NA	verb					nnnn	nnnn	צופה
 1901898	1Qisaa	Isaiah	21	7	RKB[	RWKB	RWKB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	רוכב
@@ -233,8 +233,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901982	1Qisaa	Isaiah	21	12	CMR[	CWMR	CWMR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שומר
 1902010	1Qisaa	Isaiah	21	14	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי
 1902016	1Qisaa	Isaiah	21	14	NDD[	NWDD	NWDD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד
-1902026	1Qisaa	Isaiah	21	15	NVC[	NVWCH	NVWCH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטושה
-1902031	1Qisaa	Isaiah	21	15	DRK[	DRWKH	DRWKH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	דרוכה
+1902026	1Qisaa	Isaiah	21	15	NVC[	NVWCH	NVWC			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטושה
+1902031	1Qisaa	Isaiah	21	15	DRK[	DRWKH	DRWK			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	דרוכה
 1902083	1Qisaa	Isaiah	22	2	HMH[	HWMJH	HWMJH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	הומיה
 1902092	1Qisaa	Isaiah	22	2	MWT[	MJTJ	MJT			qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	מיתי
 1902101	1Qisaa	Isaiah	22	3	>SR[	>SWRH	>SWRH			qal	ptcp	sg		NA	verb					nnnnn	nnnnn	אסורה
@@ -245,7 +245,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1902422	1Qisaa	Isaiah	22	21	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	יושב
 1902440	1Qisaa	Isaiah	22	22	SGR[	SWGR	SWGR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	סוגר
 1902445	1Qisaa	Isaiah	22	22	PTX[	PWTX	PWTX			qal	ptca	sg	m	NA	verb					nnnn	nnnn	פותח
-1902499	1Qisaa	Isaiah	22	25	TQ<[	TQW<H	TQW<H			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	תקועה
+1902499	1Qisaa	Isaiah	22	25	TQ<[	TQW<H	TQW<			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	תקועה
 1902535	1Qisaa	Isaiah	23	2	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי
 1902537	1Qisaa	Isaiah	23	2	SXR[	SXR	SXR			qal	ptca	sg	m	NA	verb					nnn	nnn	סחר
 1902592	1Qisaa	Isaiah	23	6	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי
@@ -269,7 +269,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1903044	1Qisaa	Isaiah	24	18	NWS[	NS	NS			qal	ptca	sg	m	NA	verb				H	nn	nn	נס
 1903055	1Qisaa	Isaiah	24	18	<LH[	<WLH	<WLH			qal	ptca	sg	m	NA	verb				WH	nnnn	nnnn	עולה
 1903281	1Qisaa	Isaiah	25	7	LWV[	LWV	LWV			qal	ptca	sg	m	NA	verb				H	nnn	nnn	לוט
-1903290	1Qisaa	Isaiah	25	7	NSK=[	NSWKH	NSWKH			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	נסוכה
+1903290	1Qisaa	Isaiah	25	7	NSK=[	NSWKH	NSWK			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	נסוכה
 1903375	1Qisaa	Isaiah	25	11	FXH[	FWXH	FWXH			qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	שוחה
 1903424	1Qisaa	Isaiah	26	2	CMR[	CWMR	CWMR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שומר
 1903428	1Qisaa	Isaiah	26	3	SMK[	SMWK	SMWK			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	סמוך
@@ -302,7 +302,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1904295	1Qisaa	Isaiah	28	18	CVP[	CWVP	CWVP			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שוטף
 1904396	1Qisaa	Isaiah	28	24	XRC=[	XWRC	XWRC			qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	חורש
 1904562	1Qisaa	Isaiah	29	5	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר
-1904590	1Qisaa	Isaiah	29	6	>KL[	>WKLH	>WKLH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	אוכלה
+1904590	1Qisaa	Isaiah	29	6	>KL[	>WKLH	>WKL			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	אוכלה
 1904603	1Qisaa	Isaiah	29	7	YB>[	YWB>JM	YWB>			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	צובאים
 1904625	1Qisaa	Isaiah	29	8	>KL[	>WKL	>WKL			qal	ptca	sg	m	NA	verb					nnnn	nnnn	אוכל
 1904639	1Qisaa	Isaiah	29	8	CTH[	CWTH	CWTH			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שותה
@@ -332,9 +332,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1905545	1Qisaa	Isaiah	30	27	>KL[	>WKLT	>WKLT			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	אוכלת
 1905551	1Qisaa	Isaiah	30	28	CVP[	CWVP	CWVP			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שוטף
 1905582	1Qisaa	Isaiah	30	29	HLK[	HWLK	HWLK			qal	ptca	sg	m	NA	verb				K	nnnn	nnnn	הולך
-1905610	1Qisaa	Isaiah	30	30	>KL[	>WKLH	>WKLH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	אוכלה
+1905610	1Qisaa	Isaiah	30	30	>KL[	>WKLH	>WKL			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	אוכלה
 1905651	1Qisaa	Isaiah	30	33	<RK[	<RWK	<RWK			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	ערוך
-1905674	1Qisaa	Isaiah	30	33	B<R[	B<RH	B<RH			qal	ptca	sg	f	NA	verb					nnnn	nnnn	בערה
+1905674	1Qisaa	Isaiah	30	33	B<R[	B<RH	B<R			qal	ptca	sg	f	NA	verb		H			nnnn	nnnn	בערה
 1905679	1Qisaa	Isaiah	31	1	JRD[	JWRDJM	JWRD			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	יורדים
 1905732	1Qisaa	Isaiah	31	2	P<L[	PW<LJ	PW<L			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	פועלי
 1905753	1Qisaa	Isaiah	31	3	<ZR[	<WZR	<WZR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עוזר
@@ -360,7 +360,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1906301	1Qisaa	Isaiah	33	9	XPR[	XPWR	XPWR			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	חפור
 1906310	1Qisaa	Isaiah	33	9	N<R[	NW<R	NW<R			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נוער
 1906338	1Qisaa	Isaiah	33	12	KSX[	KSWXJM	KSWX			qal	ptcp	pl	m	NA	verb		JM			nnnnnn	nnnnnn	כסוחים
-1906362	1Qisaa	Isaiah	33	14	>KL[	>WKLH	>WKLH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	אוכלה
+1906362	1Qisaa	Isaiah	33	14	>KL[	>WKLH	>WKL			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	אוכלה
 1906369	1Qisaa	Isaiah	33	15	HLK[	HWLWK	HWLWK			qal	ptca	sg	m	NA	verb					nnnnn	nnnnn	הולוך
 1906374	1Qisaa	Isaiah	33	15	M>S[	M>S	M>S			qal	ptca	sg	m	NA	verb					nnn	nnn	מאס
 1906378	1Qisaa	Isaiah	33	15	N<R[	N<R	N<R			qal	ptca	sg	m	NA	verb					nnn	nnn	נער
@@ -374,7 +374,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1906529	1Qisaa	Isaiah	33	24	NF>[	NF>	NF>			qal	ptcp	sg	m	NA	verb					nnn	nnn	נשא
 1906603	1Qisaa	Isaiah	34	4	NBL[	NWBL	NWBL			qal	ptca	sg		NA	verb				K	nnnn	nnnn	נובל
 1906609	1Qisaa	Isaiah	34	4	NBL[	NWBLT	NWBLT			qal	ptca	sg	f	NA	verb				WK	nnnnn	nnnnn	נובלת
-1906704	1Qisaa	Isaiah	34	9	B<R[	B<RH	B<RH			qal	ptca	sg	f	NA	verb				W	nnnn	nnnn	בערה
+1906704	1Qisaa	Isaiah	34	9	B<R[	B<RH	B<R			qal	ptca	sg	f	NA	verb		H		W	nnnn	nnnn	בערה
 1906728	1Qisaa	Isaiah	34	10	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר
 1906909	1Qisaa	Isaiah	35	3	KCL[	KWCLWT	KWCL			qal	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	כושלות
 1906997	1Qisaa	Isaiah	35	8	HLK[	HWLK	HWLK			qal	ptca	sg	m	NA	verb					nnnn	nnnn	הולך
@@ -402,7 +402,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1908955	1Qisaa	Isaiah	39	6	BW>[	B>JM	B>			qal	ptca	pl	m	NA	verb		JM			nnnn	nnnn	באים
 1909048	1Qisaa	Isaiah	40	3	QR>[	QWR>	QWR>			qal	ptca	sg	m	NA	verb					nnnn	nnnn	קורא
 1909098	1Qisaa	Isaiah	40	6	>MR[	>WMR	>WMR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	אומר
-1909175	1Qisaa	Isaiah	40	10	MCL[	MCLH	MCLH			qal	ptca	sg	f	NA	verb					nnnn	nnnn	משלה
+1909175	1Qisaa	Isaiah	40	10	MCL[	MCLH	MCL			qal	ptca	sg	f	NA	verb		H			nnnn	nnnn	משלה
 1909186	1Qisaa	Isaiah	40	11	R<H[	RW<H	RW<H			qal	ptca	sg	m	NA	verb				K	nnnn	nnnn	רועה
 1909197	1Qisaa	Isaiah	40	11	<WL[	<WLWT	<WL			qal	ptca	pl	f	NA	verb		WT			nnnnn	nnnnn	עולות
 1909317	1Qisaa	Isaiah	40	19	YRP[	YWRP	YWRP			qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	צורף
@@ -437,7 +437,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1910190	1Qisaa	Isaiah	42	10	JRD[	JWRDJ	JWRD			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יורדי
 1910197	1Qisaa	Isaiah	42	10	JCB[	JWCBJHM	JWCB			qal	ptca	pl	m	NA	verb	HM	J		W	nnnnnnn	nnnnnnn	יושביהם
 1910208	1Qisaa	Isaiah	42	11	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי
-1910248	1Qisaa	Isaiah	42	14	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	nnnnn	nnnnn	יולדה
+1910248	1Qisaa	Isaiah	42	14	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	nnnnn	nnnnn	יולדה
 1910309	1Qisaa	Isaiah	42	17	BVX[	BWVXJM	BWVX			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	בוטחים
 1910313	1Qisaa	Isaiah	42	17	>MR[	>MRJM	>MR			qal	ptca	pl	m	NA	verb		JM		H	nnnnn	nnnnn	אמרים
 1910373	1Qisaa	Isaiah	42	22	BZZ[	BZWZ	BZWZ			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	בזוז
@@ -505,7 +505,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1912097	1Qisaa	Isaiah	46	11	QR>[	QWRH	QWRH			qal	ptca	sg		NA	verb					nnnn	nnnn	קורה
 1912194	1Qisaa	Isaiah	47	4	G>L[	G>LNW	G>L			qal	ptca	sg	m	NA	verb	NW				nnnnn	nnnnn	גאלנו
 1912260	1Qisaa	Isaiah	47	8	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb				H	nnnnn	nnnnn	יושבת
-1912264	1Qisaa	Isaiah	47	8	>MR[	>WMRH	>WMRH			qal	ptca	sg	f	NA	verb				H	nnnnn	nnnnn	אומרה
+1912264	1Qisaa	Isaiah	47	8	>MR[	>WMRH	>WMR			qal	ptca	sg	f	NA	verb		H		H	nnnnn	nnnnn	אומרה
 1912300	1Qisaa	Isaiah	47	9	XBR[	XWBRJK	XWBR			qal	ptca	pl	m	NA	verb	K	J			nnnnnn	nnnnnn	חובריך
 1912309	1Qisaa	Isaiah	47	10	R>H[	RW>NJ	RW>			qal	ptca	sg	m	NA	verb	NJ				nnnnn	nnnnn	רואני
 1912353	1Qisaa	Isaiah	47	12	XBR[	XWBRJK	XWBR			qal	ptca	pl	m	NA	verb	K	J		B	nnnnnn	nnnnnn	חובריך
@@ -559,15 +559,15 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1914360	1Qisaa	Isaiah	53	4	NG<[	NGW<	NGW<			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	נגוע
 1914419	1Qisaa	Isaiah	53	7	GZZ[	GWZZJH	GWZZ			qal	ptca	pl	m	NA	verb	H	J			nnnnnn	nnnnnn	גוזזיה
 1914528	1Qisaa	Isaiah	53	12	PC<[	PWC<JM	PWC<			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	פושעים
-1914555	1Qisaa	Isaiah	54	1	CMM[	CWMMH	CWMMH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	שוממה
-1914558	1Qisaa	Isaiah	54	1	B<L[	B<WLH	B<WLH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	בעולה
+1914555	1Qisaa	Isaiah	54	1	CMM[	CWMMH	CWMM			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	שוממה
+1914558	1Qisaa	Isaiah	54	1	B<L[	B<WLH	B<WL			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	בעולה
 1914615	1Qisaa	Isaiah	54	5	B<L[	B<LKJ	B<L			qal	ptca	sg	m	NA	verb	KJ				nnnnn	nnnnn	בעלכי
 1914616	1Qisaa	Isaiah	54	5	<FH[	<WFJK	<WFJ			qal	ptca	sg	m	NA	verb	K				nnnnn	nnnnn	עושיך
 1914621	1Qisaa	Isaiah	54	5	G>L[	GW>LKJ	GW>L			qal	ptca	sg	m	NA	verb	KJ			W	nnnnnn	nnnnnn	גואלכי
-1914633	1Qisaa	Isaiah	54	6	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
+1914633	1Qisaa	Isaiah	54	6	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
 1914635	1Qisaa	Isaiah	54	6	<YB[	<YWBT	<YWBT			qal	ptcp	sg	f	NA	verb				W	nnnnn	nnnnn	עצובת
 1914671	1Qisaa	Isaiah	54	8	G>L[	GW>LKJ	GW>L			qal	ptca	sg	m	NA	verb	KJ				nnnnnn	nnnnnn	גואלכי
-1914724	1Qisaa	Isaiah	54	11	S<R[	SXWRH	SXWRH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	סחורה
+1914724	1Qisaa	Isaiah	54	11	S<R[	SXWRH	SXWR			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	סחורה
 1914762	1Qisaa	Isaiah	54	13	BNH[	BWNJKJ	BWN			qal	ptca	pl	m	NA	verb	KJ	J			nnnnnn	nnnnnn	בוניכי
 1914797	1Qisaa	Isaiah	54	16	NPX[	NWPX	NWPX			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נופח
 1915014	1Qisaa	Isaiah	55	10	ZR<[	ZWR<	ZWR<			qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	זורע
@@ -592,15 +592,15 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1915993	1Qisaa	Isaiah	58	12	GDR[	GWDR	GWDR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	גודר
 1916098	1Qisaa	Isaiah	59	4	QR>[	QWRH	QWRH			qal	ptca	sg		NA	verb					nnnn	nnnn	קורה
 1916126	1Qisaa	Isaiah	59	5	>KL[	>WKL	>WKL			qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	אוכל
-1916132	1Qisaa	Isaiah	59	5	ZWR=[	ZWRH	ZWRH			qal	ptcp	sg	f	NA	verb				WH>	nnnn	nnnn	זורה
+1916132	1Qisaa	Isaiah	59	5	ZWR=[	ZWRH	ZWR			qal	ptcp	sg	f	NA	verb		H		WH>	nnnn	nnnn	זורה
 1916191	1Qisaa	Isaiah	59	8	DRK[	DWRK	DWRK			qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	דורך
 1916235	1Qisaa	Isaiah	59	10	MWT[	MJTJM	MJT			qal	ptca	pl	m	NA	verb		JM		K	nnnnn	nnnnn	מיתים
 1916320	1Qisaa	Isaiah	59	15	SWR[	SR	SR			qal	ptca	sg	m	NA	verb				W	nn	nn	סר
 1916419	1Qisaa	Isaiah	59	20	G>L[	GW>L	GW>L			qal	ptca	sg	m	NA	verb					nnnn	nnnn	גואל
 1916422	1Qisaa	Isaiah	59	20	CWB[	CBJ	CB			qal	ptca	pl	m	NA	verb		J		WL	nnn	nnn	שבי
 1916653	1Qisaa	Isaiah	60	11	NHG[	NHWGJM	NHWG			qal	ptcp	pl	m	NA	verb		JM			nnnnnn	nnnnnn	נהוגים
-1916720	1Qisaa	Isaiah	60	15	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
-1916722	1Qisaa	Isaiah	60	15	FN>[	FNW>H	FNW>H			qal	ptcp	sg	f	NA	verb				W	nnnnn	nnnnn	שנואה
+1916720	1Qisaa	Isaiah	60	15	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
+1916722	1Qisaa	Isaiah	60	15	FN>[	FNW>H	FNW>			qal	ptcp	sg	f	NA	verb		H		W	nnnnn	nnnnn	שנואה
 1916725	1Qisaa	Isaiah	60	15	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר
 1916751	1Qisaa	Isaiah	60	16	G>L[	GW>LK	GW>L			qal	ptca	sg	m	NA	verb	K			W	nnnnn	nnnnn	גואלך
 1916781	1Qisaa	Isaiah	60	17	NGF[	NWGFJK	NWGF			qal	ptca	pl	m	NA	verb	K	J		W	nnnnnn	nnnnnn	נוגשיך
@@ -611,13 +611,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1917030	1Qisaa	Isaiah	61	8	>HB[	>WHB	>WHB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	אוהב
 1917033	1Qisaa	Isaiah	61	8	FN>[	FWNH	FWNH			qal	ptca	sg		NA	verb				W	nnnn	nnnn	שונה
 1917060	1Qisaa	Isaiah	61	9	R>H[	RW>JHMH	RW>			qal	ptca	pl	m	NA	verb	HMH	J			nnnnnnn	nnnnnnn	רואיהמה
-1917174	1Qisaa	Isaiah	62	4	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
-1917181	1Qisaa	Isaiah	62	4	CMM[	CWMMH	CWMMH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	שוממה
-1917190	1Qisaa	Isaiah	62	4	B<L[	B<WLH	B<WLH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	בעולה
+1917174	1Qisaa	Isaiah	62	4	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
+1917181	1Qisaa	Isaiah	62	4	CMM[	CWMMH	CWMM			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	שוממה
+1917190	1Qisaa	Isaiah	62	4	B<L[	B<WLH	B<WL			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	בעולה
 1917219	1Qisaa	Isaiah	62	6	CMR[	CWMRJM	CWMR			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	שומרים
 1917331	1Qisaa	Isaiah	62	11	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					nn	nn	בא
 1917346	1Qisaa	Isaiah	62	12	G>L[	G>WLJ	G>WL			qal	ptcp	pl	m	NA	verb		J			nnnnn	nnnnn	גאולי
-1917351	1Qisaa	Isaiah	62	12	DRC[	DRWCH	DRWCH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	דרושה
+1917351	1Qisaa	Isaiah	62	12	DRC[	DRWCH	DRWC			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	דרושה
 1917358	1Qisaa	Isaiah	63	1	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					nn	nn	בא
 1917366	1Qisaa	Isaiah	63	1	HDR[	HDR	HDR			qal	ptcp	sg	m	NA	verb					nnn	nnn	הדר
 1917369	1Qisaa	Isaiah	63	1	Y<H[	YW<H	YW<H			qal	ptca	sg	m	NA	verb					nnnn	nnnn	צועה
@@ -632,7 +632,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1917737	1Qisaa	Isaiah	64	4	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	עושה
 1917775	1Qisaa	Isaiah	64	6	QR>[	QWRH	QWRH			qal	ptca	sg	m	NA	verb					nnnn	nnnn	קורה
 1917802	1Qisaa	Isaiah	64	7	JYR[	JWYRNW	JWYR			qal	ptca	sg	m	NA	verb	NW				nnnnnn	nnnnnn	יוצרנו
-1917834	1Qisaa	Isaiah	64	9	CMM[	CWMMH	CWMMH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	שוממה
+1917834	1Qisaa	Isaiah	64	9	CMM[	CWMMH	CWMM			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	שוממה
 1917890	1Qisaa	Isaiah	65	2	SRR[	SWRH	SWRH			qal	ptca	sg	m	NA	verb					nnnn	nnnn	סורה
 1917892	1Qisaa	Isaiah	65	2	HLK[	HWLKJM	HWLK			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	הולכים
 1917909	1Qisaa	Isaiah	65	3	ZBX[	ZWBXJM	ZWBX			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	זובחים
@@ -640,7 +640,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1917928	1Qisaa	Isaiah	65	4	>KL[	>WKLJM	>WKL			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	אוכלים
 1917939	1Qisaa	Isaiah	65	5	>MR[	>WMRJM	>WMR			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	אומרים
 1917951	1Qisaa	Isaiah	65	5	JQD[	JWQDT	JWQDT			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	יוקדת
-1917957	1Qisaa	Isaiah	65	6	KTB[	KTWBH	KTWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	כתובה
+1917957	1Qisaa	Isaiah	65	6	KTB[	KTWBH	KTWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	כתובה
 1918028	1Qisaa	Isaiah	65	9	JRC[	JRC	JRC			qal	ptca	sg	m	NA	verb					nnn	nnn	ירש
 1918058	1Qisaa	Isaiah	65	11	<ZB[	<WZBJ	<WZB			qal	ptca	pl	m	NA	verb		J			nnnnr	nnnnn	עוזבי
 1918066	1Qisaa	Isaiah	65	11	<RK[	<WRKJM	<WRK			qal	ptca	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	עורכים
@@ -666,9 +666,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1919167	1Q8	Isaiah	10	18	NSS[	NSS	NSS			qal	ptca	sg	m	NA	verb					rrr	nnn	נסס
 1919227	1Q8	Isaiah	12	6	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	יושבת
 1919289	1Q8	Isaiah	13	5	BW>[	B>JM	B>			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	באים
-1919336	1Q8	Isaiah	13	8	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	rrrrr	nnnnn	יולדה
+1919336	1Q8	Isaiah	13	8	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	rrrrr	nnnnn	יולדה
 1919349	1Q8	Isaiah	13	9	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
-1919418	1Q8	Isaiah	15	2	GR<[	GRW<H	GRW<H			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	גרועה
+1919418	1Q8	Isaiah	15	2	GR<[	GRW<H	GRW<			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	גרועה
 1919431	1Q8	Isaiah	15	3	JRD[	JRD	JRD			qal	ptca	sg	m	NA	verb					nnn	nnn	ירד
 1919446	1Q8	Isaiah	15	4	XLY[	XLYJ	XLY			qal	ptcp	pl	m	NA	verb		J			rrrr	nnnn	חלצי
 1919539	1Q8	Isaiah	16	1	MCL[	MCL	MCL			qal	ptca	sg	m	NA	verb					rrr	nnn	משל
@@ -689,13 +689,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1920115	1Q8	Isaiah	22	11	JYR[	JYRH	JYR			qal	ptca	sg	m	NA	verb	H			W	rrrr	nnnn	יצרה
 1920216	1Q8	Isaiah	22	16	XYB[	XYBJ	XYBJ			qal	ptca	sg	m	NA	verb					rrrr	nnnn	חצבי
 1920219	1Q8	Isaiah	22	16	XQQ[	XQQJ	XQQJ			qal	ptca	sg	m	NA	verb					rrrr	nnnn	חקקי
-1920313	1Q8	Isaiah	22	25	TQ<[	TQW<H	TQW<H			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	תקועה
+1920313	1Q8	Isaiah	22	25	TQ<[	TQW<H	TQW<			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	תקועה
 1920349	1Q8	Isaiah	23	2	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	ישבי
 1920351	1Q8	Isaiah	23	2	SXR[	SXR	SXR			qal	ptca	sg	m	NA	verb					rrr	nnn	סחר
 1920401	1Q8	Isaiah	24	18	NWS[	NS	NS			qal	ptca	sg	m	NA	verb				H	rr	nn	נס
 1920412	1Q8	Isaiah	24	18	<LH[	<WLH	<WLH			qal	ptca	sg	m	NA	verb				WH	nnnn	nnnn	עולה
 1920636	1Q8	Isaiah	25	7	LWV[	LWV	LWV			qal	ptca	sg	m	NA	verb				H	rrr	nnn	לוט
-1920645	1Q8	Isaiah	25	7	NSK=[	NSWKH	NSWKH			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	נסוכה
+1920645	1Q8	Isaiah	25	7	NSK=[	NSWKH	NSWK			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	נסוכה
 1920712	1Q8	Isaiah	26	2	CMR[	CMR	CMR			qal	ptca	sg	m	NA	verb					rrr	nnn	שמר
 1920716	1Q8	Isaiah	26	3	SMK[	SMWK	SMWK			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	סמוך
 1920738	1Q8	Isaiah	26	5	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	ישבי
@@ -703,7 +703,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1920779	1Q8	Isaiah	28	16	JSD[	JWSD	JWSD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	יוסד
 1920825	1Q8	Isaiah	28	18	CVP[	CWVP	CWVP			qal	ptca	sg	m	NA	verb					rrrn	nnnn	שוטף
 1920957	1Q8	Isaiah	29	5	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר
-1920985	1Q8	Isaiah	29	6	>KL[	>WKLH	>WKLH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	אוכלה
+1920985	1Q8	Isaiah	29	6	>KL[	>WKLH	>WKL			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	אוכלה
 1920998	1Q8	Isaiah	29	7	YB>[	YB>JM	YB>			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	צבאים
 1921020	1Q8	Isaiah	29	8	>KL[	>WKL	>WKL			qal	ptca	sg	m	NA	verb					rrrr	nnnn	אוכל
 1921092	1Q8	Isaiah	30	13	NPL[	NPL	NPL			qal	ptca	sg	m	NA	verb					rrr	nnn	נפל
@@ -762,7 +762,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1923216	1Q8	Isaiah	46	11	QR>[	QR>	QR>			qal	ptca	sg	m	NA	verb					nnn	nnn	קרא
 1923309	1Q8	Isaiah	47	4	G>L[	G>LNW	G>L			qal	ptca	sg	m	NA	verb	NW				nnnnn	nnnnn	גאלנו
 1923373	1Q8	Isaiah	47	8	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb				H	rrrrn	nnnnn	יושבת
-1923377	1Q8	Isaiah	47	8	>MR[	>MRH	>MRH			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	אמרה
+1923377	1Q8	Isaiah	47	8	>MR[	>MRH	>MR			qal	ptca	sg	f	NA	verb		H		H	nnnn	nnnn	אמרה
 1923422	1Q8	Isaiah	47	10	R>H[	R>NJ	R>			qal	ptca	sg	m	NA	verb	NJ				rrrr	nnnn	ראני
 1923487	1Q8	Isaiah	47	13	HBR[	HBRJ	HBR			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	הברי
 1923491	1Q8	Isaiah	47	13	XZH[	XZJM	XZ			qal	ptca	pl	m	NA	verb		JM		H	rrrr	nnnn	חזים
@@ -788,12 +788,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1924446	1Q8	Isaiah	53	4	NG<[	NGW<	NGW<			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	נגוע
 1924504	1Q8	Isaiah	53	7	GZZ[	GZZJH	GZZ			qal	ptca	pl	m	NA	verb	H	J			rrrrr	nnnnn	גזזיה
 1924609	1Q8	Isaiah	53	12	PC<[	PC<JM	PC<			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	פשעים
-1924634	1Q8	Isaiah	54	1	CMM[	CWMMH	CWMMH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	שוממה
-1924637	1Q8	Isaiah	54	1	B<L[	B<WLH	B<WLH			qal	ptcp	sg	f	NA	verb					rrnnn	nnnnn	בעולה
+1924634	1Q8	Isaiah	54	1	CMM[	CWMMH	CWMM			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	שוממה
+1924637	1Q8	Isaiah	54	1	B<L[	B<WLH	B<WL			qal	ptcp	sg	f	NA	verb		H			rrnnn	nnnnn	בעולה
 1924692	1Q8	Isaiah	54	5	B<L[	B<LJK	B<LJ			qal	ptca	sg	m	NA	verb	K				rrrrr	nnnnn	בעליך
 1924693	1Q8	Isaiah	54	5	<FH[	<FJK	<FJ			qal	ptca	sg	m	NA	verb	K				rrrr	nnnn	עשיך
 1924698	1Q8	Isaiah	54	5	G>L[	GW>LK	GW>L			qal	ptca	sg	m	NA	verb	K			W	nnnnn	nnnnn	גואלך
-1924709	1Q8	Isaiah	54	6	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
+1924709	1Q8	Isaiah	54	6	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
 1924711	1Q8	Isaiah	54	6	<YB[	<YWBT	<YWBT			qal	ptcp	sg	f	NA	verb				W	nnnnn	nnnnn	עצובת
 1924876	1Q8	Isaiah	55	10	ZR<[	ZR<	ZR<			qal	ptca	sg	m	NA	verb				L	nnn	nnn	זרע
 1924880	1Q8	Isaiah	55	10	>KL[	>KL	>KL			qal	ptca	sg	m	NA	verb				L	nnn	nnn	אכל
@@ -811,21 +811,21 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1925585	1Q8	Isaiah	58	12	GDR[	GWDR	GWDR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	גודר
 1925690	1Q8	Isaiah	59	4	QR>[	QWR>	QWR>			qal	ptca	sg	m	NA	verb					nnnn	nnnn	קורא
 1925717	1Q8	Isaiah	59	5	>KL[	>WKL	>WKL			qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	אוכל
-1925723	1Q8	Isaiah	59	5	ZWR=[	ZWRH	ZWRH			qal	ptcp	sg	f	NA	verb				WH	rrrr	nnnn	זורה
+1925723	1Q8	Isaiah	59	5	ZWR=[	ZWRH	ZWR			qal	ptcp	sg	f	NA	verb		H		WH	rrrr	nnnn	זורה
 1926000	1Q8	Isaiah	60	11	NHG[	NHWGJM	NHWG			qal	ptcp	pl	m	NA	verb		JM			nnnnnn	nnnnnn	נהוגים
-1926062	1Q8	Isaiah	60	15	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
-1926064	1Q8	Isaiah	60	15	FN>[	FNW>H	FNW>H			qal	ptcp	sg	f	NA	verb				W	nnnnn	nnnnn	שנואה
+1926062	1Q8	Isaiah	60	15	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
+1926064	1Q8	Isaiah	60	15	FN>[	FNW>H	FNW>			qal	ptcp	sg	f	NA	verb		H		W	nnnnn	nnnnn	שנואה
 1926067	1Q8	Isaiah	60	15	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					rrnn	nnnn	עובר
 1926093	1Q8	Isaiah	60	16	G>L[	GW>LK	GW>L			qal	ptca	sg	m	NA	verb	K			W	nnnnn	nnnnn	גואלך
 1926123	1Q8	Isaiah	60	17	NGF[	NGFJK	NGF			qal	ptca	pl	m	NA	verb	K	J		W	nnnnn	nnnnn	נגשיך
 1926226	1Q8	Isaiah	61	1	CBH[	CBWJM	CBW			qal	ptcp	pl	m	NA	verb		JM		L	rrrnn	nnnnn	שבוים
 1926230	1Q8	Isaiah	61	1	>SR[	>SWRJM	>SWR			qal	ptcp	pl	m	NA	verb		JM		WL	rrrrrr	nnnnnn	אסורים
-1926296	1Q8	Isaiah	62	4	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
-1926312	1Q8	Isaiah	62	4	B<L[	B<WLH	B<WLH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	בעולה
+1926296	1Q8	Isaiah	62	4	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
+1926312	1Q8	Isaiah	62	4	B<L[	B<WLH	B<WL			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	בעולה
 1926340	1Q8	Isaiah	62	6	CMR[	CMRJM	CMR			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	שמרים
 1926441	1Q8	Isaiah	62	11	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					nn	nn	בא
 1926456	1Q8	Isaiah	62	12	G>L[	G>WLJ	G>WL			qal	ptcp	pl	m	NA	verb		J			nnnnn	nnnnn	גאולי
-1926461	1Q8	Isaiah	62	12	DRC[	DRWCH	DRWCH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	דרושה
+1926461	1Q8	Isaiah	62	12	DRC[	DRWCH	DRWC			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	דרושה
 1926468	1Q8	Isaiah	63	1	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
 1926476	1Q8	Isaiah	63	1	HDR[	HDWR	HDWR			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	הדור
 1926479	1Q8	Isaiah	63	1	Y<H[	Y<H	Y<H			qal	ptca	sg	m	NA	verb					rrn	nnn	צעה
@@ -853,7 +853,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1927400	1Q8	Isaiah	66	12	NVH[	NWVH	NWVH			qal	ptca	sg	m	NA	verb					nnnr	nnnn	נוטה
 1927408	1Q8	Isaiah	66	12	CVP[	CWVP	CWVP			qal	ptca	sg	m	NA	verb					rrrr	nnnn	שוטף
 1927504	1Q8	Isaiah	66	17	>KL[	>KLJ	>KL			qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	אכלי
-1927524	1Q8	Isaiah	66	18	BW>[	B>H	B>H			qal	ptca	sg	f	NA	verb					nnn	nnn	באה
+1927524	1Q8	Isaiah	66	18	BW>[	B>H	B>			qal	ptca	sg	f	NA	verb		H			nnn	nnn	באה
 1927556	1Q8	Isaiah	66	19	MCK[	MCKJ	MCK			qal	ptca	pl	m	NA	verb		J			nrrr	nnnn	משכי
 1927653	1Q8	Isaiah	66	22	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					nrn	nnn	עשה
 1927654	1Q8	Isaiah	66	22	<MD[	<MDJM	<MD			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	עמדים
@@ -876,7 +876,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1928548	1Q13	Deuteronomy	5	10	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb				W	rrrr	nnnn	עושה
 1928553	1Q13	Deuteronomy	5	10	>HB[	>WHBJ	>WHB			qal	ptca	pl	m	NA	verb		J		L	rrrrr	nnnnn	אוהבי
 1928555	1Q13	Deuteronomy	5	10	CMR[	CWMRJ	CWMR			qal	ptca	pl	m	NA	verb		J		L	rrrrr	nnnnn	שומרי
-1928660	1Q13	Deuteronomy	5	15	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+1928660	1Q13	Deuteronomy	5	15	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 1928697	1Q13	Deuteronomy	5	16	NTN[	NWTN	NWTN			qal	ptca	sg	m	NA	verb					rrrr	nnnn	נותן
 1928764	1Q13	Deuteronomy	5	23	B<R[	B<R	B<R			qal	ptca	sg	m	NA	verb					rrr	nnn	בער
 1928822	1Q13	Deuteronomy	5	25	JSP[	JSPJM	JSP			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	יספים
@@ -951,11 +951,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1933621	2Q16	Ruth	3	2	ZRH[	ZRH	ZRH			qal	ptca	sg	m	NA	verb					rrr	nnn	זרה
 1933726	2Q16	Ruth	3	8	CKB[	CKBT	CKBT			qal	ptca	sg	f	NA	verb					rrrr	nnnn	שכבת
 1933732	2Q16	Ruth	4	3	G>L[	G>L	G>L			qal	ptca	sg	m	NA	verb				L	rrr	nnn	גאל
-1933982	3Q3	Lamentations	1	11	ZLL[	ZWLLH	ZWLLH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	זוללה
+1933982	3Q3	Lamentations	1	11	ZLL[	ZWLLH	ZWLL			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	זוללה
 1933987	3Q3	Lamentations	1	12	<BR[	<BRJ	<BR			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	עברי
 1934084	3Q3	Lamentations	3	62	QWM[	QMJ	QM			qal	ptca	pl	m	NA	verb		J			rrr	nnn	קמי
 1934717	4Q1	Genesis	36	20	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	ישבי
-1934926	4Q1	Genesis	37	25	BW>[	B>H	B>H			qal	ptca	sg	f	NA	verb					rrr	nnn	באה
+1934926	4Q1	Genesis	37	25	BW>[	B>H	B>			qal	ptca	sg	f	NA	verb		H			rrr	nnn	באה
 1934931	4Q1	Genesis	37	25	NF>[	NF>JM	NF>			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	נשאים
 1934937	4Q1	Genesis	37	25	HLK[	HWLKJM	HWLK			qal	ptca	pl	m	NA	verb		JM			rrrrrr	nnnnnn	הולכים
 1935172	4Q1	Genesis	39	20	>SR[	>SWRJM	>SWR			qal	ptcp	pl	m	NA	verb		JM			nnnnnn	nnnnnn	אסורים
@@ -985,7 +985,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1936745	4Q1	Exodus	5	14	NGF[	NGFJ	NGF			qal	ptca	pl	m	NA	verb		J			rrnn	nnnn	נגשי
 1936788	4Q1	Exodus	5	16	>MR[	>MRJM	>MR			qal	ptca	pl	m	NA	verb		JM			nrrrr	nnnnn	אמרים
 1936807	4Q1	Exodus	5	17	>MR[	>MRJM	>MR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	אמרים
-1936857	4Q1	Exodus	6	6	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+1936857	4Q1	Exodus	6	6	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 1937930	4Q2	Genesis	1	11	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					nnn	nnn	עשה
 1937956	4Q2	Genesis	1	12	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					nnn	nnn	עשה
 1938142	4Q2	Genesis	1	21	RMF[	RMFT	RMFT			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	רמשת
@@ -1093,7 +1093,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1949574	4Q14	Exodus	13	21	HLK[	HLK	HLK			qal	ptca	sg	m	NA	verb					rrr	nnn	הלך
 1949736	4Q14	Exodus	14	7	BXR[	BXWR	BXWR			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	בחור
 1949762	4Q14	Exodus	14	8	JY>[	JY>JM	JY>			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	יצאים
-1949765	4Q14	Exodus	14	8	RWM[	RMH	RMH			qal	ptca	sg	f	NA	verb					rrr	nnn	רמה
+1949765	4Q14	Exodus	14	8	RWM[	RMH	RM			qal	ptca	sg	f	NA	verb		H			rrr	nnn	רמה
 1949774	4Q14	Exodus	14	9	XNH[	XNJM	XN			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	חנים
 1949807	4Q14	Exodus	14	10	NS<[	NS<JM	NS<			qal	ptca	pl	m	NA	verb		JM			rrnnr	nnnnn	נסעים
 1949938	4Q14	Exodus	15	11	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					rrr	nnn	עשה
@@ -1134,7 +1134,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1954968	4Q22	Exodus	13	5	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					rrr	nnn	זבת
 1955124	4Q22	Exodus	14	7	BXR[	BXWR	BXWR			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	בחור
 1955143	4Q22	Exodus	14	8	JY>[	JY>JM	JY>			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	יצאים
-1955146	4Q22	Exodus	14	8	RWM[	RMH	RMH			qal	ptca	sg	f	NA	verb					rrr	nnn	רמה
+1955146	4Q22	Exodus	14	8	RWM[	RMH	RM			qal	ptca	sg	f	NA	verb		H			rrr	nnn	רמה
 1955155	4Q22	Exodus	14	9	XNH[	XNJM	XN			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	חנים
 1955312	4Q22	Exodus	15	26	RP>[	RWP>K	RWP>			qal	ptca	sg	m	NA	verb	K				nnrnn	nnnnn	רופאך
 1955707	4Q22	Exodus	17	6	<MD[	<MD	<MD			qal	ptca	sg	m	NA	verb					rrr	nnn	עמד
@@ -1192,10 +1192,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1962006	4Q23	Leviticus	14	46	BW>[	B>	B>			qal	ptca	sg	m	NA	verb				WH	nn	nn	בא
 1962020	4Q23	Leviticus	14	47	CKB[	CKB	CKB			qal	ptca	sg	m	NA	verb				WH	rrr	nnn	שכב
 1962028	4Q23	Leviticus	14	47	>KL[	>KL	>KL			qal	ptca	sg	m	NA	verb				WH	nnn	nnn	אכל
-1962128	4Q23	Leviticus	14	51	CXV[	CXWVH	CXWVH			qal	ptcp	sg	f	NA	verb				H	rnnnn	nnnnn	שחוטה
+1962128	4Q23	Leviticus	14	51	CXV[	CXWVH	CXWV			qal	ptcp	sg	f	NA	verb		H		H	rnnnn	nnnnn	שחוטה
 1962218	4Q23	Leviticus	15	10	NF>[	NWF>	NWF>			qal	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נושא
 1962238	4Q23	Leviticus	15	11	ZWB[	ZB	ZB			qal	ptca	sg	m	NA	verb				H	rr	nn	זב
-1962258	4Q23	Leviticus	15	19	ZWB[	ZBH	ZBH			qal	ptca	sg	f	NA	verb					rrr	nnn	זבה
+1962258	4Q23	Leviticus	15	19	ZWB[	ZBH	ZB			qal	ptca	sg	f	NA	verb		H			rrr	nnn	זבה
 1962272	4Q23	Leviticus	15	19	NG<[	NG<	NG<			qal	ptca	sg	m	NA	verb				H	rrr	nnn	נגע
 1962297	4Q23	Leviticus	15	21	NG<[	NG<	NG<			qal	ptca	sg	m	NA	verb				H	rrr	nnn	נגע
 1962315	4Q23	Leviticus	15	22	NG<[	NG<	NG<			qal	ptca	sg	m	NA	verb				H	rrr	nnn	נגע
@@ -1233,13 +1233,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1964419	4Q23	Numbers	5	2	ZWB[	ZB	ZB			qal	ptca	sg	m	NA	verb					rr	nn	זב
 1964445	4Q23	Numbers	5	3	CKN[	CKN	CKN			qal	ptca	sg	m	NA	verb					rrr	nnn	שכן
 1964534	4Q23	Numbers	5	8	G>L[	G>L	G>L			qal	ptca	sg	m	NA	verb					nnn	nnn	גאל
-1964600	4Q23	Numbers	8	8	BLL[	BLWLH	BLWLH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	בלולה
+1964600	4Q23	Numbers	8	8	BLL[	BLWLH	BLWL			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	בלולה
 1964994	4Q23	Numbers	10	17	NF>[	NF>J	NF>			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	נשאי
 1965036	4Q23	Numbers	10	21	NF>[	NF>J	NF>			qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	נשאי
 1965485	4Q23	Numbers	22	5	JCB[	JCB	JCB			qal	ptca	sg	m	NA	verb					nnn	nnn	ישב
 1965525	4Q23	Numbers	22	22	HLK[	HLK	HLK			qal	ptca	sg	m	NA	verb					nnn	nnn	הלך
 1965538	4Q23	Numbers	22	22	RKB[	RKB	RKB			qal	ptca	sg	m	NA	verb					rrr	nnn	רכב
-1965558	4Q23	Numbers	22	23	CLP[	CLWPH	CLWPH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	שלופה
+1965558	4Q23	Numbers	22	23	CLP[	CLWPH	CLWP			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	שלופה
 1965629	4Q23	Numbers	26	7	PQD[	PQDJHM	PQD			qal	ptcp	pl	m	NA	verb	HM	J			rrrrrr	nnnnnn	פקדיהם
 1965716	4Q23	Numbers	32	11	<LH[	<LJM	<L			qal	ptca	pl	m	NA	verb		JM		H	nnnn	nnnn	עלים
 1965775	4Q23	Numbers	32	13	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb				H	rrr	nnn	עשה
@@ -1252,14 +1252,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1966382	4Q23	Numbers	33	52	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	ישבי
 1966990	4Q24	Leviticus	2	4	BLL[	BLWLT	BLWL			qal	ptcp	pl	f	NA	verb		T			rrrrr	nnnnn	בלולת
 1966996	4Q24	Leviticus	2	4	MCX[	MCXJM	MCX			qal	ptcp	pl	m	NA	verb		JM			rrrrr	nnnnn	משחים
-1967008	4Q24	Leviticus	2	5	BLL[	BLWLH	BLWLH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	בלולה
+1967008	4Q24	Leviticus	2	5	BLL[	BLWLH	BLWL			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	בלולה
 1967160	4Q24	Leviticus	2	14	QLH[	QLWJ	QLWJ			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	קלוי
 1967390	4Q24	Leviticus	21	18	XRM=[	XRM	XRM			qal	ptcp	sg	m	NA	verb					rrr	nnn	חרם
 1967392	4Q24	Leviticus	21	18	FR<[	FRW<	FRW<			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	שרוע
 1967574	4Q24	Leviticus	22	4	YR<[	YRW<	YRW<			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	צרוע
 1967576	4Q24	Leviticus	22	4	ZWB[	ZB	ZB			qal	ptca	sg	m	NA	verb					rr	nn	זב
 1967586	4Q24	Leviticus	22	4	NG<[	NG<	NG<			qal	ptca	sg	m	NA	verb				WH	rrr	nnn	נגע
-1967741	4Q24	Leviticus	22	13	GRC[	GRWCH	GRWCH			qal	ptcp	sg	f	NA	verb				W	rrrrr	nnnnn	גרושה
+1967741	4Q24	Leviticus	22	13	GRC[	GRWCH	GRWC			qal	ptcp	sg	f	NA	verb		H		W	rrrrr	nnnnn	גרושה
 1967950	4Q24	Leviticus	22	23	FR<[	FRW>	FRW>			qal	ptcp	sg		NA	verb					nnrn	nnnn	שרוא
 1967951	4Q24	Leviticus	22	23	FR<[	FRW<	FRW<			qal	ptcp	sg	m	NA	verb					rnnn	nnnn	שרוע
 1967953	4Q24	Leviticus	22	23	QLV[	QLWV	QLWV			qal	ptcp	sg	m	NA	verb				W	nrrn	nnnn	קלוט
@@ -1268,7 +1268,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1967968	4Q24	Leviticus	22	24	NTQ[	NTWQ	NTWQ			qal	ptcp	sg	m	NA	verb				W	rrrr	nnnn	נתוק
 1967970	4Q24	Leviticus	22	24	KRT[	KRWT	KRWT			qal	ptcp	sg	m	NA	verb				W	nnnn	nnnn	כרות
 1968255	4Q24	Leviticus	23	10	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
-1968311	4Q24	Leviticus	23	13	BLL[	BLWLH	BLWLH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	בלולה
+1968311	4Q24	Leviticus	23	13	BLL[	BLWLH	BLWL			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	בלולה
 1968843	4Q24	Leviticus	24	14	CM<[	CM<JM	CM<			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	שמעים
 1968872	4Q24	Leviticus	24	16	NQB[	NQB	NQB			qal	ptca	sg	m	NA	verb				W	nnn	nnn	נקב
 1969012	4Q24	Leviticus	25	28	QNH[	QNH	QNH			qal	ptca	sg	m	NA	verb				H	rrr	nnn	קנה
@@ -1289,7 +1289,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1970877	4Q26a	Leviticus	22	4	YR<[	YRW<	YRW<			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	צרוע
 1970879	4Q26a	Leviticus	22	4	ZWB[	ZB	ZB			qal	ptca	sg	m	NA	verb					rr	nn	זב
 1970889	4Q26a	Leviticus	22	4	NG<[	NG<	NG<			qal	ptca	sg	m	NA	verb				WH	rrr	nnn	נגע
-1970958	4Q26a	Leviticus	22	13	GRC[	GRWCH	GRWCH			qal	ptcp	sg	f	NA	verb				W	rrrrr	nnnnn	גרושה
+1970958	4Q26a	Leviticus	22	13	GRC[	GRWCH	GRWC			qal	ptcp	sg	f	NA	verb		H		W	rrrrr	nnnnn	גרושה
 1971166	4Q26b	Leviticus	7	25	>KL[	>WKL	>WKL			qal	ptca	sg	m	NA	verb					rrrr	nnnn	אוכל
 1971182	4Q26b	Leviticus	7	25	>KL[	>WKLT	>WKLT			qal	ptca	sg	f	NA	verb				H	rrrrr	nnnnn	אוכלת
 1971380	4Q26c	Leviticus	26	36	RDP[	RDP	RDP			qal	ptca	sg	m	NA	verb					rrr	nnn	רדף
@@ -1306,7 +1306,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1973403	4Q27	Numbers	22	11	JY>[	JY>	JY>			qal	ptca	sg	m	NA	verb					nnn	nnn	יצא
 1973414	4Q27	Numbers	22	11	JCB[	JWCB	JWCB			qal	ptca	sg		NA	verb					nnnn	nnnn	יושב
 1973451	4Q27	Numbers	22	12	BRK[	BRWK	BRWK			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	ברוך
-1973663	4Q27	Numbers	22	31	CLP[	CLWPH	CLWPH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	שלופה
+1973663	4Q27	Numbers	22	31	CLP[	CLWPH	CLWP			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	שלופה
 1974130	4Q27	Numbers	24	2	CKN[	CWKN	CWKN			qal	ptca	sg	m	NA	verb					rrrr	nnnn	שוכן
 1974160	4Q27	Numbers	24	4	NPL[	NWPL	NWPL			qal	ptca	sg	m	NA	verb					rrnn	nnnn	נופל
 1974162	4Q27	Numbers	24	4	GLH[	GLWJ	GLWJ			qal	ptcp	sg	m	NA	verb				W	nnnn	nnnn	גלוי
@@ -1347,7 +1347,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1976884	4Q27	Numbers	32	27	DBR[	DWBR	DWBR			qal	ptca	sg	m	NA	verb					rrrr	nnnn	דובר
 1976932	4Q27	Numbers	32	29	XLY[	XLWY	XLWY			qal	ptcp	sg	m	NA	verb					rnnn	nnnn	חלוץ
 1976958	4Q27	Numbers	32	30	XLY[	XLWYJM	XLWY			qal	ptcp	pl	m	NA	verb		JM			rrrrrr	nnnnnn	חלוצים
-1977154	4Q27	Numbers	33	3	RWM[	RMH	RMH			qal	ptca	sg	f	NA	verb					rrr	nnn	רמה
+1977154	4Q27	Numbers	33	3	RWM[	RMH	RM			qal	ptca	sg	f	NA	verb		H			rrr	nnn	רמה
 1977325	4Q27	Numbers	33	51	<BR[	<WBRJM	<WBR			qal	ptca	pl	m	NA	verb		JM			rrrrrr	nnnnnn	עוברים
 1977337	4Q27	Numbers	33	52	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			rrrrr	nnnnn	יושבי
 1977597	4Q27	Numbers	35	11	RYX[	RWYX	RWYX			qal	ptca	sg	m	NA	verb				H	rrrr	nnnn	רוצח
@@ -1375,7 +1375,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1978442	4Q28	Deuteronomy	24	4	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					nnn	nnn	נתן
 1978482	4Q28	Deuteronomy	24	6	XBL[	XBL	XBL			qal	ptca	sg	m	NA	verb					nnn	nnn	חבל
 1978487	4Q28	Deuteronomy	24	7	GNB[	GNB	GNB			qal	ptca	sg	m	NA	verb					nnr	nnn	גנב
-1978593	4Q29	Deuteronomy	29	26	KTB[	KTWBH	KTWBH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	כתובה
+1978593	4Q29	Deuteronomy	29	26	KTB[	KTWBH	KTWB			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	כתובה
 1978705	4Q29	Deuteronomy	30	7	FN>[	FN>JK	FN>			qal	ptca	pl	m	NA	verb	K	J			rrrrr	nnnnn	שנאיך
 1978775	4Q29	Deuteronomy	30	10	KTB[	KTWBJM	KTWB			qal	ptcp	pl	m	NA	verb		JM		H	nnnnnn	nnnnnn	כתובים
 1978880	4Q29	Deuteronomy	31	9	NF>[	NF>JM	NF>			qal	ptca	pl	m	NA	verb		JM		H	nnnnn	nnnnn	נשאים
@@ -1387,7 +1387,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1979362	4Q30	Deuteronomy	2	29	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
 1979461	4Q30	Deuteronomy	4	1	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
 1979498	4Q30	Deuteronomy	4	14	<BR[	<BRJM	<BR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	עברים
-1979828	4Q30	Deuteronomy	9	29	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rrrrn	nnnnn	נטויה
+1979828	4Q30	Deuteronomy	9	29	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rrrrn	nnnnn	נטויה
 1979963	4Q30	Deuteronomy	11	9	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					nnn	nnn	זבת
 1979973	4Q30	Deuteronomy	11	10	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
 1980004	4Q30	Deuteronomy	11	11	<BR[	<BRJM	<BR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	עברים
@@ -1423,7 +1423,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1982542	4Q32	Deuteronomy	7	14	BRK[	BRWK	BRWK			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	ברוך
 1982579	4Q32	Deuteronomy	7	15	FN>[	FN>JK	FN>			qal	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	שנאיך
 1982854	4Q32	Deuteronomy	8	7	JY>[	JY>JM	JY>			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	יצאים
-1982989	4Q33	Deuteronomy	4	24	>KL[	>KLH	>KLH			qal	ptca	sg	f	NA	verb					rrrr	nnnn	אכלה
+1982989	4Q33	Deuteronomy	4	24	>KL[	>KLH	>KL			qal	ptca	sg	f	NA	verb		H			rrrr	nnnn	אכלה
 1983043	4Q33	Deuteronomy	4	26	<BR[	<BRJM	<BR			qal	ptca	pl	m	NA	verb		JM			nnrrr	nnnnn	עברים
 1983266	4Q33	Deuteronomy	8	7	JY>[	JY>JM	JY>			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	יצאים
 1983398	4Q33	Deuteronomy	9	6	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
@@ -1436,7 +1436,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1983720	4Q33	Deuteronomy	19	17	CPV[	CPVJM	CPV			qal	ptca	pl	m	NA	verb		JM		WH	rrrrn	nnnnn	שפטים
 1983731	4Q33	Deuteronomy	19	18	CPV[	CPVJM	CPV			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	שפטים
 1983878	4Q33	Deuteronomy	20	4	HLK[	HLK	HLK			qal	ptca	sg	m	NA	verb				H	rrr	nnn	הלך
-1984086	4Q33	Deuteronomy	21	6	<RP=[	<RWPH	<RWPH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	ערופה
+1984086	4Q33	Deuteronomy	21	6	<RP=[	<RWPH	<RWP			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	ערופה
 1984347	4Q33	Deuteronomy	23	21	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
 1984508	4Q33	Deuteronomy	24	4	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
 1984549	4Q33	Deuteronomy	24	6	XBL[	XBL	XBL			qal	ptca	sg	m	NA	verb					rrr	nnn	חבל
@@ -1471,7 +1471,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1986567	4Q35	Deuteronomy	2	29	JCB[	JCBJM	JCB			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	ישבים
 1986574	4Q35	Deuteronomy	2	29	JCB[	JWCBJM	JWCB			qal	ptca	pl	m	NA	verb		JM		H	nnnnnr	nnnnnn	יושבים
 1986589	4Q35	Deuteronomy	2	29	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
-1986704	4Q35	Deuteronomy	4	34	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+1986704	4Q35	Deuteronomy	4	34	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 1986728	4Q35	Deuteronomy	31	9	NF>[	NF>JM	NF>			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	נשאים
 1986814	4Q35	Deuteronomy	33	9	>MR[	>MR	>MR			qal	ptca	sg	m	NA	verb				H	rrr	nnn	אמר
 1986864	4Q35	Deuteronomy	33	11	QWM[	QMW	QM			qal	ptca	sg	m	NA	verb	W				rrr	nnn	קמו
@@ -1494,7 +1494,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1987789	4Q37	Deuteronomy	5	10	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb				W	rrr	nnn	עשה
 1987794	4Q37	Deuteronomy	5	10	>HB[	>HBJ	>HB			qal	ptca	pl	m	NA	verb		J		L	rrrr	nnnn	אהבי
 1987797	4Q37	Deuteronomy	5	10	CMR[	CWMRJ	CWMR			qal	ptca	pl	m	NA	verb		J		WL	nnnnr	nnnnn	שומרי
-1987883	4Q37	Deuteronomy	5	15	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+1987883	4Q37	Deuteronomy	5	15	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 1987973	4Q37	Deuteronomy	5	23	B<R[	BW<R	BW<R			qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוער
 1988173	4Q37	Deuteronomy	5	31	NTN[	NWTN	NWTN			qal	ptca	sg	m	NA	verb					rnnn	nnnn	נותן
 1988239	4Q37	Deuteronomy	6	1	<BR[	<WBRJM	<WBR			qal	ptca	pl	m	NA	verb		JM			rrrrrr	nnnnnn	עוברים
@@ -1532,7 +1532,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1990754	4Q40	Deuteronomy	3	18	XLY[	XLWYJM	XLWY			qal	ptcp	pl	m	NA	verb		JM			rrrrrr	nnnnnn	חלוצים
 1990801	4Q40	Deuteronomy	3	20	NTN[	NWTN	NWTN			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נותן
 1990828	4Q40	Deuteronomy	3	21	R>H[	R>T	R>			qal	ptca	pl	f	NA	verb		T		H	rrr	nnn	ראת
-1990960	4Q40	Deuteronomy	7	19	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	נטויה
+1990960	4Q40	Deuteronomy	7	19	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	נטויה
 1991080	4Q41	Deuteronomy	8	7	JY>[	JY>JM	JY>			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	יצאים
 1991163	4Q41	Deuteronomy	5	1	DBR[	DWBR	DWBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	דובר
 1991221	4Q41	Deuteronomy	5	5	<MD[	<WMD	<WMD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עומד
@@ -1541,12 +1541,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1991325	4Q41	Deuteronomy	5	10	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עושה
 1991330	4Q41	Deuteronomy	5	10	>HB[	>WHBJ	>WHB			qal	ptca	pl	m	NA	verb		J		L	nnnnn	nnnnn	אוהבי
 1991333	4Q41	Deuteronomy	5	10	CMR[	CWMRJ	CWMR			qal	ptca	pl	m	NA	verb		J		WL	nnnnn	nnnnn	שומרי
-1991438	4Q41	Deuteronomy	5	15	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
+1991438	4Q41	Deuteronomy	5	15	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
 1991516	4Q41	Deuteronomy	5	16	NTN[	NWTN	NWTN			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נותן
 1991603	4Q41	Deuteronomy	5	23	B<R[	BW<R	BW<R			qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוער
 1991661	4Q41	Deuteronomy	5	25	JSP[	JWSPJM	JWSP			qal	ptca	pl	m	NA	verb		JM			nrrrrr	nnnnnn	יוספים
 1991808	4Q41	Deuteronomy	5	31	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
-1992022	4Q42	Deuteronomy	4	34	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+1992022	4Q42	Deuteronomy	4	34	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 1992059	4Q42	Deuteronomy	5	1	DBR[	DBR	DBR			qal	ptca	sg	m	NA	verb					rrr	nnn	דבר
 1992114	4Q42	Deuteronomy	5	5	<MD[	<MD	<MD			qal	ptca	sg	m	NA	verb					nnn	nnn	עמד
 1992153	4Q42	Deuteronomy	5	9	PQD[	PQD	PQD			qal	ptca	sg		NA	verb					rrr	nnn	פקד
@@ -1566,7 +1566,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1993115	4Q45	Deuteronomy	7	9	CMR[	CWMRJ	CWMR			qal	ptca	pl	m	NA	verb		J		WL	rrrrr	nnnnn	שומרי
 1993124	4Q45	Deuteronomy	7	10	FN>[	FWN>JW	FWN>			qal	ptca	pl	m	NA	verb	W	J			rrrrrr	nnnnnn	שונאיו
 1993142	4Q45	Deuteronomy	7	16	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
-1993211	4Q45	Deuteronomy	7	19	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rnnnn	nnnnn	נטויה
+1993211	4Q45	Deuteronomy	7	19	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rnnnn	nnnnn	נטויה
 1993356	4Q45	Deuteronomy	10	12	C>L[	C>L	C>L			qal	ptca	sg	m	NA	verb					rrr	nnn	שאל
 1993440	4Q45	Deuteronomy	11	30	JCB[	JCB	JCB			qal	ptca	sg	m	NA	verb				H	rrr	nnn	ישב
 1993451	4Q45	Deuteronomy	11	31	<BR[	<BRJM	<BR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	עברים
@@ -1723,7 +1723,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2005928	4Q51	2_Samuel	12	4	BW>[	B>	B>			qal	ptca	sg	m	NA	verb				H	nn	nn	בא
 2005950	4Q51	2_Samuel	12	5	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb				H	rrr	nnn	עשה
 2006383	4Q51	2_Samuel	13	4	>HB[	>WHB	>WHB			qal	ptca	sg	m	NA	verb					rrrr	nnnn	אוהב
-2006634	4Q51	2_Samuel	13	20	CMM[	CWMMH	CWMMH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	שוממה
+2006634	4Q51	2_Samuel	13	20	CMM[	CWMMH	CWMM			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	שוממה
 2006699	4Q51	2_Samuel	13	23	GZZ[	GWZZJM	GWZZ			qal	ptca	pl	m	NA	verb		JM			rrrrrr	nnnnnn	גוזזים
 2006726	4Q51	2_Samuel	13	24	GZZ[	GWZZJM	GWZZ			qal	ptca	pl	m	NA	verb		JM			rrrrnn	nnnnnn	גוזזים
 2006981	4Q51	2_Samuel	13	34	YPH[	YWPH	YWPH			qal	ptca	sg	m	NA	verb				H	rrrr	nnnn	צופה
@@ -1758,7 +1758,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2009558	4Q51	2_Samuel	21	16	XGR[	XGWR	XGWR			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	חגור
 2009596	4Q51	2_Samuel	22	18	FN>[	FWN>J	FWN>			qal	ptca	pl	m	NA	verb		J		M	rrrrr	nnnnn	שונאי
 2009699	4Q51	2_Samuel	22	28	RWM[	RMJM	RM			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	רמים
-2009729	4Q51	2_Samuel	22	31	YRP[	YRWPH	YRWPH			qal	ptcp	sg	f	NA	verb					rrrrn	nnnnn	צרופה
+2009729	4Q51	2_Samuel	22	31	YRP[	YRWPH	YRWP			qal	ptcp	sg	f	NA	verb		H			rrrrn	nnnnn	צרופה
 2009734	4Q51	2_Samuel	22	31	XSH[	XWSJM	XWS			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	חוסים
 2009794	4Q51	2_Samuel	22	37	QWM[	QMJ	QM			qal	ptca	pl		NA	verb	J				rrr	nnn	קמי
 2009822	4Q51	2_Samuel	22	40	QWM[	QMJ	QM			qal	ptca	pl	m	NA	verb		J			nnn	nnn	קמי
@@ -1766,8 +1766,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2009896	4Q51	2_Samuel	22	48	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					nnn	nnn	נתן
 2009910	4Q51	2_Samuel	22	49	QWM[	QMJ	QM			qal	ptca	pl	m	NA	verb		J		WM	rrr	nnn	קמי
 2009932	4Q51	2_Samuel	22	51	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb				W	nnnn	nnnn	עושה
-2010021	4Q51	2_Samuel	23	5	<RK[	<RWKH	<RWKH			qal	ptcp	sg	f	NA	verb					rrrrn	nnnnn	ערוכה
-2010025	4Q51	2_Samuel	23	5	CMR[	CMWRH	CMWRH			qal	ptcp	sg	f	NA	verb				W	rrrrr	nnnnn	שמורה
+2010021	4Q51	2_Samuel	23	5	<RK[	<RWKH	<RWK			qal	ptcp	sg	f	NA	verb		H			rrrrn	nnnnn	ערוכה
+2010025	4Q51	2_Samuel	23	5	CMR[	CMWRH	CMWR			qal	ptcp	sg	f	NA	verb		H		W	rrrrr	nnnnn	שמורה
 2010182	4Q51	2_Samuel	24	16	<MD[	<WMD	<WMD			qal	ptca	sg		NA	verb					nnnn	nnnn	עומד
 2010198	4Q51	2_Samuel	24	16	<MD[	<WMD	<WMD			qal	ptca	sg		NA	verb					rrrr	nnnn	עומד
 2010208	4Q51	2_Samuel	24	16	CLP[	CLWPH	CLWPH			qal	ptcp	sg		NA	verb					nnnnn	nnnnn	שלופה
@@ -1777,10 +1777,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2010334	4Q51	2_Samuel	24	20	BW>[	B>JM	B>			qal	ptca	pl		NA	verb		JM			nnrr	nnnn	באים
 2011417	4Q52	1_Samuel	19	14	XLH[	XLH	XLH			qal	ptca	sg	m	NA	verb					rrr	nnn	חלה
 2011916	4Q52	1_Samuel	21	3	CLX[	CLXK	CLX			qal	ptca	sg	m	NA	verb	K				rrrn	nnnn	שלחך
-2011986	4Q52	1_Samuel	21	6	<YR[	<YRH	<YRH			qal	ptcp	sg	f	NA	verb					rrrr	nnnn	עצרה
+2011986	4Q52	1_Samuel	21	6	<YR[	<YRH	<YR			qal	ptcp	sg	f	NA	verb		H			rrrr	nnnn	עצרה
 2012064	4Q52	1_Samuel	21	8	R<H[	R<JM	R<			qal	ptca	pl	m	NA	verb		JM		H	rrrn	nnnn	רעים
 2012098	4Q52	1_Samuel	21	9	NXY[	NXWY	NXWY			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	נחוץ
-2012116	4Q52	1_Samuel	21	10	LWV[	LWVH	LWVH			qal	ptcp	sg	f	NA	verb					rrrr	nnnn	לוטה
+2012116	4Q52	1_Samuel	21	10	LWV[	LWVH	LWV			qal	ptcp	sg	f	NA	verb		H			rrrr	nnnn	לוטה
 2012151	4Q52	1_Samuel	22	9	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
 2012375	4Q52	1_Samuel	23	17	JD<[	JD<	JD<			qal	ptca	sg	m	NA	verb					rrr	nnn	ידע
 2012442	4Q52	1_Samuel	23	21	BRK[	BRWKJM	BRWK			qal	ptcp	pl	m	NA	verb		JM			rrrrrr	nnnnnn	ברוכים
@@ -1806,7 +1806,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2014618	4Q55	Isaiah	6	8	>MR[	>WMR	>WMR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	אומר
 2014671	4Q55	Isaiah	11	13	YRR=[	YRRJ	YRR			qal	ptca	pl	m	NA	verb		J		W	rrrr	nnnn	צררי
 2014820	4Q55	Isaiah	13	5	BW>[	B>JM	B>			qal	ptca	pl	m	NA	verb		JM			nnnn	nnnn	באים
-2014867	4Q55	Isaiah	13	8	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	rrrrr	nnnnn	יולדה
+2014867	4Q55	Isaiah	13	8	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	rrrrr	nnnnn	יולדה
 2014880	4Q55	Isaiah	13	9	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
 2015024	4Q55	Isaiah	17	9	<ZB[	<ZWBT	<ZWBT			qal	ptcp	sg	f	NA	verb				K	rrrrr	nnnnn	עזובת
 2015134	4Q55	Isaiah	17	14	CSH[	CWSJNW	CWS			qal	ptca	pl	m	NA	verb	NW	J			rrrrrr	nnnnnn	שוסינו
@@ -1818,7 +1818,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2015338	4Q55	Isaiah	21	2	BGD[	BWGD	BWGD			qal	ptca	sg	m	NA	verb					rrrr	nnnn	בוגד
 2015341	4Q55	Isaiah	21	2	CDD[	CWDD	CWDD			qal	ptca	sg	m	NA	verb				WH	rrrr	nnnn	שודד
 2015342	4Q55	Isaiah	21	2	CDD[	CWDD	CWDD			qal	ptca	sg	m	NA	verb					rrrr	nnnn	שודד
-2015361	4Q55	Isaiah	21	3	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	יולדה
+2015361	4Q55	Isaiah	21	3	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	יולדה
 2015432	4Q55	Isaiah	21	8	<MD[	<WMD	<WMD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עומד
 2015447	4Q55	Isaiah	21	9	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
 2015485	4Q55	Isaiah	21	11	QR>[	QR>	QR>			qal	ptca	sg	m	NA	verb					rrr	nnn	קרא
@@ -1827,14 +1827,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2015498	4Q55	Isaiah	21	12	CMR[	CMR	CMR			qal	ptca	sg	m	NA	verb					rrr	nnn	שמר
 2015526	4Q55	Isaiah	21	14	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	ישבי
 2015533	4Q55	Isaiah	21	14	NDD[	NWDD	NWDD			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נודד
-2015543	4Q55	Isaiah	21	15	NVC[	NVWCH	NVWCH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטושה
-2015548	4Q55	Isaiah	21	15	DRK[	DRWKH	DRWKH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	דרוכה
+2015543	4Q55	Isaiah	21	15	NVC[	NVWCH	NVWC			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטושה
+2015548	4Q55	Isaiah	21	15	DRK[	DRWKH	DRWK			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	דרוכה
 2015651	4Q55	Isaiah	22	16	XYB[	XYBJ	XYBJ			qal	ptca	sg	m	NA	verb					rnnn	nnnn	חצבי
 2015654	4Q55	Isaiah	22	16	XQQ[	XQQJ	XQQJ			qal	ptca	sg	m	NA	verb					nnnn	nnnn	חקקי
 2015728	4Q55	Isaiah	22	21	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	יושב
 2015746	4Q55	Isaiah	22	22	SGR[	SWGR	SWGR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	סוגר
 2015751	4Q55	Isaiah	22	22	PTX[	PWTX	PWTX			qal	ptca	sg	m	NA	verb					rrnn	nnnn	פותח
-2015806	4Q55	Isaiah	22	25	TQ<[	TQW<H	TQW<H			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	תקועה
+2015806	4Q55	Isaiah	22	25	TQ<[	TQW<H	TQW<			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	תקועה
 2015842	4Q55	Isaiah	23	2	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	יושבי
 2015844	4Q55	Isaiah	23	2	SXR[	SXR	SXR			qal	ptca	sg	m	NA	verb					nnr	nnn	סחר
 2015899	4Q55	Isaiah	23	6	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	ישבי
@@ -1851,7 +1851,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2016561	4Q56	Isaiah	5	20	>MR[	>MRJM	>MR			qal	ptca	pl	m	NA	verb		JM		H	nnnnn	nnnnn	אמרים
 2016569	4Q56	Isaiah	5	20	FJM[	FMJM	FM			qal	ptca	pl	m	NA	verb		JM			nnnn	nnnn	שמים
 2016577	4Q56	Isaiah	5	20	FJM[	FMJM	FM			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	שמים
-2016684	4Q56	Isaiah	5	25	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+2016684	4Q56	Isaiah	5	25	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 2016710	4Q56	Isaiah	5	27	KCL[	KWCL	KWCL			qal	ptca	sg	m	NA	verb					rrrr	nnnn	כושל
 2016730	4Q56	Isaiah	5	28	CNN[	CNWNJM	CNWN			qal	ptcp	pl	m	NA	verb		JM			rrrrrr	nnnnnn	שנונים
 2016734	4Q56	Isaiah	5	28	DRK[	DRKWT	DRK			qal	ptcp	pl	f	NA	verb		WT			rrrrr	nnnnn	דרכות
@@ -1879,7 +1879,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2017896	4Q56	Isaiah	21	12	CMR[	CMR	CMR			qal	ptca	sg	m	NA	verb					rrr	nnn	שמר
 2017924	4Q56	Isaiah	21	14	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	ישבי
 2017930	4Q56	Isaiah	21	14	NDD[	NDD	NDD			qal	ptca	sg	m	NA	verb					rrr	nnn	נדד
-2017974	4Q56	Isaiah	22	25	TQ<[	TQW<H	TQW<H			qal	ptcp	sg	f	NA	verb				H	rrrrn	nnnnn	תקועה
+2017974	4Q56	Isaiah	22	25	TQ<[	TQW<H	TQW<			qal	ptcp	sg	f	NA	verb		H		H	rrrrn	nnnnn	תקועה
 2017998	4Q56	Isaiah	24	2	QNH[	QWNH	QWNH			qal	ptca	sg	m	NA	verb				K	rrrr	nnnn	קונה
 2018000	4Q56	Isaiah	24	2	MKR[	MWKR	MWKR			qal	ptca	sg	m	NA	verb				K	rrrr	nnnn	מוכר
 2018004	4Q56	Isaiah	24	2	LWH=[	LWWH	LWWH			qal	ptca	sg	m	NA	verb				K	nnnn	nnnn	לווה
@@ -1956,7 +1956,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2020178	4Q57	Isaiah	9	4	S>N[	S>N	S>N			qal	ptca	sg	m	NA	verb					rrr	nnn	סאן
 2020210	4Q57	Isaiah	9	5	J<Y[	JW<Y	JW<Y			qal	ptca	sg	m	NA	verb					rrrr	nnnn	יועץ
 2020272	4Q57	Isaiah	9	8	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb				W	rrrr	nnnn	יושב
-2020330	4Q57	Isaiah	9	11	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+2020330	4Q57	Isaiah	9	11	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 2020350	4Q57	Isaiah	10	23	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עושה
 2020367	4Q57	Isaiah	10	24	JCB[	JCB	JCB			qal	ptca	sg	m	NA	verb					rrr	nnn	ישב
 2020472	4Q57	Isaiah	10	31	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	ישבי
@@ -2040,7 +2040,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2023904	4Q58	Isaiah	46	11	QR>[	QR>	QR>			qal	ptca	sg	m	NA	verb					rrr	nnn	קרא
 2023997	4Q58	Isaiah	47	4	G>L[	G>LNW	G>L			qal	ptca	sg	m	NA	verb	NW				rrrrr	nnnnn	גאלנו
 2024028	4Q58	Isaiah	47	8	JCB[	JCBT	JCBT			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	ישבת
-2024032	4Q58	Isaiah	47	8	>MR[	>MRH	>MRH			qal	ptca	sg	f	NA	verb				H	rrrr	nnnn	אמרה
+2024032	4Q58	Isaiah	47	8	>MR[	>MRH	>MR			qal	ptca	sg	f	NA	verb		H		H	rrrr	nnnn	אמרה
 2024081	4Q58	Isaiah	48	8	PC<[	PC<	PC<			qal	ptca	sg	m	NA	verb				W	rrr	nnn	פשע
 2024144	4Q58	Isaiah	48	13	QR>[	QR>	QR>			qal	ptca	sg	m	NA	verb					nnn	nnn	קרא
 2024206	4Q58	Isaiah	48	17	G>L[	G>LK	G>L			qal	ptca	sg	m	NA	verb	K				rrrr	nnnn	גאלך
@@ -2054,12 +2054,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2024627	4Q58	Isaiah	52	5	MCL[	MCLW	MCL			qal	ptca	sg	m	NA	verb	W				rrrr	nnnn	משלו
 2024670	4Q58	Isaiah	52	7	>MR[	>MR	>MR			qal	ptca	sg	m	NA	verb					nnn	nnn	אמר
 2024774	4Q58	Isaiah	53	12	PC<[	PC<JM	PC<			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	פשעים
-2024800	4Q58	Isaiah	54	1	CMM[	CWMMH	CWMMH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	שוממה
-2024803	4Q58	Isaiah	54	1	B<L[	B<WLH	B<WLH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	בעולה
+2024800	4Q58	Isaiah	54	1	CMM[	CWMMH	CWMM			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	שוממה
+2024803	4Q58	Isaiah	54	1	B<L[	B<WLH	B<WL			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	בעולה
 2024859	4Q58	Isaiah	54	5	B<L[	B<LJK	B<LJ			qal	ptca	sg	m	NA	verb	K				rrrrr	nnnnn	בעליך
 2024860	4Q58	Isaiah	54	5	<FH[	<FJK	<FJ			qal	ptca	sg	m	NA	verb	K				rrrr	nnnn	עשיך
 2024865	4Q58	Isaiah	54	5	G>L[	G>LK	G>L			qal	ptca	sg	m	NA	verb	K			W	rrrr	nnnn	גאלך
-2024877	4Q58	Isaiah	54	6	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
+2024877	4Q58	Isaiah	54	6	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
 2024879	4Q58	Isaiah	54	6	<YB[	<YWBT	<YWBT			qal	ptcp	sg	f	NA	verb				W	nnnnn	nnnnn	עצובת
 2024914	4Q58	Isaiah	54	8	G>L[	G>LK	G>L			qal	ptca	sg	m	NA	verb	K				rrrr	nnnn	גאלך
 2025065	4Q58	Isaiah	57	13	XSH[	XSH	XSH			qal	ptca	sg	m	NA	verb				WH	nnn	nnn	חסה
@@ -2068,10 +2068,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2025164	4Q58	Isaiah	57	19	BR>[	BWRH	BWRH			qal	ptca	sg	m	NA	verb					nnnn	nnnn	בורה
 2025318	4Q58	Isaiah	58	6	RYY[	RYWYJM	RYWY			qal	ptcp	pl	m	NA	verb		JM			nnrrrr	nnnnnn	רצוצים
 2025607	4Q59	Isaiah	8	6	HLK[	HLKJM	HLK			qal	ptca	pl	m	NA	verb		JM		H	rnnnn	nnnnn	הלכים
-2025841	4Q59	Isaiah	9	20	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+2025841	4Q59	Isaiah	9	20	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 2025845	4Q59	Isaiah	10	1	XQQ[	XQQJM	XQQ			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	חקקים
 2025901	4Q59	Isaiah	10	4	HRG[	HRWGJM	HRWG			qal	ptcp	pl	m	NA	verb		JM			rrrrrr	nnnnnn	הרוגים
-2025912	4Q59	Isaiah	10	4	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+2025912	4Q59	Isaiah	10	4	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 2026137	4Q59	Isaiah	12	6	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	יושבת
 2026216	4Q59	Isaiah	14	2	CBH[	CBJM	CB			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	שבים
 2026218	4Q59	Isaiah	14	2	CBH[	CBJHM	CB			qal	ptca	pl	m	NA	verb	HM	J		L	rrrrr	nnnnn	שביהם
@@ -2097,12 +2097,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2026806	4Q60	Isaiah	1	28	PC<[	PC<JM	PC<			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	פשעים
 2026811	4Q60	Isaiah	1	28	<ZB[	<ZBJ	<ZB			qal	ptca	pl	m	NA	verb		J		W	rrrr	nnnn	עזבי
 2026833	4Q60	Isaiah	1	30	NBL[	NBLT	NBLT			qal	ptca	sg	f	NA	verb					rrrr	nnnn	נבלת
-2026982	4Q60	Isaiah	5	25	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+2026982	4Q60	Isaiah	5	25	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 2027002	4Q60	Isaiah	6	4	QR>[	QWR>	QWR>			qal	ptca	sg	m	NA	verb				H	rrrr	nnnn	קורא
 2027027	4Q60	Isaiah	6	5	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					rrrr	nnnn	יושב
 2027079	4Q60	Isaiah	6	8	>MR[	>MR	>MR			qal	ptca	sg	m	NA	verb					nnn	nnn	אמר
 2027119	4Q60	Isaiah	6	11	JCB[	JCB	JCB			qal	ptca	sg	m	NA	verb					nnr	nnn	ישב
-2027140	4Q60	Isaiah	6	12	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	עזובה
+2027140	4Q60	Isaiah	6	12	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	עזובה
 2027185	4Q60	Isaiah	7	16	QWY[	QY	QY			qal	ptca	sg	m	NA	verb					rr	nn	קץ
 2027338	4Q60	Isaiah	8	6	HLK[	HLKJM	HLK			qal	ptca	pl	m	NA	verb		JM		H	nnnnn	nnnnn	הלכים
 2027473	4Q60	Isaiah	20	6	JCB[	JCB	JCB			qal	ptca	sg	m	NA	verb					rnn	nnn	ישב
@@ -2110,7 +2110,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2027525	4Q60	Isaiah	22	16	XQQ[	XQQJ	XQQJ			qal	ptca	sg	m	NA	verb					rnnn	nnnn	חקקי
 2027537	4Q60	Isaiah	22	17	<VH=[	<VK	<V			qal	ptca	sg	m	NA	verb	K			W	rnn	nnn	עטך
 2027599	4Q60	Isaiah	22	21	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb				L	rrrr	nnnn	יושב
-2027630	4Q60	Isaiah	22	25	TQ<[	TQW<H	TQW<H			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	תקועה
+2027630	4Q60	Isaiah	22	25	TQ<[	TQW<H	TQW<			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	תקועה
 2027650	4Q60	Isaiah	24	1	BQQ[	BWQQ	BWQQ			qal	ptca	sg	m	NA	verb					rrrr	nnnn	בוקק
 2027654	4Q60	Isaiah	24	1	BLQ[	BWLQH	BWLQ			qal	ptca	sg	m	NA	verb	H			W	rrrrr	nnnnn	בולקה
 2027660	4Q60	Isaiah	24	1	JCB[	JCBJH	JCB			qal	ptca	pl	m	NA	verb	H	J			nnnnn	nnnnn	ישביה
@@ -2146,7 +2146,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2028755	4Q63	Isaiah	1	3	QNH[	QNHW	QN			qal	ptca	sg	m	NA	verb	HW				rrrr	nnnn	קנהו
 2028770	4Q63	Isaiah	1	4	XV>[	XV>	XV>			qal	ptca	sg	m	NA	verb					rrr	nnn	חטא
 2028943	4Q64	Isaiah	29	5	<BR[	<BR	<BR			qal	ptca	sg	m	NA	verb					rrr	nnn	עבר
-2028971	4Q64	Isaiah	29	6	>KL[	>WKLH	>WKLH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	אוכלה
+2028971	4Q64	Isaiah	29	6	>KL[	>WKLH	>WKL			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	אוכלה
 2028984	4Q64	Isaiah	29	7	YB>[	YB>JM	YB>			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	צבאים
 2029006	4Q64	Isaiah	29	8	>KL[	>WKL	>WKL			qal	ptca	sg	m	NA	verb					rrrr	nnnn	אוכל
 2029020	4Q64	Isaiah	29	8	CTH[	CTH	CTH			qal	ptca	sg	m	NA	verb					rrr	nnn	שתה
@@ -2200,7 +2200,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2031618	4Q70	Jeremiah	17	25	JCB[	JCBJM	JCB			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	ישבים
 2031622	4Q70	Jeremiah	17	25	RKB[	RKBJM	RKB			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	רכבים
 2031634	4Q70	Jeremiah	17	25	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J		W	rrrr	nnnn	ישבי
-2031680	4Q70	Jeremiah	18	15	SLL[	SLWLH	SLWLH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	סלולה
+2031680	4Q70	Jeremiah	18	15	SLL[	SLWLH	SLWL			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	סלולה
 2031690	4Q70	Jeremiah	18	16	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					rrrn	nnnn	עובר
 2031803	4Q70	Jeremiah	18	21	HRG[	HRGJ	HRG			qal	ptcp	pl	m	NA	verb		J			rrrr	nnnn	הרגי
 2031891	4Q70	Jeremiah	20	14	>RR[	>RWR	>RWR			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	ארור
@@ -2257,7 +2257,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2033668	4Q72	Jeremiah	22	14	SPN[	SPWN	SPWN			qal	ptcp	sg	m	NA	verb				W	rrrr	nnnn	ספון
 2033818	4Q72	Jeremiah	22	22	R<H[	R<JK	R<			qal	ptca	pl	m	NA	verb	K	J			rrrr	nnnn	רעיך
 2033835	4Q72	Jeremiah	22	23	JCB[	JCBTJ	JCBTJ			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	ישבתי
-2033849	4Q72	Jeremiah	22	23	JLD[	JLDH	JLDH			qal	ptca	sg	f	NA	verb				K	nnnn	nnnn	ילדה
+2033849	4Q72	Jeremiah	22	23	JLD[	JLDH	JLD			qal	ptca	sg	f	NA	verb		H		K	nnnn	nnnn	ילדה
 2033937	4Q72	Jeremiah	22	28	NPY[	NPWY	NPWY			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	נפוץ
 2034035	4Q72	Jeremiah	25	15	CLX[	CLX	CLX			qal	ptca	sg	m	NA	verb					rrr	nnn	שלח
 2034051	4Q72	Jeremiah	25	16	CLX[	CLX	CLX			qal	ptca	sg	m	NA	verb					nnn	nnn	שלח
@@ -2265,7 +2265,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2034271	4Q72	Jeremiah	27	3	BW>[	B>JM	B>			qal	ptca	pl	m	NA	verb		JM		H	rrrr	nnnn	באים
 2034300	4Q72	Jeremiah	27	14	>MR[	>MRJM	>MR			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	אמרים
 2034346	4Q72	Jeremiah	30	6	JLD[	JLD	JLD			qal	ptca	sg	m	NA	verb					rrr	nnn	ילד
-2034356	4Q72	Jeremiah	30	6	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	rrrrr	nnnnn	יולדה
+2034356	4Q72	Jeremiah	30	6	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	rrrrr	nnnnn	יולדה
 2034428	4Q72	Jeremiah	30	17	DRC[	DRC	DRC			qal	ptca	sg	m	NA	verb					rrr	nnn	דרש
 2034436	4Q72	Jeremiah	30	18	CWB=[	CB	CB			qal	ptca	sg	m	NA	verb					nr	nn	שב
 2034488	4Q72	Jeremiah	30	20	LXY[	LXYJW	LXY			qal	ptca	pl	m	NA	verb	W	J			rrrrn	nnnnn	לחציו
@@ -2294,7 +2294,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2036235	4Q74	Ezekiel	1	11	XBR[	XBRWT	XBR			qal	ptca	pl	f	NA	verb		WT			nnnnn	nnnnn	חברות
 2036270	4Q74	Ezekiel	1	13	B<R[	B<RWT	B<R			qal	ptca	pl	f	NA	verb		WT			rrrrr	nnnnn	בערות
 2036421	4Q74	Ezekiel	1	22	NVH[	NVWJ	NVWJ			qal	ptcp	sg	m	NA	verb					nnnr	nnnn	נטוי
-2036526	4Q76	Zechariah	14	18	BW>[	B>H	B>H			qal	ptca	sg	f	NA	verb					rrn	nnn	באה
+2036526	4Q76	Zechariah	14	18	BW>[	B>H	B>			qal	ptca	sg	f	NA	verb		H			rrn	nnn	באה
 2036602	4Q76	Malachi	2	12	<NH[	<NH	<NH			qal	ptca	sg	m	NA	verb				W	nnn	nnn	ענה
 2036723	4Q76	Malachi	2	17	<FH[	<FJ	<F			qal	ptca	pl	m	NA	verb		J			nnn	nnn	עשי
 2036742	4Q76	Malachi	3	1	CLX[	CWLX	CWLX			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שולח
@@ -2316,17 +2316,17 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2037155	4Q76	Malachi	3	19	BW>[	B>	B>			qal	ptca	sg	m	NA	verb				H	nn	nn	בא
 2037199	4Q76	Malachi	3	21	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					rrr	nnn	עשה
 2037222	4Q76	Malachi	3	23	CLX[	CLX	CLX			qal	ptca	sg	m	NA	verb					rrr	nnn	שלח
-2037303	4Q76	Jonah	1	3	BW>[	B>H	B>H			qal	ptca	sg	f	NA	verb					rrr	nnn	באה
+2037303	4Q76	Jonah	1	3	BW>[	B>H	B>			qal	ptca	sg	f	NA	verb		H			rrr	nnn	באה
 2037550	4Q76	Jonah	3	2	DBR[	DBR	DBR			qal	ptca	sg	m	NA	verb					nrr	nnn	דבר
 2037651	4Q77	Zephaniah	2	15	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb				H	rrrrr	nnnnn	יושבת
-2037655	4Q77	Zephaniah	2	15	>MR[	>MRH	>MRH			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	אמרה
+2037655	4Q77	Zephaniah	2	15	>MR[	>MRH	>MR			qal	ptca	sg	f	NA	verb		H		H	nnnn	nnnn	אמרה
 2037670	4Q77	Zephaniah	2	15	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					rrrr	nnnn	עובר
 2037677	4Q77	Zephaniah	3	19	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					rrr	nnn	עשה
-2037689	4Q77	Zephaniah	3	19	YL<[	YL<H	YL<H			qal	ptca	sg	f	NA	verb				H	rrrr	nnnn	צלעה
+2037689	4Q77	Zephaniah	3	19	YL<[	YL<H	YL<			qal	ptca	sg	f	NA	verb		H		H	rrrr	nnnn	צלעה
 2037832	4Q77	Haggai	2	3	R>H[	R>JM	R>			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	ראים
 2037996	4Q78	Hosea	4	3	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			rrrnn	nnnnn	יושבי
 2038199	4Q78	Hosea	4	15	ZNH[	ZNH	ZNH			qal	ptca	sg	m	NA	verb					rrr	nnn	זנה
-2038223	4Q78	Hosea	4	16	SRR[	SRRH	SRRH			qal	ptca	sg	f	NA	verb					rrnr	nnnn	סררה
+2038223	4Q78	Hosea	4	16	SRR[	SRRH	SRR			qal	ptca	sg	f	NA	verb		H			rrnr	nnnn	סררה
 2038234	4Q78	Hosea	4	17	XBR[	XBWR	XBWR			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	חבור
 2038334	4Q78	Hosea	13	4	BYR[	BYR	BYR			qal	ptca	sg		NA	verb					nnn	nnn	בצר
 2038337	4Q78	Hosea	13	4	QNH[	QWNH	QWNH			qal	ptca	sg		NA	verb				W	rrrr	nnnn	קונה
@@ -2357,9 +2357,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2039894	4Q78	Amos	7	8	R>H[	R>H	R>H			qal	ptca	sg	m	NA	verb					rrr	nnn	ראה
 2040013	4Q78	Amos	7	14	BLS[	BWLS	BWLS			qal	ptca	sg	m	NA	verb				W	rrrr	nnnn	בולס
 2040052	4Q78	Zephaniah	2	15	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb				H	rrrrr	nnnnn	יושבת
-2040056	4Q78	Zephaniah	2	15	>MR[	>WMRH	>WMRH			qal	ptca	sg	f	NA	verb				H	rrrrr	nnnnn	אומרה
+2040056	4Q78	Zephaniah	2	15	>MR[	>WMRH	>WMR			qal	ptca	sg	f	NA	verb		H		H	rrrrr	nnnnn	אומרה
 2040071	4Q78	Zephaniah	2	15	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					rrrr	nnnn	עובר
-2040079	4Q78	Zephaniah	3	1	MR>=[	MR>H	MR>H			qal	ptca	sg	f	NA	verb					rrrr	nnnn	מראה
+2040079	4Q78	Zephaniah	3	1	MR>=[	MR>H	MR>			qal	ptca	sg	f	NA	verb		H			rrrr	nnnn	מראה
 2040085	4Q78	Zephaniah	3	1	JNH[	JWNH	JWNH			qal	ptca	sg	f	NA	verb				H	rrrr	nnnn	יונה
 2040597	4Q80	Zechariah	1	9	DBR[	DBR	DBR			qal	ptca	sg	m	NA	verb				H	rrr	nnn	דבר
 2040610	4Q80	Zechariah	1	10	<MD[	<MD	<MD			qal	ptca	sg	m	NA	verb				H	rrr	nnn	עמד
@@ -2395,13 +2395,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2041654	4Q81	Jonah	1	13	HLK[	HWLK	HWLK			qal	ptca	sg	m	NA	verb					nnnn	nnnn	הולך
 2041656	4Q81	Jonah	1	13	S<R[	S<R	S<R			qal	ptca	sg	m	NA	verb				W	nnn	nnn	סער
 2041742	4Q81	Micah	5	1	MCL[	MWCL	MWCL			qal	ptca	sg	m	NA	verb					rrrr	nnnn	מושל
-2041758	4Q81	Micah	5	2	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	יולדה
+2041758	4Q81	Micah	5	2	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	יולדה
 2042063	4Q82	Hosea	3	1	>HB[	>HBT	>HBT			qal	ptcp	sg	f	NA	verb					rrrr	nnnn	אהבת
 2042075	4Q82	Hosea	3	1	PNH[	PNJM	PN			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	פנים
 2042080	4Q82	Hosea	3	1	>HB[	>HBJ	>HB			qal	ptca	pl	m	NA	verb		J		W	rrrr	nnnn	אהבי
 2042172	4Q82	Hosea	4	1	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			rrrrr	nnnnn	יושבי
 2042295	4Q82	Hosea	6	8	P<L[	P<LJ	P<L			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	פעלי
-2042564	4Q82	Hosea	9	13	CTL[	CTWLH	CTWLH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	שתולה
+2042564	4Q82	Hosea	9	13	CTL[	CTWLH	CTWL			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	שתולה
 2042572	4Q82	Hosea	9	13	HRG[	HRG	HRG			qal	ptca	sg	m	NA	verb					rrr	nnn	הרג
 2042585	4Q82	Hosea	9	14	YMQ[	YWMQJM	YWMQ			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	צומקים
 2042606	4Q82	Hosea	9	15	SRR[	SRRJM	SRR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	סררים
@@ -2412,12 +2412,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2043090	4Q82	Hosea	12	2	R<H[	R<H	R<H			qal	ptca	sg	m	NA	verb					rrr	nnn	רעה
 2043093	4Q82	Hosea	12	2	RDP[	RDP	RDP			qal	ptca	sg	m	NA	verb				W	rrr	nnn	רדף
 2043347	4Q82	Hosea	13	12	YRR[	YRWR	YRWR			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	צרור
-2043350	4Q82	Hosea	13	12	YPN[	YPWNH	YPWNH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	צפונה
-2043354	4Q82	Hosea	13	13	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	יולדה
+2043350	4Q82	Hosea	13	12	YPN[	YPWNH	YPWN			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	צפונה
+2043354	4Q82	Hosea	13	13	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	יולדה
 2043390	4Q82	Hosea	14	10	PC<[	PWC<JM	PWC<			qal	ptca	pl	m	NA	verb		JM		W	rrrnnn	nnnnnn	פושעים
 2043450	4Q82	Joel	1	14	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			nnnrn	nnnnn	יושבי
 2043464	4Q82	Joel	2	2	PRF[	PRF	PRF			qal	ptcp	sg	m	NA	verb					rrr	nnn	פרש
-2043534	4Q82	Joel	2	5	>KL[	>KLH	>KLH			qal	ptca	sg	f	NA	verb					rrrr	nnnn	אכלה
+2043534	4Q82	Joel	2	5	>KL[	>KLH	>KL			qal	ptca	sg	f	NA	verb		H			rrrr	nnnn	אכלה
 2043539	4Q82	Joel	2	5	<RK[	<RWK	<RWK			qal	ptcp	sg	m	NA	verb					nnrr	nnnn	ערוך
 2043630	4Q82	Joel	2	11	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					rrr	nnn	עשה
 2043694	4Q82	Joel	4	4	GML[	GMLJM	GML			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	גמלים
@@ -2454,7 +2454,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2045492	4Q82	Obadiah	1	3	>MR[	>MR	>MR			qal	ptca	sg	m	NA	verb					nnn	nnn	אמר
 2045520	4Q82	Obadiah	1	5	CDD[	CWDDJ	CWDD			qal	ptca	pl	m	NA	verb		J			rrrrr	nnnnn	שודדי
 2045529	4Q82	Obadiah	1	5	BYR[	BYRJM	BYR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	בצרים
-2045764	4Q82	Jonah	1	3	BW>[	B>H	B>H			qal	ptca	sg	f	NA	verb					rrr	nnn	באה
+2045764	4Q82	Jonah	1	3	BW>[	B>H	B>			qal	ptca	sg	f	NA	verb		H			rrr	nnn	באה
 2045988	4Q82	Jonah	2	6	XBC[	XBWC	XBWC			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	חבוש
 2046081	4Q82	Jonah	3	2	DBR[	DWBR	DWBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	דובר
 2046315	4Q82	Micah	1	12	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb					rrrrr	nnnnn	יושבת
@@ -2593,7 +2593,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2052461	4Q90	Psalms	119	12	BRK[	BRWK	BRWK			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	ברוך
 2052534	4Q90	Psalms	119	21	>RR[	>RWRJM	>RWR			qal	ptcp	pl	m	NA	verb		JM			rrrrrr	nnnnnn	ארורים
 2052536	4Q90	Psalms	119	21	CGH[	CWGJM	CWG			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	שוגים
-2052597	4Q91	Psalms	48	7	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	rrrrr	nnnnn	יולדה
+2052597	4Q91	Psalms	48	7	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	rrrrr	nnnnn	יולדה
 2052947	4Q92	Psalms	99	1	JCB[	JCB	JCB			qal	ptca	sg	m	NA	verb					rrr	nnn	ישב
 2052958	4Q92	Psalms	99	2	RWM[	RM	RM			qal	ptca	sg	m	NA	verb				W	rr	nn	רם
 2053007	4Q93	Psalms	104	3	FJM[	FM	FM			qal	ptca	sg	m	NA	verb				H	nn	nn	שם
@@ -2654,7 +2654,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2055398	4Q103	Proverbs	14	32	XSH[	XSH	XSH			qal	ptca	sg	m	NA	verb				W	rnn	nnn	חסה
 2055457	4Q103	Proverbs	15	3	YPH[	YPWT	YP			qal	ptca	pl	f	NA	verb		WT			rrrr	nnnn	צפות
 2055478	4Q103	Proverbs	15	5	CMR[	CMR	CMR			qal	ptca	sg	m	NA	verb				W	rrr	nnn	שמר
-2055511	4Q103	Proverbs	15	19	SLL[	SWLLH	SWLLH			qal	ptca	sg	f	NA	verb					nnnnn	nnnnn	סוללה
+2055511	4Q103	Proverbs	15	19	SLL[	SWLLH	SWLL			qal	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	סוללה
 2055520	4Q103	Proverbs	15	20	BZH[	B	B			qal	ptca	sg	m	NA	verb					n	n	ב
 2055542	4Q103	Proverbs	15	22	J<Y[	JW<YJM	JW<Y			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	יועצים
 2055588	4Q103	Proverbs	15	27	<KR[	<KR	<KR			qal	ptca	sg	m	NA	verb					nnr	nnn	עכר
@@ -2672,7 +2672,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2056257	4Q106	Song_of_songs	4	4	BNH[	BNWJ	BNWJ			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	בנוי
 2056263	4Q106	Song_of_songs	4	4	TLH[	TLWJ	TLWJ			qal	ptcp	sg	m	NA	verb					nnnn	nnnn	תלוי
 2056277	4Q106	Song_of_songs	4	5	R<H[	R<JM	R<			qal	ptca	pl	m	NA	verb		JM			nnnn	nnnn	רעים
-2056379	4Q106	Song_of_songs	7	3	SWG=[	SWGH	SWGH			qal	ptcp	sg	f	NA	verb					rrrr	nnnn	סוגה
+2056379	4Q106	Song_of_songs	7	3	SWG=[	SWGH	SWG			qal	ptcp	sg	f	NA	verb		H			rrrr	nnnn	סוגה
 2056409	4Q106	Song_of_songs	7	5	YPH[	YPH	YPH			qal	ptca	sg	m	NA	verb					nnn	nnn	צפה
 2056423	4Q106	Song_of_songs	7	6	>SR[	>SWR	>SWR			qal	ptcp	sg	m	NA	verb					nnrr	nnnn	אסור
 2056555	4Q107	Song_of_songs	2	16	R<H[	RW<H	RW<H			qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	רועה
@@ -2693,7 +2693,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2057664	4Q111	Lamentations	1	12	<BR[	<BRJ	<BR			qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	עברי
 2057699	4Q111	Lamentations	1	13	CMM[	CWMM	CWMM			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שומם
 2057757	4Q111	Lamentations	1	17	>HB[	>WHBJH	>WHB			qal	ptca	pl		NA	verb	H	J			nnnnnn	nnnnnn	אוהביה
-2057777	4Q111	Lamentations	1	16	JRD[	JRDH	JRDH			qal	ptca	sg	f	NA	verb					nnnn	nnnn	ירדה
+2057777	4Q111	Lamentations	1	16	JRD[	JRDH	JRD			qal	ptca	sg	f	NA	verb		H			nnnn	nnnn	ירדה
 2057787	4Q111	Lamentations	1	16	CMM[	CWMMJM	CWMM			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	שוממים
 2057814	4Q112	Daniel	1	16	NF>[	NF>	NF>			qal	ptca	sg	m	NA	verb					rrr	nnn	נשא
 2057822	4Q112	Daniel	1	16	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb				W	rrr	nnn	נתן
@@ -2737,7 +2737,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2063137	4Q128	Deuteronomy	10	12	C>L[	C>L	C>L			qal	ptca	sg	m	NA	verb					rrr	nnn	שאל
 2063269	4Q128	Deuteronomy	10	18	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb					rrrr	nnnn	עושה
 2063275	4Q128	Deuteronomy	10	18	>HB[	>WHB	>WHB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	אוהב
-2063411	4Q128	Deuteronomy	11	2	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	נטויה
+2063411	4Q128	Deuteronomy	11	2	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	נטויה
 2063531	4Q128	Deuteronomy	11	7	R>H[	R>T	R>			qal	ptca	pl	f	NA	verb		T		H	rrr	nnn	ראת
 2063564	4Q128	Deuteronomy	11	8	<BR[	<BRJM	<BR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	עברים
 2063591	4Q128	Deuteronomy	11	9	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					rrr	nnn	זבת
@@ -2755,7 +2755,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2064319	4Q129	Deuteronomy	5	10	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb				W	rrr	nnn	עשה
 2064324	4Q129	Deuteronomy	5	10	>HB[	>HBJ	>HB			qal	ptca	pl	m	NA	verb		J		L	rrrr	nnnn	אהבי
 2064327	4Q129	Deuteronomy	5	10	CMR[	CWMRJ	CWMR			qal	ptca	pl	m	NA	verb		J		WL	nnnnn	nnnnn	שומרי
-2064433	4Q129	Deuteronomy	5	15	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+2064433	4Q129	Deuteronomy	5	15	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 2064472	4Q129	Deuteronomy	5	16	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
 2064568	4Q129	Deuteronomy	5	23	B<R[	BW<R	BW<R			qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוער
 2064787	4Q129	Deuteronomy	5	31	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
@@ -2792,7 +2792,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2067698	4Q137	Deuteronomy	5	10	<FH[	<WFJ	<WFJ			qal	ptca	sg		NA	verb					nnnn	nnnn	עושי
 2067703	4Q137	Deuteronomy	5	10	>HB[	>WHBJ	>WHB			qal	ptca	pl	m	NA	verb		J		L	nnnnn	nnnnn	אוהבי
 2067706	4Q137	Deuteronomy	5	10	CMR[	CWMRJ	CWMR			qal	ptca	pl	m	NA	verb		J		WL	nnnnn	nnnnn	שומרי
-2067814	4Q137	Deuteronomy	5	15	NVH[	NVJH	NVJH			qal	ptcp	sg	f	NA	verb					nnnn	nnnn	נטיה
+2067814	4Q137	Deuteronomy	5	15	NVH[	NVJH	NVJ			qal	ptcp	sg	f	NA	verb		H			nnnn	nnnn	נטיה
 2067936	4Q137	Deuteronomy	5	23	B<R[	BW<R	BW<R			qal	ptca	sg	m	NA	verb					nnnn	nnnn	בוער
 2067996	4Q137	Deuteronomy	5	25	JSP[	JSPJM	JSP			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	יספים
 2068155	4Q137	Deuteronomy	5	31	NTN[	NWTN	NWTN			qal	ptca	sg	m	NA	verb					nnnn	nnnn	נותן
@@ -2800,7 +2800,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2068231	4Q138	Deuteronomy	10	12	C>L[	CW>L	CW>L			qal	ptca	sg	m	NA	verb					nnnr	nnnn	שואל
 2068363	4Q138	Deuteronomy	10	18	<FH[	<WFJ	<WF			qal	ptca	pl		NA	verb		J			rrnn	nnnn	עושי
 2068369	4Q138	Deuteronomy	10	18	>HB[	>WHB	>WHB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	אוהב
-2068499	4Q138	Deuteronomy	11	2	NVH[	NVJH	NVJH			qal	ptcp	sg	f	NA	verb				H	nnnn	nnnn	נטיה
+2068499	4Q138	Deuteronomy	11	2	NVH[	NVJH	NVJ			qal	ptcp	sg	f	NA	verb		H		H	nnnn	nnnn	נטיה
 2068619	4Q138	Deuteronomy	11	7	R>H[	R>WT	R>			qal	ptca	pl	f	NA	verb		WT		H	nnnn	nnnn	ראות
 2068655	4Q138	Deuteronomy	11	8	<BR[	<WBRJM	<WBR			qal	ptca	pl	m	NA	verb		JM			nrrrrn	nnnnnn	עוברים
 2068685	4Q138	Deuteronomy	11	9	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					rrn	nnn	זבת
@@ -2812,7 +2812,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2068823	4Q139	Deuteronomy	5	10	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb				W	rrr	nnn	עשה
 2068828	4Q139	Deuteronomy	5	10	>HB[	>HBJ	>HB			qal	ptca	pl	m	NA	verb		J		L	rrrr	nnnn	אהבי
 2068831	4Q139	Deuteronomy	5	10	CMR[	CMRJ	CMR			qal	ptca	pl	m	NA	verb		J		WL	rrrr	nnnn	שמרי
-2068935	4Q139	Deuteronomy	5	15	NVH[	NVJH	NVJH			qal	ptcp	sg	f	NA	verb					nnnr	nnnn	נטיה
+2068935	4Q139	Deuteronomy	5	15	NVH[	NVJH	NVJ			qal	ptcp	sg	f	NA	verb		H			nnnr	nnnn	נטיה
 2068972	4Q139	Deuteronomy	5	16	NTN[	NWTN	NWTN			qal	ptca	sg	m	NA	verb					rrnn	nnnn	נותן
 2069069	4Q139	Deuteronomy	5	23	B<R[	B<R	B<R			qal	ptca	sg	m	NA	verb					rrr	nnn	בער
 2069192	4Q140	Exodus	12	49	GWR[	GR	GR			qal	ptca	sg	m	NA	verb				H	nn	nn	גר
@@ -2827,9 +2827,9 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2069890	4Q142	Deuteronomy	5	10	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb				W	rrr	nnn	עשה
 2069895	4Q142	Deuteronomy	5	10	>HB[	>HBJ	>HB			qal	ptca	pl	m	NA	verb		J		L	rrrr	nnnn	אהבי
 2069898	4Q142	Deuteronomy	5	10	CMR[	CMRJ	CMR			qal	ptca	pl	m	NA	verb		J		WL	rrrr	nnnn	שמרי
-2070003	4Q142	Deuteronomy	5	15	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	נטויה
+2070003	4Q142	Deuteronomy	5	15	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	נטויה
 2070043	4Q142	Deuteronomy	5	16	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
-2070198	4Q143	Deuteronomy	11	2	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	נטויה
+2070198	4Q143	Deuteronomy	11	2	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	נטויה
 2070392	4Q144	Deuteronomy	11	17	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
 2070420	4Q144	Exodus	13	4	JY>[	JWY>JM	JWY>			qal	ptca	pl	m	NA	verb		JM			rrrnnr	nnnnnn	יוצאים
 2070460	4Q144	Exodus	13	5	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					rrr	nnn	זבת
@@ -2838,7 +2838,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2070922	4Q149	Exodus	20	12	NTN[	NWTN	NWTN			qal	ptca	sg	m	NA	verb					nrrr	nnnn	נותן
 2070995	4Q150	Deuteronomy	10	18	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					nnn	nnn	עשה
 2071002	4Q150	Deuteronomy	10	18	>HB[	>HB	>HB			qal	ptca	sg	m	NA	verb				W	rrr	nnn	אהב
-2071094	4Q150	Deuteronomy	11	2	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	נטויה
+2071094	4Q150	Deuteronomy	11	2	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	נטויה
 2071191	4Q151	Deuteronomy	5	31	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
 2071243	4Q151	Deuteronomy	6	1	<BR[	<BRJM	<BR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	עברים
 2071297	4Q151	Deuteronomy	6	3	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					rrr	nnn	זבת
@@ -2851,7 +2851,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2071919	4Q483	Genesis	1	29	ZR<[	ZWR<	ZWR<			qal	ptca	sg	m	NA	verb					rrrr	nnnn	זורע
 2072053	5Q1	Deuteronomy	7	15	FN>[	FN>JK	FN>			qal	ptca	pl	m	NA	verb	K	J			rrrrr	nnnnn	שנאיך
 2072064	5Q1	Deuteronomy	7	16	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					nrr	nnn	נתן
-2072135	5Q1	Deuteronomy	7	19	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	נטויה
+2072135	5Q1	Deuteronomy	7	19	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	נטויה
 2072282	5Q1	Deuteronomy	8	7	JY>[	JY>JM	JY>			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	יצאים
 2072481	5Q1	Deuteronomy	8	18	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb				H	nnn	nnn	נתן
 2072553	5Q1	Deuteronomy	9	1	<BR[	<BR	<BR			qal	ptca	sg	m	NA	verb					rrr	nnn	עבר
@@ -2862,10 +2862,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2073030	5Q4	Amos	1	5	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					rrrn	nnnn	יושב
 2073035	5Q4	Amos	1	5	TMK[	TWMK	TWMK			qal	ptca	sg	m	NA	verb				W	rrrr	nnnn	תומך
 2073174	5Q5	Psalms	119	118	CGH[	CWGJM	CWG			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	שוגים
-2073214	5Q5	Psalms	119	140	YRP[	YRWPH	YRWPH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	צרופה
+2073214	5Q5	Psalms	119	140	YRP[	YRWPH	YRWP			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	צרופה
 2073238	5Q6	Lamentations	4	5	>KL[	>WKLJM	>WKL			qal	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	אוכלים
 2073245	5Q6	Lamentations	4	5	>MN[	>MWNJM	>MWN			qal	ptcp	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	אמונים
-2073260	5Q6	Lamentations	4	6	HPK[	HPWKH	HPWKH			qal	ptcp	sg	f	NA	verb				H	rrnnn	nnnnn	הפוכה
+2073260	5Q6	Lamentations	4	6	HPK[	HPWKH	HPWK			qal	ptcp	sg	f	NA	verb		H		H	rrnnn	nnnnn	הפוכה
 2073303	5Q6	Lamentations	4	12	JCB[	JWCBJ	JWCB			qal	ptca	pl	m	NA	verb		J			rrrrr	nnnnn	יושבי
 2073320	5Q6	Lamentations	4	13	CPK[	CWPKJM	CWPK			qal	ptca	pl	m	NA	verb		JM		H	rrrrrn	nnnnnn	שופכים
 2073395	5Q6	Lamentations	4	19	RDP[	RDPJNW	RDP			qal	ptca	pl	m	NA	verb	NW	J			rrrrrr	nnnnnn	רדפינו
@@ -2882,7 +2882,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2074651	6Q4	2_Kings	10	19	<BD[	<BDJ	<BD			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	עבדי
 2074674	6Q4	2_Kings	10	21	<BD[	<BDJ	<BD			qal	ptca	pl	m	NA	verb		J			rrrr	nnnn	עבדי
 2075207	6Q6	Song_of_songs	1	4	>HB[	>HWBJM	>HWB			qal	ptcp	pl		NA	verb		JM			nnnnnn	nnnnnn	אהובים
-2075236	6Q6	Song_of_songs	1	6	NVR[	NWVRH	NWVRH			qal	ptca	sg	f	NA	verb					nnnrr	nnnnn	נוטרה
+2075236	6Q6	Song_of_songs	1	6	NVR[	NWVRH	NWVR			qal	ptca	sg	f	NA	verb		H			nnnrr	nnnnn	נוטרה
 2075261	6Q6	Song_of_songs	1	7	<VH[	<VJH	<VJH			qal	ptca	sg	f	NA	verb				K	nrrr	nnnn	עטיה
 2075376	6Q7	Daniel	10	11	DBR[	DBR	DBR			qal	ptca	sg	m	NA	verb					rrn	nnn	דבר
 2075434	6Q7	Daniel	10	13	<MD[	<MD	<MD			qal	ptca	sg	m	NA	verb					rrr	nnn	עמד
@@ -2915,7 +2915,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2078086	8Q4	Deuteronomy	10	12	C>L[	C>L	C>L			qal	ptca	sg	m	NA	verb					rrr	nnn	שאל
 2078217	8Q4	Deuteronomy	10	18	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					nnn	nnn	עשה
 2078223	8Q4	Deuteronomy	10	18	>HB[	>HB	>HB			qal	ptca	sg	m	NA	verb				W	rrr	nnn	אהב
-2078346	8Q4	Deuteronomy	11	2	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	נטויה
+2078346	8Q4	Deuteronomy	11	2	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	נטויה
 2078466	8Q4	Deuteronomy	11	7	R>H[	R>WT	R>			qal	ptca	pl	f	NA	verb		WT		H	nnnn	nnnn	ראות
 2078507	8Q4	Deuteronomy	11	8	<BR[	<BRJM	<BR			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	עברים
 2078531	8Q4	Deuteronomy	11	9	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					rrr	nnn	זבת
@@ -2937,7 +2937,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2080015	11Q1	Leviticus	18	29	<FH[	<FWT	<F			qal	ptca	pl	f	NA	verb		WT		H	nnnn	nnnn	עשות
 2080108	11Q1	Leviticus	20	2	GWR[	GR	GR			qal	ptca	sg	m	NA	verb				H	nn	nn	גר
 2080206	11Q1	Leviticus	20	5	ZNH[	ZNJM	ZN			qal	ptca	pl	m	NA	verb		JM		H	rrnn	nnnn	זנים
-2080261	11Q1	Leviticus	21	7	GRC[	GRWCH	GRWCH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	גרושה
+2080261	11Q1	Leviticus	21	7	GRC[	GRWCH	GRWC			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	גרושה
 2080343	11Q1	Leviticus	21	11	MWT[	MT	MT			qal	ptca	sg	m	NA	verb					nn	nn	מת
 2080429	11Q1	Leviticus	22	23	QLV[	QLWV	QLWV			qal	ptcp	sg	m	NA	verb				W	nnnn	nnnn	קלוט
 2080440	11Q1	Leviticus	22	24	M<K[	M<WK	M<WK			qal	ptcp	sg	m	NA	verb				W	nnnn	nnnn	מעוך
@@ -2948,7 +2948,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2080804	11Q1	Leviticus	25	30	QNH[	QNH	QNH			qal	ptca	sg	m	NA	verb				L	nnn	nnn	קנה
 2080925	11Q1	Leviticus	26	17	RDP[	RDP	RDP			qal	ptca	sg	m	NA	verb					nnn	nnn	רדף
 2081054	11Q1	Leviticus	26	25	NQM[	NQMT	NQMT			qal	ptca	sg	f	NA	verb					nnnn	nnnn	נקמת
-2081617	11Q2	Leviticus	15	19	ZWB[	ZBH	ZBH			qal	ptca	sg	f	NA	verb					nnn	nnn	זבה
+2081617	11Q2	Leviticus	15	19	ZWB[	ZBH	ZB			qal	ptca	sg	f	NA	verb		H			nnn	nnn	זבה
 2081694	11Q3	Deuteronomy	1	4	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					rrrr	nnnn	יושב
 2081704	11Q3	Deuteronomy	1	4	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					rrrr	nnnn	יושב
 2081745	11Q3	Deuteronomy	2	29	JCB[	JWCBJM	JWCB			qal	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	יושבים
@@ -2957,7 +2957,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2081810	11Q4	Ezekiel	1	9	XBR[	XBRT	XBR			qal	ptca	pl	f	NA	verb		T			rrrr	nnnn	חברת
 2081928	11Q4	Ezekiel	4	9	CKB[	CWKB	CWKB			qal	ptca	sg	m	NA	verb					rrrr	nnnn	שוכב
 2082035	11Q4	Ezekiel	5	14	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					rrrn	nnnn	עובר
-2082131	11Q4	Ezekiel	7	10	BW>[	B>H	B>H			qal	ptca	sg	f	NA	verb					rrr	nnn	באה
+2082131	11Q4	Ezekiel	7	10	BW>[	B>H	B>			qal	ptca	sg	f	NA	verb		H			rrr	nnn	באה
 2082170	11Q4	Ezekiel	7	12	QNH[	QWNH	QWNH			qal	ptca	sg	m	NA	verb				H	rrrr	nnnn	קונה
 2082175	11Q4	Ezekiel	7	12	MKR[	MWKR	MWKR			qal	ptca	sg	m	NA	verb				WH	rrrr	nnnn	מוכר
 2082263	11Q5	Psalms	101	6	HLK[	HLK	HLK			qal	ptca	sg	m	NA	verb					nrr	nnn	הלך
@@ -2984,7 +2984,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2083425	11Q5	Psalms	121	5	CMR[	CWMRKH	CWMR			qal	ptca	sg	m	NA	verb	KH				nnnnnn	nnnnnn	שומרכה
 2083468	11Q5	Psalms	122	1	>MR[	>WMRJM	>WMR			qal	ptca	pl	m	NA	verb		JM		B	rrrrrr	nnnnnn	אומרים
 2083474	11Q5	Psalms	122	2	<MD[	<WMDWT	<WMD			qal	ptca	pl	f	NA	verb		WT			nnnnnn	nnnnnn	עומדות
-2083483	11Q5	Psalms	122	3	BNH[	BNWJH	BNWJH			qal	ptcp	sg	f	NA	verb				H	nnnnn	nnnnn	בנויה
+2083483	11Q5	Psalms	122	3	BNH[	BNWJH	BNWJ			qal	ptcp	sg	f	NA	verb		H		H	nnnnn	nnnnn	בנויה
 2083519	11Q5	Psalms	122	6	>HB[	>WHBJK	>WHB			qal	ptca	pl	m	NA	verb	K	J			rnnnnn	nnnnnn	אוהביך
 2083554	11Q5	Psalms	123	1	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb				H	nnnn	nnnn	יושב
 2083581	11Q5	Psalms	124	8	<ZR[	<WZRNW	<WZR			qal	ptca	sg	m	NA	verb	NW				nnnnnn	nnnnnn	עוזרנו
@@ -3010,7 +3010,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2084494	11Q5	Psalms	119	84	RDP[	RWDPJ	RWDP			qal	ptca	pl	m	NA	verb		J		B	nnnnn	nnnnn	רודפי
 2084710	11Q5	Psalms	119	118	CGH[	CWGJM	CWG			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	שוגים
 2084777	11Q5	Psalms	119	132	>HB[	>WHBJ	>WHB			qal	ptca	pl	m	NA	verb		J		L	nnnnn	nnnnn	אוהבי
-2084839	11Q5	Psalms	119	140	YRP[	YRWPH	YRWPH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	צרופה
+2084839	11Q5	Psalms	119	140	YRP[	YRWPH	YRWP			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	צרופה
 2084862	11Q5	Psalms	119	150	RDP[	RWDPJ	RWDP			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	רודפי
 2084918	11Q5	Psalms	119	157	RDP[	RWDPJ	RWDP			qal	ptca	pl	m	NA	verb		J			nnnnn	nnnnn	רודפי
 2084927	11Q5	Psalms	119	158	BGD[	BWGDJM	BWGD			qal	ptca	pl	m	NA	verb		JM			nnnnnn	nnnnnn	בוגדים
@@ -3025,7 +3025,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2085253	11Q5	Psalms	136	5	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	עושה
 2085264	11Q5	Psalms	136	6	RQ<[	RWQ<	RWQ<			qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	רוקע
 2085276	11Q5	Psalms	136	7	<FH[	<WFH	<WFH			qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	עושה
-2085344	11Q5	Psalms	136	12	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
+2085344	11Q5	Psalms	136	12	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
 2085351	11Q5	Psalms	136	13	GZR[	GWZR	GWZR			qal	ptca	sg	m	NA	verb				L	nnnn	nnnn	גוזר
 2085417	11Q5	Psalms	118	15	<FH[	<FH	<FH			qal	ptca	sg	f	NA	verb					nnn	nnn	עשה
 2085486	11Q5	Psalms	145	1	BRK[	BRWK	BRWK			qal	ptcp	sg		NA	verb					nnnn	nnnn	ברוך
@@ -3143,16 +3143,16 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2089666	Xq3	Deuteronomy	5	10	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb				W	nnn	nnn	עשה
 2089671	Xq3	Deuteronomy	5	10	>HB[	>HBJ	>HB			qal	ptca	pl	m	NA	verb		J		L	nnnn	nnnn	אהבי
 2089674	Xq3	Deuteronomy	5	10	CMR[	CMRJ	CMR			qal	ptca	pl	m	NA	verb		J		WL	nnnn	nnnn	שמרי
-2089780	Xq3	Deuteronomy	5	15	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	נטויה
+2089780	Xq3	Deuteronomy	5	15	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	נטויה
 2089817	Xq3	Deuteronomy	5	16	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					nnn	nnn	נתן
 2089966	Xq3	Exodus	13	15	ZBX[	ZBX	ZBX			qal	ptca	sg	m	NA	verb					nnn	nnn	זבח
 2090067	Mur1	Genesis	32	32	YL<[	YL<	YL<			qal	ptca	sg	m	NA	verb					rrr	nnn	צלע
-2090481	Mur1	Exodus	6	6	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb					rrnnn	nnnnn	נטויה
+2090481	Mur1	Exodus	6	6	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H			rrnnn	nnnnn	נטויה
 2090603	Mur1	Numbers	36	8	JRC[	JRCT	JRCT			qal	ptca	sg	f	NA	verb					rrrr	nnnn	ירשת
-2090743	Mur2	Deuteronomy	11	2	NVH[	NVWJH	NVWJH			qal	ptcp	sg	f	NA	verb				H	rrrrr	nnnnn	נטויה
+2090743	Mur2	Deuteronomy	11	2	NVH[	NVWJH	NVWJ			qal	ptcp	sg	f	NA	verb		H		H	rrrrr	nnnnn	נטויה
 2090860	Mur3	Isaiah	1	7	FRP[	FRPWT	FRP			qal	ptcp	pl	f	NA	verb		WT			rrrrr	nnnnn	שרפות
 2090866	Mur3	Isaiah	1	7	>KL[	>KLJM	>KL			qal	ptca	pl	m	NA	verb		JM			rrrrr	nnnnn	אכלים
-2090888	Mur3	Isaiah	1	8	NYR[	NYWRH	NYWRH			qal	ptcp	sg	f	NA	verb					nnrrr	nnnnn	נצורה
+2090888	Mur3	Isaiah	1	8	NYR[	NYWRH	NYWR			qal	ptcp	sg	f	NA	verb		H			nnrrr	nnnnn	נצורה
 2091030	Mur4	Exodus	13	4	JY>[	JY>JM	JY>			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	יצאים
 2091065	Mur4	Exodus	13	5	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					nnn	nnn	זבת
 2091285	Mur4	Exodus	13	15	ZBX[	ZBX	ZBX			qal	ptca	sg	m	NA	verb					nnn	nnn	זבח
@@ -3188,7 +3188,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2093209	Mur88	Obadiah	1	4	FJM[	FJM	FJM			qal	ptcp	sg	m	NA	verb					nnn	nnn	שים
 2093222	Mur88	Obadiah	1	5	CDD[	CWDDJ	CWDD			qal	ptca	pl	m	NA	verb		J			rrrrr	nnnnn	שודדי
 2093231	Mur88	Obadiah	1	5	BYR[	BYRJM	BYR			qal	ptca	pl	m	NA	verb		JM			nnrrn	nnnnn	בצרים
-2093604	Mur88	Jonah	1	3	BW>[	B>H	B>H			qal	ptca	sg	f	NA	verb					rrr	nnn	באה
+2093604	Mur88	Jonah	1	3	BW>[	B>H	B>			qal	ptca	sg	f	NA	verb		H			rrr	nnn	באה
 2093808	Mur88	Jonah	1	10	BRX[	BRX	BRX			qal	ptca	sg	m	NA	verb					nnn	nnn	ברח
 2093828	Mur88	Jonah	1	11	HLK[	HWLK	HWLK			qal	ptca	sg	m	NA	verb					nnnn	nnnn	הולך
 2093830	Mur88	Jonah	1	11	S<R[	S<R	S<R			qal	ptca	sg	m	NA	verb				W	nnn	nnn	סער
@@ -3220,11 +3220,11 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2095214	Mur88	Micah	3	5	NCK[	NCKJM	NCK			qal	ptca	pl	m	NA	verb		JM		H	nnnrr	nnnnn	נשכים
 2095262	Mur88	Micah	3	7	QSM[	QSMJM	QSM			qal	ptca	pl	m	NA	verb		JM		H	rnnnn	nnnnn	קסמים
 2095315	Mur88	Micah	3	10	BNH[	BNH	BNH			qal	ptca	sg	m	NA	verb					rrr	nnn	בנה
-2095513	Mur88	Micah	4	6	YL<[	YL<H	YL<H			qal	ptca	sg	f	NA	verb				H	rrrr	nnnn	צלעה
-2095526	Mur88	Micah	4	7	YL<[	YL<H	YL<H			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	צלעה
+2095513	Mur88	Micah	4	6	YL<[	YL<H	YL<			qal	ptca	sg	f	NA	verb		H		H	rrrr	nnnn	צלעה
+2095526	Mur88	Micah	4	7	YL<[	YL<H	YL<			qal	ptca	sg	f	NA	verb		H		H	nnnn	nnnn	צלעה
 2095577	Mur88	Micah	4	9	J<Y[	JW<YK	JW<Y			qal	ptca	sg	m	NA	verb	K				nnnnn	nnnnn	יועצך
-2095583	Mur88	Micah	4	9	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	rrrrr	nnnnn	יולדה
-2095591	Mur88	Micah	4	10	JLD[	JWLDH	JWLDH			qal	ptca	sg	f	NA	verb				K	nnnnr	nnnnn	יולדה
+2095583	Mur88	Micah	4	9	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	rrrrr	nnnnn	יולדה
+2095591	Mur88	Micah	4	10	JLD[	JWLDH	JWLD			qal	ptca	sg	f	NA	verb		H		K	nnnnr	nnnnn	יולדה
 2095621	Mur88	Micah	4	11	>MR[	>MRJM	>MR			qal	ptca	pl	m	NA	verb		JM		H	rrrrr	nnnnn	אמרים
 2095689	Mur88	Micah	4	14	CPV[	CPV	CPV			qal	ptca	sg	m	NA	verb					rrr	nnn	שפט
 2095708	Mur88	Micah	5	1	MCL[	MWCL	MWCL			qal	ptca	sg	m	NA	verb					rrrr	nnnn	מושל
@@ -3235,8 +3235,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2096168	Mur88	Micah	7	3	CPV[	CPV	CPV			qal	ptca	sg	m	NA	verb				WH	rrn	nnn	שפט
 2096174	Mur88	Micah	7	3	DBR[	DBR	DBR			qal	ptca	sg	m	NA	verb					nnn	nnn	דבר
 2096205	Mur88	Micah	7	5	CKB[	CKBT	CKBT			qal	ptca	sg	f	NA	verb				M	nnnr	nnnn	שכבת
-2096216	Mur88	Micah	7	6	QWM[	QMH	QMH			qal	ptca	sg	f	NA	verb					nnn	nnn	קמה
-2096281	Mur88	Micah	7	10	>MR[	>MRH	>MRH			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	אמרה
+2096216	Mur88	Micah	7	6	QWM[	QMH	QM			qal	ptca	sg	f	NA	verb		H			nnn	nnn	קמה
+2096281	Mur88	Micah	7	10	>MR[	>MRH	>MR			qal	ptca	sg	f	NA	verb		H		H	nnnn	nnnn	אמרה
 2096342	Mur88	Micah	7	13	JCB[	JCBJH	JCB			qal	ptca	pl	m	NA	verb	H	J			rrrrr	nnnnn	ישביה
 2096353	Mur88	Micah	7	14	CKN[	CKNJ	CKNJ			qal	ptca	sg	m	NA	verb					nnnn	nnnn	שכני
 2096396	Mur88	Micah	7	17	ZXL[	ZXLJ	ZXL			qal	ptca	pl	m	NA	verb		J		K	rrrr	nnnn	זחלי
@@ -3262,7 +3262,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2096937	Mur88	Nahum	3	2	DHR[	DHR	DHR			qal	ptca	sg	m	NA	verb					nnn	nnn	דהר
 2096974	Mur88	Nahum	3	4	MKR[	MKRT	MKRT			qal	ptca	sg	f	NA	verb				H	nrrr	nnnn	מכרת
 2097015	Mur88	Nahum	3	7	R>H[	R>JK	R>			qal	ptca	pl	m	NA	verb	K	J			rrrr	nnnn	ראיך
-2097037	Mur88	Nahum	3	8	JCB[	JCBH	JCBH			qal	ptca	sg	f	NA	verb				H	rnnn	nnnn	ישבה
+2097037	Mur88	Nahum	3	8	JCB[	JCBH	JCB			qal	ptca	sg	f	NA	verb		H		H	rnnn	nnnn	ישבה
 2097112	Mur88	Nahum	3	12	>KL[	>WKL	>WKL			qal	ptca	sg	m	NA	verb					rrrn	nnnn	אוכל
 2097161	Mur88	Nahum	3	16	RKL[	RKLJK	RKL			qal	ptca	pl	m	NA	verb	K	J			rrrrr	nnnnn	רכליך
 2097180	Mur88	Nahum	3	17	XNH[	XWNJM	XWN			qal	ptca	pl	m	NA	verb		JM		H	nrrrr	nnnnn	חונים
@@ -3288,14 +3288,14 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2098061	Mur88	Zephaniah	1	12	>MR[	>MRJM	>MR			qal	ptca	pl	m	NA	verb		JM		H	nnnrr	nnnnn	אמרים
 2098108	Mur88	Zephaniah	1	14	YRX[	YRX	YRX			qal	ptca	sg	m	NA	verb					rrr	nnn	צרח
 2098200	Mur88	Zephaniah	1	18	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	ישבי
-2098259	Mur88	Zephaniah	2	4	<ZB[	<ZWBH	<ZWBH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	עזובה
+2098259	Mur88	Zephaniah	2	4	<ZB[	<ZWBH	<ZWB			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	עזובה
 2098274	Mur88	Zephaniah	2	5	JCB[	JCBJ	JCB			qal	ptca	pl	m	NA	verb		J			nnnn	nnnn	ישבי
 2098290	Mur88	Zephaniah	2	5	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב
 2098299	Mur88	Zephaniah	2	6	R<H[	R<JM	R<			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	רעים
 2098471	Mur88	Zephaniah	2	15	JCB[	JWCBT	JWCBT			qal	ptca	sg	f	NA	verb				H	rrrrr	nnnnn	יושבת
-2098475	Mur88	Zephaniah	2	15	>MR[	>MRH	>MRH			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	אמרה
+2098475	Mur88	Zephaniah	2	15	>MR[	>MRH	>MR			qal	ptca	sg	f	NA	verb		H		H	nnnn	nnnn	אמרה
 2098490	Mur88	Zephaniah	2	15	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					nnnn	nnnn	עובר
-2098497	Mur88	Zephaniah	3	1	MR>=[	MR>H	MR>H			qal	ptca	sg	f	NA	verb					rrnn	nnnn	מראה
+2098497	Mur88	Zephaniah	3	1	MR>=[	MR>H	MR>			qal	ptca	sg	f	NA	verb		H			rrnn	nnnn	מראה
 2098503	Mur88	Zephaniah	3	1	JNH[	JWNH	JWNH			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	יונה
 2098525	Mur88	Zephaniah	3	3	C>G[	C>GJM	C>G			qal	ptca	pl	m	NA	verb		JM			nnnnn	nnnnn	שאגים
 2098526	Mur88	Zephaniah	3	3	CPV[	CPVJH	CPV			qal	ptca	pl	m	NA	verb	H	J			rrrrr	nnnnn	שפטיה
@@ -3304,7 +3304,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2098575	Mur88	Zephaniah	3	6	<BR[	<WBR	<WBR			qal	ptca	sg	m	NA	verb					rrrr	nnnn	עובר
 2098583	Mur88	Zephaniah	3	6	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					rrrr	nnnn	יושב
 2098790	Mur88	Zephaniah	3	19	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					nnn	nnn	עשה
-2098802	Mur88	Zephaniah	3	19	YL<[	YL<H	YL<H			qal	ptca	sg	f	NA	verb				H	nnnn	nnnn	צלעה
+2098802	Mur88	Zephaniah	3	19	YL<[	YL<H	YL<			qal	ptca	sg	f	NA	verb		H		H	nnnn	nnnn	צלעה
 2098935	Mur88	Haggai	1	4	SPN[	SPWNJM	SPWN			qal	ptcp	pl	m	NA	verb		JM			nnnnrn	nnnnnn	ספונים
 2098981	Mur88	Haggai	1	6	NQB[	NQWB	NQWB			qal	ptcp	sg	m	NA	verb					nnrn	nnnn	נקוב
 2099036	Mur88	Haggai	1	9	RWY[	RYJM	RY			qal	ptca	pl	m	NA	verb		JM			rrrr	nnnn	רצים
@@ -3332,7 +3332,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2100939	5/6hev1b	Psalms	15	5	<FH[	<FH	<FH			qal	ptca	sg	m	NA	verb					nnn	nnn	עשה
 2101071	5/6hev1b	Psalms	18	18	FN>[	FN>J	FN>			qal	ptca	pl	m	NA	verb		J		WM	rrrr	nnnn	שנאי
 2101172	5/6hev1b	Psalms	18	28	RWM[	RMWT	RM			qal	ptca	pl	f	NA	verb		WT			nnnn	nnnn	רמות
-2101200	5/6hev1b	Psalms	18	31	YRP[	YRWPH	YRWPH			qal	ptcp	sg	f	NA	verb					nrrnn	nnnnn	צרופה
+2101200	5/6hev1b	Psalms	18	31	YRP[	YRWPH	YRWP			qal	ptcp	sg	f	NA	verb		H			nrrnn	nnnnn	צרופה
 2101206	5/6hev1b	Psalms	18	31	XSH[	XSJM	XS			qal	ptca	pl	m	NA	verb		JM		H	nnnr	nnnn	חסים
 2101295	5/6hev1b	Psalms	18	40	QWM[	QMJ	QM			qal	ptca	pl	m	NA	verb		J			nnn	nnn	קמי
 2101332	5/6hev1b	Psalms	22	4	JCB[	JWCB	JWCB			qal	ptca	sg	m	NA	verb					nnnn	nnnn	יושב
@@ -3350,7 +3350,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2101862	5/6hev1b	Psalms	31	20	XSH[	XSJM	XS			qal	ptca	pl	m	NA	verb		JM		L	rrrr	nnnn	חסים
 2101882	5/6hev1b	Psalms	31	22	BRK[	BRWK	BRWK			qal	ptcp	sg	m	NA	verb					rrrr	nnnn	ברוך
 2101990	Xhev/se2	Numbers	27	7	DBR[	DBRT	DBR			qal	ptca	pl	f	NA	verb		T			rrrn	nnnn	דברת
-2102140	Xhev/se2	Numbers	28	12	BLL[	BLWLH	BLWLH			qal	ptcp	sg	f	NA	verb					rrrrr	nnnnn	בלולה
+2102140	Xhev/se2	Numbers	28	12	BLL[	BLWLH	BLWL			qal	ptcp	sg	f	NA	verb		H			rrrrr	nnnnn	בלולה
 2102188	Xhev/se3	Deuteronomy	9	5	BW>[	B>	B>			qal	ptca	sg	m	NA	verb					rr	nn	בא
 2102232	Xhev/se3	Deuteronomy	9	6	NTN[	NTN	NTN			qal	ptca	sg	m	NA	verb					rrr	nnn	נתן
 2102259	Xhev/se3	Deuteronomy	9	21	JRD[	JRD	JRD			qal	ptca	sg	m	NA	verb				H	rrr	nnn	ירד
@@ -3362,7 +3362,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2103021	34Se1	Exodus	13	5	ZWB[	ZBT	ZBT			qal	ptca	sg	f	NA	verb					nnn	nnn	זבת
 2103241	34Se1	Exodus	13	15	ZBX[	ZBX	ZBX			qal	ptca	sg	m	NA	verb					rrr	nnn	זבח
 2103301	Mas1	Genesis	46	8	BW>[	B>JM	B>			qal	ptca	pl	m	NA	verb		JM		H	rrrr	nnnn	באים
-2103676	Mas1b	Leviticus	9	4	BLL[	BLWLH	BLWLH			qal	ptcp	sg	f	NA	verb					nnnnn	nnnnn	בלולה
+2103676	Mas1b	Leviticus	9	4	BLL[	BLWLH	BLWL			qal	ptcp	sg	f	NA	verb		H			nnnnn	nnnnn	בלולה
 2104358	Mas1b	Leviticus	11	3	CS<[	CS<T	CS<T			qal	ptca	sg	f	NA	verb				W	nrrr	nnnn	שסעת
 2104438	Mas1b	Leviticus	11	7	CS<[	CS<	CS<			qal	ptca	sg	m	NA	verb				W	rrr	nnn	שסע
 2104652	Mas1b	Leviticus	11	20	HLK[	HLK	HLK			qal	ptca	sg	m	NA	verb				H	rrr	nnn	הלך

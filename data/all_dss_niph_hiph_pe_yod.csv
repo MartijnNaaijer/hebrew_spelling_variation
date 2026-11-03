@@ -4,12 +4,12 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1891534	1Q4	Deuteronomy	13	1	JSP[	TSP	SP			hif	impf	sg	m	p2	verb					rrr	nnn	תסף
 1891645	1Q4	Deuteronomy	13	6	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
 1892164	1Q5	Deuteronomy	1	11	JSP[	JSP	SP			hif	impf	sg	m	p3	verb					rrr	nnn	יסף
-1892361	1Q5	Deuteronomy	17	16	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn	תספון
+1892361	1Q5	Deuteronomy	17	16	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb					rrrrr	nnnnn	תספון
 1892462	1Q5	Deuteronomy	24	11	JY>[	JWY>	WY>			hif	impf	sg	m	p3	verb					nnnn	nnnn	יוצא
 1894095	1Q6	Judges	9	5	JTR[	JWTR	JWTR			nif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יותר
 1894318	1Q6	Judges	9	49	JYT[	JYJTW	YJT			hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn	יציתו
 1894937	1Qisaa	Isaiah	1	5	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו
-1894993	1Qisaa	Isaiah	1	8	JTR[	NTRT	NTRT			nif	ptca	sg	f	NA	verb				W	nnnn	nnnn	נתרת
+1894993	1Qisaa	Isaiah	1	8	JTR[	NTRT	NTR			nif	ptca	sg	f	NA	verb		T		W	nnnn	nnnn	נתרת
 1895012	1Qisaa	Isaiah	1	9	JTR[	HWTJR	WTJR			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הותיר
 1895073	1Qisaa	Isaiah	1	13	JSP[	TWSJPW	WSJP			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תוסיפו
 1895139	1Qisaa	Isaiah	1	17	JVB[	HJVJB	JVJB			hif	infa	NA		NA	verb					nnnnn	nnnnn	היטיב
@@ -50,7 +50,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1901388	1Qisaa	Isaiah	19	13	J>L=[	N>WLW	N>WLW			nif	perf	pl		p3	verb					nnnnn	nnnnn	נאולו
 1901550	1Qisaa	Isaiah	19	20	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					nnnnn	nnnnn	מושיע
 1901557	1Qisaa	Isaiah	19	21	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb				W	nnnn	nnnn	נודע
-1901812	1Qisaa	Isaiah	21	1	JR>[	NWR>H	NWR>H			nif	ptca	sg	f	NA	verb					nnnnn	nnnnn	נוראה
+1901812	1Qisaa	Isaiah	21	1	JR>[	NWR>H	NWR>			nif	ptca	sg	f	NA	verb		H			nnnnn	nnnnn	נוראה
 1902519	1Qisaa	Isaiah	23	1	JLL[	>JLJLW	>JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	אילילו
 1902591	1Qisaa	Isaiah	23	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
 1902669	1Qisaa	Isaiah	23	12	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
@@ -68,8 +68,8 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1905053	1Qisaa	Isaiah	30	5	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו
 1905060	1Qisaa	Isaiah	30	5	J<L[	TW<JL	W<JL			hif	impf	sg	f	p3	verb					nnnnn	nnnnn	תועיל
 1905102	1Qisaa	Isaiah	30	6	J<L[	JW<JLW	W<JL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יועילו
-1905267	1Qisaa	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תושעון
-1905311	1Qisaa	Isaiah	30	17	JTR[	NWTRTM	NWTRT			nif	perf	pl	m	p2	verb		M			nnnnnn	nnnnnn	נותרתם
+1905267	1Qisaa	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תושעון
+1905311	1Qisaa	Isaiah	30	17	JTR[	NWTRTM	NWTRTM			nif	perf	pl	m	p2	verb					nnnnnn	nnnnnn	נותרתם
 1905402	1Qisaa	Isaiah	30	21	JMN[	TJ>MJNW	J>MJN			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תיאמינו
 1906224	1Qisaa	Isaiah	33	2	JC<[	HWC<TNW	WC<			hif	perf	sg	m	p2	verb	NW				nnnnnnn	nnnnnnn	הושעתנו
 1906431	1Qisaa	Isaiah	33	19	J<Z[	NW<Z	NW<Z			nif	ptca	sg	m	NA	verb					nnnn	nnnn	נועז
@@ -132,7 +132,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1913292	1Qisaa	Isaiah	49	25	JC<[	>WCJ<	WCJ<			hif	impf	sg		p1	verb					nnnnn	nnnnn	אושיע
 1913297	1Qisaa	Isaiah	49	26	JNH[	MWNJK	WN			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוניך
 1913312	1Qisaa	Isaiah	49	26	JC<[	MWCJ<K	WCJ<			hif	ptca	sg	m	NA	verb	K				nnnnnn	nnnnnn	מושיעך
-1913643	1Qisaa	Isaiah	51	5	JXL[	JWXJLWN	WXJL			hif	impf	pl	m	p3	verb	N				nnnnnnn	nnnnnnn	יוחילון
+1913643	1Qisaa	Isaiah	51	5	JXL[	JWXJLWN	WXJL			hif	impf	pl	m	p3	verb					nnnnnnn	nnnnnnn	יוחילון
 1913991	1Qisaa	Isaiah	51	22	JSP[	TWSJPJ	WSJP			hif	impf	sg	f	p2	verb					nnnnnn	nnnnnn	תוסיפי
 1914000	1Qisaa	Isaiah	51	23	JGH[	MWGJK	WG			hif	ptca	pl	m	NA	verb	K	J			nnnnn	nnnnn	מוגיך
 1914035	1Qisaa	Isaiah	52	1	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יוסיף
@@ -170,7 +170,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1918982	1Q8	Isaiah	7	22	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				H	rrrr	nnnn	נותר
 1919197	1Q8	Isaiah	12	4	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 1919203	1Q8	Isaiah	12	4	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הודיעו
-1919217	1Q8	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					rrrrr	nnnnn	מודעת
+1919217	1Q8	Isaiah	12	5	JD<[	MWD<T	MWD<			hof	ptca	sg	f	NA	verb		T			rrrrr	nnnnn	מודעת
 1919307	1Q8	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
 1919410	1Q8	Isaiah	15	2	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
 1919430	1Q8	Isaiah	15	3	JLL[	JJLJL	JLJL			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	ייליל
@@ -184,7 +184,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1920457	1Q8	Isaiah	24	20	JSP[	TSJP	SJP			hif	impf	sg	f	p3	verb					rrrr	nnnn	תסיף
 1920526	1Q8	Isaiah	25	1	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					rrrr	nnnn	אודה
 1920788	1Q8	Isaiah	28	16	JSD[	MWSD	MWSD			hof	ptca	sg	m	NA	verb					rrrr	nnnn	מוסד
-1921142	1Q8	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תושעון
+1921142	1Q8	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תושעון
 1921346	1Q8	Isaiah	35	4	JC<[	JC<KM	C<			hif	impf	sg	m	p3	verb	KM			W	rrrrr	nnnnn	ישעכם
 1921637	1Q8	Isaiah	38	18	JDH[	TW<K	W<			hif	impf	sg	f	p3	verb	K				nnnn	nnnn	תועך
 1921650	1Q8	Isaiah	38	19	JDH[	JWDK	WD			hif	impf	sg	m	p3	verb	K				nnnn	nnnn	יודך
@@ -215,7 +215,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1924498	1Q8	Isaiah	53	7	JBL[	JWBL	JWBL			hof	impf	sg	m	p3	verb					nnnn	nnnn	יובל
 1924668	1Q8	Isaiah	54	3	JCB[	JWCJBW	WCJB			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יושיבו
 1924869	1Q8	Isaiah	55	10	JLD[	HWLJDH	WLJD			hif	perf	sg	m	p3	verb	H			W	nrrrrr	nnnnnn	הולידה
-1924912	1Q8	Isaiah	55	12	JBL[	TWBLWN	TWBLW			hof	impf	pl	m	p2	verb	N				nnnnnn	nnnnnn	תובלון
+1924912	1Q8	Isaiah	55	12	JBL[	TWBLWN	TWBLW			hof	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תובלון
 1925438	1Q8	Isaiah	58	5	JY<[	JYJ<	YJ<			hif	impf	sg	m	p3	verb					nnnn	nnnn	יציע
 1925649	1Q8	Isaiah	59	1	JC<[	HWCJ<	WCJ<			hif	infc	NA		NA	verb				M	nnnnn	nnnnn	הושיע
 1925706	1Q8	Isaiah	59	4	JLD[	HWLJDW	WLJD			hif	perf	pl		p3	verb				W	nnnnnn	nnnnnn	הולידו
@@ -246,7 +246,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1929107	1Q13	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 1929178	1Q13	Exodus	13	9	JY>[	HWY>K	WY>			hif	perf	sg	m	p3	verb	K				rrrrr	nnnnn	הוצאך
 1930142	2Q2	Exodus	7	4	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
-1930172	2Q2	Exodus	9	28	JSP[	TWSPWN	WSP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תוספון
+1930172	2Q2	Exodus	9	28	JSP[	TWSPWN	WSP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תוספון
 1930300	2Q2	Exodus	11	6	JSP[	TWSP	WSP			hif	impf	sg	f	p3	verb					rrrr	nnnn	תוסף
 1930453	2Q2	Exodus	12	39	JY>[	HWYJ>W	WYJ>			hif	perf	pl		p3	verb					rrrrrr	nnnnnn	הוציאו
 1931144	2Q3	Exodus	34	10	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
@@ -272,7 +272,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1936086	4Q1	Exodus	3	12	JY>[	HWYJ>K	WYJ>			hif	infc	NA		NA	verb	K			B	nnnnnn	nnnnnn	הוציאך
 1936323	4Q1	Exodus	4	6	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
 1936345	4Q1	Exodus	4	7	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
-1936599	4Q1	Exodus	5	7	JSP[	T>SPWN	>SP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תאספון
+1936599	4Q1	Exodus	5	7	JSP[	T>SPWN	>SP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תאספון
 1936841	4Q1	Exodus	6	6	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
 1936881	4Q1	Exodus	6	7	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	nnnnn	nnnnn	מוציא
 1936999	4Q1	Exodus	6	13	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
@@ -294,25 +294,25 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1940186	4Q6	Genesis	48	6	JLD[	HWLDT	WLD			hif	perf	sg	m	p2	verb					nnnnn	nnnnn	הולדת
 1940981	4Q9	Genesis	41	31	JD<[	JWD<	JWD<			nif	impf	sg	m	p3	verb					rrrr	nnnn	יודע
 1941098	4Q9	Genesis	41	39	JD<[	HWDJ<	WDJ<			hif	infc	NA		NA	verb					nnnnn	nnnnn	הודיע
-1941366	4Q9	Genesis	42	38	JRD[	HWRDTM	WRDT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורדתם
+1941366	4Q9	Genesis	42	38	JRD[	HWRDTM	WRD			hif	perf	pl	m	p2	verb				W	rrrrrr	nnnnnn	הורדתם
 1941462	4Q9	Genesis	43	7	JRD[	HWRJDW	WRJD			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הורידו
 1942355	4Q11	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
-1942525	4Q11	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn	תספון
+1942525	4Q11	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb					rrrrr	nnnnn	תספון
 1942596	4Q11	Exodus	9	34	JSP[	JSP	SP			hif	wayq	sg	m	p3	verb				W	rrr	nnn	יסף
 1942791	4Q11	Exodus	11	6	JSP[	TSP	SP			hif	impf	sg	f	p3	verb					rrr	nnn	תסף
 1943086	4Q11	Exodus	12	10	JTR[	TWTJRW	WTJR			hif	impf	pl	m	p2	verb					nnnnnn	nnnnnn	תותירו
 1943092	4Q11	Exodus	12	10	JTR[	NTR	NTR			nif	ptca	sg	m	NA	verb				WH	rrr	nnn	נתר
 1943221	4Q11	Exodus	12	46	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוציא
 1943379	4Q11	Exodus	14	21	HLK[	JWLK	WLK			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יולך
-1943505	4Q11	Exodus	16	3	JY>[	HWY>TM	WY>T			hif	perf	pl	m	p2	verb		M			nnnrrr	nnnnnn	הוצאתם
+1943505	4Q11	Exodus	16	3	JY>[	HWY>TM	WY>			hif	perf	pl	m	p2	verb					nnnrrr	nnnnnn	הוצאתם
 1943588	4Q11	Exodus	16	6	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrn	nnnnn	הוציא
 1943692	4Q11	Exodus	16	19	JTR[	JWTR	WTR			hif	impf	sg	m	p3	verb					rrrr	nnnn	יותר
 1943703	4Q11	Exodus	16	20	JTR[	JWTRW	WTR			hif	wayq	pl	m	p3	verb				W	rrrrr	nnnnn	יותרו
-1943940	4Q11	Exodus	16	35	JCB[	NWCBT	NWCBT			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נושבת
+1943940	4Q11	Exodus	16	35	JCB[	NWCBT	NWCB			nif	ptca	sg	f	NA	verb		T			rrrrr	nnnnn	נושבת
 1944270	4Q11	Exodus	18	20	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn	הודעת
 1944443	4Q11	Exodus	20	2	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rnnnnnn	nnnnnnn	הוצאתיך
 1945933	4Q13	Exodus	1	20	JVB[	JVB	VB			hif	wayq	sg	m	p3	verb				W	nnn	nnn	יטב
-1946081	4Q13	Exodus	2	7	JNQ[	MJNQT	JNQT			hif	ptca	sg	f	NA	verb					rrrrr	nnnnn	מינקת
+1946081	4Q13	Exodus	2	7	JNQ[	MJNQT	JNQ			hif	ptca	sg	f	NA	verb		T			rrrrr	nnnnn	מינקת
 1946086	4Q13	Exodus	2	7	JNQ[	HJNQH	JNQ			hif	perf	sg	f	p3	verb				W	nnnnn	nnnnn	הינקה
 1946114	4Q13	Exodus	2	9	HLK[	HLK	HLK			hif	impv	sg	f	NA	verb					nnn	nnn	הלך
 1946121	4Q13	Exodus	2	9	JNQ[	HJNJQHW	JNJQ			hif	impv	sg	f	NA	verb	HW			W	rrrrrrr	nnnnnnn	היניקהו
@@ -321,10 +321,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1946337	4Q13	Exodus	2	17	JC<[	JCJ<N	CJ<			hif	wayq	sg	m	p3	verb	N			W	rrrnn	nnnnn	ישיען
 1946733	4Q13	Exodus	4	6	JY>[	JWY>H	WY>			hif	wayq	sg	m	p3	verb	H			W	rrrrr	nnnnn	יוצאה
 1946755	4Q13	Exodus	4	7	JY>[	JWYJ>H	WYJ>			hif	wayq	sg	m	p3	verb	H			W	rrrrrr	nnnnnn	יוציאה
-1946840	4Q13	Exodus	5	7	JSP[	T>SPWN	>SP			hif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תאספון
+1946840	4Q13	Exodus	5	7	JSP[	T>SPWN	>SP			hif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תאספון
 1947700	4Q14	Exodus	8	14	JY>[	HWYJ>	WYJ>			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוציא
 1948021	4Q14	Exodus	9	18	JSD[	HWSDH	HWSD			nif	infc	NA		NA	verb	H				rrrrr	nnnnn	הוסדה
-1948272	4Q14	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תספון
+1948272	4Q14	Exodus	9	28	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb					nnnnn	nnnnn	תספון
 1948388	4Q14	Exodus	9	34	JSP[	JSP	SP			hif	wayq	sg	m	p3	verb				W	rrn	nnn	יסף
 1948819	4Q14	Exodus	10	15	JTR[	HWTJR	WTJR			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הותיר
 1948824	4Q14	Exodus	10	15	JTR[	NWTR	NWTR			nif	perf	sg	m	p3	verb					nnnn	nnnn	נותר
@@ -354,7 +354,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1955254	4Q22	Exodus	15	25	JRH[	JWRHW	WR			hif	wayq	sg	m	p3	verb	HW			W	rrrrr	nnnnn	יורהו
 1955399	4Q22	Exodus	16	6	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 1955493	4Q22	Exodus	16	32	JY>[	HWYJ>J	WYJ>			hif	infc	NA		NA	verb	J			B	rrrrrr	nnnnnn	הוציאי
-1955554	4Q22	Exodus	16	35	JCB[	NWCBT	NWCBT			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נושבת
+1955554	4Q22	Exodus	16	35	JCB[	NWCBT	NWCB			nif	ptca	sg	f	NA	verb		T			rrrrr	nnnnn	נושבת
 1955964	4Q22	Exodus	18	1	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					nnnnn	nnnnn	הוציא
 1956284	4Q22	Exodus	18	16	JD<[	HWD<TJ	WD<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הודעתי
 1956361	4Q22	Exodus	18	20	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb				W	rrrrr	nnnnn	הודעת
@@ -380,10 +380,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1964520	4Q23	Numbers	5	7	JSP[	JSP	SP			hif	impf	sg	m	p3	verb					rrr	nnn	יסף
 1964984	4Q23	Numbers	10	17	JRD[	HWRD	HWRD			hof	perf	sg	m	p3	verb				W	nnnn	nnnn	הורד
 1966120	4Q23	Numbers	32	39	JRC[	JWRC	WRC			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יורש
-1966379	4Q23	Numbers	33	52	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrnn	nnnnnn	הורשתם
-1966405	4Q23	Numbers	33	53	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורשתם
-1966965	4Q24	Leviticus	2	3	JTR[	NWTRT	NWTRT			nif	ptca	sg	f	NA	verb				WH	rrrrr	nnnnn	נותרת
-1967077	4Q24	Leviticus	2	10	JTR[	NWTRT	NWTRT			nif	ptca	sg	f	NA	verb				WH	nnrrr	nnnnn	נותרת
+1966379	4Q23	Numbers	33	52	JRC[	HWRCTM	WRC			hif	perf	pl	m	p2	verb				W	rrrrnn	nnnnnn	הורשתם
+1966405	4Q23	Numbers	33	53	JRC[	HWRCTM	WRC			hif	perf	pl	m	p2	verb				W	rrrrrr	nnnnnn	הורשתם
+1966965	4Q24	Leviticus	2	3	JTR[	NWTRT	NWTR			nif	ptca	sg	f	NA	verb		T		WH	rrrrr	nnnnn	נותרת
+1967077	4Q24	Leviticus	2	10	JTR[	NWTRT	NWTR			nif	ptca	sg	f	NA	verb		T		WH	nnrrr	nnnnn	נותרת
 1968017	4Q24	Leviticus	22	27	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					rrrr	nnnn	יולד
 1968069	4Q24	Leviticus	22	30	JTR[	TWTJRW	WTJR			hif	impf	pl	m	p2	verb					nnnnnr	nnnnnn	תותירו
 1968100	4Q24	Leviticus	22	33	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
@@ -409,7 +409,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1975106	4Q27	Numbers	27	3	J<D[	NW<DJM	NW<D			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נועדים
 1976763	4Q27	Numbers	32	21	JRC[	HWRJCW	WRJC			hif	infc	NA		NA	verb	W				rrrrrr	nnnnnn	הורישו
 1977056	4Q27	Numbers	32	39	JRC[	JWRJCW	WRJC			hif	wayq	pl	m	p3	verb				W	rrrrrr	nnnnnn	יורישו
-1977334	4Q27	Numbers	33	52	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורשתם
+1977334	4Q27	Numbers	33	52	JRC[	HWRCTM	WRC			hif	perf	pl	m	p2	verb				W	rrrrrr	nnnnnn	הורשתם
 1978526	4Q28	Deuteronomy	24	8	JRH[	JWRW	WR			hif	impf	pl	m	p3	verb					rrrr	nnnn	יורו
 1978553	4Q29	Deuteronomy	29	24	JY>[	HWYJ>W	WYJ>			hif	infc	NA		NA	verb	W			B	rrrrrr	nnnnnn	הוציאו
 1978660	4Q29	Deuteronomy	30	5	JVB[	HJVBK	JVB			hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn	היטבך
@@ -424,7 +424,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1980432	4Q30	Deuteronomy	15	19	JLD[	JWLD	JWLD			nif	impf	sg	m	p3	verb					rrrr	nnnn	יולד
 1980720	4Q30	Deuteronomy	17	4	JVB[	HJVB	JVB			hif	infa	NA		NA	verb					nnrr	nnnn	היטב
 1980736	4Q30	Deuteronomy	17	5	JY>[	HWY>T	WY>			hif	perf	sg	m	p2	verb				W	nrrrr	nnnnn	הוצאת
-1980847	4Q30	Deuteronomy	17	16	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb	N				rrrrr	nnnnn	תספון
+1980847	4Q30	Deuteronomy	17	16	JSP[	TSPWN	SP			hif	impf	pl	m	p2	verb					rrrrr	nnnnn	תספון
 1981263	4Q30	Deuteronomy	28	11	JTR[	HWTRK	WTR			hif	perf	sg	m	p3	verb	K			W	rrrrr	nnnnn	הותרך
 1981462	4Q30	Deuteronomy	28	29	JC<[	MWCJ<	WCJ<			hif	ptca	sg	m	NA	verb					rrrrr	nnnnn	מושיע
 1982389	4Q31	Deuteronomy	3	26	JSP[	TSP	SP			hif	impf	sg	m	p2	verb					nnn	nnn	תסף
@@ -437,7 +437,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1982931	4Q32	Deuteronomy	8	15	JY>[	MWYJ>	WYJ>			hif	ptca	sg	m	NA	verb				H	rrrrr	nnnnn	מוציא
 1982954	4Q32	Deuteronomy	8	16	JVB[	HJVBK	JVB			hif	infc	NA		NA	verb	K			L	nrrrr	nnnnn	היטבך
 1982995	4Q33	Deuteronomy	4	25	JLD[	TWLJD	WLJD			hif	impf	sg	m	p2	verb					rrrrr	nnnnn	תוליד
-1983001	4Q33	Deuteronomy	4	25	JCN[	NWCNTM	NWCNT			nif	perf	pl	m	p2	verb		M		W	rrrrrn	nnnnnn	נושנתם
+1983001	4Q33	Deuteronomy	4	25	JCN[	NWCNTM	NWCNTM			nif	perf	pl	m	p2	verb				W	rrrrrn	nnnnnn	נושנתם
 1983134	4Q33	Deuteronomy	7	25	JQC[	TWQC	TWQC			nif	impf	sg	m	p2	verb					rrrr	nnnn	תוקש
 1983186	4Q33	Deuteronomy	8	3	JD<[	HWD<K	WD<			hif	infc	NA		NA	verb	K				rrrrr	nnnnn	הודעך
 1983388	4Q33	Deuteronomy	8	14	JY>[	MWYJ>K	WYJ>			hif	ptca	sg	m	NA	verb	K			H	nnnnnn	nnnnnn	מוציאך
@@ -483,7 +483,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 1993832	4Q45	Deuteronomy	14	28	JY>[	TWYJ>	WYJ>			hif	impf	sg	m	p2	verb					nnnnn	nnnnn	תוציא
 1994363	4Q45	Deuteronomy	32	13	JNQ[	JNQHW	NQ			hif	wayq	sg	m	p3	verb	HW			W	rrrrr	nnnnn	ינקהו
 1995170	4Q47	Joshua	7	12	JSP[	>WSJP	WSJP			hif	impf	sg		p1	verb					nnnnn	nnnnn	אוסיף
-1995414	4Q47	Joshua	8	7	JRC[	HWRCTM	WRCT			hif	perf	pl	m	p2	verb		M		W	rrrrrr	nnnnnn	הורשתם
+1995414	4Q47	Joshua	8	7	JRC[	HWRCTM	WRC			hif	perf	pl	m	p2	verb				W	rrrrrr	nnnnnn	הורשתם
 1995432	4Q47	Joshua	8	8	JYT[	TYJTW	YJT			hif	impf	pl	m	p2	verb					rrrrr	nnnnn	תציתו
 1995980	4Q48	Joshua	17	2	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נותרים
 1996144	4Q48	Joshua	17	12	JRC[	HWRJC	WRJC			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הוריש
@@ -557,10 +557,10 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2014212	4Q54	1_Kings	8	5	J<D[	NW<DJM	NW<D			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נועדים
 2014731	4Q55	Isaiah	12	4	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2014737	4Q55	Isaiah	12	4	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הודיעו
-2014751	4Q55	Isaiah	12	5	JD<[	MWD<T	MWD<T			hof	ptca	sg	f	NA	verb					nnnnn	nnnnn	מודעת
+2014751	4Q55	Isaiah	12	5	JD<[	MWD<T	MWD<			hof	ptca	sg	f	NA	verb		T			nnnnn	nnnnn	מודעת
 2014838	4Q55	Isaiah	13	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
 2014938	4Q55	Isaiah	13	12	JQR[	>WQJR	WQJR			hif	impf	sg		p1	verb					rrrrr	nnnnn	אוקיר
-2015330	4Q55	Isaiah	21	1	JR>[	NWR>H	NWR>H			nif	ptca	sg	f	NA	verb					rrrrr	nnnnn	נוראה
+2015330	4Q55	Isaiah	21	1	JR>[	NWR>H	NWR>			nif	ptca	sg	f	NA	verb		H			rrrrr	nnnnn	נוראה
 2015826	4Q55	Isaiah	23	1	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					nnnnnn	nnnnnn	הילילו
 2015898	4Q55	Isaiah	23	6	JLL[	HJLJLW	JLJL			hif	impv	pl	m	NA	verb					rrrrrr	nnnnnn	הילילו
 2015910	4Q55	Isaiah	23	7	JBL[	JBLWH	BL			hif	impf	pl	m	p3	verb	H				rrrrr	nnnnn	יבלוה
@@ -599,7 +599,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2021545	4Q57	Isaiah	25	9	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW			W	rrrrrrr	nnnnnnn	יושיענו
 2021771	4Q57	Isaiah	28	9	JRH[	JWRH	WRH			hif	impf	sg	m	p3	verb					rrrr	nnnn	יורה
 2021865	4Q57	Isaiah	28	13	JQC[	NWQCW	NWQCW			nif	perf	pl		p3	verb				W	rrrrr	nnnnn	נוקשו
-2022026	4Q57	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb	N				rrrrrr	nnnnnn	תושעון
+2022026	4Q57	Isaiah	30	15	JC<[	TWC<WN	TWC<W			nif	impf	pl	m	p2	verb					rrrrrr	nnnnnn	תושעון
 2022177	4Q57	Isaiah	33	19	J<Z[	NW<Z	NW<Z			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נועז
 2022244	4Q57	Isaiah	33	22	JC<[	JWCJ<NW	WCJ<			hif	impf	sg	m	p3	verb	NW				rrrrrrr	nnnnnnn	יושיענו
 2022708	4Q57	Isaiah	48	17	J<L[	HW<JL	W<JL			hif	infc	NA		NA	verb				L	rrrrr	nnnnn	הועיל
@@ -670,7 +670,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2035941	4Q73	Ezekiel	11	9	JY>[	HWY>TJ	WY>			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הוצאתי
 2035982	4Q73	Ezekiel	23	14	JSP[	TWSP	WSP			hif	wayq	sg	f	p3	verb				W	rrrr	nnnn	תוסף
 2036420	4Q74	Ezekiel	1	22	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				H	nnnn	nnnn	נורא
-2036711	4Q76	Malachi	2	17	JG<[	HG<TM	G<T			hif	perf	pl	m	p2	verb		M		W	nnnnn	nnnnn	הגעתם
+2036711	4Q76	Malachi	2	17	JG<[	HG<TM	G<			hif	perf	pl	m	p2	verb				W	nnnnn	nnnnn	הגעתם
 2036719	4Q76	Malachi	2	17	JG<[	HGW<NW	GW<NW			hif	perf	pl		p1	verb					nnnnnn	nnnnnn	הגוענו
 2037237	4Q76	Malachi	3	23	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb				WH	nnnn	nnnn	נורא
 2037686	4Q77	Zephaniah	3	19	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	rrrrrr	nnnnnn	הושעתי
@@ -764,7 +764,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2048667	4Q84	Psalms	94	10	JKX[	JWKJX	WKJX			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוכיח
 2049291	4Q84	Psalms	118	1	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2049411	4Q84	Psalms	118	19	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
-2049445	4Q84	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb	H				rnnnnn	nnnnnn	הושיעה
+2049445	4Q84	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb					rnnnnn	nnnnnn	הושיעה
 2049464	4Q84	Psalms	118	29	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2049613	4Q85	Psalms	18	4	JC<[	>WC<	>WC<			nif	impf	sg		p1	verb					rrnn	nnnn	אושע
 2050031	4Q85	Psalms	44	8	JC<[	HWC<TNW	WC<			hif	perf	sg	m	p2	verb	NW				rrrrrrr	nnnnnnn	הושעתנו
@@ -782,7 +782,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2051428	4Q87	Psalms	105	1	JD<[	HWDJ<W	WDJ<			hif	impv	pl	m	NA	verb					nnnrrr	nnnnnn	הודיעו
 2051487	4Q87	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	nnnn	nnnn	יוצא
 2051547	4Q87	Psalms	105	43	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
-2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	היטיבה
+2051637	4Q87	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb					nnnnnn	nnnnnn	היטיבה
 2051651	4Q87	Psalms	125	5	HLK[	JWLJKM	WLJK			hif	impf	sg	m	p3	verb	M				nnnnnn	nnnnnn	יוליכם
 2051768	4Q87	Psalms	130	4	JR>[	TWR>	TWR>			nif	impf	sg	m	p2	verb					rrrr	nnnn	תורא
 2051777	4Q87	Psalms	130	5	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					rrrrrr	nnnnnn	הוחלתי
@@ -862,7 +862,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2069221	4Q140	Exodus	12	51	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
 2069283	4Q140	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrnn	nnnnn	הוציא
 2069427	4Q140	Exodus	13	9	JY>[	HWYJ>KH	WYJ>			hif	perf	sg	m	p3	verb	KH				nnnnnnn	nnnnnnn	הוציאכה
-2069466	4Q140	Deuteronomy	5	33	JRC[	TWRJCWN	WRJC			hif	impf	pl	m	p2	verb	N				nnnnnnn	nnnnnnn	תורישון
+2069466	4Q140	Deuteronomy	5	33	JRC[	TWRJCWN	WRJC			hif	impf	pl	m	p2	verb					nnnnnnn	nnnnnnn	תורישון
 2069820	4Q142	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				rrrrrrr	nnnnnnn	הוצאתיך
 2069992	4Q142	Deuteronomy	5	15	JY>[	JY>K	Y>			hif	wayq	sg	m	p3	verb	K			W	rrrr	nnnn	יצאך
 2070598	4Q145	Exodus	13	3	JY>[	HWYJ>	WYJ>			hif	perf	sg	m	p3	verb					rrrrr	nnnnn	הוציא
@@ -881,7 +881,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2072430	5Q1	Deuteronomy	8	15	JY>[	MWY>	WY>			hif	ptca	sg	m	NA	verb				H	nnnn	nnnn	מוצא
 2072453	5Q1	Deuteronomy	8	16	JVB[	HJVBK	JVB			hif	infc	NA		NA	verb	K			L	nnnnn	nnnnn	היטבך
 2072659	5Q2	1_Kings	1	27	JD<[	HWD<T	WD<			hif	perf	sg	m	p2	verb					rrrrr	nnnnn	הודעת
-2072811	5Q2	1_Kings	1	33	JRD[	HWRDTM	WRDT			hif	perf	pl	m	p2	verb		M		W	nnnnnn	nnnnnn	הורדתם
+2072811	5Q2	1_Kings	1	33	JRD[	HWRDTM	WRD			hif	perf	pl	m	p2	verb				W	nnnnnn	nnnnnn	הורדתם
 2073165	5Q5	Psalms	119	117	JC<[	>WC<H	>WC<			nif	impf	sg		p1	verb				W	rrrrr	nnnnn	אושעה
 2073355	5Q6	Lamentations	4	15	JSP[	JWSJPW	WSJP			hif	impf	pl	m	p3	verb					rrrrrr	nnnnnn	יוסיפו
 2073363	5Q6	Lamentations	4	16	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					rrrrr	nnnnn	יוסיף
@@ -896,7 +896,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2076560	8Q3	Exodus	13	16	JY>[	HWYJ>NW	WYJ>			hif	perf	sg	m	p3	verb	NW				nrrrrrr	nnnnnnn	הוציאנו
 2076991	8Q3	Deuteronomy	10	21	JR>[	NWR>W	NWR>W			nif	ptca	pl		NA	verb				H	rrnnn	nnnnn	נוראו
 2077150	8Q3	Deuteronomy	10	17	JR>[	NWR>	NWR>			nif	ptca	sg		NA	verb				WH	nnnn	nnnn	נורא
-2077216	8Q3	Exodus	12	46	JY>[	TWY>N	WY>			hif	impf	pl	m	p2	verb	N				nnnnn	nnnnn	תוצאן
+2077216	8Q3	Exodus	12	46	JY>[	TWY>N	WY>			hif	impf	pl	m	p2	verb					nnnnn	nnnnn	תוצאן
 2077275	8Q3	Exodus	12	51	JY>[	HWYJ>K	WYJ>			hif	perf	sg	m	p3	verb	K				nnnnnn	nnnnnn	הוציאך
 2077390	8Q3	Deuteronomy	5	6	JY>[	HWY>TJK	WY>			hif	perf	sg		p1	verb	K				nnnnnnn	nnnnnnn	הוצאתיך
 2077620	8Q3	Deuteronomy	10	21	JR>[	NWR>T	NWR>			nif	ptca	pl	f	NA	verb		T		H	nrrrr	nnnnn	נוראת
@@ -914,7 +914,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2082490	11Q5	Psalms	109	23	HLK[	NHLKTJ	NHLKTJ			nif	perf	sg		p1	verb					rrrrrr	nnnnnn	נהלכתי
 2082517	11Q5	Psalms	109	26	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				rnnnnnn	nnnnnnn	הושיעני
 2082551	11Q5	Psalms	109	30	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
-2082568	11Q5	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb	H				nnnnnn	nnnnnn	הושיעה
+2082568	11Q5	Psalms	118	25	JC<[	HWCJ<H	WCJ<			hif	impv	sg	m	NA	verb					nnnnnn	nnnnnn	הושיעה
 2082605	11Q5	Psalms	118	28	JDH[	>WDKH	WD			hif	impf	sg		p1	verb	KH			W	nnnnn	nnnnn	אודכה
 2082609	11Q5	Psalms	118	29	JDH[	HWDW	WD			hif	impv	pl	m	NA	verb					rrrr	nnnn	הודו
 2082889	11Q5	Psalms	147	20	JD<[	HWDJ<M	WDJ<			hif	perf	sg	m	p3	verb	M				nnnnnn	nnnnnn	הודיעם
@@ -924,13 +924,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2083124	11Q5	Psalms	105	37	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
 2083185	11Q5	Psalms	105	43	JY>[	JWY>	WY>			hif	wayq	sg	m	p3	verb				W	rrrr	nnnn	יוצא
 2083232	11Q5	Psalms	146	9	JD<[	HWD<W	WD<			hif	infc	NA		NA	verb	W			B	nnnnn	nnnnn	הודעו
-2083498	11Q5	Psalms	122	4	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
-2083640	11Q5	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb	H				rrrrnn	nnnnnn	היטיבה
+2083498	11Q5	Psalms	122	4	JDH[	HWDWT	WD			hif	infc	NA		NA	verb		WT		L	nnnnn	nnnnn	הודות
+2083640	11Q5	Psalms	125	4	JVB[	HJVJBH	JVJB			hif	impv	sg	m	NA	verb					rrrrnn	nnnnnn	היטיבה
 2083651	11Q5	Psalms	125	5	HLK[	JWLJKM	WLJK			hif	impf	sg	m	p3	verb	M				rrrrrr	nnnnnn	יוליכם
 2083888	11Q5	Psalms	130	4	JR>[	TWR>	TWR>			nif	impf	sg	m	p2	verb					rrrr	nnnn	תורא
 2083896	11Q5	Psalms	130	5	JXL[	HWXLTJ	WXL			hif	perf	sg		p1	verb					nnnnnn	nnnnnn	הוחלתי
 2083898	11Q5	Psalms	130	6	JXL[	HWXJLJ	WXJL			hif	impv	sg	f	NA	verb					nnnnnn	nnnnnn	הוחילי
-2084362	11Q5	Psalms	119	62	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
+2084362	11Q5	Psalms	119	62	JDH[	HWDWT	WD			hif	infc	NA		NA	verb		WT		L	nnnnn	nnnnn	הודות
 2084418	11Q5	Psalms	119	68	JVB[	MVJB	VJB			hif	ptca	sg	m	NA	verb				W	nnnn	nnnn	מטיב
 2084579	11Q5	Psalms	119	94	JC<[	HWCJ<NJ	WCJ<			hif	impv	sg	m	NA	verb	NJ				nnnnnnn	nnnnnnn	הושיעני
 2084702	11Q5	Psalms	119	117	JC<[	>WC<H	>WC<			nif	impf	sg		p1	verb				W	nnnnn	nnnnn	אושעה
@@ -952,7 +952,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2086101	11Q5	Psalms	138	7	JC<[	TWCJ<NJ	WCJ<			hif	impf	sg	m	p2	verb	NJ			W	nnnnnnn	nnnnnnn	תושיעני
 2086145	11Q5	Psalms	141	5	JKX[	JWKJXNJ	WKJX			hif	impf	sg	m	p3	verb	NJ			W	nnnnnnn	nnnnnnn	יוכיחני
 2086403	11Q5	Psalms	142	8	JY>[	HWY>	WY>			hif	impv	sg	m	NA	verb					nnnn	nnnn	הוצא
-2086408	11Q5	Psalms	142	8	JDH[	HWDWT	WDWT			hif	infc	NA		NA	verb				L	nnnnn	nnnnn	הודות
+2086408	11Q5	Psalms	142	8	JDH[	HWDWT	WD			hif	infc	NA		NA	verb		WT		L	nnnnn	nnnnn	הודות
 2086457	11Q5	Psalms	143	3	JCB[	HWCJBNJ	WCJB			hif	perf	sg	m	p3	verb	NJ				nnnnnnn	nnnnnnn	הושיבני
 2086520	11Q5	Psalms	143	8	JD<[	HWDJ<NJ	WDJ<			hif	impv	sg	m	NA	verb	NJ				rrrrrrr	nnnnnnn	הודיעני
 2086742	11Q6	Psalms	77	20	JD<[	NWD<W	NWD<W			nif	perf	pl		p3	verb					rrrrr	nnnnn	נודעו
@@ -1017,13 +1017,13 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2097736	Mur88	Habakkuk	3	2	JD<[	TWDJ<	WDJ<			hif	impf	sg	m	p2	verb					nrrrn	nnnnn	תודיע
 2098065	Mur88	Zephaniah	1	12	JVB[	JJVJB	JVJB			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	ייטיב
 2098392	Mur88	Zephaniah	2	11	JR>[	NWR>	NWR>			nif	ptca	sg	m	NA	verb					rrrr	nnnn	נורא
-2098647	Mur88	Zephaniah	3	10	JBL[	JWBLWN	WBL			hif	impf	pl	m	p3	verb	N				nnnnnn	nnnnnn	יובלון
+2098647	Mur88	Zephaniah	3	10	JBL[	JWBLWN	WBL			hif	impf	pl	m	p3	verb					nnnnnn	nnnnnn	יובלון
 2098671	Mur88	Zephaniah	3	11	JSP[	TWSPJ	WSP			hif	impf	sg	f	p2	verb					nnnnn	nnnnn	תוספי
 2098766	Mur88	Zephaniah	3	17	JC<[	JWCJ<	WCJ<			hif	impf	sg	m	p3	verb					nnnnn	nnnnn	יושיע
 2098779	Mur88	Zephaniah	3	18	JGH[	NWGJ	NWG			nif	ptca	pl	m	NA	verb		J			nnnn	nnnn	נוגי
 2098799	Mur88	Zephaniah	3	19	JC<[	HWC<TJ	WC<			hif	perf	sg		p1	verb				W	nnnnnr	nnnnnn	הושעתי
 2099079	Mur88	Haggai	1	11	JY>[	TWYJ>	WYJ>			hif	impf	sg	f	p3	verb					rrrrr	nnnnn	תוציא
-2099869	Sdeir1	Genesis	35	8	JNQ[	MJNQT	JNQT			hif	ptca	sg	f	NA	verb					rrrrr	nnnnn	מינקת
+2099869	Sdeir1	Genesis	35	8	JNQ[	MJNQT	JNQ			hif	ptca	sg	f	NA	verb		T			rrrrr	nnnnn	מינקת
 2100367	5/6hev1b	Psalms	7	18	JDH[	>WDH	WDH			hif	impf	sg		p1	verb					nnnn	nnnn	אודה
 2100511	5/6hev1b	Psalms	9	17	JD<[	NWD<	NWD<			nif	perf	sg	m	p3	verb					nnnn	nnnn	נודע
 2100680	5/6hev1b	Psalms	10	18	JSP[	JWSJP	WSJP			hif	impf	sg	m	p3	verb					nnnrn	nnnnn	יוסיף
@@ -1049,7 +1049,7 @@ tf_id	scroll	book	chapter	verse	lex	g_cons	stem	pattern	pattern_g_cons	vs	vt	nu	
 2103554	Mas1b	Leviticus	8	32	JTR[	NWTR	NWTR			nif	ptca	sg	m	NA	verb				WH	rrrr	nnnn	נותר
 2104073	Mas1b	Leviticus	10	11	JRH[	HWRT	WRT			hif	infc	NA		NA	verb				WL	rrrr	nnnn	הורת
 2104102	Mas1b	Leviticus	10	12	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrrrr	nnnnnn	נותרים
-2104108	Mas1b	Leviticus	10	12	JTR[	NWTRT	NWTRT			nif	ptca	sg	f	NA	verb				H	rrrrr	nnnnn	נותרת
+2104108	Mas1b	Leviticus	10	12	JTR[	NWTRT	NWTR			nif	ptca	sg	f	NA	verb		T		H	rrrrr	nnnnn	נותרת
 2104228	Mas1b	Leviticus	10	16	JTR[	NWTRJM	NWTR			nif	ptca	pl	m	NA	verb		JM		H	rrrnnn	nnnnnn	נותרים
 2105245	Mas1d	Ezekiel	35	11	JD<[	NWD<TJ	NWD<TJ			nif	perf	sg		p1	verb				W	nrrnnn	nnnnnn	נודעתי
 2105571	Mas1d	Ezekiel	36	10	JCB[	NCBW	NCBW			nif	perf	pl		p3	verb				W	rrrr	nnnn	נשבו
