@@ -1,0 +1,3 @@
+effect_dropped,model,elpd_diff,se_diff
+corpus_group:has_suffix,M5,-134.99578748439157,10.948724971123488
+corpus_group:has_prefix,M4,-66.38085351542969,6.450441917685645

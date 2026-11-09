@@ -1,0 +1,5 @@
+effect_dropped,model,elpd_diff,se_diff
+nme2:corpus_group,A2_no_nme2_x_corpus_group,39.512221799855425,7.909840712587388
+corpus_group:prs2,A2_no_corpus_group_x_prs2,-70.75551179190299,6.011930998443047
+corpus_group:has_hloc,A2_no_corpus_group_x_has_hloc,-7.294438247864002,0.9108949452168829
+corpus_group:prefix_type,A2_no_corpus_group_x_prefix_type,17.399109909402256,6.208742605913175

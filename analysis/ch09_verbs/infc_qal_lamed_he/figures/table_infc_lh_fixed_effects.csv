@@ -1,0 +1,9 @@
+parameter,Estimate,Est.Error,l-95% CI,u-95% CI,Rhat,Bulk_ESS,Tail_ESS,pd
+Intercept,4.55,0.84,2.96,6.28,1.00,3735,4453,1
+corpus_groupMTFormerProphets,0.67,1.03,-1.42,2.71,1.00,4143,4979,0.75
+corpus_groupMTLBH,-1.26,1.02,-3.33,0.69,1.00,4311,5338,0.89
+corpus_groupMTotherbooks,0.91,0.91,-0.89,2.72,1.00,4538,4946,0.84
+corpus_groupNonMQSP,1.05,0.96,-0.8,2.95,1.00,5188,5697,0.87
+corpus_groupQSP,3.46,1.51,0.73,6.64,1.00,7465,5564,0.99
+has_prs1,-3.9,0.42,-4.76,-3.14,1.00,6527,5283,1
+pent_prefix1,-2.9,0.76,-4.47,-1.45,1.00,5111,5160,1

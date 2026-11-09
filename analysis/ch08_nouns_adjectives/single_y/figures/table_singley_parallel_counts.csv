@@ -1,0 +1,13 @@
+corpus,pattern,n
+SP,both defective,119
+SP,both full,53
+SP,MT fuller,3
+SP,scroll fuller,6
+Non-QSP,both defective,49
+Non-QSP,both full,29
+Non-QSP,MT fuller,3
+Non-QSP,scroll fuller,5
+QSP,both defective,36
+QSP,both full,43
+QSP,MT fuller,6
+QSP,scroll fuller,7

@@ -1,0 +1,6 @@
+model_a,model_b,question,elpd_diff,se_diff
+infa7,A1,QSP (infa7 vs without QSP),1.7636876308198364,3.8060736824731145
+infa7,Q1,ayin-ayin (infa7 vs without ayin-ayin),1.5208752540447659,1.3715594602752543
+M3b,infa7,non-QSP separate from MT (M3b vs infa7),-1.2108055701766842,0.5871898366916422
+M3,M3b,LBH (M3 = M3b + LBH),1.7976278365029934,1.4718597775698978
+M4,M3,prefix (M4 = M3 + prefix),-1.0483719565919474,0.6508420841257573
