@@ -1,14 +1,13 @@
 # Chapter 12: block spelling and rapid alternation
 
-Replaces `notebooks/block_spelling_and_rapid_alternation.ipynb` in `hebrew_spelling_variation`.
-Plan, audit (phase 0) and decisions: Claude doc "Chapter 12 revision: block spelling and rapid
-alternation" (https://claude.ai/artifact/4Zm4wuLun6SHCzzNFR22Vs), 2026-11-03.
+Replaces the Python notebook `notebooks/block_spelling_and_rapid_alternation.ipynb`.
 
 ## Run
 
-`Rscript sequence_analysis.R` (10,000 permutations; `CH12_B=200` for a quick test). It reads the
-cleaned chapter 8–9 datasets exported by `../clustering/export_cleaned_data.R` (run that first if
-the data change) and writes `results/` and `figures/`.
+From the repository root, `Rscript analysis/ch12_sequences/sequence_analysis.R` (10,000 permutations;
+`CH12_B=200` for a quick test). It reads the cleaned chapter 8–9 datasets exported by
+`../ch10_clustering/export_cleaned_data.R` (run that first) and writes `results/` and `figures/` (the
+figures are not in the repository).
 
 ## Method (decisions of 2026-11-03)
 
@@ -38,14 +37,10 @@ the data change) and writes `results/` and `figures/`.
 
 ## Rerun of 2026-11-04 (data release v1.2.0)
 
-Rerun unchanged on the cleaned data re-exported from v1.2.0 (log `run_v120.log`; outputs of
-2026-11-03 14:16 replaced). Infinitive construct and final-syllable waw: results byte-identical.
+Rerun unchanged on the cleaned data re-exported from v1.2.0 (earlier outputs replaced). Infinitive construct and final-syllable waw: results byte-identical.
 Qal active participle: the 1QIsaa strata changed (has_suffix of DSS forms), and because 1QIsaa I is
 permuted first, the random-number stream of the MT books shifts; the MT results differ only by
 Monte Carlo noise (overall z within lexeme and suffix -4.65 -> -4.63; robustness "at least 1,000
 orderings, 3 of each" -4.67 -> -4.56, the only rounded value in the book that changes; Table 12.3,
 Job, Zephaniah, fullness p = 0.25 unchanged when rounded). 1QIsaa: still no block spelling or
-alternation. Built into the manuscript:
-Table 12.9 one value, Figs. 12.3-12.5 replaced, and the second (old notebook) panel of Figs.
-12.3-12.8, left in place by an earlier build, removed. §14.1.6 and chapter 13 quote no
-numbers from this chapter.
+alternation. The book follows this rerun.

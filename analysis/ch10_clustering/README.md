@@ -3,19 +3,19 @@
 Replaces the Python notebooks `notebooks/clustering_spelling.ipynb` and
 `notebooks/clustering_spelling_for_book_summary.ipynb` (removed from the repository; they are in
 the history up to release v1.2.0).
-Plan, audit and decisions: Claude doc "Chapter 10 revision: cluster analysis"
-(https://claude.ai/artifact/7P6RMjGghfXv14ixsbKu1g), 2026-11-03.
 
 ## Steps
 
-1. `Rscript export_cleaned_data.R` writes `data/cleaned_<dataset>.tsv` and
-   `data/manifest.tsv`: the cleaned datasets of chapters 8 and 9 (six noun datasets,
+Run from the repository root.
+
+1. `Rscript analysis/ch10_clustering/export_cleaned_data.R` writes `data/cleaned_<dataset>.tsv` and
+   `data/manifest.tsv` (not in the repository): the cleaned datasets of chapters 8 and 9 (six noun datasets,
    seven verb datasets). Nouns come from `read_nouns()` + `noun_dataset()`; each verb
    `analysis.R` is run only up to its section 2. Nothing is fitted. The counts equal
    Table 6.1 (51,487 noun forms; verbs 5,716 / 1,200 / 2,186 / 963 / 414 / 3,437 / 2,248).
-2. `Rscript cluster_analysis.R` runs the three analyses (nouns with SP, verbs, combined),
+2. `Rscript analysis/ch10_clustering/cluster_analysis.R` runs the three analyses (nouns with SP, verbs, combined),
    the bootstrap (`CH10_B` replicates, default 1,000; `CH10_B=20` for a quick test) and
-   the grid of settings, and writes `results/` and `figures/`. About 15 minutes at 1,000
+   the grid of settings, and writes `results/` and `figures/` (the figures are not in the repository). About 15 minutes at 1,000
    replicates.
 
 ## Method (decisions of 2026-11-03)
@@ -48,9 +48,9 @@ Plan, audit and decisions: Claude doc "Chapter 10 revision: cluster analysis"
 
 ## Rerun of 2026-11-04 (data release v1.2.0)
 
-`data/` was re-exported from v1.2.0 on 2026-11-03 18:27 (`export_v120.log`; ptcp 1,198 forms,
-DSS suffix coding as in MT). `cluster_analysis.R` rerun unchanged (B = 1,000; log `run_v120.log`);
-the outputs of 2026-11-03 13:27 are replaced. Same documents in all three analyses (1Q8 and 4Q84
+`data/` was re-exported from v1.2.0 on 2026-11-03 (ptcp 1,198 forms,
+DSS suffix coding as in MT). `cluster_analysis.R` rerun unchanged (B = 1,000);
+the earlier outputs are replaced. Same documents in all three analyses (1Q8 and 4Q84
 change by one form); the trees are identical for the nouns and change only in small, unsupported
 clusters for the verbs; the noun and combined clades are the same sets. Support changes
 quoted in the book: nouns 11Q5 + 1QIsaa II 65 -> 66, group of three 28 -> 30 (rates 85 -> 86); verbs
@@ -58,5 +58,4 @@ QSP core 96 -> 97; combined group of six 50 -> 47, QSP core 93 -> 97, 1QIsaa I +
 of Table 10.1), Genesis-Exodus-Numbers 91 -> 90. Heatmap shares (means of document percentages
 after the cut-off, as in the book): only the QSP qal active participle moves (84/89 -> 85/88).
 Without a lexeme cut-off none of the well-supported combined clusters is recovered (before: one
-setting). Built into the manuscript (§§10.1, 10.4.2-10.4.5, Table 10.1, §10.5, Figs. 10.1-10.6; also §9.9 verb total 16,164 -> 16,162).
-§14.1.4, chapter 13 and §14.2 quote no numbers from this chapter and need no change.
+setting). The book follows this rerun (§§10.1, 10.4.2-10.4.5, Table 10.1, §10.5, Figs. 10.1-10.6).

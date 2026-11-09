@@ -4,7 +4,14 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23317579.svg)](https://doi.org/10.5281/zenodo.23317579)
 
-Data and analysis of spelling variation in MT, biblical DSS and SP.
+Data and analysis of spelling variation in MT, biblical DSS and SP, for the book on vowel letters in these
+corpora.
+
+- `data/`: the datasets (described below).
+- `preprocess_data/`: the Python pipeline that makes the datasets from the Text-Fabric corpora (below).
+- `analysis/`: the R scripts of the statistical analyses in chapters 7–12 of the book, one folder per
+  chapter; see [`analysis/README.md`](analysis/README.md).
+- `notebooks/`: Jupyter notebooks of the data preparation and of earlier exploratory analyses.
 
 The datasets can be found in the folder "data".
 
@@ -14,7 +21,7 @@ nouns_adjectives.csv\
 hiphil_triliteral.csv\
 infa_qal.csv\
 infc_qal_lamed_he.csv\
-infc_triliteral.csv\
+infc_qal_triliteral.csv\
 niph_hiph_pe_yod.csv\
 ptca_qal.csv\
 ptcp_qal.csv
@@ -107,6 +114,19 @@ Built from `hiphil_triliteral.csv` by `notebooks/aligning_triliteral_hiphil_to_a
 | `has_hireq` | String. For MT rows `'1'` if the second radical is pointed with ḥireq, `'0'` if with ṣere. DSS rows have no vocalisation of their own: they inherit the value of their MT parallel, and get `'-'` if they have none. |
 | `mt_match` | For DSS rows: the `tf_id` of the parallel MT form, or `'-'` if there is none; empty for MT rows. The DSS and MT texts are aligned verse by verse (character alignment). A pair needs the same lexeme, compared without the `=` and `/` homograph markers. Unmatched forms then fall back to a form in the same verse with the same lexeme and `vt`. |
 | `qere` | `1` for an MT ketiv/qere form, and for a DSS form whose MT parallel is one; else `0`. In such a form the consonants are the ketiv's and the pointing the qere's, and `has_hireq` (read off the unpointed ketiv lexeme) is always `0`, so these rows should be left out of any analysis that uses the vocalisation. |
+
+## Source data and software
+
+The datasets are made from three Text-Fabric datasets (versions in `preprocess_data/src/config.py`):
+
+- MT: BHSA (ETCBC), version 2021;
+- DSS: the biblical texts of the ETCBC Dead Sea Scrolls dataset, version 1.9
+  ([10.5281/zenodo.8268196](https://doi.org/10.5281/zenodo.8268196));
+- SP: the Samaritan Pentateuch of DT-UCPH, version 7.2.4.
+
+The pipeline uses Python with Text-Fabric 13.1.1 (`requirements.txt`); Text-Fabric 13.1.0 gives
+byte-identical datasets. The R analyses use R 4.5.1 with brms
+2.23.0 and rstan 2.32.7; the package versions are listed in `analysis/README.md`.
 
 ## Preprocessing pipeline
 The code is in `preprocess_data/src`. The pipeline consists of the following steps:

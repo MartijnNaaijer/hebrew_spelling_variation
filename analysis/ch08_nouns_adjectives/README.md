@@ -1,70 +1,51 @@
-# analysis_nouns
+# Chapter 8: nouns and adjectives
 
-The analysis of the spelling of nouns and adjectives (chapter 8), one folder
-per model, harmonised with the verb analyses (`../../verbs/analysis_verbs`).
-Started on 2026-10-19 from `../nouns_adjectives.R` (the newest version; the
-`_cleaned` file is older). The old scripts stay as they are, for reference.
+Bayesian multilevel logistic regression (brms) of the use of the vowel letters ו and י in nouns and adjectives
+in MT, SP and the biblical DSS. One folder per dataset:
+
+| Folder | Book § | Dataset | Final model |
+|---|---|---|---|
+| `final_w` | 8.2.2 | final syllable, optional ו | M6 |
+| `final_y` | 8.2.3 | final syllable, optional י | nB |
+| `single_w` | 8.3.2 | monosyllabic stem, optional ו | M6 |
+| `single_y` | 8.3.3 | monosyllabic stem, optional י | M0 |
+| `first_w` | 8.4.2 | first syllable, optional ו | M6 |
+| `first_y` | 8.4.3 | first syllable, optional י | M0 |
+| `affix_types_mt` | 8.5 | types of affixes, final syllable ו and י, MT only | waw A2, yod A3 |
+
+All models have the random intercepts `(1 | scr_book2/lex)` (lexemes within documents). The formulas, the
+model comparison (grouped k-fold cross-validation), the checks and the results are in each folder's
+`REPORT.md`.
+
+## Files
 
 ```
-analysis_nouns/
-  README.md
-  CLAUDE.md            working rules (differences from the verbs)
-  TODO.md              open questions
-  KFOLD_ISSUE.md       open decision first_w / single_w (2026-10-26)
-  run/                 runner for approved fitting runs, logs, checks
-  config.R             model folder, corpus groups, the six datasets
-  functions_nouns.R    shared data preparation (read_nouns, noun_dataset)
-  <id>/
-    analysis.R         the complete analysis of this dataset
-    REPORT.md          results and decisions
-    figures/           figures and tables
+config.R              model folder, corpus groups, the datasets (sources ../shared/config.R)
+functions_nouns.R     data preparation shared by the noun analyses (read_nouns, noun_dataset)
+<dataset>/
+  analysis.R          the complete analysis of the dataset
+  REPORT.md           results and decisions
+  figures/            tables (CSV); the figures are written here too, but are not in the repository
+book_ch8/             make_book_items.R: book figures and tables built from the CSV tables and the
+                      stored final fits (nothing is fitted); table_ch8_model_summaries.csv
+checks/               convergence, credible terms and pointwise k-fold checks of the stored fits
+tools/                run_dataset.R (fitting run of one dataset), refit_m6_newdata.R (check of
+                      data release v1.2.0)
 ```
 
-| id | Book § | Dataset | Book's final model (Bayes factors) |
-|---|---|---|---|
-| `final_w` | 8.2.2 | final syllable, optional ו | `has_suffix*law_phase3 + has_prefix*law_phase3` |
-| `final_y` | 8.2.3 | final syllable, optional י | `has_suffix` |
-| `single_w` | 8.3.2 | monosyllabic stem, optional ו | `has_suffix*law_phase3 + has_prefix*law_phase3` |
-| `single_y` | 8.3.3 | monosyllabic stem, optional י | intercept only |
-| `first_w` | 8.4.2 | first syllable, optional ו | `has_prefix*law_phase3` |
-| `first_y` | 8.4.3 | first syllable, optional י | intercept only |
-| `affix_types_mt` | 8.5 | final syllable ו and י, MT only | `nme*law_phase3 + prs*… + has_hloc*… + prefix*…` |
+Every `analysis.R` has the same sections: 0 setup, 1 data import and preparation, 2 exploratory analysis,
+3 data modelling, 4 data visualisation, 5 model verification. Shared helpers are in `../shared/functions.R`.
 
-All with `(1 | scr_book2/lex)`.
+## Running
 
-## Counts (data of 2026-10-19)
+From the repository root, e.g. `Rscript analysis/ch08_nouns_adjectives/final_w/analysis.R`. The model fits
+are read from `analysis_nouns` in the model folder (see `../README.md`). With `ALLOW_FIT <- FALSE` (the
+default) the script only loads stored fits.
 
-| id | forms | lexemes | book (text) | stored book fit |
-|---|---|---|---|---|
-| `final_w` | 19,651 | 376 | 19,639 / 376 | 19,588 / 373 |
-| `final_y` | 4,760 | 136 | 4,695 / 134 | 3,187 / 123 |
-| `single_w` | 15,351 | 106 | 15,334 / 106 | 15,334 / 106 |
-| `single_y` | 1,197 | 37 | 1,197 / 37 | 1,197 / 37 |
-| `first_w` | 9,752 | 149 | 9,741 / 148 | 9,718 / 147 |
-| `first_y` | 776 | 23 | 787 / "23 or 24" | 802 / 23 |
+## Data
 
-The differences come from the updates of the noun data in
-`hebrew_spelling_variation` (2025-12 to 2026-10, among them SP 7.2.4) and from
-the tie rule for the vowel letter of a lexeme (`TODO.md` section 1).
-
-## Status
-
-| id | Sections 0-2 | Models fitted | Reviewed |
-|---|---|---|---|
-| `final_w` | yes (2026-10-19) | all fits (2026-10-29/11-01) | **done**: final model M6 (2026-11-01); `final_w/REPORT.md` |
-| `final_y` | yes (2026-10-19) | all fits (2026-10-20/21) | **done**: final model nB (2026-10-21); `final_y/REPORT.md` |
-| `single_w` | yes (2026-10-19) | all fits (2026-10-23/28) | **done**: final model M6 (2026-10-28); `single_w/REPORT.md` |
-| `single_y` | yes (2026-10-19) | all fits (2026-10-20) | **done**: final model M0 (2026-10-20); `single_y/REPORT.md` |
-| `first_w` | yes (2026-10-19) | all fits (2026-10-21/28) | **done**: final model M6 (2026-10-28); `first_w/REPORT.md` |
-| `first_y` | yes (2026-10-19) | all fits (2026-10-19/20) | **done**: final model M0 (2026-10-20); `first_y/REPORT.md` |
-| `affix_types_mt` | yes (2026-10-19) | all fits (2026-11-01/03) | **done**: final models waw A2, yod A3 (2026-11-02); `affix_types_mt/REPORT.md` |
-
-State on 2026-11-04: all seven analyses done; the data update v1.2.0 (11 DSS forms with a
-changed `has_suffix`) was checked with M6 refits and the present models are kept (`TODO.md` §1).
-All chapter 8 book corrections of `TODO.md` are in the manuscript. Open points for the author: verbs
-`TODO.md` §25.
-
-Order of work (author, 2026-10-19): the smaller datasets first: `first_y`,
-`single_y`, `final_y`, `first_w`, `single_w`, `final_w`; then `affix_types_mt`.
-
-Model fits go to `D:/brms_models_spelling/analysis_nouns` (empty at the start).
+`final_w` and `single_w` were fitted on the data of 19 October 2026. Data release v1.2.0 changed
+`has_suffix` of 2 and 9 DSS forms in these datasets; M6 was refitted on v1.2.0 as a check
+(`tools/refit_m6_newdata.R`): the estimates of `final_w` changed by at most 0.02, and no credible effect of
+`single_w` changed. The stored models were kept. The model data of the other five datasets are the same in
+v1.2.0.
