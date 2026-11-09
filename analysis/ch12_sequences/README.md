@@ -1,6 +1,6 @@
 # Chapter 12: block spelling and rapid alternation
 
-Replaces the Python notebook `notebooks/block_spelling_and_rapid_alternation.ipynb`.
+Replaces an earlier Python notebook (`block_spelling_and_rapid_alternation.ipynb`, removed from the repository).
 
 ## Run
 
