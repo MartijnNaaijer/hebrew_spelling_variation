@@ -1,7 +1,8 @@
 ################################################################################
 # Chapter 10: hierarchical cluster analysis of documents (2026-11-03)
 #
-# Replaces notebooks/clustering_spelling*.ipynb (hebrew_spelling_variation).
+# Replaces the Python notebooks notebooks/clustering_spelling*.ipynb (removed;
+# in the repository history up to v1.2.0).
 # Decisions: Claude doc "Chapter 10 revision: cluster analysis" (author,
 # 2026-11-03):
 #   1. Main profile: counts (which texts look alike in their spelling, as a
