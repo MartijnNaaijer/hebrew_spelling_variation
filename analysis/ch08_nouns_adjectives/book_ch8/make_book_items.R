@@ -34,9 +34,10 @@ suppressMessages({
   library(brms)
 })
 
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns'
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH08_DIR
 source(file.path(ANALYSIS_DIR, 'config.R'))
-source(file.path(VERBS_DIR, 'functions.R'))
+source(file.path(SHARED_DIR, 'functions.R'))
 source(file.path(ANALYSIS_DIR, 'functions_nouns.R'))
 
 args <- commandArgs(trailingOnly = TRUE)

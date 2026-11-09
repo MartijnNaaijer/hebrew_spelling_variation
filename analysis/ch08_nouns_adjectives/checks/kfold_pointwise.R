@@ -1,7 +1,8 @@
-# Check of 2026-10-25 (see ../../KFOLD_ISSUE.md). Usage: Rscript kfold_pointwise.R firstw|singlew
+# Check of 2026-10-25 (k-fold check). Usage: Rscript kfold_pointwise.R firstw|singlew
 # Pointwise k-fold elpd by fold, corpus group and form; folds rebuilt as in analysis.R (set.seed(2026)).
 suppressPackageStartupMessages({ library(tidyverse); library(brms); library(posterior) })
-MF <- 'D:/brms_models_spelling/analysis_nouns'
+source('analysis/paths.R')
+MF <- file.path(MODEL_ROOT, 'analysis_nouns')
 args <- commandArgs(TRUE); tag <- args[1]
 ids <- c('M0','M1','M2','M3','M4','M5','M6','nB')
 m0 <- readRDS(file.path(MF, paste0('na_', tag, '_M0.rds')))

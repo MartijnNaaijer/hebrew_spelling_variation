@@ -95,12 +95,13 @@ library(bayestestR)
 library(binom)
 library(loo)
 
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs'
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH09_DIR
 VERB_FORM <- 'infa_qal'
 IMAGE_FOLDER <- file.path(ANALYSIS_DIR, VERB_FORM, 'figures')
 
-source(file.path(ANALYSIS_DIR, 'config.R'))
-source(file.path(ANALYSIS_DIR, 'functions.R'))
+source(file.path(SHARED_DIR, 'config.R'))
+source(file.path(SHARED_DIR, 'functions.R'))
 
 DATASET <- 'infa_qal.csv'
 

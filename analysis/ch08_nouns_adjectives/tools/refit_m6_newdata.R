@@ -5,16 +5,18 @@
 # fixed effects and total effects per corpus group with the stored M6.
 # Approved by the author 2026-11-03.
 #
-# Usage (from a scratch folder):
-#   Rscript <analysis_nouns>/run/refit_m6_newdata.R <final_w|single_w>
+# Usage (from the repository root):
+#   Rscript analysis/ch08_nouns_adjectives/tools/refit_m6_newdata.R <final_w|single_w>
 
 ID <- commandArgs(trailingOnly = TRUE)[1]
 stopifnot(ID %in% c('final_w', 'single_w'))
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns'
-LOG_DIR <- file.path(ANALYSIS_DIR, 'run', 'logs')
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH08_DIR
+LOG_DIR <- file.path(ANALYSIS_DIR, 'tools', 'logs')
+dir.create(LOG_DIR, showWarnings = FALSE)
 flag <- file.path(LOG_DIR, paste0(ID, '_m6new_done.flag'))
 unlink(flag)
-stopifnot('Model folder (drive D:) not available' = dir.exists('D:/brms_models_spelling/analysis_nouns'))
+stopifnot('Model folder not available' = dir.exists(file.path(MODEL_ROOT, 'analysis_nouns')))
 
 # Sections 0-1 of the script (setup and data)
 txt <- readLines(file.path(ANALYSIS_DIR, ID, 'analysis.R'), encoding = 'UTF-8')

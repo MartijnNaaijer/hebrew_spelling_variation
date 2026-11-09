@@ -5,7 +5,8 @@ library(tidybayes)
 library(ggeffects)
 
 
-MODEL_FOLDER <- 'C:/Users/geitb/Kopenhagen/KopenhagenResearch/monograph/chapters/NounsAdjectives/models_rstanarm'
+source('analysis/paths.R')
+MODEL_FOLDER <- OLD_MODEL_FOLDER
 
 EBH_BOOKS <- c("Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", 
                "Judges", "1_Samuel", "2_Samuel", "1_Kings", "2_Kings")
@@ -25,7 +26,7 @@ logit2prob <- function(logit){
   return(prob)
 }
 
-dat <- read.csv('C:/Users/geitb/Kopenhagen/KopenhagenResearch/scripts_research/hebrew_spelling_variation/data/nouns_adjectives.csv', sep='\t')
+dat <- read.csv(file.path(DATA_FOLDER, 'nouns_adjectives.csv'), sep='\t')
 dim(dat)
 head(dat)
 str(dat)

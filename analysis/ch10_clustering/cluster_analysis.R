@@ -28,10 +28,11 @@ suppressMessages({
   library(tidyverse)
   library(patchwork)
 })
-source('C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs/functions.R')  # theme_book, BOOK_*
+source('analysis/paths.R')
+source(file.path(SHARED_DIR, 'functions.R'))  # theme_book, BOOK_*
 
-HERE <- 'C:/Users/geitb/Dropbox/monograph_orthography/clustering'
-DATA <- file.path(HERE, 'data'); RES <- file.path(HERE, 'results'); FIG <- file.path(HERE, 'figures')
+HERE <- CH10_DIR
+DATA <- CLEANED_DATA_DIR; RES <- file.path(HERE, 'results'); FIG <- file.path(HERE, 'figures')
 dir.create(RES, showWarnings = FALSE); dir.create(FIG, showWarnings = FALSE)
 
 CUT_MAIN <- 4          # lexeme cap

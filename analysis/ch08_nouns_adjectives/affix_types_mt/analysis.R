@@ -48,12 +48,13 @@ library(bayestestR)
 library(binom)
 library(loo)
 
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns'
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH08_DIR
 DATASET_ID <- 'affix_types_mt'
 IMAGE_FOLDER <- file.path(ANALYSIS_DIR, DATASET_ID, 'figures')
 
 source(file.path(ANALYSIS_DIR, 'config.R'))
-source(file.path(VERBS_DIR, 'functions.R'))
+source(file.path(SHARED_DIR, 'functions.R'))
 source(file.path(ANALYSIS_DIR, 'functions_nouns.R'))
 
 TAG <- 'affix'                   # figure and table names
@@ -444,14 +445,16 @@ write_csv(robustness, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_robustness
 
 old_fits <- c(waw = 'bayes_model_mt_sp_dss_nme_last_n_w2_var.rds',
               yod = 'bayes_model_mt_sp_dss_nme_last_n_y_var.rds')
+if (all(file.exists(file.path(OLD_MODEL_FOLDER, old_fits)))) {   # old fits: only if present
 old_tables <- imap_dfr(old_fits, function(file, letter) {
-  m <- readRDS(file.path('D:/brms_models_spelling/models_rstanarm', file))
+  m <- readRDS(file.path(OLD_MODEL_FOLDER, file))
   out <- as.data.frame(fixef(m)) |> rownames_to_column('parameter') |>
     mutate(letter = letter, rows = nrow(m$data))
   rm(m); gc()
   out
 })
 write_csv(old_tables, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_book_models_old_fits.csv')))
+}
 
 
 # ==== 5. MODEL VERIFICATION ====

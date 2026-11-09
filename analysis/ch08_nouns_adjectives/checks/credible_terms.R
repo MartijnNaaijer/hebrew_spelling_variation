@@ -1,7 +1,8 @@
-# Check of 2026-10-25 (see ../../KFOLD_ISSUE.md). Usage: Rscript credible_terms.R [firstw|singlew|finalw|affix_waw|affix_yod]
+# Check of 2026-10-25 (k-fold check). Usage: Rscript credible_terms.R [firstw|singlew|finalw|affix_waw|affix_yod]
 # Fixed-effect terms with pd >= 0.975 (median, 95% quantile interval) of the candidate models.
 suppressPackageStartupMessages({ library(tidyverse); library(brms) })
-MF <- 'D:/brms_models_spelling/analysis_nouns'
+source('analysis/paths.R')
+MF <- file.path(MODEL_ROOT, 'analysis_nouns')
 spec <- list(firstw = c('M3','M4','M5','M6','nB','M6_no_barr','M6_no_dominant'), singlew = c('M3','M4','M5','M6','nB','M6_no_dominant'),
              finalw = c('M3','M4','M5','M6','nB','M6_no_dominant','M6_no_1QIsaa','M6_1QIsaa_split'),
              affix_waw = c('A0','A1','A2','A3','A2_no_dominant'), affix_yod = c('A0','A1','A2','A3','A2_no_dominant'))

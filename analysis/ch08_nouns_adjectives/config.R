@@ -2,15 +2,15 @@
 # analysis_nouns: configuration of the noun and adjective analyses (chapter 8)
 #
 # The data folder, book groups, QSP scroll list and factor levels are those of
-# the verb analyses (one copy, in ../../verbs/analysis_verbs/config.R); only
+# the verb analyses (one copy, in ../shared/config.R); only
 # the model folder and the noun-specific settings are set here.
 ##############################################################
 
-VERBS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs'
-source(file.path(VERBS_DIR, 'config.R'))
+source('analysis/paths.R')
+source(file.path(SHARED_DIR, 'config.R'))
 
 # Model fits of analysis_nouns (the old fits in models_rstanarm stay untouched)
-MODEL_FOLDER <- 'D:/brms_models_spelling/analysis_nouns'
+MODEL_FOLDER <- file.path(MODEL_ROOT, 'analysis_nouns')
 dir.create(MODEL_FOLDER, showWarnings = FALSE, recursive = TRUE)
 
 DATASET <- 'nouns_adjectives.csv'

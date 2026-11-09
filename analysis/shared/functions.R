@@ -629,7 +629,7 @@ group_ppc <- function(model, data, group_var, ndraws = 4000) {
 # ragg (PNG) and cairo (PDF) devices.
 #
 # Font: Charis, the body font of the book (SIL Open Font License; files and
-# licence in analysis_verbs/fonts/, installed for the Windows user on
+# licence in analysis/shared/fonts/, installed for the Windows user on
 # 2026-10-19 so that cairo_pdf finds it too). Hebrew in labels: heb_md() sets
 # it in SBL Hebrew; the plot then needs markdown_y() (or the ggtext element
 # for the strip or legend), which renders the label as markdown (ggtext).
@@ -637,7 +637,7 @@ group_ppc <- function(model, data, group_var, ndraws = 4000) {
 
 BOOK_FONT <- 'Charis'
 local({
-  font_dir <- if (exists('ANALYSIS_DIR')) file.path(ANALYSIS_DIR, 'fonts') else 'fonts'
+  font_dir <- if (exists('SHARED_DIR')) file.path(SHARED_DIR, 'fonts') else 'fonts'
   if (!BOOK_FONT %in% systemfonts::system_fonts()$family &&
       file.exists(file.path(font_dir, 'Charis-Regular.ttf'))) {
     # Not installed: register the files for ragg (PNG); PDF falls back.

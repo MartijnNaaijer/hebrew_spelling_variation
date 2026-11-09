@@ -1,7 +1,7 @@
 ################################################################################
 # analysis_nouns: helpers for the noun and adjective analyses
 #
-# Source after config.R and ../../verbs/analysis_verbs/functions.R (the shared
+# Source after config.R and ../shared/functions.R (the shared
 # helpers for fitting, k-fold, effect summaries and book figures).
 #
 # Data preparation (the same for all scripts, so that the six datasets and the

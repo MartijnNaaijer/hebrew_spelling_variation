@@ -1,7 +1,9 @@
 # Chapter 9 Tables 9.39, 9.46, 9.54 (2026-11-04): posterior median, SD, 95% quantile CrI, pd from the stored final fits.
-# Run: S=<output folder> Rscript ch9_medians.R (writes ch9_medians.tsv). Table 9.73: see ch9_medians_pey.R.
+# Run from the repository root: Rscript analysis/ch09_verbs/medians/ch9_medians.R
+# (writes ch9_medians.tsv to this folder, or to the folder in the environment variable S). Table 9.73: see ch9_medians_pey.R.
 suppressMessages(library(posterior))
-F <- 'D:/brms_models_spelling/analysis_verbs/'
+source('analysis/paths.R')
+F <- paste0(file.path(MODEL_ROOT, 'analysis_verbs'), '/')
 fits <- c(t939 = 'infc2_M2', t946 = 'infc_lh2_M4p', t954 = 'infa2_M3', t973 = 'pey2_M1')
 f2 <- function(x) formatC(x, format = 'f', digits = 2)
 out <- list()
@@ -20,4 +22,4 @@ for (k in names(fits)) {
                 f2(quantile(x, .025)), f2(quantile(x, .975)), if (grepl('^b_', p)) f2(pd) else ''))
   }
 }
-write.table(do.call(rbind, out), file.path(Sys.getenv('S'), 'ch9_medians.tsv'), sep = '\t', row.names = FALSE, quote = FALSE)
+write.table(do.call(rbind, out), file.path(Sys.getenv('S', file.path(CH09_DIR, 'medians')), 'ch9_medians.tsv'), sep = '\t', row.names = FALSE, quote = FALSE)

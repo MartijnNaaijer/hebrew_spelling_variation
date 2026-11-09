@@ -40,12 +40,13 @@ library(bayestestR)
 library(binom)
 library(loo)
 
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns'
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH08_DIR
 DATASET_ID <- 'first_y'
 IMAGE_FOLDER <- file.path(ANALYSIS_DIR, DATASET_ID, 'figures')
 
 source(file.path(ANALYSIS_DIR, 'config.R'))
-source(file.path(VERBS_DIR, 'functions.R'))
+source(file.path(SHARED_DIR, 'functions.R'))
 source(file.path(ANALYSIS_DIR, 'functions_nouns.R'))
 
 TAG <- 'firsty'                  # figure and table names
@@ -353,7 +354,9 @@ book_model_table <- bind_rows(
   as.data.frame(VarCorr(m0)$`scr_book2:lex`$sd) |> rownames_to_column('parameter') |>
     mutate(parameter = 'sd(scr_book2:lex)', fit = 'M0 (new)'))
 rm(m0); gc()
-old_fit <- readRDS('D:/brms_models_spelling/models_rstanarm/bayes_model_mt_sp_dss_first_n0_j.rds')
+OLD_FIT <- file.path(OLD_MODEL_FOLDER, 'bayes_model_mt_sp_dss_first_n0_j.rds')   # old fit: only if present
+if (file.exists(OLD_FIT)) {
+old_fit <- readRDS(OLD_FIT)
 book_model_table <- bind_rows(
   book_model_table,
   as.data.frame(fixef(old_fit)) |> rownames_to_column('parameter') |> mutate(fit = 'book (old fit)'),
@@ -362,6 +365,7 @@ book_model_table <- bind_rows(
   as.data.frame(VarCorr(old_fit)$`scr_book2:lex`$sd) |> rownames_to_column('parameter') |>
     mutate(parameter = 'sd(scr_book2:lex)', fit = 'book (old fit)'))
 rm(old_fit); gc()
+}
 book_model_table
 write_csv(book_model_table, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_book_model.csv')))
 

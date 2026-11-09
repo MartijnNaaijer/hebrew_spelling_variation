@@ -1,14 +1,17 @@
 # Runner for an approved verb refit: sections 0-3 of
-# verbs/analysis_verbs/<id>/analysis.R with ALLOW_FIT TRUE (in memory only;
+# analysis/ch09_verbs/<id>/analysis.R with ALLOW_FIT TRUE (in memory only;
 # the script keeps FALSE). Stored fits and k-folds are reused, so a stopped
-# run can be restarted. Writes run/logs/<id>_refit_done.flag at the end.
+# run can be restarted. Writes tools/logs/<id>_refit_done.flag at the end.
 # First used for ptcp_qal (prefix ptcp_d3_, approved 2026-11-04).
-#   Rscript run_verb_refit.R <id> > run/logs/<id>_refit.log 2>&1   (from a scratch folder)
+#   Rscript analysis/ch09_verbs/tools/run_verb_refit.R <id> > analysis/ch09_verbs/tools/logs/<id>_refit.log 2>&1
+#   (from the repository root)
 ID <- commandArgs(trailingOnly = TRUE)[1]
-VERBS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs'
-LOG_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns/run/logs'
+source('analysis/paths.R')
+VERBS_DIR <- CH09_DIR
+LOG_DIR <- file.path(CH09_DIR, 'tools', 'logs')
+dir.create(LOG_DIR, showWarnings = FALSE)
 flag <- file.path(LOG_DIR, paste0(ID, '_refit_done.flag')); unlink(flag)
-stopifnot('Model folder (drive D:) not available' = dir.exists('D:/brms_models_spelling/analysis_verbs'))
+stopifnot('Model folder not available' = dir.exists(file.path(MODEL_ROOT, 'analysis_verbs')))
 txt <- readLines(file.path(VERBS_DIR, ID, 'analysis.R'), encoding = 'UTF-8')
 txt <- txt[seq_len(grep('^# ==== 4. DATA VISUALISATION ====', txt) - 1)]
 i <- grep('^ALLOW_FIT <- FALSE', txt); stopifnot(length(i) == 1)

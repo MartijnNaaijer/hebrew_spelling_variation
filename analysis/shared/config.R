@@ -1,5 +1,4 @@
-DATA_FOLDER <- 'C:/Users/geitb/Kopenhagen/KopenhagenResearch/scripts_research/hebrew_spelling_variation/data'
-MODEL_FOLDER <- 'D:/brms_models_spelling/models_rstanarm'
+source('analysis/paths.R')   # REPO_DIR, DATA_FOLDER, MODEL_ROOT, SHARED_DIR, CH08_DIR, ...
 EBH_BOOKS <- c("Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", 
                "Judges", "1_Samuel", "2_Samuel", "1_Kings", "2_Kings"
 )
@@ -47,7 +46,7 @@ YOD_VERBS <- c('JBC[', 'JNQ[', 'JCR[', 'JVB[', 'JQY[', 'JLL[', 'JMN[')
 ##############################################################
 
 # Model fits of analysis_verbs (the old fits in models_rstanarm stay untouched)
-MODEL_FOLDER <- 'D:/brms_models_spelling/analysis_verbs'
+MODEL_FOLDER <- file.path(MODEL_ROOT, 'analysis_verbs')
 dir.create(MODEL_FOLDER, showWarnings = FALSE, recursive = TRUE)
 
 # Folder of a verb form, e.g. verb_form_dir('ptcp_qal')

@@ -4,19 +4,20 @@
 # here only; the script files keep FALSE. Stops before 3e (FINAL_ID is the
 # author's choice).
 #
-# Usage (from a scratch folder, not from this folder):
-#   Rscript <analysis_nouns>/run/run_dataset.R <id> > <analysis_nouns>/run/logs/<id>_run.log 2>&1
+# Usage (from the repository root):
+#   Rscript analysis/ch08_nouns_adjectives/tools/run_dataset.R <id> > analysis/ch08_nouns_adjectives/tools/logs/<id>_run.log 2>&1
 # Memory log alongside (optional):
-#   powershell -NoProfile -ExecutionPolicy Bypass -File <analysis_nouns>/run/memlog.ps1 -id <id>
 # Fitted models and k-folds that exist in MODEL_FOLDER are loaded, not refitted,
-# so an interrupted run can simply be restarted. Writes run/logs/<id>_done.flag
+# so an interrupted run can simply be restarted. Writes tools/logs/<id>_done.flag
 # at the end (also after an error). Only start a run the author has approved.
 
 ID <- commandArgs(trailingOnly = TRUE)[1]
 TO_FINAL <- identical(commandArgs(trailingOnly = TRUE)[2], 'final')
 stopifnot(ID %in% c('first_w', 'single_w', 'final_w', 'affix_types_mt'))
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns'
-LOG_DIR <- file.path(ANALYSIS_DIR, 'run', 'logs')
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH08_DIR
+LOG_DIR <- file.path(ANALYSIS_DIR, 'tools', 'logs')
+dir.create(LOG_DIR, showWarnings = FALSE)
 flag <- file.path(LOG_DIR, paste0(ID, '_done.flag'))
 unlink(flag)
 f <- file.path(ANALYSIS_DIR, ID, 'analysis.R')
@@ -28,7 +29,7 @@ i <- grep('^ALLOW_FIT <- FALSE', txt); stopifnot(length(i) == 1)
 txt[i] <- 'ALLOW_FIT <- TRUE'
 exprs <- parse(text = txt, encoding = 'UTF-8')
 # The external disk D: disconnected once during a run (2026-10-22)
-stopifnot('Model folder (drive D:) not available' = dir.exists('D:/brms_models_spelling/analysis_nouns'))
+stopifnot('Model folder not available' = dir.exists(file.path(MODEL_ROOT, 'analysis_nouns')))
 tryCatch({
   cat('Start', ID, ':', format(Sys.time()), '\n')
   for (e in exprs) {

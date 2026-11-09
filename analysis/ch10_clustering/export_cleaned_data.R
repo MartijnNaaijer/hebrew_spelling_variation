@@ -10,12 +10,13 @@
 #     nothing (checked 2026-11-03); models start in section 3.
 # Nothing is fitted. Output: data/cleaned_<dataset>.tsv and data/manifest.tsv.
 #
-# Run:  Rscript export_cleaned_data.R
+# Run (from the repository root):  Rscript analysis/ch10_clustering/export_cleaned_data.R
 ################################################################################
 
 suppressMessages(library(tidyverse))
 
-OUT <- 'C:/Users/geitb/Dropbox/monograph_orthography/clustering/data'
+source('analysis/paths.R')
+OUT <- CLEANED_DATA_DIR
 dir.create(OUT, showWarnings = FALSE)
 
 KEEP <- c('dataset', 'tf_id', 'scroll', 'book', 'book2', 'scr_book2', 'chapter', 'verse', 'lex', 'type', 'lex_vl',
@@ -35,9 +36,9 @@ manifest <- list()
 
 # ---- Nouns and adjectives (chapter 8) ----
 local({
-  ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns'
+  ANALYSIS_DIR <- CH08_DIR
   source(file.path(ANALYSIS_DIR, 'config.R'), local = TRUE)
-  source(file.path(VERBS_DIR, 'functions.R'), local = TRUE)
+  source(file.path(SHARED_DIR, 'functions.R'), local = TRUE)
   source(file.path(ANALYSIS_DIR, 'functions_nouns.R'), local = TRUE)
   dat_all <- read_nouns()
   for (id in NOUN_DATASETS$id) {
@@ -46,7 +47,7 @@ local({
 })
 
 # ---- Verbs (chapter 9): each script up to its section 2 ----
-VERB_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs'
+VERB_DIR <- CH09_DIR
 for (id in c('ptca_qal', 'ptcp_qal', 'infc_qal_triliteral', 'infc_qal_lamed_he', 'infa_qal',
              'hiphil_triliteral', 'niph_hiph_pe_yod')) {
   lines <- read_lines(file.path(VERB_DIR, id, 'analysis.R'))

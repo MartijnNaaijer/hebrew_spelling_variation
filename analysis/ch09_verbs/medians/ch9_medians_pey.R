@@ -1,6 +1,7 @@
 # Chapter 9 Table 9.73 (2026-11-04): pe-yod contrasts with the imperfect from pey2_M1 (stored with the perfect as reference).
 suppressMessages(library(posterior))
-d <- as_draws_df(readRDS('D:/brms_models_spelling/analysis_verbs/pey2_M1.rds'))
+source('analysis/paths.R')
+d <- as_draws_df(readRDS(file.path(MODEL_ROOT, 'analysis_verbs', 'pey2_M1.rds')))
 f2 <- function(x) formatC(x, format = 'f', digits = 2)
 im <- d$b_vtimpf
 L <- list('Intercept (imperfect)' = d$b_Intercept + im, imperative = d$b_vtimpv - im, infa = d$b_vtinfa - im,

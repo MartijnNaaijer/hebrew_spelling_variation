@@ -1,7 +1,8 @@
-# Check of 2026-10-25 (see ../../KFOLD_ISSUE.md). Usage: Rscript convergence.R firstw|singlew|finalw|affix_waw|affix_yod
+# Check of 2026-10-25 (k-fold check). Usage: Rscript convergence.R firstw|singlew|finalw|affix_waw|affix_yod
 # Max Rhat, min ESS, divergences, treedepth hits, SDs and affix effects of every stored fit.
 suppressPackageStartupMessages({ library(tidyverse); library(brms); library(posterior) })
-MF <- 'D:/brms_models_spelling/analysis_nouns'
+source('analysis/paths.R')
+MF <- file.path(MODEL_ROOT, 'analysis_nouns')
 tag <- commandArgs(TRUE)[1]
 files <- list.files(MF, paste0('^na_', tag, '_.*[.]rds$'))
 out <- map_dfr(files, function(f) {

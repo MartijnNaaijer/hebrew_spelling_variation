@@ -9,16 +9,18 @@
 # stored model stays), and compares the fixed effects. Requested by the author
 # 2026-11-04 ("test the verb models as well").
 #
-# Usage (from a scratch folder):  Rscript refit_verbs_newdata.R <id>
+# Usage (from the repository root):  Rscript analysis/ch09_verbs/tools/refit_verbs_newdata.R <id>
 
 ID <- commandArgs(trailingOnly = TRUE)[1]
 PREFIX <- c(ptcp_qal = 'ptcp_d2_', ptca_qal = 'ptca_', hiphil_triliteral = 'hif_')
 stopifnot(ID %in% names(PREFIX))
-VERBS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs'
-LOG_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns/run/logs'
+source('analysis/paths.R')
+VERBS_DIR <- CH09_DIR
+LOG_DIR <- file.path(CH09_DIR, 'tools', 'logs')
+dir.create(LOG_DIR, showWarnings = FALSE)
 flag <- file.path(LOG_DIR, paste0(ID, '_m7new_done.flag'))
 unlink(flag)
-stopifnot('Model folder (drive D:) not available' = dir.exists('D:/brms_models_spelling/analysis_verbs'))
+stopifnot('Model folder not available' = dir.exists(file.path(MODEL_ROOT, 'analysis_verbs')))
 
 # Sections 0-1 of the verb script (setup and data, current data folder)
 txt <- readLines(file.path(VERBS_DIR, ID, 'analysis.R'), encoding = 'UTF-8')

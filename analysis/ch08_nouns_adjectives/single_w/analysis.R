@@ -51,12 +51,13 @@ library(bayestestR)
 library(binom)
 library(loo)
 
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/nouns_adjectives/analysis_nouns'
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH08_DIR
 DATASET_ID <- 'single_w'
 IMAGE_FOLDER <- file.path(ANALYSIS_DIR, DATASET_ID, 'figures')
 
 source(file.path(ANALYSIS_DIR, 'config.R'))
-source(file.path(VERBS_DIR, 'functions.R'))
+source(file.path(SHARED_DIR, 'functions.R'))
 source(file.path(ANALYSIS_DIR, 'functions_nouns.R'))
 
 TAG <- 'singlew'                 # figure and table names
@@ -430,10 +431,11 @@ write_csv(prior_intercepts, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_prio
 # old fit (models_rstanarm, read only; 15,334 forms, old priors) for
 # comparison with Table 8.20.
 
-book_model_table <- imap_dfr(c('nB (new)' = model_file('nB'), 'book (old fit)' = 'OLD'),
+OLD_FIT <- file.path(OLD_MODEL_FOLDER, 'bayes_model_mt_sp_dss_single_w_n5.rds')   # old fit: only if present
+book_model_table <- imap_dfr(c('nB (new)' = model_file('nB'), 'book (old fit)' = 'OLD')[c(TRUE, file.exists(OLD_FIT))],
                              function(file, fit) {
   m <- if (file == 'OLD') {
-    readRDS('D:/brms_models_spelling/models_rstanarm/bayes_model_mt_sp_dss_single_w_n5.rds')
+    readRDS(OLD_FIT)
   } else load_model(file)
   out <- bind_rows(
     as.data.frame(fixef(m)) |> rownames_to_column('parameter'),

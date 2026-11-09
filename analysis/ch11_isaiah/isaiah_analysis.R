@@ -30,12 +30,13 @@
 suppressMessages({
   library(tidyverse)
 })
-source('C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs/functions.R')
+source('analysis/paths.R')
+source(file.path(SHARED_DIR, 'functions.R'))
 
-HERE <- 'C:/Users/geitb/Dropbox/monograph_orthography/isaiah'
-DATA <- 'C:/Users/geitb/Dropbox/monograph_orthography/clustering/data'
-RAW <- 'C:/Users/geitb/Kopenhagen/KopenhagenResearch/scripts_research/hebrew_spelling_variation/data'
-MODEL_FOLDER <- 'D:/brms_models_spelling/isaiah'
+HERE <- CH11_DIR
+DATA <- CLEANED_DATA_DIR
+RAW <- DATA_FOLDER
+MODEL_FOLDER <- file.path(MODEL_ROOT, 'isaiah')
 RES <- file.path(HERE, 'results'); FIG <- file.path(HERE, 'figures')
 for (d in c(RES, FIG, file.path(RES, 'parallel_lists'), MODEL_FOLDER)) dir.create(d, showWarnings = FALSE, recursive = TRUE)
 

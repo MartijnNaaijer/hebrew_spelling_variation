@@ -1,6 +1,8 @@
 # Explains linear regression for chapter on Bayesian regression analysis
 
-IMAGE_FOLDER <- 'C:/Users/geitb/Dropbox/monograph_orthography/images_ch7_regression'
+source('analysis/paths.R')
+IMAGE_FOLDER <- file.path(CH07_DIR, 'figures')
+dir.create(IMAGE_FOLDER, showWarnings = FALSE)
 
 set.seed(42)
 height <- runif(n=100, min=140, max=200)

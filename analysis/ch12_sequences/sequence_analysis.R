@@ -29,10 +29,11 @@
 suppressMessages({
   library(tidyverse)
 })
-source('C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs/functions.R')  # theme_book, heb_md
+source('analysis/paths.R')
+source(file.path(SHARED_DIR, 'functions.R'))  # theme_book, heb_md
 
-HERE <- 'C:/Users/geitb/Dropbox/monograph_orthography/sequences'
-DATA <- 'C:/Users/geitb/Dropbox/monograph_orthography/clustering/data'
+HERE <- CH12_DIR
+DATA <- CLEANED_DATA_DIR
 RES <- file.path(HERE, 'results'); FIG <- file.path(HERE, 'figures')
 dir.create(RES, showWarnings = FALSE); dir.create(FIG, showWarnings = FALSE)
 

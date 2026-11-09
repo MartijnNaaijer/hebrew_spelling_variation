@@ -87,12 +87,13 @@ library(binom)
 library(loo)
 library(ggpubr)   # ggarrange() (section 6)
 
-ANALYSIS_DIR <- 'C:/Users/geitb/Dropbox/monograph_orthography/verbs/analysis_verbs'
+source('analysis/paths.R')
+ANALYSIS_DIR <- CH09_DIR
 VERB_FORM <- 'ptca_qal'
 IMAGE_FOLDER <- file.path(ANALYSIS_DIR, VERB_FORM, 'figures')
 
-source(file.path(ANALYSIS_DIR, 'config.R'))
-source(file.path(ANALYSIS_DIR, 'functions.R'))
+source(file.path(SHARED_DIR, 'config.R'))
+source(file.path(SHARED_DIR, 'functions.R'))
 
 DATASET <- 'ptca_qal.csv'
 
