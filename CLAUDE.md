@@ -1,8 +1,16 @@
 # CLAUDE.md
 
-Data preprocessing for a book on spelling variation (vowel letters) in the Masoretic Text (MT), the biblical
-Dead Sea Scrolls (DSS) and the Samaritan Pentateuch (SP). The README describes the datasets, their columns and the
-structure of the code in `preprocess_data/src`.
+Data preprocessing and analyses for a book on spelling variation (vowel letters) in the Masoretic Text (MT), the
+biblical Dead Sea Scrolls (DSS) and the Samaritan Pentateuch (SP). The README describes the datasets, their columns
+and the structure of the code in `preprocess_data/src`; `analysis/README.md` describes the R analyses.
+
+## R analyses (`analysis/`)
+
+- Copied from the author's working folders in `Dropbox/monograph_orthography`, which stay the working copy;
+  changes made there are copied here for a release.
+- Run from the repository root (`analysis/paths.R`). Model fits are in `SPELLING_MODEL_DIR` (here
+  `D:/brms_models_spelling`, about 100 GB), not in git. Figures are not in git; the CSV tables are.
+- `ALLOW_FIT <- FALSE` in the chapter 8 and 9 scripts: fit models only with the author's approval.
 
 ## Environment (Windows)
 

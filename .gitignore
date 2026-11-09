@@ -148,3 +148,6 @@ analysis/**/figures/*.pdf
 analysis/models/
 analysis/ch10_clustering/data/
 analysis/**/tools/logs/
+
+# PyCharm
+.idea/

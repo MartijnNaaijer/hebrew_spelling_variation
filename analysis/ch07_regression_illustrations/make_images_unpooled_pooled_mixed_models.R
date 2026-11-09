@@ -20,6 +20,26 @@ QSP_SCROLLS = c('2Q3', '4Q13', '4Q20', '2Q7', '4Q27', '1Q4', '2Q12', '4Q37', '4Q
                 '4Q365', '4Q96', '4Q111', '4Q109', '11Q5', '11Q6', '11Q7', '11Q8')
 length(QSP_SCROLLS)
 
+# Fitting helper of the first version of the noun models (data_analysis/.../models.R,
+# release v1.2.0), copied here unchanged; analysis/shared/functions.R has another
+# fit_brm_model() with more arguments.
+fit_brm_model <- function(data, formula, warmup, iter, adapt_delta) {
+
+  trace <- brm(formula = formula,
+               prior = set_prior("normal(0, 5)", class = "Intercept") +
+                 set_prior("normal(0, 5)", class = "b"),
+               data = data,
+               family = bernoulli(link = "logit"),
+               warmup = warmup,
+               iter = iter,
+               chains = 4,
+               cores=4,
+               control = list(adapt_delta = adapt_delta),
+               seed = 123)
+
+  return(trace)
+}
+
 logit2prob <- function(logit){
   odds <- exp(logit)
   prob <- odds / (1 + odds)
