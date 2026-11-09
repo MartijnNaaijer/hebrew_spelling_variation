@@ -59,7 +59,7 @@ Isaiah 19 17 ZKR[,1QisaaI,QSP,ZKR[,JZKJR,JZKJR,impf,0,1,1,both full
 Isaiah 19 20 NYL[,1QisaaI,QSP,NYL[,HYJLM,HYJLM,perf,1,1,1,both full
 Isaiah 21 6 NGD[,1QisaaI,QSP,NGD[,JGJD,JGJD,impf,0,1,1,both full
 Isaiah 21 7 QCB[,1QisaaI,QSP,QCB[,HQCB,HQCJB,perf,0,0,1,MT fuller
-Isaiah 23 8 <VR[,1QisaaI,QSP,<VR[,M<VRH,M<VJRH,ptca,0,0,1,MT fuller
+Isaiah 23 8 <VR[,1QisaaI,QSP,<VR[,M<VRH,M<VJRH,ptca,1,0,1,MT fuller
 Isaiah 23 11 RGZ[,1QisaaI,QSP,RGZ[,HRGJZ,HRGJZ,perf,0,1,1,both full
 Isaiah 23 11 CMD[,1QisaaI,QSP,CMD[,HCMJD,CMD,infc,0,1,0,scroll fuller
 Isaiah 25 5 KN<[,1QisaaI,QSP,KN<[,TKNJ<,TKNJ<,impf,0,1,1,both full
@@ -482,7 +482,7 @@ Jonah 1 7 NPL[,4Q81,Non-QSP,NPL[,JPJLW,JPLW,wayq,0,1,0,scroll fuller
 Jonah 1 10 NGD[,4Q81,Non-QSP,NGD[,HGJD,HGJD,perf,0,1,1,both full
 Amos 4 7 MVR[,4Q82,QSP,MVR[,>MVJR,>MVJR,impf,0,1,1,both full
 Amos 6 3 NGC[,4Q82,QSP,NGC[,TGJCWN,TGJCWN,wayq,1,1,1,both full
-Jonah 1 8 NGD[,4Q82,QSP,NGD[,HGJDH,HGJDH,impv,1,1,1,both full
+Jonah 1 8 NGD[,4Q82,QSP,NGD[,HGJDH,HGJDH,impv,0,1,1,both full
 Jonah 2 5 NBV[,4Q82,QSP,NBV[,HBJV,HBJV,infc,0,1,1,both full
 Jonah 4 6 NYL[,4Q82,QSP,NYL[,HYL,HYJL,infc,0,0,1,MT fuller
 Psalms 5 10 XLQ=[,4Q83,Non-QSP,XLQ=[,JXLJQWN,JXLJQWN,impf,1,1,1,both full
@@ -499,8 +499,8 @@ Psalms 102 20 CQP[,4Q84,Non-QSP,CQP[,HCQJP,HCQJP,perf,0,1,1,both full
 Psalms 102 27 XLP[,4Q84,Non-QSP,XLP[,TXLJPM,TXLJPM,impf,1,1,1,both full
 Psalms 103 5 FB<[,4Q84,Non-QSP,FB<[,MFBJ<,MFBJ<,ptca,0,1,1,both full
 Psalms 103 12 RXQ[,4Q84,Non-QSP,RXQ[,HRXJQ,HRXJQ,perf,0,1,1,both full
-Psalms 118 25 YLX[,4Q84,Non-QSP,YLX[,HYLJXH,HYLJXH,impv,1,1,1,both full
-Psalms 17 1 >ZN[,4Q85,Non-QSP,>ZN[,H>ZJNH,H>ZJNH,impv,1,1,1,both full
+Psalms 118 25 YLX[,4Q84,Non-QSP,YLX[,HYLJXH,HYLJXH,impv,0,1,1,both full
+Psalms 17 1 >ZN[,4Q85,Non-QSP,>ZN[,H>ZJNH,H>ZJNH,impv,0,1,1,both full
 Psalms 50 19 YMD[,4Q85,Non-QSP,YMD[,TYMJD,TYMJD,impf,0,1,1,both full
 Psalms 50 22 NYL[,4Q85,Non-QSP,NYL[,MYJL,MYJL,ptca,0,1,1,both full
 Psalms 147 14 FB<[,4Q86,Non-QSP,FB<[,JFBJ<K,JFBJ<K,impf,1,1,1,both full
@@ -523,7 +523,7 @@ Proverbs 15 24 FKL[,4Q103,Non-QSP,FKL[,MFKJL,MFKJL,ptca,0,1,1,both full
 Song_of_songs 2 12 NG<[,4Q107,Non-QSP,NG<[,HGJ<,HGJ<,perf,0,1,1,both full
 Song_of_songs 4 2 T>M[,4Q107,Non-QSP,T>M[,MT>MWT,MT>JMWT,ptca,1,0,1,MT fuller
 Lamentations 1 9 GDL[,4Q111,QSP,GDL[,HGDJL,HGDJL,perf,0,1,1,both full
-Lamentations 1 11 NBV[,4Q111,QSP,NBV[,HBJVH,HBJVH,impv,1,1,1,both full
+Lamentations 1 11 NBV[,4Q111,QSP,NBV[,HBJVH,HBJVH,impv,0,1,1,both full
 Lamentations 1 14 KCL[,4Q111,QSP,KCL[,HKCJL,HKCJL,perf,0,1,1,both full
 Daniel 8 4 GDL[,4Q112,Non-QSP,GDL[,HGDJL,HGDJL,perf,0,1,1,both full
 Daniel 8 4 GDL[,4Q113,Non-QSP,GDL[,HGDL,HGDJL,perf,0,0,1,MT fuller
@@ -574,10 +574,10 @@ Psalms 145 20 CMD[,11Q5,QSP,CMD[,JCMJD,JCMJD,impf,0,1,1,both full
 Psalms 138 3 RHB[,11Q5,QSP,RHB[,TRHJBNJ,TRHBNJ,impf,1,1,0,scroll fuller
 Psalms 144 7 NYL[,11Q5,QSP,NYL[,HYJLNJ,HYJLNJ,impv,1,1,1,both full
 Psalms 142 5 NKR[,11Q5,QSP,NKR[,MKJR,MKJR,ptca,0,1,1,both full
-Psalms 142 7 QCB[,11Q5,QSP,QCB[,HQCJBH,HQCJBH,impv,1,1,1,both full
+Psalms 142 7 QCB[,11Q5,QSP,QCB[,HQCJBH,HQCJBH,impv,0,1,1,both full
 Psalms 142 7 NYL[,11Q5,QSP,NYL[,HYJLNJ,HYJLNJ,impv,1,1,1,both full
 Psalms 142 8 KTR[,11Q5,QSP,KTR[,JKTJRW,JKTRW,impf,0,1,0,scroll fuller
-Psalms 143 1 >ZN[,11Q5,QSP,>ZN[,H>ZJNH,H>ZJNH,impv,1,1,1,both full
+Psalms 143 1 >ZN[,11Q5,QSP,>ZN[,H>ZJNH,H>ZJNH,impv,0,1,1,both full
 Psalms 12 5 GBR[,11Q7,QSP,GBR[,NGBJR,NGBJR,impf,0,1,1,both full
 Psalms 13 2 STR[,11Q7,QSP,STR[,TSTJR,TSTJR,impf,0,1,1,both full
 Psalms 14 1 T<B[,11Q7,QSP,T<B[,HT<JBW,HT<JBW,perf,0,1,1,both full
@@ -585,7 +585,7 @@ Psalms 18 28 CPL[,11Q8,QSP,CPL[,TCPJL,TCPJL,impf,0,1,1,both full
 Deuteronomy 6 2 >RK[,Xq2,Non-QSP,>RK[,J>RJKWN,J>RKN,impf,1,1,0,scroll fuller
 Deuteronomy 5 5 NGD[,Xq3,Non-QSP,NGD[,HGJD,HGJD,infc,0,1,1,both full
 Deuteronomy 5 16 >RK[,Xq3,Non-QSP,>RK[,J>RJKWN,J>RJKN,impf,1,1,1,both full
-Genesis 32 30 NGD[,Mur1,Non-QSP,NGD[,HGJDH,HGJDH,impv,1,1,1,both full
+Genesis 32 30 NGD[,Mur1,Non-QSP,NGD[,HGJDH,HGJDH,impv,0,1,1,both full
 Joel 4 6 RXQ[,Mur88,Non-QSP,RXQ[,HRXJQM,HRXJQM,infc,1,1,1,both full
 Amos 1 9 SGR[,Mur88,Non-QSP,SGR[,HSGJRM,HSGJRM,infc,1,1,1,both full
 Amos 8 3 CLK[,Mur88,Non-QSP,CLK[,HCLJK,HCLJK,perf,0,1,1,both full

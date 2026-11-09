@@ -289,7 +289,7 @@ Isaiah 11 10 <MD[,1QisaaI,QSP,1QIsaa I,<MD[,<MD,<MD,0,0,0,0,both defective
 Isaiah 11 13 YRR=[,1QisaaI,QSP,1QIsaa I,YRR=[,YWRRJ,YRRJ,1,1,1,0,scroll fuller
 Isaiah 12 6 JCB[,1Q8,Non-QSP,Non-QSP,JCB[,JWCBT,JWCBT,1,0,1,1,both full
 Isaiah 12 6 JCB[,1QisaaI,QSP,1QIsaa I,JCB[,JWCBT,JWCBT,1,0,1,1,both full
-Isaiah 13 8 JLD[,1QisaaI,QSP,1QIsaa I,JLD[,JWLDH,JWLDH,0,1,1,1,both full
+Isaiah 13 8 JLD[,1QisaaI,QSP,1QIsaa I,JLD[,JWLDH,JWLDH,1,1,1,1,both full
 Isaiah 13 20 R<H[,1QisaaI,QSP,1QIsaa I,R<H[,RW<JM,R<JM,1,1,1,0,scroll fuller
 Isaiah 14 2 CBH[,1QisaaI,QSP,1QIsaa I,CBH[,CWBJM,CBJM,1,0,1,0,scroll fuller
 Isaiah 14 2 CBH[,1QisaaI,QSP,1QIsaa I,CBH[,CWBJHM,CBJHM,1,1,1,0,scroll fuller
@@ -345,7 +345,7 @@ Isaiah 21 2 BGD[,1QisaaI,QSP,1QIsaa I,BGD[,BWGD,BWGD,0,1,1,1,both full
 Isaiah 21 2 BGD[,1QisaaI,QSP,1QIsaa I,BGD[,BWGD,BWGD,0,0,1,1,both full
 Isaiah 21 2 CDD[,1QisaaI,QSP,1QIsaa I,CDD[,CWDD,CWDD,0,1,1,1,both full
 Isaiah 21 2 CDD[,1QisaaI,QSP,1QIsaa I,CDD[,CWDD,CWDD,0,0,1,1,both full
-Isaiah 21 3 JLD[,1QisaaI,QSP,1QIsaa I,JLD[,JWLDH,JWLDH,0,0,1,1,both full
+Isaiah 21 3 JLD[,1QisaaI,QSP,1QIsaa I,JLD[,JWLDH,JWLDH,1,0,1,1,both full
 Isaiah 21 8 <MD[,1QisaaI,QSP,1QIsaa I,<MD[,<WMD,<MD,0,0,1,0,scroll fuller
 Isaiah 21 8 <MD[,4Q55,Non-QSP,Non-QSP,<MD[,<WMD,<MD,0,0,1,0,scroll fuller
 Isaiah 21 11 CMR[,1QisaaI,QSP,1QIsaa I,CMR[,CWMR,CMR,0,0,1,0,scroll fuller
@@ -430,7 +430,7 @@ Isaiah 28 18 CVP[,1QisaaI,QSP,1QIsaa I,CVP[,CWVP,CWVP,0,0,1,1,both full
 Isaiah 28 24 XRC=[,1QisaaI,QSP,1QIsaa I,XRC=[,XWRC,XRC,0,1,1,0,scroll fuller
 Isaiah 29 5 <BR[,1Q8,Non-QSP,Non-QSP,<BR[,<WBR,<BR,0,0,1,0,scroll fuller
 Isaiah 29 5 <BR[,1QisaaI,QSP,1QIsaa I,<BR[,<WBR,<BR,0,0,1,0,scroll fuller
-Isaiah 29 6 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKLH,>WKLH,0,0,1,1,both full
+Isaiah 29 6 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKLH,>WKLH,1,0,1,1,both full
 Isaiah 29 7 YB>[,1QisaaI,QSP,1QIsaa I,YB>[,YWB>JM,YB>JM,1,1,1,0,scroll fuller
 Isaiah 29 8 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKL,>WKL,0,0,1,1,both full
 Isaiah 29 8 CTH[,1QisaaI,QSP,1QIsaa I,CTH[,CWTH,CTH,0,0,1,0,scroll fuller
@@ -455,8 +455,8 @@ Isaiah 30 27 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKLT,>KLT,1,0,1,0,scroll fuller
 Isaiah 30 27 B<R[,1QisaaI,QSP,1QIsaa I,B<R[,BW<R,B<R,0,0,1,0,scroll fuller
 Isaiah 30 28 CVP[,1QisaaI,QSP,1QIsaa I,CVP[,CWVP,CWVP,0,0,1,1,both full
 Isaiah 30 29 HLK[,1QisaaI,QSP,1QIsaa I,HLK[,HWLK,HWLK,0,1,1,1,both full
-Isaiah 30 30 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKLH,>WKLH,0,0,1,1,both full
-Isaiah 30 33 B<R[,1QisaaI,QSP,1QIsaa I,B<R[,B<RH,B<RH,0,0,0,0,both defective
+Isaiah 30 30 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKLH,>WKLH,1,0,1,1,both full
+Isaiah 30 33 B<R[,1QisaaI,QSP,1QIsaa I,B<R[,B<RH,B<RH,1,0,0,0,both defective
 Isaiah 31 1 JRD[,1QisaaI,QSP,1QIsaa I,JRD[,JWRDJM,JRDJM,1,1,1,0,scroll fuller
 Isaiah 31 2 P<L[,1QisaaI,QSP,1QIsaa I,P<L[,PW<LJ,P<LJ,1,0,1,0,scroll fuller
 Isaiah 31 3 <ZR[,1QisaaI,QSP,1QIsaa I,<ZR[,<WZR,<WZR,0,0,1,1,both full
@@ -476,7 +476,7 @@ Isaiah 33 4 CQQ[,1QisaaI,QSP,1QIsaa I,CQQ[,CQQ,CWQQ,0,0,0,1,MT fuller
 Isaiah 33 5 CKN[,1QisaaI,QSP,1QIsaa I,CKN[,CKN,CKN,0,0,0,0,both defective
 Isaiah 33 8 <BR[,1QisaaI,QSP,1QIsaa I,<BR[,<WBR,<BR,0,0,1,0,scroll fuller
 Isaiah 33 9 N<R[,1QisaaI,QSP,1QIsaa I,N<R[,NW<R,N<R,0,0,1,0,scroll fuller
-Isaiah 33 14 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKLH,>WKLH,0,0,1,1,both full
+Isaiah 33 14 >KL[,1QisaaI,QSP,1QIsaa I,>KL[,>WKLH,>WKLH,1,0,1,1,both full
 Isaiah 33 15 >VM[,1QisaaI,QSP,1QIsaa I,>VM[,>WVM,>VM,0,0,1,0,scroll fuller
 Isaiah 33 15 HLK[,1QisaaI,QSP,1QIsaa I,HLK[,HWLWK,HLK,0,0,1,0,scroll fuller
 Isaiah 33 15 M>S[,1QisaaI,QSP,1QIsaa I,M>S[,M>S,M>S,0,0,0,0,both defective
@@ -488,7 +488,7 @@ Isaiah 33 22 CPV[,1QisaaI,QSP,1QIsaa I,CPV[,CWPVNW,CPVNW,1,0,1,0,scroll fuller
 Isaiah 33 22 CPV[,4Q57,QSP,QSP,CPV[,CWPVNW,CPVNW,1,0,1,0,scroll fuller
 Isaiah 33 24 JCB[,1QisaaI,QSP,1QIsaa I,JCB[,JWCB,JCB,0,1,1,0,scroll fuller
 Isaiah 34 4 NBL[,1QisaaII,QSP,1QIsaa II,NBL[,NWBL,NBLT,0,1,1,0,scroll fuller
-Isaiah 34 9 B<R[,1QisaaII,QSP,1QIsaa II,B<R[,B<RH,B<RH,0,1,0,0,both defective
+Isaiah 34 9 B<R[,1QisaaII,QSP,1QIsaa II,B<R[,B<RH,B<RH,1,1,0,0,both defective
 Isaiah 34 10 <BR[,1QisaaII,QSP,1QIsaa II,<BR[,<WBR,<BR,0,0,1,0,scroll fuller
 Isaiah 35 3 KCL[,1QisaaII,QSP,1QIsaa II,KCL[,KWCLWT,KCLWT,1,0,1,0,scroll fuller
 Isaiah 35 8 HLK[,1QisaaII,QSP,1QIsaa II,HLK[,HWLK,HLK,0,0,1,0,scroll fuller
@@ -509,7 +509,7 @@ Isaiah 38 18 JRD[,1Q8,Non-QSP,Non-QSP,JRD[,JWRDJ,JWRDJ,1,0,1,1,both full
 Isaiah 38 18 JRD[,1QisaaII,QSP,1QIsaa II,JRD[,JWRDJ,JWRDJ,1,0,1,1,both full
 Isaiah 40 3 QR>[,1QisaaII,QSP,1QIsaa II,QR>[,QWR>,QWR>,0,0,1,1,both full
 Isaiah 40 6 >MR[,1QisaaII,QSP,1QIsaa II,>MR[,>WMR,>MR,0,0,1,0,scroll fuller
-Isaiah 40 10 MCL[,1QisaaII,QSP,1QIsaa II,MCL[,MCLH,MCLH,0,0,0,0,both defective
+Isaiah 40 10 MCL[,1QisaaII,QSP,1QIsaa II,MCL[,MCLH,MCLH,1,0,0,0,both defective
 Isaiah 40 11 R<H[,1QisaaII,QSP,1QIsaa II,R<H[,RW<H,R<H,0,1,1,0,scroll fuller
 Isaiah 40 19 YRP[,1QisaaII,QSP,1QIsaa II,YRP[,YWRP,YRP,0,1,1,0,scroll fuller
 Isaiah 40 19 YRP[,1QisaaII,QSP,1QIsaa II,YRP[,YWRP,YWRP,0,0,1,1,both full
@@ -550,7 +550,7 @@ Isaiah 42 7 JCB[,1QisaaII,QSP,1QIsaa II,JCB[,JWCBJ,JCBJ,1,0,1,0,scroll fuller
 Isaiah 42 10 JCB[,1QisaaII,QSP,1QIsaa II,JCB[,JWCBJHM,JCBJHM,1,1,1,0,scroll fuller
 Isaiah 42 10 JRD[,1QisaaII,QSP,1QIsaa II,JRD[,JWRDJ,JWRDJ,1,0,1,1,both full
 Isaiah 42 11 JCB[,1QisaaII,QSP,1QIsaa II,JCB[,JWCBJ,JCBJ,1,0,1,0,scroll fuller
-Isaiah 42 14 JLD[,1QisaaII,QSP,1QIsaa II,JLD[,JWLDH,JWLDH,0,1,1,1,both full
+Isaiah 42 14 JLD[,1QisaaII,QSP,1QIsaa II,JLD[,JWLDH,JWLDH,1,1,1,1,both full
 Isaiah 42 17 >MR[,1QisaaII,QSP,1QIsaa II,>MR[,>MRJM,>MRJM,1,1,0,0,both defective
 Isaiah 42 17 BVX[,1QisaaII,QSP,1QIsaa II,BVX[,BWVXJM,BVXJM,1,1,1,0,scroll fuller
 Isaiah 42 22 >MR[,1QisaaII,QSP,1QIsaa II,>MR[,>WMR,>MR,0,0,1,0,scroll fuller
@@ -627,8 +627,8 @@ Isaiah 46 11 QR>[,1QisaaII,QSP,1QIsaa II,QR>[,QWRH,QR>,0,0,1,0,scroll fuller
 Isaiah 46 11 QR>[,4Q57,QSP,QSP,QR>[,QWR>,QR>,0,0,1,0,scroll fuller
 Isaiah 47 4 G>L[,1Q8,Non-QSP,Non-QSP,G>L[,G>LNW,G>LNW,1,0,0,0,both defective
 Isaiah 47 4 G>L[,1QisaaII,QSP,1QIsaa II,G>L[,G>LNW,G>LNW,1,0,0,0,both defective
-Isaiah 47 8 >MR[,1Q8,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,0,1,0,0,both defective
-Isaiah 47 8 >MR[,1QisaaII,QSP,1QIsaa II,>MR[,>WMRH,>MRH,0,1,1,0,scroll fuller
+Isaiah 47 8 >MR[,1Q8,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,1,1,0,0,both defective
+Isaiah 47 8 >MR[,1QisaaII,QSP,1QIsaa II,>MR[,>WMRH,>MRH,1,1,1,0,scroll fuller
 Isaiah 47 8 JCB[,1QisaaII,QSP,1QIsaa II,JCB[,JWCBT,JWCBT,1,1,1,1,both full
 Isaiah 47 8 JCB[,4Q58,Non-QSP,Non-QSP,JCB[,JCBT,JWCBT,1,1,0,1,MT fuller
 Isaiah 47 10 R>H[,1QisaaII,QSP,1QIsaa II,R>H[,RW>NJ,R>NJ,1,0,1,0,scroll fuller
@@ -683,7 +683,7 @@ Isaiah 52 12 HLK[,4Q57,QSP,QSP,HLK[,HWLK,HLK,0,0,1,0,scroll fuller
 Isaiah 53 7 GZZ[,1QisaaII,QSP,1QIsaa II,GZZ[,GWZZJH,GZZJH,1,0,1,0,scroll fuller
 Isaiah 53 12 PC<[,1QisaaII,QSP,1QIsaa II,PC<[,PWC<JM,PC<JM,1,0,1,0,scroll fuller
 Isaiah 53 12 PC<[,4Q58,Non-QSP,Non-QSP,PC<[,PC<JM,PC<JM,1,0,0,0,both defective
-Isaiah 54 1 CMM[,1QisaaII,QSP,1QIsaa II,CMM[,CWMMH,CWMMH,0,0,1,1,both full
+Isaiah 54 1 CMM[,1QisaaII,QSP,1QIsaa II,CMM[,CWMMH,CWMMH,1,0,1,1,both full
 Isaiah 54 5 <FH[,1QisaaII,QSP,1QIsaa II,<FH[,<WFJK,<FJK,1,0,1,0,scroll fuller
 Isaiah 54 5 B<L[,1QisaaII,QSP,1QIsaa II,B<L[,B<LKJ,B<LJK,1,0,0,0,both defective
 Isaiah 54 5 G>L[,1Q8,Non-QSP,Non-QSP,G>L[,GW>LK,G>LK,1,1,1,0,scroll fuller
@@ -800,7 +800,7 @@ Jeremiah 21 9 JY>[,4Q72,Non-QSP,Non-QSP,JY>[,JWY>,JWY>,0,1,1,1,both full
 Jeremiah 22 4 RKB[,4Q70,Non-QSP,Non-QSP,RKB[,RWKBJM,RKBJM,1,0,1,0,scroll fuller
 Jeremiah 22 10 HLK[,4Q70,Non-QSP,Non-QSP,HLK[,HWLK,HLK,0,1,1,0,scroll fuller
 Jeremiah 22 13 BNH[,4Q72,Non-QSP,Non-QSP,BNH[,BWNH,BNH,0,0,1,0,scroll fuller
-Jeremiah 22 23 JLD[,4Q72,Non-QSP,Non-QSP,JLD[,JLDH,JLDH,0,1,0,0,both defective
+Jeremiah 22 23 JLD[,4Q72,Non-QSP,Non-QSP,JLD[,JLDH,JLDH,1,1,0,0,both defective
 Jeremiah 25 16 CLX[,4Q72,Non-QSP,Non-QSP,CLX[,CLX,CLX,0,0,0,0,both defective
 Jeremiah 30 21 MCL[,4Q72,Non-QSP,Non-QSP,MCL[,MCLW,MCLW,1,1,0,0,both defective
 Jeremiah 31 5 NV<[,4Q72,Non-QSP,Non-QSP,NV<[,NV<JM,NV<JM,1,0,0,0,both defective
@@ -845,7 +845,7 @@ Lamentations 1 11 ZLL[,4Q111,QSP,QSP,ZLL[,ZWLL,ZWLLH,0,0,1,1,both full
 Lamentations 1 12 <BR[,4Q111,QSP,QSP,<BR[,<BRJ,<BRJ,1,0,0,0,both defective
 Lamentations 1 13 CMM[,4Q111,QSP,QSP,CMM[,CWMM,CMMH,0,0,1,0,scroll fuller
 Lamentations 1 16 CMM[,4Q111,QSP,QSP,CMM[,CWMMJM,CWMMJM,1,0,1,1,both full
-Lamentations 1 16 JRD[,4Q111,QSP,QSP,JRD[,JRDH,JRDH,0,0,0,0,both defective
+Lamentations 1 16 JRD[,4Q111,QSP,QSP,JRD[,JRDH,JRDH,1,0,0,0,both defective
 Leviticus 11 24 NG<[,Mas1b,Non-QSP,Non-QSP,NG<[,NG<,NG<,0,1,0,0,both defective
 Leviticus 11 26 NG<[,2Q5,Non-QSP,Non-QSP,NG<[,NWG<,NG<,0,1,1,0,scroll fuller
 Leviticus 11 26 NG<[,Mas1b,Non-QSP,Non-QSP,NG<[,NG<,NG<,0,1,0,0,both defective
@@ -891,15 +891,15 @@ Micah 2 8 <BR[,Mur88,Non-QSP,Non-QSP,<BR[,<BRJM,<BRJM,1,1,0,0,both defective
 Micah 2 11 HLK[,Mur88,Non-QSP,Non-QSP,HLK[,HLK,HLK,0,0,0,0,both defective
 Micah 2 13 PRY[,Mur88,Non-QSP,Non-QSP,PRY[,PRY,PRY,0,1,0,0,both defective
 Micah 3 5 NCK[,Mur88,Non-QSP,Non-QSP,NCK[,NCKJM,NCKJM,1,1,0,0,both defective
-Micah 4 7 YL<[,Mur88,Non-QSP,Non-QSP,YL<[,YL<H,YL<H,0,1,0,0,both defective
+Micah 4 7 YL<[,Mur88,Non-QSP,Non-QSP,YL<[,YL<H,YL<H,1,1,0,0,both defective
 Micah 4 9 J<Y[,Mur88,Non-QSP,Non-QSP,J<Y[,JW<YK,JW<YK,1,0,1,1,both full
-Micah 4 10 JLD[,Mur88,Non-QSP,Non-QSP,JLD[,JWLDH,JWLDH,0,1,1,1,both full
+Micah 4 10 JLD[,Mur88,Non-QSP,Non-QSP,JLD[,JWLDH,JWLDH,1,1,1,1,both full
 Micah 6 1 >MR[,Mur88,Non-QSP,Non-QSP,>MR[,>MR,>MR,0,0,0,0,both defective
 Micah 6 16 JCB[,Mur88,Non-QSP,Non-QSP,JCB[,JCBJH,JCBJH,1,1,0,0,both defective
 Micah 7 3 DBR[,4Q82,QSP,QSP,DBR[,DBR,DBR,0,0,0,0,both defective
 Micah 7 3 DBR[,Mur88,Non-QSP,Non-QSP,DBR[,DBR,DBR,0,0,0,0,both defective
 Micah 7 5 CKB[,Mur88,Non-QSP,Non-QSP,CKB[,CKBT,CKBT,1,1,0,0,both defective
-Micah 7 10 >MR[,Mur88,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,0,1,0,0,both defective
+Micah 7 10 >MR[,Mur88,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,1,1,0,0,both defective
 Micah 7 14 CKN[,Mur88,Non-QSP,Non-QSP,CKN[,CKNJ,CKNJ,0,0,0,0,both defective
 Nahum 1 2 NQM[,Mur88,Non-QSP,Non-QSP,NQM[,NQM,NQM,0,0,0,0,both defective
 Nahum 1 2 NQM[,Mur88,Non-QSP,Non-QSP,NQM[,NQM,NQM,0,0,0,0,both defective
@@ -1069,7 +1069,7 @@ Psalms 147 16 NTN[,4Q86,Non-QSP,Non-QSP,NTN[,NTN,NTN,0,1,0,0,both defective
 Psalms 148 8 <FH[,11Q5,QSP,QSP,<FH[,<WFH,<FH,0,0,1,0,scroll fuller
 Ruth 1 1 CPV[,4Q104,Non-QSP,Non-QSP,CPV[,CPVJM,CPVJM,1,1,0,0,both defective
 Ruth 2 14 QYR=[,2Q16,Non-QSP,Non-QSP,QYR=[,QYRJM,QWYRJM,1,1,0,1,MT fuller
-Song_of_songs 1 6 NVR[,6Q6,Non-QSP,Non-QSP,NVR[,NWVRH,NVRH,0,0,1,0,scroll fuller
+Song_of_songs 1 6 NVR[,6Q6,Non-QSP,Non-QSP,NVR[,NWVRH,NVRH,1,0,1,0,scroll fuller
 Song_of_songs 2 16 R<H[,4Q107,Non-QSP,Non-QSP,R<H[,RW<H,R<H,0,1,1,0,scroll fuller
 Song_of_songs 4 5 R<H[,4Q106,Non-QSP,Non-QSP,R<H[,R<JM,RW<JM,1,0,0,1,MT fuller
 Song_of_songs 7 5 YPH[,4Q106,Non-QSP,Non-QSP,YPH[,YPH,YWPH,0,0,0,1,MT fuller
@@ -1082,10 +1082,10 @@ Zephaniah 1 18 JCB[,Mur88,Non-QSP,Non-QSP,JCB[,JCBJ,JCBJ,1,0,0,0,both defective
 Zephaniah 2 5 JCB[,Mur88,Non-QSP,Non-QSP,JCB[,JCBJ,JCBJ,1,0,0,0,both defective
 Zephaniah 2 5 JCB[,Mur88,Non-QSP,Non-QSP,JCB[,JWCB,JWCB,0,0,1,1,both full
 Zephaniah 2 15 <BR[,Mur88,Non-QSP,Non-QSP,<BR[,<WBR,<WBR,0,0,1,1,both full
-Zephaniah 2 15 >MR[,4Q77,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,0,1,0,0,both defective
-Zephaniah 2 15 >MR[,Mur88,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,0,1,0,0,both defective
+Zephaniah 2 15 >MR[,4Q77,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,1,1,0,0,both defective
+Zephaniah 2 15 >MR[,Mur88,Non-QSP,Non-QSP,>MR[,>MRH,>MRH,1,1,0,0,both defective
 Zephaniah 3 1 JNH[,Mur88,Non-QSP,Non-QSP,JNH[,JWNH,JWNH,0,1,1,1,both full
 Zephaniah 3 3 C>G[,Mur88,Non-QSP,Non-QSP,C>G[,C>GJM,C>GJM,1,0,0,0,both defective
 Zephaniah 3 4 PXZ[,Mur88,Non-QSP,Non-QSP,PXZ[,PXZJM,PXZJM,1,0,0,0,both defective
 Zephaniah 3 19 <FH[,Mur88,Non-QSP,Non-QSP,<FH[,<FH,<FH,0,0,0,0,both defective
-Zephaniah 3 19 YL<[,Mur88,Non-QSP,Non-QSP,YL<[,YL<H,YL<H,0,1,0,0,both defective
+Zephaniah 3 19 YL<[,Mur88,Non-QSP,Non-QSP,YL<[,YL<H,YL<H,1,1,0,0,both defective
