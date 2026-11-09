@@ -40,9 +40,10 @@ The output is written in a fixed row order, so two runs give byte-identical file
 - SP node ids overlap with MT ids; in the datasets they are shifted by 100000 (`SP_TF_ID_OFFSET`).
 - `data/hiphil_triliteral_with_hireq.csv` is made by `notebooks/aligning_triliteral_hiphil_to_add_hireq.ipynb`
   (run it in the `hebrew_spelling` environment), not by the pipeline. Rerun it when `hiphil_triliteral.csv` changes.
-- The R models in `data_analysis/analysis_nouns_adjectives` read `data/nouns_adjectives.csv` and use
-  `neigh_vowel_letter` as a predictor, so changes in that file affect results in the book.
-- The verb analyses of the book (`Dropbox/monograph_orthography/verbs/analysis_verbs`) read the verb datasets in
+- The R analyses of the book are in `analysis/` (one folder per chapter; working copy in
+  `Dropbox/monograph_orthography`). The noun models (`analysis/ch08_nouns_adjectives`) read
+  `data/nouns_adjectives.csv`, so changes in that file affect results in the book.
+- The verb analyses (`analysis/ch09_verbs`) read the verb datasets in
   `data/`; a change there can make stored model fits out of date. Mention changed verb datasets to the author.
 - `nme` is the ending as written (MT: consonants of BHSA `g_nme`; DSS: `parse_nme_dss`), not the grammatical
   ending. The participle datasets have `nme_type` for that (README, "Nominal endings of the participles").

@@ -1,7 +1,8 @@
 # Chapter 10: cluster analysis of documents
 
-Replaces the notebooks `notebooks/clustering_spelling.ipynb` and
-`notebooks/clustering_spelling_for_book_summary.ipynb` in `hebrew_spelling_variation`.
+Replaces the Python notebooks `notebooks/clustering_spelling.ipynb` and
+`notebooks/clustering_spelling_for_book_summary.ipynb` (removed from the repository; they are in
+the history up to release v1.2.0).
 Plan, audit and decisions: Claude doc "Chapter 10 revision: cluster analysis"
 (https://claude.ai/artifact/7P6RMjGghfXv14ixsbKu1g), 2026-11-03.
 
