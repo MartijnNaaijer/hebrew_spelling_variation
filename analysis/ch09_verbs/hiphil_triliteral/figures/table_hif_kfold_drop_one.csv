@@ -1,0 +1,6 @@
+effect_dropped,model,elpd_diff,se_diff
+corpus group x suffix,M6,-1.1237002285342124,4.786433275355472
+corpus group x tense,M5,0.2057274913013778,6.167243078620319
+corpus group (with its interactions),n9v2,-11.995593441615101,12.971754000558105
+tense (with corpus group x tense),M7_no_vt,-121.23621649980602,16.854900872365988
+suffix (with corpus group x suffix),M7_no_suffix,-44.766147491115596,9.388226831310776

@@ -1,0 +1,5 @@
+effect_dropped,model,elpd_diff,se_diff
+corpus group x suffix,M7_no_suffix_x,5.282679911815135,4.939898700239553
+corpus group x prefix,M7_no_prefix_x,2.316536455634272,3.016531740380997
+corpus group x I-yod,M5,0.3196118183787533,6.501314047196159
+ע-ע verbs,M7_no_ay_ay,-36.291102625669296,7.501482206209131

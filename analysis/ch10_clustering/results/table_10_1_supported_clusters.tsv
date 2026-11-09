@@ -1,0 +1,7 @@
+analysis	node	settings	recovered	size	support	in_check	support_check	members
+combined	4	24	9	3	0.901	FALSE	NA	MT Exodus; MT Genesis; MT Numbers
+combined	15	24	7	3	0.967	FALSE	NA	11Q5 Psalms; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah
+combined	22	24	9	4	0.752	FALSE	NA	11Q5 Psalms; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; 4Q57 Isaiah
+nouns	3	24	9	2	0.798	FALSE	NA	MT Chronicles; MT Psalms
+verbs	3	24	18	2	0.919	FALSE	NA	MT Isaiah; MT Psalms
+verbs	14	24	24	3	0.972	TRUE	0.994	11Q5 Psalms; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah
