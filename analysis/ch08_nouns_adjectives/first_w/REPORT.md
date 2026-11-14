@@ -130,6 +130,32 @@ All formulas include `(1 | scr_book2/lex)`.
   this"). Among the models with affixes, the interactions help (M6 vs M3
   +18.1).
 
+### The earlier model with corpus_group (nB_cg; 2026-11-10)
+
+The author does not want doc_group (`law_phase3`) in the book's models.
+nB_cg is nB with `corpus_group` instead: `corpus_group * has_prefix +
+(1 | scr_book2/lex)`, no suffix (`../tools/fit_firstw_nb_cg.R`). Same data as M6 (checked row by row), same
+folds as above. Max Rhat 1.01, no divergences.
+
+| k-fold | nB_cg against | elpd diff | SE |
+|---|---|---|---|
+| grouped | nB (doc_group) | +3.3 | 2.5 |
+| grouped | M2 | +27.6 | 5.0 |
+| grouped | M6 | +44.9 | 5.9 |
+| over forms | M6 | −19.8 | 7.0 |
+| over forms | M3 | −4.2 | 7.7 |
+| over forms | M2 | +22.8 | 8.1 |
+
+- nB_cg is the best model in the grouped k-fold (just ahead of nB, within
+  2 SE). M6 −44.9 (SE 5.9).
+- The k-fold over forms still prefers M6 (nB_cg −19.8, SE 7.0, 2.8 SE).
+- Estimates (`table_firstw_nb_cg_fixed_effects.csv`, `_total_effects.csv`)
+  as in nB: prefix in the MT Pentateuch −2.36 [−3.21, −1.55]; credible
+  interactions with MT LBH (2.05), MT other books (1.19), SP (3.13) and QSP
+  (2.38); QSP 9.42 [7.33, 11.74]; total prefix effect credible in MT
+  Pentateuch, MT Former Prophets (−1.17, pd 0.978), MT other books (−1.17)
+  and non-QSP (−1.69, pd 0.984).
+
 ### k-fold over forms (`table_firstw_kfold_forms.csv`)
 
 | Model | elpd diff | SE |

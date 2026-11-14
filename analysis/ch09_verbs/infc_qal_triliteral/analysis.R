@@ -70,6 +70,12 @@
 #   - Note of fig_infc_predicted on two lines.
 #   - Suffix (3 forms) and prefix (95% of the forms) still cannot be modelled
 #     (TODO section 13 item 9).
+#
+# CHANGES 2026-11-10 (author: chapter 9 figures like chapter 8):
+#   - The book figures by document group use corpus_group, with the non-QSP
+#     scrolls as one group (column fig_group, labelled 'MT Other'), instead
+#     of law_phase3 (non-QSP split by group of books), as the models and the
+#     figures of chapter 8. The filters and captions for Non-QSP LBH are gone.
 ################################################################################
 
 
@@ -184,6 +190,10 @@ table(dat$prefix)        # mostly L: has_prefix hardly varies
 
 # ==== 2. EXPLORATORY ANALYSIS ====
 
+# Document groups of the book figures: corpus_group, the non-QSP scrolls as
+# one group (author, 2026-11-10), labelled as in the book.
+dat$fig_group <- fct_recode(dat$corpus_group, 'MT Other' = 'MT other books')
+
 # shares_by() and plot_shares() (functions.R): share of full spellings (95%
 # interval) per row, with n at the right.
 
@@ -194,17 +204,15 @@ table(dat$prefix)        # mostly L: has_prefix hardly varies
 amr_label <- function(amr) factor(if_else(amr == 1, heb_md('אמר'), 'Other verbs'),
                                   levels = c('Other verbs', heb_md('אמר')))
 
-groups_amr <- shares_by(dat, law_phase3, amr) |>
-  filter(law_phase3 != 'Non-QSP LBH') |>          # 2 forms
-  mutate(row = fct_rev(droplevels(law_phase3)), lexeme = amr_label(amr))
+groups_amr <- shares_by(dat, fig_group, amr) |>
+  mutate(row = fct_rev(fig_group), lexeme = amr_label(amr))
 groups_amr
 
 p <- plot_shares(groups_amr, colour_var = 'lexeme', dodge_width = 0.6,
                  colours = c(BOOK_BLUE, BOOK_ORANGE)) +
-  labs(caption = 'Non-QSP LBH (2 forms) not shown.') +
   markdown_legend()
 p
-save_book_figure(p, 'fig_infc_groups', height = 12)
+save_book_figure(p, 'fig_infc_groups', height = 9)
 
 # ---- 2b. QSP scrolls and the two halves of 1QIsaa ----
 

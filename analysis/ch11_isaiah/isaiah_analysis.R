@@ -2,10 +2,8 @@
 # Chapter 11: the manuscripts of Isaiah (2026-11-03)
 #
 # Replaces the "Isaiah manuscripts" sections of the old scripts
-# (verbs/script_*_cleaned.R, nouns_adjectives/nouns_adjectives_cleaned.R).
-# Plan, audit (phase 0) and decisions: Claude doc "Chapter 11 revision: Isaiah
-# manuscripts" (https://claude.ai/artifact/ChZiXJCzim1WBLpvt5Px7d). Decisions
-# (author, 2026-11-03):
+# (earlier versions of the chapter 8 and 9 scripts, not in the repository).
+# Decisions (author, 2026-11-03):
 #   1. Refit on the cleaned chapter 8-9 data with the priors of chapters 8-9
 #      (book_priors(): normal(0, 1.5), exponential(1) for the lexeme sd).
 #   2. has_vowel_letter ~ scroll + has_suffix + (1 | lex) for every feature
@@ -128,7 +126,11 @@ parallel_summary <- function(p, feature) {
     (\(t) { for (c in c('both full', 'both defective', 'scroll fuller', 'MT fuller')) if (!c %in% names(t)) t[[c]] <- 0L; t })() |>
     transmute(feature, manuscript = scroll, parallels = `both full` + `both defective` + `scroll fuller` + `MT fuller`,
               both_full = `both full`, both_defective = `both defective`, scroll_fuller = `scroll fuller`,
-              mt_fuller = `MT fuller`)
+              mt_fuller = `MT fuller`) |>
+    # exact two-sided sign test on the differing parallels (H0: a differing parallel is equally
+    # likely to be fuller in the scroll or in MT Isaiah); NA when no parallel differs (2026-11-13)
+    mutate(p_sign = map2_dbl(scroll_fuller, mt_fuller, \(a, b)
+      if (a + b == 0) NA_real_ else binom.test(a, a + b, 0.5)$p.value))
 }
 
 # ---- Models ------------------------------------------------------------------------

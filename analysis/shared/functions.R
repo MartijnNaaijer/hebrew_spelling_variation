@@ -807,9 +807,16 @@ shares_by <- function(dataset, ...) {
                        tol = 1e-9)[, c('mean', 'lower', 'upper')])
 }
 
+# count_labels = TRUE (added 2026-11-12, Fig. 9.32): label each row with the
+# observed counts ("3/3 full") instead of "n = 3". Use it for sparse figures,
+# where the Bayesian estimate (Jeffreys prior) is pulled towards 50% and the
+# dot alone hides that all forms are full (or all defective). The book caption
+# then explains the points. Default FALSE keeps the other figures unchanged.
 plot_shares <- function(shares, colour_var = NULL, colours = BOOK_CATEGORICAL,
-                        dodge_width = 0) {
+                        dodge_width = 0, count_labels = FALSE) {
   dodge <- position_dodge(width = dodge_width)
+  shares$label <- if (count_labels) paste0(shares$full, '/', shares$n, ' full') else paste0('n = ', shares$n)
+  x_max <- if (count_labels) 1.27 else 1.17
   aes_colour <- if (is.null(colour_var)) aes() else aes(colour = .data[[colour_var]],
                                                        group = .data[[colour_var]])
   p <- ggplot(shares, aes(y = row, x = mean, xmin = lower, xmax = upper)) + aes_colour
@@ -822,9 +829,9 @@ plot_shares <- function(shares, colour_var = NULL, colours = BOOK_CATEGORICAL,
       scale_colour_manual(values = colours, guide = guide_legend(reverse = TRUE))
   }
   p +
-    geom_text(aes(x = 1.02, label = paste0('n = ', n)), hjust = 0, size = 2.6,
+    geom_text(aes(x = 1.02, label = label), hjust = 0, size = 2.6,
               colour = BOOK_INK_2, position = dodge, show.legend = FALSE) +
-    scale_x_continuous(limits = c(0, 1.17), breaks = seq(0, 1, 0.25),
+    scale_x_continuous(limits = c(0, x_max), breaks = seq(0, 1, 0.25),
                        labels = scales::percent) +
     labs(x = 'Full spelling (share of forms, 95% interval)', y = NULL) +
     theme_book()

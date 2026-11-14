@@ -30,7 +30,8 @@ book_ch8/             make_book_items.R: book figures and tables built from the 
                       stored final fits (nothing is fitted); table_ch8_model_summaries.csv
 checks/               convergence, credible terms and pointwise k-fold checks of the stored fits
 tools/                run_dataset.R (fitting run of one dataset), refit_m6_newdata.R (check of
-                      data release v1.2.0)
+                      data release v1.2.0), fit_firstw_nb_cg.R (first_w: model nB_cg of
+                      Table 8.36 and its k-folds)
 ```
 
 Every `analysis.R` has the same sections: 0 setup, 1 data import and preparation, 2 exploratory analysis,

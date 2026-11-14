@@ -197,8 +197,13 @@ write_csv(book_parallels, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_book_p
 #   - Cells: 611 QSP and 739 non-QSP forms, all with and without suffix and
 #     prefix.
 
+# nB_cg: nB with corpus_group instead of law_phase3 (doc_group); the author
+# does not want doc_group in the book's models, so nB_cg is the "earlier
+# model" of Table 8.36 (author, 2026-11-10; fitted with
+# ../tools/fit_firstw_nb_cg.R).
 model_specs <- c(NOUN_MODEL_SPECS,
-                 list(nB = has_vowel_letter ~ has_prefix * law_phase3 + (1 | scr_book2/lex)))
+                 list(nB = has_vowel_letter ~ has_prefix * law_phase3 + (1 | scr_book2/lex),
+                      nB_cg = has_vowel_letter ~ corpus_group * has_prefix + (1 | scr_book2/lex)))
 model_file <- function(id, scale_b = PRIOR_SD) noun_model_file(MODEL_PREFIX, id, scale_b)
 
 # ---- 3a. Prior predictive check ----
@@ -250,14 +255,14 @@ if (RUN_KFOLD) {
 # gives a held-out scroll-book new book x lexeme effects (sd about 9-10) and so
 # cannot use the lexeme. Here forms are left out, stratified by scroll-book x
 # lexeme cell, so that a held-out form keeps its known cell effect. The model
-# structure stays nested. Only M2, M3 and M6; a check for FINAL_ID, not a
+# structure stays nested. Only M2, M3, M6 and nB_cg; a check for FINAL_ID, not a
 # replacement of 3c.
 
 set.seed(2026)
 folds_forms <- loo::kfold_split_stratified(K = 5, x = interaction(dat$scr_book2, dat$lex, drop = TRUE))
 
 if (RUN_KFOLD) {
-  kfolds_forms <- map(set_names(c('M2', 'M3', 'M6')),
+  kfolds_forms <- map(set_names(c('M2', 'M3', 'M6', 'nB_cg')),
                       \(id) kfold_lazy(model_file(id), paste0(MODEL_PREFIX, id, '_k5forms'), folds_forms))
   kfold_forms_comparison <- kfold_table(kfolds_forms)
   kfold_forms_comparison

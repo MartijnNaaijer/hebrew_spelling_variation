@@ -69,6 +69,16 @@
 #   - Book figures: fig_hif_groups_all (document groups), fig_hif_suffix_tenses
 #     and fig_hif_prefix_tenses (MT / non-QSP / QSP); 'MT Other' and
 #     'Wayyiqṭol' in the figure labels; Charis.
+#
+# CHANGES 2026-11-10 (author: chapter 9 figures like chapter 8):
+#   - The book figures by document group use corpus_group, with the non-QSP
+#     scrolls as one group (column fig_group, labelled 'MT Other'), instead
+#     of law_phase3 (non-QSP split by group of books), as the models and the
+#     figures of chapter 8. The filters and captions for Non-QSP LBH are gone.
+#
+# CHANGES 2026-11-12: new descriptive subsection 2g2 (wayyiqtol by person,
+#   ending and suffix; table_hif_wayq_form_groups.csv), for the Suchard
+#   additions to section 9.7 (../BOOK_CHANGES_suchard.md). No model changed.
 ################################################################################
 
 
@@ -186,6 +196,10 @@ table(dat$suffix_type, dat$corpus)
 
 # ==== 2. EXPLORATORY ANALYSIS ====
 
+# Document groups of the book figures: corpus_group, the non-QSP scrolls as
+# one group (author, 2026-11-10), labelled as in the book.
+dat$fig_group <- fct_recode(dat$corpus_group, 'MT Other' = 'MT other books')
+
 suffix_label <- function(has_suffix) factor(if_else(has_suffix == 1, 'With suffix', 'Without suffix'),
                                             levels = c('Without suffix', 'With suffix'))
 prefix_label <- function(has_prefix) factor(if_else(has_prefix == 1, 'With prefix', 'Without prefix'),
@@ -204,15 +218,15 @@ p <- plot_shares(groups)
 p
 save_book_figure(p, 'fig_hif_groups', height = 7)
 
-# Document groups with the non-QSP scrolls split by group of books, as in the
-# other sections of the book (Fig. 9.43)
-groups_all <- shares_by(dat, law_phase3) |>
-  mutate(row = fct_rev(law_phase3))
+# Document groups of the book figure (Fig. 9.43): the non-QSP scrolls as one
+# group, as in chapter 8 (author, 2026-11-10)
+groups_all <- shares_by(dat, fig_group) |>
+  mutate(row = fct_rev(fig_group))
 groups_all
 write_csv(select(groups_all, -row), file.path(IMAGE_FOLDER, 'table_hif_groups_all.csv'))
 p <- plot_shares(groups_all)
 p
-save_book_figure(p, 'fig_hif_groups_all', height = 8)
+save_book_figure(p, 'fig_hif_groups_all', height = 7)
 
 # ---- 2b. Verbal tense per group of books ----
 # The wayyiqtol is the least full tense, but very unequally: MT Pentateuch 35%,
@@ -329,6 +343,27 @@ p <- plot_shares(first_letters) + facet_wrap(~ vt, ncol = 1) +
   labs(caption = 'MT only; letters with fewer than 10 forms not shown.')
 p
 save_book_figure(p, 'fig_hif_explore_first_letter', height = 9)
+
+# ---- 2g2. Wayyiqtol by person, ending and suffix (descriptive; 2026-11-12) ----
+# Check of the paradigm explanation of the defective wayyiqtol (Suchard 2020,
+# 91-94, 248; BOOK_CHANGES_suchard.md). MT only. The wayyiqtol forms with
+# hireq are those with a vocalic ending, a pronominal suffix or the 1st person;
+# the bare 3rd/2nd person forms have sere (dat_non_hireq) and are never written
+# with yod. Result (2026-11-12): wayyiqtol 55-60% full in each group, imperfect
+# 80-97%.
+
+wayq_check <- dat |>
+  filter(corpus == 'MT', vt %in% c('impf', 'wayq')) |>
+  mutate(ending = (nu == 'pl' & ps %in% c('p2', 'p3') & gn != 'f') |
+                  (nu == 'sg' & gn == 'f' & ps == 'p2'),
+         form_group = case_when(has_prs == 1 ~ 'pronominal suffix',
+                                ending ~ 'vocalic ending, no suffix',
+                                ps == 'p1' ~ '1st person, no ending or suffix',
+                                TRUE ~ '2nd/3rd person without ending')) |>
+  shares_by(vt, form_group)
+wayq_check
+write_csv(wayq_check, file.path(IMAGE_FOLDER, 'table_hif_wayq_form_groups.csv'))
+dat_non_hireq |> filter(scroll == 'MT') |> count(vt, has_vowel_letter)   # sere wayyiqtol: 0 of 328 with yod
 
 # ---- 2h. Parallel passages: the same form in the MT and in a scroll ----
 # Paired by mt_match (the MT form matched in the preprocessing). The scrolls

@@ -1,0 +1,301 @@
+analysis	label	group	feature	mean_pct	docs
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Former Prophets	final_w_s0	69.70657654087566	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Former Prophets	final_w_s1	39.51525277773666	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Former Prophets	final_y_s0	69.73464722333964	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Former Prophets	final_y_s1	43.54333972285837	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Former Prophets	first_w_s0	26.679109047833332	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Former Prophets	first_w_s1	18.591182490295743	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Former Prophets	first_y_s0	36.2256049960968	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Former Prophets	first_y_s1	29.58239942528735	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Former Prophets	single_w_s0	56.860176725568664	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Former Prophets	single_w_s1	49.440418200435445	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Former Prophets	single_y_s0	68.06195216407481	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Former Prophets	single_y_s1	64.45548508067316	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT LBH	final_w_s0	74.53746513056275	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT LBH	final_w_s1	47.51614947452713	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT LBH	final_y_s0	83.714692473854	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT LBH	final_y_s1	61.1318313573141	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT LBH	first_w_s0	32.13029175605349	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT LBH	first_w_s1	28.057847375907468	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT LBH	first_y_s0	20.496383957922415	3
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT LBH	first_y_s1	41.01793617516888	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT LBH	single_w_s0	55.66387751616693	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT LBH	single_w_s1	50.439080590288434	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT LBH	single_y_s0	87.5	2
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT LBH	single_y_s1	23.878205128205124	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Pentateuch	final_w_s0	51.97982436500132	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Pentateuch	final_w_s1	21.56609036585282	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Pentateuch	final_y_s0	81.89480040269464	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Pentateuch	final_y_s1	52.52116923302083	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Pentateuch	first_w_s0	22.045285615256926	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Pentateuch	first_w_s1	38.25448013794637	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Pentateuch	first_y_s0	23.37353748374982	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Pentateuch	first_y_s1	40.784875183553595	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Pentateuch	single_w_s0	67.62517706617786	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Pentateuch	single_w_s1	24.480372825071946	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Pentateuch	single_y_s0	48.157809322438595	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Pentateuch	single_y_s1	44.879306162552176	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT other books	final_w_s0	73.13366219047953	19
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT other books	final_w_s1	43.70137482180688	19
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT other books	final_y_s0	72.28727738504557	19
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT other books	final_y_s1	61.17519219953093	18
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT other books	first_w_s0	26.43226618392674	19
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT other books	first_w_s1	23.438346429858214	19
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT other books	first_y_s0	34.23850799364872	12
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT other books	first_y_s1	15.220023504340837	14
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT other books	single_w_s0	55.222188561642156	19
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT other books	single_w_s1	55.885045539020275	19
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT other books	single_y_s0	77.34080556930763	15
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT other books	single_y_s1	48.169101082429286	16
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	Non-QSP	final_w_s0	65.66460290119755	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	Non-QSP	final_w_s1	44.76017803025606	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	Non-QSP	final_y_s0	65	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	Non-QSP	final_y_s1	40.47619047619048	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	Non-QSP	first_w_s0	29.547875154293774	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	Non-QSP	first_w_s1	22.478835978835978	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	Non-QSP	first_y_s0	75	2
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	Non-QSP	first_y_s1	50	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	Non-QSP	single_w_s0	59.131229898620354	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	Non-QSP	single_w_s1	47.53241315781337	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	Non-QSP	single_y_s0	35	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	Non-QSP	single_y_s1	65.71428571428571	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	QSP	final_w_s0	86.41024071741128	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	QSP	final_w_s1	88.11378553792166	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	QSP	final_y_s0	81.6107453592203	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	QSP	final_y_s1	71.40148119169098	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	QSP	first_w_s0	82.65597806235156	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	QSP	first_w_s1	73.10549070531866	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	QSP	first_y_s0	6.385869565217391	4
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	QSP	first_y_s1	33.333333333333336	3
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	QSP	single_w_s0	91.16719398178931	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	QSP	single_w_s1	80.17326975839295	4
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	QSP	single_y_s0	77.38095238095238	3
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	QSP	single_y_s1	41.9281045751634	4
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	SP	final_w_s0	72.04426766053443	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	SP	final_w_s1	44.214945967633525	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	SP	final_y_s0	85.25976906123364	5
+nouns	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	SP	final_y_s1	61.12630388147602	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	SP	first_w_s0	25.246762996749077	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	SP	first_w_s1	43.47639901863052	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	SP	first_y_s0	36.625071889707016	5
+nouns	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	SP	first_y_s1	62.716789259127964	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	SP	single_w_s0	71.19498105517744	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	SP	single_w_s1	37.56787640617772	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	SP	single_y_s0	51.80568016471134	5
+nouns	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	SP	single_y_s1	46.11656637201283	5
+verbs	hiphil, no suffix	MT Former Prophets	hiphil_triliteral_s0	84.11504168256491	4
+verbs	hiphil, suffix	MT Former Prophets	hiphil_triliteral_s1	64.66729344119105	4
+verbs	qal inf. abs.	MT Former Prophets	infa_qal	62.23646723646724	4
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT Former Prophets	infc_qal_lamed_he_s0	100	4
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT Former Prophets	infc_qal_lamed_he_s1	73.99364090816898	4
+verbs	qal inf. cs.	MT Former Prophets	infc_qal_triliteral	11.647950967826752	4
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT Former Prophets	niph_hiph_pe_yod_s0	80.55784469298106	4
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT Former Prophets	niph_hiph_pe_yod_s1	80.85638927477933	4
+verbs	qal act. ptc., no suffix	MT Former Prophets	ptca_qal_s0	18.448579793201095	4
+verbs	qal act. ptc., suffix	MT Former Prophets	ptca_qal_s1	3.6827890282466895	4
+verbs	qal pass. ptc., no suffix	MT Former Prophets	ptcp_qal_s0	98.24486301369863	4
+verbs	qal pass. ptc., suffix	MT Former Prophets	ptcp_qal_s1	54.60158449832158	4
+verbs	hiphil, no suffix	MT LBH	hiphil_triliteral_s0	95.5937903056786	4
+verbs	hiphil, suffix	MT LBH	hiphil_triliteral_s1	84.3149006366871	4
+verbs	qal inf. abs.	MT LBH	infa_qal	82.96296296296296	3
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT LBH	infc_qal_lamed_he_s0	94.18393042872364	4
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT LBH	infc_qal_lamed_he_s1	35.20514603616133	2
+verbs	qal inf. cs.	MT LBH	infc_qal_triliteral	30.618011374590306	4
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT LBH	niph_hiph_pe_yod_s0	82.3888909950542	4
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT LBH	niph_hiph_pe_yod_s1	87.76171675436784	3
+verbs	qal act. ptc., no suffix	MT LBH	ptca_qal_s0	37.93757212419684	4
+verbs	qal act. ptc., suffix	MT LBH	ptca_qal_s1	13.113985097070401	4
+verbs	qal pass. ptc., no suffix	MT LBH	ptcp_qal_s0	96.37430939226519	4
+verbs	qal pass. ptc., suffix	MT LBH	ptcp_qal_s1	68.35240940100161	4
+verbs	hiphil, no suffix	MT Pentateuch	hiphil_triliteral_s0	89.64735616543894	5
+verbs	hiphil, suffix	MT Pentateuch	hiphil_triliteral_s1	60.93593833756126	5
+verbs	qal inf. abs.	MT Pentateuch	infa_qal	41.01082251082251	5
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT Pentateuch	infc_qal_lamed_he_s0	77.92525918513374	5
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT Pentateuch	infc_qal_lamed_he_s1	14.712019122919354	5
+verbs	qal inf. cs.	MT Pentateuch	infc_qal_triliteral	0.8506606021225885	5
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT Pentateuch	niph_hiph_pe_yod_s0	84.60982073412917	5
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT Pentateuch	niph_hiph_pe_yod_s1	89.31339626715844	5
+verbs	qal act. ptc., no suffix	MT Pentateuch	ptca_qal_s0	8.793183378230138	5
+verbs	qal act. ptc., suffix	MT Pentateuch	ptca_qal_s1	1.323531240319362	5
+verbs	qal pass. ptc., no suffix	MT Pentateuch	ptcp_qal_s0	92.48446559044766	5
+verbs	qal pass. ptc., suffix	MT Pentateuch	ptcp_qal_s1	50.418003453376436	5
+verbs	hiphil, no suffix	MT other books	hiphil_triliteral_s0	92.78222045459243	11
+verbs	hiphil, suffix	MT other books	hiphil_triliteral_s1	79.37012248861298	11
+verbs	qal inf. abs.	MT other books	infa_qal	59.68614718614719	11
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT other books	infc_qal_lamed_he_s0	99.52380952380952	10
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT other books	infc_qal_lamed_he_s1	53.81192467820175	6
+verbs	qal inf. cs.	MT other books	infc_qal_triliteral	22.707565825047112	11
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT other books	niph_hiph_pe_yod_s0	87.2392189193316	11
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT other books	niph_hiph_pe_yod_s1	79.15915180062588	11
+verbs	qal act. ptc., no suffix	MT other books	ptca_qal_s0	30.273168719688098	11
+verbs	qal act. ptc., suffix	MT other books	ptca_qal_s1	16.721832006276333	11
+verbs	qal pass. ptc., no suffix	MT other books	ptcp_qal_s0	92.982433519554	10
+verbs	qal pass. ptc., suffix	MT other books	ptcp_qal_s1	67.38754578754579	10
+verbs	hiphil, no suffix	Non-QSP	hiphil_triliteral_s0	97.39583333333333	1
+verbs	hiphil, suffix	Non-QSP	hiphil_triliteral_s1	86.3013698630137	1
+verbs	qal inf. abs.	Non-QSP	infa_qal	75	1
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	Non-QSP	infc_qal_lamed_he_s0	100	1
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	Non-QSP	infc_qal_lamed_he_s1	100	1
+verbs	qal inf. cs.	Non-QSP	infc_qal_triliteral	35.714285714285715	1
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	Non-QSP	niph_hiph_pe_yod_s0	92.70833333333333	1
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	Non-QSP	niph_hiph_pe_yod_s1	90.9090909090909	1
+verbs	qal act. ptc., no suffix	Non-QSP	ptca_qal_s0	76.85459940652818	1
+verbs	qal act. ptc., suffix	Non-QSP	ptca_qal_s1	28.925619834710748	1
+verbs	qal pass. ptc., no suffix	Non-QSP	ptcp_qal_s0	75	1
+verbs	qal pass. ptc., suffix	Non-QSP	ptcp_qal_s1	81.25	1
+verbs	hiphil, no suffix	QSP	hiphil_triliteral_s0	93.68759720013367	3
+verbs	hiphil, suffix	QSP	hiphil_triliteral_s1	90.57850090390767	3
+verbs	qal inf. abs.	QSP	infa_qal	82.63157894736842	3
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	QSP	infc_qal_lamed_he_s0	100	3
+verbs	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	QSP	infc_qal_lamed_he_s1	100	2
+verbs	qal inf. cs.	QSP	infc_qal_triliteral	87.63749402199905	3
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	QSP	niph_hiph_pe_yod_s0	95.30334217508802	3
+verbs	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	QSP	niph_hiph_pe_yod_s1	90.88937093275489	3
+verbs	qal act. ptc., no suffix	QSP	ptca_qal_s0	84.75757923816664	3
+verbs	qal act. ptc., suffix	QSP	ptca_qal_s1	88.4104104356484	3
+verbs	qal pass. ptc., no suffix	QSP	ptcp_qal_s0	89.25925925925925	3
+verbs	qal pass. ptc., suffix	QSP	ptcp_qal_s1	98.07692307692308	3
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Former Prophets	final_w_s0	69.70657654087566	4
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Former Prophets	final_w_s1	39.51525277773666	4
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Former Prophets	final_y_s0	69.73464722333964	4
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Former Prophets	final_y_s1	43.54333972285837	4
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Former Prophets	first_w_s0	26.679109047833332	4
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Former Prophets	first_w_s1	18.591182490295743	4
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Former Prophets	first_y_s0	36.2256049960968	4
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Former Prophets	first_y_s1	29.58239942528735	4
+combined	hiphil, no suffix	MT Former Prophets	hiphil_triliteral_s0	84.11504168256491	4
+combined	hiphil, suffix	MT Former Prophets	hiphil_triliteral_s1	64.66729344119105	4
+combined	qal inf. abs.	MT Former Prophets	infa_qal	62.23646723646724	4
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT Former Prophets	infc_qal_lamed_he_s0	100	4
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT Former Prophets	infc_qal_lamed_he_s1	73.99364090816898	4
+combined	qal inf. cs.	MT Former Prophets	infc_qal_triliteral	11.647950967826752	4
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT Former Prophets	niph_hiph_pe_yod_s0	80.55784469298106	4
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT Former Prophets	niph_hiph_pe_yod_s1	80.85638927477933	4
+combined	qal act. ptc., no suffix	MT Former Prophets	ptca_qal_s0	18.448579793201095	4
+combined	qal act. ptc., suffix	MT Former Prophets	ptca_qal_s1	3.6827890282466895	4
+combined	qal pass. ptc., no suffix	MT Former Prophets	ptcp_qal_s0	98.24486301369863	4
+combined	qal pass. ptc., suffix	MT Former Prophets	ptcp_qal_s1	54.60158449832158	4
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Former Prophets	single_w_s0	56.860176725568664	4
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Former Prophets	single_w_s1	49.440418200435445	4
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Former Prophets	single_y_s0	68.06195216407481	4
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Former Prophets	single_y_s1	64.45548508067316	4
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT LBH	final_w_s0	74.53746513056275	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT LBH	final_w_s1	47.51614947452713	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT LBH	final_y_s0	83.714692473854	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT LBH	final_y_s1	61.1318313573141	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT LBH	first_w_s0	32.13029175605349	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT LBH	first_w_s1	28.057847375907468	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT LBH	first_y_s0	20.496383957922415	3
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT LBH	first_y_s1	41.01793617516888	4
+combined	hiphil, no suffix	MT LBH	hiphil_triliteral_s0	96.47503224454287	5
+combined	hiphil, suffix	MT LBH	hiphil_triliteral_s1	87.45192050934968	5
+combined	qal inf. abs.	MT LBH	infa_qal	82.96296296296296	3
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT LBH	infc_qal_lamed_he_s0	93.34714434297891	5
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT LBH	infc_qal_lamed_he_s1	35.20514603616133	2
+combined	qal inf. cs.	MT LBH	infc_qal_triliteral	32.827742433005575	5
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT LBH	niph_hiph_pe_yod_s0	78.7682556531862	5
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT LBH	niph_hiph_pe_yod_s1	90.82128756577588	4
+combined	qal act. ptc., no suffix	MT LBH	ptca_qal_s0	34.35005769935747	5
+combined	qal act. ptc., suffix	MT LBH	ptca_qal_s1	14.24118807765632	5
+combined	qal pass. ptc., no suffix	MT LBH	ptcp_qal_s0	97.09944751381215	5
+combined	qal pass. ptc., suffix	MT LBH	ptcp_qal_s1	68.35240940100161	4
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT LBH	single_w_s0	55.66387751616693	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT LBH	single_w_s1	50.439080590288434	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT LBH	single_y_s0	87.5	2
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT LBH	single_y_s1	23.878205128205124	4
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Pentateuch	final_w_s0	51.97982436500132	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Pentateuch	final_w_s1	21.56609036585282	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Pentateuch	final_y_s0	81.89480040269464	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Pentateuch	final_y_s1	52.52116923302083	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Pentateuch	first_w_s0	22.045285615256926	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Pentateuch	first_w_s1	38.25448013794637	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Pentateuch	first_y_s0	23.37353748374982	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Pentateuch	first_y_s1	40.784875183553595	5
+combined	hiphil, no suffix	MT Pentateuch	hiphil_triliteral_s0	89.64735616543894	5
+combined	hiphil, suffix	MT Pentateuch	hiphil_triliteral_s1	60.93593833756126	5
+combined	qal inf. abs.	MT Pentateuch	infa_qal	41.01082251082251	5
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT Pentateuch	infc_qal_lamed_he_s0	77.92525918513374	5
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT Pentateuch	infc_qal_lamed_he_s1	14.712019122919354	5
+combined	qal inf. cs.	MT Pentateuch	infc_qal_triliteral	0.8506606021225885	5
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT Pentateuch	niph_hiph_pe_yod_s0	84.60982073412917	5
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT Pentateuch	niph_hiph_pe_yod_s1	89.31339626715844	5
+combined	qal act. ptc., no suffix	MT Pentateuch	ptca_qal_s0	8.793183378230138	5
+combined	qal act. ptc., suffix	MT Pentateuch	ptca_qal_s1	1.323531240319362	5
+combined	qal pass. ptc., no suffix	MT Pentateuch	ptcp_qal_s0	92.48446559044766	5
+combined	qal pass. ptc., suffix	MT Pentateuch	ptcp_qal_s1	50.418003453376436	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT Pentateuch	single_w_s0	67.62517706617786	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT Pentateuch	single_w_s1	24.480372825071946	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT Pentateuch	single_y_s0	48.157809322438595	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT Pentateuch	single_y_s1	44.879306162552176	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT other books	final_w_s0	74.89871023583068	21
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT other books	final_w_s1	43.98378356893639	21
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT other books	final_y_s0	74.92658430075551	21
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT other books	final_y_s1	57.95544524166089	19
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT other books	first_w_s0	28.821112405948146	21
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT other books	first_w_s1	24.947619558987363	21
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT other books	first_y_s0	34.23850799364872	12
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT other books	first_y_s1	15.220023504340837	14
+combined	hiphil, no suffix	MT other books	hiphil_triliteral_s0	93.02721228416904	21
+combined	hiphil, suffix	MT other books	hiphil_triliteral_s1	82.47709678050184	20
+combined	qal inf. abs.	MT other books	infa_qal	64.99255952380952	16
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	MT other books	infc_qal_lamed_he_s0	99.70238095238095	16
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	MT other books	infc_qal_lamed_he_s1	69.20794978546783	9
+combined	qal inf. cs.	MT other books	infc_qal_triliteral	15.961383425998134	20
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	MT other books	niph_hiph_pe_yod_s0	90.36288353694552	20
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	MT other books	niph_hiph_pe_yod_s1	84.71671132045898	15
+combined	qal act. ptc., no suffix	MT other books	ptca_qal_s0	34.56786713522115	20
+combined	qal act. ptc., suffix	MT other books	ptca_qal_s1	17.03657446933464	20
+combined	qal pass. ptc., no suffix	MT other books	ptcp_qal_s0	94.40143148209059	17
+combined	qal pass. ptc., suffix	MT other books	ptcp_qal_s1	66.11032105149752	17
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	MT other books	single_w_s0	55.87606699271548	21
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	MT other books	single_w_s1	55.744733078721424	21
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	MT other books	single_y_s0	72.50700522122591	16
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	MT other books	single_y_s1	45.33562454816874	17
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	Non-QSP	final_w_s0	74.50148690741356	14
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	Non-QSP	final_w_s1	43.100290339603916	14
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	Non-QSP	final_y_s0	82.73809523809524	14
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	Non-QSP	final_y_s1	31.684981684981686	13
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	Non-QSP	first_w_s0	35.64679751751093	14
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	Non-QSP	first_w_s1	31.031704952512406	14
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	Non-QSP	first_y_s0	50	3
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	Non-QSP	first_y_s1	40	5
+combined	hiphil, no suffix	Non-QSP	hiphil_triliteral_s0	88.39414953326244	13
+combined	hiphil, suffix	Non-QSP	hiphil_triliteral_s1	85.52511415525115	12
+combined	qal inf. abs.	Non-QSP	infa_qal	51.333333333333336	10
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	Non-QSP	infc_qal_lamed_he_s0	100	11
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	Non-QSP	infc_qal_lamed_he_s1	80	5
+combined	qal inf. cs.	Non-QSP	infc_qal_triliteral	29.636316064887495	14
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	Non-QSP	niph_hiph_pe_yod_s0	93.02884615384616	13
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	Non-QSP	niph_hiph_pe_yod_s1	69.6969696969697	8
+combined	qal act. ptc., no suffix	Non-QSP	ptca_qal_s0	34.8123433349601	14
+combined	qal act. ptc., suffix	Non-QSP	ptca_qal_s1	22.008085154938303	13
+combined	qal pass. ptc., no suffix	Non-QSP	ptcp_qal_s0	95	10
+combined	qal pass. ptc., suffix	Non-QSP	ptcp_qal_s1	83.03571428571429	7
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	Non-QSP	single_w_s0	49.423059362191125	14
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	Non-QSP	single_w_s1	46.37215763667708	14
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	Non-QSP	single_y_s0	46.875	8
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	Non-QSP	single_y_s1	48.05194805194805	11
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	QSP	final_w_s0	86.9059703517068	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	QSP	final_w_s1	89.06245700176589	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	QSP	final_y_s0	78.62192962070958	5
+combined	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	QSP	final_y_s1	70.45451828668612	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	QSP	first_w_s0	80.41049673559554	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	QSP	first_w_s1	70.48439256425493	5
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	QSP	first_y_s0	6.385869565217391	4
+combined	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	QSP	first_y_s1	33.333333333333336	3
+combined	hiphil, no suffix	QSP	hiphil_triliteral_s0	96.21255832008019	5
+combined	hiphil, suffix	QSP	hiphil_triliteral_s1	92.93387567793076	4
+combined	qal inf. abs.	QSP	infa_qal	89.57894736842105	5
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	QSP	infc_qal_lamed_he_s0	100	5
+combined	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	QSP	infc_qal_lamed_he_s1	100	2
+combined	qal inf. cs.	QSP	infc_qal_triliteral	92.58249641319942	5
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	QSP	niph_hiph_pe_yod_s0	97.18200530505281	5
+combined	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	QSP	niph_hiph_pe_yod_s1	90.88937093275489	3
+combined	qal act. ptc., no suffix	QSP	ptca_qal_s0	87.18788087623332	5
+combined	qal act. ptc., suffix	QSP	ptca_qal_s1	90.54624626138904	5
+combined	qal pass. ptc., no suffix	QSP	ptcp_qal_s0	93.55555555555556	5
+combined	qal pass. ptc., suffix	QSP	ptcp_qal_s1	98.5576923076923	4
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	QSP	single_w_s0	92.93375518543145	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	QSP	single_w_s1	84.13861580671436	5
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	QSP	single_y_s0	70.53571428571429	4
+combined	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	QSP	single_y_s1	53.54248366013072	5

@@ -73,6 +73,23 @@
 #   - Robustness fit of M7_iii_h without ZNH[ (section 3d; 5674 forms): iii_h
 #     0.25 [-0.13, 0.64], pd 0.902, so it is no longer credible. The ל״ה effect is a lexeme
 #     effect of זנה (rule 3(i)); M7 stays the final model.
+#
+# CHANGES 2026-11-10 (author: chapter 9 figures like chapter 8):
+#   - The book figures by document group use corpus_group, with the non-QSP
+#     scrolls as one group (column fig_group, labelled 'MT Other'), instead
+#     of law_phase3 (non-QSP split by group of books), as the models and the
+#     figures of chapter 8. The filters and captions for Non-QSP LBH are gone.
+#
+# CHANGES 2026-11-11 (author: Fig. 9.7 baseline only):
+#   - fig_ptca_predicted (Fig. 9.7) shows only the baseline (no suffix or
+#     ending, no prefix, not I-yod or ayin-ayin) per corpus group; the suffix
+#     and prefix effects are in Figs. 9.8 and 9.9. table_ptca_predicted.csv
+#     is unchanged (all combinations).
+#
+# CHANGES 2026-11-11 (chapter 7 harmonisation):
+#   - Section 6 (teaching demo) is superseded by
+#     analysis/ch07_regression_illustrations/figures_ch07.R (book priors, median and
+#     equal-tailed intervals, one fit for Figs. 7.4 and 7.5b); kept for reference.
 ################################################################################
 
 
@@ -225,6 +242,10 @@ table(dat$prefix_type, dat$corpus)
 
 # ==== 2. EXPLORATORY ANALYSIS ====
 
+# Document groups of the book figures: corpus_group, the non-QSP scrolls as
+# one group (author, 2026-11-10), labelled as in the book.
+dat$fig_group <- fct_recode(dat$corpus_group, 'MT Other' = 'MT other books')
+
 suffix_label <- function(has_suffix) factor(if_else(has_suffix == 1, 'With suffix or ending',
                                                     'Without suffix or ending'),
                                             levels = c('Without suffix or ending',
@@ -251,24 +272,23 @@ groups_phase3
 write_csv(groups_phase3, file.path(IMAGE_FOLDER, 'table_ptca_groups_law_phase3.csv'))
 
 # ---- 2a2. Book figures by document group (Figs. 9.1-9.6) ----
-# The book's document groups (law_phase3, the non-QSP scrolls split by group
-# of books), as in the other sections of the book; descriptive only (the
-# models use corpus_group). Non-QSP LBH has 7 forms.
+# The document groups of the models (fig_group = corpus_group, the non-QSP
+# scrolls as one group), as in chapter 8 (author, 2026-11-10).
 
-groups_all <- groups_phase3 |> mutate(row = fct_rev(law_phase3))
+groups_all <- shares_by(dat, fig_group) |> mutate(row = fct_rev(fig_group))
 p <- plot_shares(groups_all)
 p
-save_book_figure(p, 'fig_ptca_groups_all', height = 8)
+save_book_figure(p, 'fig_ptca_groups_all', height = 7)
 
 group_split <- function(var, labels, name) {
-  tab <- shares_by(dat, law_phase3, value = .data[[var]]) |>
-    mutate(row = fct_rev(law_phase3),
+  tab <- shares_by(dat, fig_group, value = .data[[var]]) |>
+    mutate(row = fct_rev(fig_group),
            split = factor(labels[as.character(value)], levels = labels))
   write_csv(md_to_csv(select(tab, -row)), file.path(IMAGE_FOLDER, paste0('table_', name, '.csv')))
   p <- plot_shares(tab, colour_var = 'split', dodge_width = 0.6,
                    colours = c(BOOK_BLUE, BOOK_ORANGE)) +
     markdown_legend()
-  save_book_figure(p, name, height = 13)
+  save_book_figure(p, name, height = 9)
   tab
 }
 group_split('has_suffix', c('0' = 'Without suffix or ending', '1' = 'With suffix or ending'),
@@ -760,8 +780,9 @@ save_book_figure(p, 'fig_ptca_effect_ayay', height = 7)
 
 # ---- 4c. Predicted probability of full spelling ----
 # Population level (re_formula = NA): a typical scroll-book and lexeme, not a
-# ayin-ayin verb. Table: with and without suffix, prefix and I-yod; figure:
-# suffix x prefix for other verbs.
+# ayin-ayin verb. Table: with and without suffix, prefix and I-yod; figure
+# (Fig. 9.7): the baseline only, no suffix, no prefix, other verbs (author,
+# 2026-11-11; the suffix and prefix effects are Figs. 9.8 and 9.9).
 
 newdata <- expand_grid(corpus_group = factor(CORPUS_GROUPS, levels = CORPUS_GROUPS),
                        has_suffix = factor(c('0', '1'), levels = levels(dat$has_suffix)),
@@ -782,24 +803,20 @@ predicted
 write_csv(predicted, file.path(IMAGE_FOLDER, 'table_ptca_predicted.csv'))
 
 p <- predicted |>
-  filter(i_yod == '0') |>
+  filter(has_suffix == '0', has_prefix == '0', i_yod == '0') |>
   mutate(corpus_group = fct_recode(corpus_group, 'MT Other' = 'MT other books')) |>
-  ggplot(aes(y = corpus_group, x = .epred, xmin = .lower, xmax = .upper, colour = suffix_lab)) +
+  ggplot(aes(y = corpus_group, x = .epred, xmin = .lower, xmax = .upper)) +
   geom_pointinterval(point_size = 2.5, interval_size_range = c(0.8, 2),
-                     position = position_dodge(width = 0.6)) +
-  facet_wrap(~ prefix_lab) +
-  scale_colour_manual(values = c(BOOK_BLUE, BOOK_ORANGE),
-                      guide = guide_legend(reverse = TRUE)) +
+                     colour = BOOK_BLUE) +
   scale_x_continuous(limits = c(0, 1), breaks = seq(0, 1, 0.25),
                      labels = scales::percent) +
-  labs(x = 'Predicted probability of full spelling', y = NULL, colour = NULL,
-       caption = paste0(OR_CAPTION, '<br>Typical document and lexeme; not a ', heb_md('פ״ו'),
-                        ' or ', heb_md('ע״ע'), ' verb.')) +
+  labs(x = 'Predicted probability of full spelling', y = NULL,
+       caption = paste0(OR_CAPTION, '<br>Typical document and lexeme; no suffix or ending, ',
+                        'no prefix; not a ', heb_md('פ״ו'), ' or ', heb_md('ע״ע'), ' verb.')) +
   theme_book() +
-  theme(panel.spacing.x = unit(0.8, 'cm')) +
   markdown_caption()
 p
-save_book_figure(p, 'fig_ptca_predicted', height = 9)
+save_book_figure(p, 'fig_ptca_predicted', height = 7)
 
 # ---- 4d. Robustness and prior sensitivity ----
 # The key effects in M7, in M6 (with corpus_group x ay_ay), in M6 without

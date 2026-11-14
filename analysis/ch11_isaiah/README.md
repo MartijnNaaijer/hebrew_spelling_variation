@@ -12,6 +12,9 @@ models). It reads the cleaned chapter 8–9 datasets (`../ch10_clustering/data`,
 `../ch10_clustering/export_cleaned_data.R`) and the files in `data/` for the consonantal forms and the
 hiphil MT match.
 
+`Rscript analysis/ch11_isaiah/isaiah_followup.R` (after `isaiah_analysis.R`) runs the checks of 2026-11-13
+described in the last section; it fits its models once into the same folder.
+
 ## Method (decisions of 2026-11-03)
 
 - Data: the Isaiah forms of the 13 features of Chapters 8–9; 1QIsaᵃ in two parts (Isaiah 1–33, 34–66).
@@ -28,7 +31,8 @@ hiphil MT match.
   manuscript whose forms are all full or all defective are flagged (`small`, `separated`) and not counted
   as credible.
 - Parallels: the same lexeme in the same verse, paired by occurrence; the hiphil by the stored MT match
-  (as in chapter 9).
+  (as in chapter 9). Since 2026-11-13 an exact two-sided sign test (binomial, p = 0.5) on the parallels
+  that differ (scroll fuller against MT fuller): column `p_sign` of `results/parallels.tsv`.
 
 ## Output
 
@@ -37,6 +41,7 @@ hiphil MT match.
 - `results/suffix_contrasts.tsv`: final-syllable and monosyllabic ו, contrast with MT per suffix status.
 - `results/parallels.tsv`, `results/parallel_lists/<feature>.tsv`: parallel counts and the differing parallels.
 - `results/mt_shares.tsv`, `results/forms_per_manuscript.tsv`, `results/convergence.tsv`.
+- `results/followup_*.tsv`: the checks of `isaiah_followup.R` (last section).
 - `figures/fig_ch11_mt_shares` (Figure 11.1; the figures are not in the repository), `fig_ch11_<feature>` (one per feature),
   `fig_ch11_<final_w|single_w>_suffix`.
 
@@ -56,3 +61,23 @@ otherwise as before (numbered after the cleaning). Before, a reconstructed earli
 cleaning, shifted the pairing. Changes (`ISA_ONLY_DATA=1`): final_w 1Q8 89/75/6/18 (was 90/75/5/18; Isa 49:7
 1Q8 קדוש against MT קדש, scroll fuller) and infa_qal 4Q57 Isa 22:13 both full (was scroll fuller). Self-test
 updated; Table 11.3 of the book follows the new pairing.
+
+## Checks of 2026-11-13 (`isaiah_followup.R`)
+
+All fits converged (max Rhat ≤ 1.007, no divergences).
+
+- **Part II − Part I of 1QIsaᵃ** (stored models, no refit): `results/followup_part2_minus_part1.tsv`. Credible
+  for all five features with credible QSP contrasts: final_w 1.13 [0.52, 1.78] (interaction model: suffixed
+  1.21 [0.25, 2.16], unsuffixed 0.16 [−0.76, 1.09]), single_w 1.88, first_w 2.08, ptca_qal 1.04,
+  infc_qal_triliteral 1.90 [0.57, 3.43]. Not credible for the other features.
+- **Prior sensitivity:** the 13 main and 2 interaction models refitted with `book_priors(2.5)`, the priors of
+  chapters 8–9 (`isa_p25_*.rds`): `results/followup_prior_sensitivity[_suffix].tsv`. Of 65 contrasts, none
+  changes classification; only the flagged infa_qal 1QIsaᵃ Part II (10 forms) gets an interval that excludes
+  zero.
+- **Paired model on the parallels:** `has_vowel_letter ~ witness + (1 | lex) + (1 | pair)` per feature, one
+  pair per scroll form (the MT form repeated for every scroll it is paired with), manuscripts with at least
+  6 parallels; final_w and single_w also `witness * has_suffix` (`isa_pair_*.rds`):
+  `results/followup_paired[_suffix].tsv`. With contrasts on fewer than 20 parallels flagged, exactly the same
+  credible contrasts as the main models. 4Q58 final_w −2.25 [−3.56, −0.90], but all five differing parallels
+  go in one direction, so the size of the estimate depends on the prior. The suffix-specific results for 1Q8
+  are confirmed.
