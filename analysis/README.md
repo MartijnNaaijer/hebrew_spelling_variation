@@ -66,10 +66,32 @@ some DSS forms after most models of chapters 8 and 9 had been fitted (on the dat
 
 The descriptive tables in `figures/` are computed from the v1.2.0 data.
 
+### Choice of the final model (chapters 8 and 9)
+
+The final models contain only credible effects (author's decision, 2026-10-10). Fuller models are described in
+the REPORT files with the reason why they were not chosen; effects left out are reported as "no credible
+effect" with their estimates from the comparison models. Comments and REPORT files call these the
+credible-effects rules:
+
+1. Credible = the 95% interval excludes 0 (pd ≥ 0.975), and the grouped k-fold cross-validation does not
+   clearly prefer a fuller model.
+2. Factors with several levels (e.g. the document group): the factor is kept if at least one level is
+   credible, and all levels are reported with their intervals.
+3. A credible effect goes into the final model, even without a gain in the k-fold, unless (i) it rests on
+   one or a few lexemes (it disappears in the robustness check without them; it is then reported as a
+   lexeme effect), or (ii) it is a proxy for another variable in the model (e.g. the prefix ו for the
+   wayyiqtol).
+4. If a credible effect in the final model brings no clear gain in the grouped k-fold, the REPORT discusses
+   this: the effect is credible but does not predict new books better, why (small effect, few forms or
+   books, large variation between books or lexemes), and what that means for the conclusion. For each final
+   model, the k-fold comparison with the model without each of its effects is reported.
+
+MT Pentateuch is the reference level of `corpus_group` in every model.
+
 ### Notes in the code
 
 Comments and REPORT files refer to decisions of the author with dates, and sometimes to working notes
-(`TODO.md`, `CLAUDE.md`, `BOOK_CHANGES_*.md`, `KFOLD_ISSUE.md`) and earlier scripts (`*_cleaned.R`) that are
+(`TODO.md`, `BOOK_CHANGES_*.md`, `KFOLD_ISSUE.md`) and earlier scripts (`*_cleaned.R`) that are
 not in the repository. The decisions themselves are described in the comments and REPORT files.
 
 ## Software

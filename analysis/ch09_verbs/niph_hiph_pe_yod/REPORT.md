@@ -109,7 +109,7 @@ Unlike the infinitives, the MT is here more often fuller than the non-QSP scroll
 | M1p | M1 + prefix (`has_prefix`; check model) |
 
 - **Model comparison:** grouped 5-fold cross-validation, with whole scroll-books left out per fold.
-- **Rules for the final model** (author, 2026-10-10; `analysis_verbs/CLAUDE.md`):
+- **Rules for the final model** (author, 2026-10-10; `analysis/README.md`):
   1. Credible effect = 95% interval excludes 0.
   2. A factor stays in if at least one level is credible.
   3. A credible effect goes in, unless (i) it rests on one or a few lexemes, or (ii) it is a proxy for another variable.

@@ -192,7 +192,7 @@ write_csv(book_parallels, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_book_p
 
 # ==== 3. DATA MODELLING ====
 #
-# Design as in the verbs (../CLAUDE.md; author, 2026-10-19):
+# Design as in the verbs (analysis/README.md; author, 2026-10-19):
 #   - Random part nested: (1 | scr_book2/lex).
 #   - corpus_group with MT Pentateuch as reference; SP its own level.
 #   - Priors normal(0, 2.5) on intercept and coefficients, exponential(1) on
@@ -293,7 +293,7 @@ robustness_specs <- list(
 walk(robustness_specs, \(r) ensure_noun_model(r$file, r$formula, r$data))
 
 # ---- 3e. Final model ----
-# Chosen after the k-fold with the credible-effects rules (../CLAUDE.md):
+# Chosen after the k-fold with the credible-effects rules (analysis/README.md):
 # only credible effects (95% interval excludes 0) that the k-fold does not
 # clearly reject; see REPORT.md.
 

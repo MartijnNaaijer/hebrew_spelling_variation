@@ -18,7 +18,7 @@
 # Status (2026-10-17): rebuilt on the design of infc_qal_triliteral and
 # infc_qal_lamed_he; all models fitted 2026-10-10 on the old data, refit on
 # the data of 2026-10-16 approved 2026-10-17 (see REPORT.md). Final model
-# M7 (2026-10-11): only credible effects (../CLAUDE.md); the non-QSP long
+# M7 (2026-10-11): only credible effects (analysis/README.md); the non-QSP long
 # ending (not credible) and the prefix (rests on PQD[) are reported in
 # fig_ptcp_effects_not_in_final_model.
 #
@@ -160,7 +160,7 @@ dat$book_group <- factor(case_when(dat$book %in% LAW_BOOKS ~ 'Pentateuch',
                          levels = c('Pentateuch', 'Former Prophets', 'LBH', 'Other'))
 
 # Corpus group (6 levels), as in the other verb forms. Reference level: MT
-# Pentateuch (../CLAUDE.md; switched in the refit of 2026-10-17).
+# Pentateuch (analysis/README.md; switched in the refit of 2026-10-17).
 dat$corpus_group <- factor(case_when(dat$corpus == 'MT' & dat$book_group == 'Other' ~ 'MT other books',
                                      dat$corpus == 'MT' ~ paste('MT', dat$book_group),
                                      TRUE ~ as.character(dat$corpus)),
@@ -398,7 +398,7 @@ write_csv(lexemes, file.path(IMAGE_FOLDER, 'table_ptcp_lexemes.csv'))
 #     corpus x long ending; M5 M4 + ע-ע + ל-ה (expected final); M5a M3 + ע-ע +
 #     ל-ה (M5 without the corpus x ending dummies); M6 M5 + prefix; m19 (old
 #     final model) for comparison; M7 M5 without nonqsp_long (final model,
-#     2026-10-11, credible-effects rules in ../CLAUDE.md) and M7 without each
+#     2026-10-11, credible-effects rules in analysis/README.md) and M7 without each
 #     of its effects (drop-one k-fold, rule 4). S1 and S1x (2026-10-14): the
 #     book's has_suffix (any ending or suffix) instead of ending + qsp_long,
 #     additive (S1) and with a corpus group x suffix interaction (S1x).
@@ -542,7 +542,7 @@ walk(robustness_specs, function(r) {
 # grouped k-fold (M5 -0.8, SE 0.6; M6 -1.7, SE 2.6). S1x vs M7 -50.7 (SE
 # 8.4), S1 vs M7 -51.8 (8.3), S1x vs S1 +1.1 (3.2). In S1x (reference MT
 # Pentateuch) only QSP x suffix is credible (+3.01, 95% 0.31 to 5.74, pd
-# 0.985). M7 (2026-10-11, credible-effects rules in ../CLAUDE.md): M5
+# 0.985). M7 (2026-10-11, credible-effects rules in analysis/README.md): M5
 # without nonqsp_long (-0.40, pd 0.64, rule 1). The prefix of M6 (-1.00, pd
 # 0.997) is not included: without PQD[ it halves and is no longer credible
 # (-0.51, -1.31 to 0.28, pd 0.90; rule 3(i)). Drop-one k-fold: ending -113.3

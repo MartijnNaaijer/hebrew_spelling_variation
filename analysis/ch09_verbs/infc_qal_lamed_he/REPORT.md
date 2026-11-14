@@ -109,7 +109,7 @@ prefix and the prefix B).
 | M4p without corpus group | suffix + prefix in the MT Pentateuch (drop-one) |
 | M4p without suffix | corpus group + prefix in the MT Pentateuch (drop-one); M4p without `pent_prefix` is M3 |
 
-- **Final model rule** (author, 2026-10-10; `../CLAUDE.md`): the final model
+- **Final model rule** (author, 2026-10-10; `analysis/README.md`): the final model
   contains only credible effects (95% interval excludes 0, pd ≥ 0.975),
   unless the effect rests on one or a few lexemes or is a proxy for another
   variable. For a factor, one credible level suffices.

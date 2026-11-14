@@ -134,7 +134,7 @@ No model is clearly better than another.
 
 - **Only credible effects:** the QSP scrolls vs the MT Pentateuch (pd 0.998) keep the corpus-group factor (rule 2), and all its levels are reported; ע-ע has pd 0.993.
 - **Prefix left out:** no credible effect (M4: −0.27, −1.02 to 0.47, pd 0.77), and the k-fold is against it.
-- **infa7 not chosen:** it predicts as well (−0.7, SE 2.5), but it merges the MT groups, and the MT LBH is borderline fuller than the Pentateuch (pd 0.966; credible with prior sd 4 and without 1QIsaa). The data do not clearly show "no difference" within the MT, so the harmonised corpus groups stay (`../CLAUDE.md`).
+- **infa7 not chosen:** it predicts as well (−0.7, SE 2.5), but it merges the MT groups, and the MT LBH is borderline fuller than the Pentateuch (pd 0.966; credible with prior sd 4 and without 1QIsaa). The data do not clearly show "no difference" within the MT, so the harmonised corpus groups stay (`analysis/README.md`).
 
 ### Effects
 

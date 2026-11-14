@@ -85,7 +85,7 @@ credible = pd ≥ 0.975. Reference levels: MT Pentateuch, no suffix, no prefix.
   sd(scr_book2).
 - Grouped 5-fold k-fold: every scroll-book is left out as a whole. No Bayes
   factors.
-- Final model chosen by the credible-effects rules (`../CLAUDE.md`) and the
+- Final model chosen by the credible-effects rules (`analysis/README.md`) and the
   author's decision on non-QSP × suffix.
 
 ## Model comparison

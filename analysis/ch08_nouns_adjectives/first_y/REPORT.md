@@ -79,7 +79,7 @@ credible = pd ≥ 0.975. Reference levels: MT Pentateuch, no suffix, no prefix.
 - Sampler: 4 chains, warmup 1000 / 3000 iterations (8000 draws).
 - Grouped 5-fold k-fold: every scroll-book is left out as a whole. No Bayes
   factors.
-- Final model chosen by the credible-effects rules (`../CLAUDE.md`).
+- Final model chosen by the credible-effects rules (`analysis/README.md`).
 
 ## Model comparison
 

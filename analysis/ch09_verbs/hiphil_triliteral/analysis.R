@@ -15,7 +15,7 @@
 #      groups of books differ in this (in particular the wayyiqtol)?
 #
 # Status (2026-10-18): rebuilt on the design of the other verb forms
-# (../CLAUDE.md); model set approved by the author (2026-10-15). Final model
+# (analysis/README.md); model set approved by the author (2026-10-15). Final model
 # M7 = corpus_group * vt + corpus_group * has_suffix (author, 2026-10-18).
 # Stored: full fits of M0-M7, n9v2, the prior-only fit, all k-folds (run of
 # 2026-10-17/18) and the robustness fits M7_no_1QIsaa and M7_no_NGD. The
@@ -39,7 +39,7 @@
 #   - has_suffix as in the book (pronominal suffix, nominal ending or
 #     paragogic nun); suffix types only descriptive.
 #   - Prefix not modelled: outside the wayyiqtol (which always has W) the
-#     prefix makes no difference (rule 3(ii) in ../CLAUDE.md); descriptive
+#     prefix makes no difference (rule 3(ii) in analysis/README.md); descriptive
 #     figure only.
 #   - First letter not modelled (proxy for tense and person); verb classes not
 #     modelled (no ע-ע or ל-ה verbs; I-nun 90% vs 88%; I-yod is one lexeme).
@@ -431,7 +431,7 @@ table(dat_non_hireq$vt, dat_non_hireq$has_vowel_letter)
 #   - Priors normal(0, 2.5), exponential(1) on the SDs; prior sensitivity by
 #     refitting the final model with sd 1.5 and 4.
 #   - Model choice by grouped 5-fold k-fold and the credible-effects rules
-#     (../CLAUDE.md); no Bayes factors.
+#     (analysis/README.md); no Bayes factors.
 #   - Models: M0 null; M1 corpus; M2 corpus_group; M3 M2 + vt; M4 M3 +
 #     has_suffix; M5 M4 + corpus_group x has_suffix; M6 M4 + corpus_group x vt;
 #     M7 M4 + both interactions; n9v2 (old final model) for comparison.

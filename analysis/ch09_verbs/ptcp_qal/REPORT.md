@@ -3,7 +3,7 @@
 *2026-10-09. Script: `ptcp_qal/analysis.R`. Figures and tables:
 `ptcp_qal/figures/`. Design approved by the author on 2026-10-09; models
 fitted 2026-10-10; final model M7 (2026-10-11), chosen under the
-credible-effects rules in `../CLAUDE.md`, and kept over S1x after the refit
+credible-effects rules in `analysis/README.md`, and kept over S1x after the refit
 (author, 2026-10-18). Sections reordered 2026-10-17 (harmonisation,
 `../TODO.md` section 13); Bayes factors removed.*
 
@@ -148,7 +148,7 @@ however, the prefix effect shrinks without PQD[ and is no longer credible
 | M7 without X | M7 without one of its five effects (drop-one comparison) |
 | S1, S1x | corpus group + / × has_suffix (two values) + ע-ע + ל-ה (the book's variable; 2026-10-14) |
 
-- **Final model rule** (author, 2026-10-10; `../CLAUDE.md`): the final model
+- **Final model rule** (author, 2026-10-10; `analysis/README.md`): the final model
   contains only credible effects (95% interval excludes 0, pd ≥ 0.975),
   unless the effect rests on one or a few lexemes or is a proxy for another
   variable. For a factor, one credible level suffices.

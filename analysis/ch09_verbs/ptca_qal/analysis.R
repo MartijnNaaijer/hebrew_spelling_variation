@@ -20,7 +20,7 @@
 #           + (1 | scr_book2/lex) (author, 2026-10-17). Results: REPORT.md.
 #
 # Status (2026-10-17): rebuilt on the design of the other verb forms
-# (../CLAUDE.md); model set approved by the author (2026-10-16); all models,
+# (analysis/README.md); model set approved by the author (2026-10-16); all models,
 # k-folds, drop-one and prior fits stored (runs of 2026-10-16/17); sections
 # 4 and 5 written 2026-10-17.
 #
@@ -462,7 +462,7 @@ save_book_figure(p, 'fig_ptca_parallel_passages', height = 6)
 #   - Priors normal(0, 2.5), exponential(1) on the SDs; prior sensitivity by
 #     refitting the final model with sd 1.5 and 4.
 #   - Model choice by grouped 5-fold k-fold and the credible-effects rules
-#     (../CLAUDE.md); no Bayes factors.
+#     (analysis/README.md); no Bayes factors.
 #   - Models: M0 null; M1 corpus; M2 corpus_group; M3 M2 + suffix + prefix +
 #     I-yod + ayin-ayin; M4 M3 + corpus_group x suffix; M5 M4 + corpus_group
 #     x prefix; M6 M5 + corpus_group x I-yod + corpus_group x ayin-ayin; M3n

@@ -10,7 +10,7 @@
 #   2. Do the late books (LBH) spell more fully?
 #   3. Do ayin-ayin (ע-ע) verbs and forms with a prefix behave differently?
 #
-# Design decisions (2026-10-08, see ../TODO.md and ../CLAUDE.md; priors,
+# Design decisions (2026-10-08, see ../TODO.md and analysis/README.md; priors,
 # folds and model set replaced on 2026-10-17, see CHANGES 2026-10-17):
 #   - Random part always nested: (1 | scr_book2/lex).
 #   - Weakly informative priors: normal(0, 1.5) on intercept and coefficients,
@@ -31,7 +31,7 @@
 #
 # CHANGES 2026-10-10:
 #   - Final model M3 -> M3b (corpus + ayin-ayin): final models contain only
-#     credible effects (../CLAUDE.md). New models M3b and A1 (for the k-fold
+#     credible effects (analysis/README.md). New models M3b and A1 (for the k-fold
 #     comparison without corpus); robustness and prior sensitivity on M3b.
 #   - Intervals in the figures: median_qi instead of median_hdi (the HDI is
 #     unstable for probabilities near 0 and 1; as in the other verb forms).

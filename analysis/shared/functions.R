@@ -984,7 +984,7 @@ parallel_forms_matched <- function(dataset, mt_forms = dataset) {
 ################################################################################
 # DROP-ONE COMPARISON FOR FINAL MODELS (added 2026-10-11)
 #
-# Credible-effects rule 4 (CLAUDE.md): for each final model, report the grouped
+# Credible-effects rule 4 (analysis/README.md): for each final model, report the grouped
 # k-fold comparison with the model without each of its effects.
 #   - drop_one_formulas(): one formula per left-out term, named
 #     '<final_id>_no_<term>'. Reuse an existing model instead when it is the
@@ -1024,7 +1024,7 @@ drop_one_kfold_table <- function(kfolds, final_id, reduced) {
 #   - plot_or(): odds-ratio plot of a summarise_effects() table.
 #   - effects_not_in_final_model(): effects left out of the final model are
 #     reported as "no credible effect" with their estimates from the comparison
-#     models (CLAUDE.md). `specs` is a tibble with columns label, file (stored
+#     models (analysis/README.md). `specs` is a tibble with columns label, file (stored
 #     model) and parameter (e.g. 'b_has_prefix1').
 #   - plot_effects_not_in_final_model(): plot_or() in grey.
 ################################################################################

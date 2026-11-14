@@ -100,7 +100,7 @@ credible = pd ≥ 0.975. Reference levels: MT Pentateuch, no suffix, no prefix.
 - Grouped 5-fold k-fold: every scroll-book is left out as a whole. As a check
   (`../KFOLD_ISSUE.md`, option (c)), an ordinary 5-fold over forms,
   stratified by scroll-book × lexeme, for M2, M3 and M6. No Bayes factors.
-- Final model chosen by the credible-effects rules (`../CLAUDE.md`) and the
+- Final model chosen by the credible-effects rules (`analysis/README.md`) and the
   author's decision of 2026-10-28.
 
 ## Model comparison

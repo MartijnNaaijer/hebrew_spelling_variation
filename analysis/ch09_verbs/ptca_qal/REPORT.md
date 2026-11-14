@@ -117,7 +117,7 @@ Shares of full spelling (tables `table_ptca_groups.csv`, `_suffix`,
 - Model comparison by grouped 5-fold k-fold: every scroll-book is left out as
   a whole, so the k-fold asks how well a model predicts the spelling in a
   book it has not seen. No Bayes factors.
-- Final model by the credible-effects rules (`../CLAUDE.md`).
+- Final model by the credible-effects rules (`analysis/README.md`).
 
 ## Model comparison
 

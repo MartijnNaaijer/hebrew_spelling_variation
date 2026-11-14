@@ -2,8 +2,7 @@
 # Chapter 12: block spelling and rapid alternation (2026-11-03)
 #
 # Replaces the earlier notebook block_spelling_and_rapid_alternation.ipynb (removed)
-# (hebrew_spelling_variation). Decisions: Claude doc "Chapter 12 revision: block
-# spelling and rapid alternation" (author, 2026-11-03):
+# Decisions of the author (2026-11-03):
 #   1. Main null model: the spellings are shuffled within each lexeme x suffix
 #      status in a book (stratified permutation). Free shuffling is reported as
 #      the descriptive baseline.
