@@ -12,7 +12,8 @@
 #
 # Run from the repository root, after sequence_analysis.R:
 #   Rscript analysis/ch12_sequences/chronicles_precision.R   (a few minutes)
-# Output: results/chronicles_precision.tsv
+# Output: results/chronicles_precision.tsv, and Figure 12.3
+#         (figures/fig_ch12_ptca_qal_books) redrawn with these corrected p-values for Chronicles.
 ################################################################################
 
 suppressMessages(source('analysis/ch12_sequences/sequence_analysis.R'))   # definitions only (main block is skipped)
@@ -63,3 +64,10 @@ out <- tibble(
   p_corrected_main_run = c(old$strat_q, old$model_q))
 write_tsv(out, file.path(RES, 'chronicles_precision.tsv'))
 print(as.data.frame(out))
+
+# Figure 12.3 with the corrected p-values of this run for Chronicles (orange = significant after
+# correction); all other books as in the main run. Same size as in sequence_analysis.R.
+uf <- read_tsv(file.path(RES, 'units.tsv'), show_col_types = FALSE) |> filter(feature == FEATURE) |>
+  mutate(strat_q = if_else(corpus == 'MT' & unit == UNIT, out$p_corrected[1], strat_q),
+         model_q = if_else(corpus == 'MT' & unit == UNIT, out$p_corrected[2], model_q))
+save_fig(books_plot(uf), paste0('fig_ch12_', FEATURE, '_books'), 15.8, max(8, 0.42 * sum(uf$corpus == 'MT') + 3))

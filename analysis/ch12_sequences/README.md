@@ -13,7 +13,10 @@ From the repository root, in this order:
    test). It reads the cleaned chapter 8–9 datasets exported by `../ch10_clustering/export_cleaned_data.R`
    (run that first) and writes `results/` and `figures/` (the figures are not in the repository).
 3. `Rscript analysis/ch12_sequences/chronicles_precision.R`: Chronicles with 1,000,000 permutations
-   (see the last section).
+   (see the last section); it also redraws Figure 12.3 with these values for Chronicles. If step 2 is
+   repeated, repeat this step too, or Figure 12.3 shows the Chronicles values of the main run.
+4. Optional: `Rscript analysis/ch12_sequences/redraw_books_figures.R` redraws Figures 12.3 and 12.6 from
+   the stored results (no permutations), e.g. after a change of the figure code.
 
 ## Method (decisions of 2026-11-03)
 
@@ -78,3 +81,11 @@ p = 0.00036 (Monte Carlo 95% interval 0.00032–0.00039), corrected p = 0.021; m
 corrected p = 0.013 (33 books). Chronicles is therefore significant after correction under both nulls that
 take the lexeme into account; the value of the main run was high by chance. No other book is near the
 threshold (next smallest corrected p 0.51 and 0.64).
+
+## Figure captions (2026-11-14)
+
+The caption of the book figures (Figures 12.3 and 12.6) now states the rule for books without a filled
+circle as the code applies it: exchanging the spellings within lexeme and suffix status cannot alter the
+number of changes. In Lamentations, Malachi, Esther, Kings and Numbers some lexemes have both spellings
+in the same suffix status (`exchangeable` > 0), but no exchange alters the number of changes. Figures
+redrawn with `redraw_books_figures.R`; no results changed.

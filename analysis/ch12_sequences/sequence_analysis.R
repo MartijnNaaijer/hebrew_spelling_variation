@@ -306,7 +306,7 @@ books_plot <- function(res) {
   di <- filter(d, strat_informative)
   n_un <- sum(!d$strat_informative)
   cap <- paste0('Open: free shuffling. Filled: shuffling within lexeme and suffix status',
-                if (n_un) ' (no filled circle: no lexeme has both spellings with the same suffix status)' else '',
+                if (n_un) ' (no filled circle: exchanging the spellings within lexeme and suffix status cannot alter the number of changes)' else '',
                 '. Orange: significant after correction for the number of books.')
   ggplot(d, aes(y = unit)) +
     geom_vline(xintercept = 0, colour = BOOK_GREY, linewidth = 0.4) +
