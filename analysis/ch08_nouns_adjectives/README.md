@@ -10,7 +10,7 @@ in MT, SP and the biblical DSS. One folder per dataset:
 | `single_w` | 8.3.2 | monosyllabic stem, optional ו | M6 |
 | `single_y` | 8.3.3 | monosyllabic stem, optional י | M0 |
 | `first_w` | 8.4.2 | first syllable, optional ו | M6 |
-| `first_y` | 8.4.3 | first syllable, optional י | M0 |
+| `first_y` | 8.4.3 | first syllable, optional י | M1 (M0 before data v1.4.0) |
 | `affix_types_mt` | 8.5 | types of affixes, final syllable ו and י, MT only | waw A2, yod A3 |
 
 All models have the random intercepts `(1 | scr_book2/lex)` (lexemes within documents). The formulas, the
@@ -50,3 +50,14 @@ default) the script only loads stored fits.
 (`tools/refit_m6_newdata.R`): the estimates of `final_w` changed by at most 0.02, and no credible effect of
 `single_w` changed. The stored models were kept. The model data of the other five datasets are the same in
 v1.2.0.
+
+## Data release v1.4.0 (2026-11-14)
+
+The only full form of XLB=/ (heleb 'fat'), XJLB in 4Q130 at Exod. 13.5, is halab 'milk' (XLB/ in the MT),
+wrongly lemmatised in the DSS data. It is removed in the pipeline (`AD_HOC_REMOVALS` in
+`preprocess_data/src/special_data.py`); without it the lexeme has no variation and the variation filter drops its
+177 forms. Only `first_y` changes (776 to 599 forms, 22 lexemes); its models are refitted with the prefix
+`na_firsty_d4_`. The grouped k-fold now prefers the corpus models to the intercept-only model M0 under three fold
+splits (M0 −9.7 to −13.7 elpd); the final model is M1 (corpus MT / SP / non-QSP / QSP), with SP credibly fuller
+than the MT. The earlier preference for M0 came from XLB=/. See `first_y/REPORT.md`. `functions_nouns.R`
+accepts a final model with the four-level `corpus` (effect `corpus_mt`); the other datasets are unchanged.

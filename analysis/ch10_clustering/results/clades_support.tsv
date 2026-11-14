@@ -1,50 +1,50 @@
 analysis	node	size	height	support	support_counts	support_lexadj	recur	settings	recur_counts	recur_lexadj	members	affinity
-nouns	1	2	0.05053720856956496	0.337	0.174	0.245	27	36	9	6	SP Leviticus; SP Numbers	FALSE
-nouns	2	2	0.0561069447133342	0.107	0.137	0.085	18	36	9	3	SP Deuteronomy; SP Exodus	FALSE
-nouns	3	2	0.06196195331198002	0.222	0.153	0.212	27	36	4	11	MT Daniel; MT Habakkuk	FALSE
-nouns	4	2	0.07226314062132518	0.13	0.065	0.017	3	36	0	0	MT Proverbs; MT Psalms	FALSE
-nouns	5	2	0.07635768583637337	0.077	0.138	0.04	20	36	9	0	MT Amos; MT Ezra	FALSE
-nouns	6	2	0.08106874969295343	0.09	0.025	0.013	6	36	0	0	MT Isaiah; MT Judges	FALSE
-nouns	7	2	0.0818119601347636	0.221	0.132	0.099	12	36	6	0	MT Kings; MT Samuel	FALSE
-nouns	8	3	0.08674990716951576	0.023	0.017	0.032	15	36	6	0	SP Deuteronomy; SP Exodus; SP Genesis	FALSE
-nouns	9	2	0.08956846374394514	0.062	0.003	0.022	6	36	0	0	MT Joshua; MT Song of Songs	FALSE
-nouns	10	2	0.09073742057136061	0.133	0.067	0.126	9	36	0	4	MT Deuteronomy; MT Genesis	FALSE
-nouns	11	2	0.09290538620319037	0.043	0.041	0.019	3	36	0	0	MT Micah; MT Nehemiah	FALSE
-nouns	12	2	0.09297154131117627	0.037	0.013	0.098	4	36	0	0	MT Hosea; MT Jeremiah	FALSE
-nouns	13	2	0.10034840119570812	0.348	0.447	0.426	23	36	10	7	11Q5 Psalms; 1QIsaᵃ II Isaiah	FALSE
-nouns	14	4	0.10207823166385205	0	0.001	0	3	36	0	0	MT Hosea; MT Isaiah; MT Jeremiah; MT Judges	FALSE
-nouns	15	3	0.10368511473297434	0.061	0.035	0.128	8	36	0	3	MT Deuteronomy; MT Genesis; MT Numbers	FALSE
-nouns	16	3	0.10682791614196706	0.006	0.001	0.001	6	36	0	0	MT Joel; MT Proverbs; MT Psalms	FALSE
-nouns	17	3	0.10729996066551341	0.002	0	0	2	36	0	0	MT Micah; MT Nehemiah; MT Zephaniah	FALSE
-nouns	18	3	0.10888827528542142	0.004	0	0.008	8	36	3	0	MT Amos; MT Ezra; MT Haggai	FALSE
-nouns	19	4	0.11018511958912328	0.059	0.028	0.062	5	36	0	2	MT Deuteronomy; MT Genesis; MT Leviticus; MT Numbers	FALSE
-nouns	20	3	0.11179364179145265	0.694	0.245	0.301	26	36	10	4	11Q5 Psalms; 1QIsaᵃ II Isaiah; 4Q27 Numbers	FALSE
-nouns	21	4	0.11694689750071896	0.002	0.001	0	2	36	0	0	MT Chronicles; MT Joel; MT Proverbs; MT Psalms	FALSE
-nouns	22	2	0.11769151949849062	0.059	0.002	0.059	3	36	0	0	MT Qoheleth; MT Job	FALSE
-nouns	23	5	0.11939281688274651	0.001	0	0	3	36	0	0	MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Judges	FALSE
-nouns	24	3	0.12030832495163454	0.016	0	0.017	7	36	0	0	MT Joshua; MT Lamentations; MT Song of Songs	FALSE
-nouns	25	3	0.12092563036268685	0.044	0.013	0.061	5	36	0	3	MT Kings; MT Samuel; MT Zechariah	FALSE
-nouns	26	8	0.14111741780705037	0	0	0	3	36	0	0	MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Judges; SP Deuteronomy; SP Exodus; SP Genesis	FALSE
-nouns	27	5	0.14548341646800284	0.064	0.063	0.15	15	36	6	4	MT Deuteronomy; MT Exodus; MT Genesis; MT Leviticus; MT Numbers	FALSE
-nouns	28	5	0.1555177459693583	0	0	0	2	36	0	0	MT Qoheleth; MT Job; MT Micah; MT Nehemiah; MT Zephaniah	FALSE
-nouns	29	2	0.1565074951055257	0.209	0.064	0.405	18	36	6	8	1QIsaᵃ I Isaiah; 4Q22 Exodus	FALSE
-nouns	30	4	0.16307554875757127	0.005	0	0	8	36	3	0	MT Amos; MT Ezra; MT Haggai; MT Nahum	FALSE
-nouns	31	2	0.17318320957953626	0.131	0.027	0.009	18	36	4	4	4Q51 Samuel; MT Ruth	FALSE
-nouns	32	3	0.17744532952537986	0.02	0.007	0.117	19	36	4	10	1Q8 Isaiah; MT Daniel; MT Habakkuk	FALSE
-nouns	33	4	0.1869607876070415	0.012	0	0.008	1	36	0	0	11Q1 Leviticus; MT Kings; MT Samuel; MT Zechariah	FALSE
-nouns	34	7	0.18796703570381731	0	0	0	1	36	0	0	MT Chronicles; MT Joel; MT Joshua; MT Lamentations; MT Proverbs; MT Psalms; MT Song of Songs	FALSE
-nouns	35	9	0.1911464412524574	0	0	0	1	36	0	0	MT Amos; MT Qoheleth; MT Ezra; MT Haggai; MT Job; MT Micah; MT Nahum; MT Nehemiah; MT Zephaniah	FALSE
-nouns	36	9	0.1966493616481464	0	0	0	2	36	0	0	4Q11 Exodus; MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Judges; SP Deuteronomy; SP Exodus; SP Genesis	FALSE
-nouns	37	3	0.20849161748991002	0.02	0.002	0.01	2	36	0	0	MT Esther; SP Leviticus; SP Numbers	FALSE
-nouns	38	18	0.23442302351436609	0	0	0	1	36	0	0	4Q11 Exodus; MT Amos; MT Qoheleth; MT Ezekiel; MT Ezra; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Judges; MT Micah; MT Nahum; MT Nehemiah; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis	FALSE
-nouns	39	7	0.24941791234498784	0	0	0.002	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; MT Daniel; MT Habakkuk; MT Kings; MT Samuel; MT Zechariah	FALSE
-nouns	40	9	0.2638240322392617	0	0	0	1	36	0	0	4Q51 Samuel; MT Chronicles; MT Joel; MT Joshua; MT Lamentations; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs	FALSE
-nouns	41	5	0.28159262744308056	0	0	0	1	36	0	0	1QIsaᵃ I Isaiah; 4Q22 Exodus; MT Esther; SP Leviticus; SP Numbers	FALSE
-nouns	42	12	0.29539504293725044	0	0	0.003	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; MT Daniel; MT Deuteronomy; MT Exodus; MT Genesis; MT Habakkuk; MT Kings; MT Leviticus; MT Numbers; MT Samuel; MT Zechariah	FALSE
-nouns	43	14	0.2971770764724615	0	0	0	1	36	0	0	1QIsaᵃ I Isaiah; 4Q22 Exodus; 4Q51 Samuel; MT Chronicles; MT Esther; MT Joel; MT Joshua; MT Lamentations; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs; SP Leviticus; SP Numbers	FALSE
-nouns	44	32	0.38456485778969013	0	0	0	1	36	0	0	1QIsaᵃ I Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q51 Samuel; MT Amos; MT Chronicles; MT Qoheleth; MT Esther; MT Ezekiel; MT Ezra; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Joshua; MT Judges; MT Lamentations; MT Micah; MT Nahum; MT Nehemiah; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis; SP Leviticus; SP Numbers	FALSE
-nouns	45	44	0.5673503334869936	0.175	0.117	0.025	2	36	1	0	11Q1 Leviticus; 1Q8 Isaiah; 1QIsaᵃ I Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q51 Samuel; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis; SP Leviticus; SP Numbers	FALSE
-nouns	46	47	0.8367874581106906	1	1	1	24	36	8	8	11Q1 Leviticus; 11Q5 Psalms; 1Q8 Isaiah; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q27 Numbers; 4Q51 Samuel; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis; SP Leviticus; SP Numbers	FALSE
+nouns	1	2	0.054285618567658005	0.324	0.188	0.234	23	36	9	2	SP Leviticus; SP Numbers	FALSE
+nouns	2	2	0.05699280886738052	0.124	0.117	0.129	21	36	9	6	SP Deuteronomy; SP Exodus	FALSE
+nouns	3	2	0.06238163453108837	0.211	0.139	0.199	29	36	6	11	MT Daniel; MT Habakkuk	FALSE
+nouns	4	2	0.07471854369131936	0.141	0.081	0.017	3	36	0	0	MT Proverbs; MT Psalms	FALSE
+nouns	5	2	0.0760688035827335	0.248	0.135	0.108	12	36	3	0	MT Kings; MT Samuel	FALSE
+nouns	6	2	0.07609296131923803	0.092	0.145	0.039	20	36	9	0	MT Amos; MT Ezra	FALSE
+nouns	7	2	0.08117205812891388	0.092	0.034	0.007	6	36	0	0	MT Isaiah; MT Judges	FALSE
+nouns	8	3	0.08723320160227539	0.029	0.021	0.043	24	36	9	6	SP Deuteronomy; SP Exodus; SP Genesis	FALSE
+nouns	9	2	0.08852798548785522	0.139	0.068	0.114	9	36	0	4	MT Deuteronomy; MT Genesis	FALSE
+nouns	10	2	0.09011532127079705	0.066	0.005	0.017	6	36	0	0	MT Joshua; MT Song of Songs	FALSE
+nouns	11	2	0.09109113534975524	0.042	0.011	0.102	6	36	0	0	MT Hosea; MT Jeremiah	FALSE
+nouns	12	2	0.09358227234880288	0.044	0.055	0.021	3	36	0	0	MT Micah; MT Nehemiah	FALSE
+nouns	13	2	0.09534633850549172	0.467	0.026	0.329	26	36	6	8	1QIsaᵃ II Isaiah; 4Q27 Numbers	FALSE
+nouns	14	4	0.10022891110799041	0	0	0	3	36	0	0	MT Hosea; MT Isaiah; MT Jeremiah; MT Judges	FALSE
+nouns	15	3	0.1072760416294739	0.041	0.012	0.04	3	36	0	0	MT Deuteronomy; MT Genesis; MT Leviticus	FALSE
+nouns	16	3	0.10796556638260571	0.006	0	0	2	36	0	0	MT Micah; MT Nehemiah; MT Zephaniah	FALSE
+nouns	17	3	0.10868367878965733	0.006	0	0.001	4	36	0	0	MT Joel; MT Proverbs; MT Psalms	FALSE
+nouns	18	3	0.10926163435030894	0.006	0	0.012	8	36	3	0	MT Amos; MT Ezra; MT Haggai	FALSE
+nouns	19	3	0.11030186075184041	0.707	0.246	0.285	27	36	11	4	11Q5 Psalms; 1QIsaᵃ II Isaiah; 4Q27 Numbers	TRUE
+nouns	20	4	0.11435129831329843	0.065	0.029	0.083	5	36	0	2	MT Deuteronomy; MT Genesis; MT Leviticus; MT Numbers	FALSE
+nouns	21	2	0.11658673286168611	0.059	0	0.046	3	36	0	0	MT Qoheleth; MT Job	FALSE
+nouns	22	4	0.11717984685389585	0.001	0.001	0	2	36	0	0	MT Chronicles; MT Joel; MT Proverbs; MT Psalms	FALSE
+nouns	23	5	0.11963207962832206	0.001	0	0	3	36	0	0	MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Judges	FALSE
+nouns	24	3	0.12022051384865971	0.018	0	0.028	5	36	0	0	MT Joshua; MT Lamentations; MT Song of Songs	FALSE
+nouns	25	3	0.12108102844901006	0.052	0.007	0.053	6	36	0	2	MT Kings; MT Samuel; MT Zechariah	FALSE
+nouns	26	5	0.14378650907062504	0.06	0.062	0.163	12	36	3	4	MT Deuteronomy; MT Exodus; MT Genesis; MT Leviticus; MT Numbers	FALSE
+nouns	27	8	0.14716325210458292	0	0	0	3	36	0	0	MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Judges; SP Deuteronomy; SP Exodus; SP Genesis	FALSE
+nouns	28	5	0.15470104660285391	0	0	0	2	36	0	0	MT Qoheleth; MT Job; MT Micah; MT Nehemiah; MT Zephaniah	FALSE
+nouns	29	2	0.15690369382151736	0.211	0.071	0.402	18	36	6	8	1QIsaᵃ I Isaiah; 4Q22 Exodus	FALSE
+nouns	30	4	0.16333947046039196	0.002	0	0	8	36	3	0	MT Amos; MT Ezra; MT Haggai; MT Nahum	FALSE
+nouns	31	2	0.17262474199773534	0.116	0.032	0.009	18	36	4	4	4Q51 Samuel; MT Ruth	FALSE
+nouns	32	3	0.1775104432823124	0.026	0.013	0.096	19	36	3	10	1Q8 Isaiah; MT Daniel; MT Habakkuk	FALSE
+nouns	33	4	0.18711609223213385	0.008	0	0.002	1	36	0	0	11Q1 Leviticus; MT Kings; MT Samuel; MT Zechariah	FALSE
+nouns	34	7	0.18846292967953543	0	0	0	1	36	0	0	MT Chronicles; MT Joel; MT Joshua; MT Lamentations; MT Proverbs; MT Psalms; MT Song of Songs	FALSE
+nouns	35	9	0.19170239207450912	0	0	0	1	36	0	0	MT Amos; MT Qoheleth; MT Ezra; MT Haggai; MT Job; MT Micah; MT Nahum; MT Nehemiah; MT Zephaniah	FALSE
+nouns	36	9	0.19724426019499866	0	0	0	2	36	0	0	4Q11 Exodus; MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Judges; SP Deuteronomy; SP Exodus; SP Genesis	FALSE
+nouns	37	3	0.2077339925556085	0.018	0.003	0.006	2	36	0	0	MT Esther; SP Leviticus; SP Numbers	FALSE
+nouns	38	18	0.23442032185101175	0	0	0	1	36	0	0	4Q11 Exodus; MT Amos; MT Qoheleth; MT Ezekiel; MT Ezra; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Judges; MT Micah; MT Nahum; MT Nehemiah; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis	FALSE
+nouns	39	7	0.24978676979138648	0	0	0.003	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; MT Daniel; MT Habakkuk; MT Kings; MT Samuel; MT Zechariah	FALSE
+nouns	40	9	0.2639641303575867	0	0	0	1	36	0	0	4Q51 Samuel; MT Chronicles; MT Joel; MT Joshua; MT Lamentations; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs	FALSE
+nouns	41	5	0.28533549935135927	0.001	0	0	1	36	0	0	1QIsaᵃ I Isaiah; 4Q22 Exodus; MT Esther; SP Leviticus; SP Numbers	FALSE
+nouns	42	12	0.29544999166301794	0	0	0.006	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; MT Daniel; MT Deuteronomy; MT Exodus; MT Genesis; MT Habakkuk; MT Kings; MT Leviticus; MT Numbers; MT Samuel; MT Zechariah	FALSE
+nouns	43	14	0.29663777670106123	0	0	0	1	36	0	0	1QIsaᵃ I Isaiah; 4Q22 Exodus; 4Q51 Samuel; MT Chronicles; MT Esther; MT Joel; MT Joshua; MT Lamentations; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs; SP Leviticus; SP Numbers	FALSE
+nouns	44	32	0.38638631130460244	0	0	0	1	36	0	0	1QIsaᵃ I Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q51 Samuel; MT Amos; MT Chronicles; MT Qoheleth; MT Esther; MT Ezekiel; MT Ezra; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Joshua; MT Judges; MT Lamentations; MT Micah; MT Nahum; MT Nehemiah; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis; SP Leviticus; SP Numbers	FALSE
+nouns	45	44	0.5683152419317088	0.167	0.129	0.027	2	36	1	0	11Q1 Leviticus; 1Q8 Isaiah; 1QIsaᵃ I Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q51 Samuel; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis; SP Leviticus; SP Numbers	FALSE
+nouns	46	47	0.8380886338004184	1	1	1	24	36	8	8	11Q1 Leviticus; 11Q5 Psalms; 1Q8 Isaiah; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q27 Numbers; 4Q51 Samuel; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; SP Deuteronomy; SP Exodus; SP Genesis; SP Leviticus; SP Numbers	FALSE
 verbs	1	2	0.050161145137551925	0.194	0.157	0.178	12	36	0	3	MT Genesis; MT Numbers	FALSE
 verbs	2	3	0.052573650495813265	0.187	0.016	0.282	21	36	0	9	MT Genesis; MT Kings; MT Numbers	FALSE
 verbs	3	2	0.06432425902781752	0.343	0.112	0.095	18	36	6	0	MT Deuteronomy; MT Leviticus	FALSE
@@ -72,56 +72,56 @@ verbs	24	6	0.21552735438962548	0.021	0	0.014	3	36	0	0	1Q8 Isaiah; MT Amos; MT Ch
 verbs	25	19	0.3624679104077493	0.016	0	0.013	3	36	0	0	MT Daniel; MT Deuteronomy; MT Esther; MT Exodus; MT Ezekiel; MT Genesis; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joshua; MT Judges; MT Kings; MT Leviticus; MT Micah; MT Numbers; MT Psalms; MT Samuel; MT Zechariah	FALSE
 verbs	26	25	0.4941254450717443	0.886	0.753	0.987	24	36	8	8	1Q8 Isaiah; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Genesis; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joshua; MT Judges; MT Kings; MT Leviticus; MT Micah; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Samuel; MT Zechariah	FALSE
 verbs	27	28	1.0416851651937247	1	1	1	24	36	8	8	11Q5 Psalms; 1Q8 Isaiah; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Genesis; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joshua; MT Judges; MT Kings; MT Leviticus; MT Micah; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Samuel; MT Zechariah	FALSE
-combined	1	2	0.07647887953947621	0.563	0.339	0.382	30	36	9	9	MT Kings; MT Samuel	FALSE
-combined	2	2	0.07753279026823737	0.07	0.001	0.168	22	36	0	10	MT Joel; MT Proverbs	FALSE
-combined	3	2	0.087708848311415	0.261	0.315	0.251	21	36	6	9	MT Genesis; MT Numbers	FALSE
-combined	4	2	0.08936048714881917	0.204	0.091	0.259	10	36	0	4	MT Deuteronomy; MT Leviticus	FALSE
-combined	5	2	0.08961267712539889	0.229	0.058	0.012	8	36	0	0	MT Ezekiel; MT Isaiah	FALSE
-combined	6	2	0.09370776946883604	0.719	0.16	0.613	24	36	3	9	11Q5 Psalms; 1QIsaᵃ II Isaiah	TRUE
-combined	7	2	0.09397502457426121	0.517	0.009	0.35	26	36	6	8	1QIsaᵃ I Isaiah; 4Q57 Isaiah	FALSE
-combined	8	2	0.09640765280158076	0.075	0	0.038	17	36	4	7	MT Haggai; MT Judges	FALSE
-combined	9	2	0.10041649096428693	0.07	0.018	0.014	16	36	4	4	4Q70 Jeremiah; MT Ezra	FALSE
-combined	10	3	0.10046775605095688	0.046	0.002	0.003	6	36	0	0	MT Ezekiel; MT Hosea; MT Isaiah	FALSE
-combined	11	2	0.10084215383030423	0.109	0.085	0.088	3	36	0	0	MT Lamentations; MT Song of Songs	FALSE
-combined	12	2	0.10589577525895721	0.115	0.115	0.106	8	36	0	0	MT Daniel; MT Habakkuk	FALSE
-combined	13	2	0.10838931672681923	0.041	0.037	0.018	3	36	0	0	MT Micah; MT Nehemiah	FALSE
-combined	14	4	0.10969313497541931	0.126	0.01	0.112	10	36	0	4	MT Deuteronomy; MT Genesis; MT Leviticus; MT Numbers	FALSE
-combined	15	3	0.10969781784688401	0.014	0	0.015	3	36	0	0	MT Joel; MT Proverbs; MT Psalms	FALSE
-combined	16	3	0.11518135399410054	0.199	0.143	0.133	15	36	3	3	MT Jeremiah; MT Kings; MT Samuel	FALSE
-combined	17	3	0.11543684075525809	0.011	0	0.002	6	36	0	0	4Q70 Jeremiah; MT Amos; MT Ezra	FALSE
-combined	18	3	0.124591678697739	0.008	0	0.001	2	36	1	0	MT Haggai; MT Joshua; MT Judges	FALSE
-combined	19	4	0.126610931977751	0.005	0	0.001	6	36	0	0	4Q70 Jeremiah; MT Amos; MT Ezra; MT Nahum	FALSE
-combined	20	4	0.12969600867307154	0.002	0	0.001	2	36	0	0	MT Haggai; MT Job; MT Joshua; MT Judges	FALSE
-combined	21	5	0.13070145154897564	0.322	0.156	0.323	14	36	0	6	MT Deuteronomy; MT Exodus; MT Genesis; MT Leviticus; MT Numbers	FALSE
-combined	22	2	0.13193265112451105	0.078	0.218	0.011	16	36	7	4	4Q84 Psalms; MT Jonah	FALSE
-combined	23	2	0.13310853075971862	0.129	0	0.281	7	36	0	4	MT Chronicles; MT Qoheleth	FALSE
-combined	24	2	0.133327909407204	0.112	0.085	0.047	14	36	4	4	4Q56 Isaiah; 5/6hev1b Psalms	FALSE
-combined	25	4	0.1345194005708539	0.003	0	0	2	36	0	0	MT Joel; MT Malachi; MT Proverbs; MT Psalms	FALSE
-combined	26	4	0.1364875818429413	0.055	0.003	0.092	7	36	0	0	MT Jeremiah; MT Kings; MT Samuel; MT Zechariah	FALSE
-combined	27	2	0.1389333981198624	0.234	0.083	0.062	15	36	6	0	1Q8 Isaiah; MT Zephaniah	FALSE
-combined	28	2	0.13935242786433694	0.109	0.037	0.036	16	36	4	4	11Q1 Leviticus; 4Q58 Isaiah	FALSE
-combined	29	6	0.14689460388615813	0	0	0	1	36	0	0	MT Joel; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms	FALSE
-combined	30	4	0.14746866700778546	0.008	0	0.001	5	36	0	0	4Q11 Exodus; MT Ezekiel; MT Hosea; MT Isaiah	FALSE
-combined	31	3	0.15626406116591654	0.226	0	0.117	14	36	0	2	11Q5 Psalms; 1QIsaᵃ II Isaiah; 4Q27 Numbers	FALSE
-combined	32	3	0.16418648564964322	0.022	0	0.076	6	36	0	0	MT Chronicles; MT Qoheleth; MT Esther	FALSE
-combined	33	10	0.16946982248468262	0	0	0	1	36	0	0	MT Haggai; MT Job; MT Joel; MT Joshua; MT Judges; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms	FALSE
-combined	34	3	0.17098496865041835	0.193	0	0.079	15	36	4	4	1QIsaᵃ I Isaiah; 4Q41 Deuteronomy; 4Q57 Isaiah	FALSE
-combined	35	4	0.17908733633268056	0.006	0	0.001	1	36	0	0	11Q1 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 5/6hev1b Psalms	FALSE
-combined	36	5	0.17964439027951715	0.001	0	0	3	36	0	0	4Q11 Exodus; 4Q24 Leviticus; MT Ezekiel; MT Hosea; MT Isaiah	FALSE
-combined	37	6	0.18608253682415912	0	0	0	1	36	0	0	4Q70 Jeremiah; MT Amos; MT Daniel; MT Ezra; MT Habakkuk; MT Nahum	FALSE
-combined	38	3	0.18759488231307062	0.012	0.007	0.003	1	36	0	0	MT Lamentations; MT Ruth; MT Song of Songs	FALSE
-combined	39	4	0.19574203444031205	0.075	0	0.075	8	36	0	4	1QIsaᵃ I Isaiah; 4Q22 Exodus; 4Q41 Deuteronomy; 4Q57 Isaiah	FALSE
-combined	40	12	0.20386616313769826	0	0	0	1	36	0	0	4Q84 Psalms; MT Haggai; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms	FALSE
-combined	41	4	0.20811157884935963	0.003	0	0.02	4	36	0	0	4Q83 Psalms; MT Chronicles; MT Qoheleth; MT Esther	FALSE
-combined	42	5	0.21360402580184573	0.005	0	0.005	5	36	0	0	MT Jeremiah; MT Kings; MT Samuel; MT Zechariah; Mur88 Micah	FALSE
-combined	43	7	0.2286947676780322	0.468	0.18	0.537	10	36	0	6	11Q5 Psalms; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; 4Q22 Exodus; 4Q27 Numbers; 4Q41 Deuteronomy; 4Q57 Isaiah	FALSE
-combined	44	15	0.2312770018851254	0	0	0	1	36	0	0	4Q84 Psalms; MT Haggai; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Lamentations; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs	FALSE
-combined	45	5	0.24114526309406742	0.001	0	0.004	2	36	0	0	4Q51 Samuel; 4Q83 Psalms; MT Chronicles; MT Qoheleth; MT Esther	FALSE
-combined	46	8	0.24541587636586532	0	0	0	1	36	0	0	1Q8 Isaiah; 4Q70 Jeremiah; MT Amos; MT Daniel; MT Ezra; MT Habakkuk; MT Nahum; MT Zephaniah	FALSE
-combined	47	10	0.25330594083441765	0	0	0	1	36	0	0	4Q11 Exodus; 4Q24 Leviticus; MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Samuel; MT Zechariah; Mur88 Micah	FALSE
-combined	48	20	0.28414257613025085	0	0	0	1	36	0	0	4Q51 Samuel; 4Q83 Psalms; 4Q84 Psalms; MT Chronicles; MT Qoheleth; MT Esther; MT Haggai; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Lamentations; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs	FALSE
-combined	49	14	0.28917933375661015	0	0	0	1	36	0	0	11Q1 Leviticus; 4Q11 Exodus; 4Q24 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 5/6hev1b Psalms; MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Samuel; MT Zechariah; Mur88 Micah	FALSE
-combined	50	22	0.3190664843350408	0	0	0	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; 4Q11 Exodus; 4Q24 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 5/6hev1b Psalms; MT Amos; MT Daniel; MT Ezekiel; MT Ezra; MT Habakkuk; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Nahum; MT Samuel; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE
-combined	51	27	0.37394911408427745	0	0	0	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; 4Q11 Exodus; 4Q24 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 5/6hev1b Psalms; MT Amos; MT Daniel; MT Deuteronomy; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Leviticus; MT Nahum; MT Numbers; MT Samuel; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE
-combined	52	47	0.4804422166651145	0.459	0.147	0.491	9	36	0	5	11Q1 Leviticus; 1Q8 Isaiah; 4Q11 Exodus; 4Q24 Leviticus; 4Q51 Samuel; 4Q56 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 4Q83 Psalms; 4Q84 Psalms; 5/6hev1b Psalms; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Malachi; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE
-combined	53	54	1.1704657157153493	1	1	1	24	36	8	8	11Q1 Leviticus; 11Q5 Psalms; 1Q8 Isaiah; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q24 Leviticus; 4Q27 Numbers; 4Q41 Deuteronomy; 4Q51 Samuel; 4Q56 Isaiah; 4Q57 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 4Q83 Psalms; 4Q84 Psalms; 5/6hev1b Psalms; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Malachi; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE
+combined	1	2	0.0730766997491601	0.609	0.337	0.375	30	36	9	9	MT Kings; MT Samuel	FALSE
+combined	2	2	0.07734758266906167	0.068	0.002	0.146	22	36	0	10	MT Joel; MT Proverbs	FALSE
+combined	3	2	0.08800065434684068	0.237	0.105	0.258	10	36	0	4	MT Deuteronomy; MT Leviticus	FALSE
+combined	4	2	0.08986074867975895	0.088	0.006	0.026	10	36	0	4	MT Hosea; MT Isaiah	FALSE
+combined	5	2	0.09123660705038833	0.263	0.335	0.242	18	36	6	9	MT Genesis; MT Numbers	FALSE
+combined	6	2	0.0935569233893555	0.722	0.159	0.604	24	36	3	9	11Q5 Psalms; 1QIsaᵃ II Isaiah	TRUE
+combined	7	2	0.0945952774209206	0.507	0.01	0.351	26	36	6	8	1QIsaᵃ I Isaiah; 4Q57 Isaiah	FALSE
+combined	8	2	0.0962211235979597	0.05	0	0.032	17	36	4	7	MT Haggai; MT Judges	FALSE
+combined	9	2	0.10028150233556614	0.114	0.087	0.079	3	36	0	0	MT Lamentations; MT Song of Songs	FALSE
+combined	10	2	0.10066196806460155	0.071	0.016	0.011	16	36	4	4	4Q70 Jeremiah; MT Ezra	FALSE
+combined	11	3	0.10072358416848663	0.048	0.002	0.002	6	36	0	0	MT Ezekiel; MT Hosea; MT Isaiah	FALSE
+combined	12	2	0.10608345802280217	0.105	0.119	0.092	8	36	0	0	MT Daniel; MT Habakkuk	FALSE
+combined	13	2	0.10867636755595461	0.038	0.033	0.014	3	36	0	0	MT Micah; MT Nehemiah	FALSE
+combined	14	4	0.11102713307555183	0.107	0.009	0.112	7	36	0	4	MT Deuteronomy; MT Genesis; MT Leviticus; MT Numbers	FALSE
+combined	15	3	0.11154782982555898	0.011	0	0.019	3	36	0	0	MT Joel; MT Proverbs; MT Psalms	FALSE
+combined	16	3	0.1146602218036152	0.185	0.123	0.128	15	36	3	3	MT Jeremiah; MT Kings; MT Samuel	FALSE
+combined	17	3	0.11525772628642438	0.011	0	0.001	6	36	0	0	4Q70 Jeremiah; MT Amos; MT Ezra	FALSE
+combined	18	3	0.12339721222371164	0.009	0	0	5	36	0	1	MT Haggai; MT Job; MT Judges	FALSE
+combined	19	4	0.12670495150429442	0.004	0	0.004	6	36	0	0	4Q70 Jeremiah; MT Amos; MT Ezra; MT Nahum	FALSE
+combined	20	5	0.12975249528762559	0.337	0.145	0.328	14	36	0	6	MT Deuteronomy; MT Exodus; MT Genesis; MT Leviticus; MT Numbers	FALSE
+combined	21	4	0.1298460187095404	0	0	0	2	36	0	0	MT Haggai; MT Job; MT Joshua; MT Judges	FALSE
+combined	22	2	0.1320994086939167	0.093	0.221	0.01	16	36	7	4	4Q84 Psalms; MT Jonah	FALSE
+combined	23	2	0.1334621334935404	0.1	0.068	0.055	14	36	4	4	4Q56 Isaiah; 5/6hev1b Psalms	FALSE
+combined	24	2	0.13396646030483575	0.12	0	0.256	7	36	0	4	MT Chronicles; MT Qoheleth	FALSE
+combined	25	4	0.13461758404376736	0.003	0	0	2	36	0	0	MT Joel; MT Malachi; MT Proverbs; MT Psalms	FALSE
+combined	26	4	0.13668499985344895	0.04	0.003	0.086	7	36	0	0	MT Jeremiah; MT Kings; MT Samuel; MT Zechariah	FALSE
+combined	27	2	0.13882234424587153	0.226	0.08	0.064	14	36	6	0	1Q8 Isaiah; MT Zephaniah	FALSE
+combined	28	2	0.13949271696353618	0.121	0.039	0.031	16	36	4	4	11Q1 Leviticus; 4Q58 Isaiah	FALSE
+combined	29	6	0.14723915199655108	0	0	0	1	36	0	0	MT Joel; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms	FALSE
+combined	30	4	0.14759723715908998	0.011	0	0.001	5	36	0	0	4Q11 Exodus; MT Ezekiel; MT Hosea; MT Isaiah	FALSE
+combined	31	3	0.15461140241325394	0.257	0.002	0.13	14	36	0	2	11Q5 Psalms; 1QIsaᵃ II Isaiah; 4Q27 Numbers	FALSE
+combined	32	3	0.16263649672977357	0.026	0	0.082	6	36	0	0	MT Chronicles; MT Qoheleth; MT Esther	FALSE
+combined	33	10	0.16910648944780865	0	0	0	1	36	0	0	MT Haggai; MT Job; MT Joel; MT Joshua; MT Judges; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms	FALSE
+combined	34	3	0.17125364484302896	0.19	0	0.082	15	36	4	4	1QIsaᵃ I Isaiah; 4Q41 Deuteronomy; 4Q57 Isaiah	FALSE
+combined	35	4	0.1792676274225248	0.008	0	0	1	36	0	0	11Q1 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 5/6hev1b Psalms	FALSE
+combined	36	5	0.17937602816457526	0.002	0	0	3	36	0	0	4Q11 Exodus; 4Q24 Leviticus; MT Ezekiel; MT Hosea; MT Isaiah	FALSE
+combined	37	6	0.18628948909066004	0	0	0	1	36	0	0	4Q70 Jeremiah; MT Amos; MT Daniel; MT Ezra; MT Habakkuk; MT Nahum	FALSE
+combined	38	3	0.1876654393251689	0.01	0.006	0.006	1	36	0	0	MT Lamentations; MT Ruth; MT Song of Songs	FALSE
+combined	39	4	0.19578613849048007	0.092	0	0.067	8	36	0	4	1QIsaᵃ I Isaiah; 4Q22 Exodus; 4Q41 Deuteronomy; 4Q57 Isaiah	FALSE
+combined	40	12	0.20412178630450403	0	0	0	1	36	0	0	4Q84 Psalms; MT Haggai; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms	FALSE
+combined	41	4	0.20837293753624372	0.005	0	0.016	4	36	0	0	4Q83 Psalms; MT Chronicles; MT Qoheleth; MT Esther	FALSE
+combined	42	5	0.21356755093914867	0.004	0	0.005	5	36	0	0	MT Jeremiah; MT Kings; MT Samuel; MT Zechariah; Mur88 Micah	FALSE
+combined	43	7	0.22883355281283985	0.461	0.164	0.512	10	36	0	6	11Q5 Psalms; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; 4Q22 Exodus; 4Q27 Numbers; 4Q41 Deuteronomy; 4Q57 Isaiah	FALSE
+combined	44	15	0.23143718145569564	0	0	0	1	36	0	0	4Q84 Psalms; MT Haggai; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Lamentations; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs	FALSE
+combined	45	5	0.24120681581058637	0.005	0	0.004	2	36	0	0	4Q51 Samuel; 4Q83 Psalms; MT Chronicles; MT Qoheleth; MT Esther	FALSE
+combined	46	8	0.24572590464949304	0	0	0	1	36	0	0	1Q8 Isaiah; 4Q70 Jeremiah; MT Amos; MT Daniel; MT Ezra; MT Habakkuk; MT Nahum; MT Zephaniah	FALSE
+combined	47	10	0.25189379784645155	0	0	0	1	36	0	0	4Q11 Exodus; 4Q24 Leviticus; MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Samuel; MT Zechariah; Mur88 Micah	FALSE
+combined	48	20	0.28468609223308244	0	0	0	1	36	0	0	4Q51 Samuel; 4Q83 Psalms; 4Q84 Psalms; MT Chronicles; MT Qoheleth; MT Esther; MT Haggai; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Lamentations; MT Malachi; MT Micah; MT Nehemiah; MT Proverbs; MT Psalms; MT Ruth; MT Song of Songs	FALSE
+combined	49	14	0.28950780599752274	0	0	0	1	36	0	0	11Q1 Leviticus; 4Q11 Exodus; 4Q24 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 5/6hev1b Psalms; MT Ezekiel; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Samuel; MT Zechariah; Mur88 Micah	FALSE
+combined	50	22	0.3194538547832142	0	0	0	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; 4Q11 Exodus; 4Q24 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 5/6hev1b Psalms; MT Amos; MT Daniel; MT Ezekiel; MT Ezra; MT Habakkuk; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Nahum; MT Samuel; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE
+combined	51	27	0.3745420995738323	0	0	0	1	36	0	0	11Q1 Leviticus; 1Q8 Isaiah; 4Q11 Exodus; 4Q24 Leviticus; 4Q56 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 5/6hev1b Psalms; MT Amos; MT Daniel; MT Deuteronomy; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Hosea; MT Isaiah; MT Jeremiah; MT Kings; MT Leviticus; MT Nahum; MT Numbers; MT Samuel; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE
+combined	52	47	0.48085465105302616	0.457	0.141	0.464	9	36	0	5	11Q1 Leviticus; 1Q8 Isaiah; 4Q11 Exodus; 4Q24 Leviticus; 4Q51 Samuel; 4Q56 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 4Q83 Psalms; 4Q84 Psalms; 5/6hev1b Psalms; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Malachi; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE
+combined	53	54	1.1715803284165351	1	1	1	24	36	8	8	11Q1 Leviticus; 11Q5 Psalms; 1Q8 Isaiah; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah; 4Q11 Exodus; 4Q22 Exodus; 4Q24 Leviticus; 4Q27 Numbers; 4Q41 Deuteronomy; 4Q51 Samuel; 4Q56 Isaiah; 4Q57 Isaiah; 4Q58 Isaiah; 4Q70 Jeremiah; 4Q83 Psalms; 4Q84 Psalms; 5/6hev1b Psalms; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Ezra; MT Genesis; MT Habakkuk; MT Haggai; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joel; MT Jonah; MT Joshua; MT Judges; MT Kings; MT Lamentations; MT Leviticus; MT Malachi; MT Micah; MT Nahum; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Ruth; MT Samuel; MT Song of Songs; MT Zechariah; MT Zephaniah; Mur88 Micah	FALSE

@@ -149,13 +149,17 @@ model_data <- function(dat) {
 # isa_d2_; the isa_ fits of 2026-11-03 stay.
 REFIT_D2 <- c('final_w', 'single_w', 'ptca_qal', 'ptcp_qal', 'infc_qal_triliteral', 'infc_qal_lamed_he',
               'infa_qal', 'hiphil_triliteral', 'niph_hiph_pe_yod')
+# Data release v1.4.0 (2026-11-14): first_y without XLB=/ (heleb 'fat'; its only
+# full form, 4Q130 Exod. 13.5, is 'milk' and was removed in the pipeline, so the
+# variation filter drops the lexeme). Refitted with the prefix isa_d4_.
+REFIT_D4 <- c('first_y')
 has_suffix_term <- function(dat) n_distinct(dat$has_suffix) > 1
 
 fit_feature <- function(feature, dat, noun, interaction = FALSE) {
   f <- if (interaction) has_vowel_letter ~ scroll * has_suffix + (1 | lex)
        else if (has_suffix_term(dat)) has_vowel_letter ~ scroll + has_suffix + (1 | lex)
        else has_vowel_letter ~ scroll + (1 | lex)
-  prefix <- if (feature %in% REFIT_D2) 'isa_d2_' else 'isa_'
+  prefix <- if (feature %in% REFIT_D4) 'isa_d4_' else if (feature %in% REFIT_D2) 'isa_d2_' else 'isa_'
   fit_model(paste0(prefix, feature, if (interaction) '_suffix' else '', '.rds'), f, dat, book_priors(1.5))
 }
 

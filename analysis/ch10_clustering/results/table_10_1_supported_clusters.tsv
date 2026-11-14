@@ -1,8 +1,8 @@
 analysis	node	size	height	support	support_counts	support_lexadj	recur	settings	recur_counts	recur_lexadj	members	affinity
-combined	6	2	0.09370776946883604	0.719	0.16	0.613	24	36	3	9	11Q5 Psalms; 1QIsaᵃ II Isaiah	TRUE
-combined	1	2	0.07647887953947621	0.563	0.339	0.382	30	36	9	9	MT Kings; MT Samuel	FALSE
-combined	7	2	0.09397502457426121	0.517	0.009	0.35	26	36	6	8	1QIsaᵃ I Isaiah; 4Q57 Isaiah	FALSE
-nouns	20	3	0.11179364179145265	0.694	0.245	0.301	26	36	10	4	11Q5 Psalms; 1QIsaᵃ II Isaiah; 4Q27 Numbers	FALSE
+combined	6	2	0.0935569233893555	0.722	0.159	0.604	24	36	3	9	11Q5 Psalms; 1QIsaᵃ II Isaiah	TRUE
+combined	1	2	0.0730766997491601	0.609	0.337	0.375	30	36	9	9	MT Kings; MT Samuel	FALSE
+combined	7	2	0.0945952774209206	0.507	0.01	0.351	26	36	6	8	1QIsaᵃ I Isaiah; 4Q57 Isaiah	FALSE
+nouns	19	3	0.11030186075184041	0.707	0.246	0.285	27	36	11	4	11Q5 Psalms; 1QIsaᵃ II Isaiah; 4Q27 Numbers	TRUE
 verbs	19	3	0.1464075834864648	0.966	0.899	0.994	36	36	12	12	11Q5 Psalms; 1QIsaᵃ I Isaiah; 1QIsaᵃ II Isaiah	TRUE
 verbs	26	25	0.4941254450717443	0.886	0.753	0.987	24	36	8	8	1Q8 Isaiah; MT Amos; MT Chronicles; MT Daniel; MT Deuteronomy; MT Qoheleth; MT Esther; MT Exodus; MT Ezekiel; MT Genesis; MT Hosea; MT Isaiah; MT Jeremiah; MT Job; MT Joshua; MT Judges; MT Kings; MT Leviticus; MT Micah; MT Nehemiah; MT Numbers; MT Proverbs; MT Psalms; MT Samuel; MT Zechariah	FALSE
 verbs	5	2	0.08319976800274727	0.768	0.207	0.737	27	36	3	12	11Q5 Psalms; 1QIsaᵃ II Isaiah	TRUE

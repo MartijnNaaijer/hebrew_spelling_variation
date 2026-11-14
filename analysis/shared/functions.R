@@ -815,7 +815,9 @@ shares_by <- function(dataset, ...) {
 plot_shares <- function(shares, colour_var = NULL, colours = BOOK_CATEGORICAL,
                         dodge_width = 0, count_labels = FALSE) {
   dodge <- position_dodge(width = dodge_width)
-  shares$label <- if (count_labels) paste0(shares$full, '/', shares$n, ' full') else paste0('n = ', shares$n)
+  # .text_label, not label: the noun figures colour by a column called label (fixed 2026-11-14;
+  # the count_labels option of 2026-11-12 overwrote it and broke fig_<tag>_suffix|prefix of chapter 8)
+  shares$.text_label <- if (count_labels) paste0(shares$full, '/', shares$n, ' full') else paste0('n = ', shares$n)
   x_max <- if (count_labels) 1.27 else 1.17
   aes_colour <- if (is.null(colour_var)) aes() else aes(colour = .data[[colour_var]],
                                                        group = .data[[colour_var]])
@@ -829,7 +831,7 @@ plot_shares <- function(shares, colour_var = NULL, colours = BOOK_CATEGORICAL,
       scale_colour_manual(values = colours, guide = guide_legend(reverse = TRUE))
   }
   p +
-    geom_text(aes(x = 1.02, label = label), hjust = 0, size = 2.6,
+    geom_text(aes(x = 1.02, label = .text_label), hjust = 0, size = 2.6,
               colour = BOOK_INK_2, position = dodge, show.legend = FALSE) +
     scale_x_continuous(limits = c(0, x_max), breaks = seq(0, 1, 0.25),
                        labels = scales::percent) +

@@ -33,7 +33,10 @@ local({
 suppressMessages(library(brms))
 
 main_file <- function(feature, interaction = FALSE)
-  paste0(if (feature %in% REFIT_D2) 'isa_d2_' else 'isa_', feature, if (interaction) '_suffix' else '', '.rds')
+  paste0(if (feature %in% REFIT_D4) 'isa_d4_' else if (feature %in% REFIT_D2) 'isa_d2_' else 'isa_', feature,
+         if (interaction) '_suffix' else '', '.rds')
+# data release v1.4.0: the refits of the features in REFIT_D4 get 'd4_' in their file names
+d4 <- function(feature) if (feature %in% REFIT_D4) 'd4_' else ''
 formula_for <- function(dat, interaction) {
   if (interaction) has_vowel_letter ~ scroll * has_suffix + (1 | lex)
   else if (has_suffix_term(dat)) has_vowel_letter ~ scroll + has_suffix + (1 | lex)
@@ -54,7 +57,7 @@ for (k in seq_len(nrow(FEATURES))) {
 
   # ---- A + B: main model, prior 1.5 (stored) and 2.5 (new) ----
   m15 <- fit_model(main_file(ft$feature), formula_for(md, FALSE), md, book_priors(1.5))
-  m25 <- fit_model(paste0('isa_p25_', ft$feature, '.rds'), formula_for(md, FALSE), md, book_priors(2.5))
+  m25 <- fit_model(paste0('isa_p25_', d4(ft$feature), ft$feature, '.rds'), formula_for(md, FALSE), md, book_priors(2.5))
   prior_conv[[length(prior_conv) + 1]] <- convergence(m25, ft$feature, 'main, prior 2.5')
   e15 <- scroll_estimates(m15, md, ft$feature); e25 <- scroll_estimates(m25, md, ft$feature)
   prior_cmp[[k]] <- inner_join(
@@ -75,7 +78,7 @@ for (k in seq_len(nrow(FEATURES))) {
 
   if (ft$interaction) {
     i15 <- fit_model(main_file(ft$feature, TRUE), formula_for(md, TRUE), md, book_priors(1.5))
-    i25 <- fit_model(paste0('isa_p25_', ft$feature, '_suffix.rds'), formula_for(md, TRUE), md, book_priors(2.5))
+    i25 <- fit_model(paste0('isa_p25_', d4(ft$feature), ft$feature, '_suffix.rds'), formula_for(md, TRUE), md, book_priors(2.5))
     prior_conv[[length(prior_conv) + 1]] <- convergence(i25, ft$feature, 'scroll x suffix, prior 2.5')
     prior_suffix[[length(prior_suffix) + 1]] <- inner_join(
       suffix_estimates(i15, md, ft$feature) |> select(feature, manuscript, suffix, n, med_15 = med, l95_15 = l95, u95_15 = u95),
@@ -103,7 +106,7 @@ for (k in seq_len(nrow(FEATURES))) {
     mutate(witness = relevel(factor(witness), ref = 'MT'))
   psum <- parallel_summary(par, ft$feature) |>
     transmute(manuscript, parallels, scroll_fuller, mt_fuller, p_sign)
-  mp <- fit_model(paste0('isa_pair_', ft$feature, '.rds'),
+  mp <- fit_model(paste0('isa_pair_', d4(ft$feature), ft$feature, '.rds'),
                   has_vowel_letter ~ witness + (1 | lex) + (1 | pair), pd_long, book_priors(1.5))
   paired_conv[[length(paired_conv) + 1]] <- convergence(mp, ft$feature, 'paired')
   d <- as_draws_df(mp)
@@ -118,7 +121,7 @@ for (k in seq_len(nrow(FEATURES))) {
       mutate(feature = ft$feature, model = 'paired', prior = '1.5', suffix = 'all', .before = 1)
   rm(mp); gc()
   if (ft$interaction) {
-    mpi <- fit_model(paste0('isa_pair_', ft$feature, '_suffix.rds'),
+    mpi <- fit_model(paste0('isa_pair_', d4(ft$feature), ft$feature, '_suffix.rds'),
                      has_vowel_letter ~ witness * has_suffix + (1 | lex) + (1 | pair), pd_long, book_priors(1.5))
     paired_conv[[length(paired_conv) + 1]] <- convergence(mpi, ft$feature, 'paired, witness x suffix')
     d <- as_draws_df(mpi)

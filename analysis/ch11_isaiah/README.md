@@ -71,7 +71,7 @@ All fits converged (max Rhat ≤ 1.007, no divergences).
   1.21 [0.25, 2.16], unsuffixed 0.16 [−0.76, 1.09]), single_w 1.88, first_w 2.08, ptca_qal 1.04,
   infc_qal_triliteral 1.90 [0.57, 3.43]. Not credible for the other features.
 - **Prior sensitivity:** the 13 main and 2 interaction models refitted with `book_priors(2.5)`, the priors of
-  chapters 8–9 (`isa_p25_*.rds`): `results/followup_prior_sensitivity[_suffix].tsv`. Of 65 contrasts, none
+  chapters 8–9 (`isa_p25_*.rds`): `results/followup_prior_sensitivity[_suffix].tsv`. Of 64 contrasts (65 before data v1.4.0), none
   changes classification; only the flagged infa_qal 1QIsaᵃ Part II (10 forms) gets an interval that excludes
   zero.
 - **Paired model on the parallels:** `has_vowel_letter ~ witness + (1 | lex) + (1 | pair)` per feature, one
@@ -81,3 +81,12 @@ All fits converged (max Rhat ≤ 1.007, no divergences).
   credible contrasts as the main models. 4Q58 final_w −2.25 [−3.56, −0.90], but all five differing parallels
   go in one direction, so the size of the estimate depends on the prior. The suffix-specific results for 1Q8
   are confirmed.
+
+## Data release v1.4.0 (2026-11-14)
+
+The only full form of XLB=/ (heleb 'fat'), 4Q130 at Exod. 13.5, is halab 'milk' and was removed in the
+pipeline; the lexeme then has no variation and drops out. Only first_y changes; its models are refitted with the
+prefix `isa_d4_` (`REFIT_D4`; follow-up fits `isa_p25_d4_first_y`, `isa_pair_d4_first_y`). first_y: MT Isaiah 28
+forms (4 full; 33 before); 1QIsaᵃ Part I 20 forms, contrast 0.18 [−1.60, 2.07]; Part II (5 forms, below the minimum
+of 6) leaves the model; 4Q61 and Mur3 have no first_y forms any more. Parallels: Part I 19 (17 both defective, 2 scroll fuller), Part II 5 (2 both full, 3 both
+defective). The prior-sensitivity check now has 64 contrasts (65 before); none changes classification.

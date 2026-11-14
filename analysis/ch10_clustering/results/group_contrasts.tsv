@@ -1,22 +1,22 @@
 analysis	profile	test	n	groups	F	p
-nouns	rates	Trebolle: first vs second series	25	18 / 7	0.8303801898155956	0.5236476352364764
-nouns	rates	Trebolle without the Pentateuch	20	13 / 7	1.2420087978629124	0.2705729427057294
-nouns	rates	SP vs MT Pentateuch	10	5 / 5	8.899503416496495	0.008599140085991401
-nouns	counts	Trebolle: first vs second series	25	18 / 7	0.7399279525579809	0.6568343165683431
-nouns	counts	Trebolle without the Pentateuch	20	13 / 7	0.8964623823828054	0.5488451154884512
-nouns	counts	SP vs MT Pentateuch	10	5 / 5	9.203388968852511	0.008599140085991401
-nouns	lexadj	Trebolle: first vs second series	25	18 / 7	0.9956997774558729	0.37046295370462956
-nouns	lexadj	Trebolle without the Pentateuch	20	13 / 7	0.8740338842816956	0.46895310468953105
-nouns	lexadj	SP vs MT Pentateuch	10	5 / 5	20.869214851959196	0.008599140085991401
+nouns	rates	Trebolle: first vs second series	25	18 / 7	0.8179438899347686	0.5356464353564644
+nouns	rates	Trebolle without the Pentateuch	20	13 / 7	1.238235811068152	0.2742725727427257
+nouns	rates	SP vs MT Pentateuch	10	5 / 5	8.783840889740523	0.008599140085991401
+nouns	counts	Trebolle: first vs second series	25	18 / 7	0.7428929189272121	0.6537346265373463
+nouns	counts	Trebolle without the Pentateuch	20	13 / 7	0.8934652459644296	0.5512448755124487
+nouns	counts	SP vs MT Pentateuch	10	5 / 5	9.158535298690675	0.008599140085991401
+nouns	lexadj	Trebolle: first vs second series	25	18 / 7	0.9843919975129777	0.37446255374462556
+nouns	lexadj	Trebolle without the Pentateuch	20	13 / 7	0.8592935713782693	0.47875212478752127
+nouns	lexadj	SP vs MT Pentateuch	10	5 / 5	20.232871860079253	0.008599140085991401
 verbs	rates	Trebolle: first vs second series	20	13 / 7	1.1894574534512197	0.27877212278772123
 verbs	rates	Trebolle without the Pentateuch	15	8 / 7	2.6924096650448606	0.0211978802119788
 verbs	counts	Trebolle: first vs second series	20	13 / 7	1.1210652829565135	0.3337666233376662
 verbs	counts	Trebolle without the Pentateuch	15	8 / 7	1.7009068958357636	0.12568743125687432
 verbs	lexadj	Trebolle: first vs second series	20	13 / 7	1.4441982886150388	0.17578242175782421
 verbs	lexadj	Trebolle without the Pentateuch	15	8 / 7	2.030749927465749	0.051294870512948704
-combined	rates	Trebolle: first vs second series	27	20 / 7	0.8990926751853842	0.47955204479552044
-combined	rates	Trebolle without the Pentateuch	22	15 / 7	1.8691181079199974	0.035896410358964105
-combined	counts	Trebolle: first vs second series	27	20 / 7	0.7866452444137557	0.6618338166183382
-combined	counts	Trebolle without the Pentateuch	22	15 / 7	0.9441799452599843	0.5128487151284872
-combined	lexadj	Trebolle: first vs second series	27	20 / 7	1.1531817166803913	0.29327067293270676
-combined	lexadj	Trebolle without the Pentateuch	22	15 / 7	1.7690307072743567	0.07589241075892411
+combined	rates	Trebolle: first vs second series	27	20 / 7	0.8908648502289394	0.48765123487651235
+combined	rates	Trebolle without the Pentateuch	22	15 / 7	1.8681321543276268	0.036096390360963904
+combined	counts	Trebolle: first vs second series	27	20 / 7	0.7878753989097622	0.6607339266073393
+combined	counts	Trebolle without the Pentateuch	22	15 / 7	0.9419109393423075	0.5142485751424858
+combined	lexadj	Trebolle: first vs second series	27	20 / 7	1.1470997337222113	0.29757024297570245
+combined	lexadj	Trebolle without the Pentateuch	22	15 / 7	1.7625007501083565	0.07749225077492251

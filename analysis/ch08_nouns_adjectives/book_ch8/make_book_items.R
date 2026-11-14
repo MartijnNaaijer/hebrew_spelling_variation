@@ -3,7 +3,8 @@
 #
 # Figures and tables that the analysis scripts do not make, built from their
 # CSV tables and (for the model summaries only) from the stored final fits.
-# Nothing is fitted. Decisions of the author, 2026-11-03.
+# Nothing is fitted. Decisions of the author, 2026-11-03. Data v1.4.0
+# (2026-11-14): first_y has the final model M1 (corpus MT / SP / non-QSP / QSP).
 #
 #   fig_finalw_effects, fig_singlew_effects, fig_firstw_effects,
 #   fig_finaly_effects_not_in_final_model ... : redrawn with the noun breaks
@@ -61,6 +62,11 @@ for (d in list(c('final_w', 'finalw'), c('single_w', 'singlew'), c('first_w', 'f
   save_book_figure(effects_figure(effects), paste0('fig_', d[2], '_effects'), height = 12,
                    folder = out_folder(d[1]))
 }
+# first_y (data v1.4.0): final model M1, one effect (corpus vs the MT)
+effects <- fig_csv('first_y', 'firsty', 'effects') |>
+  mutate(group = factor(group, levels = rev(GROUP_LEVELS)),
+         effect_label = factor(effect_label, levels = NOUN_EFFECT_LABELS))
+save_book_figure(effects_figure(effects), 'fig_firsty_effects', height = 5, folder = out_folder('first_y'))
 
 # ---- 1b. Effects not in the final model (final_y, single_y, first_y) ----------
 # The analysis scripts draw these with a one-line note that runs off the right
@@ -69,11 +75,17 @@ for (d in list(c('final_w', 'finalw'), c('single_w', 'singlew'), c('first_w', 'f
 NOT_IN_FINAL_CAPTION <- paste0('Not in the final model; estimates from M2 (corpus group),\n',
                                'M3 (common affix effect) and M6 (affix effect per group).\n',
                                OR_CAPTION)
+NOT_IN_FINAL_CAPTION_FIRSTY <- paste0('Not in the final model; estimates from M2 (MT groups vs MT Pentateuch),
+',
+                                      'M3 (common affix effect) and M6 (affix effect per group).
+',
+                                      OR_CAPTION)
 for (d in list(c('final_y', 'finaly'), c('single_y', 'singley'), c('first_y', 'firsty'))) {
+  caption <- if (d[1] == 'first_y') NOT_IN_FINAL_CAPTION_FIRSTY else NOT_IN_FINAL_CAPTION
   effects <- fig_csv(d[1], d[2], 'effects_not_in_final_model') |>
     mutate(group = factor(group, levels = rev(c(GROUP_LEVELS, 'All groups'))),
            effect_label = factor(effect_label, levels = NOUN_EFFECT_LABELS))
-  save_book_figure(effects_figure(effects, caption = NOT_IN_FINAL_CAPTION, colour = BOOK_GREY),
+  save_book_figure(effects_figure(effects, caption = caption, colour = BOOK_GREY),
                    paste0('fig_', d[2], '_effects_not_in_final_model'), height = 14,
                    folder = out_folder(d[1]))
 }
@@ -214,7 +226,7 @@ save_book_figure(plot_or(yod_prefix, category, breaks = c(1/4, 1/2, 1, 2, 4),
 
 FINAL_MODELS <- c(final_w = 'na_finalw_M6.rds', final_y = 'na_finaly_nB.rds',
                   single_w = 'na_singlew_M6.rds', single_y = 'na_singley_M0.rds',
-                  first_w = 'na_firstw_M6.rds', first_y = 'na_firsty_M0.rds')
+                  first_w = 'na_firstw_M6.rds', first_y = 'na_firsty_d4_M1.rds')
 PARAMETERS <- c(Intercept = 'b_Intercept', has_suffix = 'b_has_suffix1',
                 sd_book = 'sd_scr_book2__Intercept', sd_lex_book = 'sd_scr_book2:lex__Intercept')
 summaries <- imap_dfr(FINAL_MODELS, function(file, id) {

@@ -1,51 +1,51 @@
 analysis	doc	label	group	forms
 nouns	11Q1_Leviticus	11Q1 Leviticus	Non-QSP	125
-nouns	11Q5_Psalms	11Q5 Psalms	QSP	428
+nouns	11Q5_Psalms	11Q5 Psalms	QSP	427
 nouns	1Q8_Isaiah	1Q8 Isaiah	Non-QSP	422
-nouns	1QisaaI_Isaiah	1QIsaᵃ I Isaiah	QSP	972
-nouns	1QisaaII_Isaiah	1QIsaᵃ II Isaiah	QSP	1138
+nouns	1QisaaI_Isaiah	1QIsaᵃ I Isaiah	QSP	971
+nouns	1QisaaII_Isaiah	1QIsaᵃ II Isaiah	QSP	1134
 nouns	4Q11_Exodus	4Q11 Exodus	Non-QSP	80
 nouns	4Q22_Exodus	4Q22 Exodus	Non-QSP	165
-nouns	4Q27_Numbers	4Q27 Numbers	QSP	92
+nouns	4Q27_Numbers	4Q27 Numbers	QSP	90
 nouns	4Q51_Samuel	4Q51 Samuel	Non-QSP	179
 nouns	MT_Amos	MT Amos	MT other books	258
-nouns	MT_Chronicles	MT Chronicles	MT LBH	2829
+nouns	MT_Chronicles	MT Chronicles	MT LBH	2825
 nouns	MT_Daniel	MT Daniel	MT LBH	331
-nouns	MT_Deuteronomy	MT Deuteronomy	MT Pentateuch	1677
+nouns	MT_Deuteronomy	MT Deuteronomy	MT Pentateuch	1674
 nouns	MT_Ecclesiastes	MT Qoheleth	MT other books	391
 nouns	MT_Esther	MT Esther	MT LBH	345
-nouns	MT_Exodus	MT Exodus	MT Pentateuch	2286
-nouns	MT_Ezekiel	MT Ezekiel	MT other books	2501
+nouns	MT_Exodus	MT Exodus	MT Pentateuch	2280
+nouns	MT_Ezekiel	MT Ezekiel	MT other books	2497
 nouns	MT_Ezra	MT Ezra	MT LBH	345
-nouns	MT_Genesis	MT Genesis	MT Pentateuch	1919
+nouns	MT_Genesis	MT Genesis	MT Pentateuch	1917
 nouns	MT_Habakkuk	MT Habakkuk	MT other books	82
 nouns	MT_Haggai	MT Haggai	MT other books	91
 nouns	MT_Hosea	MT Hosea	MT other books	231
-nouns	MT_Isaiah	MT Isaiah	MT other books	2127
+nouns	MT_Isaiah	MT Isaiah	MT other books	2122
 nouns	MT_Jeremiah	MT Jeremiah	MT other books	2649
-nouns	MT_Job	MT Job	MT other books	901
+nouns	MT_Job	MT Job	MT other books	900
 nouns	MT_Joel	MT Joel	MT other books	140
 nouns	MT_Joshua	MT Joshua	MT Former Prophets	928
-nouns	MT_Judges	MT Judges	MT Former Prophets	735
-nouns	MT_Kings	MT Kings	MT Former Prophets	2420
+nouns	MT_Judges	MT Judges	MT Former Prophets	734
+nouns	MT_Kings	MT Kings	MT Former Prophets	2418
 nouns	MT_Lamentations	MT Lamentations	MT other books	217
-nouns	MT_Leviticus	MT Leviticus	MT Pentateuch	1658
+nouns	MT_Leviticus	MT Leviticus	MT Pentateuch	1610
 nouns	MT_Micah	MT Micah	MT other books	152
 nouns	MT_Nahum	MT Nahum	MT other books	94
 nouns	MT_Nehemiah	MT Nehemiah	MT LBH	597
-nouns	MT_Numbers	MT Numbers	MT Pentateuch	1765
+nouns	MT_Numbers	MT Numbers	MT Pentateuch	1759
 nouns	MT_Proverbs	MT Proverbs	MT other books	999
-nouns	MT_Psalms	MT Psalms	MT other books	2944
+nouns	MT_Psalms	MT Psalms	MT other books	2938
 nouns	MT_Ruth	MT Ruth	MT other books	89
-nouns	MT_Samuel	MT Samuel	MT Former Prophets	2118
+nouns	MT_Samuel	MT Samuel	MT Former Prophets	2114
 nouns	MT_Song_of_songs	MT Song of Songs	MT other books	172
 nouns	MT_Zechariah	MT Zechariah	MT other books	360
 nouns	MT_Zephaniah	MT Zephaniah	MT other books	112
-nouns	SP_Deuteronomy	SP Deuteronomy	SP	1709
-nouns	SP_Exodus	SP Exodus	SP	2428
-nouns	SP_Genesis	SP Genesis	SP	1966
-nouns	SP_Leviticus	SP Leviticus	SP	1688
-nouns	SP_Numbers	SP Numbers	SP	1820
+nouns	SP_Deuteronomy	SP Deuteronomy	SP	1707
+nouns	SP_Exodus	SP Exodus	SP	2422
+nouns	SP_Genesis	SP Genesis	SP	1964
+nouns	SP_Leviticus	SP Leviticus	SP	1639
+nouns	SP_Numbers	SP Numbers	SP	1814
 verbs	11Q5_Psalms	11Q5 Psalms	QSP	179
 verbs	1Q8_Isaiah	1Q8 Isaiah	Non-QSP	198
 verbs	1QisaaI_Isaiah	1QIsaᵃ I Isaiah	QSP	512
@@ -75,14 +75,14 @@ verbs	MT_Psalms	MT Psalms	MT other books	1136
 verbs	MT_Samuel	MT Samuel	MT Former Prophets	896
 verbs	MT_Zechariah	MT Zechariah	MT other books	183
 combined	11Q1_Leviticus	11Q1 Leviticus	Non-QSP	174
-combined	11Q5_Psalms	11Q5 Psalms	QSP	607
+combined	11Q5_Psalms	11Q5 Psalms	QSP	606
 combined	1Q8_Isaiah	1Q8 Isaiah	Non-QSP	620
-combined	1QisaaI_Isaiah	1QIsaᵃ I Isaiah	QSP	1484
-combined	1QisaaII_Isaiah	1QIsaᵃ II Isaiah	QSP	1728
+combined	1QisaaI_Isaiah	1QIsaᵃ I Isaiah	QSP	1483
+combined	1QisaaII_Isaiah	1QIsaᵃ II Isaiah	QSP	1724
 combined	4Q11_Exodus	4Q11 Exodus	Non-QSP	100
 combined	4Q22_Exodus	4Q22 Exodus	Non-QSP	200
-combined	4Q24_Leviticus	4Q24 Leviticus	Non-QSP	93
-combined	4Q27_Numbers	4Q27 Numbers	QSP	131
+combined	4Q24_Leviticus	4Q24 Leviticus	Non-QSP	91
+combined	4Q27_Numbers	4Q27 Numbers	QSP	129
 combined	4Q41_Deuteronomy	4Q41 Deuteronomy	Non-QSP	89
 combined	4Q51_Samuel	4Q51 Samuel	Non-QSP	257
 combined	4Q56_Isaiah	4Q56 Isaiah	Non-QSP	130
@@ -93,37 +93,37 @@ combined	4Q83_Psalms	4Q83 Psalms	Non-QSP	83
 combined	4Q84_Psalms	4Q84 Psalms	Non-QSP	85
 combined	5/6hev1b_Psalms	5/6hev1b Psalms	Non-QSP	82
 combined	MT_Amos	MT Amos	MT other books	370
-combined	MT_Chronicles	MT Chronicles	MT LBH	3751
+combined	MT_Chronicles	MT Chronicles	MT LBH	3747
 combined	MT_Daniel	MT Daniel	MT LBH	451
-combined	MT_Deuteronomy	MT Deuteronomy	MT Pentateuch	2383
+combined	MT_Deuteronomy	MT Deuteronomy	MT Pentateuch	2380
 combined	MT_Ecclesiastes	MT Qoheleth	MT other books	576
 combined	MT_Esther	MT Esther	MT LBH	494
-combined	MT_Exodus	MT Exodus	MT Pentateuch	2814
-combined	MT_Ezekiel	MT Ezekiel	MT other books	3207
+combined	MT_Exodus	MT Exodus	MT Pentateuch	2808
+combined	MT_Ezekiel	MT Ezekiel	MT other books	3203
 combined	MT_Ezra	MT Ezra	MT LBH	419
-combined	MT_Genesis	MT Genesis	MT Pentateuch	2589
+combined	MT_Genesis	MT Genesis	MT Pentateuch	2587
 combined	MT_Habakkuk	MT Habakkuk	MT other books	125
 combined	MT_Haggai	MT Haggai	MT other books	115
 combined	MT_Hosea	MT Hosea	MT other books	331
-combined	MT_Isaiah	MT Isaiah	MT other books	3217
+combined	MT_Isaiah	MT Isaiah	MT other books	3212
 combined	MT_Jeremiah	MT Jeremiah	MT other books	3703
-combined	MT_Job	MT Job	MT other books	1292
+combined	MT_Job	MT Job	MT other books	1291
 combined	MT_Joel	MT Joel	MT other books	188
 combined	MT_Jonah	MT Jonah	MT other books	91
 combined	MT_Joshua	MT Joshua	MT Former Prophets	1301
-combined	MT_Judges	MT Judges	MT Former Prophets	1133
-combined	MT_Kings	MT Kings	MT Former Prophets	3357
+combined	MT_Judges	MT Judges	MT Former Prophets	1132
+combined	MT_Kings	MT Kings	MT Former Prophets	3355
 combined	MT_Lamentations	MT Lamentations	MT other books	282
-combined	MT_Leviticus	MT Leviticus	MT Pentateuch	2089
+combined	MT_Leviticus	MT Leviticus	MT Pentateuch	2041
 combined	MT_Malachi	MT Malachi	MT other books	122
 combined	MT_Micah	MT Micah	MT other books	239
 combined	MT_Nahum	MT Nahum	MT other books	130
 combined	MT_Nehemiah	MT Nehemiah	MT LBH	857
-combined	MT_Numbers	MT Numbers	MT Pentateuch	2362
+combined	MT_Numbers	MT Numbers	MT Pentateuch	2356
 combined	MT_Proverbs	MT Proverbs	MT other books	1502
-combined	MT_Psalms	MT Psalms	MT other books	4080
+combined	MT_Psalms	MT Psalms	MT other books	4074
 combined	MT_Ruth	MT Ruth	MT other books	153
-combined	MT_Samuel	MT Samuel	MT Former Prophets	3014
+combined	MT_Samuel	MT Samuel	MT Former Prophets	3010
 combined	MT_Song_of_songs	MT Song of Songs	MT other books	235
 combined	MT_Zechariah	MT Zechariah	MT other books	543
 combined	MT_Zephaniah	MT Zephaniah	MT other books	160
