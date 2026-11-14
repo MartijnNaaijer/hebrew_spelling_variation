@@ -3,8 +3,7 @@
 #
 # Figures and tables that the analysis scripts do not make, built from their
 # CSV tables and (for the model summaries only) from the stored final fits.
-# Nothing is fitted. Decisions: Claude doc "Chapter 8 revision" (author,
-# 2026-11-03).
+# Nothing is fitted. Decisions of the author, 2026-11-03.
 #
 #   fig_finalw_effects, fig_singlew_effects, fig_firstw_effects,
 #   fig_finaly_effects_not_in_final_model ... : redrawn with the noun breaks

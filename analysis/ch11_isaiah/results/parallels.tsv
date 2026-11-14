@@ -1,137 +1,137 @@
-feature	manuscript	parallels	both_full	both_defective	scroll_fuller	mt_fuller
-final_w	1Q8	188	89	75	6	18
-final_w	1QisaaI	361	215	54	86	6
-final_w	1QisaaII	434	217	44	167	6
-final_w	4Q55	16	7	7	0	2
-final_w	4Q56	27	10	15	1	1
-final_w	4Q57	28	17	3	8	0
-final_w	4Q58	20	9	6	0	5
-final_w	4Q59	9	5	4	0	0
-final_w	4Q60	5	0	1	0	4
-final_w	4Q61	3	0	2	0	1
-final_w	4Q62	1	0	0	0	1
-final_w	4Q62a	1	1	0	0	0
-final_w	4Q64	1	1	0	0	0
-final_w	4Q67	1	0	1	0	0
-final_w	4Q68	1	0	1	0	0
-final_w	Mur3	1	1	0	0	0
-final_y	1Q8	24	17	7	0	0
-final_y	1QisaaI	110	60	39	6	5
-final_y	1QisaaII	79	59	14	4	2
-final_y	4Q55	6	3	2	1	0
-final_y	4Q56	10	6	3	0	1
-final_y	4Q57	12	6	2	2	2
-final_y	4Q58	4	1	2	0	1
-final_y	4Q59	3	2	1	0	0
-final_y	4Q60	2	0	1	1	0
-final_y	4Q64	1	0	1	0	0
-single_w	1Q8	120	42	69	0	9
-single_w	1QisaaI	263	94	41	125	3
-single_w	1QisaaII	306	113	7	183	3
-single_w	4Q55	14	4	9	1	0
-single_w	4Q56	25	6	19	0	0
-single_w	4Q57	17	5	0	12	0
-single_w	4Q58	7	1	5	0	1
-single_w	4Q59	11	1	10	0	0
-single_w	4Q60	8	3	5	0	0
-single_w	4Q61	2	0	1	1	0
-single_w	4Q62	1	0	0	0	1
-single_w	4Q62a	2	1	1	0	0
-single_w	4Q63	1	0	1	0	0
-single_w	4Q64	1	0	1	0	0
-single_w	4Q68	1	0	1	0	0
-single_w	Mur3	2	0	2	0	0
-single_y	1Q8	9	4	3	0	2
-single_y	1QisaaI	24	14	6	2	2
-single_y	1QisaaII	31	15	12	2	2
-single_y	4Q56	2	1	1	0	0
-single_y	4Q57	3	1	1	1	0
-single_y	4Q58	1	0	0	1	0
-single_y	4Q60	1	0	1	0	0
-single_y	4Q61	1	0	1	0	0
-single_y	4Q62	1	1	0	0	0
-single_y	4Q66	1	1	0	0	0
-first_w	1Q8	71	18	52	0	1
-first_w	1QisaaI	164	30	70	61	3
-first_w	1QisaaII	224	55	44	125	0
-first_w	4Q55	7	1	6	0	0
-first_w	4Q56	14	3	10	1	0
-first_w	4Q57	12	3	4	5	0
-first_w	4Q58	11	0	10	1	0
-first_w	4Q59	3	0	3	0	0
-first_w	4Q60	2	0	2	0	0
-first_w	4Q65	2	1	0	0	1
-first_w	4Q67	2	0	2	0	0
-first_w	4Q68	2	0	2	0	0
-first_y	1Q8	3	1	1	0	1
-first_y	1QisaaI	20	0	18	2	0
-first_y	1QisaaII	9	2	7	0	0
-first_y	4Q60	1	0	1	0	0
-first_y	4Q61	1	0	1	0	0
-first_y	Mur3	1	0	1	0	0
-ptca_qal	1Q8	74	13	35	25	1
-ptca_qal	1QisaaI	209	53	36	117	3
-ptca_qal	1QisaaII	200	46	18	135	1
-ptca_qal	4Q55	10	2	3	5	0
-ptca_qal	4Q56	20	2	16	1	1
-ptca_qal	4Q57	21	3	2	16	0
-ptca_qal	4Q58	8	1	5	0	2
-ptca_qal	4Q59	4	1	2	1	0
-ptca_qal	4Q60	6	0	4	0	2
-ptca_qal	4Q62	3	0	2	0	1
-ptca_qal	4Q68	1	1	0	0	0
-ptcp_qal	1Q8	19	15	1	0	3
-ptcp_qal	1QisaaI	43	34	3	4	2
-ptcp_qal	1QisaaII	29	27	0	1	1
-ptcp_qal	4Q55	1	1	0	0	0
-ptcp_qal	4Q56	2	1	0	0	1
-ptcp_qal	4Q57	2	2	0	0	0
-ptcp_qal	4Q58	4	4	0	0	0
-ptcp_qal	4Q66	1	1	0	0	0
-infc_qal_triliteral	1Q8	14	5	9	0	0
-infc_qal_triliteral	1QisaaI	52	3	14	35	0
-infc_qal_triliteral	1QisaaII	41	5	0	36	0
-infc_qal_triliteral	4Q55	3	1	2	0	0
-infc_qal_triliteral	4Q56	7	0	7	0	0
-infc_qal_triliteral	4Q57	3	1	0	2	0
-infc_qal_triliteral	4Q58	1	0	1	0	0
-infc_qal_triliteral	4Q60	2	0	2	0	0
-infc_qal_triliteral	4Q66	1	0	0	1	0
-infc_qal_triliteral	4Q67	1	0	0	0	1
-infc_qal_lamed_he	1Q8	6	6	0	0	0
-infc_qal_lamed_he	1QisaaI	19	17	0	2	0
-infc_qal_lamed_he	1QisaaII	16	16	0	0	0
-infc_qal_lamed_he	4Q55	1	1	0	0	0
-infc_qal_lamed_he	4Q57	1	1	0	0	0
-infc_qal_lamed_he	4Q58	3	3	0	0	0
-infc_qal_lamed_he	4Q61	1	1	0	0	0
-infa_qal	1Q8	4	1	1	2	0
-infa_qal	1QisaaI	19	7	6	4	2
-infa_qal	1QisaaII	8	5	1	2	0
-infa_qal	4Q55	2	1	0	1	0
-infa_qal	4Q56	2	0	1	0	1
-infa_qal	4Q57	1	1	0	0	0
-infa_qal	4Q58	1	0	1	0	0
-infa_qal	4Q60	1	1	0	0	0
-hiphil_triliteral	1Q8	56	50	1	3	2
-hiphil_triliteral	1QisaaI	87	77	3	3	4
-hiphil_triliteral	1QisaaII	165	151	3	6	5
-hiphil_triliteral	4Q55	3	3	0	0	0
-hiphil_triliteral	4Q56	11	9	1	0	1
-hiphil_triliteral	4Q57	5	5	0	0	0
-hiphil_triliteral	4Q58	14	14	0	0	0
-hiphil_triliteral	4Q59	1	1	0	0	0
-hiphil_triliteral	4Q60	2	2	0	0	0
-hiphil_triliteral	4Q61	2	2	0	0	0
-hiphil_triliteral	4Q62	1	1	0	0	0
-hiphil_triliteral	4Q63	1	1	0	0	0
-hiphil_triliteral	4Q65	1	0	1	0	0
-niph_hiph_pe_yod	1Q8	23	21	0	0	2
-niph_hiph_pe_yod	1QisaaI	54	48	1	3	2
-niph_hiph_pe_yod	1QisaaII	75	74	0	1	0
-niph_hiph_pe_yod	4Q55	1	1	0	0	0
-niph_hiph_pe_yod	4Q56	8	8	0	0	0
-niph_hiph_pe_yod	4Q57	3	3	0	0	0
-niph_hiph_pe_yod	4Q58	6	6	0	0	0
-niph_hiph_pe_yod	4Q59	3	1	0	2	0
-niph_hiph_pe_yod	4Q62	1	1	0	0	0
+feature	manuscript	parallels	both_full	both_defective	scroll_fuller	mt_fuller	p_sign
+final_w	1Q8	188	89	75	6	18	0.022655844688415548
+final_w	1QisaaI	361	215	54	86	6	3.0904949905397176e-19
+final_w	1QisaaII	434	217	44	167	6	5.907683559685017e-42
+final_w	4Q55	16	7	7	0	2	0.5
+final_w	4Q56	27	10	15	1	1	1
+final_w	4Q57	28	17	3	8	0	0.0078125
+final_w	4Q58	20	9	6	0	5	0.0625
+final_w	4Q59	9	5	4	0	0	NA
+final_w	4Q60	5	0	1	0	4	0.125
+final_w	4Q61	3	0	2	0	1	1
+final_w	4Q62	1	0	0	0	1	1
+final_w	4Q62a	1	1	0	0	0	NA
+final_w	4Q64	1	1	0	0	0	NA
+final_w	4Q67	1	0	1	0	0	NA
+final_w	4Q68	1	0	1	0	0	NA
+final_w	Mur3	1	1	0	0	0	NA
+final_y	1Q8	24	17	7	0	0	NA
+final_y	1QisaaI	110	60	39	6	5	1
+final_y	1QisaaII	79	59	14	4	2	0.6874999999999999
+final_y	4Q55	6	3	2	1	0	1
+final_y	4Q56	10	6	3	0	1	1
+final_y	4Q57	12	6	2	2	2	1
+final_y	4Q58	4	1	2	0	1	1
+final_y	4Q59	3	2	1	0	0	NA
+final_y	4Q60	2	0	1	1	0	1
+final_y	4Q64	1	0	1	0	0	NA
+single_w	1Q8	120	42	69	0	9	0.0039062500000000035
+single_w	1QisaaI	263	94	41	125	3	2.0549580818052463e-33
+single_w	1QisaaII	306	113	7	183	3	2.187265744411932e-50
+single_w	4Q55	14	4	9	1	0	1
+single_w	4Q56	25	6	19	0	0	NA
+single_w	4Q57	17	5	0	12	0	4.882812500000001e-4
+single_w	4Q58	7	1	5	0	1	1
+single_w	4Q59	11	1	10	0	0	NA
+single_w	4Q60	8	3	5	0	0	NA
+single_w	4Q61	2	0	1	1	0	1
+single_w	4Q62	1	0	0	0	1	1
+single_w	4Q62a	2	1	1	0	0	NA
+single_w	4Q63	1	0	1	0	0	NA
+single_w	4Q64	1	0	1	0	0	NA
+single_w	4Q68	1	0	1	0	0	NA
+single_w	Mur3	2	0	2	0	0	NA
+single_y	1Q8	9	4	3	0	2	0.5
+single_y	1QisaaI	24	14	6	2	2	1
+single_y	1QisaaII	31	15	12	2	2	1
+single_y	4Q56	2	1	1	0	0	NA
+single_y	4Q57	3	1	1	1	0	1
+single_y	4Q58	1	0	0	1	0	1
+single_y	4Q60	1	0	1	0	0	NA
+single_y	4Q61	1	0	1	0	0	NA
+single_y	4Q62	1	1	0	0	0	NA
+single_y	4Q66	1	1	0	0	0	NA
+first_w	1Q8	71	18	52	0	1	1
+first_w	1QisaaI	164	30	70	61	3	4.742842403537844e-15
+first_w	1QisaaII	224	55	44	125	0	4.701977403289163e-38
+first_w	4Q55	7	1	6	0	0	NA
+first_w	4Q56	14	3	10	1	0	1
+first_w	4Q57	12	3	4	5	0	0.0625
+first_w	4Q58	11	0	10	1	0	1
+first_w	4Q59	3	0	3	0	0	NA
+first_w	4Q60	2	0	2	0	0	NA
+first_w	4Q65	2	1	0	0	1	1
+first_w	4Q67	2	0	2	0	0	NA
+first_w	4Q68	2	0	2	0	0	NA
+first_y	1Q8	3	1	1	0	1	1
+first_y	1QisaaI	20	0	18	2	0	0.5
+first_y	1QisaaII	9	2	7	0	0	NA
+first_y	4Q60	1	0	1	0	0	NA
+first_y	4Q61	1	0	1	0	0	NA
+first_y	Mur3	1	0	1	0	0	NA
+ptca_qal	1Q8	74	13	35	25	1	8.046627044677746e-7
+ptca_qal	1QisaaI	209	53	36	117	3	4.334862053968064e-31
+ptca_qal	1QisaaII	200	46	18	135	1	3.145365743411193e-39
+ptca_qal	4Q55	10	2	3	5	0	0.0625
+ptca_qal	4Q56	20	2	16	1	1	1
+ptca_qal	4Q57	21	3	2	16	0	3.051757812500002e-5
+ptca_qal	4Q58	8	1	5	0	2	0.5
+ptca_qal	4Q59	4	1	2	1	0	1
+ptca_qal	4Q60	6	0	4	0	2	0.5
+ptca_qal	4Q62	3	0	2	0	1	1
+ptca_qal	4Q68	1	1	0	0	0	NA
+ptcp_qal	1Q8	19	15	1	0	3	0.25000000000000006
+ptcp_qal	1QisaaI	43	34	3	4	2	0.6874999999999999
+ptcp_qal	1QisaaII	29	27	0	1	1	1
+ptcp_qal	4Q55	1	1	0	0	0	NA
+ptcp_qal	4Q56	2	1	0	0	1	1
+ptcp_qal	4Q57	2	2	0	0	0	NA
+ptcp_qal	4Q58	4	4	0	0	0	NA
+ptcp_qal	4Q66	1	1	0	0	0	NA
+infc_qal_triliteral	1Q8	14	5	9	0	0	NA
+infc_qal_triliteral	1QisaaI	52	3	14	35	0	5.820766091346761e-11
+infc_qal_triliteral	1QisaaII	41	5	0	36	0	2.9103830456733687e-11
+infc_qal_triliteral	4Q55	3	1	2	0	0	NA
+infc_qal_triliteral	4Q56	7	0	7	0	0	NA
+infc_qal_triliteral	4Q57	3	1	0	2	0	0.5
+infc_qal_triliteral	4Q58	1	0	1	0	0	NA
+infc_qal_triliteral	4Q60	2	0	2	0	0	NA
+infc_qal_triliteral	4Q66	1	0	0	1	0	1
+infc_qal_triliteral	4Q67	1	0	0	0	1	1
+infc_qal_lamed_he	1Q8	6	6	0	0	0	NA
+infc_qal_lamed_he	1QisaaI	19	17	0	2	0	0.5
+infc_qal_lamed_he	1QisaaII	16	16	0	0	0	NA
+infc_qal_lamed_he	4Q55	1	1	0	0	0	NA
+infc_qal_lamed_he	4Q57	1	1	0	0	0	NA
+infc_qal_lamed_he	4Q58	3	3	0	0	0	NA
+infc_qal_lamed_he	4Q61	1	1	0	0	0	NA
+infa_qal	1Q8	4	1	1	2	0	0.5
+infa_qal	1QisaaI	19	7	6	4	2	0.6874999999999999
+infa_qal	1QisaaII	8	5	1	2	0	0.5
+infa_qal	4Q55	2	1	0	1	0	1
+infa_qal	4Q56	2	0	1	0	1	1
+infa_qal	4Q57	1	1	0	0	0	NA
+infa_qal	4Q58	1	0	1	0	0	NA
+infa_qal	4Q60	1	1	0	0	0	NA
+hiphil_triliteral	1Q8	56	50	1	3	2	1
+hiphil_triliteral	1QisaaI	87	77	3	3	4	1
+hiphil_triliteral	1QisaaII	165	151	3	6	5	1
+hiphil_triliteral	4Q55	3	3	0	0	0	NA
+hiphil_triliteral	4Q56	11	9	1	0	1	1
+hiphil_triliteral	4Q57	5	5	0	0	0	NA
+hiphil_triliteral	4Q58	14	14	0	0	0	NA
+hiphil_triliteral	4Q59	1	1	0	0	0	NA
+hiphil_triliteral	4Q60	2	2	0	0	0	NA
+hiphil_triliteral	4Q61	2	2	0	0	0	NA
+hiphil_triliteral	4Q62	1	1	0	0	0	NA
+hiphil_triliteral	4Q63	1	1	0	0	0	NA
+hiphil_triliteral	4Q65	1	0	1	0	0	NA
+niph_hiph_pe_yod	1Q8	23	21	0	0	2	0.5
+niph_hiph_pe_yod	1QisaaI	54	48	1	3	2	1
+niph_hiph_pe_yod	1QisaaII	75	74	0	1	0	1
+niph_hiph_pe_yod	4Q55	1	1	0	0	0	NA
+niph_hiph_pe_yod	4Q56	8	8	0	0	0	NA
+niph_hiph_pe_yod	4Q57	3	3	0	0	0	NA
+niph_hiph_pe_yod	4Q58	6	6	0	0	0	NA
+niph_hiph_pe_yod	4Q59	3	1	0	2	0	0.5
+niph_hiph_pe_yod	4Q62	1	1	0	0	0	NA

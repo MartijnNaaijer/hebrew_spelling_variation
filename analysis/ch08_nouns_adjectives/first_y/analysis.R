@@ -144,7 +144,7 @@ dat |> filter(lex == 'KTNT/') |> count(corpus, full = is_full(has_vowel_letter))
 
 # ==== 3. DATA MODELLING ====
 #
-# Design as in the verbs (../CLAUDE.md; author, 2026-10-19):
+# Design as in the verbs (analysis/README.md; author, 2026-10-19):
 #   - Random part nested: (1 | scr_book2/lex).
 #   - corpus_group with MT Pentateuch as reference; SP its own level.
 #   - Priors normal(0, 2.5) on intercept and coefficients, exponential(1) on
@@ -217,7 +217,7 @@ walk(robustness_specs, \(r) ensure_noun_model(r$file, model_specs$M6, r$data))
 ensure_noun_model(model_file('M2_no_KTNT'), model_specs$M2, dat_no_ktnt)
 
 # ---- 3e. Final model ----
-# Chosen after the k-fold with the credible-effects rules (../CLAUDE.md):
+# Chosen after the k-fold with the credible-effects rules (analysis/README.md):
 # only credible effects (95% interval excludes 0) that the k-fold does not
 # clearly reject; see REPORT.md.
 

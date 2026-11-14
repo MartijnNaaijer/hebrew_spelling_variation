@@ -5,12 +5,12 @@ The R scripts of the statistical analyses in chapters 7–12 of the book. They r
 
 | Folder | Chapter | What it does |
 |---|---|---|
-| `ch07_regression_illustrations` | 7 | Illustrations of linear, logistic and multilevel regression |
+| `ch07_regression_illustrations` | 7 | Figures of chapter 7 and the Appendix (pooling models of a teaching example; linear and logistic regression) |
 | `ch08_nouns_adjectives` | 8 | Bayesian multilevel models of the vowel letters in nouns and adjectives (seven datasets) |
 | `ch09_verbs` | 9 | Bayesian multilevel models of the vowel letters in seven verbal forms |
-| `ch10_clustering` | 10 | Hierarchical cluster analysis of documents (Ward's method, bootstrap support) |
+| `ch10_clustering` | 10 | Documents by vowel-letter profile (Ward's method, bootstrap support, direct group tests) |
 | `ch11_isaiah` | 11 | Comparison of the manuscripts of Isaiah (Bayesian models and parallels) |
-| `ch12_sequences` | 12 | Block spelling and rapid alternation (permutation tests) |
+| `ch12_sequences` | 12 | Block spelling and rapid alternation (permutation tests and a model-based null) |
 | `shared` | 8–12 | `config.R` and `functions.R` used by all models, and the Charis fonts of the figures |
 
 Each folder has a README with its scripts, method and output. The analyses of chapters 8 and 9 have one
@@ -28,21 +28,22 @@ Order:
 1. The datasets in `data/` (in the repository; to rebuild them, see the main README).
 2. `analysis/ch10_clustering/export_cleaned_data.R` writes the cleaned datasets of chapters 8 and 9 to
    `analysis/ch10_clustering/data/` (not in the repository). Chapters 10, 11 and 12 read them.
-3. Chapters 8 and 9 (each dataset separately), 10, 11 and 12, in any order. Chapter 7 is independent.
+3. Chapters 8 and 9 (each dataset separately), 10, 11 and 12, in any order; chapter 12's model-based null
+   reads the stored chapter 9 fits (`ch12_sequences/model_weights.R`). Chapter 7 is independent.
 
 ### Model fits
 
-The fitted models of chapters 8, 9 and 11 are not in the repository (about 100 GB). The scripts store them in
+The fitted models of chapters 7, 8, 9 and 11 are not in the repository (about 100 GB). The scripts store them in
 `analysis/models/` (ignored by git), or in the folder given by the environment variable `SPELLING_MODEL_DIR`,
-with one subfolder per analysis (`analysis_nouns`, `analysis_verbs`, `isaiah`):
+with one subfolder per analysis (`analysis_nouns`, `analysis_verbs` (also chapter 7), `isaiah`):
 
     SPELLING_MODEL_DIR=D:/brms_models_spelling Rscript analysis/ch11_isaiah/isaiah_analysis.R
 
 The scripts of chapters 8 and 9 have `ALLOW_FIT <- FALSE` near the top: they then only load stored fits and
 stop when a fit is missing. Set `ALLOW_FIT <- TRUE` to fit the models. A complete run of one dataset fits
 all candidate models, k-fold cross-validations and robustness checks, which takes hours to more than a day.
-The scripts in `tools/` run approved refits from the command line. The chapter 11 script fits its models
-when they are missing.
+The scripts in `tools/` run approved refits from the command line. The chapter 7 and chapter 11 scripts fit
+their models when they are missing.
 
 Quick test runs: `CH10_B=20` (chapter 10, bootstrap replicates; default 1,000), `CH12_B=200` (chapter 12,
 permutations; default 10,000), `ISA_ONLY_DATA=1` (chapter 11 without models).
@@ -52,8 +53,10 @@ permutations; default 10,000), `ISA_ONLY_DATA=1` (chapter 11 without models).
 The book uses data release v1.2.0 (commit `37b4f01`). That release corrected the suffix and ending coding of
 some DSS forms after most models of chapters 8 and 9 had been fitted (on the data of 19 October 2026):
 
-- refitted on v1.2.0: the qal passive participle (`ptcp_d3_*`), all models of chapter 11 (`isa_d2_*`), and
-  the cleaned datasets of chapters 10 and 12;
+- refitted on v1.2.0: the qal passive participle (`ptcp_d3_*`), all models of chapter 11 (`isa_d2_*`; the
+  checks of 2026-11-13, `isa_p25_*` and `isa_pair_*`, are also fitted on v1.2.0), and the cleaned datasets of
+  chapters 10 and 12;
+- fitted on v1.2.0: the three teaching models of chapter 7 (`ch07_teaching_*`);
 - unchanged model data: the infinitives (datasets identical), the five noun datasets other than `final_w`
   and `single_w`, and the final pe-yod model (no suffix term);
 - fitted on the earlier data and kept: the nouns `final_w` (2 DSS forms with another `has_suffix`) and
@@ -63,10 +66,32 @@ some DSS forms after most models of chapters 8 and 9 had been fitted (on the dat
 
 The descriptive tables in `figures/` are computed from the v1.2.0 data.
 
+### Choice of the final model (chapters 8 and 9)
+
+The final models contain only credible effects (author's decision, 2026-10-10). Fuller models are described in
+the REPORT files with the reason why they were not chosen; effects left out are reported as "no credible
+effect" with their estimates from the comparison models. Comments and REPORT files call these the
+credible-effects rules:
+
+1. Credible = the 95% interval excludes 0 (pd ≥ 0.975), and the grouped k-fold cross-validation does not
+   clearly prefer a fuller model.
+2. Factors with several levels (e.g. the document group): the factor is kept if at least one level is
+   credible, and all levels are reported with their intervals.
+3. A credible effect goes into the final model, even without a gain in the k-fold, unless (i) it rests on
+   one or a few lexemes (it disappears in the robustness check without them; it is then reported as a
+   lexeme effect), or (ii) it is a proxy for another variable in the model (e.g. the prefix ו for the
+   wayyiqtol).
+4. If a credible effect in the final model brings no clear gain in the grouped k-fold, the REPORT discusses
+   this: the effect is credible but does not predict new books better, why (small effect, few forms or
+   books, large variation between books or lexemes), and what that means for the conclusion. For each final
+   model, the k-fold comparison with the model without each of its effects is reported.
+
+MT Pentateuch is the reference level of `corpus_group` in every model.
+
 ### Notes in the code
 
 Comments and REPORT files refer to decisions of the author with dates, and sometimes to working notes
-(`TODO.md`, `CLAUDE.md`, `BOOK_CHANGES_*.md`, `KFOLD_ISSUE.md`) and earlier scripts (`*_cleaned.R`) that are
+(`TODO.md`, `BOOK_CHANGES_*.md`, `KFOLD_ISSUE.md`) and earlier scripts (`*_cleaned.R`) that are
 not in the repository. The decisions themselves are described in the comments and REPORT files.
 
 ## Software
@@ -84,6 +109,6 @@ analysis uses `hclust` of the stats package. Other packages (versions used for t
 | patchwork | 1.3.2 | ggpubr | 0.6.2 | ggeffects | 2.3.1 |
 | ggtext | 0.2.0 | scales | 1.4.0 | ragg | 1.5.0 |
 | systemfonts | 1.2.3 | lme4 | 1.1-37 | future | 1.67.0 |
-| kableExtra | 1.4.0 | htmlTable | 2.4.3 | | |
+| kableExtra | 1.4.0 | htmlTable | 2.4.3 | ggrepel | 0.9.6 |
 
 The datasets were made with Python 3 and Text-Fabric 13.1.1 (`../requirements.txt`).

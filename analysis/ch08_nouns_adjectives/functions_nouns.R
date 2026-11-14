@@ -306,7 +306,7 @@ standard_figures <- function(dat, tag, parallels) {
 
 
 ################################################################################
-# MODELS (the same design for the six datasets; verbs rules, CLAUDE.md)
+# MODELS (the same design for the six datasets; rules in analysis/README.md)
 #
 #   - NOUN_MODEL_SPECS    M0 null; M1 corpus; M2 corpus_group; M3 M2 + suffix
 #                         + prefix; M4 M3 + corpus_group x suffix; M5 M3 +

@@ -101,7 +101,7 @@ the tables of §8.2.2.4 (`_mqwm_pentateuch`, `_arwn_sp`, `_arwn_scrolls`,
 - Grouped 5-fold k-fold: every scroll-book is left out as a whole. As in
   first_w and single_w (`../KFOLD_ISSUE.md`), an ordinary 5-fold over forms,
   stratified by scroll-book × lexeme, for M2, M3 and M6. No Bayes factors.
-- Final model chosen by the credible-effects rules (`../CLAUDE.md`) and the
+- Final model chosen by the credible-effects rules (`analysis/README.md`) and the
   author's decision of 2026-11-01.
 
 ## Model comparison

@@ -10,7 +10,7 @@
 #   2. Do the late books (LBH) spell more fully?
 #   3. Do ayin-ayin (ע-ע) verbs and forms with a prefix behave differently?
 #
-# Design decisions (2026-10-08, see ../TODO.md and ../CLAUDE.md; priors,
+# Design decisions (2026-10-08, see ../TODO.md and analysis/README.md; priors,
 # folds and model set replaced on 2026-10-17, see CHANGES 2026-10-17):
 #   - Random part always nested: (1 | scr_book2/lex).
 #   - Weakly informative priors: normal(0, 1.5) on intercept and coefficients,
@@ -31,7 +31,7 @@
 #
 # CHANGES 2026-10-10:
 #   - Final model M3 -> M3b (corpus + ayin-ayin): final models contain only
-#     credible effects (../CLAUDE.md). New models M3b and A1 (for the k-fold
+#     credible effects (analysis/README.md). New models M3b and A1 (for the k-fold
 #     comparison without corpus); robustness and prior sensitivity on M3b.
 #   - Intervals in the figures: median_qi instead of median_hdi (the HDI is
 #     unstable for probabilities near 0 and 1; as in the other verb forms).
@@ -82,6 +82,12 @@
 # Model fits:  MODEL_FOLDER (config.R), files 'infa2_*.rds' (since 2026-10-17;
 #              'infa_*.rds' before).
 # Figures:     infa_qal/figures/fig_infa_*.png/.pdf (book), check_infa_* (checks).
+#
+# CHANGES 2026-11-10 (author: chapter 9 figures like chapter 8):
+#   - The book figures by document group use corpus_group, with the non-QSP
+#     scrolls as one group (column fig_group, labelled 'MT Other'), instead
+#     of law_phase3 (non-QSP split by group of books), as the models and the
+#     figures of chapter 8. The filters and captions for Non-QSP LBH are gone.
 ################################################################################
 
 
@@ -212,9 +218,13 @@ table(dat$has_suffix)   # no suffixes on the infinitive absolute in this dataset
 
 # ==== 2. EXPLORATORY ANALYSIS ====
 
+# Document groups of the book figures: corpus_group, the non-QSP scrolls as
+# one group (author, 2026-11-10), labelled as in the book.
+dat$fig_group <- fct_recode(dat$corpus_group, 'MT Other' = 'MT other books')
+
 # ---- 2a. Groups of books and corpora ----
 
-full_groups <- fullness_by_group(dat, 'law_phase3')
+full_groups <- fullness_by_group(dat, 'fig_group')
 full_groups
 
 p <- full_groups |>
@@ -234,7 +244,7 @@ p <- full_groups |>
   labs(x = 'Full spelling (share of forms, 95% interval)', y = NULL) +
   theme_book()
 p
-save_book_figure(p, 'fig_infa_groups', height = 9)
+save_book_figure(p, 'fig_infa_groups', height = 7)
 
 # ---- 2b. Ayin-ayin verbs, I-yod verbs and prefix ----
 
@@ -276,7 +286,7 @@ save_book_figure(p, 'fig_infa_explore_verb_classes', height = 6)
 prefix_groups <- dat |>
   mutate(prefix = factor(if_else(has_prefix == 1, 'With prefix', 'Without prefix'),
                          levels = c('Without prefix', 'With prefix'))) |>
-  group_by(law_phase3, prefix) |>
+  group_by(fig_group, prefix) |>
   summarise(full = sum(as.numeric(as.character(has_vowel_letter))), n = n(),
             .groups = 'drop') |>
   mutate(binom.bayes(full, n, type = 'highest', conf.level = 0.95,
@@ -285,8 +295,8 @@ prefix_groups
 
 dodge <- position_dodge(width = 0.6)
 p <- prefix_groups |>
-  mutate(law_phase3 = fct_rev(law_phase3)) |>
-  ggplot(aes(y = law_phase3, x = mean, xmin = lower, xmax = upper,
+  mutate(fig_group = fct_rev(fig_group)) |>
+  ggplot(aes(y = fig_group, x = mean, xmin = lower, xmax = upper,
              colour = prefix, group = prefix)) +
   geom_linerange(linewidth = 0.8, position = dodge) +
   geom_point(size = 2.2, position = dodge) +
@@ -299,7 +309,7 @@ p <- prefix_groups |>
   labs(x = 'Full spelling (share of forms, 95% interval)', y = NULL) +
   theme_book()
 p
-save_book_figure(p, 'fig_infa_explore_prefix', height = 11)
+save_book_figure(p, 'fig_infa_explore_prefix', height = 9)
 
 # The ayin-ayin forms (10 forms, 7 lexemes, 7 different passages)
 dat |> filter(ay_ay == 1) |>

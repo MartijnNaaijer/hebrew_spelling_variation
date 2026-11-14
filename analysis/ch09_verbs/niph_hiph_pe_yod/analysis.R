@@ -61,6 +61,21 @@
 #   - New figures fig_pey_jcb_books, fig_pey_jsp_books, fig_pey_jbc_books
 #     (Figs. 9.47, 9.48, 9.50) and fig_pey_suffix_groups, fig_pey_prefix_groups
 #     (Figs. 9.52, 9.53).
+#
+# CHANGES 2026-11-10 (author: chapter 9 figures like chapter 8):
+#   - The book figures by document group use corpus_group, with the non-QSP
+#     scrolls as one group (column fig_group, labelled 'MT Other'), instead
+#     of law_phase3 (non-QSP split by group of books), as the models and the
+#     figures of chapter 8. The filters and captions for Non-QSP LBH are gone.
+#
+# CHANGES 2026-11-12 (author: sparse lexeme figures as tables):
+#   - The three lexemes per MT book (JCB[, JSP[, JBC[) are now count tables
+#     table_pey_jcb_books.csv, table_pey_jsp_books.csv, table_pey_jbc_books.csv
+#     (book, defective, full; new Tables 9.63, 9.64, 9.66) instead of the
+#     figures fig_pey_*_books (old Figs. 9.47, 9.48, 9.50). Many books have
+#     one to three forms, so a share with a 95% interval says little there.
+#   - New descriptive subsection 2c3 (hiphil wayyiqtol by person, ending and
+#     suffix; table_pey_wayq_form_groups.csv) for section 9.8.5.
 ################################################################################
 
 
@@ -184,6 +199,10 @@ table(dat$yod_verb, dat$vs)
 
 # ==== 2. EXPLORATORY ANALYSIS ====
 
+# Document groups of the book figures: corpus_group, the non-QSP scrolls as
+# one group (author, 2026-11-10), labelled as in the book.
+dat$fig_group <- fct_recode(dat$corpus_group, 'MT Other' = 'MT other books')
+
 # ---- 2a. Verbal tense per corpus ----
 
 tenses <- shares_by(dat, corpus, vt) |>
@@ -231,24 +250,47 @@ save_book_figure(p, 'fig_pey_stems_yod', height = 7)
 # Original yod verbs per tense: the low perfect is JBC[ (HBJC vs HWBJC)
 shares_by(filter(dat, yod_verb == 1), vt, lex) |> print(n = 40)
 
-# ---- 2c2. Three lexemes per MT book (for the book, Figs. 9.47, 9.48, 9.50) ----
+# ---- 2c2. Three lexemes per MT book (for the book, Tables 9.63, 9.64, 9.66) ----
 # JCB[ (yashav), JSP[ (yasaf) and JBC[ (yavesh) in the MT, books in canonical
 # order (the order of the MT rows in the data); Qoheleth for Ecclesiastes.
+# Count tables, not figures (author, 2026-11-12): most books have only a few
+# forms, so a share with an interval per book is not informative.
 
 mt_book_order <- unique(dat$book2[dat$corpus == 'MT'])
 lexeme_books <- function(lexeme, name) {
   tab <- dat |>
     filter(lex == lexeme, corpus == 'MT') |>
-    mutate(book2 = factor(book2, levels = mt_book_order)) |>
-    shares_by(book2) |>
-    mutate(row = fct_rev(fct_recode(droplevels(book2), Qoheleth = 'Ecclesiastes')))
-  p <- plot_shares(tab)
-  save_book_figure(p, name, height = 2 + 0.45 * nrow(tab))
+    mutate(book2 = factor(book2, levels = mt_book_order),
+           full = as.numeric(as.character(has_vowel_letter))) |>
+    group_by(book2) |>
+    summarise(defective = sum(full == 0), full = sum(full), .groups = 'drop') |>
+    mutate(book = fct_recode(droplevels(book2), Qoheleth = 'Ecclesiastes')) |>
+    select(book, defective, full)
+  write_csv(tab, file.path(IMAGE_FOLDER, paste0(name, '.csv')))
   tab
 }
-lexeme_books('JCB[', 'fig_pey_jcb_books')
-lexeme_books('JSP[', 'fig_pey_jsp_books')
-lexeme_books('JBC[', 'fig_pey_jbc_books')
+lexeme_books('JCB[', 'table_pey_jcb_books')
+lexeme_books('JSP[', 'table_pey_jsp_books')
+lexeme_books('JBC[', 'table_pey_jbc_books')
+
+# ---- 2c3. Hiphil wayyiqtol by person, ending and suffix (descriptive; 2026-11-12) ----
+# For the sentence in section 9.8.5 (../BOOK_CHANGES_suchard.md): unlike the
+# triliteral hiphil, the bare wayyiqtol (wayyoshev, stressed o) is in the data.
+# MT hiphil, imperfect vs wayyiqtol, without JSP[ (concentrated in bare
+# imperfects). Result (2026-11-12): bare 2nd/3rd person 75% (n = 135) vs 93%
+# (n = 99); suffix 64% vs 88%; vocalic ending 61% vs 87%; 1st person 78% vs 96%.
+
+pey_wayq_check <- dat |>
+  filter(corpus == 'MT', vs == 'hif', vt %in% c('impf', 'wayq'), lex != 'JSP[') |>
+  mutate(ending = (nu == 'pl' & ps %in% c('p2', 'p3') & gn != 'f') |
+                  (nu == 'sg' & gn == 'f' & ps == 'p2'),
+         form_group = case_when(has_prs == 1 ~ 'pronominal suffix',
+                                ending ~ 'vocalic ending, no suffix',
+                                ps == 'p1' ~ '1st person, no ending or suffix',
+                                TRUE ~ '2nd/3rd person, no ending or suffix')) |>
+  shares_by(vt, form_group)
+pey_wayq_check
+write_csv(pey_wayq_check, file.path(IMAGE_FOLDER, 'table_pey_wayq_form_groups.csv'))
 
 # ---- 2d. Lexemes (20 forms or more) ----
 
@@ -268,14 +310,14 @@ write_csv(select(shares_by(dat, lex, yod_verb), -any_of('row')),
 groups_wayq <- dat |>
   mutate(tense = factor(if_else(vt == 'wayq', 'Wayyiqtol', 'Other tenses'),
                         levels = c('Other tenses', 'Wayyiqtol'))) |>
-  shares_by(law_phase3, tense) |>
-  mutate(row = fct_rev(law_phase3))
+  shares_by(fig_group, tense) |>
+  mutate(row = fct_rev(fig_group))
 groups_wayq
 
 p <- plot_shares(groups_wayq, colour_var = 'tense', dodge_width = 0.6,
                  colours = c(BOOK_BLUE, BOOK_ORANGE))
 p
-save_book_figure(p, 'fig_pey_groups', height = 12)
+save_book_figure(p, 'fig_pey_groups', height = 9)
 
 # II-tsade verbs (excluded; the yod assimilates to the tsade)
 shares_by(dat_ii_tsade, lex)
@@ -297,11 +339,11 @@ write_csv(select(affixes, row, full, n, mean, lower, upper),
 affix_groups <- function(var, labels, name) {
   tab <- dat |>
     mutate(affix = factor(if_else(.data[[var]] == 1, labels[2], labels[1]), levels = labels)) |>
-    shares_by(law_phase3, affix) |>
-    mutate(row = fct_rev(law_phase3))
+    shares_by(fig_group, affix) |>
+    mutate(row = fct_rev(fig_group))
   p <- plot_shares(tab, colour_var = 'affix', dodge_width = 0.6,
                    colours = c(BOOK_BLUE, BOOK_ORANGE))
-  save_book_figure(p, name, height = 12)
+  save_book_figure(p, name, height = 9)
   tab
 }
 affix_groups('has_suffix', c('Without suffix', 'With suffix'), 'fig_pey_suffix_groups')

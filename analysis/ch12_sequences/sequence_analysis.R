@@ -2,8 +2,7 @@
 # Chapter 12: block spelling and rapid alternation (2026-11-03)
 #
 # Replaces the earlier notebook block_spelling_and_rapid_alternation.ipynb (removed)
-# (hebrew_spelling_variation). Decisions: Claude doc "Chapter 12 revision: block
-# spelling and rapid alternation" (author, 2026-11-03):
+# Decisions of the author (2026-11-03):
 #   1. Main null model: the spellings are shuffled within each lexeme x suffix
 #      status in a book (stratified permutation). Free shuffling is reported as
 #      the descriptive baseline.
@@ -15,11 +14,36 @@
 #      null distribution, from the same permutations). Single books: two-sided
 #      p, Benjamini-Hochberg across the books of a feature.
 #   4. Rapid alternation: number of overlapping D F D F / F D F D, same tests.
-#   5. Features: qal active participle, qal infinitive construct (triliteral),
-#      and final-syllable waw in nouns and adjectives.
+#   5. Features: qal active participle and qal infinitive construct
+#      (triliteral). Final-syllable waw in nouns and adjectives was dropped
+#      (author, 2026-11-13: too vague a feature).
 #   6. Corpora: MT books; 1QIsaa (two halves) as a check.
 #   7. Fullness: linear regression of the stratified z on the share of full
 #      forms.
+# Revision 2026-11-13:
+#   - A book is informative for the stratified test only if the order can vary
+#     within lexeme x suffix (sd of the permuted changes > 0). Only informative
+#     books enter the stratified Benjamini-Hochberg correction, the fullness
+#     regression and the stratified points of the figures; the free test and
+#     the totals keep all books.
+#   - Four-form alternations: BH on the two-sided p (2 x one-sided), as for the
+#     changes, so that every corrected p is compared with 0.05.
+#   - Extra checks of the totals: within chapter x lexeme x suffix (is the
+#     remaining block spelling local?), within lexeme x suffix x prefix, without
+#     Chronicles and Ezekiel, and a sign count of the informative books.
+#   - Figures without the z bands; orange = significant after correction.
+# Review of 2026-11-13 (afternoon):
+#   - Model-based null: within each book, the observed number of full forms is
+#     distributed over the forms with probabilities proportional to the odds
+#     of the chapter 9 final model (conditional Bernoulli, exact sampling;
+#     weights from model_weights.R). Book-level terms cancel; the book x lexeme
+#     effects are shrunk, so this null lies between free shuffling and
+#     shuffling within lexeme x suffix. MT books only.
+#   - Per book: exchangeable forms (forms in a lexeme x suffix group that has
+#     both spellings; only these can move in the stratified null) and isolated
+#     full forms (a full form whose neighbours are defective).
+#   - Robustness checks with the same number of permutations as the main
+#     analysis (before: B / 5 = 2,000).
 # Data: the cleaned chapter 8-9 datasets (../clustering/data, from
 # ../clustering/export_cleaned_data.R). Forms in textual order (tf_id).
 #
@@ -41,9 +65,8 @@ B <- as.integer(Sys.getenv('CH12_B', '10000'))
 SEED <- 20261103
 MIN_ORDERINGS <- 100     # inclusion: at least 100 distinct orderings ...
 MIN_EACH <- 2            # ... and at least two defective and two full forms
-FEATURES <- c(ptca_qal = 'Qal active participle', infc_qal_triliteral = 'Qal infinitive construct',
-              final_w = 'Final-syllable waw, nouns and adjectives')
-TOP_LEXEME <- c(ptca_qal = 'JCB[', infc_qal_triliteral = '>MR[', final_w = '>LHJM/')
+FEATURES <- c(ptca_qal = 'Qal active participle', infc_qal_triliteral = 'Qal infinitive construct')
+TOP_LEXEME <- c(ptca_qal = 'JCB[', infc_qal_triliteral = '>MR[')
 
 # ---- Data ------------------------------------------------------------------------
 
@@ -59,8 +82,20 @@ read_sequences <- function(feature) {
     filter(scroll %in% c('MT', '1QisaaI', '1QisaaII')) |>
     mutate(tf_id = as.integer(tf_id), full = as.integer(has_vowel_letter),
            corpus = if_else(scroll == 'MT', 'MT', '1QIsaa'),
-           unit = unit_label(scroll, book2), stratum = paste(lex, has_suffix, sep = '_')) |>
+           unit = unit_label(scroll, book2), stratum = paste(lex, has_suffix, sep = '_'),
+           # book, not book2: 1 and 2 Samuel, Kings, Chronicles have their own chapter numbers
+           chapter_stratum = paste(book, chapter, lex, has_suffix, sep = '_'),
+           prefix_stratum = paste(lex, has_suffix, has_prefix, sep = '_')) |>
+    left_join(read_weights(feature), by = c('tf_id', 'scroll')) |>
     arrange(tf_id)
+}
+
+# linear predictors of the chapter 9 final models (model_weights.R); MT only
+read_weights <- function(feature) {
+  f <- file.path(RES, 'model_weights.tsv')
+  if (!file.exists(f)) return(tibble(tf_id = integer(), scroll = character(), eta = numeric()))
+  read_tsv(f, col_types = cols(tf_id = 'i', eta = 'd', .default = 'c')) |>
+    filter(.data$feature == !!feature) |> select(tf_id, scroll, eta)
 }
 
 # ---- Statistics -------------------------------------------------------------------
@@ -111,16 +146,66 @@ permute <- function(x, strata, B) {
   list(changes = ch, alt4 = al)
 }
 
+logsumexp2 <- function(a, b) {
+  m <- pmax(a, b)
+  ifelse(is.infinite(m) & m < 0, -Inf, m + log1p(exp(-abs(a - b))))
+}
+
+# Model-based null: B sequences in which the observed number of full forms k is
+# placed with P(x) proportional to prod(w_i^x_i), w_i = exp(eta_i) (conditional
+# Bernoulli). Exact sequential sampling: P(x_i = 1 | r full left) =
+# w_i e_{r-1}(w_{i+1..n}) / e_r(w_{i..n}), with e_j the elementary symmetric
+# polynomials (log scale). Equal weights give free shuffling.
+cb_sim <- function(x, eta, B) {
+  n <- length(x); k <- sum(x); eta <- eta - mean(eta)
+  logR <- matrix(-Inf, n + 1, k + 1)        # logR[i, j + 1] = log e_j(w_i, ..., w_n)
+  logR[, 1] <- 0
+  if (k >= 1) for (i in n:1) {
+    j <- 1:k
+    logR[i, j + 1] <- logsumexp2(logR[i + 1, j + 1], eta[i] + logR[i + 1, j])
+  }
+  r <- rep(k, B); prev <- integer(B); ch <- integer(B); al <- integer(B)
+  d1 <- d2 <- logical(B)
+  for (i in seq_len(n)) {
+    p <- numeric(B); pos <- r > 0
+    if (any(pos)) p[pos] <- exp(eta[i] + logR[i + 1, r[pos]] - logR[i, r[pos] + 1])
+    xi <- as.integer(runif(B) < p)
+    r <- r - xi
+    if (i > 1) {
+      d <- xi != prev
+      ch <- ch + d; al <- al + (d & d1 & d2)
+      d2 <- d1; d1 <- d
+    }
+    prev <- xi
+  }
+  stopifnot(all(r == 0))
+  list(changes = ch, alt4 = al)
+}
+
+# forms that can move under shuffling within the strata: groups with both spellings
+n_exchangeable <- function(x, strata) {
+  g <- split(x, strata)
+  sum(lengths(g)[vapply(g, function(v) any(v == 0) && any(v == 1), logical(1))])
+}
+
+# full forms whose neighbours (one at the ends) are defective
+n_isolated_full <- function(x) {
+  n <- length(x)
+  left <- c(TRUE, x[-n] == 0); right <- c(x[-1] == 0, TRUE)
+  sum(x == 1 & left & right)
+}
+
 p_low <- function(sim, obs) (sum(sim <= obs) + 1) / (length(sim) + 1)
 p_high <- function(sim, obs) (sum(sim >= obs) + 1) / (length(sim) + 1)
 
 # ---- One feature -----------------------------------------------------------------------
 
 analyse_feature <- function(feature, strata_col = 'stratum', drop_lexeme = NULL, min_orderings = MIN_ORDERINGS,
-                            min_each = MIN_EACH, nperm = B, seed = SEED) {
+                            min_each = MIN_EACH, nperm = B, seed = SEED, drop_units = NULL, model = FALSE) {
   set.seed(seed)
   d <- read_sequences(feature)
   if (!is.null(drop_lexeme)) d <- filter(d, lex != drop_lexeme)
+  if (!is.null(drop_units)) d <- filter(d, !unit %in% drop_units)
   units <- split(d, d$unit)
   rows <- list(); sims <- list()
   for (u in names(units)) {
@@ -131,11 +216,27 @@ analyse_feature <- function(feature, strata_col = 'stratum', drop_lexeme = NULL,
     st <- permute(x, du[[strata_col]], nperm)
     fr <- permute(x, NULL, nperm)
     sims[[u]] <- list(strat = st$changes, free = fr$changes, strat4 = st$alt4, free4 = fr$alt4)
+    use_model <- model && du$corpus[1] == 'MT' && !anyNA(du$eta)
+    mo <- NULL
+    if (use_model) {     # own random stream, so that the permutation results stay as before
+      old_seed <- .Random.seed
+      set.seed(seed + match(u, names(units)))
+      mo <- cb_sim(x, du$eta, nperm)
+      assign('.Random.seed', old_seed, envir = globalenv())
+    }
+    if (use_model) sims[[u]]$model <- mo$changes
     rows[[u]] <- bind_cols(
       tibble(feature = feature, unit = u, corpus = du$corpus[1], n = length(x), full = n1, fullness = n1 / length(x),
-             lexemes = n_distinct(du$lex), changes = obs, alt4 = obs4),
+             lexemes = n_distinct(du$lex), changes = obs, alt4 = obs4,
+             exchangeable = n_exchangeable(x, du[[strata_col]]), isolated_full = n_isolated_full(x)),
+      if (use_model) tibble(model_mean = mean(mo$changes), model_sd = sd(mo$changes),
+                            model_z = (obs - mean(mo$changes)) / sd(mo$changes),
+                            model_p_block = p_low(mo$changes, obs), model_p_alt = p_high(mo$changes, obs),
+                            alt4_model_p = p_high(mo$alt4, obs4))
+      else tibble(model_mean = NA_real_, model_sd = NA_real_, model_z = NA_real_, model_p_block = NA_real_,
+                  model_p_alt = NA_real_, alt4_model_p = NA_real_),
       exact_test(x),
-      tibble(strat_mean = mean(st$changes), strat_sd = sd(st$changes),
+      tibble(strat_mean = mean(st$changes), strat_sd = sd(st$changes), strat_informative = sd(st$changes) > 0,
              # no stratum with both spellings: the order cannot vary, z = 0
              strat_z = if (sd(st$changes) > 0) (obs - mean(st$changes)) / sd(st$changes) else 0,
              strat_p_block = p_low(st$changes, obs), strat_p_alt = p_high(st$changes, obs),
@@ -144,12 +245,17 @@ analyse_feature <- function(feature, strata_col = 'stratum', drop_lexeme = NULL,
   }
   res <- bind_rows(rows) |>
     mutate(free_p2 = pmin(1, 2 * pmin(free_p_block, free_p_alt)),
-           strat_p2 = pmin(1, 2 * pmin(strat_p_block, strat_p_alt)))
+           strat_p2 = pmin(1, 2 * pmin(strat_p_block, strat_p_alt)),
+           alt4_strat_p2 = pmin(1, 2 * alt4_strat_p),
+           model_p2 = pmin(1, 2 * pmin(model_p_block, model_p_alt)))
   mt <- res$corpus == 'MT'
-  res$free_q <- NA_real_; res$strat_q <- NA_real_; res$alt4_q <- NA_real_
+  mi <- mt & res$strat_informative
+  mm <- mt & !is.na(res$model_p2)
+  res$free_q <- NA_real_; res$strat_q <- NA_real_; res$alt4_q <- NA_real_; res$model_q <- NA_real_
   res$free_q[mt] <- p.adjust(res$free_p2[mt], 'BH')
-  res$strat_q[mt] <- p.adjust(res$strat_p2[mt], 'BH')
-  res$alt4_q[mt] <- p.adjust(res$alt4_strat_p[mt], 'BH')
+  res$strat_q[mi] <- p.adjust(res$strat_p2[mi], 'BH')
+  res$alt4_q[mi] <- p.adjust(res$alt4_strat_p2[mi], 'BH')
+  if (any(mm)) res$model_q[mm] <- p.adjust(res$model_p2[mm], 'BH')
   # all MT books together: totals per permutation (the same permutation index in every book)
   mt_units <- res$unit[mt]
   total <- function(key) Reduce(`+`, lapply(sims[mt_units], `[[`, key))
@@ -164,7 +270,18 @@ analyse_feature <- function(feature, strata_col = 'stratum', drop_lexeme = NULL,
                     alt4 = obs4_tot, alt4_strat_expected = mean(total('strat4')),
                     alt4_strat_p = p_high(total('strat4'), obs4_tot),
                     books_q05_strat = sum(res$strat_q < 0.05, na.rm = TRUE),
-                    books_q05_free = sum(res$free_q < 0.05, na.rm = TRUE))
+                    books_q05_free = sum(res$free_q < 0.05, na.rm = TRUE),
+                    books_informative = sum(mi),
+                    books_z_neg = sum(res$strat_z[mi] < 0), books_z_pos = sum(res$strat_z[mi] > 0),
+                    sign_p = if (sum(mi)) pbinom(sum(res$strat_z[mi] > 0), sum(res$strat_z[mi] != 0), 0.5) else NA_real_)
+  model_units <- res$unit[mm]
+  if (length(model_units) && length(model_units) == sum(mt)) {
+    tm <- Reduce(`+`, lapply(sims[model_units], `[[`, 'model'))
+    overall <- mutate(overall, model_expected = mean(tm), model_z = (obs_tot - mean(tm)) / sd(tm),
+                      model_p_block = p_low(tm, obs_tot), model_p_alt = p_high(tm, obs_tot),
+                      books_q05_model = sum(res$model_q < 0.05, na.rm = TRUE),
+                      books_p025_model = sum(res$model_p_block[mm] < 0.025))
+  }
   list(units = res, overall = overall)
 }
 
@@ -177,42 +294,53 @@ save_fig <- function(p, name, width, height) {
 }
 
 # Books: z of the number of changes under free shuffling (open) and within
-# lexeme x suffix (filled; orange = significant after Benjamini-Hochberg).
+# lexeme x suffix (filled, informative books only); orange = significant after
+# Benjamini-Hochberg (corrected two-sided p < 0.05).
 books_plot <- function(res) {
   d <- res |> filter(corpus == 'MT') |>
-    mutate(unit = fct_reorder(unit, strat_z, .desc = TRUE), sig = !is.na(strat_q) & strat_q < 0.05)
+    mutate(sig_free = !is.na(free_q) & free_q < 0.05, sig_strat = !is.na(strat_q) & strat_q < 0.05)
+  # top to bottom: informative books by stratified z, then the others by free z
+  lev <- c(with(filter(d, !strat_informative), unit[order(-free_z)]),
+           with(filter(d, strat_informative), unit[order(-strat_z)]))
+  d <- mutate(d, unit = factor(unit, levels = lev))
+  di <- filter(d, strat_informative)
+  n_un <- sum(!d$strat_informative)
+  cap <- paste0('Open: free shuffling. Filled: shuffling within lexeme and suffix status',
+                if (n_un) ' (no filled circle: no lexeme has both spellings with the same suffix status)' else '',
+                '. Orange: significant after correction for the number of books.')
   ggplot(d, aes(y = unit)) +
-    annotate('rect', xmin = -1.96, xmax = 1.96, ymin = -Inf, ymax = Inf, fill = BOOK_GRID, alpha = 0.6) +
     geom_vline(xintercept = 0, colour = BOOK_GREY, linewidth = 0.4) +
-    geom_segment(aes(x = free_z, xend = strat_z, yend = unit), colour = BOOK_GREY, linewidth = 0.3) +
-    geom_point(aes(x = free_z), shape = 21, fill = 'white', colour = BOOK_INK_2, size = 1.8) +
-    geom_point(aes(x = strat_z, colour = sig), size = 2) +
+    geom_segment(data = di, aes(x = free_z, xend = strat_z, yend = unit), colour = BOOK_GREY, linewidth = 0.3) +
+    geom_point(aes(x = free_z, colour = sig_free), shape = 21, fill = 'white', size = 1.8, stroke = 0.6) +
+    geom_point(data = di, aes(x = strat_z, colour = sig_strat), size = 2) +
+    scale_y_discrete(limits = lev) +    # keep this order (the first layer only has the informative books)
     scale_colour_manual(values = c(`FALSE` = BOOK_BLUE, `TRUE` = BOOK_ORANGE), guide = 'none') +
     labs(x = 'Fewer changes (block spelling)  \u2190  z  \u2192  more changes (alternation)', y = NULL,
-         caption = paste('Open: free shuffling. Filled: shuffling within lexeme and suffix status (orange: significant',
-                         'after correction). Band: |z| < 1.96.')) +
+         caption = str_wrap(cap, 120)) +
     theme_book() +
     theme(panel.grid.major.y = element_blank(), plot.caption.position = 'plot',
           plot.caption = element_text(size = 7.5, colour = BOOK_INK_2, hjust = 0), axis.text.y = element_text(size = 8))
 }
 
 alt_plot <- function(res) {
-  d <- res |> filter(corpus == 'MT') |> mutate(unit = fct_reorder(unit, alt4_strat_z), sig = !is.na(alt4_q) & alt4_q < 0.05)
+  d <- res |> filter(corpus == 'MT', strat_informative) |>
+    mutate(unit = fct_reorder(unit, alt4_strat_z), sig = !is.na(alt4_q) & alt4_q < 0.05)
   ggplot(d, aes(x = alt4_strat_z, y = unit, colour = sig)) +
-    annotate('rect', xmin = -Inf, xmax = 1.645, ymin = -Inf, ymax = Inf, fill = BOOK_GRID, alpha = 0.6) +
     geom_vline(xintercept = 0, colour = BOOK_GREY, linewidth = 0.4) +
     geom_point(size = 2) +
     geom_text(aes(label = alt4), hjust = -0.8, size = 2.4, colour = BOOK_INK_2, family = BOOK_FONT) +
     scale_colour_manual(values = c(`FALSE` = BOOK_BLUE, `TRUE` = BOOK_ORANGE), guide = 'none') +
+    scale_x_continuous(expand = expansion(mult = c(0.05, 0.12))) +
     labs(x = 'z of the number of four-form alternations (D F D F, F D F D)', y = NULL,
-         caption = 'Numbers: observed four-form alternations. Shuffling within lexeme and suffix status. Band: z < 1.645.') +
+         caption = str_wrap(paste('Numbers: observed four-form alternations. Shuffling within lexeme and suffix status.',
+                                  'Orange: significant after correction for the number of books (permutation p).'), 120)) +
     theme_book() +
     theme(panel.grid.major.y = element_blank(), plot.caption.position = 'plot',
           plot.caption = element_text(size = 7.5, colour = BOOK_INK_2, hjust = 0), axis.text.y = element_text(size = 8))
 }
 
 fullness_plot <- function(res, fit) {
-  d <- filter(res, corpus == 'MT')
+  d <- filter(res, corpus == 'MT', strat_informative)
   ggplot(d, aes(x = 100 * fullness, y = strat_z)) +
     geom_hline(yintercept = 0, colour = BOOK_GREY, linewidth = 0.4) +
     geom_smooth(method = 'lm', formula = y ~ x, colour = BOOK_BLUE, fill = BOOK_GRID, linewidth = 0.6) +
@@ -244,12 +372,13 @@ hypothetical_table <- function() {
 }
 hypothetical_plot <- function(h) {
   ggplot(h, aes(x = free_z, y = fct_rev(sequence))) +
-    annotate('rect', xmin = -1.96, xmax = 1.96, ymin = -Inf, ymax = Inf, fill = BOOK_GRID, alpha = 0.6) +
     geom_vline(xintercept = 0, colour = BOOK_GREY, linewidth = 0.4) +
     geom_point(colour = BOOK_BLUE, size = 2.4) +
-    geom_text(aes(label = paste(changes, 'changes')), vjust = -1.1, size = 2.5, colour = BOOK_INK_2, family = BOOK_FONT) +
+    geom_text(aes(label = paste(changes, if_else(changes == 1, 'change', 'changes'))), vjust = -1.1, size = 2.5,
+              colour = BOOK_INK_2, family = BOOK_FONT) +
+    scale_y_discrete(expand = expansion(add = c(0.6, 0.9))) +
     labs(x = 'Fewer changes (block spelling)  \u2190  z  \u2192  more changes (alternation)', y = 'Sequence',
-         caption = 'Eight defective and eight full forms; exact distribution. Band: |z| < 1.96.') +
+         caption = 'Eight defective and eight full forms; z from the exact distribution of the number of changes (expected: 8).') +
     theme_book() +
     theme(panel.grid.major.y = element_blank(), plot.caption.position = 'plot',
           plot.caption = element_text(size = 7.5, colour = BOOK_INK_2, hjust = 0))
@@ -269,6 +398,13 @@ self_tests <- function() {
   set.seed(1); x <- c(1, 1, 0, 0, 1, 0); s <- c('a', 'a', 'a', 'b', 'b', 'c')
   y <- permute(x, s, 50)
   stopifnot(length(y$changes) == 50)
+  # conditional Bernoulli: equal weights reproduce the exact runs distribution;
+  # extreme weights force the full forms onto the heavy positions
+  set.seed(2); x <- c(rep(0, 6), rep(1, 4))
+  sim <- cb_sim(x, rep(0, 10), 40000)$changes
+  pmf <- runs_pmf(6, 4); stopifnot(abs(mean(sim) - sum((seq_along(pmf) - 1) * pmf)) < 0.03)
+  stopifnot(all(cb_sim(x, c(rep(-30, 6), rep(30, 4)), 100)$changes == 1))
+  stopifnot(n_exchangeable(c(1, 0, 1, 1), c('a', 'a', 'b', 'b')) == 2, n_isolated_full(c(1, 0, 1, 1, 0, 1)) == 2)
   invisible(TRUE)
 }
 self_tests()
@@ -279,24 +415,29 @@ if (sys.nframe() == 0) {
   t0 <- Sys.time()
   all_units <- list(); all_overall <- list(); robust <- list(); fits <- list()
   for (f in names(FEATURES)) {
-    r <- analyse_feature(f)
+    r <- analyse_feature(f, model = TRUE)
     all_units[[f]] <- r$units; all_overall[[f]] <- r$overall
-    mt_units <- filter(r$units, corpus == 'MT')
+    mt_units <- filter(r$units, corpus == 'MT', strat_informative)
     fit <- lm(strat_z ~ fullness, data = mt_units)
     fits[[f]] <- tibble(feature = f, slope_per_percent = unname(coef(fit)[2]) / 100,
                         p = summary(fit)$coefficients[2, 4], correlation = cor(mt_units$fullness, mt_units$strat_z),
                         books = nrow(mt_units))
     h <- max(8, 0.42 * sum(r$units$corpus == 'MT') + 3)
+    hi <- max(6, 0.42 * nrow(mt_units) + 3)
     save_fig(books_plot(r$units), paste0('fig_ch12_', f, '_books'), 15.8, h)
-    save_fig(alt_plot(r$units), paste0('fig_ch12_', f, '_alternation'), 15.8, h)
+    save_fig(alt_plot(r$units), paste0('fig_ch12_', f, '_alternation'), 15.8, hi)
     save_fig(fullness_plot(r$units, fit), paste0('fig_ch12_', f, '_fullness'), 15.8, 10)
     # robustness (phase 3): lexeme only; without the most frequent lexeme; stricter inclusion
-    Br <- max(1000, B %/% 5)
+    Br <- B    # review 2026-11-13: as many permutations as the main analysis (before B / 5)
     robust[[f]] <- bind_rows(
       r$overall |> mutate(check = 'main'),
       analyse_feature(f, strata_col = 'lex', nperm = Br)$overall |> mutate(check = 'within lexeme only'),
       analyse_feature(f, drop_lexeme = TOP_LEXEME[[f]], nperm = Br)$overall |> mutate(check = paste('without', TOP_LEXEME[[f]])),
-      analyse_feature(f, min_orderings = 1000, min_each = 3, nperm = Br)$overall |> mutate(check = 'at least 1,000 orderings, 3 of each'))
+      analyse_feature(f, min_orderings = 1000, min_each = 3, nperm = Br)$overall |> mutate(check = 'at least 1,000 orderings, 3 of each'),
+      # revision 2026-11-13
+      analyse_feature(f, strata_col = 'prefix_stratum', nperm = Br)$overall |> mutate(check = 'within lexeme, suffix and prefix'),
+      analyse_feature(f, drop_units = c('Chronicles', 'Ezekiel'), nperm = Br)$overall |> mutate(check = 'without Chronicles and Ezekiel'),
+      analyse_feature(f, strata_col = 'chapter_stratum', nperm = Br)$overall |> mutate(check = 'within chapter, lexeme and suffix'))
     message(f, ': ', sum(r$units$corpus == 'MT'), ' MT books; ', round(difftime(Sys.time(), t0, units = 'mins'), 1), ' min')
   }
   h <- hypothetical_table()

@@ -2,7 +2,7 @@
 # Chapter 10: export the cleaned datasets of chapters 8 and 9 (2026-11-03)
 #
 # The cluster analysis of chapter 10 uses exactly the data of the regression
-# chapters (decision 3, Claude doc "Chapter 10 revision: cluster analysis").
+# chapters (author's decision, 2026-11-03).
 #   - nouns and adjectives: read_nouns() + noun_dataset() for the six datasets
 #     (functions_nouns.R), as in every chapter 8 script;
 #   - verbs: each chapter 9 analysis.R is run only up to its section 2 (data,

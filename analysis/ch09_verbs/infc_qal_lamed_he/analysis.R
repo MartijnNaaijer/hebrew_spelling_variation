@@ -70,6 +70,18 @@
 #     in the labels and notes of fig_infc_lh_effects_not_in_final_model.
 #   - New figures fig_infc_lh_groups_all (Fig. 9.30) and
 #     fig_infc_lh_pent_books_prefix (Fig. 9.33).
+#
+# CHANGES 2026-11-10 (author: chapter 9 figures like chapter 8):
+#   - The book figures by document group use corpus_group, with the non-QSP
+#     scrolls as one group (column fig_group, labelled 'MT Other'), instead
+#     of law_phase3 (non-QSP split by group of books), as the models and the
+#     figures of chapter 8. The filters and captions for Non-QSP LBH are gone.
+#
+# CHANGES 2026-11-12 (author: option 3 for Fig. 9.32):
+#   - fig_infc_lh_pent_books_prefix labels the rows with the observed counts
+#     ("3/3 full") instead of "n = 3" (plot_shares(count_labels = TRUE)), and
+#     its note explains that the points are pulled towards 50% when there are
+#     few forms; the comment's figure number corrected to 9.32. Values unchanged.
 ################################################################################
 
 
@@ -170,30 +182,32 @@ table(dat$prefix, dat$corpus)
 
 # ==== 2. EXPLORATORY ANALYSIS ====
 
+# Document groups of the book figures: corpus_group, the non-QSP scrolls as
+# one group (author, 2026-11-10), labelled as in the book.
+dat$fig_group <- fct_recode(dat$corpus_group, 'MT Other' = 'MT other books')
+
 suffix_label <- function(has_prs) factor(if_else(has_prs == 1, 'With pronominal suffix', 'Without pronominal suffix'),
                                          levels = c('Without pronominal suffix', 'With pronominal suffix'))
 
 # ---- 2a. Groups of books, with and without pronominal suffix ----
 # MT Pentateuch 71% full, the other MT groups 92-96%; the scrolls 92-100%.
 
-groups_prs <- shares_by(dat, law_phase3, has_prs) |>
-  filter(law_phase3 != 'Non-QSP LBH') |>          # 2 forms
-  mutate(row = fct_rev(droplevels(law_phase3)), suffix = suffix_label(has_prs))
+groups_prs <- shares_by(dat, fig_group, has_prs) |>
+  mutate(row = fct_rev(fig_group), suffix = suffix_label(has_prs))
 groups_prs
 write_csv(select(groups_prs, -row), file.path(IMAGE_FOLDER, 'table_infc_lh_groups.csv'))
 
 p <- plot_shares(groups_prs, colour_var = 'suffix', dodge_width = 0.6,
-                 colours = c(BOOK_BLUE, BOOK_ORANGE)) +
-  labs(caption = 'Non-QSP LBH (2 forms) not shown.')
+                 colours = c(BOOK_BLUE, BOOK_ORANGE))
 p
-save_book_figure(p, 'fig_infc_lh_groups', height = 12)
+save_book_figure(p, 'fig_infc_lh_groups', height = 9)
 
 # All forms per document group (for the book, Fig. 9.30)
-groups_all <- shares_by(dat, law_phase3) |>
-  mutate(row = fct_rev(law_phase3))
+groups_all <- shares_by(dat, fig_group) |>
+  mutate(row = fct_rev(fig_group))
 p <- plot_shares(groups_all)
 p
-save_book_figure(p, 'fig_infc_lh_groups_all', height = 8)
+save_book_figure(p, 'fig_infc_lh_groups_all', height = 7)
 
 # ---- 2b. Suffix types per corpus ----
 # MT: no suffix 94% full, 3ms suffix 30% (10 of 33), other suffixes 69%.
@@ -284,8 +298,9 @@ p
 save_book_figure(p, 'fig_infc_lh_explore_mt_books', height = 18)
 
 # The books of the MT Pentateuch with and without a prefix, forms without a
-# pronominal suffix (for the book, Fig. 9.33): the defective forms are all
-# prefixed (14 of 14 forms without a prefix are full).
+# pronominal suffix (for the book, Fig. 9.32): the defective forms are all
+# prefixed (14 of 14 forms without a prefix are full). Labels give the observed
+# counts, because with 1-7 forms the dots sit well below 100% (author, 2026-11-12).
 pent_books <- dat |>
   filter(corpus_group == 'MT Pentateuch', has_prs == 0) |>
   mutate(book = factor(book, levels = c('Genesis', 'Exodus', 'Leviticus', 'Numbers', 'Deuteronomy'))) |>
@@ -293,8 +308,9 @@ pent_books <- dat |>
   mutate(row = fct_rev(book), prefix = prefix_label(has_prefix))
 pent_books
 p <- plot_shares(pent_books, colour_var = 'prefix', dodge_width = 0.6,
-                 colours = c(BOOK_BLUE, BOOK_ORANGE)) +
-  labs(caption = 'MT Pentateuch, forms without pronominal suffix.')
+                 colours = c(BOOK_BLUE, BOOK_ORANGE), count_labels = TRUE) +
+  labs(caption = paste0('MT Pentateuch, forms without pronominal suffix. Points are Bayesian estimates,\n',
+                        'pulled towards 50% when there are few forms; the labels give the observed counts.'))
 p
 save_book_figure(p, 'fig_infc_lh_pent_books_prefix', height = 9)
 
