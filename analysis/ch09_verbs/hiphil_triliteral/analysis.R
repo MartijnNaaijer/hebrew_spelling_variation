@@ -79,6 +79,8 @@
 # CHANGES 2026-11-12: new descriptive subsection 2g2 (wayyiqtol by person,
 #   ending and suffix; table_hif_wayq_form_groups.csv), for the Suchard
 #   additions to section 9.7 (../BOOK_CHANGES_suchard.md). No model changed.
+# CHANGES 2026-11-14: "Corpus group" -> "Document group" in the effect labels and captions, as in the
+#   book text. fig_hif_effects (Figure 9.45) redrawn from table_hif_effects.csv (no fitting).
 ################################################################################
 
 
@@ -592,9 +594,10 @@ CORPUS_COEF <- c('MT Pentateuch' = NA, 'MT Former Prophets' = 'MTFormerProphets'
                  'Non-QSP' = 'NonMQSP', 'QSP' = 'QSP')
 VT_COEF <- c(wayq = 'Wayyiqṭol', perf = 'Perfect', impv = 'Imperative',
              infc = 'Infinitive construct', ptca = 'Participle')
-EFFECT_LABELS <- c(corpus        = 'Corpus group (vs MT Pentateuch), no suffix',
-                   corpus_suffix = 'Corpus group (vs MT Pentateuch), with suffix',
-                   corpus_wayq   = 'Corpus group (vs MT Pentateuch), wayyiqtol',
+# 'Document group' in the figure labels, as in the book text (2026-11-14)
+EFFECT_LABELS <- c(corpus        = 'Document group (vs MT Pentateuch), no suffix',
+                   corpus_suffix = 'Document group (vs MT Pentateuch), with suffix',
+                   corpus_wayq   = 'Document group (vs MT Pentateuch), wayyiqtol',
                    has_suffix1   = 'Suffix (vs none)',
                    setNames(paste0(VT_COEF, ' (vs imperfect)'), paste0('vt', names(VT_COEF))))
 EFFECT_LABELS <- sub('wayyiqtol', 'wayyiqṭol', EFFECT_LABELS)
@@ -751,7 +754,7 @@ write_csv(robustness, file.path(IMAGE_FOLDER, 'table_hif_robustness.csv'))
 
 p <- plot_or(robustness, variant) +
   facet_wrap(~ effect_label, ncol = 2, labeller = label_wrap_gen(40)) +
-  labs(caption = paste0('M7 and its robustness fits: imperfect (corpus group effects).\n',
+  labs(caption = paste0('M7 and its robustness fits: imperfect (document group effects).\n',
                         OR_CAPTION))
 p
 save_book_figure(p, 'fig_hif_robustness', height = 20)

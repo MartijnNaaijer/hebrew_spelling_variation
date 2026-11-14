@@ -90,6 +90,8 @@
 #   - Section 6 (teaching demo) is superseded by
 #     analysis/ch07_regression_illustrations/figures_ch07.R (book priors, median and
 #     equal-tailed intervals, one fit for Figs. 7.4 and 7.5b); kept for reference.
+# CHANGES 2026-11-14: "Corpus group" -> "Document group" in the effect labels and captions, as in the
+#   book text (figures not redrawn; not in the book).
 ################################################################################
 
 
@@ -662,7 +664,7 @@ write_csv(rownames_to_column(fixed_table, 'parameter'),
 CORPUS_COEF <- c('MT Pentateuch' = NA, 'MT Former Prophets' = 'MTFormerProphets',
                  'MT LBH' = 'MTLBH', 'MT other books' = 'MTotherbooks',
                  'Non-QSP' = 'NonMQSP', 'QSP' = 'QSP')
-EFFECT_LABELS <- c(corpus = 'Corpus group (vs MT Pentateuch)',
+EFFECT_LABELS <- c(corpus = 'Document group (vs MT Pentateuch)',   # as in the book text (2026-11-14)
                    has_suffix1 = 'Suffix or ending (vs none)',
                    has_prefix1 = 'Prefix (vs none)',
                    i_yod1 = 'I-yod verb (vs other verbs)',
@@ -861,7 +863,7 @@ write_csv(robustness, file.path(IMAGE_FOLDER, 'table_ptca_robustness.csv'))
 p <- plot_or(robustness, variant) +
   facet_wrap(~ effect_label, ncol = 2, labeller = label_wrap_gen(40)) +
   labs(caption = paste0('Ayin-ayin in M6 and its robustness fits: the effect in the MT Pentateuch\n',
-                        '(M6 has a corpus group x ayin-ayin interaction).\n', OR_CAPTION))
+                        '(M6 has a document group x ayin-ayin interaction).\n', OR_CAPTION))
 p
 save_book_figure(p, 'fig_ptca_robustness', height = 22)
 
