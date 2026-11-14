@@ -367,19 +367,26 @@ CORPUS_GROUP_COEF <- c('MT Pentateuch' = NA, 'MT Former Prophets' = 'MTFormerPro
                        'Non-QSP' = 'NonMQSP', 'QSP' = 'QSP',
                        '1QIsaa I' = '1QIsaaI', '1QIsaa II' = '1QIsaaII')
 NOUN_EFFECT_LABELS <- c(corpus = 'Corpus group (vs MT Pentateuch)',
+                        corpus_mt = 'Corpus (vs MT)',
                         has_suffix1 = 'Suffix (vs none)',
                         has_prefix1 = 'Prefix (vs none)')
 
 # For every model of NOUN_MODEL_SPECS from M2 on, and for the 1QIsaa split
 # (group = 'corpus_group_isa'). An affix without interaction gets one row,
 # 'All groups'.
-noun_total_effects <- function(model, group = 'corpus_group') {
+# group = NULL: corpus_group if the model has it, else corpus (M1: MT / SP /
+# non-QSP / QSP, effect 'corpus_mt', reference all of the MT; added 2026-11-14
+# for first_y, whose final model is M1).
+noun_total_effects <- function(model, group = NULL) {
+  if (is.null(group))
+    group <- if (!'corpus_group' %in% names(model$data) && 'corpus' %in% names(model$data)) 'corpus' else 'corpus_group'
+  corpus_effect <- if (group == 'corpus') 'corpus_mt' else 'corpus'
   d <- as_draws_df(model)
   coef_or_0 <- function(name) if (name %in% names(d)) d[[name]] else 0
   b_group <- paste0('b_', group)
   groups <- CORPUS_GROUP_COEF[names(CORPUS_GROUP_COEF) %in% levels(model$data[[group]])]
   corpus <- imap_dfr(groups[!is.na(groups)], function(g, name) {
-    if (paste0(b_group, g) %in% names(d)) tibble(effect = 'corpus', group = name,
+    if (paste0(b_group, g) %in% names(d)) tibble(effect = corpus_effect, group = name,
                                                   value = d[[paste0(b_group, g)]])
   })
   affixes <- map_dfr(c('has_suffix1', 'has_prefix1'), function(eff) {
@@ -461,8 +468,12 @@ noun_effects_not_in_final <- function(final_model, prefix) {
     out
   }
   affixes <- c('has_suffix1', 'has_prefix1')
+  # final model M1 (corpus MT / SP / non-QSP / QSP): from M2 only the MT groups
+  # vs the MT Pentateuch, which M1 does not distinguish
+  mt_groups <- c('MT Former Prophets', 'MT LBH', 'MT other books')
   out <- bind_rows(
-    from('M2', setdiff('corpus', final_effects)),
+    if ('corpus_mt' %in% final_effects) from('M2', 'corpus') |> filter(group %in% mt_groups)
+    else from('M2', setdiff('corpus', final_effects)),
     from('M3', setdiff(affixes, final_effects)),
     from('M6', setdiff(affixes, final_by_group))
   )
@@ -471,9 +482,10 @@ noun_effects_not_in_final <- function(final_model, prefix) {
 }
 
 noun_predicted <- function(model, data) {
-  vars <- intersect(c('corpus_group', 'has_suffix', 'has_prefix'),
+  vars <- intersect(c('corpus_group', 'corpus', 'has_suffix', 'has_prefix'),
                     all.vars(lme4::nobars(formula(model)$formula)))
-  grid <- if (length(vars) == 0) tibble(.row = 1) else
+  grid <- if (length(vars) == 0) tibble(.row = 1) else if (identical(vars, 'corpus'))
+    tibble(corpus = factor(levels(data$corpus), levels = levels(data$corpus))) else
     expand_grid(corpus_group = factor(CORPUS_GROUP_LEVELS, levels = CORPUS_GROUP_LEVELS),
                 has_suffix = factor(c('0', '1'), levels = levels(data$has_suffix)),
                 has_prefix = factor(c('0', '1'), levels = levels(data$has_prefix))) |>

@@ -27,6 +27,22 @@
 #     normal(0, 2.5) and exponential(1) instead of normal(mean, 5) and
 #     student_t, grouped 5-fold k-fold instead of Bayes factors, final model
 #     with credible effects only, odds ratios with quantile intervals.
+#
+# CHANGES 2026-11-14 (data release v1.4.0; author: clean data before the review):
+#   - XLB=/ (heleb 'fat', 177 forms) is no longer in the data. Its only full
+#     form, XJLB in 4Q130 at Exod. 13.5, is halab 'milk' (XLB/ in the MT),
+#     wrongly lemmatised in the DSS data; it is removed in the pipeline
+#     (AD_HOC_REMOVALS), and without it the lexeme has no variation, so the
+#     variation filter drops it. 599 forms of 22 lexemes instead of 776 / 23.
+#   - All models refitted with the file prefix na_firsty_d4_ (the na_firsty_
+#     fits on the old data stay). Robustness: M6 without GBWR/ (before: without
+#     GBWR/ and XLB=/).
+#   - Final model M1 instead of M0 (author, 2026-11-14). The k-fold no longer
+#     prefers M0: M0 is the worst model under three fold splits (seeds 2026, 1,
+#     2; -13.7, -9.7, -10.9 elpd), M1 and M2 tie. The old preference for M0 came
+#     from XLB=/ (M2 - M0 = -30.6 of -31.5, mostly SP Leviticus). New fits: M1
+#     without KTNT/, M1 without GBWR/, M1 with priors sd 1.5 and 4, and the
+#     k-fold of M0-M2 with fold seeds 1 and 2.
 ################################################################################
 
 
@@ -50,10 +66,10 @@ source(file.path(SHARED_DIR, 'functions.R'))
 source(file.path(ANALYSIS_DIR, 'functions_nouns.R'))
 
 TAG <- 'firsty'                  # figure and table names
-MODEL_PREFIX <- 'na_firsty_'     # model and k-fold files in MODEL_FOLDER
+MODEL_PREFIX <- 'na_firsty_d4_'  # model and k-fold files in MODEL_FOLDER (data v1.4.0)
 
 # ALLOW_FIT = FALSE: only load stored results; stop instead of fitting.
-ALLOW_FIT <- FALSE  # all fits stored (2026-10-20); TRUE only after approval
+ALLOW_FIT <- FALSE  # all fits stored (data v1.4.0, 2026-11-14); TRUE only after approval
 options(analysis_verbs.allow_fit = ALLOW_FIT)
 RUN_KFOLD <- TRUE
 
@@ -63,21 +79,21 @@ RUN_KFOLD <- TRUE
 dat_all <- read_nouns()
 dat <- noun_dataset(dat_all, DATASET_ID) |> add_affix_labels()
 
-dim(dat)                                   # 776 forms (data of 2026-10-19)
-n_distinct(dat$lex)                        # 23 lexemes (book: "23 {or 24?}")
+dim(dat)                                   # 599 forms (data v1.4.0; 776 before)
+n_distinct(dat$lex)                        # 22 lexemes (23 before)
 table(dat$corpus)
 table(dat$corpus_group, dat$has_vowel_letter)
 table(dat$corpus_group, dat$has_suffix)
 table(dat$corpus_group, dat$has_prefix)
-table(dat$scroll[dat$corpus == 'QSP'])     # 30 of the 40 QSP forms from 1QIsaa
+table(dat$scroll[dat$corpus == 'QSP'])     # 25 of the 32 QSP forms from 1QIsaa
 
-# Two lexemes make up almost half of the data and are almost always defective:
-# GBWR/ (191 forms, 2 full, both in SP) and XLB=/ (177 forms, 1 full).
-DOMINANT_LEXEMES <- c('GBWR/', 'XLB=/')
+# GBWR/ (191 forms, 2 full, both in SP) is almost a third of the data and
+# almost always defective. (Before data v1.4.0 also XLB=/, 177 forms.)
+DOMINANT_LEXEMES <- c('GBWR/')
 dat_no_dominant <- dat |> filter(!lex %in% DOMINANT_LEXEMES) |> droplevels()
 dat_no_1qisaa <- dat |> filter(!scroll %in% c('1QisaaI', '1QisaaII')) |> droplevels()
-# The SP effect of M1-M3 rests on KTNT/ (20 of the 27 parallels where SP is
-# fuller; SP vocalisation kittanet, §8.4.3.4): check fit of M2 without it.
+# The SP effect rests partly on KTNT/ (20 of the 27 parallels where SP is
+# fuller; SP vocalisation kittanet, §8.4.3.4): check fits of M1 and M2 without it.
 dat_no_ktnt <- dat |> filter(lex != 'KTNT/') |> droplevels()
 
 
@@ -151,7 +167,8 @@ dat |> filter(lex == 'KTNT/') |> count(corpus, full = is_full(has_vowel_letter))
 #     the SDs; prior sensitivity: the final model with sd 1.5 and 4.
 #   - Models (functions_nouns.R): M0 null; M1 corpus; M2 corpus_group; M3 M2 +
 #     has_suffix + has_prefix; M4 M3 + corpus_group x suffix; M5 M3 +
-#     corpus_group x prefix; M6 both interactions. The book's model is M0.
+#     corpus_group x prefix; M6 both interactions. The book's model is M0;
+#     the final model is M1 (data v1.4.0).
 #   - Model choice by grouped 5-fold k-fold and the credible-effects rules
 #     (no Bayes factors).
 #   - Small cells: 40 QSP and 48 non-QSP forms, so the corpus group x affix
@@ -202,10 +219,22 @@ if (RUN_KFOLD) {
   kfold_comparison <- kfold_table(kfolds)
   kfold_comparison
   write_csv(kfold_comparison, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_kfold.csv')))
+
+  # Fold sensitivity (2026-11-14): M0-M2 with two other random fold splits.
+  fold_seeds <- map_dfr(c(1, 2), function(s) {
+    set.seed(s)
+    folds_s <- loo::kfold_split_grouped(K = 5, x = as.character(dat$scr_book2))
+    kfold_table(map(set_names(c('M0', 'M1', 'M2')),
+                    \(id) kfold_lazy(model_file(id), paste0(MODEL_PREFIX, id, '_k5_seed', s), folds_s))) |>
+      mutate(seed = s, .before = 1)
+  })
+  fold_seeds <- bind_rows(kfold_table(kfolds[c('M0', 'M1', 'M2')]) |> mutate(seed = 2026, .before = 1), fold_seeds)
+  fold_seeds
+  write_csv(fold_seeds, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_kfold_fold_seeds.csv')))
 }
 
 # ---- 3d. Robustness ----
-# The fullest model M6 without the two dominant lexemes and without 1QIsaa,
+# The fullest model M6 without the dominant lexeme GBWR/ and without 1QIsaa,
 # so that every effect can be checked (rule 3(i)). With 30 forms, 1QIsaa is
 # not split into its two halves here.
 
@@ -215,16 +244,23 @@ robustness_specs <- list(
 )
 walk(robustness_specs, \(r) ensure_noun_model(r$file, model_specs$M6, r$data))
 ensure_noun_model(model_file('M2_no_KTNT'), model_specs$M2, dat_no_ktnt)
+# the final model M1 without each of the two lexemes behind its SP effect
+ensure_noun_model(model_file('M1_no_KTNT'), model_specs$M1, dat_no_ktnt)
+ensure_noun_model(model_file('M1_no_GBWR'), model_specs$M1, dat_no_dominant)
 
 # ---- 3e. Final model ----
 # Chosen after the k-fold with the credible-effects rules (analysis/README.md):
 # only credible effects (95% interval excludes 0) that the k-fold does not
 # clearly reject; see REPORT.md.
 
-# M0 (author, 2026-10-20): the only credible effect, SP vs MT Pentateuch in
-# M1-M3, is a lexeme effect of KTNT/ (rule 3(i)), and the k-fold clearly
-# prefers M0 (M2 -31.5, SE 6.2). No drop-one: M0 has no effects.
-FINAL_ID <- 'M0'
+# M1 (author, 2026-11-14; data v1.4.0). Before: M0 (2026-10-20), when the
+# k-fold clearly preferred M0 (M2 -31.5, SE 6.2), which came from XLB=/.
+# Now M0 is the worst model under every fold split, and M1 and M2 tie; M1 is
+# the simpler model with the same credible effect (rule 2: SP vs MT is
+# credible, so the corpus factor stays with all its levels). The SP effect
+# rests largely on two lexemes: GBWR/ (its only 2 full forms are in SP) and
+# KTNT/ (SP kytnwt); see the robustness check. Drop-one: M1 without corpus = M0.
+FINAL_ID <- 'M1'
 stopifnot('Choose the final model (FINAL_ID) after the k-fold' = !is.na(FINAL_ID))
 
 # Drop-one comparison (rule 4): the final model without each of its effects.
@@ -285,7 +321,7 @@ if (nrow(not_in_final) > 0) {
   not_in_final
   write_csv(not_in_final, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_effects_not_in_final_model.csv')))
   p <- effects_figure(not_in_final,
-                      caption = paste0('Not in the final model; estimates from M2 (corpus group), ',
+                      caption = paste0('Not in the final model; estimates from M2 (MT groups vs MT Pentateuch), ',
                                        'M3 (common affix effect) and M6 (affix effect per group).\n',
                                        OR_CAPTION),
                       colour = BOOK_GREY)
@@ -301,14 +337,16 @@ write_csv(predicted, file.path(IMAGE_FOLDER, paste0('table_', TAG, '_predicted.c
 
 # ---- 4d. Robustness and prior sensitivity ----
 # Total effects of M2 (all data, without KTNT/), of M6 (all data, without
-# GBWR/ and XLB=/, without 1QIsaa) and of the final model with priors sd 1.5
+# GBWR/, without 1QIsaa) and of the final model with priors sd 1.5
 # and 4 (only if it has effects).
 
 robust_files <- c('M2'                     = model_file('M2'),
                   'M2 without KTNT/'       = model_file('M2_no_KTNT'),
                   'M6'                     = model_file('M6'),
-                  'M6 without GBWR/ XLB=/' = model_file('M6_no_dominant'),
-                  'M6 without 1QIsaa'      = model_file('M6_no_1QIsaa'))
+                  'M6 without GBWR/'       = model_file('M6_no_dominant'),
+                  'M6 without 1QIsaa'      = model_file('M6_no_1QIsaa'),
+                  'M1 without KTNT/'       = model_file('M1_no_KTNT'),
+                  'M1 without GBWR/'       = model_file('M1_no_GBWR'))
 if (has_effects) {
   robust_files <- c(robust_files,
                     setNames(model_file(FINAL_ID), paste(FINAL_ID, '(final)')),

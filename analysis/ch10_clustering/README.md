@@ -12,7 +12,7 @@ Run from the repository root.
    `data/manifest.tsv` (not in the repository): the cleaned datasets of chapters 8 and 9 (six noun datasets,
    seven verb datasets). Nouns come from `read_nouns()` + `noun_dataset()`; each verb
    `analysis.R` is run only up to its section 2. Nothing is fitted. The counts equal
-   Table 6.1 (51,487 noun forms; verbs 5,716 / 1,200 / 2,186 / 963 / 414 / 3,437 / 2,248).
+   Table 6.1 (51,310 noun forms since data release v1.4.0, 51,487 before; verbs 5,716 / 1,200 / 2,186 / 963 / 414 / 3,437 / 2,248).
 2. `Rscript analysis/ch10_clustering/cluster_analysis.R` runs the three analyses (nouns and adjectives with
    SP, verbs, combined), the bootstrap (`CH10_B` replicates, default 1,000; `CH10_B=20` for a quick test), the
    grid of settings and the direct group tests (`CH10_BT` permutations, default 10,000), and writes
@@ -66,3 +66,8 @@ Run from the repository root.
   meet the rule (verbs 11Q5 + 1QIsaᵃ I + II, 97 percent, 36 of 36 settings; 11Q5 + 1QIsaᵃ II in the verb and
   combined analyses); MT Pentateuch and SP are cohesive in every profile; SP differs from MT Pentateuch
   (F = 8.9, p = 0.009); MT LBH is not cohesive (p ≥ 0.32); Trebolle's series do not differ.
+
+- 2026-11-14, data release v1.4.0 (XLB=/ removed from the nouns, see `../ch08_nouns_adjectives`): 51,310 noun
+  forms (51,487 before). The noun cluster 11Q5 + 1QIsaᵃ II + 4Q27 now meets the rule, narrowly (support 71
+  percent, 27 of 36 settings; before 69 percent, 26). MT Kings + Samuel (combined) 61 percent (56). SP vs MT
+  Pentateuch F = 8.8 (8.9), p = 0.009. No group test crosses 0.05; the verb results are unchanged.

@@ -78,6 +78,7 @@ AD_HOC_REMOVALS = {
     492388:	"SP	Numbers	23	24	LBJ>/	LBJH	LBJ	CCC: > has dropped",
     492643:	"SP	Numbers	24	9	LBJ>/	LBJH	LBJH: > has dropped",
     519944:	"SP	Deuteronomy	33	20	LBJ>/	LBJH	LBJ",
+    2065173: "4Q130	Exodus	13	5	XLB=/	XJLB	XJLB	CMCC REASON: milk (XLB/, as in MT), not fat; added 2026-11-14",
     493495:	"SP	Numbers	26	17	>R>LJ/	>RWLJ	>RWL: consonantal > has dropped",
     491737:	"SP	Numbers	22	30	<WD/	HWDK	HWD: g_cons has no <",
     246733: "MT Jeremiah 24 1 DWD=/ DWD>J DWD>: exceptional case with > at end",

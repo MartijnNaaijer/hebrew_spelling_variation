@@ -1,16 +1,16 @@
 analysis	feature	label	loading_pc1	loading_pc2	var_pc1	var_pc2
-nouns	final_w_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.2779666352710121	-0.07419281168832996	0.51312	0.12892
-nouns	final_w_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.6939063633408341	-0.36463518422377716	0.51312	0.12892
-nouns	final_y_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.012607824190317722	0.2251670056014794	0.51312	0.12892
-nouns	final_y_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.08715041781590628	0.2601327385772795	0.51312	0.12892
-nouns	first_w_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.4382417534605782	0.4049623010643363	0.51312	0.12892
-nouns	first_w_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.32749304896375725	0.4108492330257827	0.51312	0.12892
-nouns	first_y_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.03430686377697905	-0.08459587640829876	0.51312	0.12892
-nouns	first_y_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.008876821166699574	0.01925070198392685	0.51312	0.12892
-nouns	single_w_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.1828917904546112	0.41585734545368974	0.51312	0.12892
-nouns	single_w_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.31333095336731887	-0.4210812071886997	0.51312	0.12892
-nouns	single_y_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	0.03349085639487889	-0.0789635319064131	0.51312	0.12892
-nouns	single_y_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.01279588867814439	-0.21532956937876477	0.51312	0.12892
+nouns	final_w_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.278182181228291	-0.07619005622429566	0.51316	0.12854
+nouns	final_w_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.6939862585034523	-0.36104507606092895	0.51316	0.12854
+nouns	final_y_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.012651258864570213	0.2232415736035174	0.51316	0.12854
+nouns	final_y_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.08705080316109433	0.2531385646126751	0.51316	0.12854
+nouns	first_w_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.4380768804070753	0.4022703687091189	0.51316	0.12854
+nouns	first_w_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.32736929801972364	0.4173332938156319	0.51316	0.12854
+nouns	first_y_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.03306495895823319	-0.034580211133241154	0.51316	0.12854
+nouns	first_y_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.01509941148655759	0.059386772753659965	0.51316	0.12854
+nouns	single_w_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.18264172352269348	0.41887429442511814	0.51316	0.12854
+nouns	single_w_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.313379986034257	-0.42582066527790624	0.51316	0.12854
+nouns	single_y_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	0.033583773207155776	-0.07905527600725554	0.51316	0.12854
+nouns	single_y_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.012793418672419943	-0.21490890554982753	0.51316	0.12854
 verbs	hiphil_triliteral_s0	hiphil, no suffix	-0.0546939151646047	0.3158771318545737	0.77796	0.05886
 verbs	hiphil_triliteral_s1	hiphil, suffix	-0.1239418186177994	0.5063858489311643	0.77796	0.05886
 verbs	infa_qal	qal inf. abs.	-0.08950090392948576	0.12021951173271336	0.77796	0.05886
@@ -23,27 +23,27 @@ verbs	ptca_qal_s0	qal act. ptc., no suffix	-0.6193024823113072	0.488477851884038
 verbs	ptca_qal_s1	qal act. ptc., suffix	-0.6089250984332639	-0.5228563451484669	0.77796	0.05886
 verbs	ptcp_qal_s0	qal pass. ptc., no suffix	0.023177374139438527	-0.06193564958945142	0.77796	0.05886
 verbs	ptcp_qal_s1	qal pass. ptc., suffix	-0.1531486718231025	0.14717197577695493	0.77796	0.05886
-combined	final_w_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.17626022301022187	-0.09295452664297453	0.56566	0.06444
-combined	final_w_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.4846111850039194	-0.6930678935643894	0.56566	0.06444
-combined	final_y_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.0129786198586022	0.10145734417401696	0.56566	0.06444
-combined	final_y_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.05202743571009327	0.09721961278411907	0.56566	0.06444
-combined	first_w_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.2965529071451197	0.36387544366432145	0.56566	0.06444
-combined	first_w_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.2374785378807779	0.2021672656371259	0.56566	0.06444
-combined	first_y_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.013611684981414561	-0.026927733997880995	0.56566	0.06444
-combined	first_y_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	4.914432158810468e-4	-0.04799739292712432	0.56566	0.06444
-combined	hiphil_triliteral_s0	hiphil, no suffix	0.03826502824998848	-0.01443844001694488	0.56566	0.06444
-combined	hiphil_triliteral_s1	hiphil, suffix	0.05786789140024899	-0.037886854881742996	0.56566	0.06444
-combined	infa_qal	qal inf. abs.	0.06964954263547349	-0.03161501176432534	0.56566	0.06444
-combined	infc_qal_lamed_he_s0	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	0.02021439325116213	-0.06351229297159564	0.56566	0.06444
-combined	infc_qal_lamed_he_s1	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	0.02421408486205563	-0.06143315046328639	0.56566	0.06444
-combined	infc_qal_triliteral	qal inf. cs.	0.3246577607329225	0.09646342666748534	0.56566	0.06444
-combined	niph_hiph_pe_yod_s0	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	0.03515764485033203	-0.03586905188043518	0.56566	0.06444
-combined	niph_hiph_pe_yod_s1	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	0.0033863290299947883	0.022927014513813036	0.56566	0.06444
-combined	ptca_qal_s0	qal act. ptc., no suffix	0.45687785768764383	0.23964755758670697	0.56566	0.06444
-combined	ptca_qal_s1	qal act. ptc., suffix	0.39321687975120856	0.11267427606956801	0.56566	0.06444
-combined	ptcp_qal_s0	qal pass. ptc., no suffix	-0.009587313272462296	-0.012683077834014326	0.56566	0.06444
-combined	ptcp_qal_s1	qal pass. ptc., suffix	0.08094991664254798	-0.10299935319583045	0.56566	0.06444
-combined	single_w_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.18583408168494736	0.4087438004131326	0.56566	0.06444
-combined	single_w_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.253460601192127	-0.20078172299658192	0.56566	0.06444
-combined	single_y_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	0.023270773989289666	-0.012524850012922879	0.56566	0.06444
-combined	single_y_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.007411325533240393	-0.07041880727698234	0.56566	0.06444
+combined	final_w_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.17628939906386415	-0.09378765088811429	0.56616	0.0644
+combined	final_w_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.48459427081551343	-0.6943693533360282	0.56616	0.0644
+combined	final_y_s0	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.012984570570078659	0.099193664181433	0.56616	0.0644
+combined	final_y_s1	final syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.05202331357398613	0.09337297623807328	0.56616	0.0644
+combined	first_w_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.29652740936710326	0.3627594748291325	0.56616	0.0644
+combined	first_w_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.2374470818151492	0.2016466872263875	0.56616	0.0644
+combined	first_y_s0	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	-0.0152228531543999	-0.013800771309764058	0.56616	0.0644
+combined	first_y_s1	first syll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.0019325635954291973	-0.037580692729667374	0.56616	0.0644
+combined	hiphil_triliteral_s0	hiphil, no suffix	0.03825978499422013	-0.015076328138857353	0.56616	0.0644
+combined	hiphil_triliteral_s1	hiphil, suffix	0.05786046882774537	-0.03897197349284466	0.56616	0.0644
+combined	infa_qal	qal inf. abs.	0.06966276827130857	-0.031022034727572718	0.56616	0.0644
+combined	infc_qal_lamed_he_s0	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, no suffix	0.0202297851511408	-0.06349008278110457	0.56616	0.0644
+combined	infc_qal_lamed_he_s1	qal inf. cs. <span style=""font-family:'SBL Hebrew'"">‎ל״ה‎</span>, suffix	0.02421978089877192	-0.061180774020068385	0.56616	0.0644
+combined	infc_qal_triliteral	qal inf. cs.	0.3246520348593879	0.09681487733485958	0.56616	0.0644
+combined	niph_hiph_pe_yod_s0	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, no suffix	0.03514839485710685	-0.03690225709406228	0.56616	0.0644
+combined	niph_hiph_pe_yod_s1	<span style=""font-family:'SBL Hebrew'"">‎פ״י‎</span> verbs, suffix	0.003383075393650705	0.023033058654213217	0.56616	0.0644
+combined	ptca_qal_s0	qal act. ptc., no suffix	0.45688367749001996	0.24148537285677205	0.56616	0.0644
+combined	ptca_qal_s1	qal act. ptc., suffix	0.3931909707703018	0.11235077460502496	0.56616	0.0644
+combined	ptcp_qal_s0	qal pass. ptc., no suffix	-0.009592154117223856	-0.012713996445334635	0.56616	0.0644
+combined	ptcp_qal_s1	qal pass. ptc., suffix	0.08095376733946322	-0.1032447639051497	0.56616	0.0644
+combined	single_w_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, no suffix	0.185813885354127	0.41079555850526495	0.56616	0.0644
+combined	single_w_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎ו‎</span>, suffix	0.2534812845766736	-0.19882045785207508	0.56616	0.0644
+combined	single_y_s0	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, no suffix	0.023285213685077057	-0.012154351324194915	0.56616	0.0644
+combined	single_y_s1	monosyll. <span style=""font-family:'SBL Hebrew'"">‎י‎</span>, suffix	0.007417494225434616	-0.06856612245168373	0.56616	0.0644

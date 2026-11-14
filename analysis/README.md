@@ -50,21 +50,33 @@ permutations; default 10,000), `ISA_ONLY_DATA=1` (chapter 11 without models).
 
 ### Data versions of the stored fits
 
-The book uses data release v1.2.0 (commit `37b4f01`). That release corrected the suffix and ending coding of
+The book uses data release v1.4.0 (see below; until 14 November 2026 v1.2.0, commit `37b4f01`). Release v1.2.0 corrected the suffix and ending coding of
 some DSS forms after most models of chapters 8 and 9 had been fitted (on the data of 19 October 2026):
 
 - refitted on v1.2.0: the qal passive participle (`ptcp_d3_*`), all models of chapter 11 (`isa_d2_*`; the
   checks of 2026-11-13, `isa_p25_*` and `isa_pair_*`, are also fitted on v1.2.0), and the cleaned datasets of
   chapters 10 and 12;
 - fitted on v1.2.0: the three teaching models of chapter 7 (`ch07_teaching_*`);
-- unchanged model data: the infinitives (datasets identical), the five noun datasets other than `final_w`
-  and `single_w`, and the final pe-yod model (no suffix term);
+- unchanged model data: the infinitives (datasets identical), the noun datasets `final_y`, `single_y`,
+  `first_w` and `affix_types_mt`, and the final pe-yod model (no suffix term);
 - fitted on the earlier data and kept: the nouns `final_w` (2 DSS forms with another `has_suffix`) and
   `single_w` (9), the qal active participle (24) and the triliteral hiphil (8). Their final models were
   refitted on v1.2.0 as a check (`ch08_nouns_adjectives/tools/refit_m6_newdata.R`,
   `ch09_verbs/tools/refit_verbs_newdata.R`; fits `*_data20261103`); no effect changed credibility.
 
-The descriptive tables in `figures/` are computed from the v1.2.0 data.
+Data release v1.4.0 (2026-11-14) removes one DSS form: XJLB in 4Q130 at Exod. 13.5, lemmatised as XLB=/
+(heleb 'fat') but halab 'milk' (`AD_HOC_REMOVALS` in `preprocess_data/src/special_data.py`). It was the only full
+form of XLB=/, so the variation filter now drops the lexeme (177 forms). Only the noun dataset `first_y` changes
+(776 to 599 forms); everything else is identical to v1.2.0. Refitted or rerun on v1.4.0:
+
+- chapter 8 `first_y`: all models and k-folds (`na_firsty_d4_*`); the final model is now M1 (see
+  `ch08_nouns_adjectives/first_y/REPORT.md`);
+- chapter 11 first_y (`isa_d4_first_y`, `isa_p25_d4_first_y`, `isa_pair_d4_first_y`);
+- chapter 10: the cleaned datasets and the whole cluster analysis (nouns and combined change; verbs identical).
+
+Chapters 7, 9 and 12 use no noun data affected by the change.
+
+The descriptive tables in `figures/` are computed from the v1.2.0 data, those of `first_y` from v1.4.0.
 
 ### Choice of the final model (chapters 8 and 9)
 
