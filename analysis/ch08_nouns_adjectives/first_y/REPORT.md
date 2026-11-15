@@ -151,7 +151,7 @@ Tables: `table_firsty_fixed_effects.csv`, `table_firsty_effects.csv`,
 
 (`table_firsty_fixed_effects.csv` has posterior means: SP 4.64, sd(book)
 0.62, sd(lex:book) 6.17. The book tables use medians,
-`book_ch8/table_ch8_model_summaries.csv`.)
+`figures_ch8/table_ch8_model_summaries.csv`.)
 
 - **Predicted probability of full spelling** for a typical book and lexeme
   (`re_formula = NA`): MT 23% [7, 50], SP 97% [69, 100], non-QSP 4% [0, 37],

@@ -103,7 +103,7 @@ MT Pentateuch is the reference level of `corpus_group` in every model.
 ### Notes in the code
 
 Comments and REPORT files refer to decisions of the author with dates, and sometimes to working notes
-(`TODO.md`, `BOOK_CHANGES_*.md`, `KFOLD_ISSUE.md`) and earlier scripts (`*_cleaned.R`) that are
+(`TODO.md`, `KFOLD_ISSUE.md`) and earlier scripts (`*_cleaned.R`) that are
 not in the repository. The decisions themselves are described in the comments and REPORT files.
 
 ## Software

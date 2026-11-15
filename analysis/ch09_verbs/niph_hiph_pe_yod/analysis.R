@@ -51,7 +51,7 @@
 #   - The result comments in section 3d are updated to the refit (pey2_*,
 #     run of 2026-10-17/18).
 #
-# CHANGES 2026-10-19 (book figures for §9.8, BOOK_CHANGES_9.8.md):
+# CHANGES 2026-10-19 (book figures for §9.8):
 #   - Charis and Hebrew in SBL Hebrew (labels of fig_pey_stems_yod).
 #   - fig_pey_effects and table_pey_effects: tense contrasts with the
 #     imperfect (as in the book and the triliteral hiphil; author,
@@ -274,7 +274,7 @@ lexeme_books('JSP[', 'table_pey_jsp_books')
 lexeme_books('JBC[', 'table_pey_jbc_books')
 
 # ---- 2c3. Hiphil wayyiqtol by person, ending and suffix (descriptive; 2026-11-12) ----
-# For the sentence in section 9.8.5 (../BOOK_CHANGES_suchard.md): unlike the
+# For the sentence in section 9.8.5: unlike the
 # triliteral hiphil, the bare wayyiqtol (wayyoshev, stressed o) is in the data.
 # MT hiphil, imperfect vs wayyiqtol, without JSP[ (concentrated in bare
 # imperfects). Result (2026-11-12): bare 2nd/3rd person 75% (n = 135) vs 93%

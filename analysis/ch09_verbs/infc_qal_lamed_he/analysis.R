@@ -64,7 +64,7 @@
 #     2026-10-18); the history there keeps the old numbers (reference MT
 #     other books, sampler 2000/6000), marked as such.
 #
-# CHANGES 2026-10-19 (book figures for §9.5, BOOK_CHANGES_9.5.md):
+# CHANGES 2026-10-19 (book figures for §9.5):
 #   - Charis and Hebrew in SBL Hebrew; 'MT Other' instead of 'MT other books'
 #     (labels only); legends 'with/without pronominal suffix'; no model IDs
 #     in the labels and notes of fig_infc_lh_effects_not_in_final_model.

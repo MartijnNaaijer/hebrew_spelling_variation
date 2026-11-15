@@ -76,7 +76,7 @@
 #   - The result comments in section 3e and 4b are updated to the refit
 #     (ptcp_d2_*, run of 2026-10-17/18).
 #
-# CHANGES 2026-10-19 (book §9.3, BOOK_CHANGES_9.3.md; no fitting):
+# CHANGES 2026-10-19 (book §9.3; no fitting):
 #   - Book labels: endings in Hebrew (ENDING_LABELS_BOOK), ע״ע / ל״ה in SBL
 #     Hebrew, 'MT Other' in fig_ptcp_endings, fig_ptcp_effects and
 #     fig_ptcp_predicted; the CSV tables get plain labels (md_to_csv).

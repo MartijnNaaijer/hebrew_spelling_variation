@@ -354,8 +354,7 @@ without a suffix.
   (six new QSP forms, all full).
 - **Parallel passages.** The book's Table 9.54 is correct (19 MT-fuller, 18
   scroll-fuller); its summary text has the two numbers the wrong way round.
-  QSP: 13 vs 13 (book 13 vs 12; new: 1QIsaa Isa 37:10). See
-  `BOOK_CHANGES_9.7.md`.
+  QSP: 13 vs 13 (book 13 vs 12; new: 1QIsaa Isa 37:10).
 
 ## Points for the author
 

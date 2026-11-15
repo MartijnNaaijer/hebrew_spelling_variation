@@ -26,7 +26,7 @@ functions_nouns.R     data preparation shared by the noun analyses (read_nouns, 
   analysis.R          the complete analysis of the dataset
   REPORT.md           results and decisions
   figures/            tables (CSV); the figures are written here too, but are not in the repository
-book_ch8/             make_book_items.R: book figures and tables built from the CSV tables and the
+figures_ch8/          make_figures_ch8.R: chapter 8 figures and tables built from the CSV tables and the
                       stored final fits (nothing is fitted); table_ch8_model_summaries.csv
 checks/               convergence, credible terms and pointwise k-fold checks of the stored fits
 tools/                run_dataset.R (fitting run of one dataset), refit_m6_newdata.R (check of

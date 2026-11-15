@@ -59,7 +59,7 @@
 #   - Sampler: warmup 1000, iter 3000 (fit_model() default since 2026-10-17;
 #     the old fits used 2000/6000).
 #
-# CHANGES 2026-10-19 (book figures for §9.4, BOOK_CHANGES_9.4.md):
+# CHANGES 2026-10-19 (book figures for §9.4):
 #   - Charis and Hebrew in SBL Hebrew (heb_md()): אמר instead of "le'mor
 #     (>MR[)", ר in the guttural labels; 'MT Other' instead of 'MT other
 #     books' (labels only).
