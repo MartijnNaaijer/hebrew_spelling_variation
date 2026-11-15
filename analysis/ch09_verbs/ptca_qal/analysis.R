@@ -59,7 +59,7 @@
 #     the other verb forms; author, 2026-10-17). Medians and pd unchanged;
 #     the interval bounds change slightly.
 #
-# CHANGES 2026-10-19 (book section 9.2, BOOK_CHANGES_9.2.md):
+# CHANGES 2026-10-19 (book section 9.2):
 #   - Check model M7_iii_h (M7 + iii_h; fitted 2026-10-19 with the author's
 #     approval) and its k-fold: iii_h beta 0.50 [0.11, 0.87], pd 0.994, but
 #     -1.6 elpd (SE 3.0) against M7. M7 stays the final model.
@@ -69,7 +69,7 @@
 #     effect plus the M6 group differences); fig_ptca_predicted with
 #     'MT Other' and Hebrew labels.
 #
-# CHANGES 2026-11-03 (BOOK_CHANGES_9.9.md, decision E1 (a)):
+# CHANGES 2026-11-03 (decision of the author):
 #   - Robustness fit of M7_iii_h without ZNH[ (section 3d; 5674 forms): iii_h
 #     0.25 [-0.13, 0.64], pd 0.902, so it is no longer credible. The ל״ה effect is a lexeme
 #     effect of זנה (rule 3(i)); M7 stays the final model.
@@ -617,8 +617,8 @@ walk(robustness_specs, function(r) {
   }
 })
 
-# Check model M7_iii_h without ZNH[ (decision E1 (a), author 2026-11-03;
-# BOOK_CHANGES_9.9.md). ZNH[ has 42 forms, 29 of them full (the lexicalised
+# Check model M7_iii_h without ZNH[ (decision of the author,
+# 2026-11-03). ZNH[ has 42 forms, 29 of them full (the lexicalised
 # זוֹנָה). Fitted 2026-11-03 on 5674 forms: iii_h median 0.25, 95% [-0.13,
 # 0.64], pd 0.902; no longer credible, so the ל״ה effect is a lexeme effect of
 # זנה (rule 3(i)) and M7 stays the final model. Max Rhat 1.006, min bulk ESS

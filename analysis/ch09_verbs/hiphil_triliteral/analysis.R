@@ -53,7 +53,7 @@
 #     Sections 0-2 rerun: the form now matches its MT parallel (QSP both full
 #     282 -> 283) and XLM=[ has 2 forms in the lexeme table.
 #
-# CHANGES 2026-10-19 (book §9.7, BOOK_CHANGES_9.7.md; no fitting):
+# CHANGES 2026-10-19 (book §9.7; no fitting):
 #   - Exclusion of 4Q82 Amos 8:5 (NCBJM, a different reading) by passage
 #     instead of tf_id: the old tf_id 2044395 now belongs to 4Q82 Amos 4:7
 #     >MVJR (full), which was excluded by mistake, while Amos 8:5 stayed in.
@@ -78,7 +78,7 @@
 #
 # CHANGES 2026-11-12: new descriptive subsection 2g2 (wayyiqtol by person,
 #   ending and suffix; table_hif_wayq_form_groups.csv), for the Suchard
-#   additions to section 9.7 (../BOOK_CHANGES_suchard.md). No model changed.
+#   additions to section 9.7. No model changed.
 # CHANGES 2026-11-14: "Corpus group" -> "Document group" in the effect labels and captions, as in the
 #   book text. fig_hif_effects (Figure 9.45) redrawn from table_hif_effects.csv (no fitting).
 ################################################################################
@@ -348,7 +348,7 @@ save_book_figure(p, 'fig_hif_explore_first_letter', height = 9)
 
 # ---- 2g2. Wayyiqtol by person, ending and suffix (descriptive; 2026-11-12) ----
 # Check of the paradigm explanation of the defective wayyiqtol (Suchard 2020,
-# 91-94, 248; BOOK_CHANGES_suchard.md). MT only. The wayyiqtol forms with
+# 91-94, 248). MT only. The wayyiqtol forms with
 # hireq are those with a vocalic ending, a pronominal suffix or the 1st person;
 # the bare 3rd/2nd person forms have sere (dat_non_hireq) and are never written
 # with yod. Result (2026-11-12): wayyiqtol 55-60% full in each group, imperfect

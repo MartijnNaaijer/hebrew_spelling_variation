@@ -120,8 +120,8 @@ noun_dataset <- function(dat, id) {
     droplevels()
 }
 
-# Forms and lexemes per dataset (and per corpus), next to the counts in the
-# manuscript of 2026-09-10.
+# Forms and lexemes per dataset (and per corpus), next to the counts of the
+# datasets of 2026-09-10.
 noun_counts <- function(dat) {
   map_dfr(NOUN_DATASETS$id, function(id) {
     d <- noun_dataset(dat, id)
@@ -366,7 +366,7 @@ CORPUS_GROUP_COEF <- c('MT Pentateuch' = NA, 'MT Former Prophets' = 'MTFormerPro
                        'MT LBH' = 'MTLBH', 'MT other books' = 'MTotherbooks', 'SP' = 'SP',
                        'Non-QSP' = 'NonMQSP', 'QSP' = 'QSP',
                        '1QIsaa I' = '1QIsaaI', '1QIsaa II' = '1QIsaaII')
-NOUN_EFFECT_LABELS <- c(corpus = 'Corpus group (vs MT Pentateuch)',
+NOUN_EFFECT_LABELS <- c(corpus = 'Document group (vs MT Pentateuch)',
                         corpus_mt = 'Corpus (vs MT)',
                         has_suffix1 = 'Suffix (vs none)',
                         has_prefix1 = 'Prefix (vs none)')

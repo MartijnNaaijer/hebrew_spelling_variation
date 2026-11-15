@@ -34,7 +34,7 @@ NOUN_DATASETS <- tibble::tribble(
   'first_y',   'first',  'J',     '8.4.3',  'first syllable, optional yod'
 )
 
-# Counts in the manuscript of 2026-09-10 (forms, lexemes), for comparison only.
+# Counts of the datasets of 2026-09-10 (forms, lexemes), for comparison only.
 BOOK_COUNTS <- tibble::tribble(
   ~id,        ~book_forms, ~book_lexemes,
   'final_w',  19639,       376,
@@ -42,5 +42,5 @@ BOOK_COUNTS <- tibble::tribble(
   'single_w', 15334,       106,
   'single_y', 1197,        37,
   'first_w',  9741,        148,
-  'first_y',  787,         NA    # "23 {or 24?}" in the text
+  'first_y',  787,         NA
 )

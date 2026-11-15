@@ -1,5 +1,5 @@
 ################################################################################
-# Book items for chapter 8 (phase 3 of ../BOOK_PLAN_8.md), made 2026-11-03.
+# Figures and tables for chapter 8, made 2026-11-03.
 #
 # Figures and tables that the analysis scripts do not make, built from their
 # CSV tables and (for the model summaries only) from the stored final fits.
@@ -23,7 +23,7 @@
 #                               median and 95% quantile interval (Tables
 #                               8.10, 8.15, 8.20, 8.24, 8.32, 8.33)
 #
-# Run:  Rscript make_book_items.R [output folder]
+# Run:  Rscript make_figures_ch8.R [output folder]
 # With an output folder (for testing), everything goes there; without it,
 # figures go to the figures/ folder of their dataset and the table to this
 # folder.
@@ -44,7 +44,7 @@ args <- commandArgs(trailingOnly = TRUE)
 TEST_FOLDER <- if (length(args) > 0) args[1] else NA
 out_folder <- function(id) {
   if (!is.na(TEST_FOLDER)) TEST_FOLDER
-  else if (id == 'book') file.path(ANALYSIS_DIR, 'book_ch8')
+  else if (id == 'book') file.path(ANALYSIS_DIR, 'figures_ch8')
   else file.path(ANALYSIS_DIR, id, 'figures')
 }
 fig_csv <- function(id, tag, name) {
@@ -58,21 +58,21 @@ GROUP_LEVELS <- names(CORPUS_GROUP_COEF)
 for (d in list(c('final_w', 'finalw'), c('single_w', 'singlew'), c('first_w', 'firstw'))) {
   effects <- fig_csv(d[1], d[2], 'effects') |>
     mutate(group = factor(group, levels = rev(c(GROUP_LEVELS, 'All groups'))),
-           effect_label = factor(effect_label, levels = NOUN_EFFECT_LABELS))
+           effect_label = factor(NOUN_EFFECT_LABELS[effect], levels = NOUN_EFFECT_LABELS))
   save_book_figure(effects_figure(effects), paste0('fig_', d[2], '_effects'), height = 12,
                    folder = out_folder(d[1]))
 }
 # first_y (data v1.4.0): final model M1, one effect (corpus vs the MT)
 effects <- fig_csv('first_y', 'firsty', 'effects') |>
   mutate(group = factor(group, levels = rev(GROUP_LEVELS)),
-         effect_label = factor(effect_label, levels = NOUN_EFFECT_LABELS))
+         effect_label = factor(NOUN_EFFECT_LABELS[effect], levels = NOUN_EFFECT_LABELS))
 save_book_figure(effects_figure(effects), 'fig_firsty_effects', height = 5, folder = out_folder('first_y'))
 
 # ---- 1b. Effects not in the final model (final_y, single_y, first_y) ----------
 # The analysis scripts draw these with a one-line note that runs off the right
 # edge; redrawn with the note on separate lines and with the noun breaks.
 
-NOT_IN_FINAL_CAPTION <- paste0('Not in the final model; estimates from M2 (corpus group),\n',
+NOT_IN_FINAL_CAPTION <- paste0('Not in the final model; estimates from M2 (document group),\n',
                                'M3 (common affix effect) and M6 (affix effect per group).\n',
                                OR_CAPTION)
 NOT_IN_FINAL_CAPTION_FIRSTY <- paste0('Not in the final model; estimates from M2 (MT groups vs MT Pentateuch),
@@ -84,7 +84,7 @@ for (d in list(c('final_y', 'finaly'), c('single_y', 'singley'), c('first_y', 'f
   caption <- if (d[1] == 'first_y') NOT_IN_FINAL_CAPTION_FIRSTY else NOT_IN_FINAL_CAPTION
   effects <- fig_csv(d[1], d[2], 'effects_not_in_final_model') |>
     mutate(group = factor(group, levels = rev(c(GROUP_LEVELS, 'All groups'))),
-           effect_label = factor(effect_label, levels = NOUN_EFFECT_LABELS))
+           effect_label = factor(NOUN_EFFECT_LABELS[effect], levels = NOUN_EFFECT_LABELS))
   save_book_figure(effects_figure(effects, caption = caption, colour = BOOK_GREY),
                    paste0('fig_', d[2], '_effects_not_in_final_model'), height = 14,
                    folder = out_folder(d[1]))

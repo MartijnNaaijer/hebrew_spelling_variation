@@ -40,8 +40,8 @@ intervals instead of HDI.*
 
 The book's predictor `has_suffix` is 1 when the participle has a pronominal
 suffix or a nominal ending. Two decisions about what counts as an ending
-(author, 2026-10-16) change the data with respect to the version used in
-the manuscript of 2026-09-10:
+(author, 2026-10-16) change the data with respect to the version of
+2026-09-10:
 
 1. **A feminine singular whose "ending" is only the last root letter has no
    ending.** In these forms nothing is added to the masculine: the letters,
